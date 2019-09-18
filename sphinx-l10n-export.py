@@ -87,6 +87,10 @@ for cur in lang:
             
             print(">> cur_section", cur_section)
             continue
+            
+        # swy: skip empty cells
+        if not row[MARKER_HASHCODE]:
+            continue
 
         # swy: export it in this 'simple' format:
         #      https://docs.transifex.com/formats/chrome-json
