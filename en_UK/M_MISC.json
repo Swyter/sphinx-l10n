@@ -1,24 +1,4 @@
 {
-  "HT_Text_NeedSaltCrystal": {
-    "message": "You need a salt crystal to open this door. <E>",
-    "description": "SphinxText.xls, row 6"
-  },
-  "HT_Text_CanUseSaltCrystal": {
-    "message": "Use your salt crystal to open this door. <E>",
-    "description": "SphinxText.xls, row 7"
-  },
-  "HT_Text_UsedSaltCrystal": {
-    "message": "Salt crystal used. <E>",
-    "description": "SphinxText.xls, row 8"
-  },
-  "HT_Text_TestText": {
-    "message": "This is some text. <E>",
-    "description": "SphinxText.xls, row 9"
-  },
-  "HT_Text_MKTest1": {
-    "message": "Just a test <E>",
-    "description": "SphinxText.xls, row 10"
-  },
   "HT_Text_DanTest": {
     "message": "Dan's test text.<E>",
     "description": "SphinxText.xls, row 11"
@@ -107,14 +87,6 @@
     "message": "If you cannot complete the test, you cannot attempt the gauntlet. Come back when you think you can succeed... <E>",
     "description": "SphinxText.xls, row 33"
   },
-  "HT_Text_MG_WallDodge_HerbTrial": {
-    "message": "Ahh, I see you are looking for <FC 0,128,0>Healing Herbs<END FC>.<P>If you can complete the first wall gauntlet in under 50 seconds, I'll give you a herb.<P>  <B 1> OK<N>  <B 2> Later<E>",
-    "description": "SphinxText.xls, row 34"
-  },
-  "HT_Text_MG_WallDodge_WonHerbs": {
-    "message": "Great time! You did it in <SO HT_Objective_WallDodge_Time> seconds, so here's the <FC 0,128,0>Healing Herb<END FC> I promised.<E>",
-    "description": "SphinxText.xls, row 35"
-  },
   "HT_Text_MG_WallDodge_NoMoney": {
     "message": "What are you trying to pull? You don't have 10 <FC 0,128,0>Scarabs<END FC>.<E>",
     "description": "SphinxText.xls, row 36"
@@ -122,30 +94,6 @@
   "HT_Text_MG_WallDodge_GameComplete": {
     "message": "You mastered the gauntlet! You are a true champion!<P>Here is the <FC 0,128,0>Medal of Champions<END FC>, awarded only to those who manage to beat the gauntlet.<E>",
     "description": "SphinxText.xls, row 37"
-  },
-  "HT_Text_MG_Racing_Choose": {
-    "message": "Welcome to the races! To sprint race tap SQUARE and CIRCLE as fast as you can. Frogs can jump obstacles that slow them down with the X button.<P>Which race would you like to attempt?<N><B 1>Armadillo race<N><B 2>Frog race<E>",
-    "description": "SphinxText.xls, row 39"
-  },
-  "HT_Text_MG_Racing_Won1": {
-    "message": "Well done, you won!<N>You could have been faster though.<P>Your best time was <SO HT_Objective_Racing_BestTime_1> seconds. Try to beat it next time.<E>",
-    "description": "SphinxText.xls, row 40"
-  },
-  "HT_Text_MG_Racing_Won2": {
-    "message": "Well done, you won!<N>You could have been faster though.<P>Your best time was <SO HT_Objective_Racing_BestTime_2> seconds. Try to beat that!<E>",
-    "description": "SphinxText.xls, row 41"
-  },
-  "HT_Text_MG_Racing_Won_HighScore": {
-    "message": "Fantastic! You set a new record!<E>",
-    "description": "SphinxText.xls, row 42"
-  },
-  "HT_Text_MG_Racing_Lost": {
-    "message": "You lost the race! Better luck next time.<E>",
-    "description": "SphinxText.xls, row 43"
-  },
-  "HT_Text_MG_Racing_HighScores": {
-    "message": "<DP><END TT>Armadillo race: Position <SO HT_Objective_Racing_HighScore_1>, <SO HT_Objective_Racing_BestTime_1><N>Frog race: Position <SO HT_Objective_Racing_HighScore_2>, <SO HT_Objective_Racing_BestTime_2><E>",
-    "description": "SphinxText.xls, row 44"
   },
   "HT_Text_MG_Shooting_Start": {
     "message": "Welcome to <FC 128,64,0>Tefnut's Target Tavern<END FC>. It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>",
@@ -174,18 +122,6 @@
   "HT_Text_MG_Shooting_HighScores": {
     "message": "<DP><DHP><END TT>Your best score is: <FC 0,128,0><SO HT_Objective_Shooting_Score1> points<END FC>!",
     "description": "SphinxText.xls, row 52"
-  },
-  "HT_Text_MG_Shooting_HerbTrial": {
-    "message": "Ahh, I see you are looking for <FC 0,128,0>Healing Herbs<END FC>.<P>If you can get more than 25 points, I'll give you a herb.<P>  <B 1> OK<N>  <B 2> Later<E>",
-    "description": "SphinxText.xls, row 53"
-  },
-  "HT_Text_MG_Shooting_WonHerbs": {
-    "message": "Great stuff! You scored <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> points<END FC>, so here's the <FC 0,128,0>Healing Herb<END FC> I promised.<E>",
-    "description": "SphinxText.xls, row 54"
-  },
-  "HT_Text_MG_Shooting_NotWonHerbs": {
-    "message": "You only got <SO HT_Objective_Shooting_CurrScore> points. You won't be having my herb!<E>",
-    "description": "SphinxText.xls, row 55"
   },
   "HT_Text_MG_Shooting_NoMoney": {
     "message": "I said <FC 0,128,0>10 Scarabs<END FC>, that's not <FC 0,128,0>10 Scarabs<END FC>! You don't have enough, do you?<E>",
@@ -239,14 +175,6 @@
     "message": "Oh no you don't! You only get two views per sequence!<E>",
     "description": "SphinxText.xls, row 69"
   },
-  "HT_Text_MG_Simon_HerbTrial": {
-    "message": "Ahh I see you are looking for <FC 0,128,0>Healing Herbs<END FC>.<P>If you can complete the Simon game, I'll give you a herb.<P>  <B 1> OK<N>  <B 2> Later<E>",
-    "description": "SphinxText.xls, row 70"
-  },
-  "HT_Text_MG_Simon_WonHerbs": {
-    "message": "Good game, good game! Here's the <FC 0,128,0>Healing Herb<END FC> I promised.<E>",
-    "description": "SphinxText.xls, row 71"
-  },
   "HT_Text_MG_Simon_NoMoney": {
     "message": "Wait, you don't have enough <FC 0,128,0>Scarabs<END FC>. Come back when you have enough to play.<E>",
     "description": "SphinxText.xls, row 72"
@@ -283,25 +211,9 @@
     "message": "Use your <FC 0,128,0>Blowpipe<END FC> to shoot open the doors at the end of the room.<P>Match each pair of items behind the doors to win.<E>",
     "description": "SphinxText.xls, row 81"
   },
-  "HT_Text_MG_Pairs_HerbTrial": {
-    "message": "Ahh, I see you are looking for <FC 0,128,0>Healing Herbs<END FC>.<P>If you can complete the pairs game in less than two minutes, I might give you a herb.<P>  <B 1> OK<N>  <B 2> Later<E>",
-    "description": "SphinxText.xls, row 82"
-  },
-  "HT_Text_MG_Pairs_WonHerbs": {
-    "message": "Well done! You did it in <SO HT_Objective_Pairs_HighScore> seconds. I suppose you deserve this herb.<E>",
-    "description": "SphinxText.xls, row 83"
-  },
-  "HT_Text_MG_Pairs_NotWonHerbs": {
-    "message": "It took you <SO HT_Objective_Pairs_HighScore> seconds. No way am I giving you a herb for that effort!<E>",
-    "description": "SphinxText.xls, row 84"
-  },
   "HT_Text_MG_Pairs_NoBlowpipe": {
     "message": "Sorry, but you can't play unless you have a <FC 0,128,0>Blowpipe<END FC>.<E>",
     "description": "SphinxText.xls, row 85"
-  },
-  "HT_Text_MG_Pairs_WonParasol": {
-    "message": "Well done, you won! As a prize you can have this beautiful <FC 0,128,0>Parasol<END FC>, perfect for a sunny day!<E>",
-    "description": "SphinxText.xls, row 86"
   },
   "HT_Text_MG_Pairs_RestartPay": {
     "message": "It'll cost you another <FC 0,128,0>10 Scarabs<END FC>...<N>  <B 1> OK, restart<N>  <B 2> No, carry on playing<E>",
@@ -531,25 +443,13 @@
     "message": "A Goofy Lizard! It\u2019s a daft but friendly animal.",
     "description": "SphinxText.xls, row 145"
   },
-  "HT_Text_Museum_Name_BR05_Dino_Oaf": {
-    "message": "A Dino Oaf! A friendly herbivore with great strength.",
-    "description": "SphinxText.xls, row 146"
-  },
   "HT_Text_Museum_Name_BR06_Half_Brute": {
     "message": "A Half Brute! A shockingly aggressive monster.",
     "description": "SphinxText.xls, row 147"
   },
-  "HT_Text_Museum_Name_BU01_Mummy_Minotaur": {
-    "message": "A Mummy Minotaur! A massive fire-breathing beast to be wary of.",
-    "description": "SphinxText.xls, row 148"
-  },
   "HT_Text_Museum_Name_BU02_Skeletal_Axeman": {
     "message": "A Skeletal Axeman! Lethal foot soldier from the dark side.",
     "description": "SphinxText.xls, row 149"
-  },
-  "HT_Text_Museum_Name_BU03_zombie_man": {
-    "message": "A Zombie! Formerly a man, but now undead.",
-    "description": "SphinxText.xls, row 150"
   },
   "HT_Text_Museum_Name_BU05_almost_a_bull": {
     "message": "Almost-A-Bull! Uses its horns to violent effect.",
@@ -634,10 +534,6 @@
   "HT_Text_Museum_Name_QU01_Skeletal_Spider": {
     "message": "A Skeletal Spider! Head butts enemies into submission. ",
     "description": "SphinxText.xls, row 171"
-  },
-  "HT_Text_Museum_Name_QU02_Skeletal_Armadillo": {
-    "message": "An Armadillo! Shelled creature with a spin attack.",
-    "description": "SphinxText.xls, row 172"
   },
   "HT_Text_Museum_Name_QU04_Mummy_Chihuahua": {
     "message": "A Mummy Chihuahua! A pet that\u2019s now undead.",
@@ -967,29 +863,13 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Abydos Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The oceanic symbols on this ancient<N>artifact indicate transport to Abydos.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 256"
   },
-  "HT_Text_Gen_Help_GotPortalAmuletAkaria01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Akaria Portal Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This ancient artifact was crafted<N>to honor the Portal God.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 257"
-  },
   "HT_Text_Gen_Help_GotPortalAmuletHeliopolis01": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Heliopolis Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The sand etched symbols on this ancient <N>artifact indicate transport to Heliopolis.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 258"
   },
-  "HT_Text_Gen_Help_GotPortalAmuletSakkara01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sakkara Portal Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This ancient artifact was crafted<N>to honor the Portal God.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 259"
-  },
-  "HT_Text_Gen_Help_GotPortalAmuletUruk01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Uruk Portal Amulet<END FC>!<P><CNTR>An ancient artifact crafted to honor the Portal God, so he will allow safe passage to <FC 128,64,0>Uruk<END FC>.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 260"
-  },
   "HT_Text_Gen_Help_GotPortalAmuletDarkArea01": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Anubis Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The symbols on this ancient artifact<N>indicate transport to Anubis Tower.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 261"
-  },
-  "HT_Text_Gen_Help_GotPortalAmuletDarkArea03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Uruk Valley Portal Amulet<END FC>!<P><CNTR>An ancient artifact crafted to honor the Portal God, so he will allow safe passage to <FC 128,64,0>Uruk Valley<END FC>.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 262"
   },
   "HT_Text_Gen_Help_Portal_HaveAmulet": {
     "message": "Show me your <FC 0,128,0>Portal Amulet<END FC>, small one, and I shall open the gates to your destiny.<E>",

@@ -95,8 +95,8 @@ for cur in lang:
             continue
             
         # swy: this string/row is marked as old/deprecated/dead/obsolete
-        # if row[DEAD_TEXT_COLUMN] and int(row[DEAD_TEXT_COLUMN]) == 1:
-            # continue
+        if row[DEAD_TEXT_COLUMN] and int(row[DEAD_TEXT_COLUMN]) == 1:
+            continue
 
         # swy: export it in this 'simple' format:
         #      https://docs.transifex.com/formats/chrome-json

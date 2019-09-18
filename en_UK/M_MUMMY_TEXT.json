@@ -1,68 +1,4 @@
 {
-  "HT_Text_Mum_Test_Chain": {
-    "message": "Chain Noise Distraction Test<P>Jump into the hanging chain to attract the guard then circle around to avoid him.<E><W 60>",
-    "description": "SphinxText.xls, row 406"
-  },
-  "HT_Text_Mum_Test_Clone": {
-    "message": "Bas-Ket Clone Test<P>Clone the sleeping guard with Bas-Ket to pass the two guards.<E><W 60>",
-    "description": "SphinxText.xls, row 407"
-  },
-  "HT_Text_Mum_Test_Footprints": {
-    "message": "Footprint Test<P>Jump into the chain to attract the guard, then leave a footprint trail for him to follow while you escape.<E><W 60>",
-    "description": "SphinxText.xls, row 408"
-  },
-  "HT_Text_Mum_Test_Crawl": {
-    "message": "Crawling Test<P>Crawl under the windows to avoid being detected.<E><W 60>",
-    "description": "SphinxText.xls, row 409"
-  },
-  "HT_Text_Mum_Test_CrawlSpace": {
-    "message": "Crawlspace Test<P>Use the crawlspaces to bypass the guards in the corridor.<E><W 60>",
-    "description": "SphinxText.xls, row 410"
-  },
-  "HT_Text_Mum_Test_NoisySurface": {
-    "message": "Noisy Surfaces Test<P>Walk slowly over the stones and avoid the creaky floorboards to prevent the guard waking up.<E><W 60>",
-    "description": "SphinxText.xls, row 411"
-  },
-  "HT_Text_Mum_Test_FastNoisySurface": {
-    "message": "",
-    "description": "SphinxText.xls, row 412"
-  },
-  "HT_Text_Mum_Test_WallSneak": {
-    "message": "Wall Sneak Test<P>Step against the wall to enter wall sneak mode, then cross the thin ledge.<E><W 60>",
-    "description": "SphinxText.xls, row 413"
-  },
-  "HT_Text_Mum_Test_RotatingWall": {
-    "message": "Rotating Wall Test<P>Use the rotating wall to bypass the guard.<E><W 60>",
-    "description": "SphinxText.xls, row 414"
-  },
-  "HT_Text_Mum_Test_SecurityCamera": {
-    "message": "Security Camera Test<P>Avoid the field of view of the moving security cameras.<E><W 60>",
-    "description": "SphinxText.xls, row 415"
-  },
-  "HT_Text_Mum_Test_HieroglyphHide": {
-    "message": "",
-    "description": "SphinxText.xls, row 416"
-  },
-  "HT_Text_Mum_Test_Hide": {
-    "message": "Hiding Tests<P>Hide in the hieroglyph or sarcophagus to avoid detection.<E><W 60>",
-    "description": "SphinxText.xls, row 417"
-  },
-  "HT_Text_Mum_Test_SarcophagusTeleport": {
-    "message": "Sarcophagus Teleport Test<P>Use the sarcophagus to teleport you to the higher level.<E><W 60>",
-    "description": "SphinxText.xls, row 418"
-  },
-  "HT_Text_Mum_Test_SarcophagusHide": {
-    "message": "",
-    "description": "SphinxText.xls, row 419"
-  },
-  "HT_Text_Mum_Test_BlockPushKill": {
-    "message": "Block Push Kill Enemy Test<P>Push the box onto the enemy to dispose of him.<E><W 60>",
-    "description": "SphinxText.xls, row 420"
-  },
-  "HT_Text_Mum_Test_FreezeTime": {
-    "message": "Freeze Time Test<P>Put the hourglass on the pedestal then use the pedestal to freeze time and allow you to pass the guards.<E><W 60>",
-    "description": "SphinxText.xls, row 421"
-  },
   "HT_Text_Mum_Test_SarcophagusLocked": {
     "message": "<DHP><DP><ES HT_Text_ES_S_HelpText><N><CNTR>This sarcophagus is locked.<ES HT_Text_ES_S_HelpText><W 30>",
     "description": "SphinxText.xls, row 422"
@@ -118,10 +54,6 @@
   "HT_Text_Mum_Sewr_Sarcophagus_Complete02": {
     "message": "Anyway, I gave my word so here is your reward. Hope you can find some use for it! <W 90>",
     "description": "SphinxText.xls, row 437"
-  },
-  "HT_Text_Mum_Sewr_Sarcophagus_Complete03": {
-    "message": "Hope you can find some use for that!<E>",
-    "description": "SphinxText.xls, row 438"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1a": {
     "message": "Arghhhhhhhh!!!!!! I don't believe it! Defeated by a juvenile that I don't even know! The magical device has returned us to the dark castle!<E>",

@@ -471,50 +471,6 @@
     "message": "Muahahaha!!!<P>Muahahaha!!!<P>This party is going to be the best this palace has ever seen!<E>",
     "description": "SphinxText.xls, row 2023"
   },
-  "HT_Text_Lux_Palace_AkhenatenHU16_Preparing01": {
-    "message": "I want you all to be ready to use the warping sarcophagi to enter the palace when the party begins.<P>We must overrun the palace quickly.<P>Tonight, the throne will finally be mine!<E>",
-    "description": "SphinxText.xls, row 2024"
-  },
-  "HT_Text_Lux_Palace_AkhenatenHU16_Capture01": {
-    "message": "Ahh, my dear brother! What a pleasant surprise!<P>And after I had prepared such a wonderful party for you tonight.<P>Thanks for your help. I didn't think you would fall into my hands so soon.<P>Guards, seize him!<E>",
-    "description": "SphinxText.xls, row 2025"
-  },
-  "HT_Text_Lux_Palace_AkhenatenHU16_GoOutside": {
-    "message": "There you are brother, I've been looking everywhere for you.<P>The beautiful Nefertiti is outside waiting for you. Here is the key, why don't you go and meet her?<E>",
-    "description": "SphinxText.xls, row 2026"
-  },
-  "HT_Text_Lux_Palace_AkhenatenHU16_GoOutsideAgain": {
-    "message": "I don't recommend keeping Nefertiti waiting much longer, brother.<E>",
-    "description": "SphinxText.xls, row 2027"
-  },
-  "HT_Text_Lux_Palace_ServantHU03_LostItemsIntro": {
-    "message": "I'm afraid someone has been interfering with your <FC 0,128,0>trophy<END FC> collection, sire. I can't find them anywhere.<P>I know you wanted them on display for the party, so can you help me find them?<E>",
-    "description": "SphinxText.xls, row 2028"
-  },
-  "HT_Text_Lux_Palace_ServantHU03_LostItemsNotFound": {
-    "message": "There are still <FC 0,128,0><SO HT_Objective_Lux_Palace_ServantQuestItemsRemaining><END FC> more trophies missing, sire.<E>",
-    "description": "SphinxText.xls, row 2029"
-  },
-  "HT_Text_Lux_Palace_ServantHU03_LostItemsNotFoundOne": {
-    "message": "There is still <FC 0,120,0><SO HT_Objective_Lux_Palace_ServantQuestItemsRemaining><END FC> last trophy missing, sire.<E>",
-    "description": "SphinxText.xls, row 2030"
-  },
-  "HT_Text_Lux_Palace_ServantHU03_LostItemsFound": {
-    "message": "Excellent! That's all of the trophies returned.<P>Here is the key to the trophy room. I'm sure you'll want to arrange them yourself.<E>",
-    "description": "SphinxText.xls, row 2031"
-  },
-  "HT_Text_Lux_Palace_ServantHU03_LostItemsComplete": {
-    "message": "Thank you for your help finding the trophies, sire.<E>",
-    "description": "SphinxText.xls, row 2032"
-  },
-  "HT_Text_Lux_Palace_ServantHU03_Background01": {
-    "message": "We have removed the tapestry so it can be cleaned, sire. When we took it down we found it was covering a large hole in the wall!<P>The palace is very old and has undergone many changes over the years. Do not worry sire, we will have things repaired in time for the ceremony.<E>",
-    "description": "SphinxText.xls, row 2033"
-  },
-  "HT_Text_Lux_Palace_ServantHU03_Background02": {
-    "message": "I am sure we will have everything repaired in time for the ceremony, sire.<E>",
-    "description": "SphinxText.xls, row 2034"
-  },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFound": {
     "message": "Oh, you are so kind, nephew. But I'm afraid there are still<N><FC 0,128,0><SO HT_Objective_Lux_Palace_SetiQuestItemsRemaining><END FC> more amulets missing.<E>",
     "description": "SphinxText.xls, row 2035"
@@ -534,22 +490,6 @@
   "HT_Text_Lux_Palace_MenesHU09_Plotting02": {
     "message": "A very wise precaution, sir.<E>",
     "description": "SphinxText.xls, row 2039"
-  },
-  "HT_Text_Lux_Palace_MenesAssistantHU09_Chat01": {
-    "message": "I'm fed up of waiting down here! It's about time we got started.<E>",
-    "description": "SphinxText.xls, row 2040"
-  },
-  "HT_Text_Lux_Palace_MenesAssistantHU09_Chat02": {
-    "message": "Be quiet! The boss said we have to wait here until the party gets under way.<E>",
-    "description": "SphinxText.xls, row 2041"
-  },
-  "HT_Text_Lux_Palace_MenesAssistantHU09_Chat03": {
-    "message": "Hey, an intruder! Grab him!<E>",
-    "description": "SphinxText.xls, row 2042"
-  },
-  "HT_Text_Lux_Palace_MenesAssistantHU09_Chat04": {
-    "message": "Hehehe, boss <FC 128,0,0>Akhenaten<END FC> will be pleased!<E>",
-    "description": "SphinxText.xls, row 2043"
   },
   "HT_Text_Lux_Pala_Read_TreasureRoom": {
     "message": "<N><CNTR>---[ <FC 128,64,0>Treasure Room<END FC> ]---<E>",
@@ -595,17 +535,9 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found <FC 0,128,0>Nefertiti's Letter<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>",
     "description": "SphinxText.xls, row 2055"
   },
-  "HT_Text_Lux_Palace_Help_FoundTrophy": {
-    "message": "<N><CNTR>You found a <FC 0,128,0>Trophy<END FC>!<E><W 30>",
-    "description": "SphinxText.xls, row 2056"
-  },
   "HT_Text_Lux_Palace_Help_FoundSarcophagusKey": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR><N>You found the <FC 0,128,0>Sarcophagus Key<END FC>!<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 2057"
-  },
-  "HT_Text_Lux_Palace_Help_FoundPalaceKey": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Trophy Room Key<END FC>!<E><W 30>",
-    "description": "SphinxText.xls, row 2058"
   },
   "HT_Text_Lux_Palace_Help_FoundAmulet": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found an <FC 0,128,0>Old Amulet<END FC>!<ES HT_Text_ES_S_HelpText><E>",
@@ -614,9 +546,5 @@
   "HT_Text_Lux_Palace_Help_FoundCourtyardKey": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Courtyard Key<END FC><ES HT_Text_ES_S_HelpText>!<E>",
     "description": "SphinxText.xls, row 2060"
-  },
-  "HT_Text_Lux_Palace_Help_FoundTreasureChamberKey": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Treasure Chamber Key<END FC>!<W 60>",
-    "description": "SphinxText.xls, row 2061"
   }
 }

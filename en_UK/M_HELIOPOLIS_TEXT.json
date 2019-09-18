@@ -1,40 +1,4 @@
 {
-  "HT_Text_Hel_Exterior_Trader_Welcome1a": {
-    "message": "Welcome to Ali Ba-Ba's fantabulous item emporium!<E>",
-    "description": "SphinxText.xls, row 539"
-  },
-  "HT_Text_Hel_Exterior_Trader_Welcome1b": {
-    "message": "If we haven't got it you don't need it! Let me know if you see anything you are interested in.<W 60>",
-    "description": "SphinxText.xls, row 540"
-  },
-  "HT_Text_Hel_Exterior_Trader_Bought": {
-    "message": "A fine choice sir, thank you for your custom.<E>",
-    "description": "SphinxText.xls, row 541"
-  },
-  "HT_Text_Hel_Exterior_Trader_NotBought": {
-    "message": "Very well, come back anytime if you change your mind.<E>",
-    "description": "SphinxText.xls, row 542"
-  },
-  "HT_Text_Hel_Exterior_GlyphCollector_InitialText": {
-    "message": "Who are you what do you want? You've come to steal my sacred Glyphs?<P>No you look trustworthy come take a look at my collection.<E>",
-    "description": "SphinxText.xls, row 543"
-  },
-  "HT_Text_Hel_Exterior_GlyphCollector_SubsequentText": {
-    "message": "Ahh it's you again. Feel free to browse my collection.<E>",
-    "description": "SphinxText.xls, row 544"
-  },
-  "HT_Text_Hel_Exterior_GlyphCollector_LikeToBuy": {
-    "message": "You like the look of that one huh? It's yours if you have the emeralds.<E>",
-    "description": "SphinxText.xls, row 545"
-  },
-  "HT_Text_Hel_Exterior_GlyphCollector_Bought": {
-    "message": "It's a pleasure doing business with you.<E>",
-    "description": "SphinxText.xls, row 546"
-  },
-  "HT_Text_Hel_Exterior_GlyphCollector_NotBought": {
-    "message": "Suit yourself.<E>",
-    "description": "SphinxText.xls, row 547"
-  },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1a": {
     "message": "Waaahh!!! Who are you? What do you want? You've come to steal my precious merchandise?!<W 60>",
     "description": "SphinxText.xls, row 548"
@@ -851,38 +815,6 @@
     "message": "The One of the Prophecy will conquer the <FC 128,64,0>Lost Temple of Heliopolis<END FC>, translate the text of the Ancients and discover the secret of the Great Obelisk.<E>",
     "description": "SphinxText.xls, row 751"
   },
-  "HT_Text_Hel_Exterior_DuckBeliever_ThirdVisit": {
-    "message": "There is an ancient inscription on the base of this Obelisk, which no one can decipher.<E>",
-    "description": "SphinxText.xls, row 752"
-  },
-  "HT_Text_Hel_Exterior_SlyBeliever_ThirdVisit": {
-    "message": "Yet more people have been freed of their curse!<E>",
-    "description": "SphinxText.xls, row 753"
-  },
-  "HT_Text_Hel_Exterior_ToothyBeliever_ThirdVisit": {
-    "message": "I must continue my worshipping vigil here. Perhaps more cursed souls in the palace will rise free.<E>",
-    "description": "SphinxText.xls, row 754"
-  },
-  "HT_Text_Hel_Exterior_SquashBeliever_ThirdVisit": {
-    "message": "The Gods must be gratified. The weight of cursed souls upon this place seems to have lightened.<E>",
-    "description": "SphinxText.xls, row 755"
-  },
-  "HT_Text_Hel_Exterior_DuckBeliever_FourthVisit": {
-    "message": "The base of this Obelisk carries with it an indecipherable inscription...<E>",
-    "description": "SphinxText.xls, row 756"
-  },
-  "HT_Text_Hel_Exterior_SlyBeliever_FourthVisit": {
-    "message": "The people have been set free of their curse! The Gods deserve our thanks through continuous prayer.<E>",
-    "description": "SphinxText.xls, row 757"
-  },
-  "HT_Text_Hel_Exterior_ToothyBeliever_FourthVisit": {
-    "message": "The curse has been lifted! Thank the Gods for listening to our prayers!<E>",
-    "description": "SphinxText.xls, row 758"
-  },
-  "HT_Text_Hel_Exterior_SquashBeliever_FourthVisit": {
-    "message": "I feel sanctified; to have set the people free of their stony curse is a saintly thing indeed!<E>",
-    "description": "SphinxText.xls, row 759"
-  },
   "HT_Text_HT_Text_Hel_Exterior_DuckBeliever_ObeliskOpened": {
     "message": "You have deciphered the ancient texts on the Obelisk. Are there are any more Obelisks that can be deciphered?<E>",
     "description": "SphinxText.xls, row 760"
@@ -1027,10 +959,6 @@
     "message": "<N><CNTR><FT HT_Font_Symbol>ade beda cdeabc ade decabde cabedacb a bedac<END FT> <E>",
     "description": "SphinxText.xls, row 795"
   },
-  "HT_Text_Hel_Exterior_Sign_GreatObelisk02": {
-    "message": "<N><CNTR>The Gods of the Ancient Kingdom give this gift to the One who will be our savior.<E>",
-    "description": "SphinxText.xls, row 796"
-  },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk01": {
     "message": "<N><CNTR><FT HT_Font_Symbol>decabde cabedacb a bedac...<END FT><E>",
     "description": "SphinxText.xls, row 797"
@@ -1074,10 +1002,6 @@
   "HT_Text_Hel_Exterior_Help_SmallObeliskTranslated": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>This translated Ancient Text<N>has been added to your notes!<E>",
     "description": "SphinxText.xls, row 807"
-  },
-  "HT_Text_Hel_Exterior_Help_MapSign01": {
-    "message": "<N><CNTR>---[ Information provided by <FC 128,64,0>Heliopolis<END FC> Tourist Commission ]---<E>",
-    "description": "SphinxText.xls, row 808"
   },
   "HT_Text_Hel_Exterior_Help_DoorLocked01": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This door is locked from the other side.<E><ES HT_Text_ES_E_HelpText>",
@@ -1179,21 +1103,9 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Monster List<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>There are four monsters on the list. View the list by selecting the item in the Book of Sphinx.<E>",
     "description": "SphinxText.xls, row 833"
   },
-  "HT_Text_Hel_Exterior_Help_FoundForgerItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Dye Leaf<END FC>!<P><CNTR>The strong pigment in the foliage is used as dye by certain people in <FC 128,64,0>Heliopolis<END FC>.<E>",
-    "description": "SphinxText.xls, row 834"
-  },
   "HT_Text_Hel_Exterior_Help_GotAbydosID": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got an <FC 0,128,0>Abydos Pass Card<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This official document gives unlimited<N>access to the city of <FC 128,64,0>Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 835"
-  },
-  "HT_Text_Hel_Exterior_Help_WallSection2Open": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Mummy disabled the Ra force field, which was preventing access to <FC 128,64,0>Wall Section 2<END FC>!<E>",
-    "description": "SphinxText.xls, row 836"
-  },
-  "HT_Text_Hel_BedouinOutpost_Archeologist_Reward01": {
-    "message": "At last you are back! I've been working hard on the <FC 0,128,0>Rosetta Stone Pieces<END FC> and I've finally managed to assemble them.<P>I have done it! I have reformed the ancient <FC 0,128,0>Rosetta Stone<END FC>! It is magical tablet that allows a person to decipher the text of the Ancients.<P>I could not have fulfilled my dream without your help, young man. Here, I want you to take the stone.<P>Go and discover the secrets of the Ancients!<E>",
-    "description": "SphinxText.xls, row 837"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02a": {
     "message": "You have done it! You have translated the <FC 0,128,0>5 Golden Obelisks of Heliopolis<END FC>!<E>",
@@ -1319,22 +1231,6 @@
     "message": "Aww, man! It's still too sunny to rest on the beach.<E>",
     "description": "SphinxText.xls, row 868"
   },
-  "HT_Text_Hel_BedouinOutpost_Hippy_YesReward": {
-    "message": "Thanks.<P>In return you can have this <FC 0,128,0>Scarab Purse<END FC> if you want it, I have no use for it now.<E>",
-    "description": "SphinxText.xls, row 869"
-  },
-  "HT_Text_Hel_BedouinOutpost_Hippy_NoShame": {
-    "message": "That's a shame. I still don't think it suits you though.<E>",
-    "description": "SphinxText.xls, row 870"
-  },
-  "HT_Text_Hel_BedouinOutpost_Hippy_Thanks": {
-    "message": "Thanks again, I'll put it next to my hammock later and have a nice laze.<E>",
-    "description": "SphinxText.xls, row 871"
-  },
-  "HT_Text_Hel_BedouinOutpost_Hippy_Thanks1a": {
-    "message": "Hey, thanks dude! I wish everyone was as generous as you!<E>",
-    "description": "SphinxText.xls, row 872"
-  },
   "HT_Text_Hel_BedouinOutpost_Hippy_Thanks1b": {
     "message": "In return, you can take this <FC 0,128,0>Scarab Bag<END FC> if you want. I have no use for it now.<E>",
     "description": "SphinxText.xls, row 873"
@@ -1346,22 +1242,6 @@
   "HT_Text_Hel_BedouinOutpost_Help_GotLoyaltyCard": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Loyalty Card<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This card entitles the owner to half price beetles from the <FC 128,64,0>Bedouin Outpost<END FC> store.<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 875"
-  },
-  "HT_Text_Hel_BedouinOutpost_Archeologist_ItemReward": {
-    "message": "Wonderful news, my boy! The stone has been restored! Here's a copy of the stone for your efforts; the least I can do.<P>After I've written my paper on the stone, I'll become world famous.  Thanks again for helping me on my expedition. Who knows, maybe one day you'll have an adventure like mine!<E>",
-    "description": "SphinxText.xls, row 876"
-  },
-  "HT_Text_Hel_BedouinOutpost_Archeologist_Ignore1": {
-    "message": "So I said to the raging hoard of zombies, \"I'm not leaving without that <FC 0,128,0>Rosetta Stone Piece<END FC>!\" and leapt into action... <P>Not now, boy! Can't you see I'm thinking about how to word my intrepid discovery of the <FC 0,128,0>Rosetta Stone Pieces<END FC>? Really!<E>",
-    "description": "SphinxText.xls, row 877"
-  },
-  "HT_Text_Hel_BedouinOutpost_Archeologist_Ignore2": {
-    "message": "And with a deft swoop of my sword, the brutal Mummy Minotaur fell, crying out in defeat...<P>Not now, boy! It should be quite apparent I'm deciding how best to phrase my amazing capture of the <FC 0,128,0>Rosetta Stone Pieces<END FC>! Honestly!<E>",
-    "description": "SphinxText.xls, row 878"
-  },
-  "HT_Text_Hel_BedouinOutpost_Archeologist_Ignore3": {
-    "message": "Only with my great skill and powerful intellect did I find the secret chamber that... <P>Not now, boy! Can't you see I'm thinking about what to say in my papers concerning how I found the <FC 0,128,0>Rosetta Stone Pieces<END FC>?<E>",
-    "description": "SphinxText.xls, row 879"
   },
   "HT_Text_Hel_BedouinOutpost_Complete1a": {
     "message": "Oh my goodness! I can't believe it! I deciphered the <FC 0,128,0>Rosetta Stone<END FC>!<E>",
@@ -1398,118 +1278,6 @@
   "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime": {
     "message": "Years ago, I fell through a strange portal and got stuck in this world. Not that I mind though.<P>Now I can concentrate on my hobby of collecting and breeding beetles.<P>I used to have a collection of rare remote control explosive breeder beetles, but a few weeks ago a sandstorm came and blew them away, along with my spare <FC 0,128,0>Beetle Satchel<END FC>. Ah well, life goes up and down!<E>",
     "description": "SphinxText.xls, row 888"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Commentary1": {
-    "message": "<END TT>EXPLOSIVE BEETLES, they really pack a wallop when they run into things.<E>",
-    "description": "SphinxText.xls, row 889"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Commentary2": {
-    "message": "<END TT>REMOTE CONTROL EXPLOSIVE BEETLES, you can use the power of your mind to steer these little fellas to their target.<E>",
-    "description": "SphinxText.xls, row 890"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Commentary3": {
-    "message": "<END TT>BIG BEETLE SATCHEL, my beetle satchel carries more beetles than a standard BEETLE SATCHEL<E>",
-    "description": "SphinxText.xls, row 891"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Commentary4": {
-    "message": "<END TT>EXPLOSIVE BEETLES, they really pack a wallop when they run into things.<E>",
-    "description": "SphinxText.xls, row 892"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Commentary5": {
-    "message": "<END TT>REMOTE CONTROL EXPLOSIVE BEETLES, you can use the power of your mind to steer these little fellas to their target.<E>",
-    "description": "SphinxText.xls, row 893"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Buy1": {
-    "message": "EXPLOSIVE BEETLES, they really pack a wallop when they run into things.<N>I sell them in batches of 5 for 40 scarabs.<N>Would you like to buy a pack?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 894"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Buy2": {
-    "message": "REMOTE CONTROL EXPLOSIVE BEETLES, you can use the power of your mind to steer these little fellas to their target.<N>I sell them in batches of 5 for 60 scarabs.<N>Would you like to buy a pack?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 895"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Buy3": {
-    "message": "BIG BEETLE SATCHEL, my beetle satchel carries more beetles than a standard BEETLE SATCHEL<N>I'll part with it for a mere 500 scarabs.<N>Do you still want it?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 896"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Buy4": {
-    "message": "EXPLOSIVE BEETLES, they really pack a wallop when they run into things.<N>I sell them in batches of 5 for the low low price of 20 scarabs.<N>Would you like to buy a pack?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 897"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Buy5": {
-    "message": "REMOTE CONTROL EXPLOSIVE BEETLES, you can use the power of your mind to steer these little fellas to their target.<N>I sell them in batches of 5 for the low low price of 30 scarabs.<N>Would you like to buy a pack?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 898"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Chat1": {
-    "message": "Ah beetles, by Ra they are beautiful creatures don't you think?<E>",
-    "description": "SphinxText.xls, row 899"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_DontWant": {
-    "message": "You won't find them cheaper anywhere else my friend.<E>",
-    "description": "SphinxText.xls, row 900"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_CantHave": {
-    "message": "Oh you don't appear to have a BEETLE SATCHEL, sorry but you wouldn't be able to carry them without one.<E>",
-    "description": "SphinxText.xls, row 901"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_CantAfford": {
-    "message": "Hey if you don't have the money you can't have the product, come back when you have more scarabs.<E>",
-    "description": "SphinxText.xls, row 902"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_CarryNoMore": {
-    "message": "Sorry but you can't carry any more beetles.<E>",
-    "description": "SphinxText.xls, row 903"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Thankyou": {
-    "message": "Thanks, more cash for my beetle research.<E>",
-    "description": "SphinxText.xls, row 904"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_NewSatchel": {
-    "message": "Hey look I finally found my spare satchel.  If you buy it I'm sure you'll be able to carry more scarabs with it.<E>",
-    "description": "SphinxText.xls, row 905"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_NewPrices": {
-    "message": "The sandstorm must have broke my jar containing my breeder beetles.  People can find them everywhere now so I've had to drop my prices.<E>",
-    "description": "SphinxText.xls, row 906"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Chat2": {
-    "message": "Have you seen my blue trumpet beetle, it took weeks to find that specimen.<E>",
-    "description": "SphinxText.xls, row 907"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Chat3": {
-    "message": "I used to have a rare doran beetle before that sandstorm came, it's shell was like polished glass.<N>Ah well I'll have fun looking for more of them.<E>",
-    "description": "SphinxText.xls, row 908"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Pouch1a": {
-    "message": "TEST - The beetle brreder congratulates for getting ??? <E>",
-    "description": "SphinxText.xls, row 909"
-  },
-  "HT_Text_Hel_BedouinOutpost_Breeder_Pouch1b": {
-    "message": "TEST - He will give us the beetle pouch and invite us to fill it with his beetles. <E>",
-    "description": "SphinxText.xls, row 910"
-  },
-  "HT_Text_Hel_BedouinOutpost_Healer_TalkFirst": {
-    "message": "I am Shetta, welcome stranger to our caravan of travelers, it has been a while since we have seen a new face around here.<P>I used to be the nomads top healer, do you wish to me to heal you for mere price of 30 scarabs?<N><B 1>Yes please<N><B 2>No, thanks<E>",
-    "description": "SphinxText.xls, row 911"
-  },
-  "HT_Text_Hel_BedouinOutpost_Healer_FullHealth": {
-    "message": "There is no need, you are healthy enough already without my powers.<E>",
-    "description": "SphinxText.xls, row 912"
-  },
-  "HT_Text_Hel_BedouinOutpost_Healer_NoHeal": {
-    "message": "As you wish stranger, return whenever you are weary.<E>",
-    "description": "SphinxText.xls, row 913"
-  },
-  "HT_Text_Hel_BedouinOutpost_Healer_TalkGeneral": {
-    "message": "Do you wish to me to heal you for mere price of 30 scarabs?<N><B 1>Yes please<N><B 2>No, thanks<E>",
-    "description": "SphinxText.xls, row 914"
-  },
-  "HT_Text_Hel_BedouinOutpost_Healer_YouHaveAnkhs": {
-    "message": "Ah, ankhs of life. I can use them to make you stronger or just heal you, if you wish.<N><B 1>Ankh me<N><B 2>Heal me<N><B 3>I'm just looking<E>",
-    "description": "SphinxText.xls, row 915"
-  },
-  "HT_Text_Hel_BedouinOutpost_Healer_NoMoney": {
-    "message": "Stranger, you don't have enough money to pay for my services.<E>",
-    "description": "SphinxText.xls, row 916"
   },
   "HT_Text_Hel_BedouinOutpost_Help_GotBeetleBreederItem": {
     "message": "<N><CNTR>You found the <FC 0,128,0>Beetle Breeder Jar<END FC>!<P><CNTR>The Beetle Breeder in the <FC 128,64,0>Bedouin Outpost<END FC> will be very happy to see this.<E>",
@@ -1659,73 +1427,9 @@
     "message": "Thank you for your help stranger, take this book of mine as a gift. When you're in <FC 128,64,0>Abydos<END FC>, don't hesitate to drop by for a chat. Toodle-pip!<E>",
     "description": "SphinxText.xls, row 954"
   },
-  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1f": {
-    "message": "Would you like me to write a book about you?<N>  <B 1> Yes.<N>  <B 2> No.<E>",
-    "description": "SphinxText.xls, row 955"
-  },
-  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1f_yes": {
-    "message": "I guess I don't need this book anymore, I will start a new one.... <E>",
-    "description": "SphinxText.xls, row 956"
-  },
-  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1f_no": {
-    "message": "Ok, I understand, you don't like fame, I respect that, but come back to me if you change your mind. I have no job, so I will be around here. <E>",
-    "description": "SphinxText.xls, row 957"
-  },
-  "HT_Text_Hel_CursedPalace_Scribe_GiveMeYourStory": {
-    "message": "Excellent, now tell me it all from the very beginning and spare no detail!<E>",
-    "description": "SphinxText.xls, row 958"
-  },
-  "HT_Text_Hel_CursedPalace_Scribe_BookUpdated": {
-    "message": "Well you are a fascinating individual.<P>Now I have all this information I can start a new book. I won't be needing this dusty old one any more, here you take it.<E>",
-    "description": "SphinxText.xls, row 959"
-  },
-  "HT_Text_Hel_CursedPalace_Scribe_StoryDenied": {
-    "message": "That's a shame, I was looking forward to hearing about your adventure.<E>",
-    "description": "SphinxText.xls, row 960"
-  },
-  "HT_Text_Hel_CursedPalace_Scribe_AbydosAnecdote1": {
-    "message": "Who would have thought that Ishka was an impostor.<P>If a King's own advisor can be turned who knows who else could be effected.<E>",
-    "description": "SphinxText.xls, row 961"
-  },
-  "HT_Text_Hel_CursedPalace_Scribe_SakkaraAnecdote1": {
-    "message": "Sakkara Anecdote 1<E>",
-    "description": "SphinxText.xls, row 962"
-  },
-  "HT_Text_Hel_CursedPalace_Scribe_LuxorAnecdote1": {
-    "message": "Luxor Anecdote 1<E>",
-    "description": "SphinxText.xls, row 963"
-  },
-  "HT_Text_Hel_CursedPalace_Scribe_AskForStory": {
-    "message": "Changed your mind? Are you going to tell me your story?<N>  <B 1> Yes<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 964"
-  },
-  "HT_Text_Hel_CursedPalace_Scribe_YesNo": {
-    "message": "<END TT><B 1>Tell him<N><B 2>Don't tell him<E>",
-    "description": "SphinxText.xls, row 965"
-  },
-  "HT_Text_Hel_CursedPalace_Scribe_GiveForgerItem": {
-    "message": "You need some ink? So you've decided to become a writer like myself? I am not surprised, it is a most enjoyable occupation.<P>It will take years of practice to become as good as me but I'm always happy to encourage budding scribes. Here take this.<E>",
-    "description": "SphinxText.xls, row 966"
-  },
-  "HT_Text_Hel_CursedPalace_Help_GotForgerItem": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Scribes Ink<END FC>!<E>",
-    "description": "SphinxText.xls, row 967"
-  },
   "HT_Text_Hel_CursedPalace_Help_GotBookOfTheDead": {
     "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Book of the Dead<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>With this ancient tome you can summon Bas-Ket to<N><CNTR>transport <FC 0,128,0>Canopic Vases<END FC> to the Mummy!<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 968"
-  },
-  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp": {
-    "message": "Wha? Where? Oh. I am the royal fortune teller to the pharaoh of <FC 128,64,0>Heliopolis<END FC>.<P>I foresee that if you cross my palm with 30 scarabs I can reveal the location of a sacred Ankh Piece.<E>",
-    "description": "SphinxText.xls, row 969"
-  },
-  "HT_Text_Hel_CursedPalace_FortuneTeller_AskPrediction": {
-    "message": "Cross my palm with 30 scarabs to reveal the location of a sacred Ankh Piece.<E>",
-    "description": "SphinxText.xls, row 970"
-  },
-  "HT_Text_Hel_CursedPalace_FortuneTeller_GoAway": {
-    "message": "Then begone, I am a busy woman!<E>",
-    "description": "SphinxText.xls, row 971"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp": {
     "message": "What happened? Oh! My precious doggies are gone!<P>Please sir, you must help me! The last thing I remember is my doggies turning nasty and attacking me! Why would they do that?!<P>They seem to have run off now, but if you could find them for me I would be most grateful.<P>Be careful though. They were, shall we say, ill tempered when I last saw them...<E>",
@@ -2139,42 +1843,6 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is a shrine for an item of some kind.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1079"
   },
-  "HT_Text_Hel_Catacombs_Archeologist_Surprise": {
-    "message": "Under......<P>The......<P>Shrine......<P>Bah, I'll never find the <FC 0,128,0>Rosetta Stone<END FC> at this rate<P>Oooo, you gave me a scare creeping up on me like that, I thought you were one of those mummy things.<P>My name is Urbain, I'm an archeologist and have made it my quest to find the <FC 0,128,0>Rosetta Stone<END FC>.<P>It holds the key to translating the text of the ancients.<P>When I find it I'll be legendary.<E>",
-    "description": "SphinxText.xls, row 1080"
-  },
-  "HT_Text_Hel_Catacombs_Archeologist_Busy": {
-    "message": "Can't you see I'm busy deciphering this text about the <FC 0,128,0>Rosetta Stone<END FC>? Now shoo boy.<E>",
-    "description": "SphinxText.xls, row 1081"
-  },
-  "HT_Text_Hel_Catacombs_Archeologist_GotFirst": {
-    "message": "So the legends are true, it was shattered by dark forces to stop the powers of good prevailing.<P>We must find the remaining <FC 0,128,0><SO HT_Objective_Hel_Catacombs_RemainingStones><END FC> pieces if we are to find out why the forces of darkness wished to destroy the stone.<E>",
-    "description": "SphinxText.xls, row 1082"
-  },
-  "HT_Text_Hel_Catacombs_Archeologist_EmptyHanded": {
-    "message": "What do you mean you haven't found anymore yet? Go on, shoo!<E>",
-    "description": "SphinxText.xls, row 1083"
-  },
-  "HT_Text_Hel_Catacombs_Archeologist_GotAnother": {
-    "message": "Fantastic! Now all I need is the other <FC 0,128,0><SO HT_Objective_Hel_Catacombs_RemainingStones><END FC> pieces.<E>",
-    "description": "SphinxText.xls, row 1084"
-  },
-  "HT_Text_Hel_Catacombs_Archeologist_GotPenultimate": {
-    "message": "Superb! All I need now is the final piece.<E>",
-    "description": "SphinxText.xls, row 1085"
-  },
-  "HT_Text_Hel_Catacombs_Archeologist_TooMuchMoney": {
-    "message": "I would give you more money for helping but you appear to be rich enough already young lad.<E>",
-    "description": "SphinxText.xls, row 1086"
-  },
-  "HT_Text_Hel_Catacombs_Archeologist_GotLast": {
-    "message": "At last, the final piece of the stone!<P>I must get back to my tent in the Bedouin Outpost and get to work assembling it.<E>",
-    "description": "SphinxText.xls, row 1087"
-  },
-  "HT_Text_Hel_Catacombs_Archeologist_Reward": {
-    "message": "Take this for your troubles.<E>",
-    "description": "SphinxText.xls, row 1088"
-  },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_a": {
     "message": "Greetings, young man. I am Urbain the Archeologist. <E>",
     "description": "SphinxText.xls, row 1089"
@@ -2207,18 +1875,6 @@
     "message": "If you find the <FC 0,128,0>Rosetta Stone Pieces<END FC>, return them to me, and make an old man happy.<E>",
     "description": "SphinxText.xls, row 1096"
   },
-  "HT_Text_Hel_Dungeon_Archeologist_Complete_a": {
-    "message": "That's it! You have done it! You have found all of the <FC 0,128,0>Rosetta Stone Pieces<END FC>! <E>",
-    "description": "SphinxText.xls, row 1097"
-  },
-  "HT_Text_Hel_Dungeon_Archeologist_Complete_b": {
-    "message": "Now I must try and reassemble the pieces into the legendary <FC 0,128,0>Rosetta Stone<END FC> and try to understand its secret.<E>",
-    "description": "SphinxText.xls, row 1098"
-  },
-  "HT_Text_Hel_Dungeon_Archeologist_Complete_c": {
-    "message": "Will you allow me to take the <FC 0,128,0>Rosetta Stone Pieces<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1099"
-  },
   "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_a": {
     "message": "<EFF><EPO>Excellent, my boy! Excellent! Now I must get back to my tent in the <FC 128,64,0>Bedouin Outpost<END FC> and get to work.<P>You must come and visit me to check on my findings. The <FC 128,64,0>Bedouin Outpost<END FC> is easy to find if you approach through the underwater passage from the <FC 128,64,0>Cursed Palace<END FC>.<E>",
     "description": "SphinxText.xls, row 1100"
@@ -2246,10 +1902,6 @@
   "HT_Text_Hel_WallSection2_Help_KaAnkh02": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>Aim and shoot the glowing top of a nearby <FC 0,128,0>Ka Ankh<END FC> and<N>you will be magically transported to that location.<E><ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1108"
-  },
-  "HT_Text_Hel_DarkArea1_Help_GotCaptureBeetles": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Capture Beetles<END FC>!<P><N><CNTR>They can be used to capture many different kinds of monster.<E>",
-    "description": "SphinxText.xls, row 1110"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1a": {
     "message": "So, you are Sphinx. How disappointing. I was expecting so much more.<E>",
@@ -2298,10 +1950,6 @@
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1e": {
     "message": "<EFF><EPO>The Mayor resides in the city's <FC 128,64,0>Council Chambers<END FC>. Convince him to return the Crown to me and I will give you the <FC 0,128,0>Curse Stones<END FC> you desire.<P>The portal beneath you will take you to <FC 128,64,0>Abydos<END FC> if you have the <FC 128,64,0>Abydos Portal Amulet<END FC>. Farewell, Sphinx.<E>",
     "description": "SphinxText.xls, row 1122"
-  },
-  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1f": {
-    "message": "Finally, take this <FC 0,128,0>Portal Amulet<END FC>. It will allow you to return to my tower more quickly in future.<E>",
-    "description": "SphinxText.xls, row 1123"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1a": {
     "message": "Ahh... you have returned! I was beginning to think the challenge had proved beyond your capabilities! You have my artifact?<E>",
@@ -2411,10 +2059,6 @@
     "message": "You are the Chosen One who has fulfilled the Ancient Prophecy, but the ultimate outcome of your heroic actions is uncertain...<E>",
     "description": "SphinxText.xls, row 1150"
   },
-  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free3a": {
-    "message": "My Lord Osiris, it seems that Set is attacking the wall with the Eye of Ra! We cannot hold out for long!<E>",
-    "description": "SphinxText.xls, row 1151"
-  },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4a": {
     "message": "Sphinx, there is one last quest you must undertake before you truly fulfill the <FC 0,128,0>Ancient Prophecy of Ra<END FC>...<E>",
     "description": "SphinxText.xls, row 1152"
@@ -2435,22 +2079,6 @@
     "message": "We have no choice! Set is getting stronger by the second! Now, Sphinx... NOW!!!<E>",
     "description": "SphinxText.xls, row 1156"
   },
-  "HT_Text_Hel_DarkArea1_Anubis_LizardMission": {
-    "message": "Who are you to intrude on my privacy! Unless you can prove yourself estimable, I have nothing to say to you.<P>Will you accept my challenge?<N>  <B 1> Yes<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1157"
-  },
-  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Again": {
-    "message": "Will you accept my challenge?<N>  <B 1> Yes<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1158"
-  },
-  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Accepted": {
-    "message": "Excellent, take this <FC 0,128,0>Beetle Pouch<END FC> and go and capture <FC 0,128,0>3 Skeletal Armadillos<END FC>.<P>Bring the monsters back to me as proof of your skills, and I may consider giving you a reward.<E>",
-    "description": "SphinxText.xls, row 1159"
-  },
-  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Declined": {
-    "message": "Then begone! Those with no sense of adventure are not welcome here.<E>",
-    "description": "SphinxText.xls, row 1160"
-  },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Incomplete": {
     "message": "Are you so feeble that you cannot even capture <FC 0,128,0>3 Fire Armadillos<END FC>?<E>",
     "description": "SphinxText.xls, row 1161"
@@ -2458,14 +2086,6 @@
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_NoBeetles": {
     "message": "I warned you about using the <FC 0,128,0>Capture Beetles<END FC> wisely and yet you have squandered them.<P>I will grant you 20 more but if you do not use them to capture <FC 0,128,0>3 Fire Armadillos<END FC> I will be most unimpressed.<E>",
     "description": "SphinxText.xls, row 1162"
-  },
-  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete": {
-    "message": "So, you're not as useless as you look. Well done.<P>As a reward I will remove the curse from some of the inhabitants of the <FC 128,64,0>Cursed Palace<END FC>.<P>To free the rest of the inhabitants, you must undertake a much more dangerous quest.<P>In the island city of <FC 128,64,0>Abydos<END FC> is the ancient <FC 0,128,0>Sacred Crown of Abydos<END FC> which you must retrieve.<P>Return it to me and I will free more of the inhabitants of the <FC 128,64,0>Cursed Palace<END FC>.<E>",
-    "description": "SphinxText.xls, row 1163"
-  },
-  "HT_Text_Hel_DarkArea1_Anubis_GetCrowns": {
-    "message": "If you get me crowns, I will free some more of the people in the <FC 128,64,0>Cursed Palace<END FC>.<E>",
-    "description": "SphinxText.xls, row 1164"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GenericMeetAgain": {
     "message": "I'm certain that fate will bring you to me again in the future, but now I have nothing more to give you.<E>",
@@ -2507,250 +2127,6 @@
     "message": "The more you linger, the stronger Set becomes. It is unwise to delay much longer.<E>",
     "description": "SphinxText.xls, row 1174"
   },
-  "HT_Text_Hel_DarkArea1_Help_GotPharaohInvite": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Pharaoh Invitation<END FC>!<E>",
-    "description": "SphinxText.xls, row 1175"
-  },
-  "HT_Text_Hel_DarkArea2_NomadWarrior_YourRubbish": {
-    "message": "Behold my mighty muscles strangers! You should work-out everyday like me, then you might look a bit less scrawny.<E>",
-    "description": "SphinxText.xls, row 1177"
-  },
-  "HT_Text_Hel_DarkArea2_NomadWarrior_YourRubbish1a": {
-    "message": "I am waiting for someone who wants to fight me, but no one dare to do it, I wonder why <E>",
-    "description": "SphinxText.xls, row 1178"
-  },
-  "HT_Text_Hel_DarkArea2_NomadWarrior_YourGreat": {
-    "message": "Somehow your technique beat my brawn, I'll have to develop my own skills now, it seems that strength alone does not win a battle.<E>",
-    "description": "SphinxText.xls, row 1179"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_TalkFirst": {
-    "message": "Ahh a visitor! I don't know how you made it past those evil creatures.<P>They have been terrorising our village for a while now, we daren't even venture outside anymore.<P>You look like the kind of brave person who might be able to help. I'm sure <FC 128,0,0>The Chief<END FC> will be interested in talking to you.<P>Before you go I could try my healing skills on you. My sister in the <FC 128,64,0>Bedouin Outpost<END FC> is much better than me but I am learning fast.<E>",
-    "description": "SphinxText.xls, row 1180"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_TalkFirst1a": {
-    "message": "We don't get many visitors out here in darkside, I am Ketta the Healer of this tribe.<E>",
-    "description": "SphinxText.xls, row 1181"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_TalkFirst1b": {
-    "message": "Unfortunatealy I\u2019m still training so I\u2019m not that good, but with practice one day I hope to be as good as my sister.<E>",
-    "description": "SphinxText.xls, row 1182"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_TalkFirst1c": {
-    "message": "I could always use someone to practice on, do you want me to try and heal you?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 1183"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_Talk": {
-    "message": "Would you like me to try and heal you?<N>  <B 1> Yes<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1184"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_TooHealthy": {
-    "message": "There is no need, you are healthy enough already without my powers.<E>",
-    "description": "SphinxText.xls, row 1185"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_NoHealShame": {
-    "message": "That\u2019s a shame, I could do with some more practice.<E>",
-    "description": "SphinxText.xls, row 1186"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_NoHealAgree": {
-    "message": "That\u2019s OK, I think I need to read up on healing a bit more before I practice on people again.<E>",
-    "description": "SphinxText.xls, row 1187"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_Sorry": {
-    "message": "Sorry about that, I think I need to read a magic tome before I practice again.<E>",
-    "description": "SphinxText.xls, row 1188"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_TalkWarning": {
-    "message": "No guarantees, but would you like me to try and heal you?<N>  <B 1> Yes<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1189"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_Ritual": {
-    "message": "TEST - She will be very excited about her success<E>",
-    "description": "SphinxText.xls, row 1190"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_Wrong1a": {
-    "message": "TEST \u2013 She will be happy to see us again. She will use a new spell that she has just learnt <E>",
-    "description": "SphinxText.xls, row 1191"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_Wrong1b": {
-    "message": "TEST \u2013 Oh my Ra, what I\u2019ve done, I\u2019ve reduced your health instead of increasing it <E>",
-    "description": "SphinxText.xls, row 1192"
-  },
-  "HT_Text_Hel_DarkArea2_Healer_Wrong1c": {
-    "message": "TEST - Sorry about that, I think I need to read a magic tome before I practice again.<E>",
-    "description": "SphinxText.xls, row 1193"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_Talk": {
-    "message": "Hello stranger, welcome to our small settlement, I assume you have come here to use our sacred portal, to earn that right you\u2019ll have to best our warrior in nomadic combat.<N>",
-    "description": "SphinxText.xls, row 1194"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_Talk1a": {
-    "message": "Do you accept the challenge?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 1195"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_YourRubbish": {
-    "message": "I knew you were a coward, come back when you have the will of a Nomad.<E>",
-    "description": "SphinxText.xls, row 1196"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_PrepareFight": {
-    "message": "Would you like to know the rules?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 1197"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_PrepareFight1a": {
-    "message": "TEST - Very well, lets prepare for the battle. You see that guy there in the middle of the ring, that is going to be your opponent <E> ",
-    "description": "SphinxText.xls, row 1198"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_PrepareFight1b": {
-    "message": "TEST - no very friendly I warn you, he doesn\u2019t like stranger like you <E>",
-    "description": "SphinxText.xls, row 1199"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_Rules": {
-    "message": "If you knock your opponent out of the arena you will gain a point and the next round will start, the first person to get three points wins the battle.  Use your punches and kicks to push back whilst grappling.<N>Lets fight.<E>",
-    "description": "SphinxText.xls, row 1200"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_YouWon": {
-    "message": "That wasn\u2019t supposed to happen, I don\u2019t know how you beat him but I suppose you have proved yourself worthy to use our portal.<E>",
-    "description": "SphinxText.xls, row 1201"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_YouWon1a": {
-    "message": "Use this to set the portal activators, only when all the hieroglyphs on the portal are active will the portal start to work.<E>",
-    "description": "SphinxText.xls, row 1202"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_YouWon1b": {
-    "message": "TEST - Use the blowpipe to shoot the activators above the portal to change their colours, once you have the correct sequence the portal will open <E>",
-    "description": "SphinxText.xls, row 1203"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_YouWon1c": {
-    "message": "TEST - the hieroglyphs on the side show you how close you are to the correct combination. <E>",
-    "description": "SphinxText.xls, row 1204"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_YouLost": {
-    "message": "You are not worthy to use our sacred portal, would you like to try again?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 1205"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_YouLost1a": {
-    "message": "TEST \u2013 Ha, ha, ha. Look at you, You are note worthy to use our sacred portal <E>",
-    "description": "SphinxText.xls, row 1206"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_YouLost1b": {
-    "message": "TEST - would you like to try again?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 1207"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_WonPortalOff": {
-    "message": "Use the blowpipe to shoot the activators above the portal to change their colours, once you have the correct sequence the portal will open, the hieroglyphs on the side show you how close you are to the correct combination.<P>If you get the wrong colour the hieroglyphs will fade and you will have to sart again from the beginning of the combination.<E>",
-    "description": "SphinxText.xls, row 1208"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_WonPortalOn": {
-    "message": "I see your quest is an arduous one, gods speed and good luck to you strange traveler<E>",
-    "description": "SphinxText.xls, row 1209"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_Ready1a": {
-    "message": "TEST \u2013 Come on my boy, let\u2019s show how the Nomads play around here <E>",
-    "description": "SphinxText.xls, row 1210"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_Ready1b": {
-    "message": "TEST \u2013 Don\u2019t leave any piece of him <E>",
-    "description": "SphinxText.xls, row 1211"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestIntro": {
-    "message": "Greetings stranger, it is good to see a new face around here. Those damned creatures have made us all prisoners in our own huts.<P>If you could help us rid our settlement of the vermin, our tribe we would be eternally grateful.<E>",
-    "description": "SphinxText.xls, row 1212"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestIntroPrompt": {
-    "message": "So will you help our tribe?<N>  <B 1> Yes<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1213"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestIntroPromptAgain": {
-    "message": "Have you decided to help us?<N>  <B 1> Yes<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1214"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestAccept": {
-    "message": "Excellent! What we need to do is simple; find all the evil creatures in the settlement and eliminate them.<P>I want you to take this tribal <FC 0,128,0>Blowpipe<END FC> with you. It should prove a useful tool for eliminating the vermin.<P>Come back and let me know when you have killed them all, happy hunting stranger!<E>",
-    "description": "SphinxText.xls, row 1215"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestDecline": {
-    "message": "Sigh. I guess we will have to wait for someone with more courage to help us.<E>",
-    "description": "SphinxText.xls, row 1216"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestIncompleteNone": {
-    "message": "All the creatures are still loose around the settlement stranger.<E>",
-    "description": "SphinxText.xls, row 1217"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestIncompleteFew": {
-    "message": "There are still many of the creatures left in the settlement stranger.<E>",
-    "description": "SphinxText.xls, row 1218"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestIncompleteSome": {
-    "message": "You are doing well stranger but there are still several creatures left.<E>",
-    "description": "SphinxText.xls, row 1219"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestIncompleteMost": {
-    "message": "Excellent work there are only a few creatures left.<E>",
-    "description": "SphinxText.xls, row 1220"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestComplete": {
-    "message": "The hero has returned! You have rid our settlement of the vermin, we cannot thank you enough.<P>The vermin ate or destroyed most of what we have but I can offer you some form of reward.<E>",
-    "description": "SphinxText.xls, row 1221"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestCompleteAgain": {
-    "message": "Our tribe is eternally greatful to you stranger.<E>",
-    "description": "SphinxText.xls, row 1222"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestCompleteRewardPrompt": {
-    "message": "What would you like?<N>  <B 1> <FC 0,128,0>Nomadic Papyrus<END FC><N>  <B 2> <FC 0,128,0>100 Scarabs<END FC><N>  <B 3> I need no reward<E>",
-    "description": "SphinxText.xls, row 1223"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestCompleteReward01": {
-    "message": "Ahh you have heard of our quality papyrus, it is the finest in all of <FC 128,64,0>Heliopolis<END FC>. Take it with our compliments.<E>",
-    "description": "SphinxText.xls, row 1224"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestCompleteReward02": {
-    "message": "Cold, hard, currency is what you desire? Then so be it.<E>",
-    "description": "SphinxText.xls, row 1225"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_QuestCompleteReward03": {
-    "message": "I admire your generosity and humility but I must insist that you accept a reward of some kind.<E>",
-    "description": "SphinxText.xls, row 1226"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_ForgerItemPromptIntro": {
-    "message": "If you are interested in our <FC 0,128,0>Nomadic Papyrus<END FC> you'll have to pay for it I'm afraid. You have already had your reward.<E>",
-    "description": "SphinxText.xls, row 1227"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_ForgerItemPrompt": {
-    "message": "Our <FC 0,128,0>Nomadic Papyrus<END FC> costs <FC 0,128,0>90 Scarabs<END FC> per sheet.<N>  <B 1> OK<N>  <B 2> Forget it<E>",
-    "description": "SphinxText.xls, row 1228"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_ForgerItemAccept": {
-    "message": "Pleasure doing business with you.<E>",
-    "description": "SphinxText.xls, row 1229"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_ForgerItemDecline": {
-    "message": "As you wish but you will not find this quality of papyrus anywhere else, I assure you.<E>",
-    "description": "SphinxText.xls, row 1230"
-  },
-  "HT_Text_Hel_DarkArea2_NomadChief_ForgerItemNotEnoughMoney": {
-    "message": "Sorry but you don't have enough scarabs.<E>",
-    "description": "SphinxText.xls, row 1231"
-  },
-  "HT_Text_Hel_DarkArea2_Help_GotForgerItem": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Nomadic Papyrus<END FC>!<E>",
-    "description": "SphinxText.xls, row 1232"
-  },
-  "HT_Text_Hel_DarkArea2_Help_GateLocked": {
-    "message": "<N><CNTR>This gate is locked.<E>",
-    "description": "SphinxText.xls, row 1233"
-  },
-  "HT_Text_Hel_DarkArea2_Help_GotGateKey": {
-    "message": "<N><CNTR>You found the <FC 0,128,0>Gate Key<END FC>!<E>",
-    "description": "SphinxText.xls, row 1234"
-  },
-  "HT_Text_Hel_DarkArea2_Help_GotBlowpipe": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><CNTR>The magical darts fired from this powerful tool can be used to hit remote targets and certain monsters.<E>",
-    "description": "SphinxText.xls, row 1235"
-  },
-  "HT_Text_Hel_DarkArea2_Help_GotAnkhPiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got an <FC 0,128,0>Ankh Piece<END FC>!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 1236"
-  },
   "HT_Text_Hel_DarkArea2_Help_KaAnkh01": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is a <FC 0,128,0>Ka Ankh Firing Point<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>They can be used to magically transport<N>you to the location of a nearby <FC 0,128,0>Ka Ankh<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_KaTile> while standing on the<N>firing point to enter first person mode.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1237"
@@ -2758,118 +2134,6 @@
   "HT_Text_Hel_DarkArea2_Help_KaAnkh02": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>Aim and shoot the glowing top of a nearby <FC 0,128,0>Ka Ankh<END FC> and<N>you will be magically transported to that location.<E><ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1238"
-  },
-  "HT_Text_Hel_DarkArea3_DancerNomad1_crying1a": {
-    "message": "Why has Ra cursed us and taken our beloved brother away? The creatures that killed him must be under the influence of some unknown evil.<E>",
-    "description": "SphinxText.xls, row 1240"
-  },
-  "HT_Text_Hel_DarkArea3_DancerNomad1_crying1b": {
-    "message": "He was on a mission to retrieve the 4 <FC 0,128,0>Portal Amulet Pieces<END FC> so we can perform the Reformation Ceremony. I can't believe we'll never see him again.<E>",
-    "description": "SphinxText.xls, row 1241"
-  },
-  "HT_Text_Hel_DarkArea3_DancerNomad2_crying1a": {
-    "message": "We do not usually welcome strangers but if you can succeed where our fallen brother failed, we will grant you access to our Sarcred Portal.<P>Take care in the canyon, the creatures are vicious and protective of the <FC 0,128,0>Portal Amulet Pieces<END FC>.<E>",
-    "description": "SphinxText.xls, row 1242"
-  },
-  "HT_Text_Hel_DarkArea3_DancerNomad2_MiniGame1a": {
-    "message": "Well done! You have retrieved all the fragments of the <FC 0,128,0>Portal Amulet<END FC>.<P>Now we must perform the sacred reforming ritual so that the amulet becomes one again.<E>",
-    "description": "SphinxText.xls, row 1243"
-  },
-  "HT_Text_Hel_DarkArea3_DancerNomad1_MiniGame1a": {
-    "message": "However, the reforming ritual requires 3 people. With our brother gone, you must help us to perform the sacred rite.<E>",
-    "description": "SphinxText.xls, row 1244"
-  },
-  "HT_Text_Hel_DarkArea3_DancerNomad1_MiniGame_Complete": {
-    "message": "Behold! The <FC 0,128,0>Portal Amulet<END FC> is reformed!<P>You must take it, for you are the choosen one!<E>",
-    "description": "SphinxText.xls, row 1245"
-  },
-  "HT_Text_Hel_DarkArea3_DancerNomad1_FindItems": {
-    "message": "Without the <FC 0,128,0>Amulet Pieces<END FC> the sacred portal is useless.<E>",
-    "description": "SphinxText.xls, row 1246"
-  },
-  "HT_Text_Hel_DarkArea3_DancerNomad2_FindItems": {
-    "message": "We must retrieve the <FC 0,128,0>Amulet Pieces<END FC> from the canyon.<E>",
-    "description": "SphinxText.xls, row 1247"
-  },
-  "HT_Text_Hel_DarkArea3_DancerNomad1_HaveItems": {
-    "message": "Ah you have found some of the <FC 0,128,0>Amulet Pieces<END FC>! You must place them on the pedestals.<E>",
-    "description": "SphinxText.xls, row 1248"
-  },
-  "HT_Text_Hel_DarkArea3_DancerNomad2_HaveItems": {
-    "message": "Place all the <FC 0,128,0>Amulet Pieces<END FC> on the pedestals and we can begin the reforming ceremony.<E>",
-    "description": "SphinxText.xls, row 1249"
-  },
-  "HT_Text_Hel_DarkArea3_DancerNomad1_PortalActive": {
-    "message": "You should go quickly stranger! The portal may not stay active for long.<E>",
-    "description": "SphinxText.xls, row 1250"
-  },
-  "HT_Text_Hel_DarkArea3_DancerNomad2_PortalActive": {
-    "message": "We must keep praying to keep the portal active, go quickly!<E>",
-    "description": "SphinxText.xls, row 1251"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad1_TalkActivators": {
-    "message": "We cannot perform our ritual dance until Nikktu arrives with the activators and attaches them to the portal.<E>",
-    "description": "SphinxText.xls, row 1252"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad1_ActivatorsDone": {
-    "message": "According to our ancient prophecies, soon will be the coming of a great hero who will need to visit the world beyond this portal.<P>We need to enchant the portal so that he will be able to open it. So we have got no time for your games boy, this is important stuff.<E>",
-    "description": "SphinxText.xls, row 1253"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad1_DeadFriend": {
-    "message": "Nikktu is dead, how terrible, I have known him since he was a pouchling.<P>However, the fate of the worlds is at hand, we must finish the preparations for the portal.<E>",
-    "description": "SphinxText.xls, row 1254"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad1_WrongBeat": {
-    "message": "No no no, that\u2019s not the way to do it.<P>Do you want restart?<N>  <B 1> Yes<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1255"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad1_WaitingForOne": {
-    "message": "Now we must wait for the chosen one to activate the portal.<E>",
-    "description": "SphinxText.xls, row 1256"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad1_YouAreGreat": {
-    "message": "We will pray for you to be successful in your quest and fulfilling the ancient prophecy.<E>",
-    "description": "SphinxText.xls, row 1257"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad2_TalkActivators": {
-    "message": "The alignment is coming. Where is our friend Nikktu? We must make the portal ready for the one.<E>",
-    "description": "SphinxText.xls, row 1258"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad2_ActivatorsDone": {
-    "message": "It will take three of us to enchant the portal, but without our third member Nikktu I don\u2019t see how we can perform the ritual.<P>Could you help us enchant the portal?<N>  <B 1> Yes<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1259"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad2_DeadFriend": {
-    "message": "He was a great drummer, his talents will be sorely missed.  But now is not the time to mourn, the portal must be made ready for the chosen one.<E>",
-    "description": "SphinxText.xls, row 1260"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad2_NoHelp": {
-    "message": "Very well, we shall try and think of another way to enchant the portal ourselves.<E>",
-    "description": "SphinxText.xls, row 1261"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad2_WantRules": {
-    "message": "Would you like to know how to beat the drum?<N>  <B 1> Yes<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1262"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad2_Rules": {
-    "message": "Whilst we perform the magical dance, hold <SB HT_Action_Attack> to perform the Amarna beat or hold <SB HT_Action_Jump> to perform the Ka beat.<P>If we dance high be sure to beat out the rhythm of Amarna and if we dance low be sure to beat out the rhythm of Ka.<P>If you do not beat the correct rhythm the chant will not work.<P>One more thing which is the most important; do not beat any rhythm if we walk clockwise, to do so would anger the gods.<P>Make sure you only beat the drum when we walk counter-clockwise.<P>Lets dance.<E>",
-    "description": "SphinxText.xls, row 1263"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad2_WellDone": {
-    "message": "You have helped us greatly, take this.<E>",
-    "description": "SphinxText.xls, row 1264"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad2_WaitingForOne": {
-    "message": "Very good, you beat that drum like a true shaman.<E>",
-    "description": "SphinxText.xls, row 1265"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad2_PortalOnTalk1": {
-    "message": "You are the chosen one, we are blessed by your presence.<E>",
-    "description": "SphinxText.xls, row 1266"
-  },
-  "HT_Text_Hel_DarkArea3_ChantingNomad2_PortalOnTalk2": {
-    "message": "Go forth hero of light and meet your destiny.<E>",
-    "description": "SphinxText.xls, row 1267"
   },
   "HT_Text_Hel_DarkArea3_Teleport_Prompt01": {
     "message": "<ES HT_Text_ES_S_HelpText>Use the magical teleport?<N>  <B 2> No<N>  <B 1> Yes<E>",
@@ -2975,74 +2239,6 @@
     "message": "If you had the <FC 0,128,0>Book of the Dead<END FC>, you could send Bas-Ket to Tutankhamen when you find a <FC 0,128,0>Canopic Vase<END FC>. <P>I have a feeling the book may be in the <FC 128,64,0>Cursed Palace<END FC> somewhere, so perhaps you should go and speak to Anubis about the palace's unfortunate inhabitants.<P>Horus already left to visit him, but I see your fate and his are diverging now.<E>",
     "description": "SphinxText.xls, row 1294"
   },
-  "HT_Text_Hel_Imhotep_Connect_Chapter_Basket1b": {
-    "message": "Maybe you need this key? <E>",
-    "description": "SphinxText.xls, row 1295"
-  },
-  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1e": {
-    "message": "Amazing!  Congratulations, my friend!  This is exactly what we need! You are incredible indeed! <E>",
-    "description": "SphinxText.xls, row 1296"
-  },
-  "HT_Text_Hel_Imhotep_Connect_Chapter_Basket1c": {
-    "message": "You should thank Tutankhamen. For it was he who gave me this for you!  <E>",
-    "description": "SphinxText.xls, row 1297"
-  },
-  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1f": {
-    "message": "TEST \u2013 Imhotep, that is incredible, he is actually comunincating with you, he may find information and tools that can help Sphinx rescue him <E>",
-    "description": "SphinxText.xls, row 1298"
-  },
-  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1g": {
-    "message": "TEST \u2013 Thank you very much and come back to Urk my friend, look up for him while try to find a way to get into Uruk <E>",
-    "description": "SphinxText.xls, row 1299"
-  },
-  "HT_Text_Hel_Imhotep_Connect_Chapter_Basket1d": {
-    "message": "Farewell, my friend! <E>",
-    "description": "SphinxText.xls, row 1300"
-  },
-  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1h": {
-    "message": "Take this key and go quickly to Abydos!  You may discover something there! <E>",
-    "description": "SphinxText.xls, row 1301"
-  },
-  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1i": {
-    "message": "TEST \u2013 He gives something that will let us invoke the canopic vase in case we find any other on the way, these canopic vases is the only thing that can help him to escape <E>",
-    "description": "SphinxText.xls, row 1302"
-  },
-  "HT_Text_Hel_Imhotep_Presentation1a": {
-    "message": "Cough!  Splutter!  Aaah!  What was that?! <W 30>",
-    "description": "SphinxText.xls, row 1303"
-  },
-  "HT_Text_Hel_Imhotep_Presentation1a1": {
-    "message": "No!  Another lost tourist?!  What do you think you're doing here?  <E>",
-    "description": "SphinxText.xls, row 1304"
-  },
-  "HT_Text_Hel_Imhotep_Presentation1b": {
-    "message": "TEST - He will ask us what are we doing here. He was a great wizard for the pharaoh, he had a great respect. .<E>",
-    "description": "SphinxText.xls, row 1305"
-  },
-  "HT_Text_Hel_Imhotep_Presentation1c": {
-    "message": "TEST - But suddenly everything changed. The pharaoh changed and he was sacked, so he has no job<E>",
-    "description": "SphinxText.xls, row 1306"
-  },
-  "HT_Text_Hel_Imhotep_Presentation1d": {
-    "message": "TEST \u2013 He will respond that he can\u2019t do much for our friend Tutankhamen, he might be lost somewhere but you keep that canopic vase, it\u2019s the only thing that can help  your friend<E>",
-    "description": "SphinxText.xls, row 1307"
-  },
-  "HT_Text_Hel_Imhotep_Presentation1e": {
-    "message": "TEST - All his belongings are behold in that cursed palace, Maybe if we want to save our friend we must find the book of the Death for him<E>",
-    "description": "SphinxText.xls, row 1308"
-  },
-  "HT_Text_Hel_Imhotep_Presentation1f": {
-    "message": "TEST - But I warn you, something terrible happened in there and we haven\u2019t seen anyone come out from that devil building<E>",
-    "description": "SphinxText.xls, row 1309"
-  },
-  "HT_Text_Hel_Imhotep_Presentation1g": {
-    "message": "TEST \u2013 Anubis cursed and make them sleep for eternity, what evil man<E>",
-    "description": "SphinxText.xls, row 1310"
-  },
-  "HT_Text_Hel_Imhotep_Presentation1h": {
-    "message": "TEST \u2013 I\u2019m afraid you have to go to the tower where he lives. Be careful, he doesn\u2019t like visitors and convince him. <E>",
-    "description": "SphinxText.xls, row 1311"
-  },
   "HT_Text_Hel_Imhotep_Basket1a": {
     "message": "Outstanding work Sphinx! You have the last two Sacred Crowns!<E>",
     "description": "SphinxText.xls, row 1312"
@@ -3063,14 +2259,6 @@
     "message": "Sphinx! Welcome back! The situation in <FC 128,64,0>Uruk Islands<END FC> was very dire indeed.<E>",
     "description": "SphinxText.xls, row 1316"
   },
-  "HT_Text_Hel_Imhotep_Sakkara1a1": {
-    "message": "",
-    "description": "SphinxText.xls, row 1317"
-  },
-  "HT_Text_Hel_Imhotep_Sakkara1b": {
-    "message": "",
-    "description": "SphinxText.xls, row 1318"
-  },
   "HT_Text_Hel_Imhotep_Sakkara1c": {
     "message": "I see that Set himself was present at the ceremony. This is a disturbing development.<E> ",
     "description": "SphinxText.xls, row 1319"
@@ -3082,10 +2270,6 @@
   "HT_Text_Hel_Imhotep_Sakkara1e": {
     "message": "Despite such adversity, you managed to prevail and stop Set from completing his domination of <FC 128,64,0>Uruk<END FC>. You are indeed proving to be a most worthy apprentice.<E> ",
     "description": "SphinxText.xls, row 1321"
-  },
-  "HT_Text_Hel_Imhotep_Sakkara1g": {
-    "message": "You are proving to indeed be a most worthy apprentice.<E>",
-    "description": "SphinxText.xls, row 1322"
   },
   "HT_Text_Hel_Imhotep_Sakkara1h": {
     "message": "You should inform Anubis of Set's involvement. He will be most interested to learn that his nemesis has his plans for domination back in motion.<E>",
@@ -3150,61 +2334,5 @@
   "HT_Text_Hel_Imhotep_PortalAmulet03": {
     "message": "Good luck, my friend.<W 70>",
     "description": "SphinxText.xls, row 1338"
-  },
-  "HT_Text_Hel_SunShrine_Hel1Info1": {
-    "message": "A huge tower was built on the other side of the wall. Just as it was completed, the palace and its inhabitants were all turned to stone.<P>I'm sure that old Anubis from the dark side was responsible, but I wouldn't want to face him... even if I could get to the other side of the wall.<E>",
-    "description": "SphinxText.xls, row 1339"
-  },
-  "HT_Text_Hel_SunShrine_Hel1Info2": {
-    "message": "No one ever goes to the dark side of the wall. It is a dangerous and hostile place full of monsters and savage nomads.<P>The interior of the wall is a labyrinth of dark corridors and the guards are not known for their hospitality.<E>",
-    "description": "SphinxText.xls, row 1340"
-  },
-  "HT_Text_Hel_SunShrine_Hel1Info3": {
-    "message": "This Lunar Disc in the Sun Shrine was built by the ancients a long time ago.<P>Before the troubles began, people used to come and go freely throughout the different worlds using the portal.<E>",
-    "description": "SphinxText.xls, row 1341"
-  },
-  "HT_Text_Hel_SunShrine_Hel1Info4": {
-    "message": "An old Abydosian once told me about these strange one legged birds.<P>By appearance they seem harmless, but can be quite vicious if provoked.<E>",
-    "description": "SphinxText.xls, row 1342"
-  },
-  "HT_Text_Hel_SunShrine_Hel2Info1": {
-    "message": "I have heard that some refugees from the other worlds of the kingdom live out in the desert.<P>They fled when the troubles began in their worlds; it seems that <FC 128,64,0>Heliopolis<END FC> is not the only world having problems.<E>",
-    "description": "SphinxText.xls, row 1343"
-  },
-  "HT_Text_Hel_SunShrine_Hel2Info2": {
-    "message": "In the desert there used to be a great temple where many of the ancient Helians worshipped.<P>Now all that is left is crumbled ruins and indecipherable inscriptions.<E>",
-    "description": "SphinxText.xls, row 1344"
-  },
-  "HT_Text_Hel_SunShrine_Hel2Info3": {
-    "message": "A traveling sage once told me about these huge Half Brute beasts that could charge faster than a camel, sporting long and deadly horns.<P>I'm not sure I believe him though; he used to always exaggerate.<E>",
-    "description": "SphinxText.xls, row 1345"
-  },
-  "HT_Text_Hel_SunShrine_Hel3Info1": {
-    "message": "There are strange beetle <FC 0,128,0>Glyphs<END FC> dotted around <FC 128,64,0>Heliopolis<END FC>. No one knows how to open them or what's inside.<E>",
-    "description": "SphinxText.xls, row 1346"
-  },
-  "HT_Text_Hel_SunShrine_Hel3Info2": {
-    "message": "I've heard rumors that in <FC 128,64,0>Luxor<END FC>, Akhenaten has been crowned Pharaoh and has taken Nefertiti as his wife.<P>The people there are very unhappy that Tutankhamen was killed in a tragic hunting accident.<E>",
-    "description": "SphinxText.xls, row 1347"
-  },
-  "HT_Text_Hel_SunShrine_Hel4Info1": {
-    "message": "In the religious texts, it says that clues to the location of the portal fragments can be found written in on the ancient Obelisks of <FC 128,64,0>Heliopolis<END FC>.<P>The clues are in the language of the Ancients, and can only be deciphered with the <FC 0,128,0>Rosetta Stone<END FC>. Unfortunately, this was destroyed many years ago.<E>",
-    "description": "SphinxText.xls, row 1348"
-  },
-  "HT_Text_Hel_SunShrine_CanopicText1": {
-    "message": "I had only just drifted off to sleep myself. I hope this is something important, young fellow.<P>Ahh, a <FC 0,128,0>Canopic Vase<END FC>! It has been many years since I have seen one of these.<P>I'm afraid I can only release the trapped energy inside if I have the <FC 0,128,0>Book of the Dead<END FC>.<P>Trouble is, I lent the book to my friend the scribe and he has a curse on him along with everyone else in the <FC 128,64,0>Cursed Palace<END FC>.<P>I'm old Anubis is responsible, but there is no way I would make it to his tower on the other side of the wall.<P>You are much younger and stronger than I. Why don't you take this and pay old Anubis a visit?<E>",
-    "description": "SphinxText.xls, row 1349"
-  },
-  "HT_Text_Hel_SunShrine_CanopicText2": {
-    "message": "I told you I can only help you if I have the <FC 0,128,0>Book of the Dead<END FC>. Come back when you have collected it.<E>",
-    "description": "SphinxText.xls, row 1350"
-  },
-  "HT_Text_Hel_SunShrine_CanopicText3": {
-    "message": "Excellent, you got the book!<P>PERFORMS RITUAL<P>If you find any more of these <FC 0,128,0>Canopic Vases<END FC>, you should be able to release the trapped energy inside by simply walking near to it.<E>",
-    "description": "SphinxText.xls, row 1351"
-  },
-  "HT_Text_Hel_SunShrine_Help_GotDoubleJump": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Wings of Ibis<END FC>!<ES HT_Text_ES_S_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>This magical artifact allows you to jump to greater heights and longer distances.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 1352"
   }
 }

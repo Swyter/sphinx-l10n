@@ -411,14 +411,6 @@
     "message": "You have done well Sphinx, but I cannot help you any further.<E>",
     "description": "SphinxText.xls, row 2168"
   },
-  "HT_Text_Urk_2key_UrukiteHD60_QuestCompleteKaAnkh": {
-    "message": "The artifact you found in the temple can be used to activate the magical <FC 0,128,0>Ka Ankh<END FC>.<P>Once it is active, stand on the Ka symbol and press <FC 0,128,0>SHOOT KA<END FC> to enter 1st person mode.<P>Aim and shoot the top of a distant <FC 0,128,0>Ankh<END FC> and after a few seconds you will be magically transported to the distant island.<E>",
-    "description": "SphinxText.xls, row 2169"
-  },
-  "HT_Text_Urk_2key_UrukiteHD60_QuestCompleteFarewell": {
-    "message": "As you wish. Good luck on the rest of your journey, stranger.<E>",
-    "description": "SphinxText.xls, row 2170"
-  },
   "HT_Text_Urk_4pat_Help_FoundBounce": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Bouncing Darts<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>These magical darts can be used to hit<N>targets which you don't have direct access to.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 2172"

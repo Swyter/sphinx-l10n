@@ -23,10 +23,6 @@
     "message": "<ST>WHAT!!!<END ST> You cannot give him the crown, he is clearly an impostor! Anubis would never endorse the actions of one such as he!<E>",
     "description": "SphinxText.xls, row 1540"
   },
-  "HT_Text_Aby_CouncilChambersInterior1_Coronation2b": {
-    "message": "Countless years licking your feet to get this crown, and now you're going to give it to a stranger! <E>",
-    "description": "SphinxText.xls, row 1541"
-  },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation3a": {
     "message": "The crown is ours! You are not going to give it away to anyone, you stupid fool!!! <E>",
     "description": "SphinxText.xls, row 1542"
@@ -462,10 +458,6 @@
   "HT_Text_Aby_Museum_HaveAHook": {
     "message": "As a reward for contributing an animal to the city's museum, I would like to present you with this <FC 0,128,0>Zip Line Handle<END FC>.<P>It allows you to use the numerous zip lines located around our city.<P>It's easy to use the zip lines, just stand near to the end of a zip line rope and jump. That's all there is to it!<E>",
     "description": "SphinxText.xls, row 1651"
-  },
-  "HT_Text_Aby_Museum_ChooseDonation": {
-    "message": "<DHP><DP><CNTR><END TT>Use the rotator to choose what you would like to donate to the museum.",
-    "description": "SphinxText.xls, row 1652"
   },
   "HT_Text_Aby_Museum_WelcomeJewel": {
     "message": "Greetings! I am the museum's resident jewel expert.<P>As you may have heard, we've lost all of our jewel exhibit to thieves.<P>The council has offered to handsomely reward any person able to return any of the stolen jewels to the museum.<P>If you have any jewels you want me to look at, I'll inspect them for you.<E>",
@@ -1199,166 +1191,6 @@
     "message": "I'm having dinner, come back later! <E>",
     "description": "SphinxText.xls, row 1838"
   },
-  "HT_Text_Aby_Start_Kemmit_GoAway1": {
-    "message": "Sorry, whatever you're selling I'm not interested.<E>",
-    "description": "SphinxText.xls, row 1840"
-  },
-  "HT_Text_Aby_Start_Kemmit_GoAway2": {
-    "message": "I've got better things to do than look at people through my window you know.<E>",
-    "description": "SphinxText.xls, row 1841"
-  },
-  "HT_Text_Aby_Start_Kemmit_OpenDoorChat": {
-    "message": "I give in, what's so important then.<E>",
-    "description": "SphinxText.xls, row 1842"
-  },
-  "HT_Text_Aby_Start_Kemmit_ReadNoteChat": {
-    "message": "Hmm, I think I have something you could use.<E>",
-    "description": "SphinxText.xls, row 1843"
-  },
-  "HT_Text_Aby_Start_Kemmit_AfterFindingAnkhChat": {
-    "message": "There you go, that should neutralize the electricity for you, enjoy.<E>",
-    "description": "SphinxText.xls, row 1844"
-  },
-  "HT_Text_Aby_Start_Kemmit_NotFoundHerbs": {
-    "message": "Haven't you found all those herbs yet, what's a matter, afraid of getting your precious hair wet.<E>",
-    "description": "SphinxText.xls, row 1845"
-  },
-  "HT_Text_Aby_South_Kemmit_WantToLeave": {
-    "message": "I envy you, I'd love to explore the depths of the ocean. Not to mention it would me a chance to get away from these superficial snobs eh.<E>",
-    "description": "SphinxText.xls, row 1846"
-  },
-  "HT_Text_Aby_Start_Kemmit_TakeBackHerbs": {
-    "message": "Maybe you should take those herbs back to the physician, he doesn't normally bother me unless its something important.<E>",
-    "description": "SphinxText.xls, row 1847"
-  },
-  "HT_Text_Aby_South_Kemmit_DivingBellReady": {
-    "message": "The diving bell's all ready for you to go down to Akaria, get in whenever you're ready.<E>",
-    "description": "SphinxText.xls, row 1848"
-  },
-  "HT_Text_Aby_South_UpperClassHD30_GoBridgeA": {
-    "message": "<FC 64,64,64>You boy, go lower the bridges...<E>",
-    "description": "SphinxText.xls, row 1849"
-  },
-  "HT_Text_Aby_South_UpperClassHD36_GoBridgeA": {
-    "message": "<FC 64,128,64>...we have to tell the Mayor...<E>",
-    "description": "SphinxText.xls, row 1850"
-  },
-  "HT_Text_Aby_South_UpperClassHD38_GoBridgeA": {
-    "message": "<FC 128,64,64>...there has been a terrible accident...<E>",
-    "description": "SphinxText.xls, row 1851"
-  },
-  "HT_Text_Aby_South_UpperClassHD30_GoBridgeB": {
-    "message": "<FC 64,64,64>...come on now quickly...<E>",
-    "description": "SphinxText.xls, row 1852"
-  },
-  "HT_Text_Aby_South_UpperClassHD36_GoBridgeB": {
-    "message": "<FC 64,128,64>...we have not got all day you know...<E>",
-    "description": "SphinxText.xls, row 1853"
-  },
-  "HT_Text_Aby_South_UpperClassHD38_GoBridgeB": {
-    "message": "<FC 128,64,64>...this is an <SW>EMERGENCY!<E>",
-    "description": "SphinxText.xls, row 1854"
-  },
-  "HT_Text_Aby_South_UpperClassHD30_TooSlow1A": {
-    "message": "<FC 64,64,64>The control tower is just over there...<E>",
-    "description": "SphinxText.xls, row 1855"
-  },
-  "HT_Text_Aby_South_UpperClassHD36_TooSlow1A": {
-    "message": "<FC 64,128,64>...my word you are slow boy...<E>",
-    "description": "SphinxText.xls, row 1856"
-  },
-  "HT_Text_Aby_South_UpperClassHD38_TooSlow1A": {
-    "message": "<FC 128,64,64>...we are getting impatient...<E>",
-    "description": "SphinxText.xls, row 1857"
-  },
-  "HT_Text_Aby_South_UpperClassHD30_TooSlow1B": {
-    "message": "<FC 64,64,64>...get to it now, hurry hurry.<E>",
-    "description": "SphinxText.xls, row 1858"
-  },
-  "HT_Text_Aby_South_UpperClassHD30_TooSlow2A": {
-    "message": "<FC 64,64,64>We deserve better service than this, we are very important people...<E>",
-    "description": "SphinxText.xls, row 1859"
-  },
-  "HT_Text_Aby_South_UpperClassHD36_TooSlow2A": {
-    "message": "<FC 64,128,64>...ARE     YOU     A     BIT     SLOW     BOY,     THE     BRIDGE,     THE     BRIDGE...<E>",
-    "description": "SphinxText.xls, row 1860"
-  },
-  "HT_Text_Aby_South_UpperClassHD38_TooSlow2A": {
-    "message": "<FC 128,64,64>...poor peasants, they are just not brought up proper you know.<E>",
-    "description": "SphinxText.xls, row 1861"
-  },
-  "HT_Text_Aby_CouncilChambersExterior_UpperClassHD36_LetMeIn": {
-    "message": "<FC 64,128,64>I demand entrance, there are beasts out here.<W 60>",
-    "description": "SphinxText.xls, row 1862"
-  },
-  "HT_Text_Aby_CouncilChambersExterior_UpperClassHD38_KeepOutMonsters": {
-    "message": "<FC 128,64,64>Sorry my friend but we cannot chance them getting inside, we will always remember you.<W 60>",
-    "description": "SphinxText.xls, row 1863"
-  },
-  "HT_Text_Aby_North_UpperClassHD30_OnOwn1": {
-    "message": "<FC 64,64,64>I have heard that that the king of Akaria is called Sobek and wants to live in our city and force us to live down there.<E>",
-    "description": "SphinxText.xls, row 1864"
-  },
-  "HT_Text_Aby_North_UpperClassHD30_OnOwn2": {
-    "message": "<FC 64,64,64>It has become the height of fashion to visit King Sobek's beautiful city, I hope I get invited to one of his prestigious parties soon.<E>",
-    "description": "SphinxText.xls, row 1865"
-  },
-  "HT_Text_Aby_South_UpperClassHD36_OnOwn1": {
-    "message": "<FC 64,128,64>I keep having nightmares about monsters, my beauty sleep is being destroyed.<E>",
-    "description": "SphinxText.xls, row 1866"
-  },
-  "HT_Text_Aby_South_UpperClassHD36_OnOwn2": {
-    "message": "<FC 64,128,64>I can finally sleep soundly knowing that the monster threat is over.<E>",
-    "description": "SphinxText.xls, row 1867"
-  },
-  "HT_Text_Aby_South_UpperClassHD38_OnOwn1": {
-    "message": "<FC 128,64,64>I have heard that Akarians have eaten all the fish and are now planning to take over our city so that they can eat us.<E>",
-    "description": "SphinxText.xls, row 1868"
-  },
-  "HT_Text_Aby_South_UpperClassHD38_OnOwn2": {
-    "message": "<FC 128,64,64>I have heard that the Akarian's have the most beautiful jewllery, I must pay them a visit some time.<E>",
-    "description": "SphinxText.xls, row 1869"
-  },
-  "HT_Text_AbydosianCouple_Woman1": {
-    "message": "What IS that smell .... oh, its you. <E>",
-    "description": "SphinxText.xls, row 1870"
-  },
-  "HT_Text_AbydosianCouple_Man1": {
-    "message": "Hmm .... Another foreigner ready to beg in our streets. <E>",
-    "description": "SphinxText.xls, row 1871"
-  },
-  "HT_Text_AbydosianCouple_Woman2": {
-    "message": "Go away, I'm too busy to talk to the likes of you! <E>",
-    "description": "SphinxText.xls, row 1872"
-  },
-  "HT_Text_AbydosianCouple_Man2": {
-    "message": "Excuse me, your disturbing the lady, please take your smell someplace else. <E>",
-    "description": "SphinxText.xls, row 1873"
-  },
-  "HT_Text_AbydosianCouple_Woman3": {
-    "message": "Ugh! Get away from me you sewer rat! <E>",
-    "description": "SphinxText.xls, row 1874"
-  },
-  "HT_Text_AbydosianCouple_Man3": {
-    "message": "I don't have any spare change, go beg somewhere else. <E>",
-    "description": "SphinxText.xls, row 1875"
-  },
-  "HT_Text_Racist1": {
-    "message": "Go back to where you came from! <P> Abydos isn't the place for the likes of you! <E>",
-    "description": "SphinxText.xls, row 1876"
-  },
-  "HT_Text_Racist2": {
-    "message": "Didn\u2019t you get the hint? Perhaps a few more of these rocks will show you the way! <E>",
-    "description": "SphinxText.xls, row 1877"
-  },
-  "HT_Text_Racist3": {
-    "message": "Come catch me if you can! <E>",
-    "description": "SphinxText.xls, row 1878"
-  },
-  "HT_Text_Racist4": {
-    "message": "ARGHHHHHHHHHHH! <E>",
-    "description": "SphinxText.xls, row 1879"
-  },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick1": {
     "message": "Oooooooooh...<E>",
     "description": "SphinxText.xls, row 1880"
@@ -1383,18 +1215,6 @@
     "message": "It's so hard to find trustworthy advisors these days!<E>",
     "description": "SphinxText.xls, row 1885"
   },
-  "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved3": {
-    "message": "Have you seen the cake delivery boy, can't make decisions without chocolate you know.<E>",
-    "description": "SphinxText.xls, row 1886"
-  },
-  "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved4": {
-    "message": "I love my guards, they have to do whatever I tell them too,<SW 4> giggle.<E>",
-    "description": "SphinxText.xls, row 1887"
-  },
-  "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved5": {
-    "message": "I love all the people in my city, I can't send them into battle, if they get hurt I'm sure they wouldn't be my friends anymore.<E>",
-    "description": "SphinxText.xls, row 1888"
-  },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted1": {
     "message": "It's so hard to get honest advisors these days.<E>",
     "description": "SphinxText.xls, row 1889"
@@ -1406,45 +1226,5 @@
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted3": {
     "message": "I had no idea there was an underground cavern beneath that statue. Perhaps I should have the town plans examined to see what else the city hides.<E>",
     "description": "SphinxText.xls, row 1891"
-  },
-  "HT_Text_Aby_North_MarketSalesmanHD26_NothingToSay": {
-    "message": "<FC 100,128,100>I've got nothing for sale, honestly.<E>",
-    "description": "SphinxText.xls, row 1892"
-  },
-  "HT_Text_Aby_North_MarketSalesmanHD26_OfferLever": {
-    "message": "<FC 100,128,100>Oh I see you've heard about my special offer, yes I've got a spare lever, but the impending attack from Akarians has pushed the price up a bit.<P>The lever costs 80 if you want it.<N><B 1>Yes please<N><B 2>Too much for me<E>",
-    "description": "SphinxText.xls, row 1893"
-  },
-  "HT_Text_Aby_North_MarketSalesmanHD26_BoughtLever1": {
-    "message": "<FC 100,128,100>Good choice fine sir, there you go...<E>",
-    "description": "SphinxText.xls, row 1894"
-  },
-  "HT_Text_Aby_North_MarketSalesmanHD26_BoughtLever2": {
-    "message": "<FC 100,128,100><SW>...Woah<END SW>, he stole your lever.<E>",
-    "description": "SphinxText.xls, row 1895"
-  },
-  "HT_Text_Aby_North_MarketSalesmanHD26_NotMyProblem": {
-    "message": "<FC 100,128,100>Sorry no refunds.<E>",
-    "description": "SphinxText.xls, row 1896"
-  },
-  "HT_Text_Aby_North_MarketSalesmanHD26_YourLoss": {
-    "message": "<FC 100,128,100>Your loss my friend, I get the feeling this particular item is quite a vital purchase at the moment.  If you don't buy it I'm sure I'll be able to find another buyer.<E>",
-    "description": "SphinxText.xls, row 1897"
-  },
-  "HT_Text_Aby_North_MarketSalesmanHD26_CantAfford": {
-    "message": "<FC 100,128,100>Don't try and pull that stunt with me boy, no funds, no sale, <SW>KA-CHING.<E>",
-    "description": "SphinxText.xls, row 1898"
-  },
-  "HT_Text_Aby_South_MadBoyHU05_CatchMe1": {
-    "message": "<FC 32,32,128>Ha ha ha, too slow.<E>",
-    "description": "SphinxText.xls, row 1899"
-  },
-  "HT_Text_Aby_South_MadBoyHU05_Catchme2": {
-    "message": "<FC 32,32,128>Is that the best you can do.<E>",
-    "description": "SphinxText.xls, row 1900"
-  },
-  "HT_Text_Aby_South_MadBoyHU05_Caught": {
-    "message": "<FC 32,32,128><SW 4>I'm sorry, here take it....<E>",
-    "description": "SphinxText.xls, row 1901"
   }
 }
