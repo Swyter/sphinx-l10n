@@ -8,6 +8,8 @@ MARKER_HASHCODE       = -1
 MARKER_LANGUAGE_START = -1
 MARKER_LANGUAGE_END   = -1
 
+DEAD_TEXT_COLUMN = 3 - 1
+
 lang = {
     'MARKER_ENGLISH_US': 'en_UK',
     'MARKER_ENGLISH_UK': 'en_US',
@@ -88,8 +90,12 @@ for cur in lang:
             print(">> cur_section", cur_section)
             continue
             
-        # swy: skip empty cells
+        # swy: skip empty cells (again, check for hashcodes)
         if not row[MARKER_HASHCODE]:
+            continue
+            
+        # swy: this string/row is marked as old/deprecated/dead/obsolete
+        if row[DEAD_TEXT_COLUMN] and int(row[DEAD_TEXT_COLUMN]) == 1:
             continue
 
         # swy: export it in this 'simple' format:
