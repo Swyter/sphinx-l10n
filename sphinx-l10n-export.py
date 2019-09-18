@@ -1,6 +1,7 @@
 import csv
 import os
 import json
+import collections
 
 HEADER_ROW = 3 - 1 # swy: the header row is usually in the third line (2 when indexing from zero)
 MARKER_HASHCODE       = -1
@@ -45,6 +46,7 @@ MARKER_LANGUAGE_START = data_read[HEADER_ROW].index("MARKER_LANGUAGE_START")
 MARKER_LANGUAGE_END   = data_read[HEADER_ROW].index("MARKER_LANGUAGE_END")
 
 cur_section = ""
+out = collections.OrderedDict()
 
 for cur in lang:
     cur_col_idx = data_read[HEADER_ROW].index(cur)
@@ -63,24 +65,34 @@ for cur in lang:
             continue
            
         # swy: skip empty cells
-        if not (cur[0] or cur[MARKER_HASHCODE]):
+        if not row[0] and not row[MARKER_HASHCODE]:
             continue
         
         # swy: stop parsing once the table ends 
         if row[0] == "MARKER_LAST_MESSAGE":
             break
         
-        if row[0] != "" and cur_section != row[0]:
+        if row[0] != "" and cur_section != row[0]: # and not row[0] in ignored_section_markers:
             cur_section = row[0];
             print(">> cur_section", cur_section)
-        #else:
-        #    print(row[MARKER_HASHCODE])
+            continue
+
+        # swy: export it in this 'simple' format:
+        #      https://docs.transifex.com/formats/chrome-json
+        out[row[MARKER_HASHCODE]] = collections.OrderedDict()
+        
+        out[row[MARKER_HASHCODE]]["message"]     = "MSG"
+        out[row[MARKER_HASHCODE]]["description"] = "LOL"
             
-        # print(row[MARKER_HASHCODE], row[cur_col_idx],  len(row))
+        #print("--", row[MARKER_HASHCODE])
+            
+        #print(row[MARKER_HASHCODE], row[cur_col_idx],  len(row))
     break
         
+print(out)
+
 with open('data.json', 'w') as outfile:
-    json.dump(data_read, outfile, indent=2)
+    json.dump(out, outfile, indent=2)
     
 kwargs = {'newline': ''}
 mode = 'w'
