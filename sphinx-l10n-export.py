@@ -23,7 +23,7 @@ ignored_section_markers = [ 'M_STATIC_TEXT' ]
 
 data_read = []
 
-with open('SphinxTextFiltered.csv', 'r') as f:
+with open('SphinxText.csv', 'r') as f:
     reader = csv.reader(f, delimiter=',', quotechar='"')
     data_read = [row for row in reader]
     #print(data_read[35])
@@ -44,16 +44,26 @@ MARKER_HASHCODE       = data_read[HEADER_ROW].index("MARKER_HASHCODE")
 MARKER_LANGUAGE_START = data_read[HEADER_ROW].index("MARKER_LANGUAGE_START")
 MARKER_LANGUAGE_END   = data_read[HEADER_ROW].index("MARKER_LANGUAGE_END")
 
+cur_section = ""
+
 for cur in lang:
-    print(cur, lang[cur], "INDEX THING", data_read[HEADER_ROW].index(cur))
+    cur_col_idx = data_read[HEADER_ROW].index(cur)
+    print(cur, lang[cur], "INDEX THING", cur_col_idx)
     
-    # os.mkdir(lang[cur])
+    if not os.path.exists(lang[cur]):
+        os.mkdir(lang[cur])
 
     for cur in data_read:
-        if len(cur) < 3:
+        if len(cur) < 3 or not (cur[0] or cur[MARKER_HASHCODE]):
             continue
+        
+        if cur[0]:
+            cur_section = cur[0];
+            print(">> cur_section", cur_section)
+        else:
+            print(cur[MARKER_HASHCODE])
             
-        #print(cur[MARKER_HASHCODE], cur[MARKER_HASHCODE],  len(cur))
+        # print(cur[MARKER_HASHCODE], cur[cur_col_idx],  len(cur))
     break
         
 with open('data.json', 'w') as outfile:
