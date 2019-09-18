@@ -1,0 +1,322 @@
+{
+  "HT_Text_NoteTitle_FindBlade01": {
+    "message": "Suche die Klinge des Osiris",
+    "description": "SphinxText.xls, row 2538"
+  },
+  "HT_Text_NoteTitle_GetLetter01": {
+    "message": "Hole Nefertitis Brief",
+    "description": "SphinxText.xls, row 2539"
+  },
+  "HT_Text_NoteTitle_CollectAmulets01": {
+    "message": "Sammle die alten Amulette",
+    "description": "SphinxText.xls, row 2540"
+  },
+  "HT_Text_NoteTitle_GetToHeliopolis01": {
+    "message": "Suche einen Weg nach Heliopolis",
+    "description": "SphinxText.xls, row 2541"
+  },
+  "HT_Text_NoteTitle_FindPearls01": {
+    "message": "Finde 3 abydosianische Perlen",
+    "description": "SphinxText.xls, row 2542"
+  },
+  "HT_Text_NoteTitle_DonateMuseum01": {
+    "message": "Gib dem Museum von Abydos eine Spende",
+    "description": "SphinxText.xls, row 2543"
+  },
+  "HT_Text_NoteTitle_GetAbydosPasscard01": {
+    "message": "Ratskammern von Abydos",
+    "description": "SphinxText.xls, row 2544"
+  },
+  "HT_Text_NoteTitle_FindImhotep01": {
+    "message": "Suche Imhotep auf der Sonnenschreininsel",
+    "description": "SphinxText.xls, row 2545"
+  },
+  "HT_Text_NoteTitle_GetBookOfTheDead01": {
+    "message": "Finde das Buch der Toten",
+    "description": "SphinxText.xls, row 2546"
+  },
+  "HT_Text_NoteTitle_VisitAnubis01": {
+    "message": "Besuche Anubis bei Eingang I der Gro\u00dfen Mauer",
+    "description": "SphinxText.xls, row 2547"
+  },
+  "HT_Text_NoteTitle_AnubisQuest01": {
+    "message": "Bringe Anubis 3 Feuerg\u00fcrteltiere",
+    "description": "SphinxText.xls, row 2548"
+  },
+  "HT_Text_NoteTitle_VisitFarmers01": {
+    "message": "Besuche den Hof in Heliopolis",
+    "description": "SphinxText.xls, row 2549"
+  },
+  "HT_Text_NoteTitle_SaveNomadWife01": {
+    "message": "Rette die Frau des Nomaden",
+    "description": "SphinxText.xls, row 2550"
+  },
+  "HT_Text_NoteTitle_DeactivateBeams01": {
+    "message": "Schalte das Kraftfeld ab, das die Frau des Nomaden gefangen h\u00e4lt",
+    "description": "SphinxText.xls, row 2551"
+  },
+  "HT_Text_NoteTitle_VisitImhotep01": {
+    "message": "Besuche Imhotep im Sonnenschreintempel",
+    "description": "SphinxText.xls, row 2552"
+  },
+  "HT_Text_NoteTitle_CrownQuest01": {
+    "message": "Hole die Heilige Krone von Abydos",
+    "description": "SphinxText.xls, row 2553"
+  },
+  "HT_Text_NoteTitle_MayorIll01": {
+    "message": "Die Krankheit des B\u00fcrgermeisters",
+    "description": "SphinxText.xls, row 2554"
+  },
+  "HT_Text_NoteTitle_SmallCanalCreatures01": {
+    "message": "Beseitige alle Monster im Kleinen Kanal",
+    "description": "SphinxText.xls, row 2555"
+  },
+  "HT_Text_NoteTitle_CureMayor01": {
+    "message": "Heile den B\u00fcrgermeister von Abydos",
+    "description": "SphinxText.xls, row 2556"
+  },
+  "HT_Text_NoteTitle_VisitKemmet01": {
+    "message": "\u00dcberbringe Kemmet die Notiz des Arztes",
+    "description": "SphinxText.xls, row 2557"
+  },
+  "HT_Text_NoteTitle_FindPoliticians01": {
+    "message": "Finde die verr\u00e4terischen Politiker",
+    "description": "SphinxText.xls, row 2558"
+  },
+  "HT_Text_NoteTitle_CrownQuest02": {
+    "message": "Hole die Heilige Krone von Uruk",
+    "description": "SphinxText.xls, row 2559"
+  },
+  "HT_Text_NoteTitle_FindHeliopolisDungeon01": {
+    "message": "Finde den verschollenen Tempel von Heliopolis",
+    "description": "SphinxText.xls, row 2560"
+  },
+  "HT_Text_NoteTitle_CollectRosettaPieces01": {
+    "message": "Finde die Teile des Rosettasteins",
+    "description": "SphinxText.xls, row 2561"
+  },
+  "HT_Text_NoteTitle_MeetArchaeologist01": {
+    "message": "Besuche den Arch\u00e4ologen im Beduinenlager",
+    "description": "SphinxText.xls, row 2562"
+  },
+  "HT_Text_NoteTitle_TranslateObelisks01": {
+    "message": "\u00dcbersetze die Texte auf den 5 Obelisken von Heliopolis",
+    "description": "SphinxText.xls, row 2563"
+  },
+  "HT_Text_NoteTitle_SmallObelisk01": {
+    "message": "\u00dcbersetzter antiker Text",
+    "description": "SphinxText.xls, row 2564"
+  },
+  "HT_Text_NoteTitle_SmallObelisk02": {
+    "message": "\u00dcbersetzter antiker Text",
+    "description": "SphinxText.xls, row 2565"
+  },
+  "HT_Text_NoteTitle_SmallObelisk03": {
+    "message": "\u00dcbersetzter antiker Text",
+    "description": "SphinxText.xls, row 2566"
+  },
+  "HT_Text_NoteTitle_SmallObelisk04": {
+    "message": "\u00dcbersetzter antiker Text",
+    "description": "SphinxText.xls, row 2567"
+  },
+  "HT_Text_NoteTitle_SmallObelisk05": {
+    "message": "\u00dcbersetzter antiker Text",
+    "description": "SphinxText.xls, row 2568"
+  },
+  "HT_Text_NoteTitle_Prophecy": {
+    "message": "Die Prophezeiung des Ra",
+    "description": "SphinxText.xls, row 2569"
+  },
+  "HT_Text_NoteTitle_TempleTest01": {
+    "message": "Bestehe die Pr\u00fcfung des Tempels von Uruk",
+    "description": "SphinxText.xls, row 2570"
+  },
+  "HT_Text_NoteTitle_CrownQuest03": {
+    "message": "Hole die Heilige Krone von Heliopolis",
+    "description": "SphinxText.xls, row 2571"
+  },
+  "HT_Text_NoteTitle_MotherQuest01": {
+    "message": "Fange die vermissten Hunde",
+    "description": "SphinxText.xls, row 2572"
+  },
+  "HT_Text_NoteTitle_DefeatSeth01": {
+    "message": "Besiege Set in Uruk",
+    "description": "SphinxText.xls, row 2573"
+  },
+  "HT_Text_Note_FindBlade01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Deine erste Aufgabe ist es, die  verlorene Klinge des Osiris zu finden. Diese m\u00e4chtige Waffe verschwand vor langer Zeit in der ungastlichen Landschaft um den Palast von Uruk.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2575"
+  },
+  "HT_Text_Note_GetLetter01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Hole Nefertitis Brief und bringe ihn zu ihr.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2576"
+  },
+  "HT_Text_Note_CollectAmulets01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Sammle die 8 alten Amulette und bringe sie deiner Tante Seti.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2577"
+  },
+  "HT_Text_Note_GetToHeliopolis01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep m\u00f6chte, dass du nach Heliopolis reist, nachdem du das Abydosamulett benutzt hast. Dort sollst du dich so schnell wie m\u00f6glich mit ihm treffen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2578"
+  },
+  "HT_Text_Note_FindPearls01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Finde 3 Perlen und gib sie dem abydosianischen Mann.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2579"
+  },
+  "HT_Text_Note_DonateMuseum01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Kurator des Museums von Abydos gibt dir ein Geschenk, sobald du deine erste Spende machst.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2580"
+  },
+  "HT_Text_Note_GetAbydosPasscard01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Die Wachen beim Abydos Kanal verweigern dir den Zutritt zu den Ratskammern. Vielleicht solltest du sp\u00e4ter wiederkommen, wenn du eine geeignete Identifikation hast.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2581"
+  },
+  "HT_Text_Note_FindImhotep01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep ist auf der Sonnenschreininsel. Besuche ihn dort, denn er hat Informationen f\u00fcr dich.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2582"
+  },
+  "HT_Text_Note_GetBookOfTheDead01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Finde das Buch der Toten, damit du Tragek-Orb beschw\u00f6ren kannst, sobald du eine Urne gefunden hast. Imhotep glaubt, dass das Buch sich im Verfluchten Palast befindet.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2583"
+  },
+  "HT_Text_Note_VisitAnubis01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Anubis hat die Bewohner des Verfluchten Palastes verdammt. Mit den Fl\u00fcgeln des Ibis kannst du den Eingang I der Gro\u00dfen Mauer passieren und Anubis besuchen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2584"
+  },
+  "HT_Text_Note_AnubisQuest01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Fange 3 Feuerg\u00fcrteltiere mit Fangk\u00e4fern und bringe sie zu Anubis.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2585"
+  },
+  "HT_Text_Note_VisitFarmers01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Bruder des Bauern hat dich auf den Hof in Heliopolis eingeladen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2586"
+  },
+  "HT_Text_Note_SaveNomadWife01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Finde heraus, wo die Frau des Nomaden gefangen ist und rette sie.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2587"
+  },
+  "HT_Text_Note_DeactivateBeams01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Das Kraftfeld um die Frau des Nomaden scheint von drei farbigen Strahlen erzeugt zu werden. Schalte sie ab.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2588"
+  },
+  "HT_Text_Note_VisitImhotep01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep bittet dich zu einem Gespr\u00e4ch im Tempel auf der Sonnenschreininsel.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2589"
+  },
+  "HT_Text_Note_CrownQuest01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Du musst die Heilige Krone von Abydos finden und sie zu Anubis in Heliopolis bringen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2590"
+  },
+  "HT_Text_Note_MayorIll01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Offensichtlich ist der B\u00fcrgermeister schwer krank. Vielleicht k\u00f6nnen die Leute in den Ratskammern von Abydos deine Hilfe gebrauchen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2591"
+  },
+  "HT_Text_Note_SmallCanalCreatures01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Die Wache am Kleinen Kanal bietet dir ein Portalamulett, wenn du die Monster in der Gegend beseitigst.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2592"
+  },
+  "HT_Text_Note_CureMayor01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Du musst 5 Heilkr\u00e4uter finden und sie zum Arzt in den Ratskammern von Abydos bringen.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Aus den Kr\u00e4utern kann der Arzt eine Medizin gegen die r\u00e4tselhafte Krankheit des B\u00fcrgermeisters machen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2593"
+  },
+  "HT_Text_Note_VisitKemmet01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Du musst Kemmet die Notiz des Arztes bringen. Kemmet wohnt am Gro\u00dfen Kanal. Vielleicht kann er dir helfen, die Heilkr\u00e4uter zu finden.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2594"
+  },
+  "HT_Text_Note_FindPoliticians01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Finde die verr\u00e4terischen Politiker und hole dir dein rechtm\u00e4\u00dfiges Eigentum, die Heilige Krone von Abydos, zur\u00fcck.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2595"
+  },
+  "HT_Text_Note_CrownQuest02": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Du musst die Heilige Krone von Uruk finden und sie zu Anubis nach Heliopolis bringen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2596"
+  },
+  "HT_Text_Note_FindHeliopolisDungeon01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Finde den Eingang zum Verschollenen Tempel von Heliopolis. Die Gattin des Pharao vermutet ihn in der S\u00fcdw\u00fcste von Heliopolis.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2597"
+  },
+  "HT_Text_Note_CollectRosettaPieces01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Finde die 6 Teile des Rosettasteins im Verschollenen Tempel von Heliopolis und bringe sie dem Arch\u00e4ologen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2598"
+  },
+  "HT_Text_Note_MeetArchaeologist01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Besuche den Arch\u00e4ologen im Beduinenlager. Dieses kannst du \u00fcber den Unterwasserweg vom Verfluchten Palast aus erreichen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2599"
+  },
+  "HT_Text_Note_TranslateObelisks01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Benutze den Rosettastein, um die Texte auf den 5 Goldenen Obelisken von Heliopolis zu \u00fcbersetzen. Berichte dem Arch\u00e4ologen im Beduinenlager von deinen Erkenntnissen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2600"
+  },
+  "HT_Text_Note_SmallObelisk01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Wenn das Zeitalter des Osiris ein Ende nimmt...<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2601"
+  },
+  "HT_Text_Note_SmallObelisk02": {
+    "message": "<ES HT_Text_ES_S_BOSStd> ...wird sich der Schatten von Set \u00fcber uns senken...<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2602"
+  },
+  "HT_Text_Note_SmallObelisk03": {
+    "message": "<ES HT_Text_ES_S_BOSStd>...aber ein gro\u00dfer Krieger namens Sphinx...<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2603"
+  },
+  "HT_Text_Note_SmallObelisk04": {
+    "message": "<ES HT_Text_ES_S_BOSStd>...wird sich als Auserw\u00e4hlter erweisen...<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2604"
+  },
+  "HT_Text_Note_SmallObelisk05": {
+    "message": "<ES HT_Text_ES_S_BOSStd>...um das Ewige Auge des Ra zu verteidigen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2605"
+  },
+  "HT_Text_Note_Prophecy": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Wenn das Zeitalter des Osiris ein Ende nimmt, wird sich der Schatten von Set \u00fcber uns senken. Aber ein gro\u00dfer Krieger namens Sphinx wird sich als Auserw\u00e4hlter erweisen, um das Ewige Auge des Ra zu verteidigen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2606"
+  },
+  "HT_Text_Note_TempleTest01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Bestehe die Pr\u00fcfung des Tempels von Uruk und bringe dem Urukiten, was du dort findest.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2607"
+  },
+  "HT_Text_Note_CrownQuest03": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Du musst die Heilige Krone von Heliopolis finden und sie zu Anubis bringen.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2608"
+  },
+  "HT_Text_Note_MotherQuest01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Fange die Hunde im Verfluchten Palast von Heliopolis und bringe sie ihrem Besitzer zur\u00fcck.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2609"
+  },
+  "HT_Text_Note_DefeatSeth01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Deine letzte Bestimmung ist es, Set in der verw\u00fcsteten Welt von Uruk entgegenzutreten.<ES HT_Text_ES_E_BOSStd><E>",
+    "description": "SphinxText.xls, row 2610"
+  },
+  "HT_Text_Notes_Test_T1": {
+    "message": "Aufgabe.",
+    "description": "SphinxText.xls, row 2612"
+  },
+  "HT_Text_Notes_Test_D1": {
+    "message": "<FC 100,100,60> Beschreibung.",
+    "description": "SphinxText.xls, row 2613"
+  },
+  "HT_Text_Notes_Test_T2": {
+    "message": "Finde Sets Palast.",
+    "description": "SphinxText.xls, row 2614"
+  },
+  "HT_Text_Notes_Test_D2": {
+    "message": "<FC 100,100,60>Set h\u00e4lt sich in seinem geheimen Palast versteckt, w\u00e4hrend er die Zerst\u00f6rung von Heliopolis dirigiert...<END FC><P><FC 100,100,60>Du musst ihn finden und seine Pl\u00e4ne zerschlagen...<END FC><P><FC 100,100,60>Der Dorf\u00e4lteste kann dir sagen, wo der Palast ist. Bringe ihm etwas Whiskey, um seine Zunge zu l\u00f6sen.<END FC>",
+    "description": "SphinxText.xls, row 2615"
+  },
+  "HT_Text_Notes_Test_T3": {
+    "message": "\u00dcberbringe die Botschaft von K\u00f6nig Sobek von Akaria.",
+    "description": "SphinxText.xls, row 2616"
+  },
+  "HT_Text_Notes_Test_D3": {
+    "message": "<FC 100,100,60>Nachdem Ischkas Plan f\u00fcr einen Krieg zwischen Abydos und Akaria aufgedeckt wurde...<END FC><P><FC 100,100,60>bittet K\u00f6nig Sobek dich, dem B\u00fcrgermeister von Abydos eine Botschaft zu \u00fcberbringen.<END FC>",
+    "description": "SphinxText.xls, row 2617"
+  },
+  "HT_Text_Notes_Test_T4": {
+    "message": "Finde die Medizin f\u00fcr den B\u00fcrgermeister.",
+    "description": "SphinxText.xls, row 2618"
+  },
+  "HT_Text_Notes_Test_D4": {
+    "message": "<FC 100,100,60>Der B\u00fcrgermeister von Abydos ist krank. Du musst den Arzt nach einer Medizin fragen...<END FC><P><FC 100,100,60>Der Arzt lebt am Kanal, der Abydos in die Nord- und S\u00fcdh\u00e4lfte unterteilt.<END FC>",
+    "description": "SphinxText.xls, row 2619"
+  }
+}

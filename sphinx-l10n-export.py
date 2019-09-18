@@ -11,8 +11,8 @@ MARKER_LANGUAGE_END   = -1
 DEAD_TEXT_COLUMN = 3 - 1
 
 lang = {
-    'MARKER_ENGLISH_US': 'en_UK',
-    'MARKER_ENGLISH_UK': 'en_US',
+    'MARKER_ENGLISH_US': 'en_US',
+    'MARKER_ENGLISH_UK': 'en_UK',
     'MARKER_GERMAN':     'de',
     'MARKER_FRENCH':     'fr',
     'MARKER_SPANISH':    'es',
@@ -47,17 +47,19 @@ MARKER_HASHCODE       = data_read[HEADER_ROW].index("MARKER_HASHCODE")
 MARKER_LANGUAGE_START = data_read[HEADER_ROW].index("MARKER_LANGUAGE_START")
 MARKER_LANGUAGE_END   = data_read[HEADER_ROW].index("MARKER_LANGUAGE_END")
 
-cur_section = ""
-cur_section_count = 0
-out = collections.OrderedDict()
-
 for cur in lang:
+    # swy: get the column index for the current language
     cur_col_idx = data_read[HEADER_ROW].index(cur)
     print(cur, lang[cur], "INDEX THING", cur_col_idx)
     
     if not os.path.exists(lang[cur]):
         os.mkdir(lang[cur])
 
+    cur_section = ""
+    cur_section_count = 0
+    out = collections.OrderedDict()
+
+    # swy: iterate for all the rows, once per language
     for i, row in enumerate(data_read):
         # swy: skip empty rows
         if len(row) < 3:
@@ -75,15 +77,15 @@ for cur in lang:
         if row[0] == "MARKER_LAST_MESSAGE":
             break
         
+        # swy: change string M_SOMETHING sections and spew the previous one if it wasn't empty
         if row[0] != "" and cur_section != row[0]: # and not row[0] in ignored_section_markers:
             print(">> pre_section", cur_section)
             
-            if out:
-                with open("%s/%s.json" % (lang[cur], cur_section), 'w') as outfile:
+            if out: # swy: sort the files so that they appear in the correct section order
+                with open("%s/%02u_%s.json" % (lang[cur], cur_section_count, cur_section), 'w') as outfile:
                     json.dump(out, outfile, indent=2)
                     
-                cur_section_count = cur_section_count + 1
-                
+            cur_section_count = cur_section_count + 1
             cur_section = row[0];
             out = collections.OrderedDict()
             
@@ -112,14 +114,11 @@ for cur in lang:
         #print("--", row[MARKER_HASHCODE])
             
         #print(row[MARKER_HASHCODE], row[cur_col_idx],  len(row))
-    
-    
-    break
         
 #print(out)
     
-kwargs = {'newline': ''}
-mode = 'w'
-with open('test.csv', mode, **kwargs) as fp:
-    writer = csv.writer(fp, delimiter=',')
-    writer.writerows(data_read)
+# kwargs = {'newline': ''}
+# mode = 'w'
+# with open('test.csv', mode, **kwargs) as fp:
+    # writer = csv.writer(fp, delimiter=',')
+    # writer.writerows(data_read)

@@ -1,0 +1,1034 @@
+{
+  "HT_Text_DanTest": {
+    "message": "Testo di prova di Dan.<E>",
+    "description": "SphinxText.xls, row 11"
+  },
+  "HT_Text_MG_WallDodge_Start": {
+    "message": "Benvenuto nella <FC 128,64,0>Galleria dei Campioni<END FC>. Giocare costa <FC 0,128,0>10 Scarabei<END FC>.<P>Vuoi giocare?<N>  <B 1> S\u00ec<N>  <B 2> No, grazie<E>",
+    "description": "SphinxText.xls, row 13"
+  },
+  "HT_Text_MG_WallDodge_Instructions": {
+    "message": "Evita le pareti che si muovono, frantuma le statue e raggiungi l'uscita entro il tempo limite.<E>",
+    "description": "SphinxText.xls, row 14"
+  },
+  "HT_Text_MG_WallDodge_Choose": {
+    "message": "Quale sfida desideri tentare?<N>  <B 1> Sfida 1<N>  <B 2> Sfida 2<E>",
+    "description": "SphinxText.xls, row 15"
+  },
+  "HT_Text_MG_WallDodge_Choose2": {
+    "message": "Quale sfida desideri tentare?<N>  <B 1> Sfida 1<N>  <B 2> Sfida 2<N>  <B 3> Sfida 3<E>",
+    "description": "SphinxText.xls, row 16"
+  },
+  "HT_Text_MG_WallDodge_NotReady": {
+    "message": "Non sei ancora pronto.<E>",
+    "description": "SphinxText.xls, row 17"
+  },
+  "HT_Text_MG_WallDodge_Fail": {
+    "message": "Peccato, non ce l'hai fatta. Prova ancora.<E>",
+    "description": "SphinxText.xls, row 18"
+  },
+  "HT_Text_MG_WallDodge_Succeed": {
+    "message": "Ben fatto! Sei giunto al termine in <FC 0,128,0><SO HT_Objective_WallDodge_Time> secondi<END FC>! Hai segnato un nuovo record!<E>",
+    "description": "SphinxText.xls, row 19"
+  },
+  "HT_Text_MG_WallDodge_Succeed1": {
+    "message": "Meriti una ricompensa per lo sforzo.<N>Vinci <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Scarabei<END FC>!<E>",
+    "description": "SphinxText.xls, row 20"
+  },
+  "HT_Text_MG_WallDodge_Succeed2": {
+    "message": "Un tempo davvero eccellente!<N>Vinci un premio in denaro di <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Scarabei<END FC>!<E>",
+    "description": "SphinxText.xls, row 21"
+  },
+  "HT_Text_MG_WallDodge_Succeed_HighScore1": {
+    "message": "Niente male - sei arrivato al termine in <FC 0,128,0><SO HT_Objective_WallDodge_Time> secondi<END FC>. Per\u00f2 potresti fare meglio...<P>Il tuo tempo migliore \u00e8 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> secondi<END FC>.<E>",
+    "description": "SphinxText.xls, row 22"
+  },
+  "HT_Text_MG_WallDodge_Succeed_HighScore2": {
+    "message": "Niente male - sei arrivato al termine in <FC 0,128,0><SO HT_Objective_WallDodge_Time> secondi<END FC>. Per\u00f2 potresti fare meglio...<P>Il tuo tempo migliore \u00e8 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2> secondi<END FC>.<E>",
+    "description": "SphinxText.xls, row 23"
+  },
+  "HT_Text_MG_WallDodge_Succeed_HighScore3": {
+    "message": "Bene - sei arrivato al termine in <FC 0,128,0><SO HT_Objective_WallDodge_Time> secondi<END FC>. Ma potresti migliorare...<P>Il tuo tempo migliore \u00e8 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> secondi<END FC>.<E>",
+    "description": "SphinxText.xls, row 24"
+  },
+  "HT_Text_MG_WallDodge_HighScores": {
+    "message": "<DP><DHP><END TT><CNTR>Sfida 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>Sfida 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N>Sfida 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>",
+    "description": "SphinxText.xls, row 25"
+  },
+  "HT_Text_MG_WallDodge_Test": {
+    "message": "Benvenuto nella <FC 128,64,0>Galleria dei Campioni<END FC>.<P>Qui i veri eroi possono mettere alla prova le loro capacit\u00e0. Vuoi misurarti con la nostra sfida?<N>  <B 1> S\u00ec<N>  <B 2> No<E>  ",
+    "description": "SphinxText.xls, row 26"
+  },
+  "HT_Text_MG_WallDodge_TestYes": {
+    "message": "Una scelta nobile e audace! Tuttavia, prima di continuare devi completare un piccolo test.<E>",
+    "description": "SphinxText.xls, row 27"
+  },
+  "HT_Text_MG_WallDodge_TestYesPearl": {
+    "message": "Riportami quel <FC 0,128,0>Diamante<END FC> dietro la recinzione entro <FC 0,128,0>20 secondi<END FC> e ti sarai dimostrato capace della sfida.<E>",
+    "description": "SphinxText.xls, row 28"
+  },
+  "HT_Text_MG_WallDodge_TestNo": {
+    "message": "Ottimo, la <FC 128,64,0>Galleria dei Campioni<END FC> non \u00e8 per tutti.<E>",
+    "description": "SphinxText.xls, row 29"
+  },
+  "HT_Text_MG_WallDodge_TestComplete": {
+    "message": "Eccellente, hai superato il test.<E>",
+    "description": "SphinxText.xls, row 30"
+  },
+  "HT_Text_MG_WallDodge_TestFail": {
+    "message": "\u00c8 chiaro che non sei pronto per affrontare la sfida. Torna quando avrai acquisito le capacit\u00e0 per recuperare il <FC 0,128,0>Diamante<END FC>.<E>",
+    "description": "SphinxText.xls, row 31"
+  },
+  "HT_Text_MG_WallDodge_TestInProgress": {
+    "message": "Ti restano solo pochi secondi!<E>",
+    "description": "SphinxText.xls, row 32"
+  },
+  "HT_Text_MG_WallDodge_TestGiveUp": {
+    "message": "Se non riesci a completare il test, non puoi completare la sfida. Torna quando credi di potercela fare... <E>",
+    "description": "SphinxText.xls, row 33"
+  },
+  "HT_Text_MG_WallDodge_NoMoney": {
+    "message": "Che cosa stai tentando di ottenere? Non hai 10 <FC 0,128,0>Scarabei<END FC>.<E>",
+    "description": "SphinxText.xls, row 36"
+  },
+  "HT_Text_MG_WallDodge_GameComplete": {
+    "message": "Hai superato la sfida! Sei un vero campione!<P>Ecco la <FC 0,128,0>Medaglia dei Campioni<END FC>, concessa solo ai vincitori.<E>",
+    "description": "SphinxText.xls, row 37"
+  },
+  "HT_Text_MG_Shooting_Start": {
+    "message": "Benvenuto alla <FC 128,64,0>Taverna dei Bersagli di Tefnut<END FC>. Giocare costa <FC 0,128,0>10 Scarabei<END FC>.<P>Vuoi giocare?<N>  <B 1> S\u00ec<N>  <B 2> No grazie<E>",
+    "description": "SphinxText.xls, row 46"
+  },
+  "HT_Text_MG_Shooting_Instructions": {
+    "message": "Spara ai bersagli per guadagnare punti. Se colpisci i teschi avverranno cose terribili... in questo caso perderai punti e tempo.<E>",
+    "description": "SphinxText.xls, row 47"
+  },
+  "HT_Text_MG_Shooting_Won": {
+    "message": "Niente male. Hai colpito molti bersagli. <P>Per\u00f2 in passato hai conquistato pi\u00f9 di <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> punti<END FC>.<P>Come premio per questo risultato eccoti <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Scarabei<END FC>. Riprova pure se pensi di poter fare meglio.<E>",
+    "description": "SphinxText.xls, row 48"
+  },
+  "HT_Text_MG_Shooting_Won_HighScore": {
+    "message": "Hai ottenuto un altro punteggio alto con <FC 0,128,0><SO HT_Objective_Shooting_Score1> punti<END FC>! Il tuo risultato verr\u00e0 aggiunto al tabellone per i posteri.<P>Come premio per un simile risultato eccoti <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Scarabei<END FC>!<E>",
+    "description": "SphinxText.xls, row 49"
+  },
+  "HT_Text_MG_Shooting_Lost": {
+    "message": "Bleah! Che schifo! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> punti<END FC>, \u00e8 patetico! Forse hai bisogno di fare ancora un po' di pratica?<E>",
+    "description": "SphinxText.xls, row 50"
+  },
+  "HT_Text_MG_Shooting_LostSingle": {
+    "message": "Bleah! Che schifo! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> punti<END FC>, \u00e8 patetico! Forse hai bisogno di fare ancora un po' di pratica?<E>",
+    "description": "SphinxText.xls, row 51"
+  },
+  "HT_Text_MG_Shooting_HighScores": {
+    "message": "<DP><DHP><END TT>Il tuo punteggio migliore \u00e8: <FC 0,128,0><SO HT_Objective_Shooting_Score1> punti<END FC>!",
+    "description": "SphinxText.xls, row 52"
+  },
+  "HT_Text_MG_Shooting_NoMoney": {
+    "message": "Ho detto <FC 0,128,0>10 Scarabei<END FC>, questi non sono <FC 0,128,0>10 Scarabei<END FC>! Non ne hai abbastanza, vero?<E>",
+    "description": "SphinxText.xls, row 56"
+  },
+  "HT_Text_MG_Shooting_GameComplete": {
+    "message": "Hai dimostrato la tua abilit\u00e0 con la <FC 0,128,0>Cerbottana<END FC>! \u00c8 per me un piacere offrirti la <FC 0,128,0>Medaglia del Lanciatore<END FC>. Ben fatto.<E>",
+    "description": "SphinxText.xls, row 57"
+  },
+  "HT_Text_MG_Shooting_WinInstructions": {
+    "message": "Per provare la tua abilit\u00e0 con la <FC 0,128,0>Cerbottana<END FC> e ottenere la <FC 0,128,0>Medaglia del lanciatore<END FC>, devi vincere almeno <FC 0,128,0>40 punti<END FC>.<E>",
+    "description": "SphinxText.xls, row 58"
+  },
+  "HT_Text_MG_Simon_Start": {
+    "message": "Benvenuto al gioco mistico delle sequenze, straniero. Nel mio tempio metteremo alla prova la tua capacit\u00e0 di ricordare modelli di suoni e colori.<P>Vuoi giocare?<N>  <B 1> S\u00ec<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 60"
+  },
+  "HT_Text_MG_Simon_StartEasy": {
+    "message": "Benvenuto al gioco mistico delle sequenze. Per soli <N><FC 0,128,0>5 Scarabei<END FC> puoi mettere alla prova le tue capacit\u00e0 nel mio magico tempio.<P>Vuoi giocare?<N> <B 1> S\u00ec<N> <B 2> No<E>",
+    "description": "SphinxText.xls, row 61"
+  },
+  "HT_Text_MG_Simon_Choose1": {
+    "message": "Quale livello di capacit\u00e0 vuoi provare nel mio magico tempio?<N>  <B 1> Principiante - <FC 0,128,0>5 Scarabei<END FC><N>  <B 2> Intermedio - <FC 0,128,0>10 Scarabei<END FC><E>",
+    "description": "SphinxText.xls, row 62"
+  },
+  "HT_Text_MG_Simon_Choose2": {
+    "message": "Che livello di capacit\u00e0 vuoi provare nel tempio?<N>  <B 1> Principiante - <FC 0,128,0>5 Scarabei<END FC><N>  <B 2> Intermedio - <FC 0,128,0>10 Scarabei<END FC><N>  <B 3> Esperto - <FC 0,128,0>20 Scarabei<END FC><E>",
+    "description": "SphinxText.xls, row 63"
+  },
+  "HT_Text_MG_Simon_Instructions": {
+    "message": "Segui il sentiero fino alla piattaforma centrale. Prova a ricordare la sequenza visualizzata.<P>Per vincere copia la sequenza.<N>Puoi visualizzare ancora le sequenze saltando sulla piattaforma centrale, ma solo una volta.<E>",
+    "description": "SphinxText.xls, row 64"
+  },
+  "HT_Text_MG_Simon_Fail": {
+    "message": "No, no, no, non va bene! Questa volta non ce l'hai fatta.<E>",
+    "description": "SphinxText.xls, row 65"
+  },
+  "HT_Text_MG_Simon_Succeed": {
+    "message": "Ottimo! Hai passato il turno <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>!<E>",
+    "description": "SphinxText.xls, row 66"
+  },
+  "HT_Text_MG_Simon_Win": {
+    "message": "Congratulazioni, hai vinto! Come premio ti spettano <FC 0,128,0><SO HT_Objective_Simon_Prize> Scarabei<END FC>!<E>",
+    "description": "SphinxText.xls, row 67"
+  },
+  "HT_Text_MG_Simon_Restart": {
+    "message": "Sei nel mezzo di un gioco! Cosa vuoi fare?<N>  <B 1> Uscire<PC 1><B 2> Ricominciare<N>  <B 3> Continuare<PC 1><B 4> Istruzioni<E>",
+    "description": "SphinxText.xls, row 68"
+  },
+  "HT_Text_MG_Simon_CopyLimit": {
+    "message": "No, non farlo! Puoi solo vedere la sequenza due volte!<E>",
+    "description": "SphinxText.xls, row 69"
+  },
+  "HT_Text_MG_Simon_NoMoney": {
+    "message": "Aspetta, non hai abbastanza <FC 0,128,0>Scarabei<END FC>. Torna quando ne avrai abbastanza per giocare.<E>",
+    "description": "SphinxText.xls, row 72"
+  },
+  "HT_Text_MG_Simon_CantLeave": {
+    "message": "Ehi, non puoi andartene! Sei nel mezzo di un gioco!<E>",
+    "description": "SphinxText.xls, row 73"
+  },
+  "HT_Text_MG_Simon_GameComplete": {
+    "message": "Eccellente! Hai battuto il mio gioco e hai conquistato la <FC 0,128,0>Medaglia delle Sequenze<END FC>.<E>",
+    "description": "SphinxText.xls, row 74"
+  },
+  "HT_Text_MG_Pairs_Start": {
+    "message": "Benvenuto nel mio gioco! Giocare costa <FC 0,128,0>10 Scarabei<END FC>.<P>Vuoi giocare?<N>  <B 1> S\u00ec<N>  <B 2> No, grazie<E>",
+    "description": "SphinxText.xls, row 76"
+  },
+  "HT_Text_MG_Pairs_Scores": {
+    "message": "<DHP><DP><END TT>Il tuo tempo migliore in questo gioco \u00e8:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> secondi<END FC>.",
+    "description": "SphinxText.xls, row 77"
+  },
+  "HT_Text_MG_Pairs_NoScores": {
+    "message": "<DHP><DP><END TT>Non hai mai completato questo gioco... <END FC>",
+    "description": "SphinxText.xls, row 78"
+  },
+  "HT_Text_MG_Pairs_Win": {
+    "message": "Congratulazioni! Hai vinto <FC 0,128,0><SO HT_Objective_Pairs_Won> Scarabei<END FC>!<E>",
+    "description": "SphinxText.xls, row 79"
+  },
+  "HT_Text_MG_Pairs_Restart": {
+    "message": "Sei nel mezzo di un gioco! Cosa vuoi fare?<N>  <B 1> Uscire<PC 1><B 2> Ricominciare<N>  <B 3> Continuare<PC 1><B 4> Istruzioni<E>",
+    "description": "SphinxText.xls, row 80"
+  },
+  "HT_Text_MG_Pairs_Instructions": {
+    "message": "Usa la <FC 0,128,0>Cerbottana<END FC> per aprire le porte in fondo alla stanza.<P>Per vincere abbina tutte le coppie di oggetti dietro le porte.<E>",
+    "description": "SphinxText.xls, row 81"
+  },
+  "HT_Text_MG_Pairs_NoBlowpipe": {
+    "message": "Dolente, non puoi giocare senza una <FC 0,128,0>cerbottana.<END FC>.<E>",
+    "description": "SphinxText.xls, row 85"
+  },
+  "HT_Text_MG_Pairs_RestartPay": {
+    "message": "Ti coster\u00e0 altri <FC 0,128,0>10 Scarabei<END FC>...<N>  <B 1> OK, ricomincio<N>  <B 2> No, continuo a giocare<E>",
+    "description": "SphinxText.xls, row 87"
+  },
+  "HT_Text_MG_Pairs_NoMoney": {
+    "message": "Ho detto che ti coster\u00e0 <FC 0,128,0>10 Scarabei<END FC>, tu non hai <FC 0,128,0>10 Scarabei<END FC>.<E>",
+    "description": "SphinxText.xls, row 88"
+  },
+  "HT_Text_MG_Pairs_NotWon": {
+    "message": "Hai impiegato un secolo! Per te nessun premio!<E>",
+    "description": "SphinxText.xls, row 89"
+  },
+  "HT_Text_MG_Pairs_WinInstructions": {
+    "message": "Se riesci a completare il gioco entro <FC 0,128,0>60 secondi<END FC>, ti dimostrerai degno della <FC 0,128,0>Medaglia della Memoria<END FC>.<E>",
+    "description": "SphinxText.xls, row 90"
+  },
+  "HT_Text_MG_Pairs_GameComplete": {
+    "message": "Hai conquistato la <FC 0,128,0>Medaglia della Memoria<END FC>!<E>",
+    "description": "SphinxText.xls, row 91"
+  },
+  "HT_Text_MG_Pairs_TooLong": {
+    "message": "Stai impiegando troppo tempo, devo interrompere il gioco. Spiacente.<E>",
+    "description": "SphinxText.xls, row 92"
+  },
+  "HT_Text_Museum_BC01_Giant_Prawn": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Geb<END FC> ]---<P>I Geb, che portano il nome dell'antico dio della terra, erano creature pacifiche.<P>Oggi non sono altro che muscoli al servizio della terrificante Regina dei Geb...<E>",
+    "description": "SphinxText.xls, row 94"
+  },
+  "HT_Text_Museum_BM09_Smiling_burble": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Blob sorridente<END FC> ]---<P>Questa piccola creatura \u00e8 uno dei membri meno pericolosi della famiglia Blob, poich\u00e9 ha perso le propriet\u00e0 esplosive tipiche della sua specie.<P>Le sue potenti corna possono frantumare la roccia, bench\u00e9 questa minaccia sia ridotta dalla mancanza di coordinazione.<E>",
+    "description": "SphinxText.xls, row 95"
+  },
+  "HT_Text_Museum_BM10_i_Cyclops": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Ciclope<END FC> ]---<P>Cos\u00ec chiamato per il suo unico occhio, questo bipede sa lanciare fulmini di fuoco, teletrasportare e duplicare.<P>La sua combinazione di colore della pelle e capelli talvolta fa s\u00ec che si confonda con certe radici...<E>",
+    "description": "SphinxText.xls, row 96"
+  },
+  "HT_Text_Museum_BM12_slim_burble": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Blob esile<END FC> ]---<P>Dotato di arti pi\u00f9 lunghi e sottili rispetto agli altri Blob, il Blob esile depone uova con una frequenza allarmante.<P>Vive in tane ai piedi di scogliere e il suo temperamento feroce trae origine da una dieta prevalentemente costituita da lava appena colata.<E>",
+    "description": "SphinxText.xls, row 97"
+  },
+  "HT_Text_Museum_BR04_Goofy_Lizard": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Lucertola goffa<END FC> ]---<P>Il comportamento della Lucertola goffa mostra una totale mancanza di buon senso, pari solo alla sua apparente mancanza di coordinazione.<P>L'animale addomesticato pi\u00f9 popolare.<E>",
+    "description": "SphinxText.xls, row 98"
+  },
+  "HT_Text_Museum_BR05_Dino_Oaf": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Dinosauro goffo<END FC> ]---<P>I Dinosauri goffi esistono da milioni di anni, come attestano alcuni graffiti scoperti di recente.<P>Erbivori docili e curiosi, la loro forza viene talvolta utilizzata per alleggerire pesanti compiti agricoli.<E>",
+    "description": "SphinxText.xls, row 99"
+  },
+  "HT_Text_Museum_BR06_Half_Brute": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Mezzobruto<END FC> ]---<P>Il nome Mezzobruto non rende la natura di questi mostri bipedi aggressivi, presenti soprattutto nelle regioni desertiche.<P>Un discendente di Tuttobruto; una spregevole lucertola riconosciuta come estinta.<E>",
+    "description": "SphinxText.xls, row 100"
+  },
+  "HT_Text_Museum_BU01_Mummy_Minotaur": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Minotauro mummia<END FC> ]---<P>Discendenti del custode di un antico labirinto, i Minotauri mummia si muovono furtivi negli oscuri templi <FC 128,64,0>egiziani<END FC>.<P>Roso dalle fiamme che pu\u00f2 anche sputare, questo feroce attacco \u00e8 stato neutralizzato per la sicurezza del museo.<E>",
+    "description": "SphinxText.xls, row 101"
+  },
+  "HT_Text_Museum_BU02_Skeletal_Axeman": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Scheletro con ascia<END FC> ]---<P>Si dice che siano ex guerrieri di un antico esercito oscuro egiziano. Membri dei non-morti, la loro origine \u00e8 sconosciuta.<P>Raramente in gruppi maggiori di tre, nel passato formavano interi battaglioni.<E>",
+    "description": "SphinxText.xls, row 102"
+  },
+  "HT_Text_Museum_BU03_zombie_man": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Zombie<END FC> ]---<P>Prima di entrare nelle fila dei non-morti, erano schiavi dediti alla costruzione di templi immensi.<P>Ora, uno Zombie \u00e8 condannato a peregrinare per le terre desertiche alla ricerca di una porta per l'aldil\u00e0 che lo inghiotta per sempre...<E>",
+    "description": "SphinxText.xls, row 103"
+  },
+  "HT_Text_Museum_BU05_almost_a_bull": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Quasitoro<END FC> ]---<P>Spesso presente a <FC 128,64,0>Heliopolis<END FC>, per difendersi il Quasitoro si rimpicciolisce in modo da apparire all'attaccante come un bersaglio pi\u00f9 piccolo.<P>Per un errore genetico, una mano \u00e8 stata sostituita da un terzo corno; una sorta di anomalia evoluzionistica.<E>",
+    "description": "SphinxText.xls, row 104"
+  },
+  "HT_Text_Museum_BU06_MBird": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Uccello mummia<END FC> ]---<P>Quando \u00e8 stato mummificato, gli sono stati bendati gli occhi per motivi di superstizione.<P>Di conseguenza, per individuare la preda si basa sull'udito e salta con artigli tesi nella direzione del rumore.<E>",
+    "description": "SphinxText.xls, row 105"
+  },
+  "HT_Text_Museum_FL02_Featherless_Turkey": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Tacchino spiumato<END FC> ]---<P>Appositamente generato per una preparazione culinaria rapida, con gli anni il Tacchino spiumato ha assunto un carattere complesso.<P>Attacca chiunque e sembra incolpare qualsiasi essere vivente incontrato della perdita del suo piumaggio.<E>",
+    "description": "SphinxText.xls, row 106"
+  },
+  "HT_Text_Museum_FL03_shuttlecock_bird": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Uccello volano<END FC> ]---<P>L'uccello volano percorre solo piccole distanze per volta, ma la sua unica zampa gli consente di effettuare potenti salti.<P>La straordinaria disposizione delle piume attorno al capo lo rende eccezionalmente aerodinamico negli attacchi.<E>",
+    "description": "SphinxText.xls, row 107"
+  },
+  "HT_Text_Museum_HD02_Cat": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Gatto con lame<END FC> ]---<P>Un parente molto pi\u00f9 veloce e mortale del Gatto con chele. Possiede un udito eccezionale.<P>Bench\u00e9 abbia una forma umanoide, per apprezzare il suo lato felino devi vedere il Gatto con lame mentre caccia.<E>",
+    "description": "SphinxText.xls, row 108"
+  },
+  "HT_Text_Museum_HD03_BigBull": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Grande toro<END FC> ]---<P>Questa mostruosit\u00e0 armata di maglio \u00e8 nota per il cattivo carattere.<P>Il maglio \u00e8 tanto grande da fungere da scudo senza necessit\u00e0 di una posa difensiva.<E>",
+    "description": "SphinxText.xls, row 109"
+  },
+  "HT_Text_Museum_HD14_Crab": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Gatto con chele<END FC> ]---<P>Questo misto tra un umanoide e un crostaceo vaga per la regione.<P>Il rivestimento dorato che adorna il Gatto con chele \u00e8 saldato al suo corpo ed \u00e8 incantato per consentirne la crescita.<E>",
+    "description": "SphinxText.xls, row 110"
+  },
+  "HT_Text_Museum_HD17_Sharpbeak": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Becco acuminato<END FC> ]---<P>La linea esile del Becco acuminato lo rende un agile guerriero, inoltre \u00e8 uno spadaccino molto abile.<P>Si dice che la sua forma mista di lucertola e uccello sia dovuta alla magia nera.<E>",
+    "description": "SphinxText.xls, row 111"
+  },
+  "HT_Text_Museum_HD43_Skull_Aka_Worshipper": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Adoratore teschio<END FC> ]---<P>Un potente alleato delle forze del male, un combattente abile e spietato.<P>L'Adoratore teschio \u00e8 proprio questo:- coloro che sono riusciti a fuggire narrano che la sua dimora \u00e8 adornata di teschi.<E>",
+    "description": "SphinxText.xls, row 112"
+  },
+  "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Shadow": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Adoratore tenebre<END FC> ]---<P>\u00c8 meglio avvicinarsi alle ombre delle critte con cautela poich\u00e9 potrebbero nascondere un Adoratore delle tenebre.<P>Si dice che siano le anime torturate dei guerrieri del passato, intrappolate tra il nostro mondo e l'aldil\u00e0.<E>",
+    "description": "SphinxText.xls, row 113"
+  },
+  "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Sword": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Spadaccino teschio<END FC> ]---<P>Abilissimi con la spada e avversari mortali.<P>Come gli Adoratori teschio, possono richiamare un teschio spettrale che prosciuga l'essenza dell'anima al contatto.<E>",
+    "description": "SphinxText.xls, row 114"
+  },
+  "HT_Text_Museum_IN01_Green_Giant_worm": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Verme verde gigante<END FC> ]---<P>L'invertebrato pi\u00f9 grande mai visto, \u00e8 anche uno dei pochi vermi carnivori esistenti.<P>I Vermi verdi giganti fortificano l'ingresso alle loro reti di gallerie sotterranee e in questo modo avvertono della loro presenza.<E>",
+    "description": "SphinxText.xls, row 115"
+  },
+  "HT_Text_Museum_IN07_Blade_Scorpion": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Scorpione-falce<END FC> ]---<P>Questo aracnide simile a un'aragosta ha una coda articolata in maniera diversa rispetto a un normale scorpione e pu\u00f2 causare un danno doppio.<P>Oltre ad avere un pungiglione mortale sulla punta, la coda dello Scorpione falce \u00e8 un'affilatissima falce letale in grado di fendere un'armatura.<E>",
+    "description": "SphinxText.xls, row 116"
+  },
+  "HT_Text_Museum_IN09_Sak_Spike_Spider": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Ragno istrice<END FC> ]---<P>Forse il membro pi\u00f9 piccolo nella famiglia dei ragni, \u00e8 tra i pi\u00f9 veloci grazie alle sue forti zampe.<P>I Ragni istrice cacciano in gruppo, insieme circondano la preda e la attaccano simultaneamente da tutte le direzioni.<E>",
+    "description": "SphinxText.xls, row 117"
+  },
+  "HT_Text_Museum_PI01_Piranha": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Piranha<END FC> ]---<P>Un pesce malvagio originario di un paese lontano. I Piranha di questo continente hanno l'appetito vorace dei loro parenti d'oltreoceano, ma sono anche anfibi.<P>Simili ai ratti; negli ultimi anni i Piranha sono diventati un pericolo sempre maggiore nei villaggi.<E>",
+    "description": "SphinxText.xls, row 118"
+  },
+  "HT_Text_Museum_PI01_Hard_Piranha": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Piranha corazzato<END FC> ]---<P>Lo scheletro esterno del Piranha corazzato lo rende estremamente resistente.<P>Pi\u00f9 veloci e pi\u00f9 intelligenti degli altri tipi di Piranha noti, sono altrettanto temibili per le ferite che infliggono.<E>",
+    "description": "SphinxText.xls, row 119"
+  },
+  "HT_Text_Museum_PL02_Tree_Creature": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Creatura albero<END FC> ]---<P>La Creatura albero \u00e8 una delle poche piante dotata di capacit\u00e0 magiche dalla nascita.<P>Distrae qualsiasi minaccia potenziale con un bagliore di luce magnetizzante che emana dal capo, mentre le radici sotterranee si gettano all'attacco.<E>",
+    "description": "SphinxText.xls, row 120"
+  },
+  "HT_Text_Museum_PL04_Sunflower_With_Face": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Girasole<END FC> ]---<P>Questa pianta perenne vive da secoli.<P>Immobile per la maggior parte del tempo, prende vita quando \u00e8 minacciata e lancia tre attacchi di spore simultaneamente per essere certa di danneggiare qualsiasi potenziale minaccia.<E>",
+    "description": "SphinxText.xls, row 121"
+  },
+  "HT_Text_Museum_QC01_Pokemon": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Creatura col guscio<END FC> ]---<P>Un rettile timido ed erbivoro che trascorre gran parte della vita all'interno del guscio.<P>Nonostante siano abbastanza comuni, la crudelt\u00e0 nei loro confronti ha procurato loro lo stato di specie protetta.<E>",
+    "description": "SphinxText.xls, row 122"
+  },
+  "HT_Text_Museum_QR04_Sak_Nose_Needler": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Occhiellatore<END FC> ]---<P>L'Occhiellatore punzecchia e provoca la preda fino a farla infuriare.<P>Scavando nel terreno a grande velocit\u00e0, questi esseri emergono brevemente e scagliano rocce abrasive contro il nemico prima di ritornarsene sottoterra e ripetere il processo.<E>",
+    "description": "SphinxText.xls, row 123"
+  },
+  "HT_Text_Museum_QU01_Skeletal_Spider": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Ragno scheletro<END FC> ]---<P>Uno degli esponenti pi\u00f9 particolari della famiglia, il Ragno scheletro si distingue per l'insolito sviluppo verticale della colonna vertebrale.<P>Originario di <FC 128,64,0>Uruk<END FC>, dove il suo esile corpo \u00e8 poco colpito dal caldo bruciante.<E>",
+    "description": "SphinxText.xls, row 124"
+  },
+  "HT_Text_Museum_QU02_Skeletal_Armadillo": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Armadillo<END FC> ]---<P>Questi strani quadrupedi goffi di solito procedono lenti. La loro dura corazza si trasforma in un'arma quando guizzano sul terreno.<P>Alcune storie per bambini sostengono che derivino dall'unione tra un riccio e una tartaruga.<E>",
+    "description": "SphinxText.xls, row 125"
+  },
+  "HT_Text_Museum_QU04_Mummy_Chihuahua": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Chihuahua mummia<END FC> ]---<P>Un Chihuahua \u00e8 un cane minuscolo. Il processo di mummificazione rende le loro controparti non morte molto aggressive.<P>Compagni comuni dei Faraoni, venivano rinchiusi nella tomba insieme al loro padrone.<E>",
+    "description": "SphinxText.xls, row 126"
+  },
+  "HT_Text_Museum_QU05_skeletal_waspspider": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Ragno vespa<END FC> ]---<P>Uno dei membri pi\u00f9 lenti della famiglia, ha le punte degli artigli munite di un potente pungiglione.<P>Il Ragno vespa preferisce la fresca brezza delle regioni costiere.<E>",
+    "description": "SphinxText.xls, row 127"
+  },
+  "HT_Text_Museum_QU06_Mummy_Worm": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Verme mummia<END FC> ]---<P>Un invertebrato non morto che sputa palle di fuoco.<P>Radicati sul posto e incapaci di scavare, vengono talvolta utilizzati come sentinelle contro i visitatori indesiderati.<E>",
+    "description": "SphinxText.xls, row 128"
+  },
+  "HT_Text_Museum_QU09_Rat": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Topo<END FC> ]---<P>Un grosso roditore noto per la sua capacit\u00e0 di diffondere malattie, spesso trovato nelle fogne e in altre zone sporche.<P>Il nome \"Topo\" viene usato anche per indicare persone sleali, inaffidabili.<E>",
+    "description": "SphinxText.xls, row 129"
+  },
+  "HT_Text_Museum_PI04_Spinefish": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Pesce trombetta<END FC> ]---<P>Le belle pinne nascondono spine con un veleno mortale che il pesce utilizza per evitare i possibili aggressori.<P>Il Pesce trombetta \u00e8 un animale territoriale e viene utilizzato dalle classi alte nei loro fossati difensivi.<E>",
+    "description": "SphinxText.xls, row 130"
+  },
+  "HT_Text_Museum_PI02_Electric_Eel": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Lampreda<END FC> ]---<P>La Lampreda \u00e8 un animale piuttosto docile nel suo habitat naturale.<P>Tuttavia, dato il campo elettrico che crea, l'acqua in cui nuota diventa elettrificata e molto pericolosa per qualsiasi animale ignaro.<E>",
+    "description": "SphinxText.xls, row 131"
+  },
+  "HT_Text_Museum_PI03_Manta_Ray": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Manta<END FC> ]---<P>L'habitat naturale della Manta \u00e8 l'oceano aperto.<P>In genere, le mante preferiscono nutrirsi di piccoli branchi di pesci ma se provocate attaccano anche animali pi\u00f9 grandi.<E>",
+    "description": "SphinxText.xls, row 132"
+  },
+  "HT_Text_Museum_FL05_Mummy_Eagle": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Aquila mummia<END FC> ]---<P>L'Aquila mummia \u00e8 uno dei pi\u00f9 grandi uccelli esistenti. Date le sue dimensioni e la sua forza, pu\u00f2 facilmente sollevare gli uomini.<P>Questa capacit\u00e0 \u00e8 stata sfruttata dagli Antichi, che utilizzavano la <FC 0,128,0>Pietra dell'aquila<END FC> per richiamare gli uccelli.<E>",
+    "description": "SphinxText.xls, row 133"
+  },
+  "HT_Text_Museum_IN11_Spider": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Ragno vedetta<END FC> ]---<P>Il Ragno vedetta trascorre tutta la sua vita arrampicandosi su pareti o soffitti.<P>Da questa posizione, riesce a gettarsi sulla preda ignara senza attirare l'attenzione su di s\u00e9.<E>",
+    "description": "SphinxText.xls, row 134"
+  },
+  "HT_Text_Museum_QR01_Cobra": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Cobra<END FC> ]---<P>Un serpente velenosissimo.<P>In genere, il cobra costruisce la sua casa in aree buie e chiuse, e cos\u00ec sorprende molti esploratori ignari.<E> ",
+    "description": "SphinxText.xls, row 135"
+  },
+  "HT_Text_Museum_QR02_Spitting_Toad": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Rospo sputatore<END FC> ]---<P>Il cosiddetto \"Rospo sputatore\" trae il suo nome dalla tendenza a ingoiare prima di pensare.<P>Tutto ci\u00f2 che non rientra nel suo particolare gusto viene sputato con forza.<E>",
+    "description": "SphinxText.xls, row 136"
+  },
+  "HT_Text_Museum_QR03_Small_Frog": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Ranocchia<END FC> ]---<P>La Ranocchia proviene dalle paludi tossiche.<P>Di conseguenza, \u00e8 molto resistente alle sostanze tossiche.<E>",
+    "description": "SphinxText.xls, row 137"
+  },
+  "HT_Text_Museum_QU08_Normal_Chihuahua": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Chihuahua<END FC> ]---<P>Animali preferiti dai ricchi, i Chihuahua sono molto energici.<P>Mentre gli amanti dei cani adorano i Chihuahua, molti trovano irritante il loro incessante abbaiare.<E>",
+    "description": "SphinxText.xls, row 138"
+  },
+  "HT_Text_Museum_PI05_Aka_Turtle": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Tartaruga marina<END FC> ]---<P>La Tartaruga marina \u00e8 una creatura solitaria amante dell'oceano aperto. Le sue dimensioni sono il risultato della sua lunga vita.<P>L'esemplare pi\u00f9 vecchio rinvenuto aveva oltre trecento anni.<E>",
+    "description": "SphinxText.xls, row 139"
+  },
+  "HT_Text_Museum_BM07_Squirt": {
+    "message": "<N><CNTR>---[ <FC 0,128,0>Squirt<END FC> ]---<P>Lo Squirt \u00e8 una creatura timida, che si spaventa per nulla. Il suo valore deriva dal fatto che \u00e8 immune ai <FC 0,128,0>Coleotteri da cattura<END FC>.<E>",
+    "description": "SphinxText.xls, row 140"
+  },
+  "HT_Text_Museum_Name_BM09_Smiling_burble": {
+    "message": "Un Blob sorridente! Usa le sue corna a caso.",
+    "description": "SphinxText.xls, row 142"
+  },
+  "HT_Text_Museum_Name_BM10_i_Cyclops": {
+    "message": "Un Ciclope! Bello ma perfido.",
+    "description": "SphinxText.xls, row 143"
+  },
+  "HT_Text_Museum_Name_BM12_slim_burble": {
+    "message": "Un Blob esile! Rapido nel riprodursi ed esplosivo!",
+    "description": "SphinxText.xls, row 144"
+  },
+  "HT_Text_Museum_Name_BR04_Goofy_Lizard": {
+    "message": "Una Lucertola goffa! Un animale sciocco ma amabile.",
+    "description": "SphinxText.xls, row 145"
+  },
+  "HT_Text_Museum_Name_BR06_Half_Brute": {
+    "message": "Un Mezzobruto! Un mostro decisamente aggressivo.",
+    "description": "SphinxText.xls, row 147"
+  },
+  "HT_Text_Museum_Name_BU02_Skeletal_Axeman": {
+    "message": "Uno Scheletro con ascia! Un letale soldato del lato oscuro.",
+    "description": "SphinxText.xls, row 149"
+  },
+  "HT_Text_Museum_Name_BU05_almost_a_bull": {
+    "message": "Quasitoro! Utilizza le corna con effetto violento.",
+    "description": "SphinxText.xls, row 151"
+  },
+  "HT_Text_Museum_Name_BU06_MBird": {
+    "message": "Un uccello mummia! Le bende coprono quasi tutte le piume.",
+    "description": "SphinxText.xls, row 152"
+  },
+  "HT_Text_Museum_Name_FL02_Featherless_Turkey": {
+    "message": "Un Tacchino spiumato! Un uccello nudo con un caratteraccio.",
+    "description": "SphinxText.xls, row 153"
+  },
+  "HT_Text_Museum_Name_FL03_shuttlecock_bird": {
+    "message": "Un uccello volano! Con una zampa e un piumaggio aerodinamico.",
+    "description": "SphinxText.xls, row 154"
+  },
+  "HT_Text_Museum_Name_HD02_Cat": {
+    "message": "Un Gatto con lame! Non \u00e8 certo il felino pi\u00f9 cordiale.",
+    "description": "SphinxText.xls, row 155"
+  },
+  "HT_Text_Museum_Name_HD03_BigBull": {
+    "message": "Un Grande toro! Gli piace far roteare il maglio.",
+    "description": "SphinxText.xls, row 156"
+  },
+  "HT_Text_Museum_Name_HD14_Crab": {
+    "message": "Un Gatto con chele! Un bipede scontroso.",
+    "description": "SphinxText.xls, row 157"
+  },
+  "HT_Text_Museum_Name_HD17_Sharpbeak": {
+    "message": "Un Becco acuminato! Un raro esempio di creatura da battaglia.",
+    "description": "SphinxText.xls, row 158"
+  },
+  "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper": {
+    "message": "Un Adoratore teschio! Un potente alleato delle forze del male.",
+    "description": "SphinxText.xls, row 159"
+  },
+  "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Shadow": {
+    "message": "Un Adoratore tenebre! Raramente visto fuori dall'ombra.",
+    "description": "SphinxText.xls, row 160"
+  },
+  "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Sword": {
+    "message": "Uno Spadaccino teschio! Abili guerrieri con attacchi spettrali. ",
+    "description": "SphinxText.xls, row 161"
+  },
+  "HT_Text_Museum_Name_IN01_Green_Giant_worm": {
+    "message": "Un Verme gigante verde! Un vermone con grandi denti.",
+    "description": "SphinxText.xls, row 162"
+  },
+  "HT_Text_Museum_Name_IN07_Blade_Scorpion": {
+    "message": "Uno Scorpione falce! Rapido e mortale con la coda pungente.",
+    "description": "SphinxText.xls, row 163"
+  },
+  "HT_Text_Museum_Name_IN09_Sak_Spike_Spider": {
+    "message": "Un Ragno istrice! Noto per lanciarsi sulla preda.",
+    "description": "SphinxText.xls, row 164"
+  },
+  "HT_Text_Museum_Name_PI01_Piranha": {
+    "message": "Un Piranha! Un vorace pesce carnivoro.",
+    "description": "SphinxText.xls, row 165"
+  },
+  "HT_Text_Museum_Name_PI01_Hard_Piranha": {
+    "message": "Un Piranha corazzato! Un pesciolino veloce e letale.",
+    "description": "SphinxText.xls, row 166"
+  },
+  "HT_Text_Museum_Name_PL02_Tree_Creature": {
+    "message": "Una Creatura albero! Non ripararti sotto questo albero!",
+    "description": "SphinxText.xls, row 167"
+  },
+  "HT_Text_Museum_Name_PL04_Sunflower_With_Face": {
+    "message": "Un Girasole! Una pericolosa pianta spara-spore.",
+    "description": "SphinxText.xls, row 168"
+  },
+  "HT_Text_Museum_Name_QC01_Pokemon": {
+    "message": "Una Creatura col guscio! Un timido rettile corazzato.",
+    "description": "SphinxText.xls, row 169"
+  },
+  "HT_Text_Museum_Name_QR04_Sak_Nose_Needler": {
+    "message": "Un Occhiellatore! Un irascibile mammifero scavatore.",
+    "description": "SphinxText.xls, row 170"
+  },
+  "HT_Text_Museum_Name_QU01_Skeletal_Spider": {
+    "message": "Un Ragno scheletro! Sottomette i nemici a testate. ",
+    "description": "SphinxText.xls, row 171"
+  },
+  "HT_Text_Museum_Name_QU04_Mummy_Chihuahua": {
+    "message": "Un Chihuahua mummia! Un animale non morto.",
+    "description": "SphinxText.xls, row 173"
+  },
+  "HT_Text_Museum_Name_QU04_Normal_Chihuahua": {
+    "message": "Un Chihuahua! Un animale comune tra i ricchi.",
+    "description": "SphinxText.xls, row 174"
+  },
+  "HT_Text_Museum_Name_QU05_skeletal_waspspider": {
+    "message": "Un Ragno vespa! Noto per il pungiglione.",
+    "description": "SphinxText.xls, row 175"
+  },
+  "HT_Text_Museum_Name_QU06_Mummy_Worm": {
+    "message": "Un Verme mummia! Sputa palle di fuoco contro gli attaccanti.",
+    "description": "SphinxText.xls, row 176"
+  },
+  "HT_Text_Museum_Name_QU09_Rat": {
+    "message": "Un Topo! Una sporca creatura che zampetta in giro.",
+    "description": "SphinxText.xls, row 177"
+  },
+  "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Electricity": {
+    "message": "Un Armadillo elettrico! Il pi\u00f9 spaventoso della sua specie.",
+    "description": "SphinxText.xls, row 178"
+  },
+  "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Fire": {
+    "message": "Un Armadillo di fuoco! Rotea con risultati brucianti.",
+    "description": "SphinxText.xls, row 179"
+  },
+  "HT_Text_Museum_Name_QR01_Cobra": {
+    "message": "Un Cobra! Un serpente crestato con un morso velenoso.",
+    "description": "SphinxText.xls, row 180"
+  },
+  "HT_Text_Museum_Name_QR03_Small_Frog": {
+    "message": "Una Ranocchia! Piccola, ma anche tossica.",
+    "description": "SphinxText.xls, row 181"
+  },
+  "HT_Text_Museum_Name_Jewel01": {
+    "message": "Gioiello di Shu",
+    "description": "SphinxText.xls, row 182"
+  },
+  "HT_Text_Museum_Name_Jewel02": {
+    "message": "Gioiello di Memphis",
+    "description": "SphinxText.xls, row 183"
+  },
+  "HT_Text_Museum_Name_Jewel03": {
+    "message": "Gioiello di Edfu",
+    "description": "SphinxText.xls, row 184"
+  },
+  "HT_Text_Museum_Name_Jewel04": {
+    "message": "Gioiello di Wedjat",
+    "description": "SphinxText.xls, row 185"
+  },
+  "HT_Text_Museum_Name_Jewel05": {
+    "message": "Gioiello di Uraeus",
+    "description": "SphinxText.xls, row 186"
+  },
+  "HT_Text_Museum_Name_Jewel06": {
+    "message": "Gioiello di Weni",
+    "description": "SphinxText.xls, row 187"
+  },
+  "HT_Text_ES_S_HelpText": {
+    "message": "<FC 60,98,57>",
+    "description": "SphinxText.xls, row 189"
+  },
+  "HT_Text_ES_E_HelpText": {
+    "message": "<END FC>",
+    "description": "SphinxText.xls, row 190"
+  },
+  "HT_Text_ES_S_BOSItem": {
+    "message": "<FC 60,98,57>",
+    "description": "SphinxText.xls, row 191"
+  },
+  "HT_Text_ES_E_BOSItem": {
+    "message": "<END FC>",
+    "description": "SphinxText.xls, row 192"
+  },
+  "HT_Text_ES_S_BOSLocation": {
+    "message": "<FC 60,98,57>",
+    "description": "SphinxText.xls, row 193"
+  },
+  "HT_Text_ES_E_BOSLocation": {
+    "message": "<END FC>",
+    "description": "SphinxText.xls, row 194"
+  },
+  "HT_Text_Gen_Help_GotAbyCrown": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Conquisti la <FC 0,128,0>Sacra corona di Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 196"
+  },
+  "HT_Text_Gen_Help_GotSakCrown": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Conquisti la <FC 0,128,0>Sacra corona di Uruk<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 197"
+  },
+  "HT_Text_Gen_Help_GotHelCrown": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Conquisti la <FC 0,128,0>Sacra corona di Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 198"
+  },
+  "HT_Text_Gen_Help_NewNoteFirst": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00c8 stata aggiunta una nota al <N> <FC 0,128,0>Libro di Sphinx<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Per visualizzare il <FC 0,128,0>Libro di Sphinx<END FC><N>premi <SB HT_PadAction_BOS_Show><P><ES HT_Text_ES_S_HelpText><CNTR>La sezione <FC 0,128,0>Note<END FC> contiene <N>informazioni sulla missione.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 199"
+  },
+  "HT_Text_Gen_Help_NewNote": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>C'\u00e8 una nuova nota al <N> <FC 0,128,0>Libro di Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 200"
+  },
+  "HT_Text_Gen_Help_NewNotes": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ci sono nuove note al <N> <FC 0,128,0>Libro di Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 201"
+  },
+  "HT_Text_Gen_Help_GotChapter2Items": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto gli oggetti che la Mummia<N>ha raccolto nel <FC 128,64,0>Castello di Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Hai conquistato la <FC 0,128,0>Statua di Atun<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Si dice che abbia poteri magici.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Hai conquistato il secondo <FC 0,128,0>Gioiello rubato di Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I curatori del <FC 128,64,0>Museo di Abydos<END FC><N>ne saranno felici.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 202"
+  },
+  "HT_Text_Gen_Help_GotChapter3Items": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto gli oggetti che la Mummia <N>ha raccolto nel <FC 128,64,0>Castello di Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto la <FC 0,128,0>Borsa delle medicine<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Questa borsa con fodera speciale preserver\u00e0 i <N>delicati ingredienti medicinali.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto il terzo <FC 0,128,0>Gioiello rubato di Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I curatori del <FC 128,64,0>Museo di Abydos<END FC><N>ne saranno felici.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 203"
+  },
+  "HT_Text_Gen_Help_GotChapter4Items": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto gli oggetti che la Mummia<N>ha raccolto nel <FC 128,64,0>Castello di Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto le <FC 0,128,0>Mani di Amun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Questo manufatto d\u00e0 a Sphinx la forza<N>per spingere e trascinare oggetti pesanti.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto il quarto <FC 0,128,0>Gioiello rubato di Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I curatori del <FC 128,64,0>Museo di Abydos<END FC><N>saranno felici.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 204"
+  },
+  "HT_Text_Gen_Help_GotChapter5Items": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto gli oggetti che la Mummia<N>ha raccolto nel <FC 128,64,0>Castello di Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Hai ricevuto l'<FC 0,128,0>Invito reale<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Questo documento ufficiale ti invita a<N>incontrare il Faraone di <FC 128,64,0>Heliopolis<END FC>.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto il quinto <FC 0,128,0>Gioiello rubato di Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I curatori del <FC 128,64,0>Museo di Abydos<END FC><N>saranno felici.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 205"
+  },
+  "HT_Text_Gen_Help_GotChapter6Items": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto gli oggetti che la Mummia<N>ha raccolto nel <FC 128,64,0>Castello di Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto la <FC 0,128,0>Sacra corona di Set<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Hai ottenuto il sesto <FC 0,128,0>Gioiello rubato di Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I curatori del <FC 128,64,0>Museo di Abydos<END FC><N>saranno felici.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 206"
+  },
+  "HT_Text_Gen_Help_AtunDisc": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Questo \u00e8 l'antico <FC 0,128,0>Disco di Atun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>\u00c8 un punto magico: quando ci passi sopra infonde in te un'energia misteriosa che ti consente di correre velocissimo.<P><ES HT_Text_ES_S_HelpText><CNTR>Purtroppo, l'effetto \u00e8 solo temporaneo ma questi dischi si riveleranno preziosi per spostarsi pi\u00f9 rapidamente in <FC 128,64,0>Heliopolis<END FC>.<E>",
+    "description": "SphinxText.xls, row 207"
+  },
+  "HT_Text_Gen_Help_GotAtunEye": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai trovato un <FC 0,128,0>Occhio di Atun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Sembra perfetto per l'orbita di una<N>statua di qualche tipo.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 208"
+  },
+  "HT_Text_Gen_Help_GotAtunEyes04": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto <FC 0,128,0>4 Occhi di Atun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Sembrano perfetti per le orbite di<N>una statua di qualche tipo.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 209"
+  },
+  "HT_Text_Gen_Help_GotDoubleJump": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto le <FC 0,128,0>Ali di Ibis<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Con queste ali, Sphinx pu\u00f2<N>eseguire un secondo salto per raggiungere<N>altezze e distanze maggiori!<P><CNTR><ES HT_Text_ES_S_HelpText>Premi <SB HT_Action_Jump> per saltare,<N>premi ancora <SB HT_Action_Jump> a mezza altezza<N>per fare una <FC 0,128,0>CAPRIOLA<END FC>.<E>",
+    "description": "SphinxText.xls, row 210"
+  },
+  "HT_Text_Gen_Help_GotShieldOfOsiris": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto lo <FC 0,128,0>Scudo di Osiride<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Questo scudo \u00e8 stato usato in battaglia<N>dal grande dio Osiride in persona.<P><ES HT_Text_ES_S_HelpText><CNTR>Puoi utilizzarlo per proteggerti da molti<N>tipi di attacchi e altri pericoli.<P><ES HT_Text_ES_S_HelpText><CNTR>Per predisporre lo <FC 0,128,0>Scudo di Osiride<END FC> usa <N><SB HT_PadAction_HUD_ShowRotator> per selezionare l'oggetto...<P><ES HT_Text_ES_S_HelpText><CNTR>...quindi premi il tasto a cui vuoi<N>assegnare l'oggetto.<P><CNTR><ES HT_Text_ES_S_HelpText>Tieni premuto il<N>tasto appropriato per difenderti.<P><ES HT_Text_ES_S_HelpText><CNTR>Mentre ti difendi, usa<N><SB HT_PadAction_PLR_MovePlr> per indirizzare lo scudo.<E>",
+    "description": "SphinxText.xls, row 211"
+  },
+  "HT_Text_Gen_Help_GotBlowpipe": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto la <FC 0,128,0>Cerbottana<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I dardi magici scagliati<N>si rigenerano all'infinito <P><ES HT_Text_ES_S_HelpText><CNTR>e possono essere utilizzati per colpire bersagli lontani, ma<N>sono in grado solo di danneggiare i mostri esplosivi.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Usa <SB HT_PadAction_HUD_ShowRotator> per assegnare la <FC 0,128,0>Cerbottana<END FC> a un tasto.<P><ES HT_Text_ES_S_HelpText><CNTR>Quindi,<FC 0,128,0><END FC> premi il tasto<N>per accedere alla modalit\u00e0 in prima persona.<P><ES HT_Text_ES_S_HelpText><CNTR>Premi <SB HT_Action_FireDart> per sparare.<P><ES HT_Text_ES_S_HelpText><CNTR>Premi <SB HT_Action_Cancel> per uscire<N>dalla modalit\u00e0 <FC 0,128,0>Cerbottana<END FC>.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 212"
+  },
+  "HT_Text_Gen_Help_GotHandsOfAmun": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto le <FC 0,128,0>Mani di Amun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Questo manufatto conferisce a Sphinx la forza per<N>spingere e trascinare pesanti oggetti.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 213"
+  },
+  "HT_Text_Gen_Help_GotMummyCash": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto i <FC 0,128,0><SO HT_Objective_Mum_CashCollected> Scarabei di onice<END FC> che<N>la Mummia ha raccolto nel <FC 128,64,0>Castello di Uruk<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 214"
+  },
+  "HT_Text_Gen_Help_GotBeetlePouch": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto il <FC 0,128,0>Sacchetto per coleotteri<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ti permette di trasportare fino<N><FC 0,128,0>20 Coleotteri da cattura<END FC>, utilizzabili per<N>catturare diversi tipi di mostri.<P><ES HT_Text_ES_S_HelpText><CNTR>Per catturare un mostro, devi prima attaccarlo fino a<N>renderlo vulnerabile alla cattura, cio\u00e8 quando<N>diventa giallo lampeggiante.<P><ES HT_Text_ES_S_HelpText><CNTR>Quando il mostro \u00e8 vulnerabile, libera un coleottero da cattura e guidalo verso il mostro utilizzando <SB HT_PadAction_PLR_MoveBeetle>.<P><ES HT_Text_ES_S_HelpText><CNTR>Quando il coleottero si scontra con il mostro, questo viene catturato e aggiunto alla tua scorta!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 215"
+  },
+  "HT_Text_Gen_Help_GotScarabPurseUpgrade01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai il <FC 0,128,0>Borsone con gli scarabei<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ora puoi portare fino a <FC 0,128,0>900 Scarabei<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 216"
+  },
+  "HT_Text_Gen_Help_GotBeetleSatchel": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai la <FC 0,128,0>Sacca con coleotteri<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Puoi portare fino a 50 Coleotteri da cattura!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 217"
+  },
+  "HT_Text_Gen_Help_GotDartBelt": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai la <FC 0,128,0>Cintura con dardi<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Puoi portare fino a 50 dardi di ogni tipo!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 218"
+  },
+  "HT_Text_Gen_Help_GotAnkhPiece": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai un <FC 0,128,0>Pezzo d'ankh d'oro<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Raccogline quattro e una persona con le giuste capacit\u00e0<N>accrescer\u00e0 la tua capacit\u00e0 di salute.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 219"
+  },
+  "HT_Text_Gen_Help_GotAnkhContainer": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai un <FC 0,128,0>Ankh d'oro<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Questo manufatto ha aumentato la tua capacit\u00e0 di salute<N>di <FC 0,128,0>1 Ankh<END FC> e ha reintegrato del tutto la tua salute!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 220"
+  },
+  "HT_Text_Gen_Help_Got100Scarabs": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai <FC 0,128,0>100 Scarabei d'oro<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Non spenderli tutti insieme!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 221"
+  },
+  "HT_Text_Gen_Help_GotIceDarts": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto alcuni <FC 0,128,0>Dardi di ghiaccio<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Puoi usarli per<N>congelare certi tipi di mostri.<P><ES HT_Text_ES_S_HelpText><CNTR>Dopo che un mostro \u00e8 stato congelato, puoi spingere o <N>raccogliere il blocco di ghiaccio in base alle sue dimensioni.<P><ES HT_Text_ES_S_HelpText><CNTR>Inoltre, puoi salire sul blocco di ghiaccio<N>per raggiungere un'area inaccessibile oppure<P><ES HT_Text_ES_S_HelpText><CNTR>puoi frantumare il blocco<N>colpendolo con la tua lama.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 222"
+  },
+  "HT_Text_Gen_Help_GotAcidDarts": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto alcuni <FC 0,128,0>Dardi acidi<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Questi dardi magicamente corrosivi dissolvono certe catene in metallo!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 223"
+  },
+  "HT_Text_Gen_Help_GotHippyItem": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai un <FC 0,128,0>Parasole<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\u00c8 perfetto per fare ombra<N>nelle calde giornate di sole.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 224"
+  },
+  "HT_Text_Gen_Help_GotBeetleBreederItem": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai il <FC 0,128,0>Vaso d'allevamento per coleotteri<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>L'Allevatore coleotteri nell'<FC 128,64,0>Avamposto beduino<END FC><N>ne sar\u00e0 molto felice.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 225"
+  },
+  "HT_Text_Gen_Help_GotUnderwaterProjectile": {
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Hai i <FC 0,128,0>Proiettili subacquei<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Puoi utilizzarli per colpire bersagli e<N>certi mostri mentre nuoti sott'acqua!<P><ES HT_Text_ES_S_HelpText><CNTR>Premi <SB HT_Action_UnderwaterAttack> mentre sei sott'acqua<N>per sparare un proiettile nella direzione in cui stai guardando.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 226"
+  },
+  "HT_Text_Gen_Help_GotFastSwim": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai le <FC 0,128,0>Scaglie di coccodrillo<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Questo manufatto consente di<N>nuotare sott'acqua a grande velocit\u00e0!<P><ES HT_Text_ES_S_HelpText><CNTR>Premi <SB HT_Action_SwimFast> mentre sei sott'acqua<N>per nuotare con gusto!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 227"
+  },
+  "HT_Text_Gen_Help_FoundGoldKey": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai trovato una <FC 0,128,0>Chiave d'oro<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 228"
+  },
+  "HT_Text_Gen_Help_FoundGlyphKey": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai trovato una <FC 0,128,0>Chiave del glifo<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 229"
+  },
+  "HT_Text_Gen_Help_FoundCanopicVase": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai trovato un <FC 0,128,0>Vaso canopo<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Parte dell'anima di Tutankhamon<N>\u00e8 custodita all'interno.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 230"
+  },
+  "HT_Text_Gen_Help_FoundRosettaStonePiece": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai trovato un <FC 0,128,0>Pezzo della stele di Rosetta<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>L'Archeologo sar\u00e0 molto interessato.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 231"
+  },
+  "HT_Text_Gen_Help_GotHeliopolisGateKey01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai la <FC 0,128,0>Chiave del deserto del Sud<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Apre un cancello che porta al<N><FC 128,64,0>Deserto del Sud di Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 232"
+  },
+  "HT_Text_Gen_Help_GotHeliopolisGateKey02": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai la <FC 0,128,0>Chiave del portale dell'obelisco<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Apre un portale che va al<N> <FC 128,64,0>Grande obelisco di Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 233"
+  },
+  "HT_Text_Gen_Help_GotHeliopolisGateKey03": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai la <FC 0,128,0>Chiave della grotta<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Apre una porta di pietra in una grotta tra<N><FC 128,64,0>Punta Heliopolis<END FC> e la <FC 128,64,0>Spiaggia a Sud<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 234"
+  },
+  "HT_Text_Gen_Help_GotPhysiciansNote": {
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Hai <FC 0,128,0>l'Appunto del medico<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\u00c8 indirizzato a Kemmet l'Inventore<N>che vive nel <FC 128,64,0>Canale di Abydos<END FC>.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 235"
+  },
+  "HT_Text_Gen_Help_GotHealingHerb": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto un' <FC 0,128,0>Erba officinale<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Il Medico nelle <FC 128,64,0>Camere del Consiglio di Abydos<END FC><N>ne sar\u00e0 molto felice.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 236"
+  },
+  "HT_Text_Gen_Help_GotAtunStatue": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai la <FC 0,128,0>Statua di Atun<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Si dice che questa effigie aurea abbia poteri magici.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 237"
+  },
+  "HT_Text_Gen_Help_GotHathorStatue": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai la <FC 0,128,0>Statua di Hathor<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Si dice che questa effigie aurea abbia poteri magici.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 238"
+  },
+  "HT_Text_Gen_Help_GotMedicineBag": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai la <FC 0,128,0>Borsa medicine<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ha una fodera speciale che conserva tutti i<N>delicati ingredienti medicinali al suo interno.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 239"
+  },
+  "HT_Text_Gen_Help_GotEagleStone": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai la <FC 0,128,0>Pietra dell'aquila<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Questa pietra consente di evocare<N>una Grande aquila se posta in punti speciali.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 240"
+  },
+  "HT_Text_Gen_Help_GotWallSection2Key": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai una <FC 0,128,0>Chiave della grande muraglia<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 241"
+  },
+  "HT_Text_Gen_Help_GotWallSection3Key": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai una <FC 0,128,0>Chiave della grande muraglia<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 242"
+  },
+  "HT_Text_Gen_Help_NoBookOfDead": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Senza il <FC 0,128,0>Libro dei Morti<END FC> non puoi richiamare Bas-Ket per trasportare il <FC 0,128,0>Vaso canopo<END FC> alla Mummia.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 243"
+  },
+  "HT_Text_Gen_Help_NoHandsOfAmun": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Questo oggetto \u00e8 troppo pesante per te.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 244"
+  },
+  "HT_Text_Gen_Help_UseItem_NoItem01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>C'\u00e8 un recesso per un oggetto di qualche tipo.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 245"
+  },
+  "HT_Text_Gen_Help_UseItem_NoItem02": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Occorre una <FC 0,128,0>chiave<END FC> per attivare questo dispositivo.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 246"
+  },
+  "HT_Text_Gen_Help_UseItem_NoItem03": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Su questa struttura \u00e8 dipinta l'immagine di un grande uccello.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 247"
+  },
+  "HT_Text_Gen_Help_UseItem_NoItem04": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>L'orbita di questa statua di pietra \u00e8 vuota.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 248"
+  },
+  "HT_Text_Gen_Help_UseItem_InvalidItem01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>L'oggetto non pu\u00f2 essere utilizzato qui.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 249"
+  },
+  "HT_Text_Gen_Help_UseItem_InvalidItem02": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>La chiave non entra.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 250"
+  },
+  "HT_Text_Gen_Help_UseItem_InvalidItem03": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Quella <FC 0,128,0>Pietra della maledizione<END FC> \u00e8 del colore sbagliato.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 251"
+  },
+  "HT_Text_Gen_Help_GotCurseStones01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai <FC 0,128,0>2 Pietre della maledizione<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ogni pietra ha il potere di eliminare la maledizione<N><CNTR>da un abitante del <FC 128,64,0>Palazzo maledetto<END FC>.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 252"
+  },
+  "HT_Text_Gen_Help_GotCurseStones02": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai <FC 0,128,0>2 Pietre della maledizione<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ogni pietra ha il potere di eliminare la maledizione<N><CNTR>da un abitante del <FC 128,64,0>Palazzo maledetto<END FC>.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 253"
+  },
+  "HT_Text_Gen_Help_GotCurseStones03": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai <FC 0,128,0>3 Pietre della maledizione<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ogni pietra ha il potere di eliminare la maledizione<N><CNTR>da un abitante del <FC 128,64,0>Palazzo maledetto<END FC>.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 254"
+  },
+  "HT_Text_Gen_Help_GotPortalAmuletLuxor01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai un <FC 0,128,0>Amuleto misterioso<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Questi strani simboli su questo antico manufatto<N>indicano il transporto verso un luogo misterioso.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 255"
+  },
+  "HT_Text_Gen_Help_GotPortalAmuletAbydos01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai l'<FC 0,128,0>Amuleto di Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I simboli oceanici su questo antico<N>manufatto indicano il trasporto ad Abydos.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 256"
+  },
+  "HT_Text_Gen_Help_GotPortalAmuletHeliopolis01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto l'<FC 0,128,0>Amuleto di Heliopolis<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I simboli incisi su questo antico <N>manufatto indicano il trasporto a Heliopolis.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 258"
+  },
+  "HT_Text_Gen_Help_GotPortalAmuletDarkArea01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai <FC 0,128,0>l'Amuleto di Anubi<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I simboli su questo antico manufatto<N>indicano il trasporto alla Torre di Anubi.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 261"
+  },
+  "HT_Text_Gen_Help_Portal_HaveAmulet": {
+    "message": "Mostrami il tuo <FC 0,128,0>Amuleto del portale<END FC>, piccolo, e aprir\u00f2 le porte che conducono al tuo destino.<E>",
+    "description": "SphinxText.xls, row 263"
+  },
+  "HT_Text_Gen_Help_Portal_NoAmulet": {
+    "message": "Perch\u00e9 mi evochi, strana creatura? Senza un <FC 0,128,0>Amuleto del portale<END FC> non posso lasciarti passare.<E>",
+    "description": "SphinxText.xls, row 264"
+  },
+  "HT_Text_Gen_Help_Portal_AlreadyHere": {
+    "message": "Quale sciocchezza mi chiedi? Sei gi\u00e0 qui.<E>",
+    "description": "SphinxText.xls, row 265"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedLuxor01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Il Dio del portale riconosce la tua offerta e<N>provvede al trasporto in un <FC 128,64,0>Luogo misterioso<END FC>...<E>",
+    "description": "SphinxText.xls, row 266"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedAbydos01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Il Dio del portale riconosce la tua offerta e<N>provvede al trasporto ad <FC 128,64,0>Abydos<END FC>...<E>",
+    "description": "SphinxText.xls, row 267"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedAkaria01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Il Dio del portale riconosce la tua offerta e <N>provvede al trasporto a <FC 128,64,0>Akaria<END FC>...<E>",
+    "description": "SphinxText.xls, row 268"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedHeliopolis01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Il Dio del portale riconosce la tua offerta e<N>provvede al trasporto a <FC 128,64,0>Heliopolis<END FC>...<E>",
+    "description": "SphinxText.xls, row 269"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedSakkara01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Il Dio del portale riconosce la tua offerta e provvede al trasporto a <FC 128,64,0>Sakkara<END FC>...<E>",
+    "description": "SphinxText.xls, row 270"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedUruk01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Il Dio del portale riconosce la tua offerta e provvede al trasporto al <FC 128,64,0>Castello di Uruk<END FC>...<E>",
+    "description": "SphinxText.xls, row 271"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Il Dio del portale riconosce la tua offerta e <N>provvede al trasporto alla <FC 128,64,0>Torre di Anubi<END FC>...<E>",
+    "description": "SphinxText.xls, row 272"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea03": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Il Dio del portale riconosce la tua offerta e provvede al trasporto alla <FC 128,64,0>Valle di Uruk<END FC>...<E>",
+    "description": "SphinxText.xls, row 273"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletDeniedLuxor01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Il Dio del portale \u00e8 divertito dalla tua ottusit\u00e0.<N>Sei gi\u00e0 in un <FC 128,64,0>Luogo misterioso<END FC>!<E>",
+    "description": "SphinxText.xls, row 274"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletDeniedAbydos01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Il Dio del portale \u00e8 divertito dalla tua ottusit\u00e0.<N>Sei gi\u00e0 ad <FC 128,64,0>Abydos<END FC>!<E>",
+    "description": "SphinxText.xls, row 275"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletDeniedHeliopolis01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Il Dio del portale \u00e8 divertito dalla tua ottusit\u00e0.<N>Sei gi\u00e0 a <FC 128,64,0>Heliopolis<END FC>!<E>",
+    "description": "SphinxText.xls, row 276"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletDeniedDarkArea01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Il Dio del portale \u00e8 divertito dalla tua ottusit\u00e0.<N>Sei gi\u00e0 nella <FC 128,64,0>Torre di Anubi<END FC>!<E>",
+    "description": "SphinxText.xls, row 277"
+  },
+  "HT_Text_Gen_Help_Portal_AmuletDenied01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Il Dio del portale non ti consentir\u00e0 di passare questa volta...<E>",
+    "description": "SphinxText.xls, row 278"
+  },
+  "HT_Text_Gen_Help_UseItem_NoItem05": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>La chiave<END FC> serve per aprire questa porta.<ES HT_Text_ES_S_HelpText><E>",
+    "description": "SphinxText.xls, row 279"
+  },
+  "HT_Text_Mum_Sewer_King_Challenge1": {
+    "message": "Accendi tutte le torce attorno a me e ti dar\u00f2 questo antico manufatto. Attento: spegnerle \u00e8 facile tanto quanto accenderle.<E>",
+    "description": "SphinxText.xls, row 280"
+  },
+  "HT_Text_Mum_Chapter1_FoundQuestItem": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai trovato le <FC 0,128,0>Ali di Ibis<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 281"
+  },
+  "HT_Text_Mum_Chapter2_FoundQuestItem": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Trovi la <FC 0,128,0>Statua di Atun<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 282"
+  },
+  "HT_Text_Mum_Chapter3_FoundQuestItem": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai trovato la <FC 0,128,0>Borsa delle Medicine<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 283"
+  },
+  "HT_Text_Mum_Chapter4_FoundQuestItem": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai trovato le <FC 0,128,0>Mani di Amun<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 284"
+  },
+  "HT_Text_Mum_Chapter5_FoundQuestItem": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai trovato l'<FC 0,128,0>Invito regale<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 285"
+  },
+  "HT_Text_Mum_Chapter1_FoundJewel1": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ecco il primo <FC 0,128,0>Gioiello rubato di Abydos<END FC>!<ES HT_Text_ES_E_HelpText><W 90>",
+    "description": "SphinxText.xls, row 286"
+  },
+  "HT_Text_Mum_Chapter2_FoundJewel2": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ecco il secondo <FC 0,128,0>Gioiello rubato di Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 287"
+  },
+  "HT_Text_Mum_Chapter3_FoundJewel3": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ecco il terzo <FC 0,128,0>Gioiello rubato di Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 288"
+  },
+  "HT_Text_Mum_Chapter4_FoundJewel4": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ecco il quarto <FC 0,128,0>Gioiello rubato di Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 289"
+  },
+  "HT_Text_Mum_Chapter5_FoundJewel5": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ecco il quinto <FC 0,128,0>Gioiello rubato di Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 290"
+  },
+  "HT_Text_Mum_Chapter6_FoundJewel6": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ecco il sesto <FC 0,128,0>Gioiello rubato di Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 291"
+  },
+  "HT_Text_Aby_Canal_GotStairsKey": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai la <FC 0,128,0>Chiave delle scale<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Usala per aprire le scale al balcone dell'area del pozzo.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 292"
+  },
+  "HT_Text_Gen_Help_GotZipHandle": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai la <FC 0,128,0>Carrucola<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ora puoi usare le corde in <FC 128,64,0>Abydos<END FC><N>per andare in giro per la citt\u00e0.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 293"
+  },
+  "HT_Text_Gen_Help_GotParasol": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto il <FC 0,128,0>Parasole<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>\u00c8 eccezionale per le giornate di sole.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 294"
+  },
+  "HT_Text_Mum_Cast_Urukite1": {
+    "message": "Sparisci, creatura malvagia!!! Set pu\u00f2 uccidermi ma non ruber\u00e0 la mia anima! <E>",
+    "description": "SphinxText.xls, row 296"
+  },
+  "HT_Text_Mum_Cast_Urukite2": {
+    "message": "Perch\u00e9 mi stai liberando? Chi sei? Non vorrai uccidermi? <E>",
+    "description": "SphinxText.xls, row 297"
+  },
+  "HT_Text_Mum_Cast_Urukite3": {
+    "message": "Hmm... non sembri cos\u00ec spaventoso fuori dalla gabbia... Perch\u00e9 mi stai aiutando? <E>",
+    "description": "SphinxText.xls, row 298"
+  },
+  "HT_Text_Mum_Cast_Urukite4": {
+    "message": "Dicono che ho rubato i gioielli dal castello, ma non \u00e8 cos\u00ec!<P>Mi chiamo Khensu e sono di Uruk. Abitavamo questa regione prima che apparisse Set. Ormai siamo in pochi, nascosti nel castello nel tentativo di sopravvivere.<P>Abbiamo evitato Set fino a ora perch\u00e9 conosciamo meglio la regione, ma non durer\u00e0 a lungo. Alla fine ci trover\u00e0 se non interverr\u00e0 qualcuno ad aiutarci. <E>",
+    "description": "SphinxText.xls, row 299"
+  },
+  "HT_Text_Mum_Cast_Urukite5": {
+    "message": "Non possiamo restare qui a lungo. Le guardie di Set potrebbero arrivare in ogni momento. Seguimi. Ti aiuter\u00f2 a fuggire da questa cella. <E>",
+    "description": "SphinxText.xls, row 300"
+  },
+  "HT_Text_Mum_Cast_Urukite6": {
+    "message": "Questa porta segreta si collega ad altre sezioni del castello. Ora dobbiamo separarci. \u00c8 troppo rischioso stare insieme. Buona fortuna. <E>",
+    "description": "SphinxText.xls, row 301"
+  },
+  "HT_Text_Mum_Cast_CageLocked": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Per aprire la gabbia serve una <FC 0,128,0>Chiave della gabbia<END FC>.<ES HT_Text_ES_S_HelpText><E>",
+    "description": "SphinxText.xls, row 302"
+  },
+  "HT_Text_Mum_Cast_Help_FoundCageKey": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ecco una <FC 0,128,0>Chiave della gabbia<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>",
+    "description": "SphinxText.xls, row 303"
+  }
+}
