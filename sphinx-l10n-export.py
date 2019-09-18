@@ -79,7 +79,7 @@ for cur in lang:
             print(">> pre_section", cur_section)
             
             if out:
-                with open("%s/%02u_%s.json" % (lang[cur], cur_section_count, cur_section), 'w') as outfile:
+                with open("%s/%s.json" % (lang[cur], cur_section), 'w') as outfile:
                     json.dump(out, outfile, indent=2)
                     
                 cur_section_count = cur_section_count + 1
@@ -95,8 +95,8 @@ for cur in lang:
             continue
             
         # swy: this string/row is marked as old/deprecated/dead/obsolete
-        if row[DEAD_TEXT_COLUMN] and int(row[DEAD_TEXT_COLUMN]) == 1:
-            continue
+        # if row[DEAD_TEXT_COLUMN] and int(row[DEAD_TEXT_COLUMN]) == 1:
+            # continue
 
         # swy: export it in this 'simple' format:
         #      https://docs.transifex.com/formats/chrome-json

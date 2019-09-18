@@ -1,0 +1,30 @@
+{
+  "HT_Text_BOS_Tab_Artifacts": {
+    "message": "Artifacts",
+    "description": "SphinxText.xls, row 2523"
+  },
+  "HT_Text_BOS_Tab_Notes": {
+    "message": "Notes",
+    "description": "SphinxText.xls, row 2524"
+  },
+  "HT_Text_BOS_Tab_Monsters": {
+    "message": "Monsters",
+    "description": "SphinxText.xls, row 2525"
+  },
+  "HT_Text_BOS_Instructions": {
+    "message": "<FC 30,10,0>Navigate around the pages using <SB HT_PadAction_BOS_NavigateDPad> <N>Change pages using <SB HT_PadAction_BOS_TABCycleLeft> and <SB HT_PadAction_BOS_TABCycleRight><N>Scroll long descriptions with <SB HT_PadAction_BOS_PageUp>.",
+    "description": "SphinxText.xls, row 2526"
+  },
+  "HT_Text_BOS_NoNotes": {
+    "message": "<ES HT_Text_ES_S_BOSStd>You do not currently have any notes.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2527"
+  },
+  "HT_Text_BOS_NoAbilities": {
+    "message": "<ES HT_Text_ES_S_BOSStd>You do not currently have any abilities.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2528"
+  },
+  "HT_Text_BOS_NoQuestItems": {
+    "message": "<ES HT_Text_ES_S_BOSStd>You do not currently have any quest items.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2529"
+  }
+}
