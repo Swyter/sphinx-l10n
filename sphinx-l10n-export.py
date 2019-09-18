@@ -46,6 +46,7 @@ MARKER_LANGUAGE_START = data_read[HEADER_ROW].index("MARKER_LANGUAGE_START")
 MARKER_LANGUAGE_END   = data_read[HEADER_ROW].index("MARKER_LANGUAGE_END")
 
 cur_section = ""
+cur_section_count = 0
 out = collections.OrderedDict()
 
 for cur in lang:
@@ -73,7 +74,17 @@ for cur in lang:
             break
         
         if row[0] != "" and cur_section != row[0]: # and not row[0] in ignored_section_markers:
+            print(">> pre_section", cur_section)
+            
+            if out:
+                with open("%s/%02u_%s.json" % (lang[cur], cur_section_count, cur_section), 'w') as outfile:
+                    json.dump(out, outfile, indent=2)
+                    
+                cur_section_count = cur_section_count + 1
+                
             cur_section = row[0];
+            out = collections.OrderedDict()
+            
             print(">> cur_section", cur_section)
             continue
 
@@ -82,17 +93,16 @@ for cur in lang:
         out[row[MARKER_HASHCODE]] = collections.OrderedDict()
         
         out[row[MARKER_HASHCODE]]["message"]     = row[cur_col_idx]
-        out[row[MARKER_HASHCODE]]["description"] = "SphinxText.xls | Row: %u" % (i + 1)
+        out[row[MARKER_HASHCODE]]["description"] = "SphinxText.xls, row %u" % (i + 1) # swy: starts at zero
             
         #print("--", row[MARKER_HASHCODE])
             
         #print(row[MARKER_HASHCODE], row[cur_col_idx],  len(row))
+    
+    
     break
         
-print(out)
-
-with open('data.json', 'w') as outfile:
-    json.dump(out, outfile, indent=2)
+#print(out)
     
 kwargs = {'newline': ''}
 mode = 'w'
