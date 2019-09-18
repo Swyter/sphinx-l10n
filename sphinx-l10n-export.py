@@ -1,10 +1,6 @@
 import csv
 
-# with open("SphinxTextFiltered.csv", mode="r", encoding="utf-8") as ins:
-    # array = []
-    # for line in ins:
-        # array.append(line)
-        # print(line.split(","))
+HEADER_ROW = 3 (- 1)
 data_read = []
 
 with open('SphinxTextFiltered.csv', 'r') as f:
@@ -12,7 +8,11 @@ with open('SphinxTextFiltered.csv', 'r') as f:
     data_read = [row for row in reader]
     #print(data_read[35])
 
-print("INDEX THING",data_read[2].index("MARKER_ENGLISH_UK"))
+if ("SHEET_TYPE_TEXT")
+    print("error: this needs to be a text EuroLand spreadsheet dump.")
+    exit(-1)
+
+print("INDEX THING", data_read[2].index("MARKER_ENGLISH_UK"))
 
 # for cur in data_read:
     # if (len(cur) > 3 and cur[3]=="HT_Text_Credits1"):
@@ -22,5 +22,4 @@ kwargs = {'newline': ''}
 mode = 'w'
 with open('test.csv', mode, **kwargs) as fp:
     writer = csv.writer(fp, delimiter=',')
-    # writer.writerow(["your", "header", "foo"])  # write header
     writer.writerows(data_read)
