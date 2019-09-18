@@ -33,8 +33,8 @@ if (data_read[0][0] != "SHEET_TYPE_TEXT"):
     exit(-1)
     
 # swy: programmatically find the correct indexes
-for i, cur in enumerate(data_read):
-    if len(cur) > 1 and cur[0] == "MARKER_FORMAT_ROW":
+for i, row in enumerate(data_read):
+    if len(row) > 1 and row[0] == "MARKER_FORMAT_ROW":
         HEADER_ROW = i
         break
         
@@ -53,17 +53,30 @@ for cur in lang:
     if not os.path.exists(lang[cur]):
         os.mkdir(lang[cur])
 
-    for cur in data_read:
-        if len(cur) < 3 or not (cur[0] or cur[MARKER_HASHCODE]):
+    for i, row in enumerate(data_read):
+        # swy: skip empty rows
+        if len(row) < 3:
             continue
         
-        if cur[0]:
-            cur_section = cur[0];
+        # swy: skip anything that goes before the actual table
+        if i <= HEADER_ROW:
+            continue
+           
+        # swy: skip empty cells
+        if not (cur[0] or cur[MARKER_HASHCODE]):
+            continue
+        
+        # swy: stop parsing once the table ends 
+        if row[0] == "MARKER_LAST_MESSAGE":
+            break
+        
+        if row[0] != "" and cur_section != row[0]:
+            cur_section = row[0];
             print(">> cur_section", cur_section)
-        else:
-            print(cur[MARKER_HASHCODE])
+        #else:
+        #    print(row[MARKER_HASHCODE])
             
-        # print(cur[MARKER_HASHCODE], cur[cur_col_idx],  len(cur))
+        # print(row[MARKER_HASHCODE], row[cur_col_idx],  len(row))
     break
         
 with open('data.json', 'w') as outfile:
