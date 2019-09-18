@@ -19,14 +19,6 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Standard currency which can be used to purchase many different items.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2734"
   },
-  "HT_Text_Inv_Dsc_AncientClaws": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2735"
-  },
-  "HT_Text_Inv_Dsc_OnyxOfIsis": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2736"
-  },
   "HT_Text_Inv_Dsc_WingsOfIbis": {
     "message": "<ES HT_Text_ES_S_BOSStd>An ancient artefact giving the ability to perform a second jump in mid air.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2737"
@@ -34,14 +26,6 @@
   "HT_Text_Inv_Dsc_Blowpipe": {
     "message": "<ES HT_Text_ES_S_BOSStd>A powerful weapon and tool which fires magical darts at remote targets.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2738"
-  },
-  "HT_Text_Inv_Dsc_ElectricAnkh": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2739"
-  },
-  "HT_Text_Inv_Dsc_OxygenAnkh": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2740"
   },
   "HT_Text_Inv_Dsc_CrocodileScales": {
     "message": "<ES HT_Text_ES_S_BOSStd>A magical artifact which allows you to swim under water at great speed.<ES HT_Text_ES_E_BOSStd>",
@@ -54,10 +38,6 @@
   "HT_Text_Inv_Dsc_HandsOfAmun": {
     "message": "<ES HT_Text_ES_S_BOSStd>An ancient artifact which imbues you with the strength to push extremely heavy objects.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2743"
-  },
-  "HT_Text_Inv_Dsc_ScrollOfSokar": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2744"
   },
   "HT_Text_Inv_Dsc_ScarabPurse": {
     "message": "<ES HT_Text_ES_S_BOSStd>This bag will hold up to 400 Gold Scarabs.<ES HT_Text_ES_E_BOSStd>",
@@ -75,21 +55,9 @@
     "message": "<ES HT_Text_ES_S_BOSStd>This belt holds up to 50 darts of each type.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2748"
   },
-  "HT_Text_Inv_Dsc_RosettaTablePiece": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2749"
-  },
   "HT_Text_Inv_Dsc_BeetleStachel": {
     "message": "<ES HT_Text_ES_S_BOSStd>This satchel holds up to 50 Capture Beetles and up to 10 Captured Monsters of each type.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2750"
-  },
-  "HT_Text_Inv_Dsc_WingsOfRa": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2751"
-  },
-  "HT_Text_Inv_Dsc_ClawUpgrade": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2752"
   },
   "HT_Text_Inv_Dsc_HandsOfAmunRa": {
     "message": "<ES HT_Text_ES_S_BOSStd>These allow you to push even the largest of objects.<ES HT_Text_ES_E_BOSStd>",
@@ -99,37 +67,9 @@
     "message": "<ES HT_Text_ES_S_BOSStd>The magical shield used in battle by the great god Osiris.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2754"
   },
-  "HT_Text_Inv_Dsc_RingOfMaat": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2755"
-  },
-  "HT_Text_Inv_Dsc_SnakeCollar": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2756"
-  },
-  "HT_Text_Inv_Dsc_SandsOfTime": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2757"
-  },
-  "HT_Text_Inv_Dsc_BasKetPaddle": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2758"
-  },
-  "HT_Text_Inv_Dsc_BasKetGrapple": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2759"
-  },
-  "HT_Text_Inv_Dsc_WingsOfThoth": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2760"
-  },
   "HT_Text_Inv_Dsc_CloakOfInvisibility": {
     "message": "<ES HT_Text_ES_S_BOSStd>This magic stone grants the user the power of invisibility... and instant death!<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2761"
-  },
-  "HT_Text_Inv_Dsc_MessageForAkarianKing": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2762"
   },
   "HT_Text_Inv_Dsc_AnkhContainer": {
     "message": "<ES HT_Text_ES_S_BOSStd>The essence of life, each additional Gold Ankh gives extra health capacity.<ES HT_Text_ES_E_BOSStd>",
@@ -143,89 +83,21 @@
     "message": "<ES HT_Text_ES_S_BOSStd>A sacred vase which contains a fragment of Tutankhamen's soul.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2765"
   },
-  "HT_Text_Inv_Dsc_MagicSeed": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2766"
-  },
-  "HT_Text_Inv_Dsc_CrystalKey1": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2767"
-  },
-  "HT_Text_Inv_Dsc_CrystalKey2": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2768"
-  },
-  "HT_Text_Inv_Dsc_CrystalKey3": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2769"
-  },
   "HT_Text_Inv_Dsc_Pearl": {
     "message": "<ES HT_Text_ES_S_BOSStd>A blue diamond that belongs to the Corridor of Champions game master. Return it to him to prove your worthiness for the wall gauntlets.<ES HT_Text_ES_S_BOSStd>",
     "description": "SphinxText.xls, row 2770"
-  },
-  "HT_Text_Inv_Dsc_HourGlass": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2771"
   },
   "HT_Text_Inv_Dsc_Herbs": {
     "message": "<ES HT_Text_ES_S_BOSStd>Healing Herbs for the Mayor's cure.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2772"
   },
-  "HT_Text_Inv_Dsc_MayersCureIngredient1": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2773"
-  },
-  "HT_Text_Inv_Dsc_MayorsCureIngredient2": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2774"
-  },
-  "HT_Text_Inv_Dsc_MayorsCureIngredient3": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2775"
-  },
-  "HT_Text_Inv_Dsc_NoteFromNefertiti": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2776"
-  },
-  "HT_Text_Inv_Dsc_Crown": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2777"
-  },
   "HT_Text_Inv_Dsc_BookOfTheDead": {
     "message": "<ES HT_Text_ES_S_BOSStd>This tome contains incantations to send Bas-Ket to Uruk Castle with Canopic Vases for the Mummy.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2778"
   },
-  "HT_Text_Inv_Dsc_Lizard": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2779"
-  },
-  "HT_Text_Inv_Dsc_AnubisAmulet": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2780"
-  },
-  "HT_Text_Inv_Dsc_AbyLever": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2781"
-  },
-  "HT_Text_Inv_Dsc_AbydosGateKey": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2782"
-  },
-  "HT_Text_Inv_Dsc_Sakkara_Berry": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2783"
-  },
   "HT_Text_Inv_Dsc_BronzeAnkh": {
     "message": "DOES NOT APPEAR IN INVENTORY",
     "description": "SphinxText.xls, row 2784"
-  },
-  "HT_Text_Inv_Dsc_CrystalKey": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2785"
-  },
-  "HT_Text_Inv_Dsc_ExplosiveBeetle": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2786"
   },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
     "message": "<ES HT_Text_ES_S_BOSStd>Beetles which can be used to capture monsters.<ES HT_Text_ES_E_BOSStd>",
@@ -250,10 +122,6 @@
   "HT_Text_Inv_Dsc_PhysNote": {
     "message": "<ES HT_Text_ES_S_BOSStd>A note to Kemmet the Inventor from the Physician.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2792"
-  },
-  "HT_Text_Inv_Dsc_MagicWater": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2793"
   },
   "HT_Text_Inv_Dsc_BC01_Giant_Prawn": {
     "message": "<ES HT_Text_ES_S_BOSStd>These warriors for the Geb Queen are gargantuan in size and vicious with it...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Good luck to anyone who faces one of these in combat.<ES HT_Text_ES_E_BOSStd>",
@@ -503,10 +371,6 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Key to a Wardrobe.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2855"
   },
-  "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_Trophy": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2856"
-  },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_Amulet": {
     "message": "<ES HT_Text_ES_S_BOSStd>Old Amulets found in the palace of Luxor.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2857"
@@ -539,61 +403,9 @@
     "message": "<ES HT_Text_ES_S_BOSStd>The Lunar Key for the Planetarium in the central hall.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2864"
   },
-  "HT_Text_Inv_Dsc_Item_Quest_Urk_GolemsEye": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2865"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_Urk_2key_Key01": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2866"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_Urk_2key_Key02": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2867"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_Urk_2key_Key03": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2868"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_Urk_2key_GlyphValuable01": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2869"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_Urk_2key_GlyphValuable02": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2870"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_Urk_2key_GlyphMedium01": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2871"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_Urk_2key_GlyphWorthless01": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2872"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_Urk_2key_UrukiteGem": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2873"
-  },
   "HT_Text_Inv_Dsc_Basket": {
     "message": "<ES HT_Text_ES_S_BOSStd>Bas-Ket is a magical object who can transport items between Sphinx and the Mummy once you have the Book of the Dead.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2874"
-  },
-  "HT_Text_Inv_Dsc_Leaves": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2875"
-  },
-  "HT_Text_Inv_Dsc_Sticks": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2876"
-  },
-  "HT_Text_Inv_Dsc_LightColumnMap": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2877"
-  },
-  "HT_Text_Inv_Dsc_ToadEggs": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2878"
   },
   "HT_Text_Inv_Dsc_AbyPass": {
     "message": "<ES HT_Text_ES_S_BOSStd>Abydos Identification Pass.<ES HT_Text_ES_E_BOSStd>",
@@ -610,14 +422,6 @@
   "HT_Text_Inv_Dsc_RosettaStone": {
     "message": "<ES HT_Text_ES_S_BOSStd>The Ancient Rosetta Stone allowing translation of Ancient Texts.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2882"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_Hel_BoatOwnerItem": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2883"
-  },
-  "HT_Text_Inv_Dsc_DeathWatchBeetle": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2884"
   },
   "HT_Text_Inv_Dsc_Sak_Crown": {
     "message": "<ES HT_Text_ES_S_BOSStd>The Sacred Crown of Uruk.<ES HT_Text_ES_E_BOSStd>",
@@ -639,18 +443,6 @@
     "message": "<ES HT_Text_ES_S_BOSStd>An invitation to see the Pharaoh of Heliopolis.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2889"
   },
-  "HT_Text_Inv_Dsc_Item_Quest_Hel_ForgerItem01": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2890"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_Hel_ForgerItem02": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2891"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_Hel_ForgerItem03": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2892"
-  },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederItem": {
     "message": "<ES HT_Text_ES_S_BOSStd>A large jar used for breeding beetles.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2893"
@@ -658,10 +450,6 @@
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
     "message": "<ES HT_Text_ES_S_BOSStd>Loyalty Card entitling you to half price beetles from the Bedouin Outpost store.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2894"
-  },
-  "HT_Text_Inv_Dsc_Mum_LedgeKey": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2895"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CageKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>The key to the Urukite's Cage.<ES HT_Text_ES_E_BOSStd>",
@@ -678,22 +466,6 @@
   "HT_Text_Inv_Dsc_Mum_GlyphKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>A golden Glyph Key.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2899"
-  },
-  "HT_Text_Inv_Dsc_Mum_WallSection2Key": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2900"
-  },
-  "HT_Text_Inv_Dsc_Mum_WallSection3Key": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2901"
-  },
-  "HT_Text_Inv_Dsc_IshkaRing": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2902"
-  },
-  "HT_Text_Inv_Dsc_HonourTalisman": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2903"
   },
   "HT_Text_Inv_Dsc_PalaceInvite": {
     "message": "<ES HT_Text_ES_S_BOSStd>An invitation to see the Pharaoh of Heliopolis.<ES HT_Text_ES_E_BOSStd>",
@@ -731,10 +503,6 @@
     "message": "<ES HT_Text_ES_S_BOSStd>A magical stone of protection and watchfulness, said to lift even the strongest curse.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2912"
   },
-  "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Uruk01": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2913"
-  },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Luxor01": {
     "message": "<ES HT_Text_ES_S_BOSStd>A Portal Amulet with strange symbols indicating transport to a Mysterious Location.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2914"
@@ -743,29 +511,13 @@
     "message": "<ES HT_Text_ES_S_BOSStd>A Portal Amulet with oceanic symbols indicating transport to Abydos.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2915"
   },
-  "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Akaria01": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2916"
-  },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Heliopolis01": {
     "message": "<ES HT_Text_ES_S_BOSStd>A Portal Amulet with sand etched symbols indicating transport to Heliopolis.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2917"
   },
-  "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Sakkara01": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2918"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Sakkara01Piece": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2919"
-  },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_DarkArea01": {
     "message": "<ES HT_Text_ES_S_BOSStd>A Portal Amulet with ancient symbols indicating transport to Anubis Tower.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2920"
-  },
-  "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_DarkArea03": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2921"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GoldKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>A golden key.<ES HT_Text_ES_E_BOSStd>",
@@ -807,18 +559,6 @@
     "message": "<ES HT_Text_ES_S_BOSStd>The leg of a Skeletal Axeman.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2931"
   },
-  "HT_Text_Inv_Dsc_AcidVial": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2932"
-  },
-  "HT_Text_Inv_Dsc_Proclomation": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2933"
-  },
-  "HT_Text_Inv_Dsc_DiaryPage": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2934"
-  },
   "HT_Text_Inv_Dsc_HippyItem": {
     "message": "<ES HT_Text_ES_S_BOSStd>This Parasol is ideal for providing shade from the sun.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2935"
@@ -835,10 +575,6 @@
     "message": "<ES HT_Text_ES_S_BOSStd>1. Tree Creature<PC 1>2. Skeletal Spider<N>3. Big Bull<PC 1>4. Skull Worshipper<E><ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2938"
   },
-  "HT_Text_Inv_Dsc_StatueHead": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2939"
-  },
   "HT_Text_Inv_Dsc_Coconut": {
     "message": "<ES HT_Text_ES_S_BOSStd>Coconuts are a favored food of the Urukan lava toad. Lava toads have been known to assist adventurers in exchange for these prized delicacies.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2940"
@@ -846,18 +582,6 @@
   "HT_Text_Inv_Dsc_ZipLineHook": {
     "message": "<ES HT_Text_ES_S_BOSStd>A detachable handle that lets you use zip lines.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2941"
-  },
-  "HT_Text_Inv_Dsc_MedicineRoot": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2942"
-  },
-  "HT_Text_Inv_Dsc_WarriorTrophy": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2943"
-  },
-  "HT_Text_Inv_Dsc_SluiceWheel": {
-    "message": "REMOVED",
-    "description": "SphinxText.xls, row 2944"
   },
   "HT_Text_Inv_Dsc_AbyWellKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>An old key.<ES HT_Text_ES_E_BOSStd>",

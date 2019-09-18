@@ -97,6 +97,10 @@ for cur in lang:
         # swy: this string/row is marked as old/deprecated/dead/obsolete
         if row[DEAD_TEXT_COLUMN] and int(row[DEAD_TEXT_COLUMN]) == 1:
             continue
+            
+        # swy: get rid of strings that have been changed to "REMOVED"
+        if row[MARKER_LANGUAGE_START + 1] and row[MARKER_LANGUAGE_START + 1] == "REMOVED":
+            continue
 
         # swy: export it in this 'simple' format:
         #      https://docs.transifex.com/formats/chrome-json
