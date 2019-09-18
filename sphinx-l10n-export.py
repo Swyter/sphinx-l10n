@@ -41,7 +41,7 @@ MARKER_LANGUAGE_START = data_read[HEADER_ROW].index("MARKER_LANGUAGE_START")
 MARKER_LANGUAGE_END   = data_read[HEADER_ROW].index("MARKER_LANGUAGE_END")
 
 for cur in lang:
-    print(cur, "INDEX THING", data_read[HEADER_ROW].index(cur))
+    print(cur, lang[cur], "INDEX THING", data_read[HEADER_ROW].index(cur))
 
 # for cur in data_read:
     # if (len(cur) > 3 and cur[3]=="HT_Text_Credits1"):
