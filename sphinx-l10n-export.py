@@ -81,8 +81,8 @@ for cur in lang:
         #      https://docs.transifex.com/formats/chrome-json
         out[row[MARKER_HASHCODE]] = collections.OrderedDict()
         
-        out[row[MARKER_HASHCODE]]["message"]     = "MSG"
-        out[row[MARKER_HASHCODE]]["description"] = "LOL"
+        out[row[MARKER_HASHCODE]]["message"]     = row[cur_col_idx]
+        out[row[MARKER_HASHCODE]]["description"] = "SphinxText.xls | Row: %u" % (i + 1)
             
         #print("--", row[MARKER_HASHCODE])
             
