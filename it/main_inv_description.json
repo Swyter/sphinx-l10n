@@ -16,7 +16,7 @@
     "description": "SphinxText.xls, row 2733"
   },
   "HT_Text_Inv_Dsc_BronzeScarab": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Valuta corrente con cui \u00e8 possibile comprare molti oggetti diversi.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Valuta corrente con cui è possibile comprare molti oggetti diversi.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2734"
   },
   "HT_Text_Inv_Dsc_WingsOfIbis": {
@@ -60,7 +60,7 @@
     "description": "SphinxText.xls, row 2750"
   },
   "HT_Text_Inv_Dsc_HandsOfAmunRa": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ti permettono di spingere perfino gli oggetti pi\u00f9 grandi.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Ti permettono di spingere perfino gli oggetti più grandi.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2753"
   },
   "HT_Text_Inv_Dsc_ShieldOfOsiris": {
@@ -68,15 +68,15 @@
     "description": "SphinxText.xls, row 2754"
   },
   "HT_Text_Inv_Dsc_CloakOfInvisibility": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Questa pietra magica concede il potere dell'invisibilit\u00e0... e della morte immediata!<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Questa pietra magica concede il potere dell'invisibilità... e della morte immediata!<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2761"
   },
   "HT_Text_Inv_Dsc_AnkhContainer": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ogni Ankh d'oro \u00e8 l'essenza della vita e fornisce una riserva aggiuntiva di salute.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Ogni Ankh d'oro è l'essenza della vita e fornisce una riserva aggiuntiva di salute.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2763"
   },
   "HT_Text_Inv_Dsc_AnkhPiece": {
-    "message": "<ES HT_Text_ES_S_BOSStd>4 pezzi di Ankh d'oro, uniti da una persona con le giuste abilit\u00e0, possono formare un'Ankh d'oro.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>4 pezzi di Ankh d'oro, uniti da una persona con le giuste abilità, possono formare un'Ankh d'oro.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2764"
   },
   "HT_Text_Inv_Dsc_CanopicVase": {
@@ -136,7 +136,7 @@
     "description": "SphinxText.xls, row 2796"
   },
   "HT_Text_Inv_Dsc_BM12_slim_burble": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Usa un metodo difensivo suicida: crea una carica esplosiva e poi si lancia verso il bersaglio, esplodendo...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Lo si pu\u00f2 sfruttare lanciando i Blob esili catturati verso gli ostacoli.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Usa un metodo difensivo suicida: crea una carica esplosiva e poi si lancia verso il bersaglio, esplodendo...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Lo si può sfruttare lanciando i Blob esili catturati verso gli ostacoli.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2797"
   },
   "HT_Text_Inv_Dsc_BR04_Goofy_Lizard": {
@@ -148,7 +148,7 @@
     "description": "SphinxText.xls, row 2799"
   },
   "HT_Text_Inv_Dsc_BR06_Half_Brute": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Il nome Mezzobruto non rende bene la natura di questi aggressivi mostri bipedi...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Anche se la loro andatura \u00e8 lenta e stentata, sanno colpire il terreno con forza tale da proiettare una potente onda d'urto verso ogni creatura vicina.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Il nome Mezzobruto non rende bene la natura di questi aggressivi mostri bipedi...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Anche se la loro andatura è lenta e stentata, sanno colpire il terreno con forza tale da proiettare una potente onda d'urto verso ogni creatura vicina.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2800"
   },
   "HT_Text_Inv_Dsc_BU01_Mummy_Minotaur": {
@@ -156,7 +156,7 @@
     "description": "SphinxText.xls, row 2801"
   },
   "HT_Text_Inv_Dsc_BU02_Skeletal_Axeman": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Stai attento a questi guerrieri non-morti armati d'ascia...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Possono usare l'arma come boomerang e perfino creare uno scudo protettivo che li protegge finch\u00e9 l'ascia non torna indietro.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Stai attento a questi guerrieri non-morti armati d'ascia...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Possono usare l'arma come boomerang e perfino creare uno scudo protettivo che li protegge finché l'ascia non torna indietro.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2802"
   },
   "HT_Text_Inv_Dsc_BU03_zombie_man": {
@@ -164,7 +164,7 @@
     "description": "SphinxText.xls, row 2803"
   },
   "HT_Text_Inv_Dsc_BU05_almost_a_bull": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Il nome Quasitoro \u00e8 dovuto non solo alle due corna in testa, ma anche alla pericolosa abitudine di caricare e attaccare chiunque indossi qualcosa di rosso.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Il nome Quasitoro è dovuto non solo alle due corna in testa, ma anche alla pericolosa abitudine di caricare e attaccare chiunque indossi qualcosa di rosso.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2804"
   },
   "HT_Text_Inv_Dsc_BU06_MBird": {
@@ -172,11 +172,11 @@
     "description": "SphinxText.xls, row 2805"
   },
   "HT_Text_Inv_Dsc_FL02_Featherless_Turkey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Il Tacchino spiumato si chiama cos\u00ec proprio perch\u00e9 non ha piume. \u00c8 considerato una leccornia per qualsiasi festa invernale.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Il Tacchino spiumato si chiama così proprio perché non ha piume. È considerato una leccornia per qualsiasi festa invernale.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2806"
   },
   "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
-    "message": "<ES HT_Text_ES_S_BOSStd>L'Uccello volano, anche se ha una sola zampa, si muove in fretta...<P><ES HT_Text_ES_S_BOSStd>Quando si butta in picchiata per attaccare sembra una freccia e pu\u00f2 provocare danni notevoli.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>L'Uccello volano, anche se ha una sola zampa, si muove in fretta...<P><ES HT_Text_ES_S_BOSStd>Quando si butta in picchiata per attaccare sembra una freccia e può provocare danni notevoli.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2807"
   },
   "HT_Text_Inv_Dsc_FL04_Skeletal_Bat": {
@@ -188,7 +188,7 @@
     "description": "SphinxText.xls, row 2809"
   },
   "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
-    "message": "L'Aquila mummia \u00e8 uno dei pi\u00f9 grandi uccelli in circolazione. \u00c8 non-morta ed \u00e8 pi\u00f9 resistente agli attacchi della sua controparte viva.<ES HT_Text_ES_E_BOSStd>",
+    "message": "L'Aquila mummia è uno dei più grandi uccelli in circolazione. È non-morta ed è più resistente agli attacchi della sua controparte viva.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2810"
   },
   "HT_Text_Inv_Dsc_FL06_Undead_Man": {
@@ -196,7 +196,7 @@
     "description": "SphinxText.xls, row 2811"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
-    "message": "<ES HT_Text_ES_S_BOSStd>I Gatti con lame disorientano i nemici con i loro balzi e poi attaccano a velocit\u00e0 paurosa con gli affilatissimi artigli snodati.<ES HT_Text_ES_S_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>I Gatti con lame disorientano i nemici con i loro balzi e poi attaccano a velocità paurosa con gli affilatissimi artigli snodati.<ES HT_Text_ES_S_BOSStd>",
     "description": "SphinxText.xls, row 2812"
   },
   "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
@@ -204,7 +204,7 @@
     "description": "SphinxText.xls, row 2813"
   },
   "HT_Text_Inv_Dsc_HD14_Crab": {
-    "message": "<ES HT_Text_ES_S_BOSStd>I Gatti con chele attaccano i nemici con affilate chele. Sembrano goffi ma, se si avvicinano a sufficienza, il risultato \u00e8 doloroso.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>I Gatti con chele attaccano i nemici con affilate chele. Sembrano goffi ma, se si avvicinano a sufficienza, il risultato è doloroso.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2814"
   },
   "HT_Text_Inv_Dsc_HD15_GuardTest": {
@@ -212,7 +212,7 @@
     "description": "SphinxText.xls, row 2815"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
-    "message": "<ES HT_Text_ES_S_BOSStd>I Becchi acuminati hanno una spada in ogni mano e le brandiscono entrambe con abilit\u00e0, confondendo i nemici...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Sono noti per logorare lentamente i nemici, usando con terribile efficacia la tecnica fiorentina del doppio stocco.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>I Becchi acuminati hanno una spada in ogni mano e le brandiscono entrambe con abilità, confondendo i nemici...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Sono noti per logorare lentamente i nemici, usando con terribile efficacia la tecnica fiorentina del doppio stocco.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2816"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper": {
@@ -220,19 +220,19 @@
     "description": "SphinxText.xls, row 2817"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Possono attraversare gli oggetti solidi, si muovono velocemente e attaccano direzioni impreviste...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Risparmia le armi da lancio per altri mostri, perch\u00e9 attraversano gli Adoratori Tenebre senza fare loro nulla.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Possono attraversare gli oggetti solidi, si muovono velocemente e attaccano direzioni impreviste...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Risparmia le armi da lancio per altri mostri, perché attraversano gli Adoratori Tenebre senza fare loro nulla.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2818"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Oltre a saper maneggiare molto bene la spada, possono evocare un teschio scintillante, capace di inseguire un avversario...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>La loro abilit\u00e0 di difesa \u00e8 tale che spesso neppure una raffica di colpi riesce a toccarli.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Oltre a saper maneggiare molto bene la spada, possono evocare un teschio scintillante, capace di inseguire un avversario...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>La loro abilità di difesa è tale che spesso neppure una raffica di colpi riesce a toccarli.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2819"
   },
   "HT_Text_Inv_Dsc_IN01_Green_Giant_worm": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Si lanciano a grande velocit\u00e0 dalle loro tane, sfruttando la massa per piombare a terra e schiacciare ci\u00f2 che colpiscono...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Sono invulnerabili a tutto ci\u00f2 che potrebbe stordire mostri pi\u00f9 piccoli.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Si lanciano a grande velocità dalle loro tane, sfruttando la massa per piombare a terra e schiacciare ciò che colpiscono...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Sono invulnerabili a tutto ciò che potrebbe stordire mostri più piccoli.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2820"
   },
   "HT_Text_Inv_Dsc_IN07_Blade_Scorpion": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Lo Scorpione-falce si muove velocemente e attacca ancora pi\u00f9 velocemente. Attento alla sua coda e agli oscuri anfratti nascosti dove ama riposare.<ES HT_Text_ES_S_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Lo Scorpione-falce si muove velocemente e attacca ancora più velocemente. Attento alla sua coda e agli oscuri anfratti nascosti dove ama riposare.<ES HT_Text_ES_S_BOSStd>",
     "description": "SphinxText.xls, row 2821"
   },
   "HT_Text_Inv_Dsc_IN08_Tacked_Spider": {
@@ -240,7 +240,7 @@
     "description": "SphinxText.xls, row 2822"
   },
   "HT_Text_Inv_Dsc_IN09_Sak_Spike_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Salta e afferra la preda, mordendola con tenacia fino a quando non viene scacciato o si \u00e8 saziato...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Se ne incontri uno, ce ne saranno sicuramente altri nei paraggi, perch\u00e9 cacciano in gruppo.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Salta e afferra la preda, mordendola con tenacia fino a quando non viene scacciato o si è saziato...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Se ne incontri uno, ce ne saranno sicuramente altri nei paraggi, perché cacciano in gruppo.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2823"
   },
   "HT_Text_Inv_Dsc_IN11_Spider": {
@@ -248,11 +248,11 @@
     "description": "SphinxText.xls, row 2824"
   },
   "HT_Text_Inv_Dsc_PI01_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>I loro movimenti possono sembrare buffi, ma il loro morso non lo \u00e8. Sono da temere sia sulla terraferma sia in acqua...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Il loro metabolismo li rende insensibili al freddo.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>I loro movimenti possono sembrare buffi, ma il loro morso non lo è. Sono da temere sia sulla terraferma sia in acqua...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Il loro metabolismo li rende insensibili al freddo.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2825"
   },
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Il Piranha corazzato \u00e8 una nuova evoluzione del Piranha. \u00c8 stato scoperto di recente ed \u00e8 pi\u00f9 forte e veloce delle altre specie.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Il Piranha corazzato è una nuova evoluzione del Piranha. È stato scoperto di recente ed è più forte e veloce delle altre specie.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2826"
   },
   "HT_Text_Inv_Dsc_PI01_Green_Piranha": {
@@ -260,15 +260,15 @@
     "description": "SphinxText.xls, row 2827"
   },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Pesce simile a un serpente capace di emettere scariche elettriche.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>La Lampreda \u00e8 aggressiva e difende il suo territorio. In grandi banchi pu\u00f2 elettrificare anche grossi specchi d'acqua.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Pesce simile a un serpente capace di emettere scariche elettriche.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>La Lampreda è aggressiva e difende il suo territorio. In grandi banchi può elettrificare anche grossi specchi d'acqua.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2828"
   },
   "HT_Text_Inv_Dsc_PI03_Aka_Manta_Rays": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Un grosso pesce commestibile, noto per il corpo piatto e l'aggraziato stile natatorio.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Dopo anni di sfruttamento culinario, questa creatura \u00e8 diventata comprensibilmente poco amichevole verso chiunque si avvicini troppo.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Un grosso pesce commestibile, noto per il corpo piatto e l'aggraziato stile natatorio.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Dopo anni di sfruttamento culinario, questa creatura è diventata comprensibilmente poco amichevole verso chiunque si avvicini troppo.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2829"
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Il Pesce trombetta \u00e8 veloce e protegge accanitamente il suo territorio. Viene spesso scelto dai nobili per rendere i loro fossati ancora pi\u00f9 pericolosi per gli intrusi.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Si muove molto agilmente e spesso riesce a cogliere le sue prede di sorpresa.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Il Pesce trombetta è veloce e protegge accanitamente il suo territorio. Viene spesso scelto dai nobili per rendere i loro fossati ancora più pericolosi per gli intrusi.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Si muove molto agilmente e spesso riesce a cogliere le sue prede di sorpresa.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2830"
   },
   "HT_Text_Inv_Dsc_PI05_Aka_Turtle": {
@@ -284,11 +284,11 @@
     "description": "SphinxText.xls, row 2833"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
-    "message": "<ES HT_Text_ES_S_BOSStd>La Creatura Albero possiede una stupenda abilit\u00e0 magica, ma se ti farai affascinare dalla sua luce fosforescente, riceverai una brutta sorpresa dal basso.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>La Creatura Albero possiede una stupenda abilità magica, ma se ti farai affascinare dalla sua luce fosforescente, riceverai una brutta sorpresa dal basso.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2834"
   },
   "HT_Text_Inv_Dsc_PL04_Sunflower_With_Face": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Il Girasole non \u00e8 pacifico come potrebbe sembrare. Se ti farai colpire da una delle spore che emana, preparati a dormire male.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Il Girasole non è pacifico come potrebbe sembrare. Se ti farai colpire da una delle spore che emana, preparati a dormire male.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2835"
   },
   "HT_Text_Inv_Dsc_QC01_Pokemon": {
@@ -296,31 +296,31 @@
     "description": "SphinxText.xls, row 2836"
   },
   "HT_Text_Inv_Dsc_QR01_Cobra": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Il Cobra \u00e8 un serpente velenoso che vive sugli alberi o sulle piante. Se disturberai il suo attuale habitat, non esiter\u00e0 a sollevare la testa e ad attaccare.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Il Cobra è un serpente velenoso che vive sugli alberi o sulle piante. Se disturberai il suo attuale habitat, non esiterà a sollevare la testa e ad attaccare.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2837"
   },
   "HT_Text_Inv_Dsc_QR02_Sak_Spitting_Toad": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Nonostante la taglia, il Rospo sputatore \u00e8 una creatura placida che ha notoriamente un debole per le noci di cocco.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>I Rospi sputatori aiutano i viandanti che offrono loro queste coriacee leccornie.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Nonostante la taglia, il Rospo sputatore è una creatura placida che ha notoriamente un debole per le noci di cocco.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>I Rospi sputatori aiutano i viandanti che offrono loro queste coriacee leccornie.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2838"
   },
   "HT_Text_Inv_Dsc_QR03_Sak_Small_Frog": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Nonostante la piccola taglia, questa rana \u00e8 poco amichevole. Vive di norma nelle paludi ed \u00e8 una creatura nociva.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Nonostante la piccola taglia, questa rana è poco amichevole. Vive di norma nelle paludi ed è una creatura nociva.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2839"
   },
   "HT_Text_Inv_Dsc_QR04_Sak_Nose_Needler": {
-    "message": "<ES HT_Text_ES_S_BOSStd>L'Occhiellatore \u00e8 un mammifero che scava la sua tana e vive nelle regioni polverose. Auguri a chiunque cerchi di colpire queste sfuggenti creature.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>L'Occhiellatore è un mammifero che scava la sua tana e vive nelle regioni polverose. Auguri a chiunque cerchi di colpire queste sfuggenti creature.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2840"
   },
   "HT_Text_Inv_Dsc_QU01_Skeletal_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Il Ragno scheletro sfrutta la particolare altezza della testa per colpire la preda. Dopo averle fatto perdere i sensi, pu\u00f2 divorarla a suo piacimento.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Il Ragno scheletro sfrutta la particolare altezza della testa per colpire la preda. Dopo averle fatto perdere i sensi, può divorarla a suo piacimento.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2841"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Quando ha captato una potenziale minaccia, si mette a rotolare sempre pi\u00f9 velocemente sul posto, per poi lanciarsi verso il nemico.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Quando ha captato una potenziale minaccia, si mette a rotolare sempre più velocemente sul posto, per poi lanciarsi verso il nemico.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2842"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Fire": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Sfrutta la stessa tecnica di attacco rotolante dell'Armadillo e in pi\u00f9 lancia una sfera di fuoco che ha un effetto bruciante sui suoi avversari...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Quelli catturati si possono sfruttare per bruciare gli ostacoli di legno.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Sfrutta la stessa tecnica di attacco rotolante dell'Armadillo e in più lancia una sfera di fuoco che ha un effetto bruciante sui suoi avversari...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Quelli catturati si possono sfruttare per bruciare gli ostacoli di legno.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2843"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Electricity": {
@@ -328,11 +328,11 @@
     "description": "SphinxText.xls, row 2844"
   },
   "HT_Text_Inv_Dsc_QU04_Mummy_Chihuahua": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Questi piccoli cani non amano essere mummificati, quindi evita di avvicinarti. Se commetti questo errore, ti afferreranno e continueranno a morderti finch\u00e9 non farai loro mollare la presa.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Questi piccoli cani non amano essere mummificati, quindi evita di avvicinarti. Se commetti questo errore, ti afferreranno e continueranno a morderti finché non farai loro mollare la presa.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2845"
   },
   "HT_Text_Inv_Dsc_QU05_skeletal_waspspider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Il Ragno vespa \u00e8 dotato di affilati artigli anteriori che falciano l'aria e, naturalmente, le prede.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Il Ragno vespa è dotato di affilati artigli anteriori che falciano l'aria e, naturalmente, le prede.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2846"
   },
   "HT_Text_Inv_Dsc_QU06_Mummy_Worm": {
@@ -340,15 +340,15 @@
     "description": "SphinxText.xls, row 2847"
   },
   "HT_Text_Inv_Dsc_QU09_Rat": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Fastidiosa creatura che rifiuta di abbandonare la caccia finch\u00e9 non ha affondato i denti da qualche parte. Si trova soprattutto nelle zone abitate e nei dintorni.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Fastidiosa creatura che rifiuta di abbandonare la caccia finché non ha affondato i denti da qualche parte. Si trova soprattutto nelle zone abitate e nei dintorni.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2848"
   },
   "HT_Text_Inv_Dsc_QU08_Normal_Chihuahua": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Il Chihuahua \u00e8 un cane a pelo raso di piccola taglia. Pur essendo rispettato dagli amanti dei cani, molti trovano irritanti i suoi continui latrati.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Il Chihuahua è un cane a pelo raso di piccola taglia. Pur essendo rispettato dagli amanti dei cani, molti trovano irritanti i suoi continui latrati.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2849"
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Il Grande toro \u00e8 anche un grande attaccabrighe...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Non \u00e8 possibile ragionarci e ha l'abitudine di colpire con il suo martello qualunque cosa consideri fastidiosa. Non ti avvicinare!<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Il Grande toro è anche un grande attaccabrighe...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Non è possibile ragionarci e ha l'abitudine di colpire con il suo martello qualunque cosa consideri fastidiosa. Non ti avvicinare!<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2850"
   },
   "HT_Text_Inv_Dsc_HD09_Horned_ReptileMan": {
@@ -404,7 +404,7 @@
     "description": "SphinxText.xls, row 2864"
   },
   "HT_Text_Inv_Dsc_Basket": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Bas-Ket \u00e8 un oggetto magico che pu\u00f2 trasportare oggetti fra Sphinx e la Mummia quando avrai il Libro dei Morti.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Bas-Ket è un oggetto magico che può trasportare oggetti fra Sphinx e la Mummia quando avrai il Libro dei Morti.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2874"
   },
   "HT_Text_Inv_Dsc_AbyPass": {
@@ -448,7 +448,7 @@
     "description": "SphinxText.xls, row 2893"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Tessera fedelt\u00e0 per comprare coleotteri a met\u00e0 prezzo al negozio dell'Avamposto beduino.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Tessera fedeltà per comprare coleotteri a metà prezzo al negozio dell'Avamposto beduino.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2894"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CageKey": {
@@ -472,39 +472,39 @@
     "description": "SphinxText.xls, row 2904"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica legata alla dea Nut. Pare che possa togliere anche la maledizione pi\u00f9 potente.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica legata alla dea Nut. Pare che possa togliere anche la maledizione più potente.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2905"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica dell'oblio terrestre. Pare che possa togliere la maledizione pi\u00f9 potente.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica dell'oblio terrestre. Pare che possa togliere la maledizione più potente.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2906"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica legata alla fertilit\u00e0. Pare che possa togliere anche la maledizione pi\u00f9 potente.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica legata alla fertilità. Pare che possa togliere anche la maledizione più potente.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2907"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica ritenuta pi\u00f9 potente della spada. Pare che possa togliere anche la maledizione pi\u00f9 potente.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica ritenuta più potente della spada. Pare che possa togliere anche la maledizione più potente.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2908"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone05": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica di origini profetiche. Pare che possa togliere anche la maledizione pi\u00f9 potente.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica di origini profetiche. Pare che possa togliere anche la maledizione più potente.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2909"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone06": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica della grande casa. Pare che possa togliere anche la maledizione pi\u00f9 potente.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica della grande casa. Pare che possa togliere anche la maledizione più potente.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2910"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone07": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica di protezione e vigilanza. Pare che possa togliere anche la maledizione pi\u00f9 potente.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica di protezione e vigilanza. Pare che possa togliere anche la maledizione più potente.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2911"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone08": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica di protezione e vigilanza. Pare che possa togliere anche la maledizione pi\u00f9 potente.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Pietra magica di protezione e vigilanza. Pare che possa togliere anche la maledizione più potente.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2912"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Luxor01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Amuleto del portale con simboli arcani rappresentanti il viaggio verso una localit\u00e0 misteriosa.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Amuleto del portale con simboli arcani rappresentanti il viaggio verso una località misteriosa.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2914"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Abydos01": {
@@ -560,7 +560,7 @@
     "description": "SphinxText.xls, row 2931"
   },
   "HT_Text_Inv_Dsc_HippyItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Questo Parasole \u00e8 l'ideale per proteggersi dal sole.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Questo Parasole è l'ideale per proteggersi dal sole.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2935"
   },
   "HT_Text_Inv_Dsc_CreatureList01": {
@@ -592,7 +592,7 @@
     "description": "SphinxText.xls, row 2946"
   },
   "HT_Text_Inv_Dsc_AbyStairsKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>La chiave delle scale nel cortile del pozzo. D\u00e0 accesso ai Canali di Abydos.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>La chiave delle scale nel cortile del pozzo. Dà accesso ai Canali di Abydos.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2947"
   },
   "HT_Text_Inv_Dsc_MedicineBag": {

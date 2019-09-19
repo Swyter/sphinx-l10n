@@ -12,7 +12,7 @@
     "description": "SphinxText.xls, row 2525"
   },
   "HT_Text_BOS_Instructions": {
-    "message": "<FC 30,10,0>Navigue dans la page avec <SB HT_PadAction_BOS_NavigateDPad> <N>Change de page avec <SB HT_PadAction_BOS_TABCycleLeft> et <SB HT_PadAction_BOS_TABCycleRight><N>Fais d\u00e9filer les descriptions avec <SB HT_PadAction_BOS_PageUp>.",
+    "message": "<FC 30,10,0>Navigue dans la page avec <SB HT_PadAction_BOS_NavigateDPad> <N>Change de page avec <SB HT_PadAction_BOS_TABCycleLeft> et <SB HT_PadAction_BOS_TABCycleRight><N>Fais défiler les descriptions avec <SB HT_PadAction_BOS_PageUp>.",
     "description": "SphinxText.xls, row 2526"
   },
   "HT_Text_BOS_NoNotes": {
@@ -20,11 +20,11 @@
     "description": "SphinxText.xls, row 2527"
   },
   "HT_Text_BOS_NoAbilities": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Tu n'as pas de comp\u00e9tences.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Tu n'as pas de compétences.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2528"
   },
   "HT_Text_BOS_NoQuestItems": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Tu n'as pas d'objets de qu\u00eate.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Tu n'as pas d'objets de quête.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2529"
   }
 }

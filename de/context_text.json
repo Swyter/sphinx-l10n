@@ -24,7 +24,7 @@
     "description": "SphinxText.xls, row 2466"
   },
   "HT_Text_Context_OpenDoor": {
-    "message": "\u00d6FFNEN",
+    "message": "ÖFFNEN",
     "description": "SphinxText.xls, row 2467"
   },
   "HT_Text_Context_PickupObject": {
@@ -44,7 +44,7 @@
     "description": "SphinxText.xls, row 2471"
   },
   "HT_Text_Context_Possession": {
-    "message": "KONTROLLE \u00dcBERNEHMEN",
+    "message": "KONTROLLE ÜBERNEHMEN",
     "description": "SphinxText.xls, row 2472"
   },
   "HT_Text_Context_Unpossession": {
@@ -88,7 +88,7 @@
     "description": "SphinxText.xls, row 2482"
   },
   "HT_Text_Context_Recall": {
-    "message": "ZUR\u00dcCKRUFEN",
+    "message": "ZURÜCKRUFEN",
     "description": "SphinxText.xls, row 2483"
   },
   "HT_Text_Context_Directed": {
@@ -112,7 +112,7 @@
     "description": "SphinxText.xls, row 2488"
   },
   "HT_Text_Context_Beetle": {
-    "message": "K\u00c4FER",
+    "message": "KÄFER",
     "description": "SphinxText.xls, row 2489"
   },
   "HT_Text_Context_Throw": {
@@ -152,7 +152,7 @@
     "description": "SphinxText.xls, row 2498"
   },
   "HT_Text_Context_Flap": {
-    "message": "FL\u00dcGELSCHLAG",
+    "message": "FLÜGELSCHLAG",
     "description": "SphinxText.xls, row 2499"
   },
   "HT_Text_Context_Enter": {
@@ -192,7 +192,7 @@
     "description": "SphinxText.xls, row 2508"
   },
   "HT_Text_Context_WallSneakPeek": {
-    "message": "SP\u00c4HEN",
+    "message": "SPÄHEN",
     "description": "SphinxText.xls, row 2509"
   },
   "HT_Text_Context_WallSneak": {
@@ -228,11 +228,11 @@
     "description": "SphinxText.xls, row 2517"
   },
   "HT_Text_Context_Select": {
-    "message": "AUSW\u00c4HLEN",
+    "message": "AUSWÄHLEN",
     "description": "SphinxText.xls, row 2518"
   },
   "HT_Text_Context_Shake": {
-    "message": "SCH\u00dcTTELN",
+    "message": "SCHÜTTELN",
     "description": "SphinxText.xls, row 2519"
   }
 }

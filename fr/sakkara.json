@@ -1,26 +1,26 @@
 {
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1a": {
-    "message": "Grand Seth, les Gebs te remercient du fond du c\u0153ur pour la <FC 0,128,0>Couronne sacr\u00e9e d'Uruk<END FC>. Entre nos mains, elle sera en s\u00e9curit\u00e9.<E>",
+    "message": "Grand Seth, les Gebs te remercient du fond du cœur pour la <FC 0,128,0>Couronne sacrée d'Uruk<END FC>. Entre nos mains, elle sera en sécurité.<E>",
     "description": "SphinxText.xls, row 1481"
   },
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1b": {
-    "message": "Je suis s\u00fbr que tu dis la v\u00e9rit\u00e9. Si ce n'est pas le cas, ma vengeance sera terrible!<E>",
+    "message": "Je suis sûr que tu dis la vérité. Si ce n'est pas le cas, ma vengeance sera terrible!<E>",
     "description": "SphinxText.xls, row 1482"
   },
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1c": {
-    "message": "Ne t'inqui\u00e8te pas, Grand Seth. Personne n'a jamais r\u00e9sist\u00e9 au pouvoir de la Reine des Gebs...<E>",
+    "message": "Ne t'inquiète pas, Grand Seth. Personne n'a jamais résisté au pouvoir de la Reine des Gebs...<E>",
     "description": "SphinxText.xls, row 1483"
   },
   "HT_Text_Sakk_5_Boss_Fight_Gebqueen1a": {
-    "message": "Comment oses-tu p\u00e9n\u00e9trer dans le Palais de la Reine!<E>",
+    "message": "Comment oses-tu pénétrer dans le Palais de la Reine!<E>",
     "description": "SphinxText.xls, row 1485"
   },
   "HT_Text_Sakk_5_Boss_Fight_Gebqueen1b": {
-    "message": "Ton insolence va te co\u00fbter cher! Tu vas mourir!<E>",
+    "message": "Ton insolence va te coûter cher! Tu vas mourir!<E>",
     "description": "SphinxText.xls, row 1486"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1a": {
-    "message": "Tu m'as peut-\u00eatre vaincue, mais Seth t'an\u00e9antira.<P>Tu as fait tout \u00e7a pour rien... C'est trop tard... Tu ne pourras jamais le vaincre...<E>",
+    "message": "Tu m'as peut-être vaincue, mais Seth t'anéantira.<P>Tu as fait tout ça pour rien... C'est trop tard... Tu ne pourras jamais le vaincre...<E>",
     "description": "SphinxText.xls, row 1487"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1b": {
@@ -32,7 +32,7 @@
     "description": "SphinxText.xls, row 1489"
   },
   "HT_Text_Sakk_5_TakeCrown1a": {
-    "message": "Une autre couronne dont le pouvoir t'\u00e9chappe.<E>",
+    "message": "Une autre couronne dont le pouvoir t'échappe.<E>",
     "description": "SphinxText.xls, row 1528"
   },
   "HT_Text_Sakk_5_TakeCrown1b": {
@@ -40,15 +40,15 @@
     "description": "SphinxText.xls, row 1529"
   },
   "HT_Text_Sakk_5_TakeCrown1c": {
-    "message": "Seuls les h\u00e9ros d\u00e9termin\u00e9s peuvent r\u00e9ussir.<E>",
+    "message": "Seuls les héros déterminés peuvent réussir.<E>",
     "description": "SphinxText.xls, row 1530"
   },
   "HT_Text_Sakk_5_TakeCrown1d": {
-    "message": "La Proph\u00e9tie se r\u00e9alise, enfin... Mais seras-tu celui qui la m\u00e8nera \u00e0 son terme?<E>",
+    "message": "La Prophétie se réalise, enfin... Mais seras-tu celui qui la mènera à son terme?<E>",
     "description": "SphinxText.xls, row 1531"
   },
   "HT_Text_Sakk_5_TakeCrown1e": {
-    "message": "Prends cet <FC 0,128,0>Ankh d'or<END FC> en signe de r\u00e9compense.<P><ES HT_Text_ES_S_HelpText><CNTR>Cet artefact magique a augment\u00e9 ton capital-sant\u00e9<N>de <FC 0,128,0>1 Ankh<END FC> et t'a rendu toute ta sant\u00e9!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "Prends cet <FC 0,128,0>Ankh d'or<END FC> en signe de récompense.<P><ES HT_Text_ES_S_HelpText><CNTR>Cet artefact magique a augmenté ton capital-santé<N>de <FC 0,128,0>1 Ankh<END FC> et t'a rendu toute ta santé!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1532"
   }
 }

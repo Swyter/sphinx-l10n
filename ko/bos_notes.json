@@ -1,322 +1,322 @@
 {
   "HT_Text_NoteTitle_FindBlade01": {
-    "message": "\uc624\uc2dc\ub9ac\uc2a4\uc758 \uac80\uc744 \ucc3e\uc544\ub77c",
+    "message": "오시리스의 검을 찾아라",
     "description": "SphinxText.xls, row 2538"
   },
   "HT_Text_NoteTitle_GetLetter01": {
-    "message": "\ub124\ud37c\ub974\ud2f0\ud2f0\uc758 \ud3b8\uc9c0\ub97c \ud68c\uc218\ud558\ub77c",
+    "message": "네퍼르티티의 편지를 회수하라",
     "description": "SphinxText.xls, row 2539"
   },
   "HT_Text_NoteTitle_CollectAmulets01": {
-    "message": "\uc624\ub798\ub41c \ubd80\uc801\ub4e4\uc744 \uc218\uc9d1\ud558\ub77c",
+    "message": "오래된 부적들을 수집하라",
     "description": "SphinxText.xls, row 2540"
   },
   "HT_Text_NoteTitle_GetToHeliopolis01": {
-    "message": "\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\ub85c\uc758 \uc804\uc1a1\uc7a5\uce58\ub97c \ucc3e\uc544\ub77c",
+    "message": "헬리오폴리스로의 전송장치를 찾아라",
     "description": "SphinxText.xls, row 2541"
   },
   "HT_Text_NoteTitle_FindPearls01": {
-    "message": "\uc544\ube44\ub3c4\uc2a4\uc758 \uc9c4\uc8fc\ub4e4\uc744 3\uac1c \ucc3e\uc544\ub77c",
+    "message": "아비도스의 진주들을 3개 찾아라",
     "description": "SphinxText.xls, row 2542"
   },
   "HT_Text_NoteTitle_DonateMuseum01": {
-    "message": "\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00\uc5d0 \uae30\uc99d\uc744 \ud558\ub77c",
+    "message": "아비도스 박물관에 기증을 하라",
     "description": "SphinxText.xls, row 2543"
   },
   "HT_Text_NoteTitle_GetAbydosPasscard01": {
-    "message": "\uc544\ube44\ub3c4\uc2a4 \uc81c\ud55c \uad6c\uc5ed",
+    "message": "아비도스 제한 구역",
     "description": "SphinxText.xls, row 2544"
   },
   "HT_Text_NoteTitle_FindImhotep01": {
-    "message": "\ud0dc\uc591\uc758 \uc131\uc9c0 \uc12c\uc5d0\uc11c \uc784\ud638\ud15d\uc744 \ucc3e\uc544\ub77c",
+    "message": "태양의 성지 섬에서 임호텝을 찾아라",
     "description": "SphinxText.xls, row 2545"
   },
   "HT_Text_NoteTitle_GetBookOfTheDead01": {
-    "message": "\uc0ac\uc790\uc758 \uc11c\ub97c \ucc3e\uc544\ub77c",
+    "message": "사자의 서를 찾아라",
     "description": "SphinxText.xls, row 2546"
   },
   "HT_Text_NoteTitle_VisitAnubis01": {
-    "message": "\ubcbd \uc785\uad6c I\uc5d0\uc11c \uc544\ub204\ube44\uc2a4\ub97c \ubc29\ubb38\ud558\ub77c",
+    "message": "벽 입구 I에서 아누비스를 방문하라",
     "description": "SphinxText.xls, row 2547"
   },
   "HT_Text_NoteTitle_AnubisQuest01": {
-    "message": "\ud654\uc5fc \uc544\ub974\ub9c8\ub51c\ub85c 3\ub9c8\ub9ac\ub97c \uc544\ub204\ube44\uc2a4\uc5d0\uac8c \uac00\uc838\uc624\ub77c",
+    "message": "화염 아르마딜로 3마리를 아누비스에게 가져오라",
     "description": "SphinxText.xls, row 2548"
   },
   "HT_Text_NoteTitle_VisitFarmers01": {
-    "message": "\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \ub18d\uc7a5\uc744 \ubc29\ubb38\ud558\ub77c",
+    "message": "헬리오폴리스의 농장을 방문하라",
     "description": "SphinxText.xls, row 2549"
   },
   "HT_Text_NoteTitle_SaveNomadWife01": {
-    "message": "\uc720\ubaa9\ubbfc\uc758 \uc544\ub0b4\ub97c \uad6c\ud558\ub77c",
+    "message": "유목민의 아내를 구하라",
     "description": "SphinxText.xls, row 2550"
   },
   "HT_Text_NoteTitle_DeactivateBeams01": {
-    "message": "\uc720\ubaa9\ubbfc\uc758 \uc544\ub0b4\uac00 \uac07\ud600\uc788\ub294 \uc7a5\ubcbd\uc744 \uc81c\uac70\ud558\ub77c",
+    "message": "유목민의 아내가 갇혀있는 장벽을 제거하라",
     "description": "SphinxText.xls, row 2551"
   },
   "HT_Text_NoteTitle_VisitImhotep01": {
-    "message": "\ud0dc\uc591\uc758 \uc131\uc9c0\uc5d0\uc11c \uc784\ud638\ud15d\uc744 \ubc29\ubb38\ud558\ub77c",
+    "message": "태양의 성지에서 임호텝을 방문하라",
     "description": "SphinxText.xls, row 2552"
   },
   "HT_Text_NoteTitle_CrownQuest01": {
-    "message": "\uc544\ube44\ub3c4\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uad00\uc744 \ud68c\uc218\ud558\ub77c",
+    "message": "아비도스의 성스러운 관을 회수하라",
     "description": "SphinxText.xls, row 2553"
   },
   "HT_Text_NoteTitle_MayorIll01": {
-    "message": "\uc2dc\uc7a5\uc758 \ubcd1\ud658",
+    "message": "시장의 병환",
     "description": "SphinxText.xls, row 2554"
   },
   "HT_Text_NoteTitle_SmallCanalCreatures01": {
-    "message": "\uc18c \uc6b4\ud558\uc5d0\uc11c \uad34\ubb3c\ub4e4\uc744 \uc81c\uac70\ud558\ub77c",
+    "message": "소 운하에서 괴물들을 제거하라",
     "description": "SphinxText.xls, row 2555"
   },
   "HT_Text_NoteTitle_CureMayor01": {
-    "message": "\uc544\ube44\ub3c4\uc2a4\uc758 \uc2dc\uc7a5\uc744 \uce58\ub8cc\ud558\ub77c",
+    "message": "아비도스의 시장을 치료하라",
     "description": "SphinxText.xls, row 2556"
   },
   "HT_Text_NoteTitle_VisitKemmet01": {
-    "message": "\uc758\uc0ac\uc758 \ucabd\uc9c0\ub97c \ucf00\uba54\ud2b8\uc5d0\uac8c \uc804\ub2ec\ud558\ub77c",
+    "message": "의사의 쪽지를 케메트에게 전달하라",
     "description": "SphinxText.xls, row 2557"
   },
   "HT_Text_NoteTitle_FindPoliticians01": {
-    "message": "\ubc30\uc2e0\ud558\ub294 \uc815\uce58\uc778\ub4e4\uc744 \ucc3e\uc544\ub77c",
+    "message": "배신하는 정치인들을 찾아라",
     "description": "SphinxText.xls, row 2558"
   },
   "HT_Text_NoteTitle_CrownQuest02": {
-    "message": "\uc6b0\ub8e8\ud06c\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uc655\uad00\uc744 \ud68c\uc218\ud558\ub77c",
+    "message": "우루크의 성스러운 왕관을 회수하라",
     "description": "SphinxText.xls, row 2559"
   },
   "HT_Text_NoteTitle_FindHeliopolisDungeon01": {
-    "message": "\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \uc78a\ud600\uc9c4 \uc0ac\uc6d0\uc744 \ucc3e\uc544\ub77c",
+    "message": "헬리오폴리스의 잊혀진 사원을 찾아라",
     "description": "SphinxText.xls, row 2560"
   },
   "HT_Text_NoteTitle_CollectRosettaPieces01": {
-    "message": "\uace0\ub300\uc758 \ub85c\uc81c\ud0c0\uc11d \uc870\uac01\ub4e4\uc744 \ud68c\uc218\ud558\ub77c",
+    "message": "고대의 로제타석 조각들을 회수하라",
     "description": "SphinxText.xls, row 2561"
   },
   "HT_Text_NoteTitle_MeetArchaeologist01": {
-    "message": "\ubca0\ub450\uc778 \ubcc0\ubc29\uc5d0 \uc788\ub294 \uace0\uace0\ud559\uc790\ub97c \ubc29\ubb38\ud558\ub77c",
+    "message": "베두인 변방에 있는 고고학자를 방문하라",
     "description": "SphinxText.xls, row 2562"
   },
   "HT_Text_NoteTitle_TranslateObelisks01": {
-    "message": "\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \ud669\uae08 \uc624\ubca8\ub9ac\uc2a4\ud06c\ub97c \ud574\ub3c5\ud558\ub77c",
+    "message": "헬리오폴리스의 황금 오벨리스크를 해독하라",
     "description": "SphinxText.xls, row 2563"
   },
   "HT_Text_NoteTitle_SmallObelisk01": {
-    "message": "\uace0\ub300\uc758 \ubb38\uac74\uc744 \ud574\ub3c5\ud558\ub77c",
+    "message": "고대의 문건을 해독하라",
     "description": "SphinxText.xls, row 2564"
   },
   "HT_Text_NoteTitle_SmallObelisk02": {
-    "message": "\uace0\ub300\uc758 \ubb38\uac74\uc744 \ud574\ub3c5\ud558\ub77c",
+    "message": "고대의 문건을 해독하라",
     "description": "SphinxText.xls, row 2565"
   },
   "HT_Text_NoteTitle_SmallObelisk03": {
-    "message": "\uace0\ub300\uc758 \ubb38\uac74\uc744 \ud574\ub3c5\ud558\ub77c",
+    "message": "고대의 문건을 해독하라",
     "description": "SphinxText.xls, row 2566"
   },
   "HT_Text_NoteTitle_SmallObelisk04": {
-    "message": "\uace0\ub300\uc758 \ubb38\uac74\uc744 \ud574\ub3c5\ud558\ub77c",
+    "message": "고대의 문건을 해독하라",
     "description": "SphinxText.xls, row 2567"
   },
   "HT_Text_NoteTitle_SmallObelisk05": {
-    "message": "\uace0\ub300\uc758 \ubb38\uac74\uc744 \ud574\ub3c5\ud558\ub77c",
+    "message": "고대의 문건을 해독하라",
     "description": "SphinxText.xls, row 2568"
   },
   "HT_Text_NoteTitle_Prophecy": {
-    "message": "\ub77c\uc758 \uace0\ub300 \uc608\uc5b8",
+    "message": "라의 고대 예언",
     "description": "SphinxText.xls, row 2569"
   },
   "HT_Text_NoteTitle_TempleTest01": {
-    "message": "\uc6b0\ub8e8\ud06c \uc0ac\uc6d0\uc758 \uc2dc\ud5d8\uc744 \uc644\uc218\ud574\ub77c",
+    "message": "우루크 사원의 시험을 완수해라",
     "description": "SphinxText.xls, row 2570"
   },
   "HT_Text_NoteTitle_CrownQuest03": {
-    "message": "\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uc655\uad00\uc744 \ud68c\uc218\ud558\ub77c",
+    "message": "헬리오폴리스의 성스러운 왕관을 회수하라",
     "description": "SphinxText.xls, row 2571"
   },
   "HT_Text_NoteTitle_MotherQuest01": {
-    "message": "\uc783\uc5b4\ubc84\ub9b0 \uac1c\ub4e4\uc744 \ud3ec\ud68d\ud558\ub77c",
+    "message": "잃어버린 개들을 포획하라",
     "description": "SphinxText.xls, row 2572"
   },
   "HT_Text_NoteTitle_DefeatSeth01": {
-    "message": "\uc6b0\ub8e8\ud06c\uc5d0\uc11c \uc138\ud2b8\ub97c \ubb34\ucc14\ub7ec\ub77c",
+    "message": "우루크에서 세트를 무찔러라",
     "description": "SphinxText.xls, row 2573"
   },
   "HT_Text_Note_FindBlade01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub108\uc758 \uccab \ubc88\uc9f8 \ubaa8\ud5d8\uc740 \uc624\ub7ab\ub3d9\uc548 \ubd84\uc2e4\ub418\uc5c8\ub358 \uc624\uc2dc\ub9ac\uc2a4\uc758 \uac80\uc744 \ucc3e\ub294 \uac83\uc774\ub2e4. \uc774 \uac15\ub825\ud55c \ubb34\uae30\ub294 \uc6b0\ub8e8\ud06c \uc131\uc758 \ud669\ud3d0\ud55c \ub545\uc5d0\uc11c \uc624\ub798 \uc804 \uc0ac\ub77c\uc84c\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>너의 첫 번째 모험은 오랫동안 분실되었던 오시리스의 검을 찾는 것이다. 이 강력한 무기는 우루크 성의 황폐한 땅에서 오래 전 사라졌다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2575"
   },
   "HT_Text_Note_GetLetter01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub124\ud37c\ub974\ud2f0\ud2f0\uc758 \ud3b8\uc9c0\ub97c \ud68c\uc218\ud558\uc5ec \uadf8\ub140\uc5d0\uac8c \ub3cc\ub824\uc8fc\uc5b4\ub77c.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>네퍼르티티의 편지를 회수하여 그녀에게 돌려주어라.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2576"
   },
   "HT_Text_Note_CollectAmulets01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>8\uac1c\uc758 \uc624\ub798\ub41c \ubd80\uc801\ub4e4\uc744 \uc218\uc9d1\ud558\uc5ec \uc219\ubaa8 \uc138\ud2f0\uc5d0\uac8c \ub3cc\ub824\uc8fc\uc5b4\ub77c.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>8개의 오래된 부적들을 수집하여 숙모 세티에게 돌려주어라.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2577"
   },
   "HT_Text_Note_GetToHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4 \ubd80\uc801\uc744 \ud55c \ubc88 \uc0ac\uc6a9\ud558\uba74, \uc784\ud638\ud15d\uc740 \ub124\uac00 \ucd5c\ub300\ud55c \ube68\ub9ac \ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\ub85c \uac00\ub294 \uc804\uc1a1\uc7a5\uce58\ub97c \ucc3e\uc544\uc11c \uadf8\ub97c \ub9cc\ub098\uae30\ub97c \uc6d0\ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 부적을 한 번 사용하면, 임호텝은 네가 최대한 빨리 헬리오폴리스로 가는 전송장치를 찾아서 그를 만나기를 원한다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2578"
   },
   "HT_Text_Note_FindPearls01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>3\uac1c\uc758 \uc9c4\uc8fc\ub97c \ucc3e\uc544\uc11c \uadf8 \uc544\ube44\ub3c4\uc2a4 \ub0a8\uc790\uc5d0\uac8c \uc900\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>3개의 진주를 찾아서 그 아비도스 남자에게 준다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2579"
   },
   "HT_Text_Note_DonateMuseum01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00\uc758 \uad00\uc7a5\uc774 \ub124\uac00 \uccab \ubc88\uc9f8 \uae30\uc99d\uc744 \ud558\uba74 \uc120\ubb3c\uc744 \uc904 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 관장이 네가 첫 번째 기증을 하면 선물을 줄 것이다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2580"
   },
   "HT_Text_Note_GetAbydosPasscard01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4 \uc6b4\ud558\uc758 \uc218\ube44\ubcd1\ub4e4\uc774 \uc758\ud68c\uc2e4\ub85c \uc811\uadfc\uc744 \uae08\uc9c0\ud560 \uac83\uc774\ub2e4. \ub9cc\uc57d \ubaa8\ud5d8\uc744 \ud558\ub2e4\uac00 \ub098\uc911\uc5d0 \uc54c\ub9de\uc740 \uc99d\uba85\uc11c\uac00 \uc788\ub2e4\uba74 \uc544\ube44\ub3c4\uc2a4\ub85c \ub3cc\uc544\uc624\ub294 \uac83\uc774 \uc88b\uc744 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 운하의 수비병들이 의회실로 접근을 금지할 것이다. 만약 모험을 하다가 나중에 알맞은 증명서가 있다면 아비도스로 돌아오는 것이 좋을 것이다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2581"
   },
   "HT_Text_Note_FindImhotep01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc784\ud638\ud15d\uc740 \ud0dc\uc591 \uc131\ub2f9 \uc12c\uc5d0\uc11c \ucc3e\uc744 \uc218 \uc787\ub2e4. \uadf8\ub97c \ubc29\ubb38\ud558\uc5ec \ubb34\uc2a8 \uc815\ubcf4\ub97c \uac00\uc9c0\uace0 \uc788\ub294 \uc9c0 \ud655\uc778\ud558\ub77c.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>임호텝은 태양 성당 섬에서 찾을 수 잇다. 그를 방문하여 무슨 정보를 가지고 있는 지 확인하라.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2582"
   },
   "HT_Text_Note_GetBookOfTheDead01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub0a9\uace8\ub2e8\uc9c0\ub97c \ucc3e\uc558\uc744 \ub54c \ubc14\uc2a4-\ucf13\uc744 \uc18c\ud658\ud560 \uc218 \uc788\uac8c \uc0ac\uc790\uc758 \uc11c\ub97c \ucc3e\uc544\ub77c. \uc784\ud638\ud15d\uc740 \uadf8 \ucc45\uc774 \uc800\uc8fc \ubc1b\uc740 \uc131\uc548\uc5d0 \ubcf4\uad00\ub418\uc5b4 \uc788\ub2e4\uace0 \ubbff\ub294\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>납골단지를 찾았을 때 바스-켓을 소환할 수 있게 사자의 서를 찾아라. 임호텝은 그 책이 저주 받은 성안에 보관되어 있다고 믿는다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2583"
   },
   "HT_Text_Note_VisitAnubis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ub204\ube44\uc2a4\uac00 \uc800\uc8fc \ubc1b\uc740 \uc131\uc758 \uc8fc\ubbfc\ub4e4\uc774 \uc800\uc8fc \ubc1b\uc740 \uac83\uc5d0 \uad00\ud55c \ucc45\uc784\uc774 \uc788\ub2e4. \uc774\ube44\uc2a4\uc758 \ub0a0\uac1c\ub85c \ubcbd \uc785\uad6c I\ub85c \ub4e4\uc5b4\uac00\uc11c \uc544\ub204\ube44\uc2a4\ub97c \ub9cc\ub0a0 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아누비스가 저주 받은 성의 주민들이 저주 받은 것에 관한 책임이 있다. 이비스의 날개로 벽 입구 I로 들어가서 아누비스를 만날 수 있다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2584"
   },
   "HT_Text_Note_AnubisQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud654\uc5fc \uc544\ub974\ub9c8\ub51c\ub85c\ub4e4 3\ub9c8\ub9ac\ub97c \ud3ec\ud68d \ub531\uc815\ubc8c\ub808\uc744 \uc0ac\uc6a9\ud558\uc5ec \ud3ec\ud68d\ud558\uace0 \uc544\ub204\ube44\uc2a4\uc5d0\uac8c \uac00\uc838\uc624\ub77c.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>화염 아르마딜로들 3마리를 포획 딱정벌레을 사용하여 포획하고 아누비스에게 가져오라.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2585"
   },
   "HT_Text_Note_VisitFarmers01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub18d\ubd80\uc758 \ud615\uc81c\uac00 \ub108\ub97c \ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc5d0 \uc788\ub294 \uadf8\ub4e4\uc758 \ub18d\uc7a5\uc73c\ub85c \ucd08\ub300\ud588\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>농부의 형제가 너를 헬리오폴리스에 있는 그들의 농장으로 초대했다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2586"
   },
   "HT_Text_Note_SaveNomadWife01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc720\ubaa9\ubbfc\uc758 \uc544\ub0b4\uac00 \uc5b4\ub514\uc5d0 \uac07\ud600\uc788\ub294\uc9c0\ub97c \ucc3e\uc544\uc11c \uad6c\ucd9c\ud558\ub77c.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>유목민의 아내가 어디에 갇혀있는지를 찾아서 구출하라.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2587"
   },
   "HT_Text_Note_DeactivateBeams01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc720\ubaa9\ubbfc\uc758 \uc544\ub0b4\ub97c \uac00\ub450\uc5b4\ub450\uace0 \uc788\ub294 \uc7a5\ubcbd\uc774 \uc138 \uac00\uc9c0\uc758 \uc0c9\uc0c1\uc758 \uad11\uc120\ub4e4\uc5d0 \uc758\ud574\uc11c \ud798\uc744 \uacf5\uae09 \ubc1b\ub294 \uac83 \uac19\ub2e4. \uadf8\ub4e4\uc744 \uc81c\uac70\ud560 \uc218 \uc788\ub294 \ubc29\ubc95\uc744 \ucc3e\uc544\ub77c.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>유목민의 아내를 가두어두고 있는 장벽이 세 가지의 색상의 광선들에 의해서 힘을 공급 받는 것 같다. 그들을 제거할 수 있는 방법을 찾아라.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2588"
   },
   "HT_Text_Note_VisitImhotep01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc784\ud638\ud15d\uc774 \ub108\uc5d0\uac8c \ud0dc\uc591 \uc131\ub2f9\uc73c\ub85c \uac00\uc11c \uadf8\uc640 \ub300\ud654\ud560 \uac83\uc744 \uc694\uccad\ud558\uc600\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>임호텝이 너에게 태양 성당으로 가서 그와 대화할 것을 요청하였다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2589"
   },
   "HT_Text_Note_CrownQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uad00\uc744 \ucc3e\uc544\uc11c \ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \uc544\ub204\ube44\uc2a4\uc5d0\uac8c \ub3cc\ub824\uc8fc\uc5b4\uc57c\ub9cc \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스의 성스러운 관을 찾아서 헬리오폴리스의 아누비스에게 돌려주어야만 한다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2590"
   },
   "HT_Text_Note_MayorIll01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubd84\uba85\ud788 \uc2dc\uc7a5\uc740 \uc2ec\uac01\ud558\uac8c \uc553\uace0 \uc788\ub2e4. \uc544\ube44\ub3c4\uc2a4 \uc758\ud68c\uc2e4\uc758 \uc0ac\ub78c\ub4e4\uc758 \ub108\uc758 \ub3c4\uc6c0\uc744 \ubc1b\uc744 \uc218 \uc788\uc744 \uac83 \uac19\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>분명히 시장은 심각하게 앓고 있다. 아비도스 의회실의 사람들의 너의 도움을 받을 수 있을 것 같다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2591"
   },
   "HT_Text_Note_SmallCanalCreatures01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc18c \uc6b4\ud558\ub85c\uc758 \uc785\uad6c \uadfc\ucc98\uc5d0 \uc788\ub294 \uc218\ube44\ubcd1\ub4e4\uc774 \uadf8 \uc601\uc5ed\uc5d0\uc11c \uad34\ubb3c\ub4e4\uc744 \uc81c\uac70\ud558\uba74 \ud3ec\ud138 \ubd80\uc801\uc744 \uc8fc\uaca0\ub2e4\uace0 \uc81c\uc548\ud558\uc600\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>소 운하로의 입구 근처에 있는 수비병들이 그 영역에서 괴물들을 제거하면 포털 부적을 주겠다고 제안하였다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2592"
   },
   "HT_Text_Note_CureMayor01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>5\uac1c\uc758 \uce58\ub8cc \uc57d\ucd08\ub97c \ucc3e\uc544\uc11c \uc544\ube44\ub3c4\uc2a4 \uc758\ud68c\uc2e4\uc5d0 \uc788\ub294 \uc758\uc0ac\uc5d0\uac8c \uac00\uc838\uc640\uc57c\ub9cc \ud55c\ub2e4.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uadf8 \uc758\uc0ac\ub294 \uc57d\ucd08\ub85c \uc2dc\uc7a5\uc758 \uc54c \uc218 \uc5c6\ub294 \ubcd1\uc758 \uce58\ub8cc\ub97c \uc900\ube44\ud560 \uc218 \uc788\uc744 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>5개의 치료 약초를 찾아서 아비도스 의회실에 있는 의사에게 가져와야만 한다.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>그 의사는 약초로 시장의 알 수 없는 병의 치료를 준비할 수 있을 것이다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2593"
   },
   "HT_Text_Note_VisitKemmet01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc758\uc0ac\uc758 \ucabd\uc9c0\ub97c \ub300 \uc6b4\ud558 \uadfc\ucc98\uc5d0 \uc0ac\ub294 \ucf00\uba54\ud2b8\uc5d0\uac8c \uc804\ub2ec\ud558\uc5ec\uc57c\ub9cc \ud55c\ub2e4. \uadf8\ub294 \ub124\uac00 \uce58\ub8cc \uc57d\ucd08\ub97c \ucc3e\ub294 \uac83\uc744 \ub3c4\uc6b8 \uc218 \uc788\uc744 \uc9c0\ub3c4 \ubaa8\ub978\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>의사의 쪽지를 대 운하 근처에 사는 케메트에게 전달하여야만 한다. 그는 네가 치료 약초를 찾는 것을 도울 수 있을 지도 모른다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2594"
   },
   "HT_Text_Note_FindPoliticians01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uad00\uc744 \ud6d4\uce5c \ubc30\ubc18\uc790 \uc815\uce58\uc778\uc744 \ucc3e\uc544\uc11c \uc815\ub2f9\ud558\uac8c \ub124 \uac83\uc744 \ub418 \ucc3e\uc544\ub77c.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스의 성스러운 관을 훔친 배반자 정치인을 찾아서 정당하게 네 것을 되 찾아라.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2595"
   },
   "HT_Text_Note_CrownQuest02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc6b0\ub8e8\ud06c\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uc655\uad00\uc744 \ucc3e\uc544\uc11c \ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \uc544\ub204\ube44\uc2a4\uc5d0\uac8c \ub3cc\ub824\uc8fc\uc5b4\uc57c\ub9cc \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>우루크의 성스러운 왕관을 찾아서 헬리오폴리스의 아누비스에게 돌려주어야만 한다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2596"
   },
   "HT_Text_Note_FindHeliopolisDungeon01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \uc78a\ud600\uc9c4 \uc0ac\uc6d0\uc73c\ub85c \uac00\ub294 \uc785\uad6c\ub97c \ucc3e\uc544\ub77c. \ud30c\ub77c\uc624\uc758 \ubd80\uc778\uc740 \uadf8\uac83\uc774 \ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \ub0a8\ucabd \uc0ac\ub9c9\uc5d0 \ub193\uc5ec \uc788\ub2e4\uace0 \ubbff\uace0 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 잊혀진 사원으로 가는 입구를 찾아라. 파라오의 부인은 그것이 헬리오폴리스의 남쪽 사막에 놓여 있다고 믿고 있다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2597"
   },
   "HT_Text_Note_CollectRosettaPieces01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \uc78a\ud600\uc9c4 \uc0ac\uc6d0 \uc548\uc5d0 \uc228\uaca8\uc788\ub294 6\uac1c\uc758 \ub85c\uc81c\ud0c0\uc11d \uc870\uac01\ub4e4\uc744 \ucc3e\uc544\uc11c \uace0\uace0\ud559\uc790\uc5d0\uac8c \uac00\uc838\uc624\ub77c.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 잊혀진 사원 안에 숨겨있는 6개의 로제타석 조각들을 찾아서 고고학자에게 가져오라.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2598"
   },
   "HT_Text_Note_MeetArchaeologist01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubca0\ub450\uc778 \ubcc0\ubc29\uc5d0\uc11c \uace0\uace0\ud559\uc790\uac00 \ucc3e\uc740 \uac83\ub4e4\uc744 \ud655\uc778\ud558\ub77c. \uc804\ucd08\ubd80\ub300\ub294 \uc800\uc8fc \ubc1b\uc740 \uc131\uc73c\ub85c\ubd80\ud130 \uc218\uc911\ud1b5\ub85c\ub97c \ud1b5\ud558\uc5ec \ud5e4\uc5c4\uce58\uba74 \ubc1c\uacac\ud560 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>베두인 변방에서 고고학자가 찾은 것들을 확인하라. 전초부대는 저주 받은 성으로부터 수중통로를 통하여 헤엄치면 발견할 수 있다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2599"
   },
   "HT_Text_Note_TranslateObelisks01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub85c\uc81c\ud0c0\uc11d\uc744 \uc774\uc6a9\ud558\uc5ec \ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 5\uac1c\uc758 \ud669\uae08 \uc624\ubca8\ub9ac\uc2a4\ud06c\ub4e4\uc744 \ud574\ub3c5\ud558\uace0 \ub124\uac00 \ubc1c\uacac\ud55c \uac83\uc744 \ubca0\ub450\uc778 \ubcc0\ubc29\uc5d0 \uc788\ub294 \uace0\uace0\ud559\uc790\uc5d0\uac8c \ubcf4\uace0\ud558\ub77c.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>로제타석을 이용하여 헬리오폴리스의 5개의 황금 오벨리스크들을 해독하고 네가 발견한 것을 베두인 변방에 있는 고고학자에게 보고하라.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2600"
   },
   "HT_Text_Note_SmallObelisk01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc624\uc2dc\ub9ac\uc2a4\uc758 \uc2dc\ub300\uac00 \ub05d\ub0a0 \ub54c...<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>오시리스의 시대가 끝날 때...<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2601"
   },
   "HT_Text_Note_SmallObelisk02": {
-    "message": "<ES HT_Text_ES_S_BOSStd> ...\uc138\ud2b8\uc758 \uadf8\ub9bc\uc790\uac00 \uc6b0\ub9ac \uc704\ub85c \ub5a8\uc5b4\uc9c8 \uac83\uc774\ub2e4...<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd> ...세트의 그림자가 우리 위로 떨어질 것이다...<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2602"
   },
   "HT_Text_Note_SmallObelisk03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...\ud558\uc9c0\ub9cc \uc2a4\ud551\ud06c\uc2a4\ub77c\ub294 \uc774\ub984\uc758 \uc704\ub300\ud55c \uc601\uc6c5\uc774...<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>...하지만 스핑크스라는 이름의 위대한 영웅이...<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2603"
   },
   "HT_Text_Note_SmallObelisk04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...\uc120\ud0dd \ubc1b\uc740 \uc790\ub85c \ub5a0\uc62c\ub77c...<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>...선택 받은 자로 떠올라...<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2604"
   },
   "HT_Text_Note_SmallObelisk05": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...\ub77c\uc758 \uc601\uc0dd\uc758 \ub208\uc744 \ubcf4\ud638\ud560 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>...라의 영생의 눈을 보호할 것이다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2605"
   },
   "HT_Text_Note_Prophecy": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc624\uc2dc\ub9ac\uc2a4\uc758 \uc2dc\ub300\uac00 \ub05d\ub0a0 \ub54c, \uc138\ud2b8\uc758 \uadf8\ub9bc\uc790\uac00 \uc6b0\ub9ac \uc704\ub85c \ub5a8\uc5b4\uc9c8 \uac83\uc774\ub2e4, \ud558\uc9c0\ub9cc \uc2a4\ud551\ud06c\uc2a4\ub77c\ub294 \uc774\ub984\uc758 \uc704\ub300\ud55c \uc601\uc6c5\uc774 \uc120\ud0dd \ubc1b\uc740 \uc790\ub85c \ub5a0\uc62c\ub77c \ub77c\uc758 \uc601\uc0dd\uc758 \ub208\uc744 \ubcf4\ud638\ud560 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>오시리스의 시대가 끝날 때, 세트의 그림자가 우리 위로 떨어질 것이다, 하지만 스핑크스라는 이름의 위대한 영웅이 선택 받은 자로 떠올라 라의 영생의 눈을 보호할 것이다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2606"
   },
   "HT_Text_Note_TempleTest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc6b0\ub8e8\ud06c \uc0ac\uc6d0 \uc2dc\ud5d8\uc744 \uc644\uc218\ud558\uace0 \uc6b0\ub8e8\ud06c\uc5d0\uc11c \ubc1c\uacac\ud55c \uac83\uc744 \ub3cc\ub824\uc918\ub77c.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>우루크 사원 시험을 완수하고 우루크에서 발견한 것을 돌려줘라.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2607"
   },
   "HT_Text_Note_CrownQuest03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uc655\uad00\uc744 \ucc3e\uc544\uc11c \uc544\ub204\ube44\uc2a4\uc5d0\uac8c \ub3cc\ub824\uc8fc\uc5b4\uc57c\ub9cc \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 성스러운 왕관을 찾아서 아누비스에게 돌려주어야만 한다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2608"
   },
   "HT_Text_Note_MotherQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \uc800\uc8fc \ubc1b\uc740 \uc131\uc5d0\uc11c \uac1c\ub4e4\uc744 \uc0ac\ub85c\uc7a1\uc544 \uc8fc\uc778\uc5d0\uac8c \ub3cc\ub824\uc8fc\uc5b4\ub77c.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 저주 받은 성에서 개들을 사로잡아 주인에게 돌려주어라.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2609"
   },
   "HT_Text_Note_DefeatSeth01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub108\uc758 \ub9c8\uc9c0\ub9c9 \uc0ac\uba85\uc740 \uc6b0\ub8e8\ud06c\uc758 \ud669\ud3d0\ud55c \uc138\uc0c1\uc5d0\uc11c \uc138\ud2b8\uc640 \ub9de\uc11c\ub294 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd><E>",
+    "message": "<ES HT_Text_ES_S_BOSStd>너의 마지막 사명은 우루크의 황폐한 세상에서 세트와 맞서는 것이다.<ES HT_Text_ES_E_BOSStd><E>",
     "description": "SphinxText.xls, row 2610"
   },
   "HT_Text_Notes_Test_T1": {
-    "message": "\ud0d0\ud5d8 \uc81c\ubaa9",
+    "message": "탐험 제목",
     "description": "SphinxText.xls, row 2612"
   },
   "HT_Text_Notes_Test_D1": {
-    "message": "<FC 100,100,60> \ud0d0\ud5d8 \uc124\uba85.",
+    "message": "<FC 100,100,60> 탐험 설명.",
     "description": "SphinxText.xls, row 2613"
   },
   "HT_Text_Notes_Test_T2": {
-    "message": "\uc138\ud2b8\uc758 \uad81\uc804\uc744 \ucc3e\uc544\ub77c.",
+    "message": "세트의 궁전을 찾아라.",
     "description": "SphinxText.xls, row 2614"
   },
   "HT_Text_Notes_Test_D2": {
-    "message": "<FC 100,100,60>\uc138\ud2b8\ub294 \ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \ud30c\uba78\uc744 \uc9c0\ud718\ud558\ub294 \ub3d9\uc548 \uadf8\uc758 \ube44\ubc00 \uad81\uc804\uc5d0 \uc228\uc5b4 \uc788\uc5c8\ub2e4...<END FC><P><FC 100,100,60>\uadf8\uc758 \uc18c\uad74\uc744 \ucc3e\uc544\uc11c \uadf8\uc758 \uacc4\ud68d\uc5d0 \uc885\uc9c0\ubd80\ub97c \ucc0d\uc5b4\uc57c\ub9cc \ud55c\ub2e4...<END FC><P><FC 100,100,60>\uadf8\uc758 \ube44\ubc00 \uad81\uc804\uc744 \ucc3e\uc73c\ub824\uba74, \ud788\ud0c0\uc774\ud2b8\ub9c8\uc744\uc758 \uc7a5\ub85c\ub4e4\uacfc \uc774\uc57c\uae30\ud558\uc5ec\uc57c \ud55c\ub2e4. \uadf8\uc5d0\uac8c \uc704\uc2a4\ud06c\ub97c \uc8fc\uc5b4 \ud600\uac00 \uc220\uc220 \ub3cc\uc544\uac00\uac8c \ud558\ub77c.<END FC>",
+    "message": "<FC 100,100,60>세트는 헬리오폴리스의 파멸을 지휘하는 동안 그의 비밀 궁전에 숨어 있었다...<END FC><P><FC 100,100,60>그의 소굴을 찾아서 그의 계획에 종지부를 찍어야만 한다...<END FC><P><FC 100,100,60>그의 비밀 궁전을 찾으려면, 히타이트마을의 장로들과 이야기하여야 한다. 그에게 위스크를 주어 혀가 술술 돌아가게 하라.<END FC>",
     "description": "SphinxText.xls, row 2615"
   },
   "HT_Text_Notes_Test_T3": {
-    "message": "\uc544\uce74\ub9ac\uc544\uc758 \uc18c\ubca0\ud06c\uc655\uc758 \ucabd\uc9c0\ub97c \uc804\ub2ec\ud558\ub77c.",
+    "message": "아카리아의 소베크왕의 쪽지를 전달하라.",
     "description": "SphinxText.xls, row 2616"
   },
   "HT_Text_Notes_Test_D3": {
-    "message": "<FC 100,100,60> \uc544\ube44\ub3c4\uc2a4\uc640 \uc544\uce74\ub9ac\uc544 \uc0ac\ub78c\ub4e4\uc744 \ubd80\ucd94\uaca8\uc11c \uc804\uc7c1\uc744 \uc77c\uc73c\ud0a4\ub824\ub294 \uc774\uc26c\uce74\uc758 \uacc4\ud68d\uc744 \ud3ed\ub85c\ud55c \ud6c4...<END FC><P><FC 100,100,60>\uc18c\ubca0\ud06c \uc655\uc740 \ub124\uac00 \uc544\ube44\ub3c4\uc2a4\uc758 \uc2dc\uc7a5\uc5d0\uac8c \ud3c9\ud654 \uc81c\uc548\uc744 \uc804\ub2ec\ud574\uc8fc\uae30\ub97c \ubc14\ub780\ub2e4.<END FC>",
+    "message": "<FC 100,100,60> 아비도스와 아카리아 사람들을 부추겨서 전쟁을 일으키려는 이쉬카의 계획을 폭로한 후...<END FC><P><FC 100,100,60>소베크 왕은 네가 아비도스의 시장에게 평화 제안을 전달해주기를 바란다.<END FC>",
     "description": "SphinxText.xls, row 2617"
   },
   "HT_Text_Notes_Test_T4": {
-    "message": "\uc2dc\uc7a5\uc758 \uce58\ub8cc \ubc29\ubc95\uc744 \ucc3e\uc544\ub77c.",
+    "message": "시장의 치료 방법을 찾아라.",
     "description": "SphinxText.xls, row 2618"
   },
   "HT_Text_Notes_Test_D4": {
-    "message": "<FC 100,100,60>\uc544\ube44\ub3c4\uc2a4\uc758 \uc2dc\uc7a5\uc774 \uc544\ud504\ub2e4. \uce58\ub8cc\ub97c \ucc3e\ub294 \uac83\uc5d0 \uad00\ud558\uc5ec \uc758\uc0ac\uc640 \uc774\uc57c\uae30\ud558\uc5ec\uc57c \ud55c\ub2e4...<END FC><P><FC 100,100,60>\uc758\uc0ac\ub294 \uc544\ube44\ub3c4\uc2a4\uc758 \ubd81\uacfc \ub0a8\uc744 \uac00\ub974\ub294 \uc6b4\ud558\uc5d0 \uc0b4\uace0 \uc788\ub2e4.<END FC>",
+    "message": "<FC 100,100,60>아비도스의 시장이 아프다. 치료를 찾는 것에 관하여 의사와 이야기하여야 한다...<END FC><P><FC 100,100,60>의사는 아비도스의 북과 남을 가르는 운하에 살고 있다.<END FC>",
     "description": "SphinxText.xls, row 2619"
   }
 }

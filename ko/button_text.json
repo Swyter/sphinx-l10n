@@ -1,30 +1,30 @@
 {
   "HT_Text_Button_NextPage": {
-    "message": "\ub2e4\uc74c \ud398\uc774\uc9c0",
+    "message": "다음 페이지",
     "description": "SphinxText.xls, row 2720"
   },
   "HT_Text_Button_Exit": {
-    "message": "\ub098\uac00\uae30",
+    "message": "나가기",
     "description": "SphinxText.xls, row 2721"
   },
   "HT_Text_Button_Select": {
-    "message": "\uc635\uc158 \uc120\ud0dd",
+    "message": "옵션 선택",
     "description": "SphinxText.xls, row 2722"
   },
   "HT_Text_Button_SpeedUp": {
-    "message": "\ube60\ub978 \ud6a8\uacfc",
+    "message": "빠른 효과",
     "description": "SphinxText.xls, row 2723"
   },
   "HT_Text_Button_Attack": {
-    "message": "\uacf5\uaca9",
+    "message": "공격",
     "description": "SphinxText.xls, row 2724"
   },
   "HT_Text_Button_Context": {
-    "message": "\ub0b4\uc6a9",
+    "message": "내용",
     "description": "SphinxText.xls, row 2725"
   },
   "HT_Text_Button_Jump": {
-    "message": "\uc810\ud504",
+    "message": "점프",
     "description": "SphinxText.xls, row 2726"
   },
   "HT_Text_Button_NA": {

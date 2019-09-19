@@ -10,7 +10,7 @@ echo "Updating translations from Transifex..."
 # tx push -t -l zh-Hant --skip --no-interactive
 
 # pull latest translations
-tx pull -a -f --skip --minimum-perc=40 --mode=reviewer
+tx pull -a -f --skip --minimum-perc=10 --mode=reviewer
 # tx pull -a -f --skip --minimum-perc=1
 
 echo "Done!"

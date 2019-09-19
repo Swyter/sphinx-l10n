@@ -16,15 +16,15 @@
     "description": "SphinxText.xls, row 2984"
   },
   "HT_Text_FE_Menu_OptionsSubControl": {
-    "message": "PARAM\u00c8TRES MANETTE",
+    "message": "PARAMÈTRES MANETTE",
     "description": "SphinxText.xls, row 2985"
   },
   "HT_Text_FE_Menu_OptionsSubScreen": {
-    "message": "PARAM\u00c8TRES \u00c9CRAN",
+    "message": "PARAMÈTRES ÉCRAN",
     "description": "SphinxText.xls, row 2986"
   },
   "HT_Text_FE_Menu_OptionsSubSound": {
-    "message": "PARAM\u00c8TRES SON",
+    "message": "PARAMÈTRES SON",
     "description": "SphinxText.xls, row 2987"
   },
   "HT_Text_FE_Menu_MusicVolume": {
@@ -48,11 +48,11 @@
     "description": "SphinxText.xls, row 2992"
   },
   "HT_Text_FE_Menu_ScreenAdjust": {
-    "message": "R\u00c9GLAGE \u00c9CRAN",
+    "message": "RÉGLAGE ÉCRAN",
     "description": "SphinxText.xls, row 2993"
   },
   "HT_Text_FE_Menu_Widescreen": {
-    "message": "\u00c9CRAN LARGE",
+    "message": "ÉCRAN LARGE",
     "description": "SphinxText.xls, row 2994"
   },
   "HT_Text_FE_Menu_Subtitles": {
@@ -80,15 +80,15 @@
     "description": "SphinxText.xls, row 3000"
   },
   "HT_Text_FE_Menu_ConfirmQuit": {
-    "message": "\u00cates-vous s\u00fbr de vouloir quitter ?",
+    "message": "Êtes-vous sûr de vouloir quitter ?",
     "description": "SphinxText.xls, row 3001"
   },
   "HT_Text_FE_Menu_ConfirmQuit_XB": {
-    "message": "Quitter? Les donn\u00e9es non\\n sauvegard\u00e9es seront perdues.",
+    "message": "Quitter? Les données non\\n sauvegardées seront perdues.",
     "description": "SphinxText.xls, row 3002"
   },
   "HT_Text_FE_Menu_SoundStereo": {
-    "message": "ST\u00c9R\u00c9O",
+    "message": "STÉRÉO",
     "description": "SphinxText.xls, row 3004"
   },
   "HT_Text_FE_Menu_SoundMono": {
@@ -100,7 +100,7 @@
     "description": "SphinxText.xls, row 3006"
   },
   "HT_Text_FE_Menu_SoundStereoSurround": {
-    "message": "ST\u00c9R\u00c9O/\\nSURROUND",
+    "message": "STÉRÉO/\\nSURROUND",
     "description": "SphinxText.xls, row 3007"
   },
   "HT_Text_FE_Menu_SoundModeOption": {
@@ -120,7 +120,7 @@
     "description": "SphinxText.xls, row 3011"
   },
   "HT_Text_OptionsMenu_Select": {
-    "message": "S\u00c9LECTIONNER",
+    "message": "SÉLECTIONNER",
     "description": "SphinxText.xls, row 3012"
   },
   "HT_Text_FE_Menu_ThirdPerson": {
@@ -172,7 +172,7 @@
     "description": "SphinxText.xls, row 3025"
   },
   "HT_Text_FE_Bonus1_Description": {
-    "message": "Les coulisses de Sphinx et la mal\u00e9diction... de la Momie",
+    "message": "Les coulisses de Sphinx et la malédiction... de la Momie",
     "description": "SphinxText.xls, row 3026"
   },
   "HT_Text_FE_Bonus2_Title": {
@@ -180,7 +180,7 @@
     "description": "SphinxText.xls, row 3027"
   },
   "HT_Text_FE_Bonus2_Description": {
-    "message": "Bande-annonce de Sphinx et la mal\u00e9diction...  de la Momie",
+    "message": "Bande-annonce de Sphinx et la malédiction...  de la Momie",
     "description": "SphinxText.xls, row 3028"
   },
   "HT_Text_FE_Menu_SaveSlotA": {
@@ -216,7 +216,7 @@
     "description": "SphinxText.xls, row 3037"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
-    "message": "ENDOMMAG\u00c9",
+    "message": "ENDOMMAGÉ",
     "description": "SphinxText.xls, row 3039"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
@@ -252,7 +252,7 @@
     "description": "SphinxText.xls, row 3049"
   },
   "HT_Text_MemCard_PromptRetry": {
-    "message": "R\u00c9ESSAYER",
+    "message": "RÉESSAYER",
     "description": "SphinxText.xls, row 3050"
   },
   "HT_Text_MemCard_PromptCancel": {
@@ -260,7 +260,7 @@
     "description": "SphinxText.xls, row 3051"
   },
   "HT_Text_MemCard_PromptHaventSaved_XB": {
-    "message": "Es-tu s\u00fbr de vouloir continuer sans sauvegarder?",
+    "message": "Es-tu sûr de vouloir continuer sans sauvegarder?",
     "description": "SphinxText.xls, row 3053"
   },
   "HT_Text_MemCard_GameName": {
@@ -280,11 +280,11 @@
     "description": "SphinxText.xls, row 3058"
   },
   "HT_Text_ReplacePadPrompt_PS2_PAL": {
-    "message": "Il n'y a pas de manette connect\u00e9e au port de manette N\u00b0(MISSINGPAD). Ins\u00e9rer une manette analogique (DUALSHOCK\u00ae) ou une manette analogique (DUALSHOCK\u00ae2) pour continuer.",
+    "message": "Il n'y a pas de manette connectée au port de manette N°(MISSINGPAD). Insérer une manette analogique (DUALSHOCK®) ou une manette analogique (DUALSHOCK®2) pour continuer.",
     "description": "SphinxText.xls, row 3060"
   },
   "HT_Text_ReplacePadPrompt_PS2_NTSC": {
-    "message": "Il n'y a pas de manette connect\u00e9e au port de manette (MISSINGPAD). Ins\u00e9rer une manette analogique (DUALSHOCK\u00ae) ou une manette analogique (DUALSHOCK\u00ae2) pour continuer.",
+    "message": "Il n'y a pas de manette connectée au port de manette (MISSINGPAD). Insérer une manette analogique (DUALSHOCK®) ou une manette analogique (DUALSHOCK®2) pour continuer.",
     "description": "SphinxText.xls, row 3061"
   },
   "HT_Text_ReplacePadPrompt_XB_Start": {
@@ -308,27 +308,27 @@
     "description": "SphinxText.xls, row 3067"
   },
   "HT_Text_DeathScreen_Text": {
-    "message": "JEU TERMIN\u00c9",
+    "message": "JEU TERMINÉ",
     "description": "SphinxText.xls, row 3068"
   },
   "HT_Text_OptionsMenu_Reset": {
-    "message": "R\u00c9INITIALISER",
+    "message": "RÉINITIALISER",
     "description": "SphinxText.xls, row 3070"
   },
   "HT_Text_ScreenAdjustText_PS2": {
-    "message": "R\u00e9gler la position de l'\u00e9cran avec les\\n touches directionnelles.",
+    "message": "Régler la position de l'écran avec les\\n touches directionnelles.",
     "description": "SphinxText.xls, row 3071"
   },
   "HT_Text_ScreenAdjustText_GC": {
-    "message": "R\u00e9gler l'\u00e9cran avec la Manette +.",
+    "message": "Régler l'écran avec la Manette +.",
     "description": "SphinxText.xls, row 3072"
   },
   "HT_Text_ScreenAdjustText_XB": {
-    "message": "R\u00e9gler l'\u00e9cran avec le bouton multidirectionnel.",
+    "message": "Régler l'écran avec le bouton multidirectionnel.",
     "description": "SphinxText.xls, row 3073"
   },
   "HT_Text_Memcard_Test": {
-    "message": "Fen\u00eatre de test pour memory card.\\nNouvelles lignes.\\nEt exclamations!",
+    "message": "Fenêtre de test pour memory card.\\nNouvelles lignes.\\nEt exclamations!",
     "description": "SphinxText.xls, row 3074"
   },
   "HT_Text_Memcard_SaveConfirm": {
@@ -340,51 +340,51 @@
     "description": "SphinxText.xls, row 3076"
   },
   "HT_Text_Memcard_OverwriteConfirm": {
-    "message": "Il existe une partie sauvegard\u00e9e.\\n\\nSupprimer l'ancienne\\npartie?",
+    "message": "Il existe une partie sauvegardée.\\n\\nSupprimer l'ancienne\\npartie?",
     "description": "SphinxText.xls, row 3077"
   },
   "HT_Text_Memcard_NoFormat": {
-    "message": "La memory card (PS2) dans la fente pour MEMORY\\nCARD N\u00b01 n'est pas format\u00e9e.\\n\\nFormater la memory card (PS2)?",
+    "message": "La memory card (PS2) dans la fente pour MEMORY\\nCARD N°1 n'est pas formatée.\\n\\nFormater la memory card (PS2)?",
     "description": "SphinxText.xls, row 3078"
   },
   "HT_Text_Memcard_NoFormat_Boot": {
-    "message": "La memory card (PS2) dans la fente pour MEMORY\\nCARD N\u00b01 n'est pas format\u00e9e.\\nFormater la memory card (PS2)?",
+    "message": "La memory card (PS2) dans la fente pour MEMORY\\nCARD N°1 n'est pas formatée.\\nFormater la memory card (PS2)?",
     "description": "SphinxText.xls, row 3079"
   },
   "HT_Text_Memcard_NoDirectory": {
-    "message": "La memory card (PS2) dans la fente\\npour MEMORY CARD N\u00b01\\nne contient pas de dossier Sphinx. \\nCr\u00e9er un dossier Sphinx?",
+    "message": "La memory card (PS2) dans la fente\\npour MEMORY CARD N°1\\nne contient pas de dossier Sphinx. \\nCréer un dossier Sphinx?",
     "description": "SphinxText.xls, row 3080"
   },
   "HT_Text_Memcard_FormatComplete": {
-    "message": "Formatage r\u00e9ussi",
+    "message": "Formatage réussi",
     "description": "SphinxText.xls, row 3081"
   },
   "HT_Text_Memcard_SaveFailed": {
-    "message": "\u00c9chec sauvegarde",
+    "message": "Échec sauvegarde",
     "description": "SphinxText.xls, row 3082"
   },
   "HT_Text_Memcard_SaveSuccess": {
-    "message": "Sauvegarde r\u00e9ussie",
+    "message": "Sauvegarde réussie",
     "description": "SphinxText.xls, row 3083"
   },
   "HT_Text_Memcard_LoadFail": {
-    "message": "\u00c9chec chargement",
+    "message": "Échec chargement",
     "description": "SphinxText.xls, row 3084"
   },
   "HT_Text_Memcard_NoCard": {
-    "message": "Attention! Sphinx dispose d'un syst\u00e8me d'Auto-sauvegarde.\\nL'insertion ult\u00e9rieure d'une memory card (PS2)\\nrisque d'\u00e9craser les donn\u00e9es\\npr\u00e9c\u00e9dentes. Pour sauvegarder\\nvos donn\u00e9es, ins\u00e9rer une memory card (PS2)\\navec au moins xKB d'espace libre.\\n\\nAppuyer sur la TOUCHE START pour continuer\\nsans sauvegarder.",
+    "message": "Attention! Sphinx dispose d'un système d'Auto-sauvegarde.\\nL'insertion ultérieure d'une memory card (PS2)\\nrisque d'écraser les données\\nprécédentes. Pour sauvegarder\\nvos données, insérer une memory card (PS2)\\navec au moins xKB d'espace libre.\\n\\nAppuyer sur la TOUCHE START pour continuer\\nsans sauvegarder.",
     "description": "SphinxText.xls, row 3085"
   },
   "HT_Text_Memcard_NoCard1": {
-    "message": "Pas de memory card(8MB)(pour PlayStation\u00ae2)\\n dans la fente pour memory card N\u00b0 1.",
+    "message": "Pas de memory card(8MB)(pour PlayStation®2)\\n dans la fente pour memory card N° 1.",
     "description": "SphinxText.xls, row 3086"
   },
   "HT_Text_Memcard_NoSpace_Boot": {
-    "message": "Espace insuffisant sur la memory card (PS2). Ins\u00e9rer une\\nmemory card (PS2) avec au moins xKB de libre,\\nou lib\u00e9rer des fichiers \u00e0 l'aide du navigateur interne de la console.",
+    "message": "Espace insuffisant sur la memory card (PS2). Insérer une\\nmemory card (PS2) avec au moins xKB de libre,\\nou libérer des fichiers à l'aide du navigateur interne de la console.",
     "description": "SphinxText.xls, row 3087"
   },
   "HT_Text_Memcard_NoSpace_Save": {
-    "message": "Espace insuffisant sur la memory card (PS2) dans la fente pour MEMORY CARD\\n N\u00b01. Sphinx n\u00e9cessite xKB d'espace libre pour sauvegarder les donn\u00e9es.",
+    "message": "Espace insuffisant sur la memory card (PS2) dans la fente pour MEMORY CARD\\n N°1. Sphinx nécessite xKB d'espace libre pour sauvegarder les données.",
     "description": "SphinxText.xls, row 3088"
   },
   "HT_Text_Memcard_PressKey": {
@@ -396,11 +396,11 @@
     "description": "SphinxText.xls, row 3090"
   },
   "HT_Text_Memcard_Saving": {
-    "message": "Sauvegarde en cours. Ne pas retirer la memory card (PS2)\\nde la fente pour MEMORY CARD N\u00b01, ni red\u00e9marrer ou \u00e9teindre la console.",
+    "message": "Sauvegarde en cours. Ne pas retirer la memory card (PS2)\\nde la fente pour MEMORY CARD N°1, ni redémarrer ou éteindre la console.",
     "description": "SphinxText.xls, row 3091"
   },
   "HT_Text_Memcard_Formatting": {
-    "message": "Formatage...\\n\\n\\nFormatage de la memory card (PS2) dans la fente pour MEMORY CARD N\u00b01.\\nNe pas retirer la memory card (PS2),\\nni red\u00e9marrer ou \u00e9teindre la console.",
+    "message": "Formatage...\\n\\n\\nFormatage de la memory card (PS2) dans la fente pour MEMORY CARD N°1.\\nNe pas retirer la memory card (PS2),\\nni redémarrer ou éteindre la console.",
     "description": "SphinxText.xls, row 3092"
   },
   "HT_Text_Memcard_YesNo": {
@@ -408,7 +408,7 @@
     "description": "SphinxText.xls, row 3093"
   },
   "HT_Text_Menu_Cross": {
-    "message": "S\u00e9lectionner",
+    "message": "Sélectionner",
     "description": "SphinxText.xls, row 3094"
   },
   "HT_Text_Menu_Triangle": {
@@ -416,7 +416,7 @@
     "description": "SphinxText.xls, row 3095"
   },
   "HT_Text_Menu_Square": {
-    "message": "Centrer \u00e9cran",
+    "message": "Centrer écran",
     "description": "SphinxText.xls, row 3096"
   },
   "HT_Text_Menu_StartPause": {
@@ -424,7 +424,7 @@
     "description": "SphinxText.xls, row 3097"
   },
   "HT_Text_Menu_AdjustScreen": {
-    "message": "Utiliser le joystick analogique\\ngauche ou les touches directionnelles \\npour r\u00e9gler la position de l'\u00e9cran.",
+    "message": "Utiliser le joystick analogique\\ngauche ou les touches directionnelles \\npour régler la position de l'écran.",
     "description": "SphinxText.xls, row 3098"
   },
   "HT_Text_Menu_Accept": {
@@ -472,11 +472,11 @@
     "description": "SphinxText.xls, row 3109"
   },
   "HT_Text_Menu_Camera": {
-    "message": "Contr\u00f4le cam\u00e9ra",
+    "message": "Contrôle caméra",
     "description": "SphinxText.xls, row 3110"
   },
   "HT_Text_Menu_Move": {
-    "message": "D\u00e9placer perso",
+    "message": "Déplacer perso",
     "description": "SphinxText.xls, row 3111"
   },
   "HT_Text_Menu_Start": {
@@ -484,7 +484,7 @@
     "description": "SphinxText.xls, row 3112"
   },
   "HT_Text_Menu_PadLayout1": {
-    "message": "PAR=D\u00c9FAUT",
+    "message": "PAR=DÉFAUT",
     "description": "SphinxText.xls, row 3113"
   },
   "HT_Text_Menu_PadLayout2": {
@@ -496,7 +496,7 @@
     "description": "SphinxText.xls, row 3115"
   },
   "HT_Text_Menu_NoPad": {
-    "message": "La manette dans le port de\\nmanette N\u00b01 a \u00e9t\u00e9 retir\u00e9e.\\nR\u00e9ins\u00e9rer la manette pour\\ncontinuer la partie.",
+    "message": "La manette dans le port de\\nmanette N°1 a été retirée.\\nRéinsérer la manette pour\\ncontinuer la partie.",
     "description": "SphinxText.xls, row 3116"
   },
   "HT_Text_Menu_Uruk1": {
@@ -516,7 +516,7 @@
     "description": "SphinxText.xls, row 3120"
   },
   "HT_Text_Menu_Exit": {
-    "message": "QUITTER=D\u00c9MO",
+    "message": "QUITTER=DÉMO",
     "description": "SphinxText.xls, row 3121"
   },
   "HT_Text_Menu_Continue": {
@@ -532,7 +532,7 @@
     "description": "SphinxText.xls, row 3124"
   },
   "HT_Text_Menu_StartDemo": {
-    "message": "JOUER=D\u00c9MO",
+    "message": "JOUER=DÉMO",
     "description": "SphinxText.xls, row 3125"
   },
   "HT_Text_Menu_NewGame": {
@@ -556,27 +556,27 @@
     "description": "SphinxText.xls, row 3130"
   },
   "HT_Text_Menu_Screen": {
-    "message": "PARAM\u00c8TRES=\u00c9CRAN",
+    "message": "PARAMÈTRES=ÉCRAN",
     "description": "SphinxText.xls, row 3131"
   },
   "HT_Text_Menu_Pad": {
-    "message": "PARAM\u00c8TRES=MANETTE",
+    "message": "PARAMÈTRES=MANETTE",
     "description": "SphinxText.xls, row 3132"
   },
   "HT_Text_Menu_Sound": {
-    "message": "PARAM\u00c8TRES=SON",
+    "message": "PARAMÈTRES=SON",
     "description": "SphinxText.xls, row 3133"
   },
   "HT_Text_Menu_ScreenAdjust": {
-    "message": "R\u00c9GLER=\u00c9CRAN",
+    "message": "RÉGLER=ÉCRAN",
     "description": "SphinxText.xls, row 3134"
   },
   "HT_Text_Menu_WidescreenON": {
-    "message": "\u00c9CRAN LARGE==OUI",
+    "message": "ÉCRAN LARGE==OUI",
     "description": "SphinxText.xls, row 3135"
   },
   "HT_Text_Menu_WidescreenOFF": {
-    "message": "\u00c9CRAN LARGE==NON",
+    "message": "ÉCRAN LARGE==NON",
     "description": "SphinxText.xls, row 3136"
   },
   "HT_Text_Menu_Volume": {
@@ -596,7 +596,7 @@
     "description": "SphinxText.xls, row 3140"
   },
   "HT_Text_Menu_SurroundOFF": {
-    "message": "ST\u00c9R\u00c9O",
+    "message": "STÉRÉO",
     "description": "SphinxText.xls, row 3141"
   },
   "HT_Text_Menu_Mono": {
@@ -604,7 +604,7 @@
     "description": "SphinxText.xls, row 3142"
   },
   "HT_Text_Menu_Videos": {
-    "message": "VID\u00c9OS",
+    "message": "VIDÉOS",
     "description": "SphinxText.xls, row 3143"
   },
   "HT_Text_Menu_QuitLevel": {
@@ -612,11 +612,11 @@
     "description": "SphinxText.xls, row 3144"
   },
   "HT_Text_Menu_NTSC": {
-    "message": "TAUX=RAFRA\u00ceCHISSEMENT==60",
+    "message": "TAUX=RAFRAÎCHISSEMENT==60",
     "description": "SphinxText.xls, row 3145"
   },
   "HT_Text_Menu_PAL": {
-    "message": "TAUX=RAFRA\u00ceCHISSEMENT==50",
+    "message": "TAUX=RAFRAÎCHISSEMENT==50",
     "description": "SphinxText.xls, row 3146"
   },
   "HT_Text_Menu_QuitQuestion": {
@@ -656,23 +656,23 @@
     "description": "SphinxText.xls, row 3155"
   },
   "HT_Text_Menu_Scarabs": {
-    "message": " Scarab\u00e9es",
+    "message": " Scarabées",
     "description": "SphinxText.xls, row 3156"
   },
   "HT_Text_Menu_InvertON": {
-    "message": "INVERSER=CAM\u00c9RA==OUI",
+    "message": "INVERSER=CAMÉRA==OUI",
     "description": "SphinxText.xls, row 3157"
   },
   "HT_Text_Menu_InvertOFF": {
-    "message": "INVERSER=CAM\u00c9RA==NON",
+    "message": "INVERSER=CAMÉRA==NON",
     "description": "SphinxText.xls, row 3158"
   },
   "HT_Text_Menu_SwapXYON": {
-    "message": "PERMUTER=CAM\u00c9RA=X==OUI",
+    "message": "PERMUTER=CAMÉRA=X==OUI",
     "description": "SphinxText.xls, row 3159"
   },
   "HT_Text_Menu_SwapXYOFF": {
-    "message": "PERMUTER=CAM\u00c9RA=X==NON",
+    "message": "PERMUTER=CAMÉRA=X==NON",
     "description": "SphinxText.xls, row 3160"
   },
   "HT_Text_Menu_Cancel": {
@@ -680,7 +680,7 @@
     "description": "SphinxText.xls, row 3161"
   },
   "HT_Text_Menu_Reset": {
-    "message": "R\u00c9INITIALISER",
+    "message": "RÉINITIALISER",
     "description": "SphinxText.xls, row 3162"
   },
   "HT_Text_Credits1": {
@@ -688,7 +688,7 @@
     "description": "SphinxText.xls, row 3163"
   },
   "HT_Text_Credits2": {
-    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avil\u00e9s \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts ",
+    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avilés \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts ",
     "description": "SphinxText.xls, row 3164"
   },
   "HT_Text_Credits3": {
@@ -760,7 +760,7 @@
     "description": "SphinxText.xls, row 3181"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu as la <FC 0,128,0>Sarbacane<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ses fl\u00e8ches magiques<N>se r\u00e9g\u00e9n\u00e8rent \u00e0 l'infini.<P><ES HT_Text_ES_S_HelpText><CNTR>Si elles peuvent atteindre des cibles distantes, elles<N>n'endommagent que les monstres explosifs.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Utilise <SB HT_PadAction_HUD_ShowRotator> pour assigner la <FC 0,128,0>Sarbacane<END FC> \u00e0 une touche.<P><ES HT_Text_ES_S_HelpText><CNTR>Une fois la <FC 0,128,0>Sarbacane<END FC> assign\u00e9e, appuie<N>sur la touche pour passer en mode 1\u00e8re personne.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_FireDart> pour tirer.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_Cancel> pour sortir<N>du mode <FC 0,128,0>Sarbacane<END FC>.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu as la <FC 0,128,0>Sarbacane<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ses flèches magiques<N>se régénèrent à l'infini.<P><ES HT_Text_ES_S_HelpText><CNTR>Si elles peuvent atteindre des cibles distantes, elles<N>n'endommagent que les monstres explosifs.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Utilise <SB HT_PadAction_HUD_ShowRotator> pour assigner la <FC 0,128,0>Sarbacane<END FC> à une touche.<P><ES HT_Text_ES_S_HelpText><CNTR>Une fois la <FC 0,128,0>Sarbacane<END FC> assignée, appuie<N>sur la touche pour passer en mode 1ère personne.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_FireDart> pour tirer.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_Cancel> pour sortir<N>du mode <FC 0,128,0>Sarbacane<END FC>.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 3182"
   }
 }

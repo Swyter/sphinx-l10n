@@ -12,7 +12,7 @@
     "description": "SphinxText.xls, row 2525"
   },
   "HT_Text_BOS_Instructions": {
-    "message": "<FC 30,10,0>Mit <SB HT_PadAction_BOS_NavigateDPad> kannst du auf einer Seite navigieren,<N>mit <SB HT_PadAction_BOS_TABCycleLeft> und <SB HT_PadAction_BOS_TABCycleRight> umbl\u00e4ttern<N>und mit <SB HT_PadAction_BOS_PageUp> durch lange Beschreibungen scrollen.",
+    "message": "<FC 30,10,0>Mit <SB HT_PadAction_BOS_NavigateDPad> kannst du auf einer Seite navigieren,<N>mit <SB HT_PadAction_BOS_TABCycleLeft> und <SB HT_PadAction_BOS_TABCycleRight> umblättern<N>und mit <SB HT_PadAction_BOS_PageUp> durch lange Beschreibungen scrollen.",
     "description": "SphinxText.xls, row 2526"
   },
   "HT_Text_BOS_NoNotes": {
@@ -20,11 +20,11 @@
     "description": "SphinxText.xls, row 2527"
   },
   "HT_Text_BOS_NoAbilities": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Derzeit besitzt du keine F\u00e4higkeiten.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Derzeit besitzt du keine Fähigkeiten.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2528"
   },
   "HT_Text_BOS_NoQuestItems": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Im Augenblick besitzt du keine Gegenst\u00e4nde, die f\u00fcr deine Aufgabe wichtig sind.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Im Augenblick besitzt du keine Gegenstände, die für deine Aufgabe wichtig sind.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2529"
   }
 }

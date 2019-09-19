@@ -1,42 +1,42 @@
 {
   "HT_Text_BOS_Monster_CapturedMonsters": {
-    "message": "\uad34\ubb3c",
+    "message": "괴물",
     "description": "SphinxText.xls, row 2622"
   },
   "HT_Text_BOS_Monster_Moves": {
-    "message": "\ub3d9\uc791",
+    "message": "동작",
     "description": "SphinxText.xls, row 2623"
   },
   "HT_Text_BOS_Monster_Health": {
-    "message": "\uccb4\ub825",
+    "message": "체력",
     "description": "SphinxText.xls, row 2624"
   },
   "HT_Text_BOS_Monster_AttackRating": {
-    "message": "\uacf5\uaca9 \ub4f1\uae09",
+    "message": "공격 등급",
     "description": "SphinxText.xls, row 2625"
   },
   "HT_Text_BOS_Monster_DefenceRating": {
-    "message": "\ubc29\uc5b4 \ub4f1\uae09",
+    "message": "방어 등급",
     "description": "SphinxText.xls, row 2626"
   },
   "HT_Text_BOS_Monster_DR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uad34\ubb3c\uc758 \ubc29\uc5b4\ub4f1\uae09\uc774 \ub192\uc744 \uc218\ub85d, \uc804\ud22c\uc5d0\uc11c \uacf5\uaca9\uc744 \ub354 \ub9ce\uc774 \uacac\ub51c \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>괴물의 방어등급이 높을 수록, 전투에서 공격을 더 많이 견딜 수 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2627"
   },
   "HT_Text_BOS_Monster_AR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uad34\ubb3c\uc758 \uacf5\uaca9\ub4f1\uae09\uc774 \ub192\uc744 \uc218\ub85d \uc801\uc5d0\uac8c \ub354 \ub9ce\uc740 \uc190\uc0c1\uc744 \uc785\ud790 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>괴물의 공격등급이 높을 수록 적에게 더 많은 손상을 입힐 수 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2628"
   },
   "HT_Text_BOS_Monster_Health_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774\uac83\uc758 \uad34\ubb3c\uc758 \uccb4\ub825\uc774\ub2e4. \ub9cc\uc57d \uad34\ubb3c\uc774 \uccb4\ub825\uc744 \ub2e4 \uc783\uc73c\uba74, \uadf8 \uc885\ub958\uc758 \uad34\ubb3c\uc744 \ub354 \uc774\uc0c1 \ud480\uc5b4\ub193\uc744 \uc218 \uc5c6\ub2e4 - \ubb3c\ub860 \uadf8 \uc885\ub958\uc758 \ub2e4\ub978 \uad34\ubb3c\uc744 \uc7a1\uc73c\uba74 \uac00\ub2a5\ud558\ub2e4!<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이것의 괴물의 체력이다. 만약 괴물이 체력을 다 잃으면, 그 종류의 괴물을 더 이상 풀어놓을 수 없다 - 물론 그 종류의 다른 괴물을 잡으면 가능하다!<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2629"
   },
   "HT_Text_BOS_Monster_NoMoves": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc9c0\uae08\uc740 \uc120\ud0dd\ud560 \uc218 \uc788\ub294 \ub3d9\uc791\uc774 \uc5c6\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>지금은 선택할 수 있는 동작이 없다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2630"
   },
   "HT_Text_BOS_Monster_NoMonsters": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc9c0\uae08\uc740 \uad34\ubb3c\uc744 \uc18c\uc720\ud558\uace0 \uc788\uc9c0 \uc54a\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>지금은 괴물을 소유하고 있지 않다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2631"
   }
 }

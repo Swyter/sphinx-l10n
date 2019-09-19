@@ -104,11 +104,11 @@
     "description": "SphinxText.xls, row 3007"
   },
   "HT_Text_FE_Menu_SoundModeOption": {
-    "message": "MODALIT\u00c0 AUDIO",
+    "message": "MODALITÀ AUDIO",
     "description": "SphinxText.xls, row 3008"
   },
   "HT_Text_FE_Menu_On": {
-    "message": "S\u00cc",
+    "message": "SÌ",
     "description": "SphinxText.xls, row 3009"
   },
   "HT_Text_FE_Menu_Off": {
@@ -244,7 +244,7 @@
     "description": "SphinxText.xls, row 3047"
   },
   "HT_Text_MemCard_PromptYes": {
-    "message": "S\u00cc",
+    "message": "SÌ",
     "description": "SphinxText.xls, row 3048"
   },
   "HT_Text_MemCard_PromptOK": {
@@ -280,11 +280,11 @@
     "description": "SphinxText.xls, row 3058"
   },
   "HT_Text_ReplacePadPrompt_PS2_PAL": {
-    "message": "Nessun controller inserto nell'ingresso controller (MISSINGPAD). Ricollega un controller analogico (DUALSHOCK\u00ae) o un controller analogico (DUALSHOCK\u00ae2) per continuare.",
+    "message": "Nessun controller inserto nell'ingresso controller (MISSINGPAD). Ricollega un controller analogico (DUALSHOCK®) o un controller analogico (DUALSHOCK®2) per continuare.",
     "description": "SphinxText.xls, row 3060"
   },
   "HT_Text_ReplacePadPrompt_PS2_NTSC": {
-    "message": "Nessun controller inserto nell'ingresso controller (MISSINGPAD). Ricollega un controller analogico (DUALSHOCK\u00ae) o un controller analogico (DUALSHOCK\u00ae2) per continuare.",
+    "message": "Nessun controller inserto nell'ingresso controller (MISSINGPAD). Ricollega un controller analogico (DUALSHOCK®) o un controller analogico (DUALSHOCK®2) per continuare.",
     "description": "SphinxText.xls, row 3061"
   },
   "HT_Text_ReplacePadPrompt_XB_Start": {
@@ -296,7 +296,7 @@
     "description": "SphinxText.xls, row 3063"
   },
   "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
-    "message": "Non potrai salvare il tuo progresso n\u00e9 le opzioni in nessun punto del gioco. Sei sicuro di voler continuare?",
+    "message": "Non potrai salvare il tuo progresso né le opzioni in nessun punto del gioco. Sei sicuro di voler continuare?",
     "description": "SphinxText.xls, row 3065"
   },
   "HT_Text_DeathScreen_Continue": {
@@ -328,7 +328,7 @@
     "description": "SphinxText.xls, row 3073"
   },
   "HT_Text_Memcard_Test": {
-    "message": "Questo \u00e8 un testo di prova per la memory card.\\nCon righe a capo.\\nEd esclamazioni!",
+    "message": "Questo è un testo di prova per la memory card.\\nCon righe a capo.\\nEd esclamazioni!",
     "description": "SphinxText.xls, row 3074"
   },
   "HT_Text_Memcard_SaveConfirm": {
@@ -340,15 +340,15 @@
     "description": "SphinxText.xls, row 3076"
   },
   "HT_Text_Memcard_OverwriteConfirm": {
-    "message": "Esiste gi\u00e0 un salvataggio.\\n\\nVuoi sovrascrivere la\\npartita precedente?",
+    "message": "Esiste già un salvataggio.\\n\\nVuoi sovrascrivere la\\npartita precedente?",
     "description": "SphinxText.xls, row 3077"
   },
   "HT_Text_Memcard_NoFormat": {
-    "message": "La memory card (PS2) nell'ingresso MEMORY\\nCARD 1 non \u00e8 formattata.\\n\\nVuoi formattare la memory card (PS2)?",
+    "message": "La memory card (PS2) nell'ingresso MEMORY\\nCARD 1 non è formattata.\\n\\nVuoi formattare la memory card (PS2)?",
     "description": "SphinxText.xls, row 3078"
   },
   "HT_Text_Memcard_NoFormat_Boot": {
-    "message": "La memory card (PS2) nell'ingresso MEMORY\\nCARD 1 non \u00e8 formattata.\\nVuoi formattare la memory card (PS2)?",
+    "message": "La memory card (PS2) nell'ingresso MEMORY\\nCARD 1 non è formattata.\\nVuoi formattare la memory card (PS2)?",
     "description": "SphinxText.xls, row 3079"
   },
   "HT_Text_Memcard_NoDirectory": {
@@ -372,11 +372,11 @@
     "description": "SphinxText.xls, row 3084"
   },
   "HT_Text_Memcard_NoCard": {
-    "message": "Attenzione! Sphinx usa la funzione di autosalvataggio.\\nInserendo una memory card (PS2) dopo\\nquesto punto si pu\u00f2 provocare la\\nsovrascrittura dei dati. Se vuoi salvare\\nla tua partita, inserisci una memory card (PS2)\\ncon almeno x KB di spazio libero.\\n\\nPremi il tasto START per continuare\\nsenza salvare.",
+    "message": "Attenzione! Sphinx usa la funzione di autosalvataggio.\\nInserendo una memory card (PS2) dopo\\nquesto punto si può provocare la\\nsovrascrittura dei dati. Se vuoi salvare\\nla tua partita, inserisci una memory card (PS2)\\ncon almeno x KB di spazio libero.\\n\\nPremi il tasto START per continuare\\nsenza salvare.",
     "description": "SphinxText.xls, row 3085"
   },
   "HT_Text_Memcard_NoCard1": {
-    "message": "Nessuna memory card (8 MB)(per PlayStation\u00ae2)\\n inserita nell'ingresso MEMORY CARD 1.",
+    "message": "Nessuna memory card (8 MB)(per PlayStation®2)\\n inserita nell'ingresso MEMORY CARD 1.",
     "description": "SphinxText.xls, row 3086"
   },
   "HT_Text_Memcard_NoSpace_Boot": {
@@ -404,7 +404,7 @@
     "description": "SphinxText.xls, row 3092"
   },
   "HT_Text_Memcard_YesNo": {
-    "message": "<B 1>S\u00ec<N><B 2>No<E>",
+    "message": "<B 1>Sì<N><B 2>No<E>",
     "description": "SphinxText.xls, row 3093"
   },
   "HT_Text_Menu_Cross": {
@@ -428,7 +428,7 @@
     "description": "SphinxText.xls, row 3098"
   },
   "HT_Text_Menu_Accept": {
-    "message": "S\u00ec",
+    "message": "Sì",
     "description": "SphinxText.xls, row 3099"
   },
   "HT_Text_Menu_Decline": {
@@ -496,7 +496,7 @@
     "description": "SphinxText.xls, row 3115"
   },
   "HT_Text_Menu_NoPad": {
-    "message": "Il controller nell'ingresso\\ncontroller 1 \u00e8 stato rimosso.\\nReinserire il controller per\\ncontinuare a giocare.",
+    "message": "Il controller nell'ingresso\\ncontroller 1 è stato rimosso.\\nReinserire il controller per\\ncontinuare a giocare.",
     "description": "SphinxText.xls, row 3116"
   },
   "HT_Text_Menu_Uruk1": {
@@ -524,7 +524,7 @@
     "description": "SphinxText.xls, row 3122"
   },
   "HT_Text_Menu_Rumble": {
-    "message": "VIBRAZIONE==S\u00cc",
+    "message": "VIBRAZIONE==SÌ",
     "description": "SphinxText.xls, row 3123"
   },
   "HT_Text_Menu_RumbleOff": {
@@ -572,7 +572,7 @@
     "description": "SphinxText.xls, row 3134"
   },
   "HT_Text_Menu_WidescreenON": {
-    "message": "WIDESCREEN==S\u00cc",
+    "message": "WIDESCREEN==SÌ",
     "description": "SphinxText.xls, row 3135"
   },
   "HT_Text_Menu_WidescreenOFF": {
@@ -660,7 +660,7 @@
     "description": "SphinxText.xls, row 3156"
   },
   "HT_Text_Menu_InvertON": {
-    "message": "INVERTI=TELECAMERA==S\u00cc",
+    "message": "INVERTI=TELECAMERA==SÌ",
     "description": "SphinxText.xls, row 3157"
   },
   "HT_Text_Menu_InvertOFF": {
@@ -668,7 +668,7 @@
     "description": "SphinxText.xls, row 3158"
   },
   "HT_Text_Menu_SwapXYON": {
-    "message": "COMMUTA=TELECAMERA=X==S\u00cc",
+    "message": "COMMUTA=TELECAMERA=X==SÌ",
     "description": "SphinxText.xls, row 3159"
   },
   "HT_Text_Menu_SwapXYOFF": {
@@ -688,7 +688,7 @@
     "description": "SphinxText.xls, row 3163"
   },
   "HT_Text_Credits2": {
-    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avil\u00e9s \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts ",
+    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avilés \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts ",
     "description": "SphinxText.xls, row 3164"
   },
   "HT_Text_Credits3": {
@@ -760,7 +760,7 @@
     "description": "SphinxText.xls, row 3181"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto la <FC 0,128,0>Cerbottana<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I dardi magici scagliati<N>si rigenerano all'infinito <P><ES HT_Text_ES_S_HelpText><CNTR>e possono essere utilizzati per colpire bersagli lontani, ma<N>sono in grado solo di danneggiare i mostri esplosivi.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Usa <SB HT_PadAction_HUD_ShowRotator> per assegnare la <FC 0,128,0>Cerbottana<END FC> a un tasto.<P><ES HT_Text_ES_S_HelpText><CNTR>Quindi,<FC 0,128,0><END FC> premi il tasto<N>per accedere alla modalit\u00e0 in prima persona.<P><ES HT_Text_ES_S_HelpText><CNTR>Premi <SB HT_Action_FireDart> per sparare.<P><ES HT_Text_ES_S_HelpText><CNTR>Tieni premuto <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> o <SB HT_PadAction_GYR_Right> mentre muovi il Joy-Con sinistro per mirare usando il sensori di movimento giroscopico.<P><ES HT_Text_ES_S_HelpText> <CNTR>Premi <SB HT_Action_Cancel> per uscire<N>dalla modalit\u00e0 <FC 0,128,0>Cerbottana<END FC>.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto la <FC 0,128,0>Cerbottana<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I dardi magici scagliati<N>si rigenerano all'infinito <P><ES HT_Text_ES_S_HelpText><CNTR>e possono essere utilizzati per colpire bersagli lontani, ma<N>sono in grado solo di danneggiare i mostri esplosivi.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Usa <SB HT_PadAction_HUD_ShowRotator> per assegnare la <FC 0,128,0>Cerbottana<END FC> a un tasto.<P><ES HT_Text_ES_S_HelpText><CNTR>Quindi,<FC 0,128,0><END FC> premi il tasto<N>per accedere alla modalità in prima persona.<P><ES HT_Text_ES_S_HelpText><CNTR>Premi <SB HT_Action_FireDart> per sparare.<P><ES HT_Text_ES_S_HelpText><CNTR>Tieni premuto <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> o <SB HT_PadAction_GYR_Right> mentre muovi il Joy-Con sinistro per mirare usando il sensori di movimento giroscopico.<P><ES HT_Text_ES_S_HelpText> <CNTR>Premi <SB HT_Action_Cancel> per uscire<N>dalla modalità <FC 0,128,0>Cerbottana<END FC>.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 3182"
   }
 }

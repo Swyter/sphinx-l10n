@@ -1,598 +1,598 @@
 {
   "HT_Text_DanTest": {
-    "message": "\ub304\uc758 \ud14c\uc2a4\ud2b8\uc6a9 \ud14d\uc2a4\ud2b8<E>",
+    "message": "댄의 테스트용 텍스트<E>",
     "description": "SphinxText.xls, row 11"
   },
   "HT_Text_MG_WallDodge_Start": {
-    "message": "<FC 128,64,0>\uc2b9\uc790\uc758 \ud68c\ub791<END FC>\uc5d0 \uc628 \uac83\uc744 \ud658\uc601\ud55c\ub2e4. \ud50c\ub808\uc774\uc5d0 \ub4dc\ub294 \ube44\uc6a9\uc740 <FC 0,128,0>10 \uc2a4\uce90\ub7fd<END FC>\uc774\ub2e4.<P>\ud50c\ub808\uc774 \ud558\uaca0\ub294\uac00?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "<FC 128,64,0>승자의 회랑<END FC>에 온 것을 환영한다. 플레이에 드는 비용은 <FC 0,128,0>10 스캐럽<END FC>이다.<P>플레이 하겠는가?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 13"
   },
   "HT_Text_MG_WallDodge_Instructions": {
-    "message": "\uc6c0\uc9c1\uc774\ub294 \ubcbd\uc744 \ud53c\ud558\uba74\uc11c \ub3d9\uc0c1\ub4e4\uc744 \ubaa8\ub450 \ubd80\uc154\ubc84\ub9ac\uace0 \uc81c\ud55c \uc2dc\uac04 \ub0b4\uc5d0 \ucd9c\uad6c\uc5d0 \ub3c4\ucc29\ud558\uba74 \ub41c\ub2e4.<E>",
+    "message": "움직이는 벽을 피하면서 동상들을 모두 부셔버리고 제한 시간 내에 출구에 도착하면 된다.<E>",
     "description": "SphinxText.xls, row 14"
   },
   "HT_Text_MG_WallDodge_Choose": {
-    "message": "\uc5b4\ub5a4 \uc2dc\ub828\uc5d0 \ub3c4\uc804\ud574\ubcf4\uaca0\ub098?<N>  <B 1> \uc2dc\ub828 1<N>  <B 2> \uc2dc\ub828 2<E>",
+    "message": "어떤 시련에 도전해보겠나?<N>  <B 1> 시련 1<N>  <B 2> 시련 2<E>",
     "description": "SphinxText.xls, row 15"
   },
   "HT_Text_MG_WallDodge_Choose2": {
-    "message": "\uc5b4\ub5a4 \uc2dc\ub828\uc5d0 \ub3c4\uc804\ud574\ubcf4\uaca0\ub098?<N>  <B 1> \uc2dc\ub828 1<N>  <B 2> \uc2dc\ub828 2<N>  <B 3> \uc2dc\ub828 3<E>",
+    "message": "어떤 시련에 도전해보겠나?<N>  <B 1> 시련 1<N>  <B 2> 시련 2<N>  <B 3> 시련 3<E>",
     "description": "SphinxText.xls, row 16"
   },
   "HT_Text_MG_WallDodge_NotReady": {
-    "message": "\ub10c \uc544\uc9c1 \uc900\ube44\uac00 \ub418\uc9c0 \uc54a\uc558\ub2e4.<E>",
+    "message": "넌 아직 준비가 되지 않았다.<E>",
     "description": "SphinxText.xls, row 17"
   },
   "HT_Text_MG_WallDodge_Fail": {
-    "message": "\ubbf8\uc548\ud558\uc9c0\ub9cc, \uc2e4\ud328\ud588\ub2e4. \ub2e4\uc2dc \ud574\ubd10.<E>",
+    "message": "미안하지만, 실패했다. 다시 해봐.<E>",
     "description": "SphinxText.xls, row 18"
   },
   "HT_Text_MG_WallDodge_Succeed": {
-    "message": "\uc798\ud588\ub2e4! <FC 0,128,0><SO HT_Objective_WallDodge_Time> \ucd08<END FC>\uc5d0 \uc644\ub8cc\ud588\uad70! \uc2e0\uae30\ub85d\uc774\ub2e4!<E>",
+    "message": "잘했다! <FC 0,128,0><SO HT_Objective_WallDodge_Time> 초<END FC>에 완료했군! 신기록이다!<E>",
     "description": "SphinxText.xls, row 19"
   },
   "HT_Text_MG_WallDodge_Succeed1": {
-    "message": "\ubcf4\uc0c1 \ubc1b\uc744 \uc790\uaca9\uc774 \uc788\uc2b5\ub2c8\ub2e4.<N><FC 0,128,0><SO HT_Objective_MGWalls_Prize> \uc2a4\uce90\ub7fd<END FC>\uc744 \ud68d\ub4dd\ud558\uc600\uc2b5\ub2c8\ub2e4!<E>",
+    "message": "보상 받을 자격이 있습니다.<N><FC 0,128,0><SO HT_Objective_MGWalls_Prize> 스캐럽<END FC>을 획득하였습니다!<E>",
     "description": "SphinxText.xls, row 20"
   },
   "HT_Text_MG_WallDodge_Succeed2": {
-    "message": "\ub300\ub2e8\ud55c \uae30\ub85d\uc774\ub2e4!<N>\uc0c1\uae08\uc740 <FC 0,128,0><SO HT_Objective_MGWalls_Prize> \uc2a4\uce90\ub7fd<END FC>\uc774\ub2e4!<E>",
+    "message": "대단한 기록이다!<N>상금은 <FC 0,128,0><SO HT_Objective_MGWalls_Prize> 스캐럽<END FC>이다!<E>",
     "description": "SphinxText.xls, row 21"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore1": {
-    "message": "\ub098\uc058\uc9c4 \uc54a\uad70 - <FC 0,128,0><SO HT_Objective_WallDodge_Time> \ucd08<END FC>\uc5d0 \uc644\ub8cc\ud588\ub2e4. \uadf8\ub7ec\ub098 \ub354 \uc798 \ud560 \uc218 \uc788\uaca0\uad70...<P>\ucd5c\uace0 \uc2dc\uac04\uc740 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> \ucd08<END FC>\ub2e4.<E>",
+    "message": "나쁘진 않군 - <FC 0,128,0><SO HT_Objective_WallDodge_Time> 초<END FC>에 완료했다. 그러나 더 잘 할 수 있겠군...<P>최고 시간은 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> 초<END FC>다.<E>",
     "description": "SphinxText.xls, row 22"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore2": {
-    "message": "\ub098\uc058\uc9c4 \uc54a\uad70 - <FC 0,128,0><SO HT_Objective_WallDodge_Time> \ucd08<END FC>\uc5d0 \uc644\ub8cc\ud588\ub2e4. \ub2e4\uc74c\uc5d4 \ub354 \uc798 \ud560 \uc218 \uc788\uaca0\uad70...<P>\ucd5c\uace0 \uc2dc\uac04\uc740 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2> \ucd08<END FC>\ub2e4.<E>",
+    "message": "나쁘진 않군 - <FC 0,128,0><SO HT_Objective_WallDodge_Time> 초<END FC>에 완료했다. 다음엔 더 잘 할 수 있겠군...<P>최고 시간은 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2> 초<END FC>다.<E>",
     "description": "SphinxText.xls, row 23"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore3": {
-    "message": "\uad1c\ucc2e\uc558\ub2e4 - <FC 0,128,0><SO HT_Objective_WallDodge_Time> \ucd08<END FC>\uc5d0 \uc644\ub8cc\ud588\ub2e4. \ub2e4\uc74c\uc5d4 \ud5a5\uc0c1\uc2dc\ud0ac \uc218 \uc788\uaca0\uad70...<P>\ucd5c\uace0 \uc2dc\uac04\uc740 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> \ucd08<END FC>\ub2e4.<E>",
+    "message": "괜찮았다 - <FC 0,128,0><SO HT_Objective_WallDodge_Time> 초<END FC>에 완료했다. 다음엔 향상시킬 수 있겠군...<P>최고 시간은 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> 초<END FC>다.<E>",
     "description": "SphinxText.xls, row 24"
   },
   "HT_Text_MG_WallDodge_HighScores": {
-    "message": "<DP><DHP><END TT><CNTR>\uc2dc\ub828 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>\uc2dc\ub828 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N>\uc2dc\ub828 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>",
+    "message": "<DP><DHP><END TT><CNTR>시련 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>시련 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N>시련 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>",
     "description": "SphinxText.xls, row 25"
   },
   "HT_Text_MG_WallDodge_Test": {
-    "message": "<FC 128,64,0>\uc2b9\uc790\uc758 \ud68c\ub791<END FC>\uc5d0 \uc628 \uac83\uc744 \ud658\uc601\ud55c\ub2e4.<P>\uc5ec\uae30\uc11c\ub294 \uc9c4\uc815\ud55c \uc2b9\uc790\ub9cc\uc774 \uc790\uc2e0\uc758 \ub2a5\ub825\uc744 \uc2dc\ud5d8\ud560 \uc218 \uc788\ub2e4. \uc6b0\ub9ac\uc758 \uc2dc\ub828\uc5d0 \ub300\ud56d\ud558\uc5ec \uaca8\ub904\ubcf4\uaca0\ub098?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "<FC 128,64,0>승자의 회랑<END FC>에 온 것을 환영한다.<P>여기서는 진정한 승자만이 자신의 능력을 시험할 수 있다. 우리의 시련에 대항하여 겨뤄보겠나?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 26"
   },
   "HT_Text_MG_WallDodge_TestYes": {
-    "message": "\uc6a9\uac10\ud558\uace0 \ud6cc\ub96d\ud55c \uc120\ud0dd\uc774\ub2e4! \uadf8\ub7ec\ub098, \uc9c4\ud589\ud558\uae30 \uc804\uc5d0 \uc791\uc740 \uc2dc\ud5d8\uc744 \ud1b5\uacfc\ud574\uc57c\ub9cc \ud55c\ub2e4.<E>",
+    "message": "용감하고 훌륭한 선택이다! 그러나, 진행하기 전에 작은 시험을 통과해야만 한다.<E>",
     "description": "SphinxText.xls, row 27"
   },
   "HT_Text_MG_WallDodge_TestYesPearl": {
-    "message": "\uc6b8\ud0c0\ub9ac \ub108\uba38 \uc788\ub294 <FC 0,128,0>\ub2e4\uc774\uc544\ubaac\ub4dc<END FC>\ub97c <FC 0,128,0>20 \ucd08<END FC> \uc774\ub0b4\uc5d0 \ub0b4\uac8c \uac00\uc838\uc640\ub77c, \uadf8\ub7ec\uba74 \uc2dc\ub828\uc744 \uac10\ub2f9\ud560 \uc218 \uc788\ub2e4\ub294 \uac83\uc744 \uc99d\uba85\ud558\ub294 \uac83\uc774\ub2e4.<E>",
+    "message": "울타리 너머 있는 <FC 0,128,0>다이아몬드<END FC>를 <FC 0,128,0>20 초<END FC> 이내에 내게 가져와라, 그러면 시련을 감당할 수 있다는 것을 증명하는 것이다.<E>",
     "description": "SphinxText.xls, row 28"
   },
   "HT_Text_MG_WallDodge_TestNo": {
-    "message": "\ub098\uc058\uc9c0 \uc54a\uad70. <FC 128,64,0>\uc2b9\uc790\uc758 \ud68c\ub791<END FC>\uc740 \uc544\ubb34\ub098 \uc2dc\ub3c4\ud560 \uc218 \uc788\ub294\uac8c \uc544\ub2c8\uac70\ub4e0...<E>",
+    "message": "나쁘지 않군. <FC 128,64,0>승자의 회랑<END FC>은 아무나 시도할 수 있는게 아니거든...<E>",
     "description": "SphinxText.xls, row 29"
   },
   "HT_Text_MG_WallDodge_TestComplete": {
-    "message": "\ud6cc\ub96d\ud558\ub2e4, \uc2dc\ud5d8\uc744 \ud1b5\uacfc\ud588\ub2e4.<E>",
+    "message": "훌륭하다, 시험을 통과했다.<E>",
     "description": "SphinxText.xls, row 30"
   },
   "HT_Text_MG_WallDodge_TestFail": {
-    "message": "\uc2dc\ub828\uc5d0 \ub9de\uc124 \uc900\ube44\uac00 \uc548 \ub418\uc5b4\uc788\ub2e4\ub294 \uac83\uc774 \uc790\uba85\ud558\uad70. <FC 0,128,0>\ub2e4\uc774\uc544\ubaac\ub4dc<END FC>\ub97c \ud68c\uc218\ud560 \uc218 \uc788\ub294 \ub2a5\ub825\uc744 \uc5bb\uc740 \ud6c4 \ub3cc\uc544\uc624\ub77c.<E>",
+    "message": "시련에 맞설 준비가 안 되어있다는 것이 자명하군. <FC 0,128,0>다이아몬드<END FC>를 회수할 수 있는 능력을 얻은 후 돌아오라.<E>",
     "description": "SphinxText.xls, row 31"
   },
   "HT_Text_MG_WallDodge_TestInProgress": {
-    "message": "\uba87 \ucd08 \ubc16\uc5d0 \uc548 \ub0a8\uc558\ub2e4!<E>",
+    "message": "몇 초 밖에 안 남았다!<E>",
     "description": "SphinxText.xls, row 32"
   },
   "HT_Text_MG_WallDodge_TestGiveUp": {
-    "message": "\uc2dc\ud5d8\uc744 \uc644\uc218\ud560 \uc218 \uc5c6\uc73c\uba74, \uc2dc\ub828\uc744 \uc2dc\ub3c4\ud574 \ubcfc \uc218 \uc5c6\ub2e4. \uc131\uacf5\ud560 \uc218 \uc788\ub2e4\uace0 \ub290\ub084 \ub54c \ub2e4\uc2dc \uc624\uac8c... <E>",
+    "message": "시험을 완수할 수 없으면, 시련을 시도해 볼 수 없다. 성공할 수 있다고 느낄 때 다시 오게... <E>",
     "description": "SphinxText.xls, row 33"
   },
   "HT_Text_MG_WallDodge_NoMoney": {
-    "message": "\ubb58 \ud558\ub824\uace0 \ud558\ub294 \uac70\ub0d0? 10 <FC 0,128,0>\uc2a4\uce90\ub7fd<END FC>\uc774 \uc788\uc5b4\uc57c \ud55c\ub2e4.<E>",
+    "message": "뭘 하려고 하는 거냐? 10 <FC 0,128,0>스캐럽<END FC>이 있어야 한다.<E>",
     "description": "SphinxText.xls, row 36"
   },
   "HT_Text_MG_WallDodge_GameComplete": {
-    "message": "\uc2dc\ub828\uc744 \uc644\uc218\ud588\uad70! \uc9c4\uc815\ud55c \uc2b9\uc790\ub2e4!<P>\uc2dc\ub828\uc744 \uadf9\ubcf5\ud55c \uc790\ub4e4\uc5d0\uac8c\ub9cc \uc8fc\uc5b4\uc9c0\ub294 <FC 0,128,0>\uc2b9\uc790\uc758 \uba54\ub2ec<END FC>\uc744 \uc8fc\ub3c4\ub85d \ud558\uc9c0.<E>",
+    "message": "시련을 완수했군! 진정한 승자다!<P>시련을 극복한 자들에게만 주어지는 <FC 0,128,0>승자의 메달<END FC>을 주도록 하지.<E>",
     "description": "SphinxText.xls, row 37"
   },
   "HT_Text_MG_Shooting_Start": {
-    "message": "<FC 128,64,0>\ud14c\ud504\ub11b\uc758 \uacfc\ub141 \uc220\uc9d1<END FC>\uc5d0 \uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4. \ud50c\ub808\uc774 \ud558\ub824\uba74 <FC 0,128,0>10 \uc2a4\uce90\ub7fd<END FC>\uc774 \ud544\uc694\ud569\ub2c8\ub2e4.<P>\ud50c\ub808\uc774 \ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "<FC 128,64,0>테프넛의 과녁 술집<END FC>에 오신 것을 환영합니다. 플레이 하려면 <FC 0,128,0>10 스캐럽<END FC>이 필요합니다.<P>플레이 하시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 46"
   },
   "HT_Text_MG_Shooting_Instructions": {
-    "message": "\uacfc\ub141\uc744 \ub9de\ucdb0\uc11c \uc810\uc218\ub97c \uc5bb\uc73c\uc2ed\uc2dc\uc624. \ud574\uace8\uc744 \ub9de\ucd94\uba74 \uc544\uc8fc \uc548 \uc88b\uc740 \uc77c\uc774 \ubc8c\uc5b4\uc9d1\ub2c8\ub2e4... \uadf8\ub7f4 \uacbd\uc6b0 \uc810\uc218\uc640 \uc2dc\uac04\uc744 \uc783\uac8c \ub429\ub2c8\ub2e4.<E>",
+    "message": "과녁을 맞춰서 점수를 얻으십시오. 해골을 맞추면 아주 안 좋은 일이 벌어집니다... 그럴 경우 점수와 시간을 잃게 됩니다.<E>",
     "description": "SphinxText.xls, row 47"
   },
   "HT_Text_MG_Shooting_Won": {
-    "message": "\uadf8\ub807\uac8c \ub098\uc058\uc9c4 \uc54a\uad70\uc694. \ub9ce\uc740 \uacfc\ub141\uc744 \ub9de\ucdc4\uc2b5\ub2c8\ub2e4. <P>\ud558\uc9c0\ub9cc <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> \uc810<END FC>\ubcf4\ub2e4\ub294 \ub354 \uc798 \ud588\ub358 \uc801\uc774 \uc788\uad70\uc694.<P>\uc774 \uc810\uc218\uc758 \uc0c1\uc73c\ub85c \uc5ec\uae30 <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> \uc2a4\uce90\ub7fd<END FC>\uc774 \uc788\uc2b5\ub2c8\ub2e4. \ub354 \uc798 \ud560 \uc218 \uc788\ub2e4\uace0 \uc0dd\uac01\ud55c\ub2e4\uba74 \ub9c8\uc74c\uaecf \uc7ac\ub3c4\uc804 \ud558\uc2ed\uc2dc\uc624.<E>",
+    "message": "그렇게 나쁘진 않군요. 많은 과녁을 맞췄습니다. <P>하지만 <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> 점<END FC>보다는 더 잘 했던 적이 있군요.<P>이 점수의 상으로 여기 <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> 스캐럽<END FC>이 있습니다. 더 잘 할 수 있다고 생각한다면 마음껏 재도전 하십시오.<E>",
     "description": "SphinxText.xls, row 48"
   },
   "HT_Text_MG_Shooting_Won_HighScore": {
-    "message": "<FC 0,128,0><SO HT_Objective_Shooting_Score1> \uc810<END FC>\uc73c\ub85c \uc2e0\uae30\ub85d\uc744 \uc138\uc6e0\uad70\uc694! \uc774 \uc810\uc218\ub294 \ubcbd\uc758 \ucc28\ud2b8\uc5d0 \ucd94\uac00\ub420 \uac83\uc785\ub2c8\ub2e4.<P>\uc774\ub807\uac8c \ud6cc\ub96d\ud55c \uace0\ub4dd\uc810\uc758 \ubcf4\uc0c1\uc73c\ub85c, \uc5ec\uae30 <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> \uc2a4\uce90\ub7fd<END FC>\uc774 \uc788\uc2b5\ub2c8\ub2e4!<E>",
+    "message": "<FC 0,128,0><SO HT_Objective_Shooting_Score1> 점<END FC>으로 신기록을 세웠군요! 이 점수는 벽의 차트에 추가될 것입니다.<P>이렇게 훌륭한 고득점의 보상으로, 여기 <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> 스캐럽<END FC>이 있습니다!<E>",
     "description": "SphinxText.xls, row 49"
   },
   "HT_Text_MG_Shooting_Lost": {
-    "message": "\ucbe7! \uc815\ub9d0 \ubabb \ubd10\uc8fc\uaca0\uad70\uc694! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> \uc810<END FC>\uc740 \ubd88\uc30d\ud560 \uc815\ub3c4\uc785\ub2c8\ub2e4! \ud639\uc2dc \uc5f0\uc2b5\uc774 \ub354 \ud544\uc694\ud55c \uac83\uc740 \uc544\ub2cc\uac00\uc694?<E>",
+    "message": "쯧! 정말 못 봐주겠군요! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> 점<END FC>은 불쌍할 정도입니다! 혹시 연습이 더 필요한 것은 아닌가요?<E>",
     "description": "SphinxText.xls, row 50"
   },
   "HT_Text_MG_Shooting_LostSingle": {
-    "message": "\ucbe7! \uc815\ub9d0 \ubabb \ubd10\uc8fc\uaca0\uad70\uc694! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> \uc810<END FC>\uc740 \ubd88\uc30d\ud560 \uc815\ub3c4\uc785\ub2c8\ub2e4! \ud639\uc2dc \uc5f0\uc2b5\uc774 \ub354 \ud544\uc694\ud55c \uac83\uc740 \uc544\ub2cc\uac00\uc694?<E>",
+    "message": "쯧! 정말 못 봐주겠군요! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> 점<END FC>은 불쌍할 정도입니다! 혹시 연습이 더 필요한 것은 아닌가요?<E>",
     "description": "SphinxText.xls, row 51"
   },
   "HT_Text_MG_Shooting_HighScores": {
-    "message": "<DP><DHP><END TT>\ub2f9\uc2e0\uc758 \ucd5c\uace0 \uc810\uc218\ub294: <FC 0,128,0><SO HT_Objective_Shooting_Score1> \uc810<END FC>\uc785\ub2c8\ub2e4!",
+    "message": "<DP><DHP><END TT>당신의 최고 점수는: <FC 0,128,0><SO HT_Objective_Shooting_Score1> 점<END FC>입니다!",
     "description": "SphinxText.xls, row 52"
   },
   "HT_Text_MG_Shooting_NoMoney": {
-    "message": "\uc81c\uac00 <FC 0,128,0>10 \uc2a4\uce90\ub7fd<END FC>\uc774\ub77c\uace0 \ub9d0\uc500 \ub4dc\ub838\uc8e0. \uadf8\uac83\uc740 <FC 0,128,0>10 \uc2a4\uce90\ub7fd<END FC>\uc774 \uc548\ub418\ub294\uad70\uc694! \uadf8\ub807\uc8e0?<E>",
+    "message": "제가 <FC 0,128,0>10 스캐럽<END FC>이라고 말씀 드렸죠. 그것은 <FC 0,128,0>10 스캐럽<END FC>이 안되는군요! 그렇죠?<E>",
     "description": "SphinxText.xls, row 56"
   },
   "HT_Text_MG_Shooting_GameComplete": {
-    "message": "<FC 0,128,0>\ucde8\uad00<END FC>\uc0ac\uc6a9\ubc95\uc744 \ud1b5\ub2ec\ud588\ub2e4\ub294 \uac83\uc744 \uc99d\uba85\ud558\uc600\uc2b5\ub2c8\ub2e4! <FC 0,128,0>2\uae09 \uc0ac\uc218 \uba54\ub2ec<END FC>\uc744 \uc218\uc5ec\ud558\uac8c \ub418\uc5b4\uc11c \uae30\uc069\ub2c8\ub2e4. \uc798 \ud558\uc168\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "<FC 0,128,0>취관<END FC>사용법을 통달했다는 것을 증명하였습니다! <FC 0,128,0>2급 사수 메달<END FC>을 수여하게 되어서 기쁩니다. 잘 하셨습니다.<E>",
     "description": "SphinxText.xls, row 57"
   },
   "HT_Text_MG_Shooting_WinInstructions": {
-    "message": "<FC 0,128,0>\ucde8\uad00<END FC>\uc0ac\uc6a9\ubc95\uc744 \ud1b5\ub2ec\ud558\uc600\ub2e4\ub294 \uac83\uc744 \uc99d\uba85\ud558\uace0 <FC 0,128,0>2\uae09 \uc0ac\uc218 \uba54\ub2ec<END FC>\uc744 \uc5bb\uc73c\ub824\uba74, <FC 0,128,0>40 \uc810<END FC> \uc774\uc0c1\uc744 \uc5bb\uc5b4\uc57c\ub9cc \ud569\ub2c8\ub2e4.<E>",
+    "message": "<FC 0,128,0>취관<END FC>사용법을 통달하였다는 것을 증명하고 <FC 0,128,0>2급 사수 메달<END FC>을 얻으려면, <FC 0,128,0>40 점<END FC> 이상을 얻어야만 합니다.<E>",
     "description": "SphinxText.xls, row 58"
   },
   "HT_Text_MG_Simon_Start": {
-    "message": "\uc774\ubc29\uc778\uc774\uc5ec, \uc2e0\ube44\uc758 \uc21c\uc11c \uac8c\uc784\uc5d0 \uc628 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4. \ub098\uc758 \uc0ac\ub2f9\uc5d0\uc11c \uc18c\ub9ac\uc640 \uc0c9\uc0c1\uc758 \ud328\ud134\uc744 \uae30\uc5b5\ud558\ub294 \ub2a5\ub825\uc744 \uc2dc\ud5d8 \ubc1b\uac8c \ub420 \uac83\uc785\ub2c8\ub2e4.<P>\ud50c\ub808\uc774 \ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "이방인이여, 신비의 순서 게임에 온 것을 환영합니다. 나의 사당에서 소리와 색상의 패턴을 기억하는 능력을 시험 받게 될 것입니다.<P>플레이 하시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 60"
   },
   "HT_Text_MG_Simon_StartEasy": {
-    "message": "\uc2e0\ube44\uc758 \uc21c\uc11c \uac8c\uc784\uc5d0 \uc628 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4. <FC 0,128,0>5 \uc2a4\uce90\ub7fd<END FC>\uc774\ub77c\ub294 \uc801\ub2f9\ud55c \uac00\uaca9\uc73c\ub85c \uc800\uc758 \ub9c8\ubc95\uc758 \uc0ac\ub2f9\uc5d0\uc11c \uc790\uc2e0\uc758 \ub2a5\ub825\uc744 \uc2dc\ud5d8\ud574 \ubcfc \uc218 \uc788\uc2b5\ub2c8\ub2e4.<P>\ud50c\ub808\uc774 \ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "신비의 순서 게임에 온 것을 환영합니다. <FC 0,128,0>5 스캐럽<END FC>이라는 적당한 가격으로 저의 마법의 사당에서 자신의 능력을 시험해 볼 수 있습니다.<P>플레이 하시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 61"
   },
   "HT_Text_MG_Simon_Choose1": {
-    "message": "\ub0b4 \ub9c8\ubc95\uc758 \uc0ac\ub2f9\uc5d0\uc11c \uc5b4\ub5a4 \ub2e8\uacc4\uc758 \ub2a5\ub825\uc744 \uc2dc\ud5d8\ud574 \ubcf4\uace0 \uc2f6\uc740\uac00?<N>  <B 1> \ucd08\uae09\uc790 - <FC 0,128,0>5 \uc2a4\uce90\ub7fd<END FC><N>  <B 2> \uc911\uae09\uc790 - <FC 0,128,0>10 \uc2a4\uce90\ub7fd<END FC><E>",
+    "message": "내 마법의 사당에서 어떤 단계의 능력을 시험해 보고 싶은가?<N>  <B 1> 초급자 - <FC 0,128,0>5 스캐럽<END FC><N>  <B 2> 중급자 - <FC 0,128,0>10 스캐럽<END FC><E>",
     "description": "SphinxText.xls, row 62"
   },
   "HT_Text_MG_Simon_Choose2": {
-    "message": "\uc131\ub2f9\uc5d0\uc11c \uc5b4\ub5a4 \ub808\ubca8\uc758 \ub2a5\ub825\uc744 \uc2dc\ud5d8\ud574 \ubcf4\uace0 \uc2f6\uc740\uac00?<N>  <B 1> \ucd08\uae09\uc790 - <FC 0,128,0>5 \uc2a4\uce90\ub7fd<END FC><N>  <B 2> \uc911\uae09\uc790 - <FC 0,128,0>10 \uc2a4\uce90\ub7fd<END FC><N>  <B 3> \uc0c1\uae09\uc790 - <FC 0,128,0>20 \uc2a4\uce90\ub7fd<END FC><E>",
+    "message": "성당에서 어떤 레벨의 능력을 시험해 보고 싶은가?<N>  <B 1> 초급자 - <FC 0,128,0>5 스캐럽<END FC><N>  <B 2> 중급자 - <FC 0,128,0>10 스캐럽<END FC><N>  <B 3> 상급자 - <FC 0,128,0>20 스캐럽<END FC><E>",
     "description": "SphinxText.xls, row 63"
   },
   "HT_Text_MG_Simon_Instructions": {
-    "message": "\uae38\uc744 \ub530\ub77c \uc911\uc559 \ud50c\ub7ab\ud3fc\uc73c\ub85c \uac78\uc5b4\uac00\uc138\uc694. \uc55e\uc5d0 \ud3bc\uccd0\uc9c0\ub294 \uc21c\uc11c\ub4e4\uc744 \uae30\uc5b5\ud574\ubcf4\uc138\uc694.<P>\uc2b9\ub9ac\ud558\ub824\uba74 \uadf8 \uc21c\uc11c\ub4e4\uc744 \ubc18\ubcf5\ud558\uc138\uc694.<N>\uc911\uc559 \ud50c\ub7ab\ud3fc\uc704\ub85c \uc810\ud504\ud558\uba74 \uac01\uac01\uc758 \uc21c\uc11c\ub4e4\uc744 \ub2e4\uc2dc \ubcfc \uc218 \uc788\uc73c\ub098, \ub2e8 \ud55c \ubc88 \ubfd0\uc785\ub2c8\ub2e4.<E>",
+    "message": "길을 따라 중앙 플랫폼으로 걸어가세요. 앞에 펼쳐지는 순서들을 기억해보세요.<P>승리하려면 그 순서들을 반복하세요.<N>중앙 플랫폼위로 점프하면 각각의 순서들을 다시 볼 수 있으나, 단 한 번 뿐입니다.<E>",
     "description": "SphinxText.xls, row 64"
   },
   "HT_Text_MG_Simon_Fail": {
-    "message": "\uc544\ub2c8~ \uc544\ub2c8~ \uc544\ub2c8~ \uc804\ud600 \uc544\ub2c8\uc5d0\uc694! \uc774\ubc88\uc5d0\ub294 \uc2e4\ud328\ud588\uad70\uc694.<E>",
+    "message": "아니~ 아니~ 아니~ 전혀 아니에요! 이번에는 실패했군요.<E>",
     "description": "SphinxText.xls, row 65"
   },
   "HT_Text_MG_Simon_Succeed": {
-    "message": "\uc798\ud588\uc5b4\uc694~! <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>\ud68c\ub97c \ud1b5\uacfc\ud588\uad70\uc694!<E>",
+    "message": "잘했어요~! <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>회를 통과했군요!<E>",
     "description": "SphinxText.xls, row 66"
   },
   "HT_Text_MG_Simon_Win": {
-    "message": "\ucd95\ud558 \ub4dc\ub9bd\ub2c8\ub2e4, \uc774\uacbc\uc2b5\ub2c8\ub2e4! \uc0c1\ud488\uc73c\ub85c <FC 0,128,0><SO HT_Objective_Simon_Prize> \uc2a4\uce90\ub7fd<END FC>\uc744 \ubc1b\uc73c\uc138\uc694!<E>",
+    "message": "축하 드립니다, 이겼습니다! 상품으로 <FC 0,128,0><SO HT_Objective_Simon_Prize> 스캐럽<END FC>을 받으세요!<E>",
     "description": "SphinxText.xls, row 67"
   },
   "HT_Text_MG_Simon_Restart": {
-    "message": "\uac8c\uc784 \uc911\uc785\ub2c8\ub2e4! \uc5b4\ub5bb\uac8c \ud558\uc2e4 \uac74\uac00\uc694?<N>  <B 1> \uc885\ub8cc<PC 1><B 2> \uc7ac \uc2dc\uc791<N>  <B 3> \uacc4\uc18d \uc9c4\ud589<PC 1><B 4> \uc124\uba85<E>",
+    "message": "게임 중입니다! 어떻게 하실 건가요?<N>  <B 1> 종료<PC 1><B 2> 재 시작<N>  <B 3> 계속 진행<PC 1><B 4> 설명<E>",
     "description": "SphinxText.xls, row 68"
   },
   "HT_Text_MG_Simon_CopyLimit": {
-    "message": "\uc544\uc544 \uadf8\uac83\uc740 \uc548 \ub418\uc694! \uac01 \uc21c\uc11c\ub9c8\ub2e4 \ub450 \ubc88\uc529\ub9cc \ubcfc \uc218 \uc788\uc2b5\ub2c8\ub2e4!<E>",
+    "message": "아아 그것은 안 되요! 각 순서마다 두 번씩만 볼 수 있습니다!<E>",
     "description": "SphinxText.xls, row 69"
   },
   "HT_Text_MG_Simon_NoMoney": {
-    "message": "\uc7a0\uae50, <FC 0,128,0>\uc2a4\uce90\ub7fd<END FC>\uc774 \ucda9\ubd84\ud558\uc9c0 \uc54a\uad70\uc694. \ud50c\ub808\uc774 \ud558\uae30\uc5d0 \ucda9\ubd84\ud560 \ub54c \ub2e4\uc2dc \uc624\uc138\uc694.<E>",
+    "message": "잠깐, <FC 0,128,0>스캐럽<END FC>이 충분하지 않군요. 플레이 하기에 충분할 때 다시 오세요.<E>",
     "description": "SphinxText.xls, row 72"
   },
   "HT_Text_MG_Simon_CantLeave": {
-    "message": "\uc774\ubd10\uc694, \ub5a0\ub0a0 \uc218 \uc5c6\uc5b4\uc694! \uac8c\uc784 \uc911\uc774\uc796\uc544\uc694?<E>",
+    "message": "이봐요, 떠날 수 없어요! 게임 중이잖아요?<E>",
     "description": "SphinxText.xls, row 73"
   },
   "HT_Text_MG_Simon_GameComplete": {
-    "message": "\ud6cc\ub96d\ud574\uc694! \uc81c \uac8c\uc784\uc744 \ud480\uace0 <FC 0,128,0>\uc21c\uc11c\uc758 \uba54\ub2ec<END FC>\uc744 \ud68d\ub4dd\ud558\uc168\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "훌륭해요! 제 게임을 풀고 <FC 0,128,0>순서의 메달<END FC>을 획득하셨습니다.<E>",
     "description": "SphinxText.xls, row 74"
   },
   "HT_Text_MG_Pairs_Start": {
-    "message": "\uc800\uc758 \uac8c\uc784\uc5d0 \uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4! \ud50c\ub808\uc774 \ud558\uc2dc\ub824\uba74 <FC 0,128,0>10 \uc2a4\uce90\ub7fd<END FC>\uc744 \uc8fc\uc154\uc57c \ud569\ub2c8\ub2e4.<P>\ud50c\ub808\uc774 \ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "저의 게임에 오신 것을 환영합니다! 플레이 하시려면 <FC 0,128,0>10 스캐럽<END FC>을 주셔야 합니다.<P>플레이 하시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 76"
   },
   "HT_Text_MG_Pairs_Scores": {
-    "message": "<DHP><DP><END TT>\ud604\uc7ac \ucd5c\uace0 \uae30\ub85d\uc740:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> \ucd08<END FC>\uc785\ub2c8\ub2e4.",
+    "message": "<DHP><DP><END TT>현재 최고 기록은:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> 초<END FC>입니다.",
     "description": "SphinxText.xls, row 77"
   },
   "HT_Text_MG_Pairs_NoScores": {
-    "message": "<DHP><DP><END TT>\uc774 \uac8c\uc784\uc744 \ub05d\uae4c\uc9c0 \ud55c \uc801\uc774 \ud55c \ubc88\ub3c4 \uc5c6\uc2b5\ub2c8\ub2e4... <END FC>",
+    "message": "<DHP><DP><END TT>이 게임을 끝까지 한 적이 한 번도 없습니다... <END FC>",
     "description": "SphinxText.xls, row 78"
   },
   "HT_Text_MG_Pairs_Win": {
-    "message": "\ucd95\ud558\ud569\ub2c8\ub2e4! <FC 0,128,0><SO HT_Objective_Pairs_Won> \uc2a4\uce90\ub7fd<END FC>\uc744 \uc5bb\uc5c8\uc2b5\ub2c8\ub2e4!<E>",
+    "message": "축하합니다! <FC 0,128,0><SO HT_Objective_Pairs_Won> 스캐럽<END FC>을 얻었습니다!<E>",
     "description": "SphinxText.xls, row 79"
   },
   "HT_Text_MG_Pairs_Restart": {
-    "message": "\uc9c0\uae08\uc740 \uac8c\uc784 \uc911\uc785\ub2c8\ub2e4! \uc5b4\ub5bb\uac8c \ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?<N>  <B 1> \uc885\ub8cc<PC 1><B 2> \uc7ac \uc2dc\uc791<N>  <B 3> \uacc4\uc18d \uc9c4\ud589<PC 1><B 4> \uc124\uba85<E>",
+    "message": "지금은 게임 중입니다! 어떻게 하시겠습니까?<N>  <B 1> 종료<PC 1><B 2> 재 시작<N>  <B 3> 계속 진행<PC 1><B 4> 설명<E>",
     "description": "SphinxText.xls, row 80"
   },
   "HT_Text_MG_Pairs_Instructions": {
-    "message": "<FC 0,128,0>\ucde8\uad00<END FC>\uc744 \uc774\uc6a9\ud558\uc5ec \ubc29\uc758 \ub05d\uc5d0 \uc788\ub294 \ubb38\ub4e4\uc744 \uc3d8\uc544\uc11c \uc5ec\uc2ed\uc2dc\uc624.<P>\uc774\uae30\ub824\uba74 \ubb38\ub4e4\uc758 \ub4a4\uc5d0 \uc788\ub294 \uc544\uc774\ud15c\ub4e4\uc758 \uc30d\uc744 \ucc3e\uc73c\uba74 \ub429\ub2c8\ub2e4.<E>",
+    "message": "<FC 0,128,0>취관<END FC>을 이용하여 방의 끝에 있는 문들을 쏘아서 여십시오.<P>이기려면 문들의 뒤에 있는 아이템들의 쌍을 찾으면 됩니다.<E>",
     "description": "SphinxText.xls, row 81"
   },
   "HT_Text_MG_Pairs_NoBlowpipe": {
-    "message": "\ubbf8\uc548\ud558\uc9c0\ub9cc <FC 0,128,0>\ucde8\uad00<END FC>\uc774 \uc5c6\uc73c\uba74 \ud50c\ub808\uc774 \ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "미안하지만 <FC 0,128,0>취관<END FC>이 없으면 플레이 할 수 없습니다.<E>",
     "description": "SphinxText.xls, row 85"
   },
   "HT_Text_MG_Pairs_RestartPay": {
-    "message": "<FC 0,128,0>10 \uc2a4\uce90\ub7fd<END FC>\uc774 \ub610 \ub4ed\ub2c8\ub2e4...<N>  <B 1> \uc88b\uc544, \ub2e4\uc2dc \uc2dc\uc791<N>  <B 2> \uc544\ub2c8, \uacc4\uc18d \uc9c4\ud589<E>",
+    "message": "<FC 0,128,0>10 스캐럽<END FC>이 또 듭니다...<N>  <B 1> 좋아, 다시 시작<N>  <B 2> 아니, 계속 진행<E>",
     "description": "SphinxText.xls, row 87"
   },
   "HT_Text_MG_Pairs_NoMoney": {
-    "message": "<FC 0,128,0>10 \uc2a4\uce90\ub7fd<END FC>\uc774 \ub4e0\ub2e4\uace0 \ub9d0\uc500 \ub4dc\ub838\ub294\ub370, <FC 0,128,0>10 \uc2a4\uce90\ub7fd<END FC>\uc774 \uc5c6\uc73c\uc2dc\uad70\uc694.<E>",
+    "message": "<FC 0,128,0>10 스캐럽<END FC>이 든다고 말씀 드렸는데, <FC 0,128,0>10 스캐럽<END FC>이 없으시군요.<E>",
     "description": "SphinxText.xls, row 88"
   },
   "HT_Text_MG_Pairs_NotWon": {
-    "message": "\ub108\ubb34 \uc624\ub798 \ub04c\uc5c8\uad70\uc694! \uc0c1\ud488\uc740 \uc5c6\uc2b5\ub2c8\ub2e4!<E>",
+    "message": "너무 오래 끌었군요! 상품은 없습니다!<E>",
     "description": "SphinxText.xls, row 89"
   },
   "HT_Text_MG_Pairs_WinInstructions": {
-    "message": "<FC 0,128,0>60 \ucd08<END FC>\uc774\ub0b4\uc5d0 \uac8c\uc784\uc744 \ub05d\ub0b4\uba74, <FC 0,128,0>\uae30\uc5b5\uc758 \uba54\ub2ec<END FC>\uc744 \ubc1b\uc744 \uc790\uaca9\uc774 \uc788\ub2e4\ub294 \uac83\uc744 \uc99d\uba85\ud558\ub294 \uac81\ub2c8\ub2e4.<E>",
+    "message": "<FC 0,128,0>60 초<END FC>이내에 게임을 끝내면, <FC 0,128,0>기억의 메달<END FC>을 받을 자격이 있다는 것을 증명하는 겁니다.<E>",
     "description": "SphinxText.xls, row 90"
   },
   "HT_Text_MG_Pairs_GameComplete": {
-    "message": "\uadf8\ub9ac\uace0 <FC 0,128,0>\uae30\uc5b5\uc758 \uba54\ub2ec<END FC>\uc744 \uc5bb\uc73c\uc168\uc2b5\ub2c8\ub2e4!<E>",
+    "message": "그리고 <FC 0,128,0>기억의 메달<END FC>을 얻으셨습니다!<E>",
     "description": "SphinxText.xls, row 91"
   },
   "HT_Text_MG_Pairs_TooLong": {
-    "message": "\uadf8\ub9cc, \uc2dc\uac04\uc774 \ub108\ubb34 \ud758\ub800\ub124\uc694, \uc720\uac10\uc785\ub2c8\ub2e4\ub9cc, \uc774 \uac8c\uc784\uc744 \uba48\ucd94\uaca0\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "그만, 시간이 너무 흘렀네요, 유감입니다만, 이 게임을 멈추겠습니다.<E>",
     "description": "SphinxText.xls, row 92"
   },
   "HT_Text_Museum_BC01_Giant_Prawn": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uac9d<END FC> ]---<P>\uace0\ub300\uc758 \ub545\uc758 \uc2e0\uacfc \uac19\uc740 \uc774\ub984\uc744 \uac00\uc9c4, \uac9d\ub4e4\uc740 \ud3c9\ud654\ub85c\uc6b4 \uc0dd\ubb3c\uc774\uc5c8\ub2e4.<P>\uadf8\ub7ec\ub098 \ucd5c\uadfc\uc758 \uadf8\ub4e4\uc740 \uac00\uacf5\ud560 \uac9d \uc5ec\uc655\uc758 \ucda9\uc2e4\ud55c \uc77c\uafbc\uc73c\ub85c\uc368 \uc704\ud611\uc801\uc778 \uc874\uc7ac\uac00 \ub418\uace0 \uc788\ub2e4...<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>겝<END FC> ]---<P>고대의 땅의 신과 같은 이름을 가진, 겝들은 평화로운 생물이었다.<P>그러나 최근의 그들은 가공할 겝 여왕의 충실한 일꾼으로써 위협적인 존재가 되고 있다...<E>",
     "description": "SphinxText.xls, row 94"
   },
   "HT_Text_Museum_BM09_Smiling_burble": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ubbf8\uc18c \uc9d3\ub294 \uac70\ud488<END FC> ]---<P>\uc774 \uc791\uc740 \ubc8c\ub808\ub294 \ubc84\ube14\ub4e4 \uc911\uc5d0\uc11c \uc628\uc21c\ud55c \uc885\uc871 \uc911\uc758 \ud558\ub098\ub85c, \uc774 \uc885\uc758 \ud2b9\uc9d5\uc778 \ud3ed\ubc1c\uc801\uc778 \uc18d\uc131\uc774 \uc0ac\ub77c\uc838 \ubc84\ub838\ub2e4.<P>\uadf8\ub4e4\uc758 \uac15\ub825\ud55c \ubfd4\uc740 \ubc14\uc704\ub97c \uc870\uac01\ub0bc \uc218 \uc788\uc9c0\ub9cc \ubc29\ud5a5\uac10\uac01 \ubd80\uc871\uc73c\ub85c \uadf8 \ud3c9\uc18c\uc758 \uc704\ud5d8\uc131\uc774 \uac10\uc18c\ub418\uc5c8\uc9c0.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>미소 짓는 거품<END FC> ]---<P>이 작은 벌레는 버블들 중에서 온순한 종족 중의 하나로, 이 종의 특징인 폭발적인 속성이 사라져 버렸다.<P>그들의 강력한 뿔은 바위를 조각낼 수 있지만 방향감각 부족으로 그 평소의 위험성이 감소되었지.<E>",
     "description": "SphinxText.xls, row 95"
   },
   "HT_Text_Museum_BM10_i_Cyclops": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc2f8\uc774\ud074\ub86d\uc2a4<END FC> ]---<P>\uc678\ub208\uc774\ub77c\uc11c \ubd99\uc5ec\uc9c4 \uc774\ub984\uc778\ub370, \uc774 \uc774\uc871\ubcf4\ud589 \uc885\uc871\uc740 \ud654\uc5fc, \ubc88\uac1c, \uacf5\uac04 \uc774\ub3d9 \ubc0f \uc790\uae30 \ubcf5\uc81c\uac00 \uac00\ub2a5\ud558\ub2e4.<P>\ud53c\ubd80\uc640 \uba38\ub9ac \uc0c9\uc774 \ud63c\ud569\ub418\uc5b4 \uc885\uc885 \uc5b4\ub5a4 \ubfcc\ub9ac \uc2dd\ubb3c\uacfc \ud63c\ub3d9\ub418\uae30\ub3c4 \ud55c\ub2e4...<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>싸이클롭스<END FC> ]---<P>외눈이라서 붙여진 이름인데, 이 이족보행 종족은 화염, 번개, 공간 이동 및 자기 복제가 가능하다.<P>피부와 머리 색이 혼합되어 종종 어떤 뿌리 식물과 혼동되기도 한다...<E>",
     "description": "SphinxText.xls, row 96"
   },
   "HT_Text_Museum_BM12_slim_burble": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc2ac\ub9bc \ubc84\ube14<END FC> ]---<P>\ub2e4\ub978 \ubc84\ube14\ub4e4\uacfc \ube44\uad50\ud588\uc744 \ub54c, \ud68c\uc804\ud558\ub294 \ubf08\ub300\uac00 \ub450\ub4dc\ub7ec\uc9c0\ub294 \uc2ac\ub9bc \ubc84\ube14\uc740 \ub180\ub784\ub9cc\ud55c \uc18d\ub3c4\ub85c \uc54c\uc744 \ub0b3\uc744 \uc218 \uc788\ub2e4.<P>\ubcbc\ub791 \ubc11\uc5d0 \uc138\uc6cc\uc9c4 \uc0ac\uc721\uc9c0\uc5d0 \uc0b4\uace0, \ubd88 \uac19\uc740 \uc131\uaca9\uc740 \uc0c8\ub86d\uac8c \ud758\ub7ec\ub098\uc624\ub294 \uc6a9\uc554\uc744 \uc8fc\ub85c \uba39\uae30 \ub54c\ubb38\uc774\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>슬림 버블<END FC> ]---<P>다른 버블들과 비교했을 때, 회전하는 뼈대가 두드러지는 슬림 버블은 놀랄만한 속도로 알을 낳을 수 있다.<P>벼랑 밑에 세워진 사육지에 살고, 불 같은 성격은 새롭게 흘러나오는 용암을 주로 먹기 때문이다.<E>",
     "description": "SphinxText.xls, row 97"
   },
   "HT_Text_Museum_BR04_Goofy_Lizard": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc5bc\ube60\uc9c4 \ub3c4\ub9c8\ubc40<END FC> ]---<P>\uc5bc\ube60\uc9c4 \ub3c4\ub9c8\ubc40\uc740 \ubc29\ud5a5\uac10\uac01\uc774 \uc804\ud600 \uc5c6\uae30 \ub54c\ubb38\uc5d0 \uc644\uc804\ud788 \uc0c1\uc2dd \ubc16\uc758 \uc2b5\uc131\uc744 \uac00\uc9c0\uace0 \uc788\ub2e4.<P>\ud604\uc874\ud558\ub294 \uac00\uc7a5 \ud754\ud55c \uae38\ub4e4\uc5ec\uc9c4 \ub3d9\ubb3c\uc774\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>얼빠진 도마뱀<END FC> ]---<P>얼빠진 도마뱀은 방향감각이 전혀 없기 때문에 완전히 상식 밖의 습성을 가지고 있다.<P>현존하는 가장 흔한 길들여진 동물이다.<E>",
     "description": "SphinxText.xls, row 98"
   },
   "HT_Text_Museum_BR05_Dino_Oaf": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ub2e4\uc774\ub178 \uc624\uc6b0\ud504<END FC> ]---<P>\ub2e4\uc774\ub178 \uc624\uc6b0\ud504\ub4e4\uc740 \uc218 \ubc31\ub9cc \ub144 \ub3d9\uc548 \uc874\uc7ac\ud558\uc5ec \uc654\ub2e4, \uc774\ub294 \ucd5c\uadfc \ubc1c\uacac\ub41c \ub3d9\uad74 \ubcbd\ud654\uc5d0\uc11c \uc99d\uba85\ub41c\ub2e4.<P>\uc21c\ud558\uace0 \ud638\uae30\uc2ec \ub9ce\uc740 \uc7a1\uc2dd\uc131\uc73c\ub85c \uc774\ub4e4\uc758 \ud798\uc740 \uc885\uc885 \ud798\ub4e0 \ub18d\uc791\uc77c\uc744 \ub3d5\ub294\ub370 \uc0ac\uc6a9\ub41c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>다이노 오우프<END FC> ]---<P>다이노 오우프들은 수 백만 년 동안 존재하여 왔다, 이는 최근 발견된 동굴 벽화에서 증명된다.<P>순하고 호기심 많은 잡식성으로 이들의 힘은 종종 힘든 농작일을 돕는데 사용된다.<E>",
     "description": "SphinxText.xls, row 99"
   },
   "HT_Text_Museum_BR06_Half_Brute": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ubc18\uc218<END FC> ]---<P>\ubc18\uc218\ub77c\ub294 \uc774\ub984\uc740 \ub450 \ub2e4\ub9ac\ub97c \uac00\uc9c4 \uc774 \uad34\ubb3c\uc758 \uc131\uc9c8\uc744 \uacfc\uc18c\ud3c9\uac00\ud558\ub294 \ub4ef \ud558\ub2e4. \uc8fc\ub85c \uc0ac\ub9c9\uc9c0\uc5ed\uc5d0\uc11c \ubc1c\uacac\ub41c\ub2e4.<P>\uc804\uc218\uc758 \ud6c4\uc190\uc73c\ub85c \uc774 \ud610\uc624\uc2a4\ub7ec\uc6b4 \ub3c4\ub9c8\ubc40\uc740 \ud604\uc7ac \uba78\uc885\ub41c \uac83\uc73c\ub85c \uc54c\ub824\uc838 \uc788\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>반수<END FC> ]---<P>반수라는 이름은 두 다리를 가진 이 괴물의 성질을 과소평가하는 듯 하다. 주로 사막지역에서 발견된다.<P>전수의 후손으로 이 혐오스러운 도마뱀은 현재 멸종된 것으로 알려져 있다.<E>",
     "description": "SphinxText.xls, row 100"
   },
   "HT_Text_Museum_BU01_Mummy_Minotaur": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ubbf8\ub178\ud0c0\uc6b0\ub974\uc2a4 \ubbf8\uc774\ub77c<END FC> ]---<P>\uace0\ub300\uc758 \ubbf8\ub85c\uc758 \uc218\ud638\uc790\ub4e4\uc758 \ud6c4\uc190\uc73c\ub85c \ubbf8\ub178\ud0c0\uc6b0\ub974\uc2a4 \ubbf8\uc774\ub77c\ub4e4\uc740 <FC 128,64,0>\uc774\uc9d1\ud2b8<END FC> \uc554\ud751\uc758 \uc0ac\uc6d0\ub4e4\uc744 \ubc30\ud68c\ud558\uace0 \uc788\ub2e4.<P>\uc785\uc5d0\uc11c \ubfdc\uc5b4\ub0b4\ub294 \ubd88\uc5d0 \ub458\ub7ec \uc313\uc5ec \uc788\uace0, \ud654\uc5fc \uacf5\uaca9\uc740 \ubc15\ubb3c\uad00\uc758 \uc548\uc804\uc744 \uc704\ud574\uc11c \uc911\ud654\ub418\uc5c8\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>미노타우르스 미이라<END FC> ]---<P>고대의 미로의 수호자들의 후손으로 미노타우르스 미이라들은 <FC 128,64,0>이집트<END FC> 암흑의 사원들을 배회하고 있다.<P>입에서 뿜어내는 불에 둘러 쌓여 있고, 화염 공격은 박물관의 안전을 위해서 중화되었다.<E>",
     "description": "SphinxText.xls, row 101"
   },
   "HT_Text_Museum_BU02_Skeletal_Axeman": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ud574\uace8 \ub3c4\ub07c\uafbc<END FC> ]---<P>\uace0\ub300 \uc5b4\ub460\uc758 \uc774\uc9d1\ud2b8 \uad70\uc0ac\uc758 \ubcd1\uc0ac\ub4e4\uc774\ub77c\ub294 \uc18c\ubb38\uc774 \uc788\ub2e4. \uc5b8\ub370\ub4dc\uc758 \uba64\ubc84\ub85c\uc368 \uc774\ub4e4\uc758 \uae30\uc6d0\uc740 \uc54c\ub824\uc838 \uc788\uc9c0 \uc54a\ub2e4.<P>\uc774\uc81c\ub294 \uc138 \uba85 \uc774\uc0c1\uc758 \uadf8\ub8f9\uc73c\ub85c\ub294 \ubaa9\uaca9\ub418\uc9c0 \uc54a\uc9c0\ub9cc \uacfc\uac70\uc5d0\ub294 \ub300\ubd80\ub300\ub97c \ud615\uc131\ud558\uc600\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>해골 도끼꾼<END FC> ]---<P>고대 어둠의 이집트 군사의 병사들이라는 소문이 있다. 언데드의 멤버로써 이들의 기원은 알려져 있지 않다.<P>이제는 세 명 이상의 그룹으로는 목격되지 않지만 과거에는 대부대를 형성하였다.<E>",
     "description": "SphinxText.xls, row 102"
   },
   "HT_Text_Museum_BU03_zombie_man": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc880\ube44<END FC> ]---<P>\uc5b8\ub370\ub4dc\uc758 \uc9c0\uc704\uc5d0 \uc624\ub974\uae30 \uc804\uc5d0, \uc774\ub4e4\uc740 \uac70\ub300\ud55c \uc0ac\uc6d0\ub4e4\uc744 \uc9d3\uae30 \uc704\ud574 \uae38\uace0 \ud798\ub4e0 \ub178\ub3d9\uc744 \ud588\ub358 \ub178\uc608\ub4e4\uc774\uc5c8\ub2e4.<P>\uc880\ube44\ub294 \uc774\uc81c \uadf8\ub4e4\uc5d0\uac8c\uc11c \uc601\uc6d0\ud788 \uba40\uc5b4\uc838 \ubc84\ub9b0 \ud6c4\uc138\ub85c\uc758 \uad00\ubb38\uc744 \ucc3e\uc544\uc11c \ubaa8\ub798 \ub545\uc744 \ud5e4\ub9e4\ub3c4\ub85d \uc800\uc8fc \ubc1b\uc558\ub2e4...<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>좀비<END FC> ]---<P>언데드의 지위에 오르기 전에, 이들은 거대한 사원들을 짓기 위해 길고 힘든 노동을 했던 노예들이었다.<P>좀비는 이제 그들에게서 영원히 멀어져 버린 후세로의 관문을 찾아서 모래 땅을 헤매도록 저주 받았다...<E>",
     "description": "SphinxText.xls, row 103"
   },
   "HT_Text_Museum_BU05_almost_a_bull": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc62c\ubaa8\uc2a4\ud2b8-\uc5b4-\ubd88<END FC> ]---<P><FC 128,64,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4<END FC>\uc5d0\uc11c \uc885\uc885 \ubc1c\uacac\ub418\ub294 \uc62c\ubaa8\uc2a4\ud2b8-\uc5b4-\ubd88\uc758 \ubc29\uc5b4 \uc7a5\uce58\ub294 \uc5b4\ub5a0\ud55c \uc790\ub97c \uc0c1\ub300\ud558\ub354\ub77c\ub3c4 \ub354 \uc791\uc740 \ubaa9\ud45c\ubb3c\ub85c \ubcf4\uc774\uae30 \uc704\ud574 \uc904\uc5b4\ub4e4\ub3c4\ub85d \ud55c\ub2e4.<P>\ud2b9\uc774\ud55c \uc99d\uc2dd\uc758 \uc2e4\uc218\ub85c \uc778\ud558\uc5ec \ud55c \uc190\uc774 \uc138 \ubc88\uc9f8 \ubfd4\ub85c \uad50\uccb4\ub418\uc5c8\ub2e4, \uc774\ub294 \uac70\uc758 \uc9c4\ud654\uc758 \ubcc0\ud0dc\uc774\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>올모스트-어-불<END FC> ]---<P><FC 128,64,0>헬리오폴리스<END FC>에서 종종 발견되는 올모스트-어-불의 방어 장치는 어떠한 자를 상대하더라도 더 작은 목표물로 보이기 위해 줄어들도록 한다.<P>특이한 증식의 실수로 인하여 한 손이 세 번째 뿔로 교체되었다, 이는 거의 진화의 변태이다.<E>",
     "description": "SphinxText.xls, row 104"
   },
   "HT_Text_Museum_BU06_MBird": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ubbf8\uc774\ub77c \uc0c8<END FC> ]---<P>\ubbf8\uc774\ub77c\ub85c \ub9cc\ub4e4\uc5b4\uc84c\uc744 \ub54c, \ubbf8\uc2e0\uc5d0 \ub300\ud56d\ud558\uc5ec \ubcf4\ud638\uc218\ub2e8\uc73c\ub85c \ubbf8\uc774\ub77c \uc0c8\uc758 \ub208 \uc8fc\uc704\uc5d0 \ubd95\ub300\uac00 \uac10\uc2f8\uc84c\ub2e4.<P>\uadf8 \uacb0\uacfc\ub85c, \uc801\ub4e4\uc758 \uc704\uce58\ub97c \ud30c\uc545\ud560 \ub54c \uccad\uac01\uc5d0 \uc758\uc874\ud558\uba70 \uc18c\ub9ac\uac00 \ub098\ub294 \ubc29\ud5a5\uc73c\ub85c \ubc1c\ud1b1\uc744 \ubed7\uce58\uba70 \ub6f0\uc5b4\uc624\ub978\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>미이라 새<END FC> ]---<P>미이라로 만들어졌을 때, 미신에 대항하여 보호수단으로 미이라 새의 눈 주위에 붕대가 감싸졌다.<P>그 결과로, 적들의 위치를 파악할 때 청각에 의존하며 소리가 나는 방향으로 발톱을 뻗치며 뛰어오른다.<E>",
     "description": "SphinxText.xls, row 105"
   },
   "HT_Text_Museum_FL02_Featherless_Turkey": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uae43\ud138 \uc5c6\ub294 \uce60\uba74\uc870<END FC> ]---<P>\ube60\ub974\uace0 \uac04\ub2e8\ud55c \uc74c\uc2dd \ucc98\ub9ac\ub97c \uc704\ud574 \ud2b9\ubcc4\ud788 \uac1c\ub7c9\ub41c \uae43\ud138 \uc5c6\ub294 \uce60\uba74\uc870\ub294 \uc138\uc6d4\uc774 \ud750\ub974\uba74\uc11c \ubcf5\ud569\uccb4\ub97c \uac1c\ubc1c\ud574\ub0c8\ub2e4.<P>\uc774\ub4e4\uc740 \uadfc\ucc98\uc758 \ub204\uad6c\ub77c\ub3c4 \ub4e4\uc774\ubc1b\uc73c\uba70, \uc790\uc2e0\uc758 \uae43\ud138\uc744 \uc783\uc5b4\ubc84\ub9ac\uac8c \ub41c \uac83\uc744 \uc601\uc5ed\uc5d0 \ub4e4\uc5b4\uc624\ub294 \ubaa8\ub4e0 \uc0dd\ubb3c\uc758 \ud0d3\uc73c\ub85c \ub3cc\ub9ac\ub824\ub294 \ub4ef \ud558\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>깃털 없는 칠면조<END FC> ]---<P>빠르고 간단한 음식 처리를 위해 특별히 개량된 깃털 없는 칠면조는 세월이 흐르면서 복합체를 개발해냈다.<P>이들은 근처의 누구라도 들이받으며, 자신의 깃털을 잃어버리게 된 것을 영역에 들어오는 모든 생물의 탓으로 돌리려는 듯 하다.<E>",
     "description": "SphinxText.xls, row 106"
   },
   "HT_Text_Museum_FL03_shuttlecock_bird": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc154\ud2c0\ucf55 \uc0c8<END FC> ]---<P>\uc154\ud2c0\ucf55 \uc0c8\ub294 \ube44\ub85d \ud55c \ubc88\uc5d0 \uc9e7\uc740 \uac70\ub9ac\ubc16\uc5d0 \ub0a0 \uc218 \uc5c6\uc9c0\ub9cc, \ud558\ub098\ubfd0\uc778 \ub2e4\ub9ac\ub294 \ub300\ub2e8\ud55c \uc810\ud504\ub825\uc744 \uc9c0\ub2c8\uace0 \uc788\ub2e4. <P>\ub3c5\ud2b9\ud558\uac8c \ubc30\uc5f4\ub41c \uba38\ub9ac\uc8fc\uc704\uc758 \ub0a0\uac1c\ub294 \uacf5\uaca9\ud558\uae30 \uc704\ud574 \ub3cc\uc9c4\ud560 \ub54c\ub97c \uc704\ud574 \uacf5\uae30\uc5ed\ud559\uc801\uc73c\ub85c \ub9cc\ub4e4\uc5b4\uc84c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>셔틀콕 새<END FC> ]---<P>셔틀콕 새는 비록 한 번에 짧은 거리밖에 날 수 없지만, 하나뿐인 다리는 대단한 점프력을 지니고 있다. <P>독특하게 배열된 머리주위의 날개는 공격하기 위해 돌진할 때를 위해 공기역학적으로 만들어졌다.<E>",
     "description": "SphinxText.xls, row 107"
   },
   "HT_Text_Museum_HD02_Cat": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ub098\uc774\ud504 \uace0\uc591\uc774<END FC> ]---<P>\ud06c\ub7a9\ud578\ub4dc\ub4e4\uc758 \ud6e8\uc52c \ube60\ub974\uace0 \ub354\uc6b1 \uce58\uba85\uc801\uc778 \uce5c\ucc99 \ubed8\ub85c, \ube44\uc0c1\ud55c \uccad\uac01\uc744 \uc18c\uc720\ud558\uace0 \uc788\ub2e4.<P>\uc678\ud615\uc740 \ud734\uba38\ub178\uc774\ub4dc\uc774\uc9c0\ub9cc, \uace0\uc591\uc774\ub77c\ub294 \uc774\ub984\uc758 \ubc18\ucabd\uc774 \uc758\ubbf8\ud558\ub294 \uac83\uc744 \uc774\ud574\ud558\ub824\uba74 \ub098\uc774\ud504 \uace0\uc591\uc774\uac00 \uc0ac\ub0e5\ud558\ub294 \uac83\uc744 \ubaa9\uaca9\ud558\uc5ec\uc57c\ub9cc \ud560 \uac83\uc774\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>나이프 고양이<END FC> ]---<P>크랩핸드들의 훨씬 빠르고 더욱 치명적인 친척 뻘로, 비상한 청각을 소유하고 있다.<P>외형은 휴머노이드이지만, 고양이라는 이름의 반쪽이 의미하는 것을 이해하려면 나이프 고양이가 사냥하는 것을 목격하여야만 할 것이다.<E>",
     "description": "SphinxText.xls, row 108"
   },
   "HT_Text_Museum_HD03_BigBull": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uac70\ub300\ud55c \ud669\uc18c<END FC> ]---<P>\ub9dd\uce58\ub97c \ud718\ub450\ub974\ub294 \uc774 \uad34\ubb3c\uc740 \ub098\uc05c \uc131\uaca9\uc73c\ub85c \ub110\ub9ac \uc54c\ub824\uc838 \uc788\ub2e4.<P>\uc5b4\ub9c8\uc5b4\ub9c8\ud55c \ud06c\uae30\uc758 \ubb34\uae30\ub294 \ubc29\ud328\uac00 \ub530\ub85c \ud544\uc694 \uc5c6\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>거대한 황소<END FC> ]---<P>망치를 휘두르는 이 괴물은 나쁜 성격으로 널리 알려져 있다.<P>어마어마한 크기의 무기는 방패가 따로 필요 없다.<E>",
     "description": "SphinxText.xls, row 109"
   },
   "HT_Text_Museum_HD14_Crab": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ud06c\ub7a9\ud578\ub4dc<END FC> ]---<P>\uc774 \uad34\ubb3c\uc740 \ud734\uba38\ub178\uc774\ub4dc\uc640 \uac11\uac01\ub958\uc758 \uc870\ud569\uc774\uba70 \ub300\ub959\uc804\uccb4\uc5d0\uc11c \ubc1c\uacac\ub41c\ub2e4.<P>\ud06c\ub7a9\ud578\ub4dc\ub97c \uc7a5\uc2dd\ud558\ub294 \ud669\uae08 \uac11\uc637 \ud50c\ub808\uc774\ud2b8\ub294 \ubab8\uc5d0 \uc601\uad6c\ud788 \uc7a5\ucc29\ub418\uc5b4 \uc788\uc73c\uba70 \uc131\uc7a5\uc744 \uac00\ub2a5\ud558\uac8c \ud558\uae30 \uc704\ud558\uc5ec \ub9c8\ubc95\uc774 \uac78\ub824\uc788\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>크랩핸드<END FC> ]---<P>이 괴물은 휴머노이드와 갑각류의 조합이며 대륙전체에서 발견된다.<P>크랩핸드를 장식하는 황금 갑옷 플레이트는 몸에 영구히 장착되어 있으며 성장을 가능하게 하기 위하여 마법이 걸려있다.<E>",
     "description": "SphinxText.xls, row 110"
   },
   "HT_Text_Museum_HD17_Sharpbeak": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ub0a0\uce74\ub85c\uc6b4 \ubd80\ub9ac<END FC> ]---<P>\ub0a0\uce74\ub85c\uc6b4 \ubd80\ub9ac\uc758 \ub0a0\uc52c\ud55c \uc678\ud615\uc740 \uc720\uc5f0\ud55c \uc804\uc0ac\ub97c \ub9cc\ub4e4\uc5c8\uace0 \uc774\ub4e4\uc740 \uac80\uc220\uc744 \uc798 \ud6c8\ub828 \ubc1b\uc558\ub2e4.<P>\ub3c4\ub9c8\ubc40\uacfc \uc0c8\uc758 \uc774\ub7f0 \ud2b9\uc774\ud55c \ud569\uc131\uc740 \ud751\ub9c8\ubc95\uc774 \uc6d0\uc778\uc774\ub77c\ub294 \uc18c\ubb38\uc774 \uc788\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>날카로운 부리<END FC> ]---<P>날카로운 부리의 날씬한 외형은 유연한 전사를 만들었고 이들은 검술을 잘 훈련 받았다.<P>도마뱀과 새의 이런 특이한 합성은 흑마법이 원인이라는 소문이 있다.<E>",
     "description": "SphinxText.xls, row 111"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ud574\uace8 \uc22d\ubc30\uc790<END FC> ]---<P>\uc545\uc758 \ud798\uc5d0 \uac15\ub825\ud55c \ub3d9\ubc18\uc790\ub85c \uae30\uc220\uc774 \ub6f0\uc5b4\ub098\uace0 \ub3d9\uc2dc\uc5d0 \ubb34\uc790\ube44\ud55c \uc804\ud22c\uc0ac\ub4e4\uc774\ub2e4.<P>- \uc774\ub4e4\uc758 \uac70\uc8fc\uc9c0\ub294 \ud574\uace8\ub85c \uc7a5\uc2dd\ub418\uc5b4 \uc788\ub2e4 - \ub77c\uace0 \uc804\ud55c \ud0c8\ucd9c\ud55c \uc790\uc758 \ub9d0\uc5d0 \uc758\ud558\ub354\ub77c\ub3c4 \ud574\uace8 \uc22d\ubc30\uc790\uac00 \uc815\ud655\ud788 \uadf8\ub7ec\ud558\ub2e4\ub294 \uac83\uc744 \uc99d\uba85\ud55c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>해골 숭배자<END FC> ]---<P>악의 힘에 강력한 동반자로 기술이 뛰어나고 동시에 무자비한 전투사들이다.<P>- 이들의 거주지는 해골로 장식되어 있다 - 라고 전한 탈출한 자의 말에 의하더라도 해골 숭배자가 정확히 그러하다는 것을 증명한다.<E>",
     "description": "SphinxText.xls, row 112"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc5b4\ub460\uc758 \uc22d\ubc30\uc790<END FC> ]---<P>\ud0d0\ud5d8\uac00\ub4e4\uc740 \uc5b4\ub5a0\ud55c \uc131\uc758 \uadf8\ub9bc\uc790\ub77c\ub3c4 \uc870\uc2ec\uc2a4\ub7fd\uac8c \uc811\uadfc\ud574\uc57c \ud55c\ub2e4, \uadf8 \uc774\uc720\ub294 \uc5b4\ub460\uc758 \uc22d\ubc30\uc790\uac00 \uc5b4\ub460\uc5d0\uc11c \uc11c\uc131\uac70\ub9b4 \uc218 \uc788\uae30 \ub54c\ubb38\uc774\ub2e4.<P>\ud604\uc138\uc640 \uc0ac\ud6c4 \uc138\uacc4 \uc0ac\uc774\uc5d0 \uac07\ud600\uc788\ub294 \uc804\uc0ac\ub4e4\uc758 \uc601\ud63c\uc744 \uace0\ubb38\ud558\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc838 \uc788\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>어둠의 숭배자<END FC> ]---<P>탐험가들은 어떠한 성의 그림자라도 조심스럽게 접근해야 한다, 그 이유는 어둠의 숭배자가 어둠에서 서성거릴 수 있기 때문이다.<P>현세와 사후 세계 사이에 갇혀있는 전사들의 영혼을 고문하는 것으로 알려져 있다.<E>",
     "description": "SphinxText.xls, row 113"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ud574\uace8 \uac80\uc0ac<END FC> ]---<P>\ub2e4\uc591\ud55c \uac80\uc220\uc5d0 \uace0\ub3c4\ub85c \ud6c8\ub828\ub418\uc5b4 \uc788\uc73c\uba70 \uce58\uba85\uc801\uc778 \uc801\uad70\uc774\ub2e4.<P>\ud574\uace8 \uc22d\ubc30\uc790\ub4e4\uacfc \uc720\uc0ac\ud558\uac8c, \ubd80\ub52a\ud788\uba74 \uc601\ud63c\uc758 \ubcf8\uc9c8\uc744 \ubf51\uc544\ubc84\ub9ac\ub294 \ud574\uace8 \uc720\ub839\uc744 \uc18c\ud658\ud560 \uc218\ub3c4 \uc788\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>해골 검사<END FC> ]---<P>다양한 검술에 고도로 훈련되어 있으며 치명적인 적군이다.<P>해골 숭배자들과 유사하게, 부딪히면 영혼의 본질을 뽑아버리는 해골 유령을 소환할 수도 있다.<E>",
     "description": "SphinxText.xls, row 114"
   },
   "HT_Text_Museum_IN01_Green_Giant_worm": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ub300\ud615 \ucd08\ub85d \ubc8c\ub808<END FC> ]---<P>\uc54c\ub824\uc9c4 \ucd5c\ub300\uc758 \ubb34\ucc99\ucd94 \uc0dd\ubb3c\ub85c\uc368, \ud604\uc874\ud558\ub294 \uba87 \uc548 \ub418\ub294 \uc721\uc2dd \ubc8c\ub808\ub4e4 \uc911 \ud558\ub098\uc774\uae30\ub3c4 \ud558\ub2e4.<P>\ub300\ud615 \ucd08\ub85d \ubc8c\ub808\ub4e4\uc740 \uadf8\ub4e4\uc758 \uc9c0\ud558 \ud130\ub110 \ub124\ud2b8\uc6cc\ud06c\ub85c\uc758 \uc785\uad6c\ub97c \ub3c5\ud2b9\ud558\uac8c \ubc29\uc5b4\ud558\uc5ec\uc11c \uadf8\ub4e4\uc758 \uc874\uc7ac\ub97c \uc0ac\uc804 \uacbd\uace0\ub97c \ud558\uace0 \uc788\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>대형 초록 벌레<END FC> ]---<P>알려진 최대의 무척추 생물로써, 현존하는 몇 안 되는 육식 벌레들 중 하나이기도 하다.<P>대형 초록 벌레들은 그들의 지하 터널 네트워크로의 입구를 독특하게 방어하여서 그들의 존재를 사전 경고를 하고 있다.<E>",
     "description": "SphinxText.xls, row 115"
   },
   "HT_Text_Museum_IN07_Blade_Scorpion": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uce7c\ub0a0 \uc804\uac08<END FC> ]---<P>\uac8c\uc640 \uc720\uc0ac\ud55c \uc774 \uac70\ubbf8\ub958\ub294 \uc77c\ubc18 \uc804\uac08\uacfc\ub294 \ub9e4\uc6b0 \ub2e4\ub978 \uaf2c\ub9ac \uad00\uc808\uc744 \uac00\uc9c0\uace0 \uc788\ub2e4.<P>\uaf2c\ub9ac\uc758 \ub05d\ubd80\ubd84\uc5d0 \uce58\uba85\uc801\uc778 \uce68\uc744 \uac00\uc9c0\uace0 \ub2e4\ub2c8\ub294 \uac83 \uc774\uc678\uc5d0\ub3c4 \uc774 \uce7c\ub0a0 \uc804\uac08\uc758 \uaf2c\ub9ac \uc790\uccb4\uac00 \uce58\uba85\uc801\uc774\uace0, \uba74\ub3c4\ub0a0\ucc98\ub7fc \ub0a0\uce74\ub85c\uc6b4 \ub0a0\uc744 \uac00\uc9c0\uace0 \uc788\uc5b4, \ubc29\uc5b4\uad6c \uc870\ucc28\ub3c4 \ub6ab\uc5b4\ubc84\ub9b4 \uc218 \uc788\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>칼날 전갈<END FC> ]---<P>게와 유사한 이 거미류는 일반 전갈과는 매우 다른 꼬리 관절을 가지고 있다.<P>꼬리의 끝부분에 치명적인 침을 가지고 다니는 것 이외에도 이 칼날 전갈의 꼬리 자체가 치명적이고, 면도날처럼 날카로운 날을 가지고 있어, 방어구 조차도 뚫어버릴 수 있다.<E>",
     "description": "SphinxText.xls, row 116"
   },
   "HT_Text_Museum_IN09_Sak_Spike_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc2a4\ud30c\uc774\ud06c \uac70\ubbf8<END FC> ]---<P>\uac70\ubbf8\ub958 \uc911 \uac00\uc7a5 \uc791\uc740 \uc885\ub958\ub77c\uace0 \ucd94\uc815\ub418\uba70 \uac15\ub825\ud55c \ub2e4\ub9ac\uc5d0 \uc758\ud558\uc5ec \ub2e4\ub978 \uc885\ub958\uc5d0 \ube44\ud574 \ubbfc\ucca9\ud558\ub2e4.<P>\uc2a4\ud30c\uc774\ud06c \uac70\ubbf8\ub294 \ubb34\ub9ac\ub97c \uc838 \ub2e4\ub2c8\ub294 \uc0ac\ub0e5\uafbc\uc774\uba70, \uc774 \ubb34\ub9ac\ub294 \uc801\uc744 \ub458\ub7ec \uc2f8\uace0 \ubaa8\ub4e0 \ubc29\ud5a5\uc5d0\uc11c \ub3d9\uc2dc\uc5d0 \uacf5\uaca9\uc744 \ud55c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>스파이크 거미<END FC> ]---<P>거미류 중 가장 작은 종류라고 추정되며 강력한 다리에 의하여 다른 종류에 비해 민첩하다.<P>스파이크 거미는 무리를 져 다니는 사냥꾼이며, 이 무리는 적을 둘러 싸고 모든 방향에서 동시에 공격을 한다.<E>",
     "description": "SphinxText.xls, row 117"
   },
   "HT_Text_Museum_PI01_Piranha": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ud53c\ub77c\ub0d0<END FC> ]---<P>\uc2e0\ube44\ud558\uace0 \uba40\ub9ac \ub5a8\uc5b4\uc9c4 \ub300\ub959\uc774 \uc6d0\uc0b0\uc9c0\uc778 \ub09c\ud3ed\ud55c \ubb3c\uace0\uae30. \uc774 \ub300\ub959\uc5d0\uc11c \ubc1c\uacac\ub418\ub294 \uac83\ub4e4\uc740 \ub2e4\ub978 \ub300\ub959\uc758 \uac83\ub4e4\ucc98\ub7fc \uc655\uc131\ud55c \uc2dd\uc131\uc744 \uc9c0\ub2c8\uace0 \uc788\ub2e4.<P>\uc950\uc640 \ud761\uc0ac\ud558\uac8c, \ucd5c\uadfc \uba87 \ub144 \ub3d9\uc548 \ud53c\ub77c\ub0d0\ub294 \ud070 \ub9c8\uc744\ub4e4\uc5d0\uc11c \uc99d\uc2dd\ud558\uc5ec \uc704\ud611\uc774 \ub418\uc5c8\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>피라냐<END FC> ]---<P>신비하고 멀리 떨어진 대륙이 원산지인 난폭한 물고기. 이 대륙에서 발견되는 것들은 다른 대륙의 것들처럼 왕성한 식성을 지니고 있다.<P>쥐와 흡사하게, 최근 몇 년 동안 피라냐는 큰 마을들에서 증식하여 위협이 되었다.<E>",
     "description": "SphinxText.xls, row 118"
   },
   "HT_Text_Museum_PI01_Hard_Piranha": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uacac\uac11 \ud53c\ub77c\ub0d0<END FC> ]---<P>\uacac\uac11 \ud53c\ub77c\ub0d0\ub294 \uc678\ubd80 \ubf08\ub300\uac00 \uc788\uc5b4, \ubbff\uc744 \uc218 \uc5c6\ub294 \ud68c\ubcf5\ub825\uc744 \uac00\uc9c0\uace0 \uc788\ub2e4.<P>\uc54c\ub824\uc9c4 \ub2e4\ub978 \ud53c\ub77c\ub0d0 \uc885\ub958\ubcf4\ub2e4 \ub354 \ube60\ub974\uace0 \uc601\uc545\ud558\uc5ec, \uc774\ub4e4\uc774 \uac00\ud55c\ub2e4\uace0 \uc54c\ub824\uc9c4 \uc0c1\ucc98\ub9cc\ud07c\uc774\ub098 \ucd94\ud55c \ubaa8\uc2b5\uc744 \ud558\uace0 \uc788\ub2e4\ub294 \uac83\uc740 \ubd80\uc815\ud560 \uc218 \uc5c6\ub294 \uc0ac\uc2e4\uc774\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>견갑 피라냐<END FC> ]---<P>견갑 피라냐는 외부 뼈대가 있어, 믿을 수 없는 회복력을 가지고 있다.<P>알려진 다른 피라냐 종류보다 더 빠르고 영악하여, 이들이 가한다고 알려진 상처만큼이나 추한 모습을 하고 있다는 것은 부정할 수 없는 사실이다.<E>",
     "description": "SphinxText.xls, row 119"
   },
   "HT_Text_Museum_PL02_Tree_Creature": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ub098\ubb34 \uc0dd\ubb3c<END FC> ]---<P>\ub098\ubb34 \uc0dd\ubb3c\uc740 \ud0c4\uc0dd\uc73c\ub85c\ubd80\ud130 \ub9c8\ubc95\uc758 \ub2a5\ub825\uc744 \uc9c0\ub2c8\uace0 \uc788\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc838 \uc788\ub294 \uc2dd\ubb3c\ub4e4 \uc911 \ud558\ub098\uc774\ub2e4.<P>\uba38\ub9ac \uc704\uc5d0\uc11c \ubc1c\uc0b0\ud558\ub294 \ube5b\uc758 \ub9e4\ud639\uc801\uc778 \uc12c\uad11\uc73c\ub85c \ud63c\ub780 \uc2dc\ud0a4\uace0 \ub545 \ubc11\uc758 \ubfcc\ub9ac\uac00 \ub545\uc744 \ud1b5\ud574 \ube60\ub974\uac8c \ud130\uc9c0\uba74\uc11c \uacf5\uaca9\uc744 \ud55c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>나무 생물<END FC> ]---<P>나무 생물은 탄생으로부터 마법의 능력을 지니고 있는 것으로 알려져 있는 식물들 중 하나이다.<P>머리 위에서 발산하는 빛의 매혹적인 섬광으로 혼란 시키고 땅 밑의 뿌리가 땅을 통해 빠르게 터지면서 공격을 한다.<E>",
     "description": "SphinxText.xls, row 120"
   },
   "HT_Text_Museum_PL04_Sunflower_With_Face": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ud574\ubc14\ub77c\uae30<END FC> ]---<P>\uc774 \uc0ac\ucca0 \uc2dd\ubb3c\uc740 \uc218 \ubc31\ub144\uc744 \uc0ac\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc838 \uc788\ub2e4.<P>\ub300\ubd80\ubd84\uc758 \uc2dc\uac04\uc5d0\ub294 \uc815\uc9c0\ud558\uace0 \uc788\uc73c\ub098 \uc704\ud611\uc744 \ubc1b\uc73c\uba74 \uae68\uc5b4\ub098\uc11c \uc138 \uac1c\uc758 \ud3ec\uc790\ub97c \ub3d9\uc2dc\uc5d0 \ubc1c\uc0ac\ud558\uc5ec \uacf5\uaca9\ud55c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>해바라기<END FC> ]---<P>이 사철 식물은 수 백년을 사는 것으로 알려져 있다.<P>대부분의 시간에는 정지하고 있으나 위협을 받으면 깨어나서 세 개의 포자를 동시에 발사하여 공격한다.<E>",
     "description": "SphinxText.xls, row 121"
   },
   "HT_Text_Museum_QC01_Pokemon": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uaecd\uc9c8 \uad34\ubb3c<END FC> ]---<P>\ubd80\ub044\ub7ec\uc6c0\uc744 \ud0c0\ub294 \uc774 \ucd08\uc2dd\uc131 \ud30c\ucda9\ub958\ub294 \uc77c\uc0dd\uc758 \ub300\ubd80\ubd84\uc744 \uaecd\ub370\uae30 \uc548\uc5d0\uc11c \ubcf4\ub0b4\ub294 \uac83\uc73c\ub85c \uc798 \uc54c\ub824\uc838 \uc788\ub2e4.<P>\ub110\ub9ac \ubd84\ud3ec\ub418\uc5b4 \uc788\uc9c0\ub9cc \uaecd\uc9c8 \uad34\ubb3c\ub4e4\uc5d0\uac8c \uac00\ud574\uc9c4 \uc2ec\ud55c \uc794\ud639\ud55c \ud589\uc704\uc5d0 \uc758\ud558\uc5ec \ubcf4\ud638\ubc1b\ub294 \uc0dd\ubb3c\ub85c \uc9c0\uc815\ub418\uc5c8\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>껍질 괴물<END FC> ]---<P>부끄러움을 타는 이 초식성 파충류는 일생의 대부분을 껍데기 안에서 보내는 것으로 잘 알려져 있다.<P>널리 분포되어 있지만 껍질 괴물들에게 가해진 심한 잔혹한 행위에 의하여 보호받는 생물로 지정되었다.<E>",
     "description": "SphinxText.xls, row 122"
   },
   "HT_Text_Museum_QR04_Sak_Nose_Needler": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ub178\uc6b0\uc988 \ub2c8\ub4e4\ub7ec<END FC> ]---<P>\ub178\uc6b0\uc988 \ub2c8\ub4e4\ub7ec\ub294 \uc774\ub4e4\uc758 \uc801\uc774 \ubd84\ub178\ud558\uc5ec \ud310\ub2e8\ub825\uc744 \uc783\uc744 \ub54c\uac00\uc9c0 \ucc0c\ub974\ub294 \uacf5\uaca9\uc744 \ud55c\ub2e4. <P>\ubd80\ub4dc\ub7ec\uc6b4 \ud1a0\uc591\uc5d0\uc11c \uc0c1\ub2f9\ud55c \uc18d\ub3c4\ub85c \ub545 \uc18d\uc5d0 \uc228\uc5b4 \ub4e4\uc5b4\uac00\uba70 \uc7a0\uae50 \ub545 \uc704\ub85c \ub098\uc640 \ub545 \ubc11\uc73c\ub85c \ub4e4\uc5b4\uac00\uae30 \uc804\uc5d0 \uc801\uc5d0\uac8c \ubd80\uc2dd\uc131 \ub3cc\uc744 \ub358\uc9c0\ub294 \uc808\ucc28\ub97c \ubc18\ubcf5\ud55c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>노우즈 니들러<END FC> ]---<P>노우즈 니들러는 이들의 적이 분노하여 판단력을 잃을 때가지 찌르는 공격을 한다. <P>부드러운 토양에서 상당한 속도로 땅 속에 숨어 들어가며 잠깐 땅 위로 나와 땅 밑으로 들어가기 전에 적에게 부식성 돌을 던지는 절차를 반복한다.<E>",
     "description": "SphinxText.xls, row 123"
   },
   "HT_Text_Museum_QU01_Skeletal_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ud574\uace8 \uac70\ubbf8<END FC> ]---<P>\uadf8\ub4e4 \uc885\uc5d0\uc11c \uac00\uc7a5 \ub3c5\ud2b9\ud55c \uc678\ubaa8\ub97c \uac00\uc9c4 \ud574\uace8 \uac70\ubbf8\ub294 \ucc99\ucd94\uc758 \ube44\uc0c1\ud55c \uc218\uc9c1 \uc131\uc7a5\uc774 \ub450\ub4dc\ub7ec\uc9c4\ub2e4.<P><FC 128,64,0>\uc6b0\ub8e8\ud06c<END FC>\uac00 \uc6d0\uc0b0\uc9c0\uc778 \uc774\ub4e4\uc758 \uc0b4 \uc5c6\ub294 \ubab8\ud1b5\uc740, \uadf8 \uacf3\uc758 \ud3ed\uc5fc\uc5d0 \uac70\uc758 \uc601\ud5a5\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>해골 거미<END FC> ]---<P>그들 종에서 가장 독특한 외모를 가진 해골 거미는 척추의 비상한 수직 성장이 두드러진다.<P><FC 128,64,0>우루크<END FC>가 원산지인 이들의 살 없는 몸통은, 그 곳의 폭염에 거의 영향을 받지 않는다.<E>",
     "description": "SphinxText.xls, row 124"
   },
   "HT_Text_Museum_QU02_Skeletal_Armadillo": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc544\ub974\ub9c8\ub51c\ub85c<END FC> ]---<P>\uc774 \ud2b9\uc774\ud55c \ub4a4\ub6b1\uac70\ub9ac\ub294 \ub2e4\ub9ac \ub124 \uac1c\uc758 \ub3d9\ubb3c\ub4e4\uc740 \ud3c9\uc0c1\uc2dc \ub290\ub9b0 \uc18d\ub3c4\ub85c \uac77\ub294\ub2e4. \uc774\ub4e4\uc758 \ub2e8\ub2e8\ud55c \uaecd\ub370\uae30\ub294 \ub545\uc5d0\uc11c \ud68c\uc804\ud560 \ub54c, \ubb34\uae30\ub85c\uc368 \ub450 \ubc30\uc758 \uc704\ub825\uc744 \uac00\uc9c4\ub2e4.<P>\uba87\uba87 \uad6c\uc804\ub3d9\ud654\uc5d0\uc11c\ub294 \uc774\ub4e4\uc758 \uae30\uc6d0\uc774 \ub450\ub354\uc9c0\uc640 \uc790\ub77c\uc758 \ud569\uc131\uc774\ub77c\uace0 \ud55c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>아르마딜로<END FC> ]---<P>이 특이한 뒤뚱거리는 다리 네 개의 동물들은 평상시 느린 속도로 걷는다. 이들의 단단한 껍데기는 땅에서 회전할 때, 무기로써 두 배의 위력을 가진다.<P>몇몇 구전동화에서는 이들의 기원이 두더지와 자라의 합성이라고 한다.<E>",
     "description": "SphinxText.xls, row 125"
   },
   "HT_Text_Museum_QU04_Mummy_Chihuahua": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uce58\uc640\uc640 \ubbf8\uc774\ub77c<END FC> ]---<P>\uce58\uc640\uc640\ub294 \uc791\uc740 \ubab8\uccb4\uc640 \ubd80\ub4dc\ub7ec\uc6b4 \ud138\uc744 \uac00\uc9c4 \uac1c\uc774\ub2e4. \ubbf8\uc774\ub77c\ub85c \ub9cc\ub4dc\ub294 \uacfc\uc815\uc740 \uadf8\ub4e4\uc758 \uc8fd\uc9c0 \uc54a\uc740 \ub3d9\ub8cc\ub4e4\uc744 \ub9e4\uc6b0 \uacf5\uaca9\uc801\uc73c\ub85c \ub9cc\ub4e4\uc5c8\ub2e4.<P>\uc804 \ud30c\ub77c\uc624\uc758 \uc560\uc644\ub3d9\ubb3c\ub85c\uc368 \uc8fc\uc778\uacfc \ud568\uaed8 \ubb34\ub364\uc73c\ub85c \uac14\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>치와와 미이라<END FC> ]---<P>치와와는 작은 몸체와 부드러운 털을 가진 개이다. 미이라로 만드는 과정은 그들의 죽지 않은 동료들을 매우 공격적으로 만들었다.<P>전 파라오의 애완동물로써 주인과 함께 무덤으로 갔다.<E>",
     "description": "SphinxText.xls, row 126"
   },
   "HT_Text_Museum_QU05_skeletal_waspspider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ub9d0\ubc8c \uac70\ubbf8<END FC> ]---<P>\ub290\ub9b0 \uac70\ubbf8\ub958\uc758 \ud558\ub098\ub85c, \uc774\ub4e4\uc758 \ubc1c\ud1b1 \ub05d\uc5d0\ub294 \uac15\ub825\ud55c \uce68\uc774 \uc788\ub2e4.<P>\ub9d0\ubc8c \uac70\ubbf8\ub294 \ud574\ubcc0\uc9c0\uc5ed\uc5d0\uc11c \ucc3e\uc744 \uc218 \uc788\ub294 \uc2dc\uc6d0\ud55c \ubc14\ub78c\uc744 \uc88b\uc544\ud55c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>말벌 거미<END FC> ]---<P>느린 거미류의 하나로, 이들의 발톱 끝에는 강력한 침이 있다.<P>말벌 거미는 해변지역에서 찾을 수 있는 시원한 바람을 좋아한다.<E>",
     "description": "SphinxText.xls, row 127"
   },
   "HT_Text_Museum_QU06_Mummy_Worm": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ubc8c\ub808 \ubbf8\uc774\ub77c<END FC> ]---<P>\ucc99\ucd94\uac00 \uc5c6\ub294 \uc5b8\ub370\ub4dc\ub85c\uc368, \ub3c5\uae30 \uc788\ub294 \ud654\uc5fc\uacf5\uc744 \ub0b4\ubc49\ub294\ub2e4.<P>\ud55c \uc9c0\uc810\uc5d0 \uc815\ucc29\ud558\uc5ec \ub545\uc18d\uc73c\ub85c \ud30c\uace0\ub4e4\uc5b4\uac08 \uc218 \uc5c6\ub294 \uc774\ub4e4\uc740 \uc885\uc885 \uc6d0\ud558\uc9c0 \uc54a\ub294 \ubc29\ubb38\uac1d\ub4e4\uc744 \ucad3\uc544\ubc84\ub9ac\ub294 \ubcf4\ucd08\ub85c\uc368 \ubcf4\uad00\ub41c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>벌레 미이라<END FC> ]---<P>척추가 없는 언데드로써, 독기 있는 화염공을 내뱉는다.<P>한 지점에 정착하여 땅속으로 파고들어갈 수 없는 이들은 종종 원하지 않는 방문객들을 쫓아버리는 보초로써 보관된다.<E>",
     "description": "SphinxText.xls, row 128"
   },
   "HT_Text_Museum_QU09_Rat": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc950<END FC> ]---<P>\ubcd1\uc744 \uc804\uc5fc\uc2dc\ud0a4\ub294 \ub2a5\ub825\uc73c\ub85c \uc798 \uc54c\ub824\uc9c4 \ud070 \uc124\uce58\ub958\ub294 \ud558\uc218\uad6c \uc678 \ub2e4\ub978 \uc704\uc0dd\uc0c1\ud0dc\uac00 \uc88b\uc9c0 \uc54a\uc740 \uc9c0\uc5ed\uc5d0\uc11c \uc885\uc885 \ubc1c\uacac\ub41c\ub2e4.<P>\"\uc950\"\ub77c\ub294 \uc774\ub984\uc740 \ub610\ud55c \ubbff\uc744 \uc218 \uc5c6\ub294 \uc0ac\ub78c\uc744 \ub098\ud0c0\ub0b4\uae30\ub97c \uc704\ud574\uc11c\ub3c4 \uc0ac\uc6a9\ub41c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>쥐<END FC> ]---<P>병을 전염시키는 능력으로 잘 알려진 큰 설치류는 하수구 외 다른 위생상태가 좋지 않은 지역에서 종종 발견된다.<P>\"쥐\"라는 이름은 또한 믿을 수 없는 사람을 나타내기를 위해서도 사용된다.<E>",
     "description": "SphinxText.xls, row 129"
   },
   "HT_Text_Museum_PI04_Spinefish": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ucc99\ucd94\ubb3c\uace0\uae30<END FC> ]---<P>\ucc99\ucd94\ubb3c\uace0\uae30\uc758 \uc544\ub984\ub2e4\uc6b4 \uc9c0\ub290\ub7ec\ubbf8\ub294 \uce68\ub7b5\uc790\ub4e4\uc744 \ubb3c\ub9ac\uce58\uae30 \uc704\ud574 \uc0ac\uc6a9\ud558\ub294 \ub9f9\ub3c5\uc758 \ucc99\ucd94\ub97c \uac10\ucd94\uace0 \uc788\ub2e4.<P>\ucc99\ucd94\ubb3c\uace0\uae30\ub294 \uc601\uc5ed\uc5d0 \ub9e4\uc6b0 \ubbfc\uac10\ud55c \ub3d9\ubb3c\uc774\uae30 \ub54c\ubb38\uc5d0, \uace0\uc704\uce35\uc5d0\uc11c \uadf8\ub4e4\uc758 \uc131\ubcbd\uc758 \uc218\ube44\uc5d0 \ud754\ud788 \uc0ac\uc6a9\ud55c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>척추물고기<END FC> ]---<P>척추물고기의 아름다운 지느러미는 침략자들을 물리치기 위해 사용하는 맹독의 척추를 감추고 있다.<P>척추물고기는 영역에 매우 민감한 동물이기 때문에, 고위층에서 그들의 성벽의 수비에 흔히 사용한다.<E>",
     "description": "SphinxText.xls, row 130"
   },
   "HT_Text_Museum_PI02_Electric_Eel": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc804\uae30\ubc40\uc7a5\uc5b4<END FC> ]---<P>\uc804\uae30\ubc40\uc7a5\uc5b4\ub294 \uc790\uc5f0 \uc11c\uc2dd\uc9c0\uc5d0\uc11c\ub294 \ub9e4\uc6b0 \uc628\uc21c\ud55c \ub3d9\ubb3c\uc774\ub2e4.<P>\uadf8\ub7ec\ub098 \uc774\uac83\uc774 \uc0dd\uc131\ud558\ub294 \uc804\uae30\uc7a5 \ub54c\ubb38\uc5d0, \uc774\uac83\uc774 \uc11c\uc2dd\ud558\ub294 \ubb3c\uc740 \uc804\uae30\uac00 \ud1b5\ud558\uace0, \uc774\ub97c \uc778\uc2dd\ud558\uc9c0 \ubabb\ud558\uace0 \uc788\ub294 \ub3d9\ubb3c\uc5d0\uac8c \ub9e4\uc6b0 \uc704\ud5d8\ud558\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>전기뱀장어<END FC> ]---<P>전기뱀장어는 자연 서식지에서는 매우 온순한 동물이다.<P>그러나 이것이 생성하는 전기장 때문에, 이것이 서식하는 물은 전기가 통하고, 이를 인식하지 못하고 있는 동물에게 매우 위험하다.<E>",
     "description": "SphinxText.xls, row 131"
   },
   "HT_Text_Museum_PI03_Manta_Ray": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc950\uac00\uc624\ub9ac<END FC> ]---<P>\uc950\uac00\uc624\ub9ac\uc758 \uc790\uc5f0 \uc11c\uc2dd\uc9c0\ub294 \ud070 \ubc14\ub2e4\uc774\ub2e4.<P>\uc774\ub4e4\uc740 \uc791\uc740 \ubb3c\uace0\uae30 \ub5bc\ub97c \uba39\uc774\ub85c \uc0bc\ub294 \uac83\uc744 \uc120\ud638\ud558\uc9c0\ub9cc \ud654\uac00 \ub098\uba74 \ub354 \ud070 \ub3d9\ubb3c\ub4e4\ub3c4 \uacf5\uaca9\ud558\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc838 \uc788\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>쥐가오리<END FC> ]---<P>쥐가오리의 자연 서식지는 큰 바다이다.<P>이들은 작은 물고기 떼를 먹이로 삼는 것을 선호하지만 화가 나면 더 큰 동물들도 공격하는 것으로 알려져 있다.<E>",
     "description": "SphinxText.xls, row 132"
   },
   "HT_Text_Museum_FL05_Mummy_Eagle": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ub3c5\uc218\ub9ac \ubbf8\uc774\ub77c<END FC> ]---<P>\ub3c5\uc218\ub9ac \ubbf8\uc774\ub77c\ub294 \uc54c\ub824\uc9c4 \ucee4\ub2e4\ub780 \uc0c8\ub4e4 \uc911 \ud558\ub098\uc774\ub2e4. \uac70\ub300\ud55c \ud06c\uae30\uc640 \ud798\uc740 \uc0ac\ub78c\ub4e4\uc744 \uc27d\uac8c \ub4e4\uc5b4\uc62c\ub9b4 \uc218 \uc788\ub2e4\ub294 \uac83\uc744 \uc758\ubbf8\ud55c\ub2e4.<P>\uc774 \ub2a5\ub825\uc740 \uace0\ub300\uc778\ub4e4\uc5d0 \uc758\ud574 \uad50\ud1b5 \uc218\ub2e8\uc73c\ub85c \uc774\uc6a9\ub418\uc5c8\ub294\ub370, \uadf8\ub4e4\uc740 <FC 0,128,0>\ub3c5\uc218\ub9ac \ub3cc<END FC>\uc744 \uc0ac\uc6a9\ud558\uc5ec \ub3c5\uc218\ub9ac \ubbf8\uc774\ub77c\ub97c \ub9c8\uc74c\ub300\ub85c \uc18c\ud658\ud560 \uc218 \uc788\uc5c8\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>독수리 미이라<END FC> ]---<P>독수리 미이라는 알려진 커다란 새들 중 하나이다. 거대한 크기와 힘은 사람들을 쉽게 들어올릴 수 있다는 것을 의미한다.<P>이 능력은 고대인들에 의해 교통 수단으로 이용되었는데, 그들은 <FC 0,128,0>독수리 돌<END FC>을 사용하여 독수리 미이라를 마음대로 소환할 수 있었다.<E>",
     "description": "SphinxText.xls, row 133"
   },
   "HT_Text_Museum_IN11_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ubbfc\ucca9\ud55c \uac70\ubbf8<END FC> ]---<P>\ubbfc\ucca9\ud55c \uac70\ubbf8\ub294 \ubcbd\uc774\ub098 \ucc9c\uc7a5\uc744 \uae30\uc5b4 \ub2e4\ub2c8\uba74\uc11c \ub545 \uc704\uc5d0\uc11c \uc0dd\ud65c\uc744 \ud55c\ub2e4.<P>\uc720\ub9ac\ud55c \uc9c0\uc810\uc5d0\uc11c \uc790\uc2e0\uc5d0\uac8c \uc2dc\uc120\uc744 \uc9d1\uc911\uc2dc\ud0a4\uc9c0 \uc54a\uc73c\uba74\uc11c \uc54c\uc544\ucc44\uc9c0 \ubabb\ud558\ub294 \uc801 \uc704\ub85c \ub5a8\uc5b4\uc9c8 \uc218 \uc788\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>민첩한 거미<END FC> ]---<P>민첩한 거미는 벽이나 천장을 기어 다니면서 땅 위에서 생활을 한다.<P>유리한 지점에서 자신에게 시선을 집중시키지 않으면서 알아채지 못하는 적 위로 떨어질 수 있다.<E>",
     "description": "SphinxText.xls, row 134"
   },
   "HT_Text_Museum_QR01_Cobra": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ucf54\ube0c\ub77c<END FC> ]---<P>\uc6b0\uc0b0\ubaa8\uc591\uc758 \ubaa9\uc774 \uc788\uc73c\uba70 \ub9f9\ub3c5\uc744 \uac00\uc9c4 \ub3c5\uc0ac\uc774\ub2e4.<P>\ucf54\ube0c\ub77c\ub294 \uc5b4\ub461\uace0 \uc678\ub534 \uacf3\uc5d0 \ud754\ud788 \uc9d1\uc744 \uc9d3\uace0 \uc0b4\uba74\uc11c \ub9ce\uc740 \ubd80\uc8fc\uc758\ud55c \ud0d0\ud5d8\uac00\ub4e4\uc744 \ub180\ub77c\uac8c \ud55c\ub2e4.<E> ",
+    "message": "<N><CNTR>---[ <FC 0,128,0>코브라<END FC> ]---<P>우산모양의 목이 있으며 맹독을 가진 독사이다.<P>코브라는 어둡고 외딴 곳에 흔히 집을 짓고 살면서 많은 부주의한 탐험가들을 놀라게 한다.<E> ",
     "description": "SphinxText.xls, row 135"
   },
   "HT_Text_Museum_QR02_Spitting_Toad": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ubc49\ub294 \ub450\uaebc\ube44<END FC> ]---<P>\uc18c\uc704 \"\ubc49\ub294 \ub450\uaebc\ube44\"\ub77c\uace0 \ubd88\ub9ac\ub294 \uc774\ub984\uc740 \uc77c\ub2e8 \uc0bc\ud0a4\uace0 \ub098\uc911\uc5d0 \uc0dd\uac01\ud558\ub294 \uacbd\ud5a5\uc5d0\uc11c \uc720\ub798\ub41c \uac83\uc774\ub2e4.<P>\ub450\uaebc\ube44\uc758 \uae4c\ub2e4\ub85c\uc6b4 \ubbf8\uac01\uc5d0 \ub9de\uc9c0 \uc54a\ub294 \uac83\uc740 \uaf64 \ud798\ucc28\uac8c \ub0b4\ubc49\uc5b4\uc9c4\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>뱉는 두꺼비<END FC> ]---<P>소위 \"뱉는 두꺼비\"라고 불리는 이름은 일단 삼키고 나중에 생각하는 경향에서 유래된 것이다.<P>두꺼비의 까다로운 미각에 맞지 않는 것은 꽤 힘차게 내뱉어진다.<E>",
     "description": "SphinxText.xls, row 136"
   },
   "HT_Text_Museum_QR03_Small_Frog": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc791\uc740 \uac1c\uad6c\ub9ac<END FC> ]---<P>\uc791\uc740 \uac1c\uad6c\ub9ac\ub294 \ub3c5\uc131\uc758 \ub2aa\uc9c0\ub300\uc5d0\uc11c \uc720\ub798\ud558\uc600\ub2e4.<P>\uadf8 \uacb0\uacfc\ub85c \uc720\ub3c5\uc131 \ubb3c\uc9c8\uc5d0 \uc800\ud56d\ub825\uc774 \ub9e4\uc6b0 \uac15\ud558\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>작은 개구리<END FC> ]---<P>작은 개구리는 독성의 늪지대에서 유래하였다.<P>그 결과로 유독성 물질에 저항력이 매우 강하다.<E>",
     "description": "SphinxText.xls, row 137"
   },
   "HT_Text_Museum_QU08_Normal_Chihuahua": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uce58\uc640\uc640<END FC> ]---<P>\ubd80\uc790\ub4e4\uc774 \uc120\ud638\ud558\ub294 \uc560\uc644\ub3d9\ubb3c\uc778 \uce58\uc640\uc640\ub4e4\uc740 \ub9e4\uc6b0 \uc815\ub825\uc801\uc774\ub2e4.<P>\uac1c\ub97c \uc0ac\ub791\ud558\ub294 \ubaa8\uc784\uc740 \uce58\uc640\uc640\ub4e4\uc744 \uc544\uc8fc \uc88b\uc544\ud558\ub098 \ub9ce\uc740 \uc0ac\ub78c\ub4e4\uc774 \uc274 \uc0c8 \uc5c6\uc774 \uc9d6\uc5b4\ub300\ub294 \uac83\uc744 \ub9e4\uc6b0 \uc2e0\uacbd\uc5d0 \uac70\uc2ac\ub824 \ud55c\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>치와와<END FC> ]---<P>부자들이 선호하는 애완동물인 치와와들은 매우 정력적이다.<P>개를 사랑하는 모임은 치와와들을 아주 좋아하나 많은 사람들이 쉴 새 없이 짖어대는 것을 매우 신경에 거슬려 한다.<E>",
     "description": "SphinxText.xls, row 138"
   },
   "HT_Text_Museum_PI05_Aka_Turtle": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\ubc14\ub2e4 \uac70\ubd81<END FC> ]---<P>\ubc14\ub2e4 \uac70\ubd81\uc740 \ub300\uc591\uc744 \uc120\ud638\ud558\ub294 \uc678\ub85c\uc6b4 \uc0dd\ubb3c\uc774\ub2e4. \uac70\ub300\ud55c \ubab8\uccb4\ub294 \uae30\ub098\uae34 \uc218\uba85\uc758 \uacb0\uacfc\uc774\uae30\ub3c4 \ud558\ub2e4.<P>\ucd5c\uace0\ub839\uc758 \ubc14\ub2e4 \uac70\ubd81\uc740 300\ub144\uc774 \ub118\ub294 \uc218\uba85\uc744 \uc9c0\ub2cc \uac83\uc73c\ub85c \ubc1c\uacac\ub418\uae30\ub3c4 \ud558\uc600\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>바다 거북<END FC> ]---<P>바다 거북은 대양을 선호하는 외로운 생물이다. 거대한 몸체는 기나긴 수명의 결과이기도 하다.<P>최고령의 바다 거북은 300년이 넘는 수명을 지닌 것으로 발견되기도 하였다.<E>",
     "description": "SphinxText.xls, row 139"
   },
   "HT_Text_Museum_BM07_Squirt": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>\uc2a4\ucffc\ud2b8<END FC> ]---<P>\uc2a4\ucffc\ud2b8\ub294 \ubd80\ub044\ub7fc\uc744 \uc798 \ud0c0\uace0 \uc27d\uac8c \ub180\ub77c\ub294 \uc0dd\ubb3c\uc774\ub2e4. \uc2a4\ucffc\ud2b8\ub294 <FC 0,128,0>\ud3ec\ud68d \ub531\uc815\ubc8c\ub808<END FC>\uc5d0 \uba74\uc5ed\uc131\uc774 \uc788\uc5b4 \ub9e4\uc6b0 \uc720\uc6a9\ud558\ub2e4.<E>",
+    "message": "<N><CNTR>---[ <FC 0,128,0>스쿼트<END FC> ]---<P>스쿼트는 부끄럼을 잘 타고 쉽게 놀라는 생물이다. 스쿼트는 <FC 0,128,0>포획 딱정벌레<END FC>에 면역성이 있어 매우 유용하다.<E>",
     "description": "SphinxText.xls, row 140"
   },
   "HT_Text_Museum_Name_BM09_Smiling_burble": {
-    "message": "\ubbf8\uc18c \uc9d3\ub294 \uac70\ud488! \uc790\uc2e0\uc758 \ubfd4\uc744 \uc544\ubb34\ub807\uac8c\ub098 \uc0ac\uc6a9\ud558\uc8e0.",
+    "message": "미소 짓는 거품! 자신의 뿔을 아무렇게나 사용하죠.",
     "description": "SphinxText.xls, row 142"
   },
   "HT_Text_Museum_Name_BM10_i_Cyclops": {
-    "message": "\uc2f8\uc774\ud074\ub86d\uc2a4! \uadc0\uc5ec\uc6cc \ubcf4\uc774\uc9c0\ub9cc \ub9e4\uc6b0 \uc9d3\uad82\uc2b5\ub2c8\ub2e4.",
+    "message": "싸이클롭스! 귀여워 보이지만 매우 짓궂습니다.",
     "description": "SphinxText.xls, row 143"
   },
   "HT_Text_Museum_Name_BM12_slim_burble": {
-    "message": "\uc2ac\ub9bc \ubc84\ube14! \ube60\ub974\uac8c \ubc88\uc2dd\ud558\uace0 \ud3ed\ubc1c\ud558\uae30\ub3c4 \ud569\ub2c8\ub2e4!",
+    "message": "슬림 버블! 빠르게 번식하고 폭발하기도 합니다!",
     "description": "SphinxText.xls, row 144"
   },
   "HT_Text_Museum_Name_BR04_Goofy_Lizard": {
-    "message": "\uc5bc\ube60\uc9c4 \ub3c4\ub9c8\ubc40! \ubc14\ubcf4 \uac19\uc9c0\ub9cc \ud638\uc758\uc801\uc778 \ub3d9\ubb3c\uc785\ub2c8\ub2e4.",
+    "message": "얼빠진 도마뱀! 바보 같지만 호의적인 동물입니다.",
     "description": "SphinxText.xls, row 145"
   },
   "HT_Text_Museum_Name_BR06_Half_Brute": {
-    "message": "\ubc18\uc218! \ub180\ub77c\uc6b8 \uc815\ub3c4\ub85c \uacf5\uaca9\uc801\uc778 \uad34\ubb3c\uc774\uc8e0.",
+    "message": "반수! 놀라울 정도로 공격적인 괴물이죠.",
     "description": "SphinxText.xls, row 147"
   },
   "HT_Text_Museum_Name_BU02_Skeletal_Axeman": {
-    "message": "\ud574\uace8 \ub3c4\ub07c\uafbc! \uc5b4\ub460\uc5d0\uc11c \uc628 \uc8fd\uc74c\uc758 \ubcf4\ubcd1\uc785\ub2c8\ub2e4.",
+    "message": "해골 도끼꾼! 어둠에서 온 죽음의 보병입니다.",
     "description": "SphinxText.xls, row 149"
   },
   "HT_Text_Museum_Name_BU05_almost_a_bull": {
-    "message": "\uc62c\ubaa8\uc2a4\ud2b8-\uc5b4-\ubd88! \uc790\uc2e0\uc758 \ubfd4\uc744 \ub09c\ud3ed\ud558\uac8c \uc0ac\uc6a9\ud569\ub2c8\ub2e4.",
+    "message": "올모스트-어-불! 자신의 뿔을 난폭하게 사용합니다.",
     "description": "SphinxText.xls, row 151"
   },
   "HT_Text_Museum_Name_BU06_MBird": {
-    "message": "\ubbf8\uc774\ub77c \uc0c8! \uc790\uc2e0\uc758 \uae43\ud138\uc758 \ub300\ubd80\ubd84\uc774 \ubd95\ub300\ub85c \uac10\uc2f8\uc5ec \uc788\ub2f5\ub2c8\ub2e4.",
+    "message": "미이라 새! 자신의 깃털의 대부분이 붕대로 감싸여 있답니다.",
     "description": "SphinxText.xls, row 152"
   },
   "HT_Text_Museum_Name_FL02_Featherless_Turkey": {
-    "message": "\uae43\ud138 \uc5c6\ub294 \uce60\uba74\uc870! \uc2ec\uc220 \ub9ce\uc740 \ub300\uba38\ub9ac \uc0c8\uc8e0.",
+    "message": "깃털 없는 칠면조! 심술 많은 대머리 새죠.",
     "description": "SphinxText.xls, row 153"
   },
   "HT_Text_Museum_Name_FL03_shuttlecock_bird": {
-    "message": "\uc154\ud2c0\ucf55 \uc0c8! \uacf5\uae30\uc5ed\ud559\uc801\uc778 \uae43\ud138\uc744 \uac00\uc9c4 \uc678\uc871\uc0dd\ubb3c\uc785\ub2c8\ub2e4.",
+    "message": "셔틀콕 새! 공기역학적인 깃털을 가진 외족생물입니다.",
     "description": "SphinxText.xls, row 154"
   },
   "HT_Text_Museum_Name_HD02_Cat": {
-    "message": "\ub098\uc774\ud504 \uace0\uc591\uc774! \uc0c1\ub0e5\ud55c \uace0\uc591\uc774\uacfc\uc758 \ub3d9\ubb3c\uc740 \uc544\ub2c8\ub77c\uace0 \ud560 \uc218 \uc788\uc8e0.",
+    "message": "나이프 고양이! 상냥한 고양이과의 동물은 아니라고 할 수 있죠.",
     "description": "SphinxText.xls, row 155"
   },
   "HT_Text_Museum_Name_HD03_BigBull": {
-    "message": "\uac70\ub300\ud55c \ud669\uc18c! \uc790\uc2e0\uc758 \ub9dd\uce58\ub97c \ud718\ub450\ub974\ub294 \uac83\uc744 \uc720\ub2ec\ub9ac \uc88b\uc544\ud558\uc8e0.",
+    "message": "거대한 황소! 자신의 망치를 휘두르는 것을 유달리 좋아하죠.",
     "description": "SphinxText.xls, row 156"
   },
   "HT_Text_Museum_Name_HD14_Crab": {
-    "message": "\ud06c\ub7a9\ud578\ub4dc! \uae4c\ub2e4\ub85c\uc6b4 \uc131\uaca9\uc758 \uc774\uc871\ubcf4\ud589 \uc0dd\ubb3c\uc785\ub2c8\ub2e4.",
+    "message": "크랩핸드! 까다로운 성격의 이족보행 생물입니다.",
     "description": "SphinxText.xls, row 157"
   },
   "HT_Text_Museum_Name_HD17_Sharpbeak": {
-    "message": "\ub0a0\uce74\ub85c\uc6b4 \ubd80\ub9ac! \uc774 \uc804\ud22c\ud615 \uc0dd\ubb3c\uc740 \ubcf4\uae30 \ub4dc\ubb38 \ub188\uc785\ub2c8\ub2e4.",
+    "message": "날카로운 부리! 이 전투형 생물은 보기 드문 놈입니다.",
     "description": "SphinxText.xls, row 158"
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper": {
-    "message": "\ud574\uace8 \uc22d\ubc30\uc790! \uc545\uc758 \ud798\uacfc \uac15\ub825\ud55c \ub3d9\ub8cc\uc785\ub2c8\ub2e4.",
+    "message": "해골 숭배자! 악의 힘과 강력한 동료입니다.",
     "description": "SphinxText.xls, row 159"
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "\uc5b4\ub460\uc758 \uc22d\ubc30\uc790! \uadf8\ub9bc\uc790\uc758 \ubc16\uc5d0\uc11c\ub294 \uac70\uc758 \ubaa8\uc2b5\uc744 \ub4dc\ub7ec\ub0b4\uc9c0 \uc54a\uc8e0.",
+    "message": "어둠의 숭배자! 그림자의 밖에서는 거의 모습을 드러내지 않죠.",
     "description": "SphinxText.xls, row 160"
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "\ud574\uace8 \uac80\uc0ac! \uc720\ub839 \uac19\uc740 \uacf5\uaca9\uc744 \ud558\ub294 \uace0\ub3c4\uc758 \uae30\uc220\uc744 \uc9c0\ub2cc \uc804\ud22c\uc0ac\uc785\ub2c8\ub2e4. ",
+    "message": "해골 검사! 유령 같은 공격을 하는 고도의 기술을 지닌 전투사입니다. ",
     "description": "SphinxText.xls, row 161"
   },
   "HT_Text_Museum_Name_IN01_Green_Giant_worm": {
-    "message": "\ub300\ud615 \ucd08\ub85d \ubc8c\ub808! \ud070 \uc774\ube68\uc744 \uac00\uc9c4 \uac70\ub300\ud55c \ubc8c\ub808\uc785\ub2c8\ub2e4.",
+    "message": "대형 초록 벌레! 큰 이빨을 가진 거대한 벌레입니다.",
     "description": "SphinxText.xls, row 162"
   },
   "HT_Text_Museum_Name_IN07_Blade_Scorpion": {
-    "message": "\uce7c\ub0a0 \uc804\uac08! \ube60\ub974\uace0 \uc3d8\ub294 \uaf2c\ub9ac\ub97c \uac00\uc9c4 \uce58\uba85\uc801\uc778 \uc0dd\ubb3c\uc774\uc8e0.",
+    "message": "칼날 전갈! 빠르고 쏘는 꼬리를 가진 치명적인 생물이죠.",
     "description": "SphinxText.xls, row 163"
   },
   "HT_Text_Museum_Name_IN09_Sak_Spike_Spider": {
-    "message": "\uc2a4\ud30c\uc774\ud06c \uac70\ubbf8! \uc801 \uc704\ub85c \ub5a8\uc5b4\uc9c0\ub294 \uac83\uc73c\ub85c \uc798 \uc54c\ub824\uc838 \uc788\uc8e0.",
+    "message": "스파이크 거미! 적 위로 떨어지는 것으로 잘 알려져 있죠.",
     "description": "SphinxText.xls, row 164"
   },
   "HT_Text_Museum_Name_PI01_Piranha": {
-    "message": "\ud53c\ub77c\ub0d0! \ube68\ub9ac \uba39\uc5b4 \uce58\uc6b0\ub294 \uc721\uc2dd\uc131 \ubb3c\uace0\uae30\uc785\ub2c8\ub2e4.",
+    "message": "피라냐! 빨리 먹어 치우는 육식성 물고기입니다.",
     "description": "SphinxText.xls, row 165"
   },
   "HT_Text_Museum_Name_PI01_Hard_Piranha": {
-    "message": "\uacac\uac11 \ud53c\ub77c\ub0d0! \ube60\ub974\uace0 \uce58\uba85\uc801\uc778 \uc791\uc740 \ubb3c\uace0\uae30\uc785\ub2c8\ub2e4.",
+    "message": "견갑 피라냐! 빠르고 치명적인 작은 물고기입니다.",
     "description": "SphinxText.xls, row 166"
   },
   "HT_Text_Museum_Name_PL02_Tree_Creature": {
-    "message": "\ub098\ubb34 \uc0dd\ubb3c! \uc774 \ub098\ubb34 \ubc11\uc5d0\uc11c \uadf8\ub298\uc744 \ucc3e\uc9c0 \ub9c8\uc2dc\uae38!",
+    "message": "나무 생물! 이 나무 밑에서 그늘을 찾지 마시길!",
     "description": "SphinxText.xls, row 167"
   },
   "HT_Text_Museum_Name_PL04_Sunflower_With_Face": {
-    "message": "\ud574\ubc14\ub77c\uae30! \ud3ec\uc790\ub97c \ubc1c\uc0ac\ud558\ub294 \uc704\ud5d8\ud55c \uc2dd\ubb3c\uc785\ub2c8\ub2e4.",
+    "message": "해바라기! 포자를 발사하는 위험한 식물입니다.",
     "description": "SphinxText.xls, row 168"
   },
   "HT_Text_Museum_Name_QC01_Pokemon": {
-    "message": "\uaecd\uc9c8 \uad34\ubb3c! \uc18c\uc2ec\ud558\uace0 \uc791\uc740 \uaecd\ub370\uae30\uc758 \ud30c\ucda9\ub958\uc785\ub2c8\ub2e4.",
+    "message": "껍질 괴물! 소심하고 작은 껍데기의 파충류입니다.",
     "description": "SphinxText.xls, row 169"
   },
   "HT_Text_Museum_Name_QR04_Sak_Nose_Needler": {
-    "message": "\ub178\uc6b0\uc988 \ub2c8\ub4e4\ub7ec! \uacf5\uaca9\uc801\uc778 \uc9c0\ud558\uc758 \ud3ec\uc720\ub958\uc785\ub2c8\ub2e4.",
+    "message": "노우즈 니들러! 공격적인 지하의 포유류입니다.",
     "description": "SphinxText.xls, row 170"
   },
   "HT_Text_Museum_Name_QU01_Skeletal_Spider": {
-    "message": "\ud574\uace8 \uac70\ubbf8! \uc801\uc5d0\uac8c \ubc15\uce58\uae30\ub97c \ud558\uc5ec \uad74\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4. ",
+    "message": "해골 거미! 적에게 박치기를 하여 굴복시킵니다. ",
     "description": "SphinxText.xls, row 171"
   },
   "HT_Text_Museum_Name_QU04_Mummy_Chihuahua": {
-    "message": "\uce58\uc640\uc640 \ubbf8\uc774\ub77c! \uc774\uc81c \uc5b8\ub370\ub4dc\uc778 \uc560\uc644\ub3d9\ubb3c.",
+    "message": "치와와 미이라! 이제 언데드인 애완동물.",
     "description": "SphinxText.xls, row 173"
   },
   "HT_Text_Museum_Name_QU04_Normal_Chihuahua": {
-    "message": "\uce58\uc640\uc640! \ubd80\uc790\ub4e4 \uc0ac\uc774\uc5d0\uc11c \uc778\uae30 \uc788\ub294 \uc560\uc644\ub3d9\ubb3c.",
+    "message": "치와와! 부자들 사이에서 인기 있는 애완동물.",
     "description": "SphinxText.xls, row 174"
   },
   "HT_Text_Museum_Name_QU05_skeletal_waspspider": {
-    "message": "\ub9d0\ubc8c \uac70\ubbf8! \ud5d8\uc545\ud55c \uce68\uc73c\ub85c \uc54c\ub824\uc838 \uc788\uc8e0.",
+    "message": "말벌 거미! 험악한 침으로 알려져 있죠.",
     "description": "SphinxText.xls, row 175"
   },
   "HT_Text_Museum_Name_QU06_Mummy_Worm": {
-    "message": "\ubc8c\ub808 \ubbf8\uc774\ub77c! \uacf5\uaca9\uc790\ub4e4\uc744 \ubb3c\ub9ac\uce58\uae30 \uc704\ud574 \ud654\uc5fc\uacf5\uc744 \ubc49\uc5b4\ub0c5\ub2c8\ub2e4.",
+    "message": "벌레 미이라! 공격자들을 물리치기 위해 화염공을 뱉어냅니다.",
     "description": "SphinxText.xls, row 176"
   },
   "HT_Text_Museum_Name_QU09_Rat": {
-    "message": "\uc950! \ucd1d\ucd1d\uac70\ub9ac\uba70 \ub3cc\uc544\ub2e4\ub2c8\ub294 \uc791\uc740 \uc0dd\ubb3c\uc774\uc8e0.",
+    "message": "쥐! 총총거리며 돌아다니는 작은 생물이죠.",
     "description": "SphinxText.xls, row 177"
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "\uc804\uae30 \uc544\ub974\ub9c8\ub51c\ub85c! \uadf8 \uc885\ub4e4 \uc911\uc5d0 \uac00\uc7a5 \ucda9\uaca9\uc801\uc774\uc8e0.",
+    "message": "전기 아르마딜로! 그 종들 중에 가장 충격적이죠.",
     "description": "SphinxText.xls, row 178"
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Fire": {
-    "message": "\ud654\uc5fc \uc544\ub974\ub9c8\ub51c\ub85c! \ubd88\ud0c0\uc624\ub974\uba70 \ube59\ube59 \ub3cc\uc8e0.",
+    "message": "화염 아르마딜로! 불타오르며 빙빙 돌죠.",
     "description": "SphinxText.xls, row 179"
   },
   "HT_Text_Museum_Name_QR01_Cobra": {
-    "message": "\ucf54\ube0c\ub77c! \ubaa9\uc5d0 \ub450\uac74\uc744 \ub458\ub7ec \uc2fc \ubaa8\uc591\uc744 \ud558\uace0 \uc788\ub294, \ub3c5\uc744 \uc9c0\ub2cc \ubc40\uc774\uc8e0.",
+    "message": "코브라! 목에 두건을 둘러 싼 모양을 하고 있는, 독을 지닌 뱀이죠.",
     "description": "SphinxText.xls, row 180"
   },
   "HT_Text_Museum_Name_QR03_Small_Frog": {
-    "message": "\uc791\uc740 \uac1c\uad6c\ub9ac! \ud655\uc2e4\ud788 \uc791\uc9c0\ub9cc \ub3c5\uc131\uc774 \uc788\uc8e0.",
+    "message": "작은 개구리! 확실히 작지만 독성이 있죠.",
     "description": "SphinxText.xls, row 181"
   },
   "HT_Text_Museum_Name_Jewel01": {
-    "message": "\uc288\uc758 \ubcf4\uc11d",
+    "message": "슈의 보석",
     "description": "SphinxText.xls, row 182"
   },
   "HT_Text_Museum_Name_Jewel02": {
-    "message": "\uba64\ud53c\uc2a4\uc758 \ubcf4\uc11d",
+    "message": "멤피스의 보석",
     "description": "SphinxText.xls, row 183"
   },
   "HT_Text_Museum_Name_Jewel03": {
-    "message": "\uc774\ub4dc\ud478\uc758 \ubcf4\uc11d",
+    "message": "이드푸의 보석",
     "description": "SphinxText.xls, row 184"
   },
   "HT_Text_Museum_Name_Jewel04": {
-    "message": "\uc6e8\uc790\ud2b8\uc758 \ubcf4\uc11d",
+    "message": "웨자트의 보석",
     "description": "SphinxText.xls, row 185"
   },
   "HT_Text_Museum_Name_Jewel05": {
-    "message": "\uc720\ub9ac\uc5b4\uc2a4\uc758 \ubcf4\uc11d",
+    "message": "유리어스의 보석",
     "description": "SphinxText.xls, row 186"
   },
   "HT_Text_Museum_Name_Jewel06": {
-    "message": "\uc6e8\ub2c8\uc758 \ubcf4\uc11d",
+    "message": "웨니의 보석",
     "description": "SphinxText.xls, row 187"
   },
   "HT_Text_ES_S_HelpText": {
@@ -620,415 +620,415 @@
     "description": "SphinxText.xls, row 194"
   },
   "HT_Text_Gen_Help_GotAbyCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uad00<END FC>\uc744 \uad6c\ud588\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아비도스의 성스러운 관<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 196"
   },
   "HT_Text_Gen_Help_GotSakCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc6b0\ub8e8\ud06c\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uad00<END FC>\uc744 \uad6c\ud588\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>우루크의 성스러운 관<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 197"
   },
   "HT_Text_Gen_Help_GotHelCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uad00<END FC>\uc744 \uad6c\ud588\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>헬리오폴리스의 성스러운 관<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 198"
   },
   "HT_Text_Gen_Help_NewNoteFirst": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><FC 0,128,0><CNTR>\uc2a4\ud551\ud06c\uc2a4\uc758 \uc11c<END FC>\uc5d0<N>\uc0c8 \uae30\ub85d\uc774 \ucd94\uac00\ub418\uc5c8\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>\uc2a4\ud551\ud06c\uc2a4\uc758 \uc11c<END FC>\ub97c \ubcf4\ub824\uba74<N><SB HT_PadAction_BOS_Show>\ub97c \ub204\ub974\uc2dc\uc624.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>\uae30\ub85d<END FC> \ubd80\ubd84\uc740 \ub2f9\uc2e0\uc758 \ud0d0\ud5d8\uc5d0 \uad00\ud55c<N>\uc911\uc694\ud55c \uc815\ubcf4\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><FC 0,128,0><CNTR>스핑크스의 서<END FC>에<N>새 기록이 추가되었다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>스핑크스의 서<END FC>를 보려면<N><SB HT_PadAction_BOS_Show>를 누르시오.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>기록<END FC> 부분은 당신의 탐험에 관한<N>중요한 정보를 포함하고 있습니다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 199"
   },
   "HT_Text_Gen_Help_NewNote": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc2a4\ud551\ud06c\uc2a4\uc758 \uc11c<END FC>\uc5d0<N>\uc0c8 \uae30\ub85d\uc774 \ucd94\uac00\ub418\uc5c8\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>스핑크스의 서<END FC>에<N>새 기록이 추가되었다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 200"
   },
   "HT_Text_Gen_Help_NewNotes": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc2a4\ud551\ud06c\uc2a4\uc758 \uc11c<END FC>\uc5d0<N>\uc0c8 \uae30\ub85d\ub4e4\uc774 \ucd94\uac00 \ub418\uc5c8\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>스핑크스의 서<END FC>에<N>새 기록들이 추가 되었다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 201"
   },
   "HT_Text_Gen_Help_GotChapter2Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ubbf8\uc774\ub77c\uac00 <FC 128,64,0>\uc6b0\ub8e8\ud06c \uc131<END FC>\uc5d0\uc11c<N>\uc218\uc9d1\ud55c \uc544\uc774\ud15c\ub4e4\uc744 \uc5bb\uc5c8\ub2e4...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc544\ud230 \uc0c1<END FC>\uc744 \uc5bb\uc5c8\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\uc774 \ud669\uae08\ud615\uc0c1\uc740 \ub9c8\ub825\uc744 \uc9c0\ub2cc \uac83\uc73c\ub85c \uc54c\ub824\uc838 \uc788\ub2e4.<P><ES HT_Text_ES_S_HelpText><N><CNTR>\ub450 \ubc88\uc9f8 <FC 0,128,0>\ub3c4\ub09c \ub2f9\ud55c \uc544\ube44\ub3c4\uc2a4 \ubcf4\ubb3c<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc758 \uad00\ub9ac\uc790\ub4e4\uc740<N>\uc774\uac83\uc744 \ubcf4\uba74 \ub9e4\uc6b0 \uae30\ubed0\ud560 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아툰 상<END FC>을 얻었다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 황금형상은 마력을 지닌 것으로 알려져 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>두 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 202"
   },
   "HT_Text_Gen_Help_GotChapter3Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ubbf8\uc774\ub77c\uac00 <FC 128,64,0>\uc6b0\ub8e8\ud06c\uc758 \uc131<END FC>\uc5d0\uc11c<N>\uc218\uc9d1\ud55c \uc544\uc774\ud15c\ub4e4\uc744 \uc5bb\uc5c8\ub2e4...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc57d\ucd08\uc8fc\uba38\ub2c8<END FC>\ub97c \uc5bb\uc5c8\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\ud2b9\ubcc4\ud55c \uc548\uac10\uc744 \ub304 \uac00\ubc29\uc740<N>\uadf8 \uc5b4\ub290 \uc12c\uc138\ud55c \uc57d\ucd08\ub77c\ub3c4 \uc798 \ubcf4\uc874\ud55c\ub2e4.<P><ES HT_Text_ES_S_HelpText><N><CNTR>\uc138 \ubc88\uc9f8 <FC 0,128,0>\ub3c4\ub09c \ub2f9\ud55c \uc544\ube44\ub3c4\uc2a4 \ubcf4\ubb3c<END FC>\uc744 \uc5bb\uc5c8\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc758 \uad00\ub9ac\uc790\ub4e4\uc740<N>\uc774\uac83\uc744 \ubcf4\uba74 \ub9e4\uc6b0 \uae30\ubed0\ud560 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>약초주머니<END FC>를 얻었다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>특별한 안감을 댄 가방은<N>그 어느 섬세한 약초라도 잘 보존한다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>세 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 얻었다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 203"
   },
   "HT_Text_Gen_Help_GotChapter4Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ubbf8\uc774\ub77c\uac00 <FC 128,64,0>\uc6b0\ub8e8\ud06c\uc758 \uc131<END FC>\uc5d0\uc11c<N>\uc218\uc9d1\ud55c \uc544\uc774\ud15c\ub4e4\uc744 \uc5bb\uc5c8\ub2e4...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc544\ubb38\uc758 \uc190<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \uc720\ubb3c\uc740 \uc2a4\ud551\ud06c\uc2a4\uc5d0\uac8c<N>\ub9e4\uc6b0 \ubb34\uac70\uc6b4 \ubb3c\uac74\ub4e4\uc744 \ub04c\uace0 \ubc00 \uc218 \uc788\ub294 \ud798\uc744 \uc900\ub2e4.<P><ES HT_Text_ES_S_HelpText><N><CNTR>\ub124 \ubc88\uc9f8 <FC 0,128,0>\ub3c4\ub09c \ub2f9\ud55c \uc544\ube44\ub3c4\uc2a4 \ubcf4\ubb3c<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc758 \uad00\ub9ac\uc790\ub4e4\uc740<N>\uc774\uac83\uc744 \ubcf4\uba74 \ub9e4\uc6b0 \uae30\ubed0\ud560 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아문의 손<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 유물은 스핑크스에게<N>매우 무거운 물건들을 끌고 밀 수 있는 힘을 준다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>네 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 204"
   },
   "HT_Text_Gen_Help_GotChapter5Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ubbf8\uc774\ub77c\uac00 <FC 128,64,0>\uc6b0\ub8e8\ud06c\uc758 \uc131<END FC>\uc5d0\uc11c<N>\uc218\uc9d1\ud55c \uc544\uc774\ud15c\ub4e4\uc744 \uc5bb\uc5c8\ub2e4...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc655\uc2e4\uc758 \ucd08\ub300\uc7a5<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \uacf5\uc2dd\ubb38\uc11c\ub294 <FC 128,64,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4<END FC>\uc758 \ud30c\ub77c\uc624\ub97c<N>\ub9cc\ub098\ub3c4\ub85d \ucd08\uccad\ud558\uace0 \uc788\ub2e4.<P><ES HT_Text_ES_S_HelpText><N><CNTR>\ub2e4\uc12f \ubc88\uc9f8 <FC 0,128,0>\ub3c4\ub09c \ub2f9\ud55c \uc544\ube44\ub3c4\uc2a4 \ubcf4\ubb3c<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc758 \uad00\ub9ac\uc790\ub4e4\uc740<N>\uc774\uac83\uc744 \ubcf4\uba74 \ub9e4\uc6b0 \uae30\ubed0\ud560 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>왕실의 초대장<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 공식문서는 <FC 128,64,0>헬리오폴리스<END FC>의 파라오를<N>만나도록 초청하고 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>다섯 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 205"
   },
   "HT_Text_Gen_Help_GotChapter6Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ubbf8\uc774\ub77c\uac00 <FC 128,64,0>\uc6b0\ub8e8\ud06c\uc758 \uc131<END FC>\uc5d0\uc11c<N>\uc218\uc9d1\ud55c \uc544\uc774\ud15c\ub4e4\uc744 \uc5bb\uc5c8\ub2e4...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc138\ud2b8\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uc655\uad00<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc5ec\uc12f \ubc88\uc9f8<FC 0,128,0>\ub3c4\ub09c \ub2f9\ud55c \uc544\ube44\ub3c4\uc2a4 \ubcf4\ubb3c<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc758 \uad00\ub9ac\uc790\ub4e4\uc740<N>\uc774\uac83\uc744 \ubcf4\uba74 \ub9e4\uc6b0 \uae30\ubed0\ud560 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>세트의 성스러운 왕관<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>여섯 번째<FC 0,128,0>도난 당한 아비도스 보물<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 206"
   },
   "HT_Text_Gen_Help_AtunDisc": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uc774\uac83\uc740 \uace0\ub300\uc758 <FC 0,128,0>\uc544\ud230\uc758 \ub514\uc2a4\ud06c<END FC>\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774\uac83\uc740 \ub9c8\ubc95\uc758 \uc9c0\uc810\uc73c\ub85c\uc368, \uc9c0\ub098\uac00\uba74 \ucd08\uace0\uc18d\uc73c\ub85c \ub2ec\ub9b4 \uc218 \uc788\ub3c4\ub85d \ud558\ub294 \uc2e0\ube44\ud55c \uc5d0\ub108\uc9c0\ub97c \ubd88\uc5b4\ub123\ub294\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR>\uc548\ud0c0\uae5d\uac8c\ub3c4 \ud6a8\uacfc\ub294 \uc77c\uc2dc\uc801\uc774\uc9c0\ub9cc <FC 128,64,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4<END FC>\ub97c \ub354 \ud6a8\uacfc\uc801\uc73c\ub85c \ub3cc\uc544\ub2e4\ub2c8\uae30 \uc704\ud574\uc11c\ub294 \ub9e4\uc6b0 \uc720\uc6a9\ud558\uac8c \uc4f0\uc77c \uac83\uc774\ub2e4.<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이것은 고대의 <FC 0,128,0>아툰의 디스크<END FC>다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것은 마법의 지점으로써, 지나가면 초고속으로 달릴 수 있도록 하는 신비한 에너지를 불어넣는다.<P><ES HT_Text_ES_S_HelpText><CNTR>안타깝게도 효과는 일시적이지만 <FC 128,64,0>헬리오폴리스<END FC>를 더 효과적으로 돌아다니기 위해서는 매우 유용하게 쓰일 것이다.<E>",
     "description": "SphinxText.xls, row 207"
   },
   "HT_Text_Gen_Help_GotAtunEye": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc544\ud230\uc758 \ub208<END FC>\uc744 \ucc3e\uc558\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc5b4\ub5a4 \uc0c1\uc758 \ub208\uc5d0<N>\ub9de\uc744 \uac83 \uac19\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아툰의 눈<END FC>을 찾았다!<P><ES HT_Text_ES_S_HelpText><CNTR>어떤 상의 눈에<N>맞을 것 같다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 208"
   },
   "HT_Text_Gen_Help_GotAtunEyes04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>4 \uc544\ud230\uc758 \ub208\ub4e4<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc5b4\ub5a4 \uc0c1\uc758 \ub208\uc5d0<N>\ub9de\uc744 \uac83 \uac19\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>4 아툰의 눈들<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>어떤 상의 눈에<N>맞을 것 같다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 209"
   },
   "HT_Text_Gen_Help_GotDoubleJump": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc774\ube44\uc2a4\uc758 \ub0a0\uac1c<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \ub9c8\ubc95\uc758 \uc720\ubb3c\ub85c \uc2a4\ud551\ud06c\uc2a4\ub294<N>\ub192\uc740 \uacf3\uacfc \uba3c \uacf3\uc5d0 \ub3c4\ub2ec\ud558\uae30 \uc704\ud574<N>\uc774\uc911 \uc810\ud504\ub97c \ud560 \uc218 \uc788\ub2e4!<P><CNTR><ES HT_Text_ES_S_HelpText>\uc810\ud504\ub97c \ud558\ub824\uba74 <SB HT_Action_Jump>\ub97c \ub204\ub974\uace0<N><FC 0,128,0>\uacf5\uc911\uc81c\ube44<END FC>\ub97c \ud558\ub824\uba74<N>\uacf5\uc911\uc5d0\uc11c <SB HT_Action_Jump>\ub97c \ub2e4\uc2dc \ub204\ub978\ub2e4.<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>이비스의 날개<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 유물로 스핑크스는<N>높은 곳과 먼 곳에 도달하기 위해<N>이중 점프를 할 수 있다!<P><CNTR><ES HT_Text_ES_S_HelpText>점프를 하려면 <SB HT_Action_Jump>를 누르고<N><FC 0,128,0>공중제비<END FC>를 하려면<N>공중에서 <SB HT_Action_Jump>를 다시 누른다.<E>",
     "description": "SphinxText.xls, row 210"
   },
   "HT_Text_Gen_Help_GotShieldOfOsiris": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc624\uc2dc\ub9ac\uc2a4\uc758 \ubc29\ud328<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \ub9c8\ubc95\uc758 \ubc29\ud328\ub294 \uc804\uc7a5\uc5d0\uc11c <N>\uc704\ub300\ud55c \uc2e0 \uc624\uc2dc\ub9ac\uc2a4\uac00 \uc9c1\uc811 \uc0ac\uc6a9\ud588\uc5c8\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \ubc29\ud328\ub97c \uc774\uc6a9\ud558\uc5ec \uc801\ub4e4\uc758 \uc5ec\ub7ec \uac00\uc9c0 \uacf5\uaca9\uacfc<N>\uc704\ud5d8\ubb3c\ub85c\ubd80\ud130 \uc790\uc2e0\uc744 \ubc29\uc5b4\ud560 \uc218 \uc788\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>\uc624\uc2dc\ub9ac\uc2a4\uc758 \ubc29\ud328<END FC>\ub97c \uc7a5\ucc29\ud558\ub824\uba74<N><SB HT_PadAction_HUD_ShowRotator>\ub97c \uc774\uc6a9\ud558\uc5ec \uc774 \uc544\uc774\ud15c\uc744 \uc120\ud0dd\ud55c\ub2e4...<P><ES HT_Text_ES_S_HelpText><CNTR>...\uadf8\ub9ac\uace0 \uc774 \uc544\uc774\ud15c\uc5d0 \ubc30\ub2f9\ud560<N>\ubc84\ud2bc\uc744 \ub204\ub978\ub2e4.<P><CNTR><ES HT_Text_ES_S_HelpText>\ubc30\ub2f9\uc774 \uc644\ub8cc\ub418\uace0 \ub09c \ud6c4, \ub124 \uc790\uc2e0\uc744 \ubcf4\ud638\ud558\ub824\uba74<N>\ud574\ub2f9 \ubc84\ud2bc\uc744 \ub204\ub978 \uc0c1\ud0dc\ub85c \uc788\ub294\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR>\uc790\uc2e0\uc744 \ubcf4\ud638\ud558\uace0 \uc788\uc744 \ub54c<N><SB HT_PadAction_PLR_MovePlr>\ub97c \uc0ac\uc6a9\ud558\uc5ec \ubc29\ud328\uc758 \ubc29\ud5a5\uc744 \uc870\uc815\ud55c\ub2e4.<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>오시리스의 방패<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 방패는 전장에서 <N>위대한 신 오시리스가 직접 사용했었다.<P><ES HT_Text_ES_S_HelpText><CNTR>이 방패를 이용하여 적들의 여러 가지 공격과<N>위험물로부터 자신을 방어할 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>오시리스의 방패<END FC>를 장착하려면<N><SB HT_PadAction_HUD_ShowRotator>를 이용하여 이 아이템을 선택한다...<P><ES HT_Text_ES_S_HelpText><CNTR>...그리고 이 아이템에 배당할<N>버튼을 누른다.<P><CNTR><ES HT_Text_ES_S_HelpText>배당이 완료되고 난 후, 네 자신을 보호하려면<N>해당 버튼을 누른 상태로 있는다.<P><ES HT_Text_ES_S_HelpText><CNTR>자신을 보호하고 있을 때<N><SB HT_PadAction_PLR_MovePlr>를 사용하여 방패의 방향을 조정한다.<E>",
     "description": "SphinxText.xls, row 211"
   },
   "HT_Text_Gen_Help_GotBlowpipe": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ucde8\uad00<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \uac15\ub825\ud55c \ub3c4\uad6c\uc5d0\uc11c \ubc1c\uc0ac\ub418\ub294 \ub9c8\ubc95\uc758 \ub2e4\ud2b8\ub294<N>\uc7ac\uc0dd\uc131 \ub418\uc5b4 \ubb34\ud55c\uc73c\ub85c \uacf5\uae09\ub41c\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR>\ub2e4\ud2b8\ub294 \uc6d0\uac70\ub9ac\uc758 \ubaa9\ud45c\ub97c \ub9de\ucd94\uae30 \uc704\ud574 \uc0ac\uc6a9\ub420 \uc218 \uc788\uc9c0\ub9cc<N>\ud3ed\ubc1c\ud558\ub294 \uad34\ubb3c\ub4e4\uc740 \uc0c1\ucc98 \uc785\ud790 \uc815\ub3c4\ub9cc\uc758 \uc704\ub825\uc744 \uac00\uc9c0\uace0 \uc788\ub2e4.<P><ES HT_Text_ES_S_HelpText><N><CNTR><SB HT_PadAction_HUD_ShowRotator>\ub97c \uc774\uc6a9\ud558\uc5ec <FC 0,128,0>\ucde8\uad00<END FC>\uc744 \ubc84\ud2bc\uc5d0 \ubc30\ub2f9\ud55c\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>\ucde8\uad00<END FC>\uc758 \ubc30\ub2f9\uc774 \ub05d\ub098\uba74<N>\uadf8 \ubc84\ud2bc\uc744 \ub20c\ub7ec \uc77c\uc778\uce6d \ubaa8\ub4dc\ub85c \ubcc0\ud658\ud55c\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_FireDart>\ub97c \ub20c\ub7ec\uc11c \ubc1c\uc0ac\ud55c\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_Cancel>\ub97c \ub20c\ub7ec\uc11c <N><FC 0,128,0>\ucde8\uad00<END FC> \ubaa8\ub4dc\uc5d0\uc11c \ub098\uac04\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>취관<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 강력한 도구에서 발사되는 마법의 다트는<N>재생성 되어 무한으로 공급된다.<P><ES HT_Text_ES_S_HelpText><CNTR>다트는 원거리의 목표를 맞추기 위해 사용될 수 있지만<N>폭발하는 괴물들은 상처 입힐 정도만의 위력을 가지고 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR><SB HT_PadAction_HUD_ShowRotator>를 이용하여 <FC 0,128,0>취관<END FC>을 버튼에 배당한다.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>취관<END FC>의 배당이 끝나면<N>그 버튼을 눌러 일인칭 모드로 변환한다.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_FireDart>를 눌러서 발사한다.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_Cancel>를 눌러서 <N><FC 0,128,0>취관<END FC> 모드에서 나간다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 212"
   },
   "HT_Text_Gen_Help_GotHandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc544\ubb38\uc758 \uc190<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \uc720\ubb3c\uc740 \uc2a4\ud551\ud06c\uc2a4\uc5d0\uac8c \ub9e4\uc6b0 \ubb34\uac70\uc6b4 \ubb3c\uac74\uc744<N>\ubc00\uace0 \ub04c \uc218 \uc788\ub294 \ud798\uc744 \ubd80\uc5ec\ud55c\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아문의 손<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 유물은 스핑크스에게 매우 무거운 물건을<N>밀고 끌 수 있는 힘을 부여한다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 213"
   },
   "HT_Text_Gen_Help_GotMummyCash": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ubbf8\uc774\ub77c\uac00 <FC 128,64,0>\uc6b0\ub8e8\ud06c\uc758 \uc131<END FC>\uc5d0\uc11c <FC 0,128,0><N><SO HT_Objective_Mum_CashCollected> \uc624\ub2c9\uc2a4 \uc2a4\uce90\ub7fd<END FC>\uc744 \uc5bb\uc5c8\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서 <FC 0,128,0><N><SO HT_Objective_Mum_CashCollected> 오닉스 스캐럽<END FC>을 얻었다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 214"
   },
   "HT_Text_Gen_Help_GotBeetlePouch": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ub531\uc815\ubc8c\ub808 \uc8fc\uba38\ub2c8<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \uc8fc\uba38\ub2c8\uc5d0\ub294 \ub2e4\uc591\ud55c \uc885\ub958\uc758 \uad34\ubb3c\ub4e4\uc744 \ud3ec\ud68d\ud560 \uc218 \uc788\ub294<N><FC 0,128,0>\ud3ec\ud68d \ub531\uc815\ubc8c\ub808 20<END FC>\ub9c8\ub9ac\ub97c<N>\uc9c0\ub2c8\uace0 \ub2e4\ub2d0 \uc218 \uc788\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR>\uad34\ubb3c\uc744 \ud3ec\ud68d\ud558\ub824\uba74, \uba3c\uc800<N>\uc21c\uc21c\ud788 \ud3ec\ud68d\ub420 \ub54c\uae4c\uc9c0 \uacf5\uaca9\uc744 \uac00\ud574\uc57c\ub9cc \ud55c\ub2e4. \uadf8\ub7ec\uba74,<N>\ub178\ub791\uc73c\ub85c \ube5b\ub0a0 \uac83\uc774\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR>\uad34\ubb3c\uc774 \uc57d\ud574\uc9c0\uba74, \ud3ec\ud68d \ub531\uc815\ubc8c\ub808\ub97c \ud480\uc5b4\ub193\ub294\ub2e4. <SB HT_PadAction_PLR_MoveBeetle>\uc744 \uc774\uc6a9\ud558\uc5ec \ub531\uc815\ubc8c\ub808\ub97c \uad34\ubb3c\uc5d0\uac8c \uc778\ub3c4\ud55c\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR>\ub531\uc815\ubc8c\ub808\uac00 \uad34\ubb3c\uc5d0 \ubd80\ub52a\ud788\uba74, \ud3ec\ud68d\ub418\uc5b4 \ubaa9\ub85d\uc5d0 \ucd94\uac00\ub420 \uac83\uc774\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>딱정벌레 주머니<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 주머니에는 다양한 종류의 괴물들을 포획할 수 있는<N><FC 0,128,0>포획 딱정벌레 20<END FC>마리를<N>지니고 다닐 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>괴물을 포획하려면, 먼저<N>순순히 포획될 때까지 공격을 가해야만 한다. 그러면,<N>노랑으로 빛날 것이다.<P><ES HT_Text_ES_S_HelpText><CNTR>괴물이 약해지면, 포획 딱정벌레를 풀어놓는다. <SB HT_PadAction_PLR_MoveBeetle>을 이용하여 딱정벌레를 괴물에게 인도한다.<P><ES HT_Text_ES_S_HelpText><CNTR>딱정벌레가 괴물에 부딪히면, 포획되어 목록에 추가될 것이다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 215"
   },
   "HT_Text_Gen_Help_GotScarabPurseUpgrade01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ub300\ud615 \uc2a4\uce90\ub7fd \uac00\ubc29<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\uc774\uc81c <FC 0,128,0>900 \uc2a4\uce90\ub7fd<END FC>\uc529\uc774\ub098 \uac00\uc9c0\uace0 \ub2e4\ub2d0 \uc218 \uc788\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>대형 스캐럽 가방<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이제 <FC 0,128,0>900 스캐럽<END FC>씩이나 가지고 다닐 수 있다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 216"
   },
   "HT_Text_Gen_Help_GotBeetleSatchel": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc791\uc740 \ub531\uc815\ubc8c\ub808 \uac00\ubc29<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\uc774\uc81c \ud3ec\ud68d \ub531\uc815\ubc8c\ub808\ub97c 50\ub9c8\ub9ac\uc529\uc774\ub098 \uac00\uc9c0\uace0 \ub2e4\ub2d0 \uc218 \uc788\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>작은 딱정벌레 가방<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이제 포획 딱정벌레를 50마리씩이나 가지고 다닐 수 있다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 217"
   },
   "HT_Text_Gen_Help_GotDartBelt": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ub2e4\ud2b8 \ud601\ub300<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\uac01 \uc885\ub958\uc758 \ub2e4\ud2b8\ub97c 50\uac1c\uc529 \uac00\uc9c0\uace0 \ub2e4\ub2d0 \uc218 \uc788\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>다트 혁대<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>각 종류의 다트를 50개씩 가지고 다닐 수 있다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 218"
   },
   "HT_Text_Gen_Help_GotAnkhPiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ud669\uae08 \uc559\ud06c \uc870\uac01<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774\uac83\uc744 \ub124 \uac1c \ubaa8\uc73c\uba74 \uc54c\ub9de\uc740 \ub2a5\ub825\uc744 \uc9c0\ub2cc \uc790\uac00<N>\ub108\uc758 \uccb4\ub825 \ucd5c\ub300\uac12\uc744 \uc99d\uac00\uc2dc\ud0ac \uc218 \uc788\uc744 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 앙크 조각<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것을 네 개 모으면 알맞은 능력을 지닌 자가<N>너의 체력 최대값을 증가시킬 수 있을 것이다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 219"
   },
   "HT_Text_Gen_Help_GotAnkhContainer": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ud669\uae08 \uc559\ud06c<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \ub9c8\ubc95\uc758 \uc720\ubb3c\uc774 \ub108\uc758 \uccb4\ub825 \ucd5c\ub300\uac12\uc744<N><FC 0,128,0>1 \uc559\ud06c<END FC>\ub9cc\ud07c \uc99d\uac00\uc2dc\ucf30\uace0 \ub108\uc758 \uccb4\ub825\uc744 \ub2e4\uc2dc \ucc44\uc6e0\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 앙크<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 유물이 너의 체력 최대값을<N><FC 0,128,0>1 앙크<END FC>만큼 증가시켰고 너의 체력을 다시 채웠다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 220"
   },
   "HT_Text_Gen_Help_Got100Scarabs": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>100 \ud669\uae08 \uc2a4\uce90\ub7fd<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\ud55c\uaebc\ubc88\uc5d0 \uc804\ubd80 \ub0ad\ube44\ud558\uc9c0 \ub9d0\ub3c4\ub85d!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>100 황금 스캐럽<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>한꺼번에 전부 낭비하지 말도록!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 221"
   },
   "HT_Text_Gen_Help_GotIceDarts": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc5bc\uc74c \ub2e4\ud2b8<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \ub9c8\ubc95\uc758 \ub2e4\ud2b8\ub4e4\uc740 \ud2b9\uc815 \uad34\ubb3c\ub4e4\uc744 <N>\uc5bc\ub824 \ubc84\ub9ac\ub294\ub370 \uc0ac\uc6a9\ub420 \uc218 \uc788\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR>\uad34\ubb3c\uc744 \uc5bc\ub824\ubc84\ub9ac\uba74 \uadf8 \uc5bc\uc74c \ub369\uc5b4\ub9ac\ub97c<N>\ud06c\uae30\uc5d0 \ub530\ub77c \uc9d1\uc5b4 \ub4e4\ub358\uac00 \ubc00\uc5b4\ubc84\ub9b4 \uc218 \uc788\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR>\uac08 \uc218 \uc5c6\uc5c8\ub358 \uacf3\uc744 \ub3c4\ub2ec\ud558\uae30 \uc704\ud574\uc11c<N>\uadf8 \uc5bc\uc74c \ub369\uc5b4\ub9ac \uc704\ub85c \uc62c\ub77c\uc124 \uc218\ub3c4 \uc788\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR>\ud55c \ud3b8\uc73c\ub85c\ub294, \uadf8 \ub369\uc5b4\ub9ac\ub97c<N>\ub108\uc758 \uac80\uc73c\ub85c \uccd0\uc11c \ubd80\uc154\ubc84\ub9b4 \uc218\ub3c4 \uc788\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>얼음 다트<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 다트들은 특정 괴물들을 <N>얼려 버리는데 사용될 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>괴물을 얼려버리면 그 얼음 덩어리를<N>크기에 따라 집어 들던가 밀어버릴 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>갈 수 없었던 곳을 도달하기 위해서<N>그 얼음 덩어리 위로 올라설 수도 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>한 편으로는, 그 덩어리를<N>너의 검으로 쳐서 부셔버릴 수도 있다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 222"
   },
   "HT_Text_Gen_Help_GotAcidDarts": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc5fc\uc0b0 \ub2e4\ud2b8<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\uc774 \ubd80\uc2dd\uc131\uc774 \uc788\ub294 \ub9c8\ubc95\uc758 \ub2e4\ud2b8\ub294 \ud2b9\uc815 \uae08\uc18d \uc0ac\uc2ac\uc744 \ub179\uc774\uae30 \uc704\ud574 \uc0ac\uc6a9\ud560 \uc218 \uc788\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>염산 다트<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 부식성이 있는 마법의 다트는 특정 금속 사슬을 녹이기 위해 사용할 수 있다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 223"
   },
   "HT_Text_Gen_Help_GotHippyItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc591\uc0b0<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\ub354\uc6b4 \uc5ec\ub984\ub0a0\uc5d0 \uadf8\ub9bc\uc790\ub97c \uc81c\uacf5\ud558\ub294 \uac83\uc73c\ub85c<N>\uc644\ubcbd\ud574 \ubcf4\uc778\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>양산<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>더운 여름날에 그림자를 제공하는 것으로<N>완벽해 보인다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 224"
   },
   "HT_Text_Gen_Help_GotBeetleBreederItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ub531\uc815\ubc8c\ub808 \uc591\uc721 \ub2e8\uc9c0<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 128,64,0>\ubca0\ub450\uc778 \ubcc0\ubc29<END FC>\uc5d0 \uc788\ub294 \ub531\uc815\ubc8c\ub808 \uc591\uc721\uac00\ub294<N>\uc774\uac83\uc744 \ubcf4\uba74 \ub9e4\uc6b0 \uae30\ubed0\ud560 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>딱정벌레 양육 단지<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 128,64,0>베두인 변방<END FC>에 있는 딱정벌레 양육가는<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 225"
   },
   "HT_Text_Gen_Help_GotUnderwaterProjectile": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc218\uc911 \ubc1c\uc0ac\uccb4<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\uc774\uac83\ub4e4\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc218\uc911\uc5d0\uc11c \ud5e4\uc5c4\uce58\uba70<N>\ubaa9\ud45c\ubb3c\uacfc \uad34\ubb3c\ub4e4\uc744 \ub9de\ucd9c \uc218 \uc788\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc218\uc911\uc5d0 \uc788\uc744 \ub54c \ud5a5\ud55c \ubc29\ud5a5\uc73c\ub85c \ubc1c\uc0ac\ubb3c\uc744 \uc3d8\ub824\uba74<N><SB HT_Action_UnderwaterAttack>\ub97c \ub204\ub974\uae30\ub9cc \ud558\uba74 \ub41c\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>수중 발사체<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이것들을 사용하여 수중에서 헤엄치며<N>목표물과 괴물들을 맞출 수 있다!<P><ES HT_Text_ES_S_HelpText><CNTR>수중에 있을 때 향한 방향으로 발사물을 쏘려면<N><SB HT_Action_UnderwaterAttack>를 누르기만 하면 된다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 226"
   },
   "HT_Text_Gen_Help_GotFastSwim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc545\uc5b4 \ube44\ub298<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \uace0\ub300\uc758 \uc720\ubb3c\uc740 \uc218\uc911\uc5d0\uc11c<N>\ub300\ub2e8\ud55c \uc18d\ub825\uc73c\ub85c \ud5e4\uc5c4\uce60 \uc218 \uc788\uac8c \ud55c\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc218\uc911\uc5d0\uc11c <SB HT_Action_SwimFast>\ub97c \ub20c\ub7ec<N>\uc2e0\ub098\uac8c \uc218\uc601\ud55c\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>악어 비늘<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 고대의 유물은 수중에서<N>대단한 속력으로 헤엄칠 수 있게 한다!<P><ES HT_Text_ES_S_HelpText><CNTR>수중에서 <SB HT_Action_SwimFast>를 눌러<N>신나게 수영한다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 227"
   },
   "HT_Text_Gen_Help_FoundGoldKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ud669\uae08 \uc5f4\uc1e0<END FC>\ub97c \uad6c\ud588\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 열쇠<END FC>를 구했다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 228"
   },
   "HT_Text_Gen_Help_FoundGlyphKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uae00\ub9ac\ud504 \uc5f4\uc1e0<END FC>\ub97c \uad6c\ud588\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>글리프 열쇠<END FC>를 구했다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 229"
   },
   "HT_Text_Gen_Help_FoundCanopicVase": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ub0a9\uace8\ub2e8\uc9c0<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\ud22c\ud0d5\uce74\uba58\uc758 \uc601\ud63c\uc758 \uc77c\ubd80\uac00<N>\uc548\uc5d0 \uc800\uc7a5\ub418\uc5b4\uc788\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>납골단지<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>투탕카멘의 영혼의 일부가<N>안에 저장되어있다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 230"
   },
   "HT_Text_Gen_Help_FoundRosettaStonePiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ub85c\uc81c\ud0c0\uc11d\uc758 \uc870\uac01<END FC>\ud558\ub098\ub97c \ucc3e\uc558\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uace0\uace0\ud559\uc790\ub294 \uc774\uac83\uc5d0 \ub9e4\uc6b0 \uad00\uc2ec\uc774 \uc788\uc744 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>로제타석의 조각<END FC>하나를 찾았다!<P><ES HT_Text_ES_S_HelpText><CNTR>고고학자는 이것에 매우 관심이 있을 것이다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 231"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ub0a8\ucabd \uc0ac\ub9c9 \uc5f4\uc1e0<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774\uac83\uc740<FC 128,64,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \ub0a8\ucabd \uc0ac\ub9c9<END FC>\uc73c\ub85c<N>\ud5a5\ud558\ub294 \uad00\ubb38\uc744 \uc5f0\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>남쪽 사막 열쇠<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것은<FC 128,64,0>헬리오폴리스의 남쪽 사막<END FC>으로<N>향하는 관문을 연다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 232"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc624\ubca8\ub9ac\uc2a4\ud06c \uad00\ubb38 \uc5f4\uc1e0<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774\uac83\uc740  <FC 128,64,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \uc704\ub300\ud55c \uc624\ubca8\ub9ac\uc2a4\ud06c<END FC>\ub85c<N>\ud5a5\ud558\ub294 \uad00\ubb38\uc744 \uc5f0\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>오벨리스크 관문 열쇠<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것은  <FC 128,64,0>헬리오폴리스의 위대한 오벨리스크<END FC>로<N>향하는 관문을 연다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 233"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ub3d9\uad74 \ubb38 \uc5f4\uc1e0<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774\uac83\uc740 <N><FC 128,64,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4 \uc9c0\uc810<END FC>\uc640 <FC 128,64,0>\ub0a8\ucabd \ud574\ubcc0<END FC>\uc0ac\uc774\uc758<N>\ub3d9\uad74\uc758 \ub3cc\ub85c \ub41c \ubb38\uc744 \uc5f0\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>동굴 문 열쇠<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것은 <N><FC 128,64,0>헬리오폴리스 지점<END FC>와 <FC 128,64,0>남쪽 해변<END FC>사이의<N>동굴의 돌로 된 문을 연다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 234"
   },
   "HT_Text_Gen_Help_GotPhysiciansNote": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc758\uc0ac\uc758 \ucabd\uc9c0<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\uc774\uac83\uc740 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \uc6b4\ud558<END FC>\uc5d0 \uc0b4\uace0 \uc788\ub294<N>\ubc1c\uba85\uac00 \ucf00\uba54\ud2b8 \uc55e\uc73c\ub85c \ubcf4\ub0b4\uc9c0\ub3c4\ub85d \uc801\ud600\uc788\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>의사의 쪽지<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이것은 <FC 128,64,0>아비도스 운하<END FC>에 살고 있는<N>발명가 케메트 앞으로 보내지도록 적혀있다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 235"
   },
   "HT_Text_Gen_Help_GotHealingHerb": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uce58\ub8cc \uc57d\ucd08<END FC> \ud55c \uac1c\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \uc758\ud68c\uc2e4<END FC>\uc758 \uc758\uc0ac\ub294<N>\uc774\uac83\uc744 \ubcf4\uba74 \uac00\uc7a5 \uae30\ubed0\ud560 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>치료 약초<END FC> 한 개를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 128,64,0>아비도스 의회실<END FC>의 의사는<N>이것을 보면 가장 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 236"
   },
   "HT_Text_Gen_Help_GotAtunStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc544\ud230 \uc0c1<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\uc774 \ud669\uae08 \ud615\uc0c1\uc740 \ub9c8\ub825\uc744 \uc9c0\ub2c8\uace0 \uc788\ub2e4\uace0 \uc804\ud574\uc9c4\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아툰 상<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 황금 형상은 마력을 지니고 있다고 전해진다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 237"
   },
   "HT_Text_Gen_Help_GotHathorStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ud558\ud1a0\ub974 \uc0c1<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\uc774 \ud669\uae08 \ud615\uc0c1\uc740 \ub9c8\ub825\uc744 \uc9c0\ub2c8\uace0 \uc788\ub2e4\uace0 \uc804\ud574\uc9c4\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>하토르 상<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 황금 형상은 마력을 지니고 있다고 전해진다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 238"
   },
   "HT_Text_Gen_Help_GotMedicineBag": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc57d\ucd08\uc8fc\uba38\ub2c8<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\ud2b9\ubcc4\ud788 \uc548\uac10\uc774 \ub300\uc5b4\uc9c4 \uc774 \uac00\ubc29\uc740<N>\uc548\uc5d0 \ub2f4\uae34 \uc5b4\ub5a4 \uc12c\uc138\ud55c \uc758\uc57d\uc7ac\ub77c\ub3c4 \ubcf4\uc874\ud560 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>약초주머니<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>특별히 안감이 대어진 이 가방은<N>안에 담긴 어떤 섬세한 의약재라도 보존할 것이다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 239"
   },
   "HT_Text_Gen_Help_GotEagleStone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ub3c5\uc218\ub9ac \ub3cc<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \ub9c8\ubc95\uc774 \uac78\ub9b0 \ub3cc\uc740 \ud2b9\uc815 \uc9c0\uc810\uc5d0 \uc11c\uc11c<N>\uc704\ub300\ud55c \ub3c5\uc218\ub9ac \ud558\ub098\ub97c \uc18c\ud658\ud558\ub294 \uac83\uc744 \uac00\ub2a5\ud558\uac8c \ud55c\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>독수리 돌<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법이 걸린 돌은 특정 지점에 서서<N>위대한 독수리 하나를 소환하는 것을 가능하게 한다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 240"
   },
   "HT_Text_Gen_Help_GotWallSection2Key": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc131\ubcbd \uc5f4\uc1e0<END FC>\ub97c \ud55c \uac1c \uad6c\ud588\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>성벽 열쇠<END FC>를 한 개 구했다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 241"
   },
   "HT_Text_Gen_Help_GotWallSection3Key": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc131\ubcbd \uc5f4\uc1e0<END FC>\ub97c \ud55c \uac1c \uad6c\ud588\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>성벽 열쇠<END FC>를 한 개 구했다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 242"
   },
   "HT_Text_Gen_Help_NoBookOfDead": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>\uc0ac\uc790\uc758 \uc11c<END FC>\uac00 \uc5c6\uc774\ub294 <FC 0,128,0>\ub0a9\uace8\ub2e8\uc9c0<END FC>\ub97c \ubbf8\uc774\ub77c\uc5d0\uac8c \uc804\uc1a1\ud560 \ubc14\uc2a4-\ucf13\uc744 \uc18c\ud658\ud560 \uc218 \uc5c6\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>사자의 서<END FC>가 없이는 <FC 0,128,0>납골단지<END FC>를 미이라에게 전송할 바스-켓을 소환할 수 없다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 243"
   },
   "HT_Text_Gen_Help_NoHandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\uc774 \ubb3c\uac74\uc740 \ub124\uac00 \uc6c0\uc9c1\uc774\uae30\uc5d0 \ub108\ubb34 \ubb34\uac81\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 물건은 네가 움직이기에 너무 무겁다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 244"
   },
   "HT_Text_Gen_Help_UseItem_NoItem01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uc5b4\ub5a4 \uc885\ub958\uc758 \uc544\uc774\ud15c\ub4e4\uc744 \uc704\ud55c \uc6b0\ubb35\ud55c \uacf3\uc774 \uc788\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>어떤 종류의 아이템들을 위한 우묵한 곳이 있다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 245"
   },
   "HT_Text_Gen_Help_UseItem_NoItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uc774 \uc7a5\uce58\ub97c \ud65c\uc131\ud654\ud558\ub824\uba74 <FC 0,128,0>\uc5f4\uc1e0<END FC>\uac00 \ud544\uc694\ud558\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 장치를 활성화하려면 <FC 0,128,0>열쇠<END FC>가 필요하다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 246"
   },
   "HT_Text_Gen_Help_UseItem_NoItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uc774 \uad6c\uc870\ubb3c\uc5d0 \ud070 \uc0c8\uc758 \uadf8\ub9bc\uc774 \uadf8\ub824\uc838 \uc788\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 구조물에 큰 새의 그림이 그려져 있다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 247"
   },
   "HT_Text_Gen_Help_UseItem_NoItem04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uc774 \uc11d\uc0c1\uc758 \ub208\uad6c\uba4d\uc740 \ube44\uc5b4\uc788\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 석상의 눈구멍은 비어있다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 248"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uadf8 \uc544\uc774\ud15c\uc740 \uc5ec\uae30\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc5c6\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>그 아이템은 여기서 사용할 수 없다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 249"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uadf8 \uc5f4\uc1e0\ub294 \ub9de\uc9c0 \uc54a\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>그 열쇠는 맞지 않다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 250"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uadf8 <FC 0,128,0>\uc800\uc8fc\uc11d<END FC>\uc740 \ud2c0\ub9b0 \uc0c9\uc774\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>그 <FC 0,128,0>저주석<END FC>은 틀린 색이다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 251"
   },
   "HT_Text_Gen_Help_GotCurseStones01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc800\uc8fc\uc11d 2<END FC>\uac1c\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uac01\uac01\uc758 \ub9c8\ubc95\uc758 \ub3cc\uc740 <FC 128,64,0>\uc800\uc8fc \ubc1b\uc740 \uc131<END FC>\uc758<N><CNTR>\uc8fc\ubbfc \ud55c \uba85\uc758 \uc800\uc8fc\ub97c \ud480 \uc218 \uc788\ub294 \ud798\uc774 \uc788\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>저주석 2<END FC>개를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>각각의 마법의 돌은 <FC 128,64,0>저주 받은 성<END FC>의<N><CNTR>주민 한 명의 저주를 풀 수 있는 힘이 있다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 252"
   },
   "HT_Text_Gen_Help_GotCurseStones02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc800\uc8fc\uc11d 2<END FC>\uac1c\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uac01\uac01\uc758 \ub9c8\ubc95\uc758 \ub3cc\uc740 <FC 128,64,0>\uc800\uc8fc \ubc1b\uc740 \uc131<END FC>\uc758<N><CNTR>\uc8fc\ubbfc \ud55c \uba85\uc758 \uc800\uc8fc\ub97c \ud480 \uc218 \uc788\ub294 \ud798\uc774 \uc788\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>저주석 2<END FC>개를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>각각의 마법의 돌은 <FC 128,64,0>저주 받은 성<END FC>의<N><CNTR>주민 한 명의 저주를 풀 수 있는 힘이 있다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 253"
   },
   "HT_Text_Gen_Help_GotCurseStones03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0> \uc800\uc8fc\uc11d 3<END FC>\uac1c\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uac01\uac01\uc758 \ub9c8\ubc95\uc758 \ub3cc\uc740 <FC 128,64,0>\uc800\uc8fc \ubc1b\uc740 \uc131<END FC>\uc758<N><CNTR>\uc8fc\ubbfc \ud55c \uba85\uc758 \uc800\uc8fc\ub97c \ud480 \uc218 \uc788\ub294 \ud798\uc774 \uc788\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0> 저주석 3<END FC>개를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>각각의 마법의 돌은 <FC 128,64,0>저주 받은 성<END FC>의<N><CNTR>주민 한 명의 저주를 풀 수 있는 힘이 있다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 254"
   },
   "HT_Text_Gen_Help_GotPortalAmuletLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ubbf8\uc9c0\uc758 \ubd80\uc801<END FC>\uc744 \ud55c \uac1c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \uace0\ub300 \uc720\ubb3c\uc758 \uad34\uae30\ud55c \ubb38\uc591\ub4e4\uc740<N>\ubbf8\uc9c0\uc758 \uc7a5\uc18c\ub85c\uc758 \uc804\uc1a1\uc744 \uc758\ubbf8\ud55c\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>미지의 부적<END FC>을 한 개 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 고대 유물의 괴기한 문양들은<N>미지의 장소로의 전송을 의미한다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 255"
   },
   "HT_Text_Gen_Help_GotPortalAmuletAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc544\ube44\ub3c4\uc2a4 \ubd80\uc801<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \uace0\ub300\uc758 \uc720\ubb3c\uc5d0 \uc788\ub294 \ud574\uc591\uc758 \ubb38\uc591\ub4e4\uc740<N>\uc544\ube44\ub3c4\uc2a4\ub85c \uc804\uc1a1\uc744 \uc758\ubbf8\ud55c\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아비도스 부적<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 고대의 유물에 있는 해양의 문양들은<N>아비도스로 전송을 의미한다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 256"
   },
   "HT_Text_Gen_Help_GotPortalAmuletHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4 \ubd80\uc801<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\ubaa8\ub798\ub85c \uc0c8\uaca8\uc9c4 \ubb38\uc591\uc758 \uc774 \uace0\ub300 \uc720\ubb3c\uc740<N>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\ub85c\uc758 \uc804\uc1a1\uc744 \uc758\ubbf8\ud55c\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>헬리오폴리스 부적<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>모래로 새겨진 문양의 이 고대 유물은<N>헬리오폴리스로의 전송을 의미한다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 258"
   },
   "HT_Text_Gen_Help_GotPortalAmuletDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc544\ub204\ube44\uc2a4 \ubd80\uc801<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \uace0\ub300\uc758 \uc720\ubb3c\uc758 \ubb38\uc591\ub4e4\uc740<N>\uc544\ub204\ube44\uc2a4 \ud0d1\uc73c\ub85c\uc758 \uc804\uc1a1\uc744 \uc758\ubbf8\ud55c\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아누비스 부적<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 고대의 유물의 문양들은<N>아누비스 탑으로의 전송을 의미한다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 261"
   },
   "HT_Text_Gen_Help_Portal_HaveAmulet": {
-    "message": "\ub108\uc758 <FC 0,128,0>\ud3ec\ud138 \ubd80\uc801<END FC>\uc744 \ubcf4\uc5ec\ub2e4\uc624, \uc18c\uc778\uc774\uc5ec, \uadf8\ub7ec\uba74 \ub0b4\uac00 \ub108\uc758 \uc6b4\uba85\uc758 \uad00\ubb38\ub4e4\uc744 \uc5f4\uc5b4\uc904 \uac83\uc774\ub2e4.<E>",
+    "message": "너의 <FC 0,128,0>포털 부적<END FC>을 보여다오, 소인이여, 그러면 내가 너의 운명의 관문들을 열어줄 것이다.<E>",
     "description": "SphinxText.xls, row 263"
   },
   "HT_Text_Gen_Help_Portal_NoAmulet": {
-    "message": "\ub098\ub97c \uc65c \uc18c\ud658\ud558\uc600\ub294\uac00? <FC 0,128,0>\ud3ec\ud138 \ubd80\uc801<END FC>\uc774 \uc5c6\uc774\ub294 \ub108\ub97c \ud1b5\uacfc\uc2dc\ud0ac \uc218 \uc5c6\ub2e4.<E>",
+    "message": "나를 왜 소환하였는가? <FC 0,128,0>포털 부적<END FC>이 없이는 너를 통과시킬 수 없다.<E>",
     "description": "SphinxText.xls, row 264"
   },
   "HT_Text_Gen_Help_Portal_AlreadyHere": {
-    "message": "\ub098\uc5d0\uac8c \ubb34\uc2a8 \ubc14\ubcf4 \uac19\uc740 \uc77c\uc744 \uc694\uccad\ud558\ub294\uac00? \ub108\ub294 \uc774\ubbf8 \uc774\uacf3\uc5d0 \uc788\ub2e4.<E>",
+    "message": "나에게 무슨 바보 같은 일을 요청하는가? 너는 이미 이곳에 있다.<E>",
     "description": "SphinxText.xls, row 265"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \uc81c\ubb3c\uc744 \ubc1b\uc544\ub4e4\uc5ec<N>\ub108\ub97c <FC 128,64,0>\ubbf8\uc9c0\uc758 \uc7a5\uc18c<END FC>\ub85c \uc804\uc1a1\ud560 \uac83\uc774\ub2e4...<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를 <FC 128,64,0>미지의 장소<END FC>로 전송할 것이다...<E>",
     "description": "SphinxText.xls, row 266"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \uc81c\ubb3c\uc744 \ubc1b\uc544\ub4e4\uc5ec<N>\ub108\ub97c <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\ub85c \uc804\uc1a1\ud560 \uac83\uc774\ub2e4...<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를 <FC 128,64,0>아비도스<END FC>로 전송할 것이다...<E>",
     "description": "SphinxText.xls, row 267"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedAkaria01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \uc81c\ubb3c\uc744 \ubc1b\uc544\ub4e4\uc5ec<N>\ub108\ub97c<FC 128,64,0>\uc544\uce74\ub9ac\uc544<END FC>\ub85c \uc804\uc1a1\ud560 \uac83\uc774\ub2e4...<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를<FC 128,64,0>아카리아<END FC>로 전송할 것이다...<E>",
     "description": "SphinxText.xls, row 268"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \uc81c\ubb3c\uc744 \ubc1b\uc544\ub4e4\uc5ec<N>\ub108\ub97c<FC 128,64,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4<END FC>\ub85c \uc804\uc1a1\ud560 \uac83\uc774\ub2e4...<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를<FC 128,64,0>헬리오폴리스<END FC>로 전송할 것이다...<E>",
     "description": "SphinxText.xls, row 269"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedSakkara01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \uc81c\ubb3c\uc744 \ubc1b\uc544\ub4e4\uc774\uace0 <FC 128,64,0>\uc0ac\uce74\ub77c<END FC>\ub85c\uc758 \uc804\uc1a1\uc744 \uc81c\uacf5\ud560 \uac83\uc774\ub2e4...<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>포털 신은 너의 제물을 받아들이고 <FC 128,64,0>사카라<END FC>로의 전송을 제공할 것이다...<E>",
     "description": "SphinxText.xls, row 270"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedUruk01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \uc81c\ubb3c\uc744 \ubc1b\uc544\ub4e4\uc5ec \ub108\ub97c<FC 128,64,0>\uc6b0\ub8e8\ud06c \uc131<END FC>\uc73c\ub85c \uc804\uc1a1\ud560 \uac83\uc774\ub2e4...<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>포털 신은 너의 제물을 받아들여 너를<FC 128,64,0>우루크 성<END FC>으로 전송할 것이다...<E>",
     "description": "SphinxText.xls, row 271"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \uc81c\ubb3c\uc744 \ubc1b\uc544\ub4e4\uc5ec<N>\ub108\ub97c<FC 128,64,0>\uc544\ub204\ube44\uc2a4 \ud0d1<END FC>\uc73c\ub85c \uc804\uc1a1\ud560 \uac83\uc774\ub2e4...<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를<FC 128,64,0>아누비스 탑<END FC>으로 전송할 것이다...<E>",
     "description": "SphinxText.xls, row 272"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \uc81c\ubb3c\uc744 \ubc1b\uc544\ub4e4\uc5ec \ub108\ub97c<FC 128,64,0>\uc6b0\ub8e8\ud06c \uacc4\uace1<END FC>\uc73c\ub85c \uc804\uc1a1\ud560 \uac83\uc774\ub2e4...<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>포털 신은 너의 제물을 받아들여 너를<FC 128,64,0>우루크 계곡<END FC>으로 전송할 것이다...<E>",
     "description": "SphinxText.xls, row 273"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \ubbf8\ub828\ud568\uc5d0 \uc990\uac70\uc6cc\ud55c\ub2e4.<N>\ub108\ub294 \uc774\ubbf8 <FC 128,64,0>\ubbf8\uc9c0\uc758 \uc7a5\uc18c<END FC>\uc5d0 \uc640\uc788\ub2e4!<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 미련함에 즐거워한다.<N>너는 이미 <FC 128,64,0>미지의 장소<END FC>에 와있다!<E>",
     "description": "SphinxText.xls, row 274"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \ubbf8\ub828\ud568\uc5d0 \uc990\uac70\uc6cc\ud55c\ub2e4.<N>\ub108\ub294 \uc774\ubbf8 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc5d0 \uc788\ub2e4!<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 미련함에 즐거워한다.<N>너는 이미 <FC 128,64,0>아비도스<END FC>에 있다!<E>",
     "description": "SphinxText.xls, row 275"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \ubbf8\ub828\ud568\uc5d0 \uc990\uac70\uc6cc\ud55c\ub2e4.<N>\ub108\ub294 \uc774\ubbf8 <FC 128,64,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4<END FC>\uc5d0 \uc788\ub2e4!<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 미련함에 즐거워한다.<N>너는 이미 <FC 128,64,0>헬리오폴리스<END FC>에 있다!<E>",
     "description": "SphinxText.xls, row 276"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \ubbf8\ub828\ud568\uc5d0 \uc990\uac70\uc6cc\ud55c\ub2e4.<N>\ub108\ub294 \uc774\ubbf8 <FC 128,64,0>\uc544\ub204\ube44\uc2a4 \ud0d1<END FC>\uc5d0 \uc788\ub2e4!<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 미련함에 즐거워한다.<N>너는 이미 <FC 128,64,0>아누비스 탑<END FC>에 있다!<E>",
     "description": "SphinxText.xls, row 277"
   },
   "HT_Text_Gen_Help_Portal_AmuletDenied01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ud3ec\ud138 \uc2e0\uc740 \uc774\ubc88\uc5d0\ub294 \ub108\ub97c \ud1b5\uacfc\uc2dc\ud0a4\uc9c0 \uc54a\uc744 \uac83\uc774\ub2e4...<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>포털 신은 이번에는 너를 통과시키지 않을 것이다...<E>",
     "description": "SphinxText.xls, row 278"
   },
   "HT_Text_Gen_Help_UseItem_NoItem05": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uc774 \ubb38\uc744 \uc5f4\ub824\uba74 <FC 0,128,0>\uc5f4\uc1e0<END FC> \ud558\ub098\uac00 \ud544\uc694\ud558\ub2e4.<ES HT_Text_ES_S_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 문을 열려면 <FC 0,128,0>열쇠<END FC> 하나가 필요하다.<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 279"
   },
   "HT_Text_Mum_Sewer_King_Challenge1": {
-    "message": "\ub0b4 \uc8fc\uc704\uc758 \ud683\ubd88\uc5d0 \ubaa8\ub450 \ubd88\uc744 \ubd99\uc774\uba74 \ub108\uc5d0\uac8c \uc774 \uace0\ub300\uc758 \uc720\ubb3c\uc744 \uc8fc\uaca0\ub2e4. \ud558\uc9c0\ub9cc \uc870\uc2ec\ud574\ub77c, \ubd88\uc740 \ubd99\uc774\uae30 \uc27d\uc9c0\ub9cc \uadf8 \ub9cc\ud07c \uc798 \uaebc\uc9c0\ub2c8\uae50.<E>",
+    "message": "내 주위의 횃불에 모두 불을 붙이면 너에게 이 고대의 유물을 주겠다. 하지만 조심해라, 불은 붙이기 쉽지만 그 만큼 잘 꺼지니깐.<E>",
     "description": "SphinxText.xls, row 280"
   },
   "HT_Text_Mum_Chapter1_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc774\ube44\uc2a4\uc758 \ub0a0\uac1c<END FC>\uc744 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>이비스의 날개<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 281"
   },
   "HT_Text_Mum_Chapter2_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc544\ud230 \uc0c1<END FC>\uc744 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아툰 상<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 282"
   },
   "HT_Text_Mum_Chapter3_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc57d\ucd08\uc8fc\uba38\ub2c8<END FC>\ub97c \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>약초주머니<END FC>를 찾았다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 283"
   },
   "HT_Text_Mum_Chapter4_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc544\ubb38\uc758 \uc190<END FC>\uc744 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아문의 손<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 284"
   },
   "HT_Text_Mum_Chapter5_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc655\uc2e4\uc758 \ucd08\ub300\uc7a5<END FC>\uc744 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>왕실의 초대장<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 285"
   },
   "HT_Text_Mum_Chapter1_FoundJewel1": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uccab \ubc88\uc9f8 <FC 0,128,0>\ub3c4\ub09c \ub2f9\ud55c \uc544\ube44\ub3c4\uc2a4 \ubcf4\ubb3c<END FC>\uc744 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><W 90>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>첫 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><W 90>",
     "description": "SphinxText.xls, row 286"
   },
   "HT_Text_Mum_Chapter2_FoundJewel2": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ub450 \ubc88\uc9f8 <FC 0,128,0>\ub3c4\ub09c \ub2f9\ud55c \uc544\ube44\ub3c4\uc2a4 \ubcf4\ubb3c<END FC>\uc744 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>두 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 287"
   },
   "HT_Text_Mum_Chapter3_FoundJewel3": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uc138 \ubc88\uc9f8 <FC 0,128,0>\ub3c4\ub09c \ub2f9\ud55c \uc544\ube44\ub3c4\uc2a4 \ubcf4\ubb3c<END FC>\uc744 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>세 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 288"
   },
   "HT_Text_Mum_Chapter4_FoundJewel4": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ub124 \ubc88\uc9f8 <FC 0,128,0>\ub3c4\ub09c \ub2f9\ud55c \uc544\ube44\ub3c4\uc2a4 \ubcf4\ubb3c<END FC>\uc744 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>네 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 289"
   },
   "HT_Text_Mum_Chapter5_FoundJewel5": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ub2e4\uc12f \ubc88\uc9f8  <FC 0,128,0>\ub3c4\ub09c \ub2f9\ud55c \uc544\ube44\ub3c4\uc2a4 \ubcf4\ubb3c<END FC>\uc744 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>다섯 번째  <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 290"
   },
   "HT_Text_Mum_Chapter6_FoundJewel6": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uc5ec\uc12f \ubc88\uc9f8  <FC 0,128,0>\ub3c4\ub09c \ub2f9\ud55c \uc544\ube44\ub3c4\uc2a4 \ubcf4\ubb3c<END FC>\uc744 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>여섯 번째  <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 291"
   },
   "HT_Text_Aby_Canal_GotStairsKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uacc4\ub2e8 \uc5f4\uc1e0<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc6b0\ubb3c \ucabd\uc758 \ubc1c\ucf54\ub2c8\ub85c \ud5a5\ud558\ub294 \uacc4\ub2e8\uc744 \uc5f4 \ub54c \uc0ac\uc6a9\ud558\ub77c.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>계단 열쇠<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>우물 쪽의 발코니로 향하는 계단을 열 때 사용하라.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 292"
   },
   "HT_Text_Gen_Help_GotZipHandle": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ub3c4\ub974\ub798 \uc904 \uc190\uc7a1\uc774<END FC>\ub97c \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774\uc81c\ubd80\ud130 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \ub3c4\ub974\ub798 \uc904\ub4e4\uc744 \uc0ac\uc6a9\ud558\uc5ec<N>\ub3c4\uc2dc\ub97c \ub3cc\uc544\ub2e4\ub2d0 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>도르래 줄 손잡이<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이제부터 <FC 128,64,0>아비도스<END FC>의 도르래 줄들을 사용하여<N>도시를 돌아다닐 수 있다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 293"
   },
   "HT_Text_Gen_Help_GotParasol": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc591\uc0b0<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\ud587\ubcd5\uc758 \ubb34\ub354\uc6b4 \ub0a0\uc5d0 \ub9e4\uc6b0 \uc720\uc6a9\ud558\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>양산<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>햇볕의 무더운 날에 매우 유용하다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 294"
   },
   "HT_Text_Mum_Cast_Urukite1": {
-    "message": "\ubb3c\ub7ec\uac00\ub77c, \uad34\ubb3c\uc544!!! \uc138\ud2b8\uac00 \ub098\ub97c \uc8fd\uc77c \uc218 \uc788\uc9c0\ub9cc, \ub0b4 \uc601\ud63c\uc744 \uac16\uc9c0\ub294 \ubabb\ud55c\ub2e4! <E>",
+    "message": "물러가라, 괴물아!!! 세트가 나를 죽일 수 있지만, 내 영혼을 갖지는 못한다! <E>",
     "description": "SphinxText.xls, row 296"
   },
   "HT_Text_Mum_Cast_Urukite2": {
-    "message": "\uc65c \ub098\ub97c \ud574\ubc29\ud558\ub294\uac00? \ub204\uad70\uac00? \ub098\ub97c \uc8fd\uc774\uace0 \uc2f6\uc9c0\ub294 \uc54a\uc740\uac00? <E>",
+    "message": "왜 나를 해방하는가? 누군가? 나를 죽이고 싶지는 않은가? <E>",
     "description": "SphinxText.xls, row 297"
   },
   "HT_Text_Mum_Cast_Urukite3": {
-    "message": "\ud760... \ucca0\uc7a5 \ubc16\uc5d0\uc11c \uadf8\ub807\uac8c \ubb34\uc11c\uc6cc \ubcf4\uc774\uc9c0\ub294 \uc54a\ub294\uad70... \uc65c \ub098\ub97c \ub3d5\ub294 \uac70\uc9c0? <E>",
+    "message": "흠... 철장 밖에서 그렇게 무서워 보이지는 않는군... 왜 나를 돕는 거지? <E>",
     "description": "SphinxText.xls, row 298"
   },
   "HT_Text_Mum_Cast_Urukite4": {
-    "message": "\uc0ac\ub78c\ub4e4\uc774 \ub098\ubcf4\uace0 \uc131\uc5d0\uc11c \ubcf4\uc11d\uc744 \ud6d4\ucce4\ub2e4\uace0 \ud558\uc9c0\ub9cc \ub09c \uadf8\ub7f0 \uc801 \uc5c6\uc5b4!<P>\ub0b4 \uc774\ub984\uc740 \ucf04\uc218\ub2e4. \ub098\ub294 \uc6b0\ub8e8\ud06c\uc778\uc774\ub2e4. \uc6b0\ub9ac\ub294 \uc138\ud2b8\uac00 \ub098\ud0c0\ub098\uae30 \uc804 \uc774 \uc9c0\uc5ed\uc758 \uc8fc\ubbfc\ub4e4\uc774\uc5c8\ub2e4 . \uc6b0\ub9ac\uc758 \uc22b\uc790\ub294 \uc801\uace0 \uc131\uc5d0 \uc228\uc5b4\uc11c \uc0b4\uc544\ub0a8\uc73c\ub824\uace0 \ub178\ub825\ud55c\ub2e4.<P>\uc9c0\uae08\uae4c\uc9c0\ub294 \uc774 \uc9c0\uc5ed\uc744 \ub354 \uc798 \uc54c\uae30 \ub54c\ubb38\uc5d0 \uc138\ud2b8\ub97c \ud53c\ud574\uc654\uc9c0\ub9cc \uadf8\ub9ac \uc624\ub798\uac00\uc9c0 \ubabb\ud560 \uac83\uc774\ub2e4. \ub2e4\ub978 \uc774\uac00 \ub3c4\uc640\uc8fc\uc9c0 \uc54a\ub294\ub2e4\uba74 \uacb0\uad6d\uc5d0\ub294 \uadf8\uac00 \uc6b0\ub9ac\ub97c \ucc3e\uc744 \uac83\uc774\ub2e4. <E>",
+    "message": "사람들이 나보고 성에서 보석을 훔쳤다고 하지만 난 그런 적 없어!<P>내 이름은 켄수다. 나는 우루크인이다. 우리는 세트가 나타나기 전 이 지역의 주민들이었다 . 우리의 숫자는 적고 성에 숨어서 살아남으려고 노력한다.<P>지금까지는 이 지역을 더 잘 알기 때문에 세트를 피해왔지만 그리 오래가지 못할 것이다. 다른 이가 도와주지 않는다면 결국에는 그가 우리를 찾을 것이다. <E>",
     "description": "SphinxText.xls, row 299"
   },
   "HT_Text_Mum_Cast_Urukite5": {
-    "message": "\uc5b4\ucc0c\ub418\uc5c8\uac74, \uc6b0\ub9ac\ub294 \uc774 \ubc29\uc5d0 \uc624\ub798 \uba38\ubb34\ub97c \uc218 \uc5c6\ub2e4. \uc138\ud2b8\uc758 \ud30c\uc218\uafbc\ub4e4\uc774 \uc5b8\uc81c \ub4e4\uc774\ub2e5\uce60\uc9c0 \ubaa8\ub978\ub2e4. \ub098\ub97c \ub530\ub77c\uc640. \uc774 \ubc29\uc5d0\uc11c \ud0c8\ucd9c\ud558\ub3c4\ub85d \ub3c4\uc640\uc8fc\uc9c0. <E>",
+    "message": "어찌되었건, 우리는 이 방에 오래 머무를 수 없다. 세트의 파수꾼들이 언제 들이닥칠지 모른다. 나를 따라와. 이 방에서 탈출하도록 도와주지. <E>",
     "description": "SphinxText.xls, row 300"
   },
   "HT_Text_Mum_Cast_Urukite6": {
-    "message": "\uc774 \ube44\ubc00\uc758 \ubb38\uc740 \uc131\uc758 \ub2e4\ub978 \uacf3\uacfc \uc5f0\uacb0\ub418\uc5b4 \uc788\ub2e4. \uc6b0\ub9ac\ub294 \uc774\uc81c \ud5e4\uc5b4\uc838\uc57c\ub9cc \ud55c\ub2e4. \uac19\uc774 \ubd99\uc5b4\uc788\ub294 \uac83\uc740 \uc6b0\ub9ac\uc5d0\uac8c \ub108\ubb34 \uc704\ud5d8\ud558\ub2e4. \uac74\ud22c\ub97c \ube48\ub2e4. <E>",
+    "message": "이 비밀의 문은 성의 다른 곳과 연결되어 있다. 우리는 이제 헤어져야만 한다. 같이 붙어있는 것은 우리에게 너무 위험하다. 건투를 빈다. <E>",
     "description": "SphinxText.xls, row 301"
   },
   "HT_Text_Mum_Cast_CageLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uc774 \ucca0\uc7a5\uc744 \uc5f4\ub824\uba74 <FC 0,128,0>\ucca0\uc7a5 \uc5f4\uc1e0<END FC>\uac00 \ud544\uc694\ud558\ub2e4.<ES HT_Text_ES_S_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 철장을 열려면 <FC 0,128,0>철장 열쇠<END FC>가 필요하다.<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 302"
   },
   "HT_Text_Mum_Cast_Help_FoundCageKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ucca0\uc7a5 \uc5f4\uc1e0<END FC>\ub97c \ud558\ub098 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_S_HelpText><E><W 30>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>철장 열쇠<END FC>를 하나 찾았다!<ES HT_Text_ES_S_HelpText><E><W 30>",
     "description": "SphinxText.xls, row 303"
   }
 }

@@ -8,31 +8,31 @@
     "description": "SphinxText.xls, row 2623"
   },
   "HT_Text_BOS_Monster_Health": {
-    "message": "Sant\u00e9",
+    "message": "Santé",
     "description": "SphinxText.xls, row 2624"
   },
   "HT_Text_BOS_Monster_AttackRating": {
-    "message": "Degr\u00e9 d'attaque",
+    "message": "Degré d'attaque",
     "description": "SphinxText.xls, row 2625"
   },
   "HT_Text_BOS_Monster_DefenceRating": {
-    "message": "Degr\u00e9 de d\u00e9fense",
+    "message": "Degré de défense",
     "description": "SphinxText.xls, row 2626"
   },
   "HT_Text_BOS_Monster_DR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Plus le degr\u00e9 de d\u00e9fense de ton monstre est \u00e9lev\u00e9, plus il r\u00e9siste aux coups.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Plus le degré de défense de ton monstre est élevé, plus il résiste aux coups.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2627"
   },
   "HT_Text_BOS_Monster_AR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Plus le degr\u00e9 d'attaque de ton monstre est \u00e9lev\u00e9, plus il inflige de dommages.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Plus le degré d'attaque de ton monstre est élevé, plus il inflige de dommages.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2628"
   },
   "HT_Text_BOS_Monster_Health_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>C'est la sant\u00e9 de ton monstre. Quand ton monstre perd toute sa sant\u00e9, tu ne peux plus l\u00e2cher de monstres de ce type - \u00e0 moins d'en capturer un autre, bien s\u00fbr!<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>C'est la santé de ton monstre. Quand ton monstre perd toute sa santé, tu ne peux plus lâcher de monstres de ce type - à moins d'en capturer un autre, bien sûr!<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2629"
   },
   "HT_Text_BOS_Monster_NoMoves": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Tu ne peux pas s\u00e9lectionner de mouvement.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Tu ne peux pas sélectionner de mouvement.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2630"
   },
   "HT_Text_BOS_Monster_NoMonsters": {

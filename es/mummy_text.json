@@ -1,10 +1,10 @@
 {
   "HT_Text_Mum_Test_SarcophagusLocked": {
-    "message": "<DHP><DP><ES HT_Text_ES_S_HelpText><N><CNTR>El sarc\u00f3fago est\u00e1 cerrado.<ES HT_Text_ES_S_HelpText><W 30>",
+    "message": "<DHP><DP><ES HT_Text_ES_S_HelpText><N><CNTR>El sarcófago está cerrado.<ES HT_Text_ES_S_HelpText><W 30>",
     "description": "SphinxText.xls, row 422"
   },
   "HT_Text_Mum_Eyei_UrukiteGoodbye01": {
-    "message": "No podemos pasar de aqu\u00ed. Es muy peligroso. <E>",
+    "message": "No podemos pasar de aquí. Es muy peligroso. <E>",
     "description": "SphinxText.xls, row 424"
   },
   "HT_Text_Mum_Eyei_UrukiteGoodbye02": {
@@ -12,35 +12,35 @@
     "description": "SphinxText.xls, row 425"
   },
   "HT_Text_Mum_Eye_SetMummy_Encounter01": {
-    "message": "\u00a1T\u00fa! \u00a1T\u00fa eres el que me ha estado fastidiando!<E>",
+    "message": "¡Tú! ¡Tú eres el que me ha estado fastidiando!<E>",
     "description": "SphinxText.xls, row 426"
   },
   "HT_Text_Mum_Eye_SetMummy_Encounter02": {
-    "message": "\u00a1Has tenido la audacia de detener el rayo! No s\u00e9 c\u00f3mo demonios lo habr\u00e1s conseguido, pero s\u00ed s\u00e9 c\u00f3mo vas a acabar.<E>",
+    "message": "¡Has tenido la audacia de detener el rayo! No sé cómo demonios lo habrás conseguido, pero sí sé cómo vas a acabar.<E>",
     "description": "SphinxText.xls, row 427"
   },
   "HT_Text_Mum_Eye_SetMummy_Encounter03": {
-    "message": "Ya no dar\u00e1 m\u00e1s problemas. \u00a1Vuelve a activar el rayo!<E>",
+    "message": "Ya no dará más problemas. ¡Vuelve a activar el rayo!<E>",
     "description": "SphinxText.xls, row 428"
   },
   "HT_Text_Mum_Eye_SetMummy_Encounter04": {
-    "message": "Maestro, puedo volver a activar el rayo, pero \u00a1no! \u00a1No puede ser!<E>",
+    "message": "Maestro, puedo volver a activar el rayo, pero ¡no! ¡No puede ser!<E>",
     "description": "SphinxText.xls, row 429"
   },
   "HT_Text_Mum_Eye_SetMummy_Encounter05": {
-    "message": "\u00a1La corona ha desaparecido! \u00a1El rayo no puede ser tan potente como antes!<E>",
+    "message": "¡La corona ha desaparecido! ¡El rayo no puede ser tan potente como antes!<E>",
     "description": "SphinxText.xls, row 430"
   },
   "HT_Text_Mum_Eye_SetMummy_Encounter06": {
-    "message": "No importa. Su protecci\u00f3n ser\u00e1 suficiente hasta que encuentre una soluci\u00f3n.<E>",
+    "message": "No importa. Su protección será suficiente hasta que encuentre una solución.<E>",
     "description": "SphinxText.xls, row 431"
   },
   "HT_Text_Mum_Sewr_Sarcophagus_Presentation01": {
-    "message": "Soy el Rey del pueblo de los sarc\u00f3fagos. Me puedes llamar Rameses.<E>",
+    "message": "Soy el Rey del pueblo de los sarcófagos. Me puedes llamar Rameses.<E>",
     "description": "SphinxText.xls, row 433"
   },
   "HT_Text_Mum_Sewr_Sarcophagus_Presentation02": {
-    "message": "Si enciendes todas las antorchas que hay a mi alrededor, te dar\u00e9 un antiguo objeto. <E>",
+    "message": "Si enciendes todas las antorchas que hay a mi alrededor, te daré un antiguo objeto. <E>",
     "description": "SphinxText.xls, row 434"
   },
   "HT_Text_Mum_Sewr_Sarcophagus_Presentation03": {
@@ -52,11 +52,11 @@
     "description": "SphinxText.xls, row 436"
   },
   "HT_Text_Mum_Sewr_Sarcophagus_Complete02": {
-    "message": "Te di mi palabra, as\u00ed que aqu\u00ed tienes la recompensa. \u00a1Espero que te resulte \u00fatil! <W 90>",
+    "message": "Te di mi palabra, así que aquí tienes la recompensa. ¡Espero que te resulte útil! <W 90>",
     "description": "SphinxText.xls, row 437"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1a": {
-    "message": "\u00a1Arghhhhhhhh! \u00a1No puede ser! \u00a1Me ha derrotado un ni\u00f1ato al que ni siquiera conozco! \u00a1El dispositivo m\u00e1gico nos ha devuelto al palacio oscuro!<E>",
+    "message": "¡Arghhhhhhhh! ¡No puede ser! ¡Me ha derrotado un niñato al que ni siquiera conozco! ¡El dispositivo mágico nos ha devuelto al palacio oscuro!<E>",
     "description": "SphinxText.xls, row 440"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2a": {
@@ -64,75 +64,75 @@
     "description": "SphinxText.xls, row 441"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1b": {
-    "message": "Y ahora esto. No podemos usar su energ\u00eda vital para adoptar su forma. Ya no nos sirve de nada. Dir\u00e9 a mis ayudantes que lo lleven a la c\u00e1rcel para que se pudra con el resto.<E>",
+    "message": "Y ahora esto. No podemos usar su energía vital para adoptar su forma. Ya no nos sirve de nada. Diré a mis ayudantes que lo lleven a la cárcel para que se pudra con el resto.<E>",
     "description": "SphinxText.xls, row 442"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2b": {
-    "message": "S\u00ed, por desgracia la ceremonia fue interrumpida antes de tener todos los <FC 0,128,0>Canopes<END FC>. No podemos usar su energ\u00eda vital para duplicarle.<E>",
+    "message": "Sí, por desgracia la ceremonia fue interrumpida antes de tener todos los <FC 0,128,0>Canopes<END FC>. No podemos usar su energía vital para duplicarle.<E>",
     "description": "SphinxText.xls, row 443"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1c": {
-    "message": "<EFF><EPO>Tambi\u00e9n me preocupa que hayamos perdido los amuletos por culpa de ese viaje. Ha sido un duro golpe.<P>Sin esos amuletos, nos costar\u00e1 m\u00e1s de lo previsto conseguir nuestros objetivos.<E>",
+    "message": "<EFF><EPO>También me preocupa que hayamos perdido los amuletos por culpa de ese viaje. Ha sido un duro golpe.<P>Sin esos amuletos, nos costará más de lo previsto conseguir nuestros objetivos.<E>",
     "description": "SphinxText.xls, row 444"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2c": {
-    "message": "Puede que sea un rev\u00e9s, pero no estamos acabados. \u00a1Bah! Todo va de acuerdo con el plan. <E>",
+    "message": "Puede que sea un revés, pero no estamos acabados. ¡Bah! Todo va de acuerdo con el plan. <E>",
     "description": "SphinxText.xls, row 445"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1c1": {
-    "message": "Maestro, \u00bfc\u00f3mo pod\u00e9is decir eso? <E>",
+    "message": "Maestro, ¿cómo podéis decir eso? <E>",
     "description": "SphinxText.xls, row 446"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2c1": {
-    "message": "<EFF><EPO>Ahora que Tutankam\u00f3n ha desaparecido, usar\u00e9 la forma de Akenat\u00f3n y les dir\u00e9 a todos que Tut ha muerto en un accidente. <P>Eso me dar\u00e1 poder en <FC 128,64,0>Luxor<END FC>. El resto ser\u00e1 f\u00e1cil. <E>",
+    "message": "<EFF><EPO>Ahora que Tutankamón ha desaparecido, usaré la forma de Akenatón y les diré a todos que Tut ha muerto en un accidente. <P>Eso me dará poder en <FC 128,64,0>Luxor<END FC>. El resto será fácil. <E>",
     "description": "SphinxText.xls, row 447"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1d": {
-    "message": "\u00a1S\u00ed! \u00a1Es verdad! \u00a1Nadie se atrever\u00eda a decir que no sois hermanos!<E>",
+    "message": "¡Sí! ¡Es verdad! ¡Nadie se atrevería a decir que no sois hermanos!<E>",
     "description": "SphinxText.xls, row 448"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2d": {
-    "message": "\u00a1Claro que no! Mi disfraz es perfecto.<E>",
+    "message": "¡Claro que no! Mi disfraz es perfecto.<E>",
     "description": "SphinxText.xls, row 449"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2e": {
-    "message": "<EFF><EPO>Y en cuanto a ese joven que interrumpi\u00f3 la ceremonia, s\u00e9 qui\u00e9n es. Es un disc\u00edpulo de Imhotep, ese mago idiota y achacoso.<P>Esta aparente derrota servir\u00e1 para confundirle a\u00fan m\u00e1s. Nunca sabr\u00e1 qu\u00e9 est\u00e1 pasando realmente. \u00a1Ni siquiera se dio cuenta de que estaba all\u00ed!<E>",
+    "message": "<EFF><EPO>Y en cuanto a ese joven que interrumpió la ceremonia, sé quién es. Es un discípulo de Imhotep, ese mago idiota y achacoso.<P>Esta aparente derrota servirá para confundirle aún más. Nunca sabrá qué está pasando realmente. ¡Ni siquiera se dio cuenta de que estaba allí!<E>",
     "description": "SphinxText.xls, row 450"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1e": {
-    "message": "\u00a1Maestro, sois un genio! <E>",
+    "message": "¡Maestro, sois un genio! <E>",
     "description": "SphinxText.xls, row 451"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2f": {
-    "message": "Ahora hay que tener cuidado, pero cuando el rayo sea bastante poderoso, nada nos detendr\u00e1. Derrotar a Imhotep ser\u00e1 tan f\u00e1cil como aplastar a un insecto. <E>",
+    "message": "Ahora hay que tener cuidado, pero cuando el rayo sea bastante poderoso, nada nos detendrá. Derrotar a Imhotep será tan fácil como aplastar a un insecto. <E>",
     "description": "SphinxText.xls, row 452"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2g": {
-    "message": "\u00a1Jajaja! <W 90>",
+    "message": "¡Jajaja! <W 90>",
     "description": "SphinxText.xls, row 453"
   },
   "HT_Text_Mum_Imp2_ShrinePromptTakeItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N>\u00bfCoger el objeto del santuario?<N>  <B 1> S\u00ed<N>  <B 2> No<ES HT_Text_ES_S_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N>¿Coger el objeto del santuario?<N>  <B 1> Sí<N>  <B 2> No<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 455"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1La <FC 0,128,0>Llave del Planetario solar<END FC>!<ES HT_Text_ES_S_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡La <FC 0,128,0>Llave del Planetario solar<END FC>!<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 456"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1La <FC 0,128,0>Llave del Planetario terrestre<END FC>!<ES HT_Text_ES_S_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡La <FC 0,128,0>Llave del Planetario terrestre<END FC>!<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 457"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey02a": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1La <FC 0,128,0>Llave del Planetario terrestre<END FC>!<P><CNTR><ES HT_Text_ES_S_HelpText>Este objeto se parece mucho al que hay en<N>el santuario de la sala central.<E>",
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>¡La <FC 0,128,0>Llave del Planetario terrestre<END FC>!<P><CNTR><ES HT_Text_ES_S_HelpText>Este objeto se parece mucho al que hay en<N>el santuario de la sala central.<E>",
     "description": "SphinxText.xls, row 458"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1La <FC 0,128,0>Llave del Planetario lunar<END FC>!<ES HT_Text_ES_S_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡La <FC 0,128,0>Llave del Planetario lunar<END FC>!<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 459"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey03a": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1La <FC 0,128,0>Llave del Planetario lunar<END FC>!<P><CNTR><ES HT_Text_ES_S_HelpText>Este objeto se parece mucho al que hay en<N>el santuario de la sala central.<E>",
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>¡La <FC 0,128,0>Llave del Planetario lunar<END FC>!<P><CNTR><ES HT_Text_ES_S_HelpText>Este objeto se parece mucho al que hay en<N>el santuario de la sala central.<E>",
     "description": "SphinxText.xls, row 460"
   },
   "HT_Text_Mum_Imp2_Help_FoundKeyStone": {
@@ -140,11 +140,11 @@
     "description": "SphinxText.xls, row 461"
   },
   "HT_Text_Mum_Imp2_Help_FoundImpulseKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes la <FC 0,128,0>Llave de salida<END FC>!<ES HT_Text_ES_S_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes la <FC 0,128,0>Llave de salida<END FC>!<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 462"
   },
   "HT_Text_Mum_Imp2_Help_ElectricDevice": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Parece un dispositivo el\u00e9ctrico.<ES HT_Text_ES_S_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Parece un dispositivo eléctrico.<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 463"
   },
   "HT_Text_Mum_Imp2_Help_Furnace": {
@@ -156,15 +156,15 @@
     "description": "SphinxText.xls, row 465"
   },
   "HT_Text_Mum_Imp2_Help_SarcophagusHide": {
-    "message": "No te preocupes, amigo m\u00edo. Est\u00e1s tan muerto como yo. La electricidad no te har\u00e1 da\u00f1o. De hecho, podr\u00edas intentar sacarle algo de provecho.<E>",
+    "message": "No te preocupes, amigo mío. Estás tan muerto como yo. La electricidad no te hará daño. De hecho, podrías intentar sacarle algo de provecho.<E>",
     "description": "SphinxText.xls, row 466"
   },
   "HT_Text_Mum_Imp2_Help_SarcophagusHide1": {
-    "message": "Sin embargo, si en el futuro quieres evitar la electricidad, te ayudar\u00e9. Pulsa <SB HT_Action_Enter> cuando est\u00e9s cerca de m\u00ed.<E>",
+    "message": "Sin embargo, si en el futuro quieres evitar la electricidad, te ayudaré. Pulsa <SB HT_Action_Enter> cuando estés cerca de mí.<E>",
     "description": "SphinxText.xls, row 467"
   },
   "HT_Text_Mum_Imp2_Help_ElectricExpired": {
-    "message": "<ES HT_Text_ES_S_HelpText><DHP><DP><N><CNTR>Las habilidades de la Momia no son eternas. La barra<N>superior de la pantalla indica cu\u00e1ndo se acabar\u00e1n.<ES HT_Text_ES_S_HelpText><W 60>",
+    "message": "<ES HT_Text_ES_S_HelpText><DHP><DP><N><CNTR>Las habilidades de la Momia no son eternas. La barra<N>superior de la pantalla indica cuándo se acabarán.<ES HT_Text_ES_S_HelpText><W 60>",
     "description": "SphinxText.xls, row 468"
   },
   "HT_Text_Mum_Imp2_Help_ElectricLost": {
@@ -172,11 +172,11 @@
     "description": "SphinxText.xls, row 469"
   },
   "HT_Text_Mum_Imp2_Help_Pushable": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Los objetos cil\u00edndricos como estos se pueden mover en cualquier direcci\u00f3n.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Pulsa <SB HT_Action_Grab> si est\u00e1s cerca del objeto.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Luego usa <SB HT_PadAction_PLR_MovePlr> para empujar o tirar.<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Los objetos cilíndricos como estos se pueden mover en cualquier dirección.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Pulsa <SB HT_Action_Grab> si estás cerca del objeto.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Luego usa <SB HT_PadAction_PLR_MovePlr> para empujar o tirar.<E>",
     "description": "SphinxText.xls, row 470"
   },
   "HT_Text_Mum_Imp2_Help_WallSneak": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hay salientes estrechos que puedes cruzar con sigilo.<P><ES HT_Text_ES_S_HelpText><CNTR>Ac\u00e9rcate a la pared y pulsa <SB HT_Action_WallSneak> cuando aparezca.<P><ES HT_Text_ES_S_HelpText><CNTR>Cuando est\u00e9s pegado, usa <SB HT_PadAction_PLR_MovePlr> para ir a izquierda y derecha.<P><ES HT_Text_ES_S_HelpText><CNTR>Pulsa otra vez <SB HT_Action_WallSneakExit> para quitar el modo de sigilo.<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hay salientes estrechos que puedes cruzar con sigilo.<P><ES HT_Text_ES_S_HelpText><CNTR>Acércate a la pared y pulsa <SB HT_Action_WallSneak> cuando aparezca.<P><ES HT_Text_ES_S_HelpText><CNTR>Cuando estés pegado, usa <SB HT_PadAction_PLR_MovePlr> para ir a izquierda y derecha.<P><ES HT_Text_ES_S_HelpText><CNTR>Pulsa otra vez <SB HT_Action_WallSneakExit> para quitar el modo de sigilo.<E>",
     "description": "SphinxText.xls, row 471"
   },
   "HT_Text_Mum_Imp2_Help_LowFence": {
@@ -184,15 +184,15 @@
     "description": "SphinxText.xls, row 472"
   },
   "HT_Text_Mum_Towr_Help_DoorLockedForever": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>La puerta est\u00e1 cerrada desde el otro<N>lado y no se puede abrir.<ES HT_Text_ES_S_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>La puerta está cerrada desde el otro<N>lado y no se puede abrir.<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 473"
   },
   "HT_Text_Mum_Towr_Help_Pushable": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Los objetos de este tipo se pueden empujar hacia delante y atr\u00e1s.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Pulsa <SB HT_Action_Grab> si est\u00e1s cerca del objeto.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Luego usa <SB HT_PadAction_PLR_MovePlr> para empujar o tirar.<E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Los objetos de este tipo se pueden empujar hacia delante y atrás.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Pulsa <SB HT_Action_Grab> si estás cerca del objeto.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Luego usa <SB HT_PadAction_PLR_MovePlr> para empujar o tirar.<E>",
     "description": "SphinxText.xls, row 474"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation1": {
-    "message": "No te preocupes. \u00a1No voy a morderte! <E>",
+    "message": "No te preocupes. ¡No voy a morderte! <E>",
     "description": "SphinxText.xls, row 476"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation2": {
@@ -200,7 +200,7 @@
     "description": "SphinxText.xls, row 477"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation3": {
-    "message": "\u00a1No puedes ni hablar! Lo siento, pero s\u00f3lo ten\u00eda para ti un <FC 0,128,0>Canope<END FC>. <E>",
+    "message": "¡No puedes ni hablar! Lo siento, pero sólo tenía para ti un <FC 0,128,0>Canope<END FC>. <E>",
     "description": "SphinxText.xls, row 478"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation4": {
@@ -208,11 +208,11 @@
     "description": "SphinxText.xls, row 479"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation5": {
-    "message": "<EFF><EPO>Perm\u00edteme que me presente. Soy Kan-Asta. Te contar\u00e9 lo que pueda, pero no tenemos mucho tiempo. Dudo que recuerdes lo \u00faltimo que te ocurri\u00f3. <P>La traici\u00f3n el d\u00eda de tu cumplea\u00f1os y la extra\u00f1a ceremonia que tu hermano realiz\u00f3 contigo.<E>",
+    "message": "<EFF><EPO>Permíteme que me presente. Soy Kan-Asta. Te contaré lo que pueda, pero no tenemos mucho tiempo. Dudo que recuerdes lo último que te ocurrió. <P>La traición el día de tu cumpleaños y la extraña ceremonia que tu hermano realizó contigo.<E>",
     "description": "SphinxText.xls, row 480"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation6": {
-    "message": "Un h\u00e9roe, Sphinx, interrumpi\u00f3 la ceremonia. Pero s\u00f3lo fue capaz de recuperar uno de los recipientes. <E>",
+    "message": "Un héroe, Sphinx, interrumpió la ceremonia. Pero sólo fue capaz de recuperar uno de los recipientes. <E>",
     "description": "SphinxText.xls, row 481"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation7": {
@@ -220,7 +220,7 @@
     "description": "SphinxText.xls, row 482"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation8": {
-    "message": "<EFF><EPO>Ahora est\u00e1s en el <FC 128,64,0>Palacio de Uruk<END FC>. No hay tiempo para explicarte todos los detalles, pero cr\u00e9eme:<P>no te queda m\u00e1s remedio que ayudarnos en las profundidades de este lugar. Debemos comprender el significado de este malvado palacio y saber qui\u00e9n est\u00e1 detr\u00e1s.<P>Tambi\u00e9n debes rastrear el palacio en busca de cualquier posible pista u objeto que pueda ayudarnos a recuperar tu forma humana.<E>",
+    "message": "<EFF><EPO>Ahora estás en el <FC 128,64,0>Palacio de Uruk<END FC>. No hay tiempo para explicarte todos los detalles, pero créeme:<P>no te queda más remedio que ayudarnos en las profundidades de este lugar. Debemos comprender el significado de este malvado palacio y saber quién está detrás.<P>También debes rastrear el palacio en busca de cualquier posible pista u objeto que pueda ayudarnos a recuperar tu forma humana.<E>",
     "description": "SphinxText.xls, row 483"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation9": {
@@ -228,11 +228,11 @@
     "description": "SphinxText.xls, row 484"
   },
   "HT_Text_Mum_Pala_Chap1_Menes_Assistants1": {
-    "message": "Estoy seguro de que todas las trampas funcionan. No tengo ninguna duda de que el palacio es impenetrable. \u00a1Hay que proteger las joyas de Abydos! <E>",
+    "message": "Estoy seguro de que todas las trampas funcionan. No tengo ninguna duda de que el palacio es impenetrable. ¡Hay que proteger las joyas de Abydos! <E>",
     "description": "SphinxText.xls, row 485"
   },
   "HT_Text_Mum_Pala_Chap1_Menes_Assistants2": {
-    "message": "\u00a1Si alguna cosa intenta entrar en el palacio, pulverizadla! <E>",
+    "message": "¡Si alguna cosa intenta entrar en el palacio, pulverizadla! <E>",
     "description": "SphinxText.xls, row 486"
   },
   "HT_Text_Mum_Pala_Chap1_Menes_Assistants3": {
@@ -240,23 +240,23 @@
     "description": "SphinxText.xls, row 487"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney1a": {
-    "message": "\u00a1Maestro! \u00a1Tenemos un intruso en palacio! \u00a1Han desaparecido algunas <FC 0,128,0>Joyas de Abydos<END FC>! <E>",
+    "message": "¡Maestro! ¡Tenemos un intruso en palacio! ¡Han desaparecido algunas <FC 0,128,0>Joyas de Abydos<END FC>! <E>",
     "description": "SphinxText.xls, row 488"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney2a": {
-    "message": "\u00bfC\u00f3mo? \u00a1Imposible! El rayo est\u00e1 protegiendo el palacio. <E>",
+    "message": "¿Cómo? ¡Imposible! El rayo está protegiendo el palacio. <E>",
     "description": "SphinxText.xls, row 489"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney1b": {
-    "message": "\u00a1Deber\u00eda de ser as\u00ed, maldita sea! \u00a1Alguien ha encontrado la manera de entrar! <E>",
+    "message": "¡Debería de ser así, maldita sea! ¡Alguien ha encontrado la manera de entrar! <E>",
     "description": "SphinxText.xls, row 490"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney2b": {
-    "message": "<EFF><EPO>Bah, probablemente es un urukita, uno de los antiguos habitantes de <FC 128,64,0>Uruk<END FC>. No hay por qu\u00e9 preocuparse.<P>Hemos acabado con casi todos, pero habr\u00e1 que evitar que deambulen por palacio. <E>",
+    "message": "<EFF><EPO>Bah, probablemente es un urukita, uno de los antiguos habitantes de <FC 128,64,0>Uruk<END FC>. No hay por qué preocuparse.<P>Hemos acabado con casi todos, pero habrá que evitar que deambulen por palacio. <E>",
     "description": "SphinxText.xls, row 491"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney1c": {
-    "message": "S\u00ed, Maestro. Ya he tomado las precauciones necesarias. Es probable que el urukita est\u00e9 usando la antigua red de pasadizos secretos. <E>",
+    "message": "Sí, Maestro. Ya he tomado las precauciones necesarias. Es probable que el urukita esté usando la antigua red de pasadizos secretos. <E>",
     "description": "SphinxText.xls, row 492"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney1d": {
@@ -264,15 +264,15 @@
     "description": "SphinxText.xls, row 493"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney2c": {
-    "message": "\u00a1Jajaja! \u00a1Perfecto! Menes, qu\u00e9 buena manera de dar la bienvenida a nuestros visitantes. No esperaba menos de ti. \u00a1Ja, ja, ja! <E>",
+    "message": "¡Jajaja! ¡Perfecto! Menes, qué buena manera de dar la bienvenida a nuestros visitantes. No esperaba menos de ti. ¡Ja, ja, ja! <E>",
     "description": "SphinxText.xls, row 494"
   },
   "HT_Text_Mum_Pala_Chap4_Menes_CadaverRoom1": {
-    "message": "Vaya, nada por aqu\u00ed. Bueno, aparte de varios cientos de cad\u00e1veres. <E>",
+    "message": "Vaya, nada por aquí. Bueno, aparte de varios cientos de cadáveres. <E>",
     "description": "SphinxText.xls, row 495"
   },
   "HT_Text_Mum_Pala_Chap4_Menes_CadaverRoom2": {
-    "message": "Quiero que se inspeccione bien cada rinc\u00f3n de palacio. Set est\u00e1 furioso porque a\u00fan no hemos encontrado al intruso. \u00a1Trabajaremos todo el d\u00eda si es preciso! <E>",
+    "message": "Quiero que se inspeccione bien cada rincón de palacio. Set está furioso porque aún no hemos encontrado al intruso. ¡Trabajaremos todo el día si es preciso! <E>",
     "description": "SphinxText.xls, row 496"
   },
   "HT_Text_Mum_Pala_Chap4_Menes_CadaverRoom3": {
@@ -280,23 +280,23 @@
     "description": "SphinxText.xls, row 497"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_Presentation1": {
-    "message": "\u00a1Ah! \u00a1Un monstruo! Pens\u00e9 que acabar\u00eda muri\u00e9ndome de hambre, pero esto es mucho peor. \u00a1Ah!<E>",
+    "message": "¡Ah! ¡Un monstruo! Pensé que acabaría muriéndome de hambre, pero esto es mucho peor. ¡Ah!<E>",
     "description": "SphinxText.xls, row 498"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_Presentation2": {
-    "message": "\u00a1Atr\u00e1s, monstruo! \u00a1Atr\u00e1s! \u00a1Set podr\u00e1 matarme, pero no va a robarme el alma!<E>",
+    "message": "¡Atrás, monstruo! ¡Atrás! ¡Set podrá matarme, pero no va a robarme el alma!<E>",
     "description": "SphinxText.xls, row 499"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage0": {
-    "message": "\u00a1D\u00e9jame en paz! \u00a1No me mates! \u00a1Ahhhhh!",
+    "message": "¡Déjame en paz! ¡No me mates! ¡Ahhhhh!",
     "description": "SphinxText.xls, row 500"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage1": {
-    "message": "\u00bfQu\u00e9 haces? \u00bfPor qu\u00e9 me liberas? \u00bfQui\u00e9n eres? <E>",
+    "message": "¿Qué haces? ¿Por qué me liberas? ¿Quién eres? <E>",
     "description": "SphinxText.xls, row 501"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage2": {
-    "message": "Umm, no pareces tan malo fuera de la celda. \u00bfPor qu\u00e9 me ayudas?<E>",
+    "message": "Umm, no pareces tan malo fuera de la celda. ¿Por qué me ayudas?<E>",
     "description": "SphinxText.xls, row 502"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage3": {
@@ -304,55 +304,55 @@
     "description": "SphinxText.xls, row 503"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage4": {
-    "message": "Me llamo Khensu. Soy urukita. Nuestro pueblo viv\u00eda en esta regi\u00f3n antes de que Set llegara. Ahora tan solo quedamos unos pocos y vivimos en este palacio.<E>",
+    "message": "Me llamo Khensu. Soy urukita. Nuestro pueblo vivía en esta región antes de que Set llegara. Ahora tan solo quedamos unos pocos y vivimos en este palacio.<E>",
     "description": "SphinxText.xls, row 504"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage5": {
-    "message": "Hemos evitado a Set y sus secuaces hasta ahora porque conocemos la regi\u00f3n. Pero a medida que aumentan, nuestro final se acerca. <E>",
+    "message": "Hemos evitado a Set y sus secuaces hasta ahora porque conocemos la región. Pero a medida que aumentan, nuestro final se acerca. <E>",
     "description": "SphinxText.xls, row 505"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage6": {
-    "message": "A menos que alguien nos ayude, nos terminar\u00e1 encontrando.<E>",
+    "message": "A menos que alguien nos ayude, nos terminará encontrando.<E>",
     "description": "SphinxText.xls, row 506"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage7": {
-    "message": "No debemos quedarnos en esta habitaci\u00f3n. Las Guardias de Set son muy astutos y podrian venir. <E>",
+    "message": "No debemos quedarnos en esta habitación. Las Guardias de Set son muy astutos y podrian venir. <E>",
     "description": "SphinxText.xls, row 507"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage8": {
-    "message": "\u00a1Ven conmigo! Te ayudar\u00e9 a escapar de esta celda.<E>",
+    "message": "¡Ven conmigo! Te ayudaré a escapar de esta celda.<E>",
     "description": "SphinxText.xls, row 508"
   },
   "HT_Text_Mum_pala_Chap2_Start_Basket01": {
-    "message": "\u00a1Me alegro de volver a verte! Como promet\u00ed, he tra\u00eddo el segundo <FC 0,128,0>Canope<END FC>. \u00a1Tienes mejor aspecto que nunca!<E>",
+    "message": "¡Me alegro de volver a verte! Como prometí, he traído el segundo <FC 0,128,0>Canope<END FC>. ¡Tienes mejor aspecto que nunca!<E>",
     "description": "SphinxText.xls, row 509"
   },
   "HT_Text_Mum_pala_Chap2_Start_Basket02": {
-    "message": "Sphinx tambi\u00e9n te env\u00eda otra cosa que te podr\u00eda interesar.<E>",
+    "message": "Sphinx también te envía otra cosa que te podría interesar.<E>",
     "description": "SphinxText.xls, row 510"
   },
   "HT_Text_Mum_pala_Chap2_Start_Basket03": {
-    "message": "La <FC 0,128,0>Piedra oscura de Invisibilidad<END FC>. Es un objeto m\u00e1gico que te hace invisible cuando lo activas. <E>",
+    "message": "La <FC 0,128,0>Piedra oscura de Invisibilidad<END FC>. Es un objeto mágico que te hace invisible cuando lo activas. <E>",
     "description": "SphinxText.xls, row 511"
   },
   "HT_Text_Mum_pala_Chap2_Start_Basket04": {
-    "message": "Sin embargo, tiene una limitaci\u00f3n. S\u00f3lo lo puedes usar cuando est\u00e1s quieto. Si comienzas a andar, vuelves a ser visible para todos.<E>",
+    "message": "Sin embargo, tiene una limitación. Sólo lo puedes usar cuando estás quieto. Si comienzas a andar, vuelves a ser visible para todos.<E>",
     "description": "SphinxText.xls, row 512"
   },
   "HT_Text_Mum_pala_Chap2_Start_Basket05": {
-    "message": "<EFF><EPO>Con este nuevo objeto, podr\u00e1s explorar e investigar m\u00e1s zonas de este perverso lugar. Tenemos que descubrir qu\u00e9 est\u00e1 pasando aqu\u00ed lo antes posible.<P>\u00a1Buena suerte!<E>",
+    "message": "<EFF><EPO>Con este nuevo objeto, podrás explorar e investigar más zonas de este perverso lugar. Tenemos que descubrir qué está pasando aquí lo antes posible.<P>¡Buena suerte!<E>",
     "description": "SphinxText.xls, row 513"
   },
   "HT_Text_Mum_pala_Chap2_Start_Basket06": {
-    "message": "\u00a1Buena suerte! <W 90>",
+    "message": "¡Buena suerte! <W 90>",
     "description": "SphinxText.xls, row 514"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility1a": {
-    "message": "Maestro, nuestro esp\u00eda de <FC 128,64,0>Heli\u00f3polis<END FC> ha vuelto con noticias de Sphinx.<E>",
+    "message": "Maestro, nuestro espía de <FC 128,64,0>Heliópolis<END FC> ha vuelto con noticias de Sphinx.<E>",
     "description": "SphinxText.xls, row 515"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2a": {
-    "message": "\u00a1Espl\u00e9ndido! Horus, nuestro nuevo aliado, \u00bfqu\u00e9 noticias nos traes?  <E>",
+    "message": "¡Espléndido! Horus, nuestro nuevo aliado, ¿qué noticias nos traes?  <E>",
     "description": "SphinxText.xls, row 516"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility3a": {
@@ -360,79 +360,79 @@
     "description": "SphinxText.xls, row 517"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2b": {
-    "message": "\u00bfC\u00f3mo? No pens\u00e9 que llegar\u00eda tan lejos. Me pregunto qu\u00e9 querr\u00e1 de \u00e9l ese viejo zorro de Anubis.<E>",
+    "message": "¿Cómo? No pensé que llegaría tan lejos. Me pregunto qué querrá de él ese viejo zorro de Anubis.<E>",
     "description": "SphinxText.xls, row 518"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility1b": {
-    "message": "Bueno, no importa; poco puede hacer. He bloqueado el acceso al <FC 128,64,0>L\u00edmite de Heli\u00f3polis<END FC> con el Sello m\u00e1gico de Atum. <E>",
+    "message": "Bueno, no importa; poco puede hacer. He bloqueado el acceso al <FC 128,64,0>Límite de Heliópolis<END FC> con el Sello mágico de Atum. <E>",
     "description": "SphinxText.xls, row 519"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2c": {
-    "message": "\u00a1Maravilloso! El sello es indestructible. \u00a1Ni siquiera yo podr\u00eda romperlo!<E>",
+    "message": "¡Maravilloso! El sello es indestructible. ¡Ni siquiera yo podría romperlo!<E>",
     "description": "SphinxText.xls, row 520"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility1c": {
-    "message": "S\u00f3lo puede romperlo la <FC 0,128,0>Estatua de Atum<END FC> que se us\u00f3 para crearlo y que est\u00e1 arriba, muy bien protegida.<E>",
+    "message": "Sólo puede romperlo la <FC 0,128,0>Estatua de Atum<END FC> que se usó para crearlo y que está arriba, muy bien protegida.<E>",
     "description": "SphinxText.xls, row 521"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility3b": {
-    "message": "El sello es una precauci\u00f3n innecesaria. He decidido demostrar mis buenas intenciones, as\u00ed que le he hecho un regalo: la <FC 0,128,0>Piedra oscura de Invisibilidad<END FC>. <E>",
+    "message": "El sello es una precaución innecesaria. He decidido demostrar mis buenas intenciones, así que le he hecho un regalo: la <FC 0,128,0>Piedra oscura de Invisibilidad<END FC>. <E>",
     "description": "SphinxText.xls, row 522"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility3c": {
-    "message": "Cuando la use, sufrir\u00e1 la m\u00e1s terrible de las muertes.<E>",
+    "message": "Cuando la use, sufrirá la más terrible de las muertes.<E>",
     "description": "SphinxText.xls, row 523"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2d": {
-    "message": "\u00a1Jajaja! \u00a1S\u00f3lo un tonto usar\u00eda esa piedra! <E>",
+    "message": "¡Jajaja! ¡Sólo un tonto usaría esa piedra! <E>",
     "description": "SphinxText.xls, row 524"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2e": {
-    "message": "Horus, te recompensar\u00e9 por tu astucia. Una treta excelente que, sin ninguna duda, nos ser\u00e1 muy \u00fatil.<E>",
+    "message": "Horus, te recompensaré por tu astucia. Una treta excelente que, sin ninguna duda, nos será muy útil.<E>",
     "description": "SphinxText.xls, row 525"
   },
   "HT_Text_Mum_pala_Chap3_Basket1": {
-    "message": "<EFF><EPO>Hola de nuevo, amigo. \u00a1Ese <FC 0,128,0>Canope<END FC> le ha dado color a tus mejillas!<P>No pierdas m\u00e1s el tiempo. Explora el palacio y descubre todo lo que puedas.<P>\u00a1Adi\u00f3s y buena suerte!<E> ",
+    "message": "<EFF><EPO>Hola de nuevo, amigo. ¡Ese <FC 0,128,0>Canope<END FC> le ha dado color a tus mejillas!<P>No pierdas más el tiempo. Explora el palacio y descubre todo lo que puedas.<P>¡Adiós y buena suerte!<E> ",
     "description": "SphinxText.xls, row 526"
   },
   "HT_Text_Mum_pala_Chap4_Basket1": {
-    "message": "<EFF><EPO>\u00a1Cu\u00e1nto tiempo sin vernos! Otro <FC 0,128,0>Canope<END FC> entregado y a salvo. \u00a1Estoy seguro de que recuperar\u00e1s tu antigua forma enseguida!<P>Hasta entonces, tenemos que conseguir todos los artefactos y toda la informaci\u00f3n que podamos.<P>Lo has hecho muy bien hasta ahora, \u00a1sigue as\u00ed! \u00a1Hasta pronto!<E>",
+    "message": "<EFF><EPO>¡Cuánto tiempo sin vernos! Otro <FC 0,128,0>Canope<END FC> entregado y a salvo. ¡Estoy seguro de que recuperarás tu antigua forma enseguida!<P>Hasta entonces, tenemos que conseguir todos los artefactos y toda la información que podamos.<P>Lo has hecho muy bien hasta ahora, ¡sigue así! ¡Hasta pronto!<E>",
     "description": "SphinxText.xls, row 527"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start01": {
-    "message": "Hola, soy Sobek, el jefe de los urukitas. Khensu nos dijo que le liberaste. \u00a1Toda una proeza! <E>",
+    "message": "Hola, soy Sobek, el jefe de los urukitas. Khensu nos dijo que le liberaste. ¡Toda una proeza! <E>",
     "description": "SphinxText.xls, row 528"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start02": {
-    "message": "Nos pregunt\u00e1bamos qui\u00e9n era el h\u00e9roe que desafiaba continuamente a Set y le robaba sus tesoros en sus narices y en su propio palacio. <E>",
+    "message": "Nos preguntábamos quién era el héroe que desafiaba continuamente a Set y le robaba sus tesoros en sus narices y en su propio palacio. <E>",
     "description": "SphinxText.xls, row 529"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start03": {
-    "message": "Eres un h\u00e9roe para mi pueblo, y la \u00fanica persona que se ha atrevido a desafiar a Set. <E>",
+    "message": "Eres un héroe para mi pueblo, y la única persona que se ha atrevido a desafiar a Set. <E>",
     "description": "SphinxText.xls, row 530"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start04": {
-    "message": "Khensu tambi\u00e9n nos dijo que hay un personaje m\u00e1gico que te da energ\u00eda con un <FC 0,128,0>Canope<END FC>. <E>",
+    "message": "Khensu también nos dijo que hay un personaje mágico que te da energía con un <FC 0,128,0>Canope<END FC>. <E>",
     "description": "SphinxText.xls, row 531"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start05": {
-    "message": "Encontramos \u00e9ste tirado en una habitaci\u00f3n de palacio. Hasta ahora no sab\u00edamos para qu\u00e9 serv\u00eda.<E>",
+    "message": "Encontramos éste tirado en una habitación de palacio. Hasta ahora no sabíamos para qué servía.<E>",
     "description": "SphinxText.xls, row 532"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start06": {
-    "message": "Por favor, ay\u00fadanos. Nuestro pueblo es tan antiguo como la tierra de <FC 128,64,0>Uruk<END FC>. Para Set s\u00f3lo somos carro\u00f1a para sus bestias salvajes. <E>",
+    "message": "Por favor, ayúdanos. Nuestro pueblo es tan antiguo como la tierra de <FC 128,64,0>Uruk<END FC>. Para Set sólo somos carroña para sus bestias salvajes. <E>",
     "description": "SphinxText.xls, row 533"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start07": {
-    "message": "Pero sabemos de d\u00f3nde saca su fuerza. Usa un dispositivo m\u00e1gico para generar el rayo, que es su principal poder. <E>",
+    "message": "Pero sabemos de dónde saca su fuerza. Usa un dispositivo mágico para generar el rayo, que es su principal poder. <E>",
     "description": "SphinxText.xls, row 534"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start08": {
-    "message": "Por desgracia, esa misi\u00f3n supera a los urukitas, pero si lo desactivas, Set perder\u00e1 su poder, que es su principal ventaja. <E>",
+    "message": "Por desgracia, esa misión supera a los urukitas, pero si lo desactivas, Set perderá su poder, que es su principal ventaja. <E>",
     "description": "SphinxText.xls, row 535"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start09": {
-    "message": "S\u00edguenos y te mostraremos el lugar. <W 90>",
+    "message": "Síguenos y te mostraremos el lugar. <W 90>",
     "description": "SphinxText.xls, row 536"
   }
 }

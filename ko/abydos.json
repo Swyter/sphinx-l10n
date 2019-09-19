@@ -1,1230 +1,1230 @@
 {
   "HT_Text_Aby_CouncilChambersInterior1_Coronation1a": {
-    "message": "<FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \uc0ac\ub78c\ub4e4\uc740 \ub2f9\uc2e0\uc774 \uc774 \ub3c4\uc2dc\ub97c \uc704\ud574 \ud55c \uc120\ud589\uc5d0 \ub300\ud574 \uc9c4\uc2ec\uc73c\ub85c \uac10\uc0ac\uc758 \ub9c8\uc74c\uc744 \ud45c\uc2dc\ud569\ub2c8\ub2e4.<E>",
+    "message": "<FC 128,64,0>아비도스<END FC>의 사람들은 당신이 이 도시를 위해 한 선행에 대해 진심으로 감사의 마음을 표시합니다.<E>",
     "description": "SphinxText.xls, row 1535"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation1b": {
-    "message": "\uc6b0\ub9ac\uc758 \uc544\ub984\ub2e4\uc6b4 \ub3c4\uc2dc\ub294 \ucd5c\uadfc \uc2ec\ud55c \uaca9\uc815\uc758 \uc2dc\uae30\ub97c \ubcf4\ub0c8\uc2b5\ub2c8\ub2e4. \uc804\ub2a5\ud558\uc2e0 \ubd84\uaed8\uc11c \uc6b0\ub9ac\uc758 \uc0b6\uc5d0 \ubd88\ud589\uacfc \uace0\ud1b5\uc744 \uc8fc\uc2dc\uae30\ub85c \uacb0\uc815\uc744 \ud558\uc2e0 \uac83 \uac19\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "우리의 아름다운 도시는 최근 심한 격정의 시기를 보냈습니다. 전능하신 분께서 우리의 삶에 불행과 고통을 주시기로 결정을 하신 것 같습니다.<E>",
     "description": "SphinxText.xls, row 1536"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation1c": {
-    "message": "\ub2f9\uc2e0\uc758 \uc601\uc6c5\uc801 \ud589\ub3d9\uc740 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \uc0ac\ub78c\ub4e4\uc5d0\uac8c\ub294 \ud76c\ub9dd\uc758 \ud55c \uc904\uae30 \ube5b\uacfc\ub3c4 \uac19\uc558\uc2b5\ub2c8\ub2e4.<E> ",
+    "message": "당신의 영웅적 행동은 <FC 128,64,0>아비도스<END FC>의 사람들에게는 희망의 한 줄기 빛과도 같았습니다.<E> ",
     "description": "SphinxText.xls, row 1537"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation1c1": {
-    "message": "\uadf8\ub9ac\ud558\uc5ec \uc758\ud68c\ub294 <FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uad00<END FC>\uc744 \ub2f9\uc2e0\uc5d0\uac8c \uc8fc\uae30\ub85c \uacb0\uc815\ud558\uc600\uc2b5\ub2c8\ub2e4...<E>",
+    "message": "그리하여 의회는 <FC 0,128,0>아비도스의 성스러운 관<END FC>을 당신에게 주기로 결정하였습니다...<E>",
     "description": "SphinxText.xls, row 1538"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation1d": {
-    "message": "...\ub2e8, \ub2f9\uc2e0\uc774 \uc774\uac83\uc744 \uc6b0\ub9ac\uc758 \uc544\ub204\ube44\uc2a4\ub2d8\uc5d0\uac8c \uc804\ub2ec\ud558\uace0 \uc6b0\ub9ac\uc758 \ucd5c\uace0\uc758 \uacbd\uc758\ub97c \uadf8\uc5d0\uac8c \uc804\ub2ec\ud55c\ub2e4\ub294 \uc870\uac74\uc5d0\uc11c \ub9d0\uc785\ub2c8\ub2e4.<E>",
+    "message": "...단, 당신이 이것을 우리의 아누비스님에게 전달하고 우리의 최고의 경의를 그에게 전달한다는 조건에서 말입니다.<E>",
     "description": "SphinxText.xls, row 1539"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation2a": {
-    "message": "<ST>\ubb50\ub77c\uace0!!!<END ST> \uadf8\uc5d0\uac8c \uc774 \uc655\uad00\uc744 \uc904 \uc218 \uc5c6\uc5b4, \uadf8\ub294 \uac00\uc9dc\uac00 \ubd84\uba85\ud574! \uc774\ub7f0 \ub140\uc11d\uc774 \uc544\ub204\ube44\uc2a4\ub2d8\uc758 \ub300\ub9ac\uc778 \uc77c\ub9ac\uac00 \uc5c6\uc5b4 !<E>",
+    "message": "<ST>뭐라고!!!<END ST> 그에게 이 왕관을 줄 수 없어, 그는 가짜가 분명해! 이런 녀석이 아누비스님의 대리인 일리가 없어 !<E>",
     "description": "SphinxText.xls, row 1540"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation3a": {
-    "message": "\uc655\uad00\uc740 \uc6b0\ub9ac \uac83\uc774\uc57c! \ub108\ub294 \uadf8 \ub204\uad6c\uc5d0\uac8c\ub3c4 \uc774\uac83\uc744 \uc8fc\uc9c0 \ubabb\ud560 \uac70\uc57c, \uba4d\uccad\ud55c \ubc14\ubcf4 \uac19\uc73c\ub2c8!!! <E>",
+    "message": "왕관은 우리 것이야! 너는 그 누구에게도 이것을 주지 못할 거야, 멍청한 바보 같으니!!! <E>",
     "description": "SphinxText.xls, row 1542"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation4a": {
-    "message": "\uc774\uc81c \uc6b0\ub9ac\uac00 \uc655\uad00\uc744 \uac00\uc9c0\uace0 \uc788\uc73c\ub2c8 \uc138\ud2b8\uc758 \uadf8\ub9bc\uc790\uac00 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC> \uc704\ub85c \ub0b4\ub824\uc62c \uac83\uc774\ub2e4. \ub124\uac00 \uc9c4\uc815\ud55c \uc704\uae30\ub97c \ubaa9\uaca9\ud560 \uc2dc\uac04\uc774\ub2e4. \ud558 \ud558 \ud558!! <E>",
+    "message": "이제 우리가 왕관을 가지고 있으니 세트의 그림자가 <FC 128,64,0>아비도스<END FC> 위로 내려올 것이다. 네가 진정한 위기를 목격할 시간이다. 하 하 하!! <E>",
     "description": "SphinxText.xls, row 1543"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation5a": {
-    "message": "\uc774 \ubd10, \uc655\uad00\uc740 \uc6b0\ub9ac \uac83\uc774\ub2e4. \uc2dc\uc7a5, \ub108\uc758 \uadf8 \uadfc\uc2dc\uc801 \uc0ac\uace0\uac00 \ub610 \ud55c \ubc88 \uadf8\ub9ac\uace0 \uc601\uc6d0\uc774 \uc774 \ub3c4\uc2dc\uc758 \uc6b4\uba85\uc744 \uac78\uc5b4\uc7a0\uad88\ubc84\ub838\ub2e4!<E>",
+    "message": "이 봐, 왕관은 우리 것이다. 시장, 너의 그 근시적 사고가 또 한 번 그리고 영원이 이 도시의 운명을 걸어잠궈버렸다!<E>",
     "description": "SphinxText.xls, row 1544"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation6a": {
-    "message": "\uc624, \uc804\uc9c0\uc804\ub2a5\ud558\uc2e0 \ub77c\uc5ec! \uc81c\ubc1c, \ub204\uad70\uac00 \uc800\ub4e4\uc744 \uba48\ucdb0\uc57c\ub9cc \ud574!<E>",
+    "message": "오, 전지전능하신 라여! 제발, 누군가 저들을 멈춰야만 해!<E>",
     "description": "SphinxText.xls, row 1545"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation7a": {
-    "message": "\ubc30\uc2e0\uc790\ub4e4\uc774 \ub3c4\ub9dd\uac04\ub2e4! \uc2a4\ud551\ud06c\uc2a4, \ubd80\ud0c1\ud55c\ub2e4, \uc800 \uc655\uad00\uc744 \ub418\ucc3e\uc544\uc918!<E>",
+    "message": "배신자들이 도망간다! 스핑크스, 부탁한다, 저 왕관을 되찾아줘!<E>",
     "description": "SphinxText.xls, row 1546"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD38_FriendA": {
-    "message": "<FC 128,64,64>\uc65c \uadf8\ub9ac \ubd88\ucf8c\ud574\ud558\ub294 \uc9c0 \uc774\ud574\uac00 \uc548 \ub418\ub294 \uad70... \ub108\ub294 \uc54c\uaca0\uc5b4?<E>",
+    "message": "<FC 128,64,64>왜 그리 불쾌해하는 지 이해가 안 되는 군... 너는 알겠어?<E>",
     "description": "SphinxText.xls, row 1547"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD30_FriendA": {
-    "message": "<FC 64,64,64>...\uadf8\ub294 \uc6b0\ub9ac\uc5d0\uac8c \ub611\uac19\uc740 \uc9d3\uc744 \ud588\uc744 \uac70\uc57c, \uc774\uac83\uc740 \ub354 \ud070 \ub73b\uc744 \uc704\ud55c \uac83\uc774\uc5c8\ub2e4\uad6c... <E>",
+    "message": "<FC 64,64,64>...그는 우리에게 똑같은 짓을 했을 거야, 이것은 더 큰 뜻을 위한 것이었다구... <E>",
     "description": "SphinxText.xls, row 1548"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD38_FriendB": {
-    "message": "<FC 128,64,64>...\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4\uc740 \uc704\ud5d8\uc5d0\uc11c \ud53c\ud574\uc788\uc5b4\uc57c\ub9cc \ud574...<E>",
+    "message": "<FC 128,64,64>...우리 같은 사람들은 위험에서 피해있어야만 해...<E>",
     "description": "SphinxText.xls, row 1549"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD30_FriendB": {
-    "message": "<FC 64,64,64>...\ubc14\ub85c \uadf8\uac70\uc57c. \ub098\ub294 \uc9d0\uc2b9\ucc98\ub7fc \uc2f8\uc6b0\uae30 \uc704\ud574\uc11c \ub0b4 \ubab8\uc744 \ub0ae\ucd9c\uc218\ub294 \uc5c6\ub2e4\uace0... \uc0ac\ub78c\ub4e4\uc774 \ubb50\ub77c\uace0 \uc0dd\uac01\ud558\uaca0\uc5b4?<E>",
+    "message": "<FC 64,64,64>...바로 그거야. 나는 짐승처럼 싸우기 위해서 내 몸을 낮출수는 없다고... 사람들이 뭐라고 생각하겠어?<E>",
     "description": "SphinxText.xls, row 1550"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD30_FightA": {
-    "message": "<FC 64,64,64>\uc2dc\uc7a5\uc740 \uadf8\uac00 \uc8fd\ub354\ub77c\ub3c4 \uc804\uc7c1\uc774 \ubc1c\ubc1c\ud558\uc9c0 \uc54a\uae30\ub97c \ubc14\ub780\ub2e4\uace0 \ub9d0\ud55c \uac83 \uac19\uad70...<E>",
+    "message": "<FC 64,64,64>시장은 그가 죽더라도 전쟁이 발발하지 않기를 바란다고 말한 것 같군...<E>",
     "description": "SphinxText.xls, row 1551"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD38_FightA": {
-    "message": "<FC 128,64,64>...\ub9d0\ub3c4 \uc548\ub3fc, \uc801\uc774 \uc544\ub294 \uac83\uc740 \ud3ed\ub825\ubfd0\uc774\uc57c, \ub208\uc5d0\ub294 \ub208, \uc774\uc5d0\ub294 \uc774...<E>",
+    "message": "<FC 128,64,64>...말도 안돼, 적이 아는 것은 폭력뿐이야, 눈에는 눈, 이에는 이...<E>",
     "description": "SphinxText.xls, row 1552"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD30_FightB": {
-    "message": "<FC 64,64,64>...\uc54c\uc544, \uc6b0\ub9ac\ub294 \uad70\uc0ac\uac00 \uc218\ucc9c \uba85\uc774 \uc788\ub2e4. \uadf8\ub4e4\uc744 \uc804\uc7a5\uc73c\ub85c \uc9c4\uad70\uc2dc\ucf1c\ub77c.<E>",
+    "message": "<FC 64,64,64>...알아, 우리는 군사가 수천 명이 있다. 그들을 전장으로 진군시켜라.<E>",
     "description": "SphinxText.xls, row 1553"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD36_Friends": {
-    "message": "<FC 64,128,64>\uac10\ud788 \ub098\ub97c \ud3c9\ubbfc\ucc98\ub7fc \ubabb \ub4e4\uc5b4\uac00\uac8c \ud558\ub2e4\ub2c8! \ud56d\uc758\uc758 \ud45c\uc2dc\ub85c \ub2e4\uc74c \uc5f0\ud68c\ub294 \ucc38\uac00\ud558\uc9c0 \uc54a\uaca0\uc5b4.<E>",
+    "message": "<FC 64,128,64>감히 나를 평민처럼 못 들어가게 하다니! 항의의 표시로 다음 연회는 참가하지 않겠어.<E>",
     "description": "SphinxText.xls, row 1554"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD36_Monsters": {
-    "message": "<FC 64,128,64>\uc774 \uad34\ubb3c\ub4e4\uc740 \uc815\ub9d0 \uac81\uc774\ub098... \uc0dd\uac01\ub9cc \ud574\ub3c4 \ub5a8\ub9b0\ub2e4\ub2c8\uae4c.<E>",
+    "message": "<FC 64,128,64>이 괴물들은 정말 겁이나... 생각만 해도 떨린다니까.<E>",
     "description": "SphinxText.xls, row 1555"
   },
   "HT_Text_Aby_CouncilChambersInterior1_CouncilHD19_GoToAkaria": {
-    "message": "<FC 0,128,128>\ub108\uc758 \uc784\ubb34\uc218\ud589\uc774 \uc7ac\ubbf8\uc788\uae30\ub97c \ubc14\ub780\ub2e4. \uc2dc\uc7a5\uc774 \uadf8\uacf3\uc73c\ub85c \uac00\ub2ec\ub77c\uace0 \ubd80\ud0c1\ud558\ub294 \uac83\uc774 \ub108\ub97c \ud30c\uba78\ub85c \ubcf4\ub0b8\ub2e4\ub294 \uac83\uc740 \uc54c\uaca0\uc9c0?<E>",
+    "message": "<FC 0,128,128>너의 임무수행이 재미있기를 바란다. 시장이 그곳으로 가달라고 부탁하는 것이 너를 파멸로 보낸다는 것은 알겠지?<E>",
     "description": "SphinxText.xls, row 1556"
   },
   "HT_Text_Aby_CouncilChambersInterior1_CouncilHD20_GoToAkaria": {
-    "message": "<FC 128,60,0>\uc6b0\ub9ac\uc758 \uc2dc\uc7a5\uc774 \ub108\ub97c \uc544\ub204\ube44\uc2a4\uc5d0\uac8c \ubcf4\ub0b4\ub294 \uac83\uc740 \uc815\ub9d0 \ud604\uba85\ud55c \uac70\uc57c. \ub124\uac00 \uac00\uc788\ub294 \ub3d9\uc548 \uadf8\uac00 \ub2e4\ub978 \uc0ac\uace0\ub97c \ub2f9\ud558\uc9c0 \uc54a\uae30\ub9cc \ubc14\ub780\ub2e4.<E>",
+    "message": "<FC 128,60,0>우리의 시장이 너를 아누비스에게 보내는 것은 정말 현명한 거야. 네가 가있는 동안 그가 다른 사고를 당하지 않기만 바란다.<E>",
     "description": "SphinxText.xls, row 1557"
   },
   "HT_Text_Aby_CouncilChambersInterior1_CouncilHD19_Aftermath": {
-    "message": "<FC 0,128,128>\ub098\ub294 \uc2dc\uc7a5\uc774 \uc644\ubcbd\ud788 \ud68c\ubcf5\ud560 \uac70\ub77c\uace0 \ucc98\uc74c\ubd80\ud130 \ub2e4 \uc54c\uace0 \uc788\uc5c8\uc5b4.<E>",
+    "message": "<FC 0,128,128>나는 시장이 완벽히 회복할 거라고 처음부터 다 알고 있었어.<E>",
     "description": "SphinxText.xls, row 1558"
   },
   "HT_Text_Aby_CouncilChambersInterior1_CouncilHD20_Aftermath": {
-    "message": "<FC 128,60,0>\uc2dc\uc7a5\uc740 \uc774\uc81c \ub2e4\ubc29\uba74\uc73c\ub85c \uc6b0\ud638\uc801\uc778 \uad50\uc12d\uc744 \uc2dc\uc791\ud558\uace0 \uc788\ub2e4. \uadf8\ub294 \uc815\ub9ac\ub97c \uc704\ud574\uc11c \ub098\ub97c \uc2b9\uc9c4\uc2dc\ucf1c\uc57c \ud574! \ub098\ub294 \uc0ac\ub78c\ub4e4\uc744 \uc704\ud55c \ud6cc\ub96d\ud55c \ub300\uc0ac\ub77c\uace0, \uadf8\ub807\uc9c0 \uc54a\uc544?<E>",
+    "message": "<FC 128,60,0>시장은 이제 다방면으로 우호적인 교섭을 시작하고 있다. 그는 정리를 위해서 나를 승진시켜야 해! 나는 사람들을 위한 훌륭한 대사라고, 그렇지 않아?<E>",
     "description": "SphinxText.xls, row 1559"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_Situation": {
-    "message": "\uc548\ud0c0\uae5d\uac8c\ub3c4 \uc774\uacf3 <FC 128,64,0>\uc758\ud68c\uc2e4<END FC>\uc5d0 \ud070\uc77c\uc774 \uc0dd\uacbc\uc5b4\uc694. \uc2dc\uc7a5\uc774 \uc774\uc0c1\ud55c \ubcd1\uc5d0 \uac78\ub838\uc5b4\uc694, \uc774\ub7f0 \uac83\uc740 \ucc98\uc74c \ubd10\uc694.<E>",
+    "message": "안타깝게도 이곳 <FC 128,64,0>의회실<END FC>에 큰일이 생겼어요. 시장이 이상한 병에 걸렸어요, 이런 것은 처음 봐요.<E>",
     "description": "SphinxText.xls, row 1560"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_Situation1": {
-    "message": "\uce58\ub8cc\ub97c \uc900\ube44\ud558\uae30 \uc704\ud574 <FC 0,128,0>5\uac1c\uc758 \uce58\ub8cc \uc57d\ucd08<END FC>\uac00 \ud544\uc694\ud558\uc9c0\ub9cc \uadf8\uc758 \uc0c1\ud0dc\uac00 \uc545\ud654\ub418\ub294 \uac83\uc744 \ub9c9\uae30 \uc704\ud574 \uc800\ub294 \uc5ec\uae30 \ub0a8\uc544\uc788\uc5b4\uc57c\ub9cc \ud569\ub2c8\ub2e4.<E>",
+    "message": "치료를 준비하기 위해 <FC 0,128,0>5개의 치료 약초<END FC>가 필요하지만 그의 상태가 악화되는 것을 막기 위해 저는 여기 남아있어야만 합니다.<E>",
     "description": "SphinxText.xls, row 1561"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_Situation2": {
-    "message": "\uc81c\ubc1c, \uc774 \ucabd\uc9c0\ub97c \ubc1c\uba85\uac00 \ucf00\uba54\ud2b8\uc5d0\uac8c \uac00\uc838\ub2e4 \uc8fc\uc138\uc694. \uadf8\uac00 <FC 0,128,0>\uce58\ub8cc \uc57d\ucd08<END FC> \ucc3e\ub294 \uac83\uc744 \ub3c4\uc640\uc904 \uac81\ub2c8\ub2e4. \uc11c\ub450\ub974\uc154\uc57c\ub9cc \ud569\ub2c8\ub2e4. \uc2dc\uc7a5\uc5d0\uac90 \uc2dc\uac04\uc774 \ubcc4\ub85c \uc5c6\uc5b4\uc694.<E>",
+    "message": "제발, 이 쪽지를 발명가 케메트에게 가져다 주세요. 그가 <FC 0,128,0>치료 약초<END FC> 찾는 것을 도와줄 겁니다. 서두르셔야만 합니다. 시장에겐 시간이 별로 없어요.<E>",
     "description": "SphinxText.xls, row 1562"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_NotEnough": {
-    "message": "\uc544\uc9c1 <FC 0,128,0>\uce58\ub8cc \uc57d\ucd08<FC 128,128,128>\uac00 \ucda9\ubd84\ud558\uc9c0 \uc54a\uc544. \uc11c\ub458\ub7ec\uc57c\ub9cc \ud55c\ub2e4. \uc2dc\uac04\uc774 \ubcc4\ub85c \uc5c6\uc5b4.<E>",
+    "message": "아직 <FC 0,128,0>치료 약초<FC 128,128,128>가 충분하지 않아. 서둘러야만 한다. 시간이 별로 없어.<E>",
     "description": "SphinxText.xls, row 1563"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone": {
-    "message": "\ud558\ub098, \ub458, \uc14b, \ub137, \ub2e4\uc12f... \ud6cc\ub96d\ud574! \ubaa8\ub450 \ucc3e\uc558\uad70! \uc11c\ub450\ub974\uba74 \uc2dc\uc7a5\uc744 \uad6c\ud560 \uc218 \uc788\ub294 \uc2dc\uac04\uc774 \uc544\uc9c1 \uc788\uc744 \uc9c0 \ubab0\ub77c.<E>",
+    "message": "하나, 둘, 셋, 넷, 다섯... 훌륭해! 모두 찾았군! 서두르면 시장을 구할 수 있는 시간이 아직 있을 지 몰라.<E>",
     "description": "SphinxText.xls, row 1564"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone1": {
-    "message": "\uc790~ \uc2dc\uc7a5\ub2d8, \uc774\uac78 \uba39\uc5b4\uc57c\ub9cc \ud574\uc694. \uc88b\uc544\uc9c0\uac8c \ub420 \uac70\uc5d0\uc694.<E>",
+    "message": "자~ 시장님, 이걸 먹어야만 해요. 좋아지게 될 거에요.<E>",
     "description": "SphinxText.xls, row 1565"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone2": {
-    "message": "\uc608! \ubc8c\uc368 \ub354 \uc88b\uc544 \ubcf4\uc774\ub294 \uad70! \uc5ec\uae30 \ub0b4 \uac10\uc0ac\uc758 \ud45c\uc2dc\ub85c \uc791\uc740 \ubcf4\uc0c1\uc774 \uc788\ub2e4. \uc2dc\uc7a5\ub3c4 \ubcf4\uc0c1\uc744 \ud560 \uac70\ub77c \ubbff\ub294\ub2e4! <E>",
+    "message": "예! 벌써 더 좋아 보이는 군! 여기 내 감사의 표시로 작은 보상이 있다. 시장도 보상을 할 거라 믿는다! <E>",
     "description": "SphinxText.xls, row 1566"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone3": {
-    "message": "\uc624~~~~~! \ubb50\uc600\uc9c0? \uc5ec\uae30\ub294 \uc5b4\ub514\uc57c? \uc624, \ub108\ubb34 \uc5b4\uc9c0\ub7fd\uad70!<E>",
+    "message": "오~~~~~! 뭐였지? 여기는 어디야? 오, 너무 어지럽군!<E>",
     "description": "SphinxText.xls, row 1567"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone4": {
-    "message": "\ub204\uad6c\uc9c0? \uc800\uc0ac\ub78c\uc740 \uc5ec\uae30\uc11c \ubb50 \ud558\ub294 \uac70\uc57c?<E>",
+    "message": "누구지? 저사람은 여기서 뭐 하는 거야?<E>",
     "description": "SphinxText.xls, row 1568"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone5": {
-    "message": "\uc2dc\uc7a5\ub2d8, \uc774\ucabd\uc740 \uc2a4\ud551\ud06c\uc2a4\uc785\ub2c8\ub2e4. \uadf8\uac00 \ub2f9\uc2e0\uc744 \uce58\ub8cc\ud558\uae30 \uc704\ud574 \uc57d\ucd08\ub97c \ucc3e\uc740 \uc0ac\ub78c\uc785\ub2c8\ub2e4. \uc6b0\ub9ac\uc758 \uc601\uc6c5\uc774\uc8e0. \ub2f9\uc2e0\uc758 \uc0dd\uba85\uc744 \uad6c\ud588\uc2b5\ub2c8\ub2e4!<E>",
+    "message": "시장님, 이쪽은 스핑크스입니다. 그가 당신을 치료하기 위해 약초를 찾은 사람입니다. 우리의 영웅이죠. 당신의 생명을 구했습니다!<E>",
     "description": "SphinxText.xls, row 1569"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone6": {
-    "message": "\uac10\uc0ac\ud569\ub2c8\ub2e4, \uc80a\uc740 \uc591\ubc18. \ub2f9\uc2e0\uc740 \ub9e4\uc6b0 \ud2b9\uc774\ud558\uac8c \uc0dd\uae34 \uce5c\uad6c\uad70\uc694. \ubb34\uc2a8 \uc77c\ub85c \uc6b0\ub9ac\uc758 \uc544\ub984\ub2e4\uc6b4 \ub3c4\uc2dc <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc5d0 \uc624\uc168\ub294\uc9c0?<E>",
+    "message": "감사합니다, 젊은 양반. 당신은 매우 특이하게 생긴 친구군요. 무슨 일로 우리의 아름다운 도시 <FC 128,64,0>아비도스<END FC>에 오셨는지?<E>",
     "description": "SphinxText.xls, row 1570"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone7": {
-    "message": "\uc544\ub204\ube44\uc2a4\ub97c \uc704\ud574\uc11c <FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uad00<END FC>\uc744? \uc74c, \uc815\ub9d0 \uace4\ub780\ud55c \uc694\uccad\uc774\uad70...<E>",
+    "message": "아누비스를 위해서 <FC 0,128,0>아비도스의 성스러운 관<END FC>을? 음, 정말 곤란한 요청이군...<E>",
     "description": "SphinxText.xls, row 1571"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone8": {
-    "message": "\uadf8\ub294 \uac70\uc9d3\ub9d0\uc744 \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4, \uc2dc\uc7a5\ub2d8! \uadf8\ub294 \ub2f9\uc2e0\uc5d0\uac8c \ub3c5\uc744 \uba39\uc778 \uc0ac\uae30\uafbc\uc785\ub2c8\ub2e4! \uadf8\ub9ac\uace0 \uc655\uad00\uc744 \ud6d4\uce58\ub824\uace0 \ud569\ub2c8\ub2e4! \uc544\ub204\ube44\uc2a4\ub294 \uc774\ub7f0 \ub140\uc11d\ud558\uace0 \uc808\ub300\ub85c \uc5b4\uc6b8\ub9ac\uc9c0 \uc54a\uc744 \uac83\uc785\ub2c8\ub2e4! \uadf8\ub97c \ubbff\uc9c0 \ub9c8\uc138\uc694!<E>",
+    "message": "그는 거짓말을 하고 있습니다, 시장님! 그는 당신에게 독을 먹인 사기꾼입니다! 그리고 왕관을 훔치려고 합니다! 아누비스는 이런 녀석하고 절대로 어울리지 않을 것입니다! 그를 믿지 마세요!<E>",
     "description": "SphinxText.xls, row 1572"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone9": {
-    "message": "\uc2dc\ub044\ub7ec\uc6cc! \uae30\uc0dd\ucda9 \uac19\uc740 \ub108\ud76c\ub4e4\uc740 \uc758\ud68c\uc5d0 \uac00\uc785\ud55c \ud6c4 \uacc4\uc18d \uc774 \uc655\uad00\uc744 \ucc3e\uc544\uc654\ub2e4. \uadf8\ub7f0 \ub108\ud76c\ubcf4\ub2e4\ub294 \uc2a4\ud551\ud06c\uc2a4\uac00 \ub354 \ubbff\uc744\ub9cc \ud558\ub2e4!<E>",
+    "message": "시끄러워! 기생충 같은 너희들은 의회에 가입한 후 계속 이 왕관을 찾아왔다. 그런 너희보다는 스핑크스가 더 믿을만 하다!<E>",
     "description": "SphinxText.xls, row 1573"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone10": {
-    "message": "\ud760, \uc774 \uacb0\uc815\uc740 \uc880 \uc2e0\uc911\ud568\uc774 \ud544\uc694\ud558\uaca0\uad70...<P>\uc65c \ubaa8\ub4e0 \uc0ac\ub78c\ub4e4\uc774 \uc694\uc998 \uc774 \uc655\uad00\uc5d0 \uadf8\ub807\uac8c \uad00\uc2ec\uc744 \uac00\uc9c0\uace0 \uc788\uc9c0? \ucd5c\uace0\uc758 \ubc29\uc548\uc744 \uc0dd\uac01\ud574 \ubd10\uc57c\uaca0\ub2e4.<E>",
+    "message": "흠, 이 결정은 좀 신중함이 필요하겠군...<P>왜 모든 사람들이 요즘 이 왕관에 그렇게 관심을 가지고 있지? 최고의 방안을 생각해 봐야겠다.<E>",
     "description": "SphinxText.xls, row 1574"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone11": {
-    "message": "\uc2a4\ud551\ud06c\uc2a4, \uc7a0\uc2dc \ud6c4 \uc606\ubc29\uc73c\ub85c \ub098\ub97c \ubcf4\ub7ec \uc624\uba74 \ub098\uc758 \uacb0\uc815\uc744 \uc54c\ub824\uc8fc\uaca0\ub2e4.<E>",
+    "message": "스핑크스, 잠시 후 옆방으로 나를 보러 오면 나의 결정을 알려주겠다.<E>",
     "description": "SphinxText.xls, row 1575"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone12": {
-    "message": "\uc0dd\uac01\uc744 \uc880 \ud574\uc57c\uaca0\ub2e4... \uadf8\ub9ac\uace0 \ub098\ub294 \uc815\ub9d0 \ud53c\uace4\ud558\ub2e4... <W 90>",
+    "message": "생각을 좀 해야겠다... 그리고 나는 정말 피곤하다... <W 90>",
     "description": "SphinxText.xls, row 1576"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorSaved": {
-    "message": "\uc6b0\ub9ac\uac00 \uc2dc\uc7a5\uc744 \uad6c\ud574\uc11c \uc815\ub9d0 \uae30\uc058\ub2e4. \ub9cc\uc57d \uc758\uc6d0\ub4e4 \uc911 \ub204\uad70\uac00\uac00 \uc9d1\uad8c\uc744 \ud588\uc73c\uba74 \ub3c4\uc2dc\ub294 \uc815\ub9d0 \ud63c\ub3c8\uc5d0 \ube60\uc84c\uc744 \uac70\uc57c.<E>",
+    "message": "우리가 시장을 구해서 정말 기쁘다. 만약 의원들 중 누군가가 집권을 했으면 도시는 정말 혼돈에 빠졌을 거야.<E>",
     "description": "SphinxText.xls, row 1577"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_Intro1": {
-    "message": "\uc544\uc544, \uc774\ub7f0 \ube44\uadf9\uc774! \uc2dc\uc7a5\uc774 \uc8fd\uc5b4\uac00\uace0 \uc788\ub2e4! \uc6b0\ub9ac\ub294 \uc9c0\uccb4\ud558\uba74 \uc548 \ub41c\ub2e4. \uacc4\uc2b9 \uc758\uc2dd\uc774 \uc989\uc2dc \ud589\ud574\uc838\uc57c\ub9cc \ud55c\ub2e4.<W 75><E>",
+    "message": "아아, 이런 비극이! 시장이 죽어가고 있다! 우리는 지체하면 안 된다. 계승 의식이 즉시 행해져야만 한다.<W 75><E>",
     "description": "SphinxText.xls, row 1578"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_Intro2": {
-    "message": "\uc608, \uacc4\uc2b9\uc790\ub294 \uc989\uac01 \uc120\ud0dd\ub418\uc5b4\uc57c \ud558\uace0 <FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uad00<END FC>\uc774 \uc8fc\uc5b4\uc838\uc57c \ud569\ub2c8\ub2e4.<E>",
+    "message": "예, 계승자는 즉각 선택되어야 하고 <FC 0,128,0>아비도스의 성스러운 관<END FC>이 주어져야 합니다.<E>",
     "description": "SphinxText.xls, row 1579"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_Intro1": {
-    "message": "<FC 128,60,0>\uad34\ubb3c\ub4e4\uc774 \ub300\ub7c9\uc73c\ub85c \uc6b0\ub9ac\uc758 \uc544\ub984\ub2e4\uc6b4 \ub3c4\uc2dc\uc5d0 \ub193\uc544\uc84c\ub2e4! \uc624, \uc6b0\ub9ac\uc758 \ubd88\uc30d\ud55c \uc2dc\uc7a5 \uadf8\uac00 \uc544\uc9c1 \uc815\uc2e0\uc774 \uc788\uc744 \ub54c \ub098\ub97c \ucc45\uc784\uc790\ub85c \uc784\uba85\ud558\uc600\ub2e4. \uadf8\uc758 \ube44\uadf9\uc801\uc778 \uc8fd\uc74c\uc744 \ub0b4\uac00 \ubcf5\uc218\ud560 \uac83\uc774\ub2e4.<E>",
+    "message": "<FC 128,60,0>괴물들이 대량으로 우리의 아름다운 도시에 놓아졌다! 오, 우리의 불쌍한 시장 그가 아직 정신이 있을 때 나를 책임자로 임명하였다. 그의 비극적인 죽음을 내가 복수할 것이다.<E>",
     "description": "SphinxText.xls, row 1580"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_Intro2": {
-    "message": "<FC 128,60,0>\uc2dc\uc7a5\uc774 \uc99d\uac70\ub97c \uc6d0\ud55c\ub2e4\uace0?! \ubbf8\uce5c \uac8c \ubd84\uba85\ud574! \uad34\ubb3c\ub4e4\uc774 \ubc14\ub2e4\uc758 \uc2ec\uc5f0\uc5d0\uc11c \ub5a0\uc624\ub974\ub294 \uac83\uc774 \ucda9\ubd84\ud55c \uc99d\uac70\ub2e4! \ud760, \uadf8\ub294 \uc9c0\ub3c4\uc790 \uc790\ub9ac\uc5d0 \uc788\uae30\uc5d0 \ub108\ubb34 \ud63c\ub780\uc2a4\ub7ec\uc6b4 \uac83\uc774 \uc544\ub2d0\uae4c...<E>",
+    "message": "<FC 128,60,0>시장이 증거를 원한다고?! 미친 게 분명해! 괴물들이 바다의 심연에서 떠오르는 것이 충분한 증거다! 흠, 그는 지도자 자리에 있기에 너무 혼란스러운 것이 아닐까...<E>",
     "description": "SphinxText.xls, row 1581"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_NeedHerbs": {
-    "message": "<FC 0,128,128>\ub124\uac00 \uc2dc\uac04 \uc548\uc5d0 \uc57d\ucd08\ub4e4\uc744 \ubaa8\uc73c\uae30 \ud798\ub4e4\uac70\ub77c \uc0dd\uac01\ud55c\ub2e4.  \uc2dc\uc7a5\uc740 \uc0c1\ucc98 \ubc1b\uc544\uc11c \uc8fd\ub294 \uac8c \ud655\uc2e4\ud558\ub2e4... \uc544\ub9c8 \uc6b0\ub9ac\uac00 \uadf8 \uc758\uc0ac\uc5d0\uac8c \uc2dc\uc7a5\uc774 \ub354 \uc774\uc0c1 \uace0\ud1b5 \ubc1b\uc9c0 \uc54a\uac8c \ubb34\uc5c7\uc778\uac00\ub97c \ud574\uc8fc\ub3c4\ub85d \uc124\ub4dd\ud560 \uc218 \uc788\uc744 \uac70\uc57c.<E>",
+    "message": "<FC 0,128,128>네가 시간 안에 약초들을 모으기 힘들거라 생각한다.  시장은 상처 받아서 죽는 게 확실하다... 아마 우리가 그 의사에게 시장이 더 이상 고통 받지 않게 무엇인가를 해주도록 설득할 수 있을 거야.<E>",
     "description": "SphinxText.xls, row 1582"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_NeedHerbs": {
-    "message": "<FC 128,60,0>\ub0b4\uac00 \uace7 \uc2dc\uc7a5\uc73c\ub85c \ucd94\ub300\ub418\uc5b4\uc57c \ud55c\ub2e4,\uadf8\ub7ec\uba74 \ub0b4 \ubc29\uc2dd\ub300\ub85c \uc6b0\ub9ac\uac00 \uc774 \ubb38\uc81c\ub97c \ud574\uacb0\ud560 \uac83\uc774\ub2e4.<E>",
+    "message": "<FC 128,60,0>내가 곧 시장으로 추대되어야 한다,그러면 내 방식대로 우리가 이 문제를 해결할 것이다.<E>",
     "description": "SphinxText.xls, row 1583"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_MayorSaved": {
-    "message": "<FC 0,128,128>\uadf8\ub9ac \uc2e0\uacbd \uc4f0\uc9c0\ub9c8. \uc54c\ub2e4\uc2dc\ud53c \uadf8 \ub204\uad6c\ub3c4 \uc9c0\uc704\uc758 \uc911\uc694\uc131\uc744 \uac00\ub2a0\ud560 \uc218 \uc5c6\ub2e4\uc796\uc544.<E>",
+    "message": "<FC 0,128,128>그리 신경 쓰지마. 알다시피 그 누구도 지위의 중요성을 가늠할 수 없다잖아.<E>",
     "description": "SphinxText.xls, row 1584"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_MayorSaved": {
-    "message": "<FC 128,60,0>\uc2dc\uc7a5\uc774 \uc0b4\uc558\ub2e4! \uc815\ub9d0, \uc74c, \ud6cc\ub96d\ud558\uad70. \uc774\uc81c, \uc758\uc2dd\uc744 \uc704\ud574 \ub2e4\uc74c \ubb38\uc73c\ub85c \uac00\uc790.<E>",
+    "message": "<FC 128,60,0>시장이 살았다! 정말, 음, 훌륭하군. 이제, 의식을 위해 다음 문으로 가자.<E>",
     "description": "SphinxText.xls, row 1585"
   },
   "HT_Text_Aby_Council_Advisor01_Talk01": {
-    "message": "\ub108\ub294 <FC 0,128,0>\uce58\ub8cc \uc57d\ucd08<END FC>\ub97c \uc2dc\uac04 \uc548\uc5d0 \ubaa8\uc73c\uc9c0 \ubabb\ud560 \uac70\ub2e4. \uc2dc\uc7a5\uc740 \ub05d\ub0ac\uc5b4.<E>",
+    "message": "너는 <FC 0,128,0>치료 약초<END FC>를 시간 안에 모으지 못할 거다. 시장은 끝났어.<E>",
     "description": "SphinxText.xls, row 1586"
   },
   "HT_Text_Aby_Council_Advisor01_Talk02": {
-    "message": "\uc2dc\uac04\ub0ad\ube44\uc57c. \uc989\uac01 \ud6c4\uacc4\uc790\ub97c \ubf51\uc544\uc57c\ub9cc \ud574!<E>",
+    "message": "시간낭비야. 즉각 후계자를 뽑아야만 해!<E>",
     "description": "SphinxText.xls, row 1587"
   },
   "HT_Text_Aby_Council_Advisor02_Talk01": {
-    "message": "\uc2dc\uc7a5\uc740 \ud070 \uace0\ud1b5\uc744 \uacaa\uace0 \uc788\ub2e4. \uc544\ub9c8 \uc6b0\ub9ac\uac00 \uc758\uc0ac\uc5d0\uac8c \uc2dc\uc7a5\uc774 \uace0\ud1b5\uc744 \ub05d\ub0bc \ub9cc\ud55c \ubb54\uac00\ub97c \uc8fc\ub77c\uace0 \uc124\ub4dd\ud560 \uc218 \uc788\uc744\uc9c0\ub3c4 \ubab0\ub77c?<E>",
+    "message": "시장은 큰 고통을 겪고 있다. 아마 우리가 의사에게 시장이 고통을 끝낼 만한 뭔가를 주라고 설득할 수 있을지도 몰라?<E>",
     "description": "SphinxText.xls, row 1588"
   },
   "HT_Text_Aby_Council_Advisor02_Talk02": {
-    "message": "<FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uad00<END FC>\uc740 \uc9c0\uccb4\ud558\uc9c0 \ub9d0\uace0 \uc2dc\uc7a5\uc758 \ud6c4\uacc4\uc790\uc5d0\uac8c \uac74\ub124\uc838\uc57c \ud55c\ub2e4. <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \ud589\ubcf5\uc744 \uc704\ud558\uc5ec!<E>",
+    "message": "<FC 0,128,0>아비도스의 성스러운 관<END FC>은 지체하지 말고 시장의 후계자에게 건네져야 한다. <FC 128,64,0>아비도스<END FC>의 행복을 위하여!<E>",
     "description": "SphinxText.xls, row 1589"
   },
   "HT_Text_Aby_Council_Posh01_Intro01": {
-    "message": "\uc5f4\uc5b4, \uc774\ubd10! \uc5f4\ub77c\uad6c! \ud749\uce21\ud55c \uad34\ubb3c\ub4e4\uc774 \ubc16\uc5d0 \uc788\ub2e4!<E>",
+    "message": "열어, 이봐! 열라구! 흉측한 괴물들이 밖에 있다!<E>",
     "description": "SphinxText.xls, row 1590"
   },
   "HT_Text_Aby_Council_Posh01_Intro02": {
-    "message": "\ubbf8\uc548\ud558\ub124 \uce5c\uad6c, \ud558\uc9c0\ub9cc \uc6b0\ub9ac\ub294 \uadf8 \uad34\ubb3c\ub4e4\uc774 <FC 128,64,0>\uc758\ud68c\uc2e4<END FC>\ub85c \ub4e4\uc5b4\uc624\ub294 \uc704\ud5d8\uc744 \uac10\uc218\ud560 \uc218\ub294 \uc5c6\ub124. \uc790\ub124\uac00 \uc54c\uc544\uc11c \ud558\uac8c.<E>",
+    "message": "미안하네 친구, 하지만 우리는 그 괴물들이 <FC 128,64,0>의회실<END FC>로 들어오는 위험을 감수할 수는 없네. 자네가 알아서 하게.<E>",
     "description": "SphinxText.xls, row 1591"
   },
   "HT_Text_Aby_Council_Posh01_Intro03": {
-    "message": "\ub2e4\uc74c\uc5d4 \ub610 \ubb50\uc57c? \uadf8 \ubb34\uc2dc\ubb34\uc2dc\ud588\ub358 \uc804\uae30\ubc40\uc7a5\uc5b4\ub4e4\uc744 <FC 128,64,0>\uc758\ud68c\uc2e4<END FC>\ub85c\ubd80\ud130 \uc81c\uac70\ud588\ub354\ub2c8 \uc774\uc81c\ub294 \ud749\uce21\ud55c \uad34\ubb3c\ub4e4\uc774 \ub098\ud0c0\ub098\ub294\uad70!<E>",
+    "message": "다음엔 또 뭐야? 그 무시무시했던 전기뱀장어들을 <FC 128,64,0>의회실<END FC>로부터 제거했더니 이제는 흉측한 괴물들이 나타나는군!<E>",
     "description": "SphinxText.xls, row 1592"
   },
   "HT_Text_Aby_Council_Posh01_NoEntry": {
-    "message": "\uac00\ubc84\ub824! \ub0b4\uac00 \uadf8\ub7ac\uc796\uc544, \uc6b0\ub9ac\ub294 \uadf8 \uad34\ubb3c\ub4e4\uc774 \uc548\uc5d0 \ub4e4\uc5b4\uc624\uac8c \ud560 \uc218 \uc5c6\uc5b4!<E>",
+    "message": "가버려! 내가 그랬잖아, 우리는 그 괴물들이 안에 들어오게 할 수 없어!<E>",
     "description": "SphinxText.xls, row 1593"
   },
   "HT_Text_Aby_Council_Posh01_Done01": {
-    "message": "\ud55c \ub9c8\ub514\ub85c \uc9c8\ub824\ubc84\ub838\ub2e4! \ub098\ub97c \uc800 \uad34\ubb3c\ub4e4\uacfc \ud568\uaed8 \ubc16\uc5d0 \ub193\uc544 \ub450\uace0 \uc548\uc5d0\uc11c \uc7a0\uad88\ubc84\ub9ac\ub2e4\ub2c8, \uc790\uc2e0\ub4e4\uc758 \uc548\uc804\ub9cc \uc0dd\uac01\ud558\uace0! \uadf8\ub7f0 \ubed4\ubed4\ud568\uc744!<E>",
+    "message": "한 마디로 질려버렸다! 나를 저 괴물들과 함께 밖에 놓아 두고 안에서 잠궈버리다니, 자신들의 안전만 생각하고! 그런 뻔뻔함을!<E>",
     "description": "SphinxText.xls, row 1594"
   },
   "HT_Text_Aby_Council_Posh01_Done02": {
-    "message": "\ub098\ub294 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \uc874\uacbd \ubc1b\ub294 \uace0\uc704\uc778\uc0ac\ub85c \uc911\uc694\ud55c \ucc45\uc784\uc774 \uc788\ub2e4. \ub0b4 \ub3d9\ub8cc \uc758\uc6d0\ub4e4\uc5d0\uac8c \uc880 \ub354 \uc874\uacbd\uc744 \ubc1b\uc558\uc73c\uba74 \ud558\ub294\uad70!<E>",
+    "message": "나는 <FC 128,64,0>아비도스<END FC>의 존경 받는 고위인사로 중요한 책임이 있다. 내 동료 의원들에게 좀 더 존경을 받았으면 하는군!<E>",
     "description": "SphinxText.xls, row 1595"
   },
   "HT_Text_Aby_Council_Posh01_Done03": {
-    "message": "\uac1c\uc778\uc758 \uc9c0\uc704\ub294 \ub2e4\ub978 \uc0ac\ub78c\ub4e4\uc5d0 \uc758\ud574 \ud56d\uc0c1 \uace0\ub824\ub418\uc5b4\uc57c \ud558\ub124. \ub3d9\uc758\ud558\uc9c0 \uc54a\ub294\uac00?<E>",
+    "message": "개인의 지위는 다른 사람들에 의해 항상 고려되어야 하네. 동의하지 않는가?<E>",
     "description": "SphinxText.xls, row 1596"
   },
   "HT_Text_Aby_Council_Posh01_Ill01": {
-    "message": "\uc2dc\uc7a5\uc5d0 \uad00\ud574\uc11c\ub294 \ub054\ucc0d\ud55c \uc18c\uc2dd\uc774\uc57c. \uadf8\uac00 \uc5c6\ub2e4\uba74 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uac00 \uace0\ud1b5\uc744 \ubc1b\uc744 \uac70\ub77c\uace0 \ub098\ub294 \ud655\uc2e0\ud574.<E>",
+    "message": "시장에 관해서는 끔찍한 소식이야. 그가 없다면 <FC 128,64,0>아비도스<END FC>가 고통을 받을 거라고 나는 확신해.<E>",
     "description": "SphinxText.xls, row 1597"
   },
   "HT_Text_Aby_Council_Posh01_Ill02": {
-    "message": "\ub0b4\uac00 \uc2dc\uc7a5\uc744 \uc704\ud574\uc11c \ubb34\uc5c7\uc778\uac00 \ud560 \uc218 \uc788\ub294 \uac8c \uc788\uae30\ub97c \ubc14\ub780\ub2e4.<E>",
+    "message": "내가 시장을 위해서 무엇인가 할 수 있는 게 있기를 바란다.<E>",
     "description": "SphinxText.xls, row 1598"
   },
   "HT_Text_Aby_Council_Posh01_Complete01": {
-    "message": "\uc548\ub155\ud558\uc2e0\uac00! <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \uad6c\uc6d0\uc790\uc774\uba70 \uc601\uc6c5\uc5d0\uac8c \ub9d0\ud560 \uc218 \uc788\ub2e4\ub294 \uac83\uc740 \uc601\uad11\uc774\ub124.<E>",
+    "message": "안녕하신가! <FC 128,64,0>아비도스<END FC>의 구원자이며 영웅에게 말할 수 있다는 것은 영광이네.<E>",
     "description": "SphinxText.xls, row 1599"
   },
   "HT_Text_Aby_Council_Posh01_Cured01": {
-    "message": "<FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc5d0\uac8c \ud070 \uc77c\uc744 \ud574\uc8fc\uc5c8\ub124, \uc80a\uc740 \uc591\ubc18.<E>",
+    "message": "<FC 128,64,0>아비도스<END FC>에게 큰 일을 해주었네, 젊은 양반.<E>",
     "description": "SphinxText.xls, row 1600"
   },
   "HT_Text_Aby_Council_Posh01_Cured02": {
-    "message": "\uc790\ub124\uac00 \uc800 \ubc30\uc2e0\uc790\ub4e4\ub85c\ubd80\ud130 \uadf8 \uc655\uad00\uc744 \ud68c\uc218\ud560 \uc218 \uc788\uae30\ub9cc\uc744 \ud76c\ub9dd\ud558\ub124.<E>",
+    "message": "자네가 저 배신자들로부터 그 왕관을 회수할 수 있기만을 희망하네.<E>",
     "description": "SphinxText.xls, row 1601"
   },
   "HT_Text_Aby_Council_Posh01_GiveAtun": {
-    "message": "\uadf8 \ub054\uc9c1\ud55c \uad34\ubb3c\ub4e4\uc744 \ubb34\ucc0c\ub974\uace0 \ub098\ub97c \uad6c\ud574\uc918\uc11c \uc815\ub9d0 \uace0\ub9d9\ub124. \uc6b0\ub9ac\uac00 \uadf8 \uc804\uae30\ubc40\uc7a5\uc5b4\ub4e4\uc744 \uc5c6\uc574\uc744 \ub54c, \uc6b0\ub9ac\uc758 \ubb38\uc81c\ub294 \ud574\uacb0\ub418\uc5c8\ub2e4\uace0 \uc0dd\uac01\ud588\ub124.<P>\uc774 <FC 0,128,0>\uc544\ud230\uc758 \ub208<END FC>\uc744 \uac10\uc0ac\uc758 \ud45c\uc2dc\ub85c \uac00\uc838\uac00\uac8c.<E>",
+    "message": "그 끔직한 괴물들을 무찌르고 나를 구해줘서 정말 고맙네. 우리가 그 전기뱀장어들을 없앴을 때, 우리의 문제는 해결되었다고 생각했네.<P>이 <FC 0,128,0>아툰의 눈<END FC>을 감사의 표시로 가져가게.<E>",
     "description": "SphinxText.xls, row 1602"
   },
   "HT_Text_Aby_Council_Posh02_Talk01": {
-    "message": "\uc2dc\uc7a5\uc758 \ubd88\ud589\uacfc\ub294 \uc0c1\uad00\uc5c6\uc774, \uc9c0\uae08\uc740 \uc815\ub9d0 \ubd88\ud589\ud55c \uc2dc\uae30\uc57c.<E>",
+    "message": "시장의 불행과는 상관없이, 지금은 정말 불행한 시기야.<E>",
     "description": "SphinxText.xls, row 1603"
   },
   "HT_Text_Aby_Council_Posh02_Talk02": {
-    "message": "\uc774\ub7f4 \ub54c\uc5d0\ub294 \uc774\uae30\uc801\uc778 \ud589\ub3d9\uc740 \uc6a9\ub0a9\ud560 \uc218 \uc5c6\ub2e4. \uc758\ud68c\uc758 \uc774\uc775\uc774 \uc6b0\uc120\ub418\uc5b4\uc57c \ud55c\ub2e4.<E>",
+    "message": "이럴 때에는 이기적인 행동은 용납할 수 없다. 의회의 이익이 우선되어야 한다.<E>",
     "description": "SphinxText.xls, row 1604"
   },
   "HT_Text_Aby_Council_Posh02_Ill01": {
-    "message": "\uc2dc\uc7a5\uc774 \ud68c\ubcf5\ud558\uae30\ub97c \ubc14\ub780\ub2e4. \uadf8\uc758 \uc870\uc5b8\uc790\ub4e4\uc774 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\ub97c \uc704\ud55c \ucd5c\uace0\uc758 \uad00\uc2ec\uc0ac\ub97c \uc5fc\ub450\uc5d0 \ub450\uace0 \uc788\ub294\uc9c0\ub294 \ubaa8\ub974\uaca0\ub2e4.<E>",
+    "message": "시장이 회복하기를 바란다. 그의 조언자들이 <FC 128,64,0>아비도스<END FC>를 위한 최고의 관심사를 염두에 두고 있는지는 모르겠다.<E>",
     "description": "SphinxText.xls, row 1605"
   },
   "HT_Text_Aby_Council_Posh02_Ill02": {
-    "message": "\ub9cc\uc57d \uc2dc\uc7a5\uc774 \uc8fd\ub294\ub2e4\uba74 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uac00 \uc608\uc804\uacfc \uac19\uc544\uc9c8 \uac70\ub77c\uace0 \uc0dd\uac01\ud558\uc9c0 \uc54a\ub294\ub2e4.<E>",
+    "message": "만약 시장이 죽는다면 <FC 128,64,0>아비도스<END FC>가 예전과 같아질 거라고 생각하지 않는다.<E>",
     "description": "SphinxText.xls, row 1606"
   },
   "HT_Text_Aby_Council_Posh02_Cured01": {
-    "message": "\uadf8 \uc870\uc5b8\uc790\ub4e4\uc774 \ubbff\uc9c0 \ubabb\ud560 \uc0ac\ub78c\ub4e4\uc774\ub77c\ub294 \uac83\uc744 \uc54c\uace0 \uc788\uc5c8\ub2e4.<E>",
+    "message": "그 조언자들이 믿지 못할 사람들이라는 것을 알고 있었다.<E>",
     "description": "SphinxText.xls, row 1607"
   },
   "HT_Text_Aby_Council_Posh02_Cured02": {
-    "message": "\uadf8 \ubc30\uc2e0\uc790\ub4e4\uc740 \uc5c4\ud558\uac8c \ucc98\ubc8c \ubc1b\uc544\uc57c \ud55c\ub2e4.<E>",
+    "message": "그 배신자들은 엄하게 처벌 받아야 한다.<E>",
     "description": "SphinxText.xls, row 1608"
   },
   "HT_Text_Aby_Council_Posh02_Complete01": {
-    "message": "\ucc38\uc11d\ud558\uc154\uc11c \uc6b0\ub9ac\ub97c \uc601\uad11\uc2a4\ub7fd\uac8c \ud574\uc8fc\uc154\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4, <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \uc601\uc6c5\uc774\uc5ec.<E>",
+    "message": "참석하셔서 우리를 영광스럽게 해주셔서 감사합니다, <FC 128,64,0>아비도스<END FC>의 영웅이여.<E>",
     "description": "SphinxText.xls, row 1609"
   },
   "HT_Text_Aby_Council_Posh03_Talk01": {
-    "message": "\ub9cc\uc57d \uadf8 \uad34\ubb3c\ub4e4\uc774 \uc548\uc5d0 \ub4e4\uc5b4\uc654\uc5c8\ub354\ub77c\uba74 \ubb34\uc2a8 \uc77c\uc774 \ubc8c\uc5b4\uc84c\uc744\uc9c0 \uc0dd\uac01\ud574\ubd10!<E>",
+    "message": "만약 그 괴물들이 안에 들어왔었더라면 무슨 일이 벌어졌을지 생각해봐!<E>",
     "description": "SphinxText.xls, row 1610"
   },
   "HT_Text_Aby_Council_Posh03_Talk02": {
-    "message": "\uc774 \ubb34\uc2dc\ubb34\uc2dc\ud55c \uad34\ubb3c\ub4e4\uc744 \uc0dd\uac01\uc5d0\uc11c \ub5a8\uccd0\ubc84\ub9b4 \uc218\uac00 \uc5c6\uc5b4. \uadf8 \ub188\ub4e4\uc774 <FC 128,64,0>\uc758\ud68c\uc2e4<END FC>\uc5d0 \ub4e4\uc5b4\uc654\ub354\ub77c\uba74?<E>",
+    "message": "이 무시무시한 괴물들을 생각에서 떨쳐버릴 수가 없어. 그 놈들이 <FC 128,64,0>의회실<END FC>에 들어왔더라면?<E>",
     "description": "SphinxText.xls, row 1611"
   },
   "HT_Text_Aby_Council_Posh03_Ill01": {
-    "message": "<FC 0,128,0>\uce58\ub8cc \uc57d\ucd08<END FC>\uac00 \uc2dc\uc7a5\uc744 \uac74\uac15\ud55c \uc0c1\ud0dc\ub85c \ub3cc\ub824\ub193\uc744 \uc218 \uc788\ub2e4\uace0 \ud655\uc2e0\ud55c\ub2e4.<E>",
+    "message": "<FC 0,128,0>치료 약초<END FC>가 시장을 건강한 상태로 돌려놓을 수 있다고 확신한다.<E>",
     "description": "SphinxText.xls, row 1612"
   },
   "HT_Text_Aby_Council_Posh03_Ill02": {
-    "message": "<FC 0,128,0>\uce58\ub8cc \uc57d\ucd08<END FC>\ub294 \ubc14\ub85c \uc774 <FC 128,64,0>\uc758\ud68c\uc2e4<END FC>\uc5d0\uc11c \uc790\ub77c\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc838 \uc788\ub2e4!<E>",
+    "message": "<FC 0,128,0>치료 약초<END FC>는 바로 이 <FC 128,64,0>의회실<END FC>에서 자라는 것으로 알려져 있다!<E>",
     "description": "SphinxText.xls, row 1613"
   },
   "HT_Text_Aby_Council_Posh03_Cured01": {
-    "message": "\uc2dc\uc7a5\uc774 \ub2e4\uc2dc \uac70\ub3d9\ud558\ub294 \uac83\uc744 \ubcf4\ub2c8 \uc88b\uad70. \uc774\uc81c\ub294 \uadf8\uac00 \ub098 \uac19\uc740 \ubbff\uc744\ub9cc\ud55c \uc870\uc5b8\uc790\ub4e4\uc744 \uc880 \ub354 \uace0\uc6a9\ud560\uc9c0\ub3c4 \ubaa8\ub974\uaca0\uad70.<E>",
+    "message": "시장이 다시 거동하는 것을 보니 좋군. 이제는 그가 나 같은 믿을만한 조언자들을 좀 더 고용할지도 모르겠군.<E>",
     "description": "SphinxText.xls, row 1614"
   },
   "HT_Text_Aby_Council_Posh03_Cured02": {
-    "message": "\ub098\ub294 \uc2dc\uc7a5\uc744 \uc704\ud55c \ud6cc\ub96d\ud55c \uc870\uc5b8\uc790\uac00 \ub420 \uc218 \uc788\uc744 \uac83\uc774\ub77c\uace0 \ud655\uc2e0\ud55c\ub2e4.<E>",
+    "message": "나는 시장을 위한 훌륭한 조언자가 될 수 있을 것이라고 확신한다.<E>",
     "description": "SphinxText.xls, row 1615"
   },
   "HT_Text_Aby_Council_Posh03_Complete01": {
-    "message": "\uc88b\uc740 \ub0a0\uc774\uad70\uc694, <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \uc601\uc6c5!<E>",
+    "message": "좋은 날이군요, <FC 128,64,0>아비도스<END FC>의 영웅!<E>",
     "description": "SphinxText.xls, row 1616"
   },
   "HT_Text_Aby_Council_Physician_Herbs01": {
-    "message": "<FC 0,128,0>\uce58\ub8cc \uc57d\ucd08<END FC>\ub97c \ube68\ub9ac \ucc3e\uae30 \uc54a\ub294\ub2e4\uba74 \uc2dc\uc7a5\uc740 \ubd84\uba85\ud788 \uc8fd\uc5b4\ubc84\ub9b4 \uac70\uc5d0\uc694!<E>",
+    "message": "<FC 0,128,0>치료 약초<END FC>를 빨리 찾기 않는다면 시장은 분명히 죽어버릴 거에요!<E>",
     "description": "SphinxText.xls, row 1617"
   },
   "HT_Text_Aby_Council_Physician_Herbs02": {
-    "message": "<FC 0,128,0>\uce58\ub8cc \uc57d\ucd08<END FC>\ub97c \uc870\uae08 \ucc3e\uc558\uad70\uc694. \uace0\ub9c8\uc6cc\uc694. \ub098\uba38\uc9c0\ub3c4 \ube68\ub9ac \ucc3e\uc544\uc57c \uc8fc\uc138\uc694. \uc2dc\uc7a5\uc5d0\uac90 \ub0a8\uc740 \uc2dc\uac04\uc774 \ubcc4\ub85c \uc5c6\uc5b4\uc694.<E>",
+    "message": "<FC 0,128,0>치료 약초<END FC>를 조금 찾았군요. 고마워요. 나머지도 빨리 찾아야 주세요. 시장에겐 남은 시간이 별로 없어요.<E>",
     "description": "SphinxText.xls, row 1618"
   },
   "HT_Text_Aby_Council_Physician_Done01": {
-    "message": "<FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc2dc\ub294 \ub2f9\uc2e0\uc744 \uc601\uc6c5\uc73c\ub85c \ud658\ub300\ud569\ub2c8\ub2e4, \ub0b4 \uce5c\uad6c.<E>",
+    "message": "<FC 128,64,0>아비도스<END FC>시는 당신을 영웅으로 환대합니다, 내 친구.<E>",
     "description": "SphinxText.xls, row 1619"
   },
   "HT_Text_Aby_Council_Guard_Greeting01": {
-    "message": "\uadfc\ubb34 \uc911\uc5d0\ub294 \ub098\ub97c \ubc29\ud574\ud558\uc9c0 \ub9c8\ub77c, \uc774\ubc29\uc778.<E>",
+    "message": "근무 중에는 나를 방해하지 마라, 이방인.<E>",
     "description": "SphinxText.xls, row 1620"
   },
   "HT_Text_Aby_Council_Guard_Greeting02": {
-    "message": "\uc88b\uc740 \ud558\ub8e8\uac00 \ub418\uae30\ub97c, \uc120\uc0dd\ub2d8!<E>",
+    "message": "좋은 하루가 되기를, 선생님!<E>",
     "description": "SphinxText.xls, row 1621"
   },
   "HT_Text_Aby_Museum_Inaguration1a": {
-    "message": "\uc6b0\ub9ac\ub294 \uc624\ub298 \uc774\uacf3 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC> \ubcf4\uc11d \ubc15\ub78c\ud68c\uc758 \uac1c\ub9c9\uc2dd\uc774\ub780 \uacbd\uc0ac\uc2a4\ub7ec\uc6b4 \ud589\uc0ac\uc5d0 \uc640 \uc788\uc2b5\ub2c8\ub2e4. \uc790\ub791\uc2a4\ub7ec\uc6b4 \ub0a0 \uc785\ub2c8\ub2e4.<E>",
+    "message": "우리는 오늘 이곳 <FC 128,64,0>아비도스 박물관<END FC> 보석 박람회의 개막식이란 경사스러운 행사에 와 있습니다. 자랑스러운 날 입니다.<E>",
     "description": "SphinxText.xls, row 1623"
   },
   "HT_Text_Aby_Museum_Inaguration1b": {
-    "message": "<EFF><EPO>\uc774 \uc911\uc694\ud55c \ud589\uc0ac\ub294 \uc6b0\ub9ac \ub3c4\uc2dc\uc758 \ubb38\ud654\ubc1c\uc804\uc744 \uc704\ud55c, \uc758\ud68c\uc758 \uc9c0\uc18d\uc801\uc778 \uad00\uc2ec\uc758 \uacb0\uacfc\uc785\ub2c8\ub2e4.<P>\uc0c8\ub85c\uc6b4 <FC 128,64,0>\ubcf4\uc11d\uc758 \ubc29<END FC>\uc5d0\uc11c <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \uc18c\uc7a5\ud488\uc744 \uac00\uc9c0\uace0 \uc804\uc2dc\ud68c\ub97c \uc5f4\uace0 \uc788\uc2b5\ub2c8\ub2e4. <E>",
+    "message": "<EFF><EPO>이 중요한 행사는 우리 도시의 문화발전을 위한, 의회의 지속적인 관심의 결과입니다.<P>새로운 <FC 128,64,0>보석의 방<END FC>에서 <FC 128,64,0>아비도스<END FC>의 소장품을 가지고 전시회를 열고 있습니다. <E>",
     "description": "SphinxText.xls, row 1624"
   },
   "HT_Text_Aby_Museum_Inaguration1c": {
-    "message": "\uc774 \ube5b\ub098\ub294 \uc18c\uc7a5\ud488\uc740 \uc6b0\ub9ac\uc758 \uc704\ub300\ud55c \uc218\ubc31 \ub144\uc758 \uc5ed\uc0ac\ub97c \uc18c\uac1c\ud558\ub294 \uac83\uc785\ub2c8\ub2e4...<W 200>",
+    "message": "이 빛나는 소장품은 우리의 위대한 수백 년의 역사를 소개하는 것입니다...<W 200>",
     "description": "SphinxText.xls, row 1625"
   },
   "HT_Text_Aby_Museum_Inaguration2a": {
-    "message": "\uc774\ub7f0! \uc548\ud0c0\uae5d\uc9c0\ub9cc \uc774 \uc758\uc2dd\uc744 \uc911\ub2e8\ud574\uc57c\ub9cc \ud560 \uac83 \uac19\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "이런! 안타깝지만 이 의식을 중단해야만 할 것 같습니다.<E>",
     "description": "SphinxText.xls, row 1626"
   },
   "HT_Text_Aby_Museum_Inaguration3a": {
-    "message": "\uc65c? \ubb34\uc2a8 \uc77c\uc774\uc9c0?<E>",
+    "message": "왜? 무슨 일이지?<E>",
     "description": "SphinxText.xls, row 1627"
   },
   "HT_Text_Aby_Museum_Inaguration4a": {
-    "message": "\ubc14\ub85c \uba87 \ubd84 \uc804\uc5d0 \ubcf4\uc11d\ub4e4\uc744 \ubaa8\ub450 \ub2e4 \ub3c4\ub451 \ub9de\uc544\ubc84\ub838\uc2b5\ub2c8\ub2e4!<E>",
+    "message": "바로 몇 분 전에 보석들을 모두 다 도둑 맞아버렸습니다!<E>",
     "description": "SphinxText.xls, row 1628"
   },
   "HT_Text_Aby_Museum_Inaguration5b": {
-    "message": "\ubb50?... \ub204\uac00?... \uc5b4\ub5bb\uac8c?...<W 60>",
+    "message": "뭐?... 누가?... 어떻게?...<W 60>",
     "description": "SphinxText.xls, row 1629"
   },
   "HT_Text_Aby_Museum_Inaguration5a": {
-    "message": "\uc774\ub7f0, \uc7ac\uc559\uc758 \uc5f0\uc18d\uc774\uad70?! \ub3c4\uc2dc\uac00 \ubab0\ub77d\ud558\uace0 \uc788\uc5b4! \ucc98\uc74c\uc5d0\ub294 \uc804\uae30\ubc40\uc7a5\uc5b4\ub4e4\uc758 \ucd9c\ud604... \uc774\uc81c\ub294 \uc774\ub7f0 \uc77c\uae4c\uc9c0!<E>",
+    "message": "이런, 재앙의 연속이군?! 도시가 몰락하고 있어! 처음에는 전기뱀장어들의 출현... 이제는 이런 일까지!<E>",
     "description": "SphinxText.xls, row 1630"
   },
   "HT_Text_Aby_Museum_Inaguration6a": {
-    "message": "\uc6b0\ub9ac\ub294 \ub3c4\uc2dc \uc804\uccb4\ub97c \uad00\ub9ac\ud558\uae30 \uc704\ud574 \uadf9\ub2e8\uc758 \ubcf4\uc548 \uc870\uce58\ub97c \ucde8\ud574\uc57c\ub9cc \ud55c\ub2e4.<E>",
+    "message": "우리는 도시 전체를 관리하기 위해 극단의 보안 조치를 취해야만 한다.<E>",
     "description": "SphinxText.xls, row 1631"
   },
   "HT_Text_Aby_Museum_Inaguration6b": {
-    "message": "\uc804\uc2dc\uc7a5\uc5d0\ub294 \uc11d\uad00 \ud558\ub098\ub9cc\uc774 \ub0a8\uc544\uc788\uc744 \ubfd0\uc785\ub2c8\ub2e4.<E>",
+    "message": "전시장에는 석관 하나만이 남아있을 뿐입니다.<E>",
     "description": "SphinxText.xls, row 1632"
   },
   "HT_Text_Aby_Museum_Inaguration7a": {
-    "message": "\ubb34\uc2a8 \uc11d\uad00? \uc6b0\ub9ac \uc804\uc2dc\uc7a5\uc5d0\ub294 \uc6d0\ub798 \uc11d\uad00\uc740 \uc5c6\uc5c8\uc5b4! <W 110>",
+    "message": "무슨 석관? 우리 전시장에는 원래 석관은 없었어! <W 110>",
     "description": "SphinxText.xls, row 1633"
   },
   "HT_Text_Aby_Museum_Inaguration8a": {
-    "message": "\uc624, \uc5c9\ub9dd\uc774\uad70! <FC 128,64,0>\uc758\ud68c\uc2e4<END FC>\ub85c \ub3cc\uc544\uac00\uc11c \uc774 \ubb38\uc81c\ub97c \uc880 \ub354 \ub17c\uc758\ud558\ub294 \uac8c \uc88b\uaca0\uad70. <E>",
+    "message": "오, 엉망이군! <FC 128,64,0>의회실<END FC>로 돌아가서 이 문제를 좀 더 논의하는 게 좋겠군. <E>",
     "description": "SphinxText.xls, row 1634"
   },
   "HT_Text_Aby_Museum_Welcome": {
-    "message": "<FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc5d0 \uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4, \uc800\ub294 \uad00\ub9ac\uc790 \uacb8 \ubc15\ubb3c\ud559 \uc804\ubb38\uac00\uc785\ub2c8\ub2e4.<P>\ubb34\uc5c7\uc744 \uae30\uc99d\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c? \uae30\uc99d\ud574 \uc8fc\uc2e0\ub2e4\uba74 \ubc15\ubb3c\uad00\uc740 \uae30\uaebc\uc774 \ub2f9\uc2e0\uac8c \ubcf4\ub2f5\ud560 \uac83\uc785\ub2c8\ub2e4.<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "<FC 128,64,0>아비도스 박물관<END FC>에 오신 것을 환영합니다, 저는 관리자 겸 박물학 전문가입니다.<P>무엇을 기증하시겠습니까? 기증해 주신다면 박물관은 기꺼이 당신게 보답할 것입니다.<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1635"
   },
   "HT_Text_Aby_Museum_NeedStuff": {
-    "message": "\ud604\uc7ac\ub294 \ubcfc \uac83\uc774 \ub9ce\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.<P>\uadf8\ub798\uc11c, \uc800\ud76c\ub294 \uc120\uc0dd\ub2d8 \uac19\uc740 \uce5c\uc808\ud558\uc2e0 \ubaa8\ud5d8\uac00\ub4e4\ub85c\ubd80\ud130 \uae30\uc99d\uc744 \ubc1b\uc744 \uc218 \uc788\ub2e4\uba74 \ub9e4\uc6b0 \uae30\uc060 \uac83\uc785\ub2c8\ub2e4, \uadf8\ub9ac\uace0 \ubcf4\ub2f5\uc73c\ub85c \uae30\uaebc\uc774 \ub3c4\uc640\ub4dc\ub9ac\uaca0\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "현재는 볼 것이 많지 않습니다.<P>그래서, 저희는 선생님 같은 친절하신 모험가들로부터 기증을 받을 수 있다면 매우 기쁠 것입니다, 그리고 보답으로 기꺼이 도와드리겠습니다.<E>",
     "description": "SphinxText.xls, row 1636"
   },
   "HT_Text_Aby_Museum_ThankYou": {
-    "message": "<IS HT_Objective_MonsterNameHolder> \uc624, \uae30\uc99d\ud574\uc8fc\uc154\uc11c \ub9e4\uc6b0 \uac10\uc0ac \ub4dc\ub9bd\ub2c8\ub2e4, \uc120\uc0dd\ub2d8! \uc800\ud76c \ubc15\ubb3c\uad00\uc758 \uc608\uc804 \uc601\uad11\uc774 \ub2e4\uc2dc \uc0b4\uc544\ub098\uae30 \uc2dc\uc791\ud588\uc2b5\ub2c8\ub2e4!<E>",
+    "message": "<IS HT_Objective_MonsterNameHolder> 오, 기증해주셔서 매우 감사 드립니다, 선생님! 저희 박물관의 예전 영광이 다시 살아나기 시작했습니다!<E>",
     "description": "SphinxText.xls, row 1637"
   },
   "HT_Text_Aby_Museum_ThankYouJewel": {
-    "message": "\ub180\ub78d\uad70\uc694! \ub3c4\ub09c \ub2f9\ud55c <IS HT_Objective_JewelNameHolder>\uc744 \ub2e4\uc2dc \ucc3e\uc558\uad70\uc694! \uc800\ud76c\uac00 \uc5b4\ub5bb\uac8c \uac10\uc0ac\ud574\uc57c \ud560\uc9c0!<P>\uc790  \uc800\ud76c\uc758 \uac10\uc0ac\uc758 \ud45c\uc2dc\ub85c, \uc774 <FC 0,128,0>\ud669\uae08 \uc559\ud06c \uc870\uac01<END FC>\uc744 \ubc1b\uc544\uc8fc\uc138\uc694.<E>",
+    "message": "놀랍군요! 도난 당한 <IS HT_Objective_JewelNameHolder>을 다시 찾았군요! 저희가 어떻게 감사해야 할지!<P>자  저희의 감사의 표시로, 이 <FC 0,128,0>황금 앙크 조각<END FC>을 받아주세요.<E>",
     "description": "SphinxText.xls, row 1638"
   },
   "HT_Text_Aby_Museum_WelcomeBack": {
-    "message": "\uc624, \uc6b0\ub9ac\uc758 \uad00\ub300\ud558\uc2e0 \ud6c4\uc6d0\uc790\uac00 \ub3cc\uc544\uc624\uc168\uad70\uc694!<P>\uc624\ub298\uc740 \uc6b0\ub9ac\ub97c \uc704\ud55c \uc0c8\ub85c\uc6b4 \uac83\uc744 \uac00\uc838\uc624\uc168\ub098\uc694, \uc120\uc0dd\ub2d8?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "오, 우리의 관대하신 후원자가 돌아오셨군요!<P>오늘은 우리를 위한 새로운 것을 가져오셨나요, 선생님?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1639"
   },
   "HT_Text_Aby_Museum_LookAround": {
-    "message": "\uc800\ud76c\uc758 \uc704\ub300\ud55c \ubc15\ubb3c\uad00\uc744 \ub9c8\uc74c\uaecf \ub458\ub7ec\ubcf4\uc2ed\uc2dc\uc624.<E>",
+    "message": "저희의 위대한 박물관을 마음껏 둘러보십시오.<E>",
     "description": "SphinxText.xls, row 1640"
   },
   "HT_Text_Aby_Museum_NotGotAny": {
-    "message": "\uc0dd\uac01\uc740 \uace0\ub9d9\uc2b5\ub2c8\ub2e4\ub9cc, \ud604\uc7ac \uc544\ubb34\uac83\ub3c4 \uc548 \uac00\uc9c0\uace0 \uacc4\uc2dc\uad70\uc694. \uc5b4\ucc0c\ub418\uc5c8\uac74 \uace0\ub9d9\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "생각은 고맙습니다만, 현재 아무것도 안 가지고 계시군요. 어찌되었건 고맙습니다.<E>",
     "description": "SphinxText.xls, row 1641"
   },
   "HT_Text_Aby_Museum_AlreadyGotSome": {
-    "message": "\ub610 \ub2e4\ub978 <IS HT_Objective_MonsterNameHolder>, \uc751? \uc774\uac83\uc740 \uc6b0\uc218\ud55c \uacac\ubcf8\uc774\uae30\ub3c4 \ud558\uad70...<P>\uadf8\ub7f0\ub370, \uc6b0\ub9ac\ub294 \uc774\ubbf8 \uadf8\uac83\uc744 \uc218\uc9d1\ud574\ub450\uc5c8\ub2e4. \uc5b4\uca0c\ub4e0 \uc81c\uc548\uc740 \uac10\uc0ac\ud558\ub124.<E>",
+    "message": "또 다른 <IS HT_Objective_MonsterNameHolder>, 응? 이것은 우수한 견본이기도 하군...<P>그런데, 우리는 이미 그것을 수집해두었다. 어쨌든 제안은 감사하네.<E>",
     "description": "SphinxText.xls, row 1642"
   },
   "HT_Text_Aby_Museum_Guard_NoEntry1": {
-    "message": "\uc8c4\uc1a1\ud569\ub2c8\ub2e4\ub9cc, <FC 128,64,0>\ubcf4\uc11d\ub4e4\uc758 \ubc29<END FC>\uc740 \uc544\uc9c1 \uc5f4\ub9ac\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.<P>\ud658\uc601\ud68c\uc5d0 \uac00\uc2dc\uba74 \uac1c\ud68c\uc2dd\uc744 \uc9c4\ud589 \uc911\uc774\uc2e0 \uc2dc\uc7a5\ub2d8\uc744 \ub9cc\ub0a0 \uc218 \uc788\ub294 \uc2dc\uac04\uc774 \uc788\uc744\uc9c0\ub3c4 \ubaa8\ub985\ub2c8\ub2e4.<E>",
+    "message": "죄송합니다만, <FC 128,64,0>보석들의 방<END FC>은 아직 열리지 않았습니다.<P>환영회에 가시면 개회식을 진행 중이신 시장님을 만날 수 있는 시간이 있을지도 모릅니다.<E>",
     "description": "SphinxText.xls, row 1643"
   },
   "HT_Text_Aby_Museum_Guard_NoEntry2": {
-    "message": "<FC 128,64,0>\ubcf4\uc11d\ub4e4\uc758 \ubc29<END FC>\uc740 \uac1c\ud68c\uc2dd \ud6c4 \uace7 \uc5f4\ub9b4 \uac83\uc785\ub2c8\ub2e4.<E>",
+    "message": "<FC 128,64,0>보석들의 방<END FC>은 개회식 후 곧 열릴 것입니다.<E>",
     "description": "SphinxText.xls, row 1644"
   },
   "HT_Text_Aby_Museum_FirstWelcome": {
-    "message": "\uc800\ud76c \ubc15\ubb3c\uad00\uc5d0 \uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4. \uc548\ud0c0\uae5d\uac8c\ub3c4 \uc9c0\uae08\uc740 \uc18c\uc7a5\ud488\uc774 \uc5bc\ub9c8 \uc5c6\uc2b5\ub2c8\ub2e4. \uc544\uc8fc \uc2ac\ud508 \uc77c\uc774\uc9c0\uc694.<P>\uc800\ud76c \ubcf4\uc11d \ubc15\ub78c\ud68c\uc758 \uac1c\ud68c\uac00 \uadf8\ub7f0 \ube44\ub09c \ubc1b\uc544 \ub9c8\ub545\ud55c \uc0ac\uac74\uc73c\ub85c \ub9dd\uccd0\uc84c\ub2e4\ub294 \uc0dd\uac01\uc744 \ud558\uba74 \uc800\uc758 \uac00\uc2b4\uc774 \ubb34\ub108\uc9c0\ub294 \uac83 \uac19\uc2b5\ub2c8\ub2e4.<P>\uc8c4\uc1a1\ud569\ub2c8\ub2e4\ub9cc, \uc544\ube44\ub3c4\uc2a4 \uc0ac\ub78c\ucc98\ub7fc \ubcf4\uc774\uc2dc\uc9c0\ub294 \uc54a\ub294\uad70\uc694.<P>\ub2e4\ub978 \uacf3\uc5d0\uc11c \uc624\uc168\uc2b5\ub2c8\uae4c?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "저희 박물관에 오신 것을 환영합니다. 안타깝게도 지금은 소장품이 얼마 없습니다. 아주 슬픈 일이지요.<P>저희 보석 박람회의 개회가 그런 비난 받아 마땅한 사건으로 망쳐졌다는 생각을 하면 저의 가슴이 무너지는 것 같습니다.<P>죄송합니다만, 아비도스 사람처럼 보이시지는 않는군요.<P>다른 곳에서 오셨습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1645"
   },
   "HT_Text_Aby_Museum_HaventSeenYou": {
-    "message": "\ubbf8\uc548\ud569\ub2c8\ub2e4, \uc804\uc5d0 \ubd59\uc9c0 \ubabb\ud55c \uac83 \uac19\uad70\uc694. \ud558\uc9c0\ub9cc \uc81c\uac00 \uac70\uc758 \uc678\ucd9c\uc744 \ud558\uc9c0 \uc54a\ub294\ub2e4\ub294 \uac83\uc744 \ub9d0\uc500 \ub4dc\ub824\uc57c\uaca0\uad70\uc694. \uc774 \ubc15\ubb3c\uad00\uc774 \uc800\uc758 \uc0b6\uc785\ub2c8\ub2e4.<P>\ubc15\ubb3c\uad00\uc758 <FC 128,64,0>\ubc15\ubb3c\ud559<END FC>\ubd80\ubd84\uc740 \uc5f4\ub824\uc788\uc2b5\ub2c8\ub2e4, \ud558\uc9c0\ub9cc \ubbf8\uc644\uc131\uc0c1\ud0dc\uc785\ub2c8\ub2e4. \uc2dc\uac04\uc774 \uc9c0\ub098\uba74 \uc6b0\ub9ac \uc138\uc0c1\uc758 \ubaa8\ub4e0 \ub3d9\ubb3c\ub4e4\uc758 \uacac\ubcf8\uc744 \uc804\uc2dc\ud560 \ubaa9\ud45c\uc785\ub2c8\ub2e4.<P>\uc6b0\ub9ac\ub294 \uc6a9\uac10\ud55c \ubaa8\ud5d8\uac00\ub4e4\ub85c\ubd80\ud130 \uae30\uc99d\uc744 \ubc1b\uae30\ub97c \ud76c\ub9dd\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4, \ud558\uc9c0\ub9cc \uc544\ube44\ub3c4\uc2a4\uc778 \uc2dc\ubbfc\ub4e4\ub3c4 \uae30\uc99d\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.<P>\uc800\ud76c \uc704\ub300\ud55c \ub3c4\uc2dc\ub97c \ub3d5\ub294 \uac83\uc5d0 \uad00\uc2ec\uc774 \uc788\uc73c\uc2ed\ub2c8\uae4c?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "미안합니다, 전에 뵙지 못한 것 같군요. 하지만 제가 거의 외출을 하지 않는다는 것을 말씀 드려야겠군요. 이 박물관이 저의 삶입니다.<P>박물관의 <FC 128,64,0>박물학<END FC>부분은 열려있습니다, 하지만 미완성상태입니다. 시간이 지나면 우리 세상의 모든 동물들의 견본을 전시할 목표입니다.<P>우리는 용감한 모험가들로부터 기증을 받기를 희망하고 있습니다, 하지만 아비도스인 시민들도 기증할 수 있습니다.<P>저희 위대한 도시를 돕는 것에 관심이 있으십니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1646"
   },
   "HT_Text_Aby_Museum_AnAdventurer": {
-    "message": "\uc544 \uc608, \uadf8\ub7f4 \uac83\uc774\ub77c\uace0 \uc0dd\uac01\ud588\uc2b5\ub2c8\ub2e4. \ubaa8\ud5d8\uac00\ucc98\ub7fc \ubcf4\uc774\uc2dc\ub294 \uad70\uc694. \uc774 \uc704\ub300\ud55c \ub3c4\uc2dc\ub97c \ub3d5\ub294 \uac83\uc5d0 \ud639\uc2dc \uad00\uc2ec\uc774 \uc788\uc73c\uc2e0\uc9c0\uc694?<P>\uc6b0\ub9ac\ub294 \uc57c\uc0dd \uc0dd\ubb3c \uc804\uc2dc\ub97c \uace7 \ub9c8\ubb34\ub9ac\ud560 \uac83\uc785\ub2c8\ub2e4. \uc6b0\ub9ac\ub294 \uad81\uadf9\uc801\uc73c\ub85c \uc6b0\ub9ac \uc138\uacc4\uc758 \ubaa8\ub4e0 \ub3d9\ubb3c\ub4e4\uc758 \uacac\ubcf8\uc744 \uc804\uc2dc\ud558\ub294 \uac83\uc744 \ubaa9\ud45c\ub85c \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.<P>\ub2f9\uc2e0\uacfc \uac19\uc774 \uc5ec\ud589\uc744 \ub9ce\uc774 \ud55c \ubaa8\ud5d8\uac00\ub85c\ubd80\ud130 \uae30\uc99d\uc744 \ubc1b\uae30\ub97c \ud76c\ub9dd\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4...<P>\uc774 \uc704\ub300\ud55c \ub3c4\uc2dc\uc5d0 \uae30\uc99d\uc744 \ud558\ub294 \uac83\uc5d0 \uad00\uc2ec\uc774 \uc788\uc73c\uc2ed\ub2c8\uae4c?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "아 예, 그럴 것이라고 생각했습니다. 모험가처럼 보이시는 군요. 이 위대한 도시를 돕는 것에 혹시 관심이 있으신지요?<P>우리는 야생 생물 전시를 곧 마무리할 것입니다. 우리는 궁극적으로 우리 세계의 모든 동물들의 견본을 전시하는 것을 목표로 하고 있습니다.<P>당신과 같이 여행을 많이 한 모험가로부터 기증을 받기를 희망하고 있습니다...<P>이 위대한 도시에 기증을 하는 것에 관심이 있으십니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1647"
   },
   "HT_Text_Aby_Museum_NotHelping": {
-    "message": "\uc624 \uc800\ub7f0, \uc0dd\uac01\uc774 \ubc14\ub00c\uc2dc\uba74 \uc800\uc5d0\uac8c \uc54c\ub824\uc8fc\uc2ed\uc2dc\uc624.<E>",
+    "message": "오 저런, 생각이 바뀌시면 저에게 알려주십시오.<E>",
     "description": "SphinxText.xls, row 1648"
   },
   "HT_Text_Aby_Museum_Helping": {
-    "message": "\ud6cc\ub96d\ud569\ub2c8\ub2e4! \ub3c4\uc640 \uc8fc\uc2e4 \uc904 \uc54c\uc558\uc2b5\ub2c8\ub2e4!<P>\ub9cc\uc57d \uc804\uc2dc\ub97c \uc704\ud55c \ub3d9\ubb3c\uc744 \uc7a1\uc73c\uc2dc\uba74, \uc800\uc5d0\uac8c \uc624\uc2ed\uc2dc\uc624. \ub9cc\uc57d \uc5ec\ud589 \uc911 \ub3c4\ub09c \ub2f9\ud55c \ubcf4\ubb3c\ub4e4 \uc911 \ud558\ub098\ub77c\ub3c4 \ucc3e\uc73c\uc2dc\uac8c \ub418\uba74, \ubcf4\uc11d \uc804\ubb38\uac00\uc778 \uc800\uc758 \ub3d9\ub8cc\uc5d0\uac8c \ub9d0\ud574\uc8fc\uc2ed\uc2dc\uc624.<P>\uc548\ud0c0\uae5d\uc9c0\ub9cc \ub3d9\ubb3c\uc744 \uae30\uc99d\ud558\uc2dc\uba74 \ub300\uac00\ub85c \uc9c0\ubd88\uc740 \ubabb\ud574\ub4dc\ub9b4 \uac83 \uac19\uc2b5\ub2c8\ub2e4\ub9cc \uc800\ud76c\uc758 \uac10\uc0ac\uc758 \ud45c\uc2dc\ub85c, \uccab \ubc88\uc9f8\ub85c \uae30\uc99d\ud558\uc2dc\ub294 \ub3d9\ubb3c\uc5d0 \ub300\ud558\uc5ec \uc18c\uc911\ud55c \uc120\ubb3c\uc744 \ubc1b\uc73c\uc2e4 \uac83\uc785\ub2c8\ub2e4.<E>",
+    "message": "훌륭합니다! 도와 주실 줄 알았습니다!<P>만약 전시를 위한 동물을 잡으시면, 저에게 오십시오. 만약 여행 중 도난 당한 보물들 중 하나라도 찾으시게 되면, 보석 전문가인 저의 동료에게 말해주십시오.<P>안타깝지만 동물을 기증하시면 대가로 지불은 못해드릴 것 같습니다만 저희의 감사의 표시로, 첫 번째로 기증하시는 동물에 대하여 소중한 선물을 받으실 것입니다.<E>",
     "description": "SphinxText.xls, row 1649"
   },
   "HT_Text_Aby_Museum_ChangedMind": {
-    "message": "\uc0dd\uac01\uc774 \ubc14\ub00c\uc168\ub294\uc9c0\uc694? \uc774 \ubc15\ubb3c\uad00\uc744 \ub3d5\uace0 \uc2f6\uc73c\uc2ed\ub2c8\uae4c?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "생각이 바뀌셨는지요? 이 박물관을 돕고 싶으십니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1650"
   },
   "HT_Text_Aby_Museum_HaveAHook": {
-    "message": "\ub3d9\ubb3c\uc744 \uc774 \ub3c4\uc2dc\uc758 \ubc15\ubb3c\uad00\uc5d0 \uae30\uc99d\ud558\uc2e0 \ubcf4\uc0c1\uc73c\ub85c, \uc774 <FC 0,128,0>\ub3c4\ub974\ub798 \uc904 \uc190\uc7a1\uc774<END FC>\ub97c \uc120\ubb3c\ub85c \ub4dc\ub9ac\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.<P>\uc774\uac83\uc73c\ub85c \uc800\ud76c \ub3c4\uc2dc\uc5d0 \uc788\ub294 \uc218 \ub9ce\uc740 \ub3c4\ub974\ub798 \uc904\ub4e4\uc744 \uc0ac\uc6a9\ud558\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.<P>\ub3c4\ub974\ub798 \uc904\ub4e4\uc740 \uc0ac\uc6a9\ud558\uae30 \uc27d\uc2b5\ub2c8\ub2e4, \uadf8\ub0e5 \ub3c4\ub974\ub798 \uc904 \ub048\uc758 \ub05d \uadfc\ucc98\uc5d0 \uc11c\uc11c \ub6f0\uba74 \ub429\ub2c8\ub2e4. \uadf8\uac8c \uc804\ubd80\uc5d0\uc694!<E>",
+    "message": "동물을 이 도시의 박물관에 기증하신 보상으로, 이 <FC 0,128,0>도르래 줄 손잡이<END FC>를 선물로 드리고 싶습니다.<P>이것으로 저희 도시에 있는 수 많은 도르래 줄들을 사용하실 수 있습니다.<P>도르래 줄들은 사용하기 쉽습니다, 그냥 도르래 줄 끈의 끝 근처에 서서 뛰면 됩니다. 그게 전부에요!<E>",
     "description": "SphinxText.xls, row 1651"
   },
   "HT_Text_Aby_Museum_WelcomeJewel": {
-    "message": "\uc548\ub155\ud558\uc2ed\ub2c8\uae4c! \uc800\ub294 \ubc15\ubb3c\uad00\uc758 \ubcf4\uc11d \uc804\ubb38\uac00\uc785\ub2c8\ub2e4.<P>\ub4e4\uc73c\uc168\uaca0\uc9c0\ub9cc, \uc800\ud76c\uc758 \ubcf4\uc11d \ubaa8\ub450\ub97c \ub3c4\ub09c \ub2f9\ud588\uc2b5\ub2c8\ub2e4.<P>\uc758\ud68c\ub294 \ub3c4\ub09c \ub2f9\ud55c \ubcf4\uc11d\ub4e4 \uc911 \uc544\ubb34 \uac83\uc774\ub098 \ubc15\ubb3c\uad00\uc73c\ub85c \ub3cc\ub824\uc904 \uc218 \uc788\ub294 \uc0ac\ub78c\uc5d0\uac8c \ud6c4\ud55c \ubcf4\uc0c1\uc744 \ud558\uaca0\ub2e4\uace0 \ud588\uc2b5\ub2c8\ub2e4.<P>\ub9cc\uc57d \uc800\uc5d0\uac8c \ubcf4\uc5ec\uc8fc\uace0 \uc2f6\uc73c\uc2e0 \ubcf4\uc11d\uc774 \uc788\uc73c\uc2dc\uba74 \uc81c\uac00 \uac10\uc815\ud574\ub4dc\ub9ac\uaca0\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "안녕하십니까! 저는 박물관의 보석 전문가입니다.<P>들으셨겠지만, 저희의 보석 모두를 도난 당했습니다.<P>의회는 도난 당한 보석들 중 아무 것이나 박물관으로 돌려줄 수 있는 사람에게 후한 보상을 하겠다고 했습니다.<P>만약 저에게 보여주고 싶으신 보석이 있으시면 제가 감정해드리겠습니다.<E>",
     "description": "SphinxText.xls, row 1653"
   },
   "HT_Text_Aby_Museum_WelcomeBackJewel": {
-    "message": "\uc548\ub155\ud558\uc2ed\ub2c8\uae4c! \ubcf4\uc11d\ub4e4 \uc911 \ub2e4\ub978 \uac83\uc744 \ud68c\uc218\ud558\uc168\uc2b5\ub2c8\uae4c?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "안녕하십니까! 보석들 중 다른 것을 회수하셨습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1654"
   },
   "HT_Text_Aby_Museum_DonateJewel": {
-    "message": "\uc81c\uac00 \uac10\uc815\ud588\uc73c\uba74 \ud558\ub294 \ubcf4\uc11d\uc744 \uac00\uc9c0\uace0 \uacc4\uc2ed\ub2c8\uae4c?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "제가 감정했으면 하는 보석을 가지고 계십니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1655"
   },
   "HT_Text_Aby_Museum_JewelsComplete": {
-    "message": "\ud6cc\ub96d\ud558\uad70\uc694! \uadf8\uac8c \ub9c8\uc9c0\ub9c9 \uac83\uc774\uad70\uc694! \uc774 \ub3c4\uc2dc\uc758 \uc704\uc5c4\uc744 \ubcf5\uad6c\ud574 \uc8fc\uc168\uc2b5\ub2c8\ub2e4.<P>\ubcf4\uc11d \uc218\uc9d1\uc740 \uc800\uc758\uc5d0\uac8c\ub294 \uadf8 \uc758\ubbf8\uac00 \ud07d\ub2c8\ub2e4. \ud574\uc8fc\uc2e0 \uac83\uc5d0 \ub300\ud558\uc5ec \uc5b4\ub5bb\uac8c \uac10\uc0ac\ud574\uc57c \ud560\uc9c0 \ubaa8\ub974\uaca0\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "훌륭하군요! 그게 마지막 것이군요! 이 도시의 위엄을 복구해 주셨습니다.<P>보석 수집은 저의에게는 그 의미가 큽니다. 해주신 것에 대하여 어떻게 감사해야 할지 모르겠습니다.<E>",
     "description": "SphinxText.xls, row 1656"
   },
   "HT_Text_Aby_Museum_MonstersComplete": {
-    "message": "\uc6b0\ub9ac\uc758 \ubc15\ubb3c\uad00\uc774, \ub9c8\uce68\ub0b4, \uac00\ub4dd \ucc3c\uc2b5\ub2c8\ub2e4! \uadf8\ub9ac\uace0 \ub2f9\uc2e0\uc758 \ub178\uace0\uc5d0 \ub300\ub2e8\ud788 \uac10\uc0ac\ud569\ub2c8\ub2e4. <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc2dc\ub97c \uc790\ub791\uc2a4\ub7fd\uac8c \ud558\uc168\uc2b5\ub2c8\ub2e4!<P>\uc544\uc544, \ub2f9\uc2e0\uc758 \ub178\uace0\uc5d0 \ubcf4\uc0c1\uc744 \ud574\ub4dc\ub9b4 \uc218\ub294 \uc5c6\uc9c0\ub9cc \uc774 <FC 0,128,0>\uc0ac\ub0e5\uc758 \ub300\uac00 \uc99d\uba85\uc11c<END FC>\ub97c \ubc1b\uc544\uc8fc\uc2ed\uc2dc\uc624. \uc774\uac83\uc774 \uc800\ud76c\uc758 \uac10\uc0ac\uc758 \ub9c8\uc74c\uc744 \ud56d\uc0c1 \uc0c1\uae30\uc2dc\ucf1c\ub4dc\ub9ac\uae30\ub97c \ubc14\ub78d\ub2c8\ub2e4.<E>",
+    "message": "우리의 박물관이, 마침내, 가득 찼습니다! 그리고 당신의 노고에 대단히 감사합니다. <FC 128,64,0>아비도스<END FC>시를 자랑스럽게 하셨습니다!<P>아아, 당신의 노고에 보상을 해드릴 수는 없지만 이 <FC 0,128,0>사냥의 대가 증명서<END FC>를 받아주십시오. 이것이 저희의 감사의 마음을 항상 상기시켜드리기를 바랍니다.<E>",
     "description": "SphinxText.xls, row 1657"
   },
   "HT_Text_Aby_Museum_Jewel01": {
-    "message": "\uc774 \ubcf4\uc11d\uc744 \uce5c\uc808\ud558\uac8c \uae30\uc99d\ud558\uc2e0 \ubd84\uc740 \ub204\ud2b8\ub2d8\uc774\uc2ed\ub2c8\ub2e4, \uac00\uc7a5 \ud654\ub824\ud588\ub358 \uacb0\ud63c\uc2dd\uc744 \uac70\ud589\ud55c \uac83\uc73c\ub85c \uc798 \uc54c\ub824\uc838 \uc788\uc8e0.<P>\ucc38\uc11d\ud588\ub358 \ub0b4\ube48\ub4e4\uc740 \uc2dd\uc774 \uc5f4\ub838\ub358 \ub9c8\uc744\uc758 \uc778\uad6c\uc218\ub97c \ub118\uc5c8\ub2e4\uace0 \ud569\ub2c8\ub2e4.<E>",
+    "message": "이 보석을 친절하게 기증하신 분은 누트님이십니다, 가장 화려했던 결혼식을 거행한 것으로 잘 알려져 있죠.<P>참석했던 내빈들은 식이 열렸던 마을의 인구수를 넘었다고 합니다.<E>",
     "description": "SphinxText.xls, row 1658"
   },
   "HT_Text_Aby_Museum_Jewel02": {
-    "message": "\ub9ce\uc740 \uc0ac\ub78c\ub4e4\uc774 \uc774 \ubcf4\uc11d\uc758 \uc815\ub2f9\ud55c \uc18c\uc720\uc790\ub77c\uace0 \uc8fc\uc7a5\ud558\uc5ec \uc7c8\uc7c8\ud2b8 \uc7ac\ud310\uc774 <FC 128,64,0>\ud14c\ubca0<END FC>\uc5d0\uc11c \uc5f4\ub824 \uc0bc\ubc31\uc774\uc2ed \uba85\uc758 \ud53c\uace0\uc778\uc774\ub77c\ub294 \uae30\ub85d\uc744 \uc138\uc6e0\uc8e0.<P>\uc7ac\ud310\uc744 \uc8fc\uc7ac\ud588\ub358 \uc704\ub300\ud55c \ucf04\ubca0\ud2b8\ub294 \ub108\ubb34 \ud63c\ub780\uc774 \uc640\uc11c \uc774\uac83\uc744 \uacb0\uad6d\uc5d0\ub294 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc5d0 \ub9e1\uae30\uace0 \uadf8\uc758 \uc0ac\ucd0c\uc774\uc5c8\ub358 \uc2dc\uc7a5\uc740 \uadf8\uac83\uc5d0 \ub300\ud574 \uac10\uc0ac\ud558\uace0 \uc788\uc8e0.<E>",
+    "message": "많은 사람들이 이 보석의 정당한 소유자라고 주장하여 쟈쟈트 재판이 <FC 128,64,0>테베<END FC>에서 열려 삼백이십 명의 피고인이라는 기록을 세웠죠.<P>재판을 주재했던 위대한 켄베트는 너무 혼란이 와서 이것을 결국에는 <FC 128,64,0>아비도스 박물관<END FC>에 맡기고 그의 사촌이었던 시장은 그것에 대해 감사하고 있죠.<E>",
     "description": "SphinxText.xls, row 1659"
   },
   "HT_Text_Aby_Museum_Jewel03": {
-    "message": "\uc804\uc124\uc5d0 \uc758\ud558\uba74 \uc774 \ubcf4\uc11d\uc740 \uc624\ub798 \uc804 \ud558\ub298\uc5d0\uc11c \ub5a8\uc5b4\uc9c4 \ub3cc \uc548\uc5d0 \ub2f4\uaca8\uc788\uc5c8\ub2e4\uace0 \ud569\ub2c8\ub2e4.<P>\uc774\uac83\uc744 \uc99d\uba85\ud560 \uc99d\uac70\ub294 \ubcc4\ub85c \uc5c6\uc9c0\ub9cc, \uc774\uac83\uc774 \ubc1c\uacac\ub41c \ubd84\ud654\uad6c\ubaa8\uc591\uc758 \uc9c0\ud615\uc740 \ubcf4\uc11d \uc790\uccb4\ud558\uace0 \uac19\uc740 \ubaa8\uc591\uc744 \ud615\uc131\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "전설에 의하면 이 보석은 오래 전 하늘에서 떨어진 돌 안에 담겨있었다고 합니다.<P>이것을 증명할 증거는 별로 없지만, 이것이 발견된 분화구모양의 지형은 보석 자체하고 같은 모양을 형성하고 있습니다.<E>",
     "description": "SphinxText.xls, row 1660"
   },
   "HT_Text_Aby_Museum_Jewel04": {
-    "message": "\uc774 \ubcf4\uc11d\uc758 \uc18c\uc720\uad8c\uc740 \uc9c0\uc18d\uc801\uc778 \uc9c4\uc2e4\uc131\uc73c\ub85c \ubcf4\uc11d\uc744 \uac00\uc9c0\uace0 \ub2e4\ub2d0 \uc0ac\ub78c\ub4e4\uc5d0\uac8c\ub9cc \uc694\uc220\uc744 \uac74\ub2e4\uace0 \ud569\ub2c8\ub2e4.<P>\uc804\uc124\uc758 \ub3c4\uc801 \uc2dc\ud504\ud0c0\uac00 \uc774 \ubcf4\uc11d\uc744 \ubc15\ubb3c\uad00\uc5d0 \uae30\uc99d\ud558\uc600\uc2b5\ub2c8\ub2e4, \uadf8\uac74 \uadf8\uac00 \ub2f9\uad6d\uc5d0 \uc790\uc218\ud558\uae30 \uc804\uc785\ub2c8\ub2e4, \uc774\ubc31 \uac74\uc774 \ub118\ub294 \ubc94\uc8c4\ud589\uc704\ub97c \uace0\ubc31\ud588\uc8e0...<E>",
+    "message": "이 보석의 소유권은 지속적인 진실성으로 보석을 가지고 다닐 사람들에게만 요술을 건다고 합니다.<P>전설의 도적 시프타가 이 보석을 박물관에 기증하였습니다, 그건 그가 당국에 자수하기 전입니다, 이백 건이 넘는 범죄행위를 고백했죠...<E>",
     "description": "SphinxText.xls, row 1661"
   },
   "HT_Text_Aby_Museum_Jewel05": {
-    "message": "\uc774 \ub9c8\ubc95\uc758 \ucf54\ube0c\ub77c \ubaa8\uc591\uc758 \ubcf4\uc11d\uc740 \uc804\uc7a5\uc5d0\uc11c \ud30c\uba78\ud55c \uc655\uc758 \uac00\uc2b4\uc5d0\uc11c \ud280\uc5b4\ub098\uc640\uc788\ub358 \uac83\uc73c\ub85c \ubc1c\uacac\ub418\uc5c8\uc2b5\ub2c8\ub2e4.<P>\uc0dd\uc874\uc790\ub97c \ud55c \uba85\ub3c4 \ub0a8\uae30\uc9c0 \uc54a\uc558\ub358 \uc5b4\ub5a4 \uc804\uc7c1\uc5d0\uc11c \uce58\uba85\ud0c0\ub97c \ub0a0\ub9ac\uae30 \uc704\ud574 \uc0ac\uc6a9\ub418\uc5c8\uace0 \uc774\uac83\uc744 \uc704\uc870\ud588\ub358 \uc885\uc871\uc5d0 \uad00\ud558\uc5ec\ub294 \uc544\ubb34\uac83\ub3c4 \ub0a8\uc544\uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "이 마법의 코브라 모양의 보석은 전장에서 파멸한 왕의 가슴에서 튀어나와있던 것으로 발견되었습니다.<P>생존자를 한 명도 남기지 않았던 어떤 전쟁에서 치명타를 날리기 위해 사용되었고 이것을 위조했던 종족에 관하여는 아무것도 남아있지 않습니다.<E>",
     "description": "SphinxText.xls, row 1662"
   },
   "HT_Text_Aby_Museum_Jewel06": {
-    "message": "\uc218\ubc31 \ub144\uc804 \ucc44\uc11d\uc774 \uc2dc\uc791\ub418\uc5c8\uc744 \ub54c, \uc774 \ubcf4\uc11d\uc740 \uc0ac\ub9c9\uc758 \ub0b4\ubd80\uc758 \uae4a\uc740 \uacf3\uc5d0\uc11c \ubc1c\uacac\ub418\uc5c8\uc2b5\ub2c8\ub2e4.<P>\uc655\uc740 \ub354 \uae4a\uc740 \ucabd\uc5d0 \ub354 \uc704\ub300\ud55c \ubd80\uadc0\uac00 \uc788\uc744 \uac83\uc774\ub77c\uace0 \ubbff\uace0 \ucc44\uc11d\uc744 \uba85\ud574 \uc218\ucc9c \uba85\uc758 \ub178\uc608\uac00 \uc8fd\uac8c \ub418\uc5c8\uc2b5\ub2c8\ub2e4.<P>\uc774 \ubb34\uace0\ud55c \uc0dd\uba85\ub4e4\uc774 \uc783\uc5b4\ubc84\ub824\uc9c4 \ud6c4\uc5d0\uc57c \uadf8\ub294 \uadf8 \uae4a\uc740 \uacf3\uc73c\ub85c\ubd80\ud130 \ub354 \uc774\uc0c1 \ubcf4\uc11d\uc774 \ub098\uc624\uc9c0 \uc54a\uc744 \uac83\uc774\ub77c\uace0 \uc778\uc815\ud588\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "수백 년전 채석이 시작되었을 때, 이 보석은 사막의 내부의 깊은 곳에서 발견되었습니다.<P>왕은 더 깊은 쪽에 더 위대한 부귀가 있을 것이라고 믿고 채석을 명해 수천 명의 노예가 죽게 되었습니다.<P>이 무고한 생명들이 잃어버려진 후에야 그는 그 깊은 곳으로부터 더 이상 보석이 나오지 않을 것이라고 인정했습니다.<E>",
     "description": "SphinxText.xls, row 1663"
   },
   "HT_Text_Aby_Museum_Sarcoph_Talk01": {
-    "message": "\uc6d0\ud558\ub294 \uac8c \ubb50\uc9c0?<E>",
+    "message": "원하는 게 뭐지?<E>",
     "description": "SphinxText.xls, row 1664"
   },
   "HT_Text_Aby_Museum_Sarcoph_Talk02": {
-    "message": "\ub0a0 \ub0b4\ubc84\ub824 \ub46c!<E>",
+    "message": "날 내버려 둬!<E>",
     "description": "SphinxText.xls, row 1665"
   },
   "HT_Text_Aby_Museum_Sarcoph_Talk03": {
-    "message": "\uc800\ub9ac \uac00!<E>",
+    "message": "저리 가!<E>",
     "description": "SphinxText.xls, row 1666"
   },
   "HT_Text_Aby_Museum_JewelsDone01": {
-    "message": "\uc6b0\ub9ac\uc758 \ubcf4\uc11d \uc218\uc9d1\uc744 \ud68c\uc218\ud558\uc5ec \uc8fc\uc154\uc11c \uc815\ub9d0 \uac10\uc0ac\ud569\ub2c8\ub2e4!<E>",
+    "message": "우리의 보석 수집을 회수하여 주셔서 정말 감사합니다!<E>",
     "description": "SphinxText.xls, row 1667"
   },
   "HT_Text_Aby_Museum_JewelsDone02": {
-    "message": "\uadf8 \ubaa8\ub4e0 \ubcf4\uc11d\ub4e4\uc744 \ud6d4\uce5c \ub3c4\ub451\uc774 \ub2ec\uc544\ub0a0 \uc218 \uc788\uc744 \uac83\uc774\ub77c\uace0 \uc0dd\uac01\ud569\ub2c8\uae4c?<E>",
+    "message": "그 모든 보석들을 훔친 도둑이 달아날 수 있을 것이라고 생각합니까?<E>",
     "description": "SphinxText.xls, row 1668"
   },
   "HT_Text_Aby_Museum_JewelsDone03": {
-    "message": "<FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \ubcf4\uc11d \uc218\uc9d1\uc740 \uc544\ub984\ub2f5\uc9c0 \uc54a\uc2b5\ub2c8\uae4c?<E>",
+    "message": "<FC 128,64,0>아비도스<END FC>의 보석 수집은 아름답지 않습니까?<E>",
     "description": "SphinxText.xls, row 1669"
   },
   "HT_Text_Aby_Museum_MonstersDone01": {
-    "message": "\uc6b0\ub9ac\uc758 \uc218\uc9d1\uc774 \ud6cc\ub96d\ud558\uc9c0 \uc54a\ub098\uc694? \ub2e4 \ub2f9\uc2e0 \ub355\ubd84\uc785\ub2c8\ub2e4!<E>",
+    "message": "우리의 수집이 훌륭하지 않나요? 다 당신 덕분입니다!<E>",
     "description": "SphinxText.xls, row 1670"
   },
   "HT_Text_Aby_Museum_MonstersDone02": {
-    "message": "\uac00\uc838\uc624\uc2e0 \uacac\ubcf8\uc740 \ub9e4\uc6b0 \ub192\uc740 \ud488\uc9c8\uc758 \uac83\uc785\ub2c8\ub2e4. \ube44\ubc94\ud55c \uc77c\uc744 \ud574\ub0b4\uc168\uc2b5\ub2c8\ub2e4!<E>",
+    "message": "가져오신 견본은 매우 높은 품질의 것입니다. 비범한 일을 해내셨습니다!<E>",
     "description": "SphinxText.xls, row 1671"
   },
   "HT_Text_Aby_Museum_MonstersDone03": {
-    "message": "\ubc15\ubb3c\uad00\uc774 \uac00\ub4dd \ucc28\uc11c, \uc55e\uc73c\ub85c \uad6c\ud558\uac8c \ub420 \uad34\ubb3c\ub4e4\uc744 \uc704\ud55c \uc0c8 \ubd80\uc18d\uac74\ubb3c\uc744 \uacc4\ud68d\ud558\uae30 \uc2dc\uc791\ud558\ub294\uac8c \uc88b\uc744 \uac70\ub77c \uc0dd\uac01\ud569\ub2c8\ub2e4...<E>",
+    "message": "박물관이 가득 차서, 앞으로 구하게 될 괴물들을 위한 새 부속건물을 계획하기 시작하는게 좋을 거라 생각합니다...<E>",
     "description": "SphinxText.xls, row 1672"
   },
   "HT_Text_Aby_Museum_Sign01": {
-    "message": "<CNTR>---[ <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC> ]---<N><CNTR><FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc5d0 \uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4.<P><CNTR>\uc704\ub300\ud558\uc2e0 \uc624\uc2dc\ub9ac\uc2a4\uc758 \uc9c4\uc815\ud55c \uc601\ud63c\uc744 \ubc1b\ub4dc\ub294 \uac83\uc73c\ub85c<N>\uc798 \uc54c\ub824\uc9c4 \uc774 \ub3c4\uc2dc\ub294 \uac00\uc7a5 \uc544\ub984\ub2f5\uace0 \uad11\ubc94\uc704\ud55c<N>\uc218\uc9d1\uc744 \uc790\ub791\uc2a4\ub7fd\uac8c \uc804\uc2dc\ud569\ub2c8\ub2e4.<P><CNTR>\uc774 \ubc15\ubb3c\uad00\uc740 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \uc704\ub300\ud55c \uc5ed\uc0ac\uc640<N>\uacfc\ud559\uacfc \ubb38\ud654\ub97c \uc874\uc911\ud569\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>아비도스 박물관<END FC> ]---<N><CNTR><FC 128,64,0>아비도스 박물관<END FC>에 오신 것을 환영합니다.<P><CNTR>위대하신 오시리스의 진정한 영혼을 받드는 것으로<N>잘 알려진 이 도시는 가장 아름답고 광범위한<N>수집을 자랑스럽게 전시합니다.<P><CNTR>이 박물관은 <FC 128,64,0>아비도스<END FC>의 위대한 역사와<N>과학과 문화를 존중합니다.<E>",
     "description": "SphinxText.xls, row 1673"
   },
   "HT_Text_Aby_Museum_Sign02": {
-    "message": "<CNTR>---[ <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC> ]---<N><CNTR>\ubc15\ubb3c\uad00 \uc790\uccb4\ub294 \uc6b0\ub9ac \uc2dc\ub300\uc758<N>\uc704\ub300\ud55c \uac74\ucd95\ud559\uc758 \uc99d\uac70\ub85c\uc368 \uc6b0\ub69d \uc11c\uc788\uc2b5\ub2c8\ub2e4.<P><CNTR>\uc6b0\ub9ac\uc758 \uc704\ub300\ud55c \ubb34\ub364\ub4e4\uacfc \uc0ac\uc6d0\ub4e4\uc740<N>\uc0ac\uc790\uc640 \uc218 \ub9ce\uc740 \uc2e0\ub4e4\uc5d0 \ub300\ud55c \uacbd\uc758\ub97c \ud45c\uc2dc\ud558\uace0<N>\uc774 \ubc15\ubb3c\uad00\uc740 \uc0b6\uc758 \ud45c\uc2dc\ub85c\uc368 \uc790\ub791\uc2a4\ub7fd\uac8c \uc11c\uc788\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>아비도스 박물관<END FC> ]---<N><CNTR>박물관 자체는 우리 시대의<N>위대한 건축학의 증거로써 우뚝 서있습니다.<P><CNTR>우리의 위대한 무덤들과 사원들은<N>사자와 수 많은 신들에 대한 경의를 표시하고<N>이 박물관은 삶의 표시로써 자랑스럽게 서있습니다.<E>",
     "description": "SphinxText.xls, row 1674"
   },
   "HT_Text_Aby_Museum_Sign03": {
-    "message": "<CNTR>---[ <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC> ]---<N><CNTR>\uc774 \ubc15\ubb3c\uad00\uc740 \uacf5\uacf5\uad50\uc721\uc758<N>\uc0c8\ub85c\uc6b4 \uae30\uc900\uc744 \uc138\uc6e0\uc744 \ubfd0\ub9cc \uc544\ub2c8\ub77c,<P><CNTR>\uc5f0\uad6c\uc640 \uac1c\ubc1c\uc744 \uc704\ud55c<N>\uc911\uc694\ud55c \uc2dc\uc124\uc774\uae30\ub3c4 \ud569\ub2c8\ub2e4.<P><CNTR>\uc81c\uacf5\ub418\ub294 \uc804\uc2dc\ubb3c\ub4e4\uc744 \uc990\uae30\uc2dc\ub294 \ub3d9\uc548, \uc800\ud76c \uc9c1\uc6d0\ub4e4\uc740 \uc5f0\uad6c, \ud574\uc11d, \uc774\ud574\uc5d0 \ubd84\uc8fc\ud569\ub2c8\ub2e4. \uc0c8\ub85c\uc6b4 \ubc1c\uacac\ub4e4\uc740 \uc885\uc885 \uc6b0\ub9ac\uc758 \uc77c\uc0c1\uc0dd\ud65c\uc758 \ud5a5\uc0c1\uc73c\ub85c \uc5f0\uacb0\ub429\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>아비도스 박물관<END FC> ]---<N><CNTR>이 박물관은 공공교육의<N>새로운 기준을 세웠을 뿐만 아니라,<P><CNTR>연구와 개발을 위한<N>중요한 시설이기도 합니다.<P><CNTR>제공되는 전시물들을 즐기시는 동안, 저희 직원들은 연구, 해석, 이해에 분주합니다. 새로운 발견들은 종종 우리의 일상생활의 향상으로 연결됩니다.<E>",
     "description": "SphinxText.xls, row 1675"
   },
   "HT_Text_Aby_Museum_Sign04": {
-    "message": "<CNTR>---[ <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC> ]---<N><CNTR>\uc6b0\ub9ac\ub294 \ub9e4\uc77c \ud574 \ub730 \ubb34\ub835\uc5d0\uc11c \ud574\uc9c8\ub158\uae4c\uc9c0 \uac1c\ubc29\ud569\ub2c8\ub2e4.<P><CNTR>\uc785\uc7a5\uc740 \uc644\uc804 \ubb34\ub8cc\uc774\uc9c0\ub9cc \uc5b4\ub5a4 \uc885\ub958\uc758 \uae30\ubd80\ub3c4 \ud56d\uc0c1 \uae30\uaebc\uc774 \ubc1b\uace0 \uc788\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>아비도스 박물관<END FC> ]---<N><CNTR>우리는 매일 해 뜰 무렵에서 해질녘까지 개방합니다.<P><CNTR>입장은 완전 무료이지만 어떤 종류의 기부도 항상 기꺼이 받고 있습니다.<E>",
     "description": "SphinxText.xls, row 1676"
   },
   "HT_Text_Aby_Museum_Sign05": {
-    "message": "<CNTR>---[ <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC> ]---<N><CNTR>\uc5ec\ub7ec\ubd84\uc758 \ud3b8\ub9ac\uc640 \uad00\uc2ec\uc744 \uc704\ud574\uc11c \uac01 \ubc15\ubb3c\uad00<N>\uc804\uc2dc\ubb3c\uc5d0\ub294 \uc9e7\uc740 \uc124\uba85\uc774 \uc788\ub294 \uac01\ud310\uc774 \uc788\uc2b5\ub2c8\ub2e4.<P><CNTR>\ubc15\ubb3c\uad00\uc5d0\uc11c \ubcf4\uc2dc\ub294 \uac83\uc5d0 \uad00\ud558\uc5ec<N>\ub354 \uc790\uc138\ud788 \ub4e3\uace0 \uc2f6\uc73c\uc2dc\uba74, \uc8fc\uc800\ud558\uc9c0 \ub9c8\uc2dc\uace0<N>\uc6b0\ub9ac \uc9c1\uc6d0 \uc911 \ud55c \uba85\uc5d0\uac8c \uc5ec\ucb64\ubcf4\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>아비도스 박물관<END FC> ]---<N><CNTR>여러분의 편리와 관심을 위해서 각 박물관<N>전시물에는 짧은 설명이 있는 각판이 있습니다.<P><CNTR>박물관에서 보시는 것에 관하여<N>더 자세히 듣고 싶으시면, 주저하지 마시고<N>우리 직원 중 한 명에게 여쭤보시기 바랍니다.<E>",
     "description": "SphinxText.xls, row 1677"
   },
   "HT_Text_Aby_Museum_Sign06": {
-    "message": "<CNTR>---[ <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC> ]---<N><CNTR>\uac1c\ubd09\ubc15\ub450<N> <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC> \uc18c\uc2dd-\ud30c\ud53c\ub8e8\uc2a4.<P><CNTR>\ubaa8\ub4e0 \uc0c8 \uc804\uc2dc\ubb3c\uc758 \uc8fc\uc694 \uac31\uc2e0, \uae30\uc874\uc758 \uc804\uc2dc\ubb3c\uc758 \uc815\ubcf4, \uc2dc\ud569 \ubc0f \uadf8 \uc678!<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>아비도스 박물관<END FC> ]---<N><CNTR>개봉박두<N> <FC 128,64,0>아비도스 박물관<END FC> 소식-파피루스.<P><CNTR>모든 새 전시물의 주요 갱신, 기존의 전시물의 정보, 시합 및 그 외!<E>",
     "description": "SphinxText.xls, row 1678"
   },
   "HT_Text_Aby_Museum_Sign07": {
-    "message": "<CNTR>---[ <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC> ]---<N><CNTR>\uc2e4\ub0b4\uc5d0\uc11c\ub294<N>\uc74c\uc2dd\uc774\ub098 \uc74c\ub8cc\ub97c \ub4dc\uc2e4 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.<P><CNTR>\uc774 \ub3c4\uc2dc\uc758 \uc790\ub791\uc778 \ubc15\ubb3c\uad00\uc744 \ubc29\ubb38\ud558\uc2dc\ub294 \ub3d9\uc548<N>\uae68\ub057\ud558\uace0 \ub2e8\uc815\ud558\uac8c \ubcf4\uc874\ud569\uc2dc\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>아비도스 박물관<END FC> ]---<N><CNTR>실내에서는<N>음식이나 음료를 드실 수 없습니다.<P><CNTR>이 도시의 자랑인 박물관을 방문하시는 동안<N>깨끗하고 단정하게 보존합시다.<E>",
     "description": "SphinxText.xls, row 1679"
   },
   "HT_Text_Aby_Museum_Sign08": {
-    "message": "<CNTR>---[ <FC 128,64,0>\ubcf4\uc11d\ub4e4\uc758 \ubc29<END FC> ]---<N><CNTR><FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc740 \uc774 \ub545\uc758 \uac00\uc7a5 \ud6cc\ub96d\ud55c \ubcf4\uc11d\uc218\uc9d1\uc744<N>\uc790\ub791\uc2a4\ub7fd\uac8c \ubcf4\uad00\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.<P><CNTR>\uc774 \ubb34\ud55c\ud55c \uac00\uce58\uc758 \uc804\uc2dc\ubb3c\uc744 \uc218\uc9d1\ud558\ub294 \uc77c\uc740 \uc5ec\ub7ec \uc804 \uc138\ub300\uc5d0\uc11c\ubd80\ud130 \uc2dc\uc791\ub418\uc5c8\uace0<N>\uc138\uacc4\uc5d0 \ud769\uc5b4\uc838\uc788\ub358 \uac83\ub4e4\uc774 \ubc1c\uacac\ub418\uc5c8\uc2b5\ub2c8\ub2e4.<P><CNTR>\uc774\ub4e4\uc758 \uc720\uc77c\ud568\uc73c\ub85c \uc778\ud558\uc5ec<N>\uc774 \ubcf4\uc11d\ub4e4\uc740 \ucd5c\uace0 \ubcf4\uc548 \uc0c1\uc790\uc5d0 \ub193\uc5ec\uc84c\uc2b5\ub2c8\ub2e4.<P><CNTR>\uc800\ud76c \uacbd\ube44\ub4e4\uc740 \ubb34\uae30\ub97c \uc18c\uc9c0\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4<N>\uc804\uc2dc\ubb3c\ub4e4\uc744 \uad00\ucc30\ud558\uc2e4 \ub54c \ub4a4\ub85c \ubb3c\ub7ec\ub098 \uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>보석들의 방<END FC> ]---<N><CNTR><FC 128,64,0>아비도스 박물관<END FC>은 이 땅의 가장 훌륭한 보석수집을<N>자랑스럽게 보관하고 있습니다.<P><CNTR>이 무한한 가치의 전시물을 수집하는 일은 여러 전 세대에서부터 시작되었고<N>세계에 흩어져있던 것들이 발견되었습니다.<P><CNTR>이들의 유일함으로 인하여<N>이 보석들은 최고 보안 상자에 놓여졌습니다.<P><CNTR>저희 경비들은 무기를 소지하고 있습니다<N>전시물들을 관찰하실 때 뒤로 물러나 주시기 바랍니다.<E>",
     "description": "SphinxText.xls, row 1680"
   },
   "HT_Text_Aby_Museum_Sign09": {
-    "message": "<CNTR>---[ <FC 128,64,0>\ubcf4\uc11d\ub4e4\uc758 \ubc29<END FC> ]---<N><CNTR>\uc804\uc2dc\uc911\uc778 \ubcf4\uc11d\ub4e4\uc740 \ubaa9\uaca9\ud558\uc2e0 \uac83\ub4e4 \uc911 \uac00\uc7a5 \uc544\ub984\ub2e4\uc6b4 \uc720\ubb3c\ub4e4\uc758 \uc77c\ubd80\uc77c \uac83\uc785\ub2c8\ub2e4.<P><CNTR>\uc804\ubb38\uac00\ub4e4\uc774 \uc774 \uc2e0\ube44\ud55c \ubcf4\uc11d\ub4e4\uc744 \ub458\ub7ec\uc2fc \uc0ac\uc2e4\uc758 \uc77c\ubd80\ub97c \ud655\uc778\ud558\uc600\uc73c\ub098<N>\ub354 \ub9ce\uc740 \uc0c1\uc138\ud55c \ub0b4\uc6a9\ub4e4\uc740 \uc544\uc9c1 \uc2e0\ube44\uc5d0 \ub36e\ud600\uc788\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>보석들의 방<END FC> ]---<N><CNTR>전시중인 보석들은 목격하신 것들 중 가장 아름다운 유물들의 일부일 것입니다.<P><CNTR>전문가들이 이 신비한 보석들을 둘러싼 사실의 일부를 확인하였으나<N>더 많은 상세한 내용들은 아직 신비에 덮혀있습니다.<E>",
     "description": "SphinxText.xls, row 1681"
   },
   "HT_Text_Aby_Museum_Sign10": {
-    "message": "<CNTR>---[ <FC 128,64,0>\ubc15\ubb3c\ud559<END FC> ]---<N><CNTR>\uc774\uacf3 \ubc15\ubb3c\ud559 \ubd80\ubd84\uc5d0 \uc804\uc2dc\ub41c \uc885\ub4e4\uc758 \uc77c\ubd80\ub294 \uc57c\uc0dd\uc5d0\uc11c \ub9e4\uc6b0 \uacf5\uaca9\uc801\uc778 \ud589\ub3d9\uc744 \ubcf4\uc785\ub2c8\ub2e4.<P><CNTR> \ubc15\ubb3c\uad00\uc740 \uc774\ub4e4\uc774 \ubc29\ubb38\uac1d\uc5d0\uac8c<N>\uc544\ubb34\ub7f0 \ud574\ub97c \ub07c\uce58\uc9c0 \uc54a\uc744 \uac83\uc744 \ubcf4\uc7a5\ud569\ub2c8\ub2e4.<P><CNTR>\ud2b9\uc218 \ub9c8\ubc95\uc774 \uac78\ub824 \uc788\uc5b4\uc11c,<N>\ubaa8\ub4e0 \uc804\uc2dc\ubb3c\uc744 \ucd08\uc11d\uc5d0 \uace0\uc815\uc2dc\ucf30\uc2b5\ub2c8\ub2e4.<P><CNTR>\uadf8\ub7ec\ub098 \uc904\ub85c \ubcf4\ud638\ub41c \uc601\uc5ed\uc73c\ub85c<N>\ub118\uc5b4\uac00\uc9c0 \uc54a\ub3c4\ub85d \uc870\uc2ec\ud558\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>박물학<END FC> ]---<N><CNTR>이곳 박물학 부분에 전시된 종들의 일부는 야생에서 매우 공격적인 행동을 보입니다.<P><CNTR> 박물관은 이들이 방문객에게<N>아무런 해를 끼치지 않을 것을 보장합니다.<P><CNTR>특수 마법이 걸려 있어서,<N>모든 전시물을 초석에 고정시켰습니다.<P><CNTR>그러나 줄로 보호된 영역으로<N>넘어가지 않도록 조심하시기 바랍니다.<E>",
     "description": "SphinxText.xls, row 1682"
   },
   "HT_Text_Aby_Museum_Sign11": {
-    "message": "<CNTR>---[ <FC 128,64,0>\ubc15\ubb3c\ud559<END FC> ]---<N><CNTR><FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc758 \ubc15\ubb3c\ud559 \ubd80\ubd84\uc5d0<N>\uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4.<P><CNTR>\uc774 \uc218\uc9d1\uc758 \ub9ce\uc740 \ub3d9\ubb3c\ub4e4\uc740<N><FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC> \ucd9c\uc0dd\uc774 \uc544\ub2d9\ub2c8\ub2e4.<P><CNTR>\uc774 \uc218\uc9d1\uc758 \ud2b9\uc131 \uc0c1<N>\ub9ce\uc740 \ubd84\ub4e4\uc774 \ucc98\uc74c\uc73c\ub85c \ubcf4\uc2dc\uac8c \ub418\uc2e4 \uac83\uc785\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>박물학<END FC> ]---<N><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 박물학 부분에<N>오신 것을 환영합니다.<P><CNTR>이 수집의 많은 동물들은<N><FC 128,64,0>아비도스<END FC> 출생이 아닙니다.<P><CNTR>이 수집의 특성 상<N>많은 분들이 처음으로 보시게 되실 것입니다.<E>",
     "description": "SphinxText.xls, row 1683"
   },
   "HT_Text_Aby_Museum_Sign12": {
-    "message": "<CNTR>---[ <FC 128,64,0>\ubc15\ubb3c\ud559<END FC> ]---<N><CNTR>\uc804\uc2dc \uc911\uc778 \ub3d9\ubb3c\ub4e4\uc5d0\uac8c \uba39\uc774\ub97c<N>\uc8fc\uc2dc\ub294 \uac83\uc744 \uc0bc\uac00 \ud558\uc5ec \uc8fc\uc2ed\uc2dc\uc624.<P><CNTR>\ub9ce\uc740 \ub3d9\ubb3c\ub4e4\uc774 \ud2b9\uc774\ud55c \uc2dd\uc0ac \uc870\uac74\uc744 \ub530\ub974\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc790\uc5f0\uc2dd\uc774 \uc544\ub2cc \uac83\uc744 \uc12d\ucde8\ud558\uba74 \ud574\ub85c\uc6b8 \uc218 \uc788\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>박물학<END FC> ]---<N><CNTR>전시 중인 동물들에게 먹이를<N>주시는 것을 삼가 하여 주십시오.<P><CNTR>많은 동물들이 특이한 식사 조건을 따르고 있습니다. 자연식이 아닌 것을 섭취하면 해로울 수 있습니다.<E>",
     "description": "SphinxText.xls, row 1684"
   },
   "HT_Text_Aby_Museum_Sign13": {
-    "message": "<CNTR>---[ <FC 128,64,0>\ubc15\ubb3c\ud559<END FC> ]---<N><CNTR><FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc740 \ubc15\ubb3c\ud559 \ubd80\ubd84\uc5d0<N>\uc5b4\ub5a0\ud55c \uae30\uc99d\uc774\ub77c\ub3c4 \uac10\uc0ac\ud558\uac8c \ubc1b\uace0 \uc788\uc2b5\ub2c8\ub2e4.<P><CNTR>\uadf8\ub7ec\ub098, \uacf5\uac04\uc758 \uc81c\uc57d\uc73c\ub85c \uc778\ud558\uc5ec \uac01 \uc885\ub958 \ub2f9<N>\ud558\ub098\uc758 \uad34\ubb3c\ub9cc\uc774 \ubcf4\uad00\ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ub354 \ub9ce\uc740 \uc815\ubcf4\ub97c \uc6d0\ud558\uc2dc\uba74 \uc548\ub0b4\uc758<N>\uad00\ub9ac\uc790\uc640 \uc0c1\uc758\ud558\uc2dc\uae30\ub97c \ubc14\ub78d\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>박물학<END FC> ]---<N><CNTR><FC 128,64,0>아비도스 박물관<END FC>은 박물학 부분에<N>어떠한 기증이라도 감사하게 받고 있습니다.<P><CNTR>그러나, 공간의 제약으로 인하여 각 종류 당<N>하나의 괴물만이 보관될 수 있습니다. 더 많은 정보를 원하시면 안내의<N>관리자와 상의하시기를 바랍니다.<E>",
     "description": "SphinxText.xls, row 1685"
   },
   "HT_Text_Aby_Museum_Sign14": {
-    "message": "<CNTR>---[ <FC 128,64,0>\ubc15\ubb3c\ud559<END FC> ]---<N><CNTR>\uc548\uc804\uc744 \uc704\ud574\uc11c<FC 128,64,0> \uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc758 \uad00\ub9ac\uc790\ub294<N>\ubc29\ubb38\uac1d\ub4e4\uc5d0\uac8c \ub3d9\ubb3c\uc744 \uacf5\uaca9\ud558\uc9c0 \ub9d0 \uac83\uc744 \uc694\uad6c\ud569\ub2c8\ub2e4.<P><CNTR>\uc800\ud76c\ub294 \ubb34\uae30\ub97c \uc18c\uc9c0\ud558\uc2e0 \ubd84\ub4e4\uaed8<N>\ubb34\uae30\ub97c \ud56d\uc0c1 \ud488 \uc548\uc5d0\ub9cc \uc18c\uc9c0\ud558\uc2e4 \uac83\uc744 \uc694\uccad\ud569\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>박물학<END FC> ]---<N><CNTR>안전을 위해서<FC 128,64,0> 아비도스 박물관<END FC>의 관리자는<N>방문객들에게 동물을 공격하지 말 것을 요구합니다.<P><CNTR>저희는 무기를 소지하신 분들께<N>무기를 항상 품 안에만 소지하실 것을 요청합니다.<E>",
     "description": "SphinxText.xls, row 1686"
   },
   "HT_Text_Aby_Museum_Sign15": {
-    "message": "<CNTR>---[ <FC 128,64,0>\ubc15\ubb3c\ud559<END FC> ]---<N><CNTR>\ubaa8\ub4e0 \ubc29\ubb38\uac1d\ub4e4\uc5d0\uac8c \ub2eb\ub294 \uc2dc\uac04\uc5d0\ub294<N>\uac74\ubb3c \ubc16\uc73c\ub85c \ub098\uac00\uc8fc\uc2e4 \uac83\uc744 \uc694\uccad\ud569\ub2c8\ub2e4.<P><CNTR>\ub9cc\uc57d \uc548\uc5d0 \uac07\ud788\uc2dc\uac8c \ub418\uba74,<N>\uad34\ubb3c\ub4e4\uc758 \uc2dc\uc57c\uc758 \ubc16\uc5d0 \uc788\ub294 \uc801\ub2f9\ud55c \uc740\uc2e0\ucc98\ub97c<N>\ucc3e\uc73c\uc2e4 \uac83\uc744 \uad8c\uc7a5\ud569\ub2c8\ub2e4.<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>박물학<END FC> ]---<N><CNTR>모든 방문객들에게 닫는 시간에는<N>건물 밖으로 나가주실 것을 요청합니다.<P><CNTR>만약 안에 갇히시게 되면,<N>괴물들의 시야의 밖에 있는 적당한 은신처를<N>찾으실 것을 권장합니다.<E>",
     "description": "SphinxText.xls, row 1687"
   },
   "HT_Text_Aby_Museum_HaveAParasol": {
-    "message": "\ub180\ub78d\uad70! \ub3c4\ub09c \ub2f9\ud55c \ubcf4\uc11d\ub4e4 \uc911 \ud558\ub098\ub97c \ud68c\uc218\ud588\uad70! \uc774 \ub3c4\uc2dc\uac00 \uc5b4\ub5bb\uac8c \uac10\uc0ac\ud574\uc57c \ud560 \uc9c0 \ubaa8\ub974\uaca0\uad70\uc694!<P>\uc774 <FC 0,128,0>\uc591\uc0b0<END FC>\uc744 \uc6b0\ub9ac\uc758 \uac10\uc0ac\uc758 \ud45c\uc2dc\ub85c \uc99d\uc815\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.<P>\ud55c \ub54c \uc544\ube44\ub3c4\uc2a4\uc778 \uadc0\uc871\uc774 \uc18c\uc720\ud558\uace0 \uc788\ub358 \uac83\uc73c\ub85c \ub728\uac70\uc6b4 \ud0dc\uc591\uc73c\ub85c\ubd80\ud130 \uadf8\ub298\uc744 \ucc3e\uc73c\ub824\uace0 \ud560 \ub54c \uc544\uc8fc \uac00\uce58 \uc788\ub294 \uac83\uc785\ub2c8\ub2e4.<E>",
+    "message": "놀랍군! 도난 당한 보석들 중 하나를 회수했군! 이 도시가 어떻게 감사해야 할 지 모르겠군요!<P>이 <FC 0,128,0>양산<END FC>을 우리의 감사의 표시로 증정하고 싶습니다.<P>한 때 아비도스인 귀족이 소유하고 있던 것으로 뜨거운 태양으로부터 그늘을 찾으려고 할 때 아주 가치 있는 것입니다.<E>",
     "description": "SphinxText.xls, row 1688"
   },
   "HT_Text_Aby_Museum_NoDogs": {
-    "message": "\ubbf8\uc548\ud569\ub2c8\ub2e4\ub9cc \uce58\uc640\uc640\ub4e4\uc744 \ubc1b\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \uc791\ub144\uc5d0 \uadf8 \ub188\ub4e4\uacfc \uc2dc\uc7a5\uacfc\uc758 \uc88b\uc9c0 \uc54a\uc558\ub358 \uc0ac\uac74 \ub54c\ubb38\uc5d0 \ubc15\ubb3c\uad00\uc73c\ub85c\ubd80\ud130 \uae08\uc9c0\ub418\uc5c8\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "미안합니다만 치와와들을 받을 수 없습니다. 작년에 그 놈들과 시장과의 좋지 않았던 사건 때문에 박물관으로부터 금지되었습니다.<E>",
     "description": "SphinxText.xls, row 1689"
   },
   "HT_Text_Aby_Museum_Empty": {
-    "message": "<N><CNTR>---[ \uc804\uc2dc \uc5c6\uc74c ]---<E>",
+    "message": "<N><CNTR>---[ 전시 없음 ]---<E>",
     "description": "SphinxText.xls, row 1690"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel01": {
-    "message": "\uc624! <FC 0,128,0>\uc544\ube44\ub3c4\uc2a4 \ubcf4\uc11d\ub4e4<END FC>\uc744 \ub3cc\ub824\uc8fc\uc2dc\ub294 \uad70\uc694! \uc9c4\uc815\ud55c \uc601\uc6c5\uc774\uc2ed\ub2c8\ub2e4!<P>\uadf8\ub4e4\uc774 \ub098\ub97c \uc2dc\ucf1c \uadf8 \ubcf4\uc11d\ub4e4\uc744 \ud6d4\ucce4\ub2e4\ub294 \uac83\uc744 \uc54c\uc544\uc57c \ud560 \uac83 \uac19\uc2b5\ub2c8\ub2e4. \uadf8\ub7f0\ub370, \ub9d0\uc500 \ub4dc\ub9ac\uc9c0\ub9cc \uc800\uc758 \uc758\uc9c0\uc640\ub294 \uc0c1\uad00\uc5c6\ub294 \uc77c\uc774\uc5c8\uc2b5\ub2c8\ub2e4.<P>\ub2e4\uc2dc\ub294 \uadf8\ub4e4\uc774 \uc790\uc2e0\ub4e4\uc758 \uc545\ud589\uc744 \uc704\ud574\uc11c \uc800\ub97c \uc774\uc6a9\ud558\uc9c0 \ubabb\ud560 \uac83\uc774\ub77c\ub294 \uac83\uc744 \uc57d\uc18d\ub4dc\ub9bd\ub2c8\ub2e4.<P>\ub2f9\uc2e0\uc758 \uc601\uc6c5\uc801 \ud589\ub3d9\uc774 \uadf8\ub7f0 \ubd88\ud589\ud55c \uc0ac\uac74\uc5d0 \ucc38\uc5ec\ud588\ub2e4\ub294 \uc8c4\uc758\uc2dd\uc73c\ub85c\ubd80\ud130 \uacb0\uad6d\uc5d0\ub294 \uc800\ub97c \uc790\uc720\ub86d\uac8c \ud560 \uac83\uc785\ub2c8\ub2e4. \uac10\uc0ac\ud569\ub2c8\ub2e4!<E>",
+    "message": "오! <FC 0,128,0>아비도스 보석들<END FC>을 돌려주시는 군요! 진정한 영웅이십니다!<P>그들이 나를 시켜 그 보석들을 훔쳤다는 것을 알아야 할 것 같습니다. 그런데, 말씀 드리지만 저의 의지와는 상관없는 일이었습니다.<P>다시는 그들이 자신들의 악행을 위해서 저를 이용하지 못할 것이라는 것을 약속드립니다.<P>당신의 영웅적 행동이 그런 불행한 사건에 참여했다는 죄의식으로부터 결국에는 저를 자유롭게 할 것입니다. 감사합니다!<E>",
     "description": "SphinxText.xls, row 1691"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel02A": {
-    "message": "\ub2f9\uc2e0\uc740 \uc9c4\uc815\ud55c \uc601\uc6c5\uc785\ub2c8\ub2e4! <FC 0,128,0>\uc544\ube44\ub3c4\uc2a4 \ubcf4\uc11d\ub4e4<END FC>\uc774 \uc804\ubd80 \ub3cc\uc544\uc62c \ub54c\uae4c\uc9c0 \uae30\ub2e4\ub9b4 \uc218\uac00 \uc5c6\uad70\uc694!<E>",
+    "message": "당신은 진정한 영웅입니다! <FC 0,128,0>아비도스 보석들<END FC>이 전부 돌아올 때까지 기다릴 수가 없군요!<E>",
     "description": "SphinxText.xls, row 1692"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel02B": {
-    "message": "\uc815\uc9c1\ud558\uac8c \ub300\ud574\uc8fc\uc154\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4!<E>",
+    "message": "정직하게 대해주셔서 감사합니다!<E>",
     "description": "SphinxText.xls, row 1693"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel02C": {
-    "message": "\ud574\uc8fc\uc2e0 \uac83\uc5d0 \ub300\ud574 \uc5b4\ub5bb\uac8c \uac10\uc0ac \ub4dc\ub824\uc57c \ud560\uc9c0 \ubaa8\ub974\uaca0\uc2b5\ub2c8\ub2e4!<E>",
+    "message": "해주신 것에 대해 어떻게 감사 드려야 할지 모르겠습니다!<E>",
     "description": "SphinxText.xls, row 1694"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel03": {
-    "message": "\uac10\uc0ac\ud569\ub2c8\ub2e4! \ub108\ubb34 \uac10\uc0ac\ud569\ub2c8\ub2e4!!! \uc774\uc81c \ubaa8\ub4e0 \ubcf4\uc11d\ub4e4\uc774 \ub3cc\uc544\uc654\uace0, \uc800\uc758 \uc591\uc2ec\uc740 \ub9c8\uce68\ub0b4 \uc8c4\uc758\uc2dd\uc5d0\uc11c \ud480\ub824\ub0a0 \uc218 \uc788\uc2b5\ub2c8\ub2e4! \uc815\ub9d0 \ub300\ub2e8\ud558\uc2ed\ub2c8\ub2e4!<E>",
+    "message": "감사합니다! 너무 감사합니다!!! 이제 모든 보석들이 돌아왔고, 저의 양심은 마침내 죄의식에서 풀려날 수 있습니다! 정말 대단하십니다!<E>",
     "description": "SphinxText.xls, row 1695"
   },
   "HT_Text_Aby_Museum_MonsterCertificate": {
-    "message": "\ubc29\uae08 \ub2f9\uc2e0\uaed8\uc11c \uc800\ud76c \uc218\uc9d1\uc5d0 <SO HT_Objective_Aby_Museum_MonstCount> \uad34\ubb3c\ub4e4\uc744 \uae30\uc99d\ud558\uc168\ub2e4\ub294 \uac83\uc744 \uc54c\uc558\uc2b5\ub2c8\ub2e4!<P>\uc774 \ubc15\ubb3c\uad00\uacfc <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \ubb38\ud654\uc758 \uc0b6 \uc804\uccb4\ub97c \uc704\ud55c \uac00\uc7a5 \uad00\ub300\ud558\uc2e0 \ud6c4\uc6d0\uc790\uc774\uc2ed\ub2c8\ub2e4.<P>\uc800\ud76c\ub294 \uace0\ub9c8\uc6c0\uc758 \ud45c\uc2dc\uc640 \ub2f9\uc2e0\uc758 \ub178\uace0\ub97c \uce58\ud558\ud558\ub294 \uac83\uc744 <FC 0,128,0>\uad34\ubb3c \uc0ac\ub0e5\uafbc \uc778\uc99d\uc11c: <IS HT_Objective_MonsterNameHolder><END FC>\ub85c \ub300\uc2e0\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.<P>\uc774 \uc99d\uc11c\ub294 \uac00\uce58\ub97c \ub530\uc9c8 \uc218 \uc5c6\ub294 \uc5c5\uc801\uc5d0 \uc774 \ub3c4\uc2dc\uc758 \uac10\uc0ac\uc758 \ud45c\uc2dc\uc785\ub2c8\ub2e4. \uac10\uc0ac\ud569\ub2c8\ub2e4!<E>",
+    "message": "방금 당신께서 저희 수집에 <SO HT_Objective_Aby_Museum_MonstCount> 괴물들을 기증하셨다는 것을 알았습니다!<P>이 박물관과 <FC 128,64,0>아비도스<END FC>의 문화의 삶 전체를 위한 가장 관대하신 후원자이십니다.<P>저희는 고마움의 표시와 당신의 노고를 치하하는 것을 <FC 0,128,0>괴물 사냥꾼 인증서: <IS HT_Objective_MonsterNameHolder><END FC>로 대신하고 싶습니다.<P>이 증서는 가치를 따질 수 없는 업적에 이 도시의 감사의 표시입니다. 감사합니다!<E>",
     "description": "SphinxText.xls, row 1696"
   },
   "HT_Text_Aby_Museum_MonsterClassA": {
-    "message": "\ud669\uae08 \uacc4\uae09",
+    "message": "황금 계급",
     "description": "SphinxText.xls, row 1697"
   },
   "HT_Text_Aby_Museum_MonsterClassB": {
-    "message": "\uc740 \uacc4\uae09",
+    "message": "은 계급",
     "description": "SphinxText.xls, row 1698"
   },
   "HT_Text_Aby_Museum_MonsterClassC": {
-    "message": "\ub3d9 \uacc4\uae09",
+    "message": "동 계급",
     "description": "SphinxText.xls, row 1699"
   },
   "HT_Text_Aby_Shop_ShopperCantAfford": {
-    "message": "\uc9dc\uc99d\ub098\ub294\uad70! \uc774 \uad34\ubb3c\uc744 \ud56d\uc0c1 \uc0ac\uace0 \uc2f6\uc5c8\ub294\ub370 \uc774 \uac00\uaca9\uc5d0 \uc0ac\ub824\uba74 \uc218\ubc31 \ub144\uc740 \ub3c8\uc744 \ubaa8\uc544\uc57c\uaca0\uad70!<E>",
+    "message": "짜증나는군! 이 괴물을 항상 사고 싶었는데 이 가격에 사려면 수백 년은 돈을 모아야겠군!<E>",
     "description": "SphinxText.xls, row 1701"
   },
   "HT_Text_Aby_Shop_ShopperIfOnly": {
-    "message": "\ud558\ub098\ub9cc \uc0b4 \uc218 \uc788\ub2e4\uba74...<E>",
+    "message": "하나만 살 수 있다면...<E>",
     "description": "SphinxText.xls, row 1702"
   },
   "HT_Text_Aby_Shop_KeeperWelcome": {
-    "message": "\uc548\ub155\ud558\uc2ed\ub2c8\uae4c, <FC 128,64,0>\ubaac\ud22c\uc758 \uad34\ubb3c \uac00\uac8c<END FC>\uc5d0 \uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4.<P>\uad34\ubb3c\uc744 \uc5ec\uae30\uc5d0\uc11c \ud314\uac70\ub098 \uad6c\ub9e4\ud558\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.<P>\uad34\ubb3c\uc744 \uc0ac\uace0 \uc2f6\uc73c\uba74 \ub2e4\uac00\uac00\uc11c \uace0\ub974\uba74 \ub429\ub2c8\ub2e4.<P>\ubb3c\ub860 \uad34\ubb3c\uc744 \ub3c4\uc2dc\uc5d0 \ud480\uc5b4\ub193\uc744 \uc218\ub294 \uc5c6\uc2b5\ub2c8\ub2e4 - \uae08\uc9c0\ub418\uc5b4 \uc788\uc8e0!<P>\ud2b9\ud788 \uc791\ub144\uc5d0 \uc2dc\uc7a5\uc5d0\uac8c \ubc8c\uc5b4\uc84c\ub358 \ub054\ucc0d\ud55c \uc0ac\uac74 \ud6c4\uc5d0\ub294... \uadf8\ub294 \uba87 \uc8fc \ub3d9\uc548 \uc549\uc9c0\ub3c4 \ubabb\ud588\uc73c\ub2c8\uae50!<E>",
+    "message": "안녕하십니까, <FC 128,64,0>몬투의 괴물 가게<END FC>에 오신 것을 환영합니다.<P>괴물을 여기에서 팔거나 구매하실 수 있습니다.<P>괴물을 사고 싶으면 다가가서 고르면 됩니다.<P>물론 괴물을 도시에 풀어놓을 수는 없습니다 - 금지되어 있죠!<P>특히 작년에 시장에게 벌어졌던 끔찍한 사건 후에는... 그는 몇 주 동안 앉지도 못했으니깐!<E>",
     "description": "SphinxText.xls, row 1703"
   },
   "HT_Text_Aby_Shop_KeeperBrowse": {
-    "message": "\uc88b\uc2b5\ub2c8\ub2e4, \uc120\uc0dd\ub2d8, \uc800\ud76c \ucd5c\uace0\uc758 \ud488\uc9c8\uc758 \uad34\ubb3c\ub4e4\uc744 \ub9c8\uc74c\uaecf \ub458\ub7ec\ubcf4\uc2dc\uace0 \uc0b4\ud3b4\ubcf4\uc2ed\uc2dc\uc624.<E>",
+    "message": "좋습니다, 선생님, 저희 최고의 품질의 괴물들을 마음껏 둘러보시고 살펴보십시오.<E>",
     "description": "SphinxText.xls, row 1704"
   },
   "HT_Text_Aby_Shop_KeeperWelcomeBack": {
-    "message": "<FC 128,64,0>\ubaac\ud22c\uc758 \uad34\ubb3c \uac00\uac8c<END FC>\uc5d0 \uc5b4\uc11c \uc624\uc2ed\uc2dc\uc624!<P>\uc624\ub298\uc740 \ubb34\uc5c7\uc744 \ub3c4\uc640\ub4dc\ub9b4\uae4c\uc694?<N>  <B 1> \uad34\ubb3c\ub4e4\uc744 \uc0b0\ub2e4<N>  <B 2> \uad34\ubb3c\ub4e4\uc744 \ud310\ub2e4<E>",
+    "message": "<FC 128,64,0>몬투의 괴물 가게<END FC>에 어서 오십시오!<P>오늘은 무엇을 도와드릴까요?<N>  <B 1> 괴물들을 산다<N>  <B 2> 괴물들을 판다<E>",
     "description": "SphinxText.xls, row 1705"
   },
   "HT_Text_Aby_Shop_KeeperNoMonsters": {
-    "message": "\ud558\uc9c0\ub9cc \uc800\uc5d0\uac8c \ud30c\uc2e4 \uad34\ubb3c\uc774 \ud558\ub098\ub3c4 \uc5c6\uc73c\uc2dc\uad70\uc694...<E>",
+    "message": "하지만 저에게 파실 괴물이 하나도 없으시군요...<E>",
     "description": "SphinxText.xls, row 1706"
   },
   "HT_Text_Aby_Shop_KeeperSellMonsters": {
-    "message": "\uc800\uc5d0\uac8c \uc5b4\ub5a4 \uac83\uc744 \ud30c\uc2e4 \uac83\uc778\uc9c0? \ud30c\uc2dc\uace0 \uc2f6\uc740 \uad34\ubb3c\uc744 \uc120\ud0dd\ud558\uc2ed\uc2dc\uc624...<E>",
+    "message": "저에게 어떤 것을 파실 것인지? 파시고 싶은 괴물을 선택하십시오...<E>",
     "description": "SphinxText.xls, row 1707"
   },
   "HT_Text_Aby_Shop_KeeperMonsterOffer": {
-    "message": "<IS HT_Objective_MonsterNameHolder>? \ud6cc\ub96d\ud55c \uacac\ubcf8\uc774\uad70\uc694!<P><FC 0,128,0><SO HT_Objective_Aby_Shop_SellMonsterPrice> \uc2a4\uce90\ub7fd<END FC>\uc744 \ub4dc\ub9ac\uc9c0\uc694.<N>  <B 1> \ud310\ub2e4<N>  <B 2> \ud314\uc9c0 \uc54a\ub294\ub2e4<E>",
+    "message": "<IS HT_Objective_MonsterNameHolder>? 훌륭한 견본이군요!<P><FC 0,128,0><SO HT_Objective_Aby_Shop_SellMonsterPrice> 스캐럽<END FC>을 드리지요.<N>  <B 1> 판다<N>  <B 2> 팔지 않는다<E>",
     "description": "SphinxText.xls, row 1708"
   },
   "HT_Text_Aby_Shop_KeeperDontSell": {
-    "message": "\uc88b\uc744 \ub300\ub85c \ud558\uc2ed\uc2dc\uc624. \uc0dd\uac01\uc774 \ubc14\ub00c\uc2e0\ub2e4\uba74 \uc800\ud76c\ub294 \ud56d\uc0c1 \uad6c\ub9e4\ud560 \uc6a9\uc758\uac00 \uc788\uc2b5\ub2c8\ub2e4...<E>",
+    "message": "좋을 대로 하십시오. 생각이 바뀌신다면 저희는 항상 구매할 용의가 있습니다...<E>",
     "description": "SphinxText.xls, row 1709"
   },
   "HT_Text_Aby_Shop_Keeper": {
-    "message": "\ub300\ub2e8\ud788 \uac10\uc0ac\ud569\ub2c8\ub2e4.<E>",
+    "message": "대단히 감사합니다.<E>",
     "description": "SphinxText.xls, row 1710"
   },
   "HT_Text_Aby_Shop_NoDogs": {
-    "message": "\ubb50\uc8e0? \uce58\uc640\uc640? \uc81c\uac00 \uc2eb\uc5b4\ud558\ub294 \uac83\ub4e4\uc785\ub2c8\ub2e4! \uadf8\uac83\uc740 \uc0b4 \uc218 \uc5c6\uaca0\ub124\uc694!<E>",
+    "message": "뭐죠? 치와와? 제가 싫어하는 것들입니다! 그것은 살 수 없겠네요!<E>",
     "description": "SphinxText.xls, row 1711"
   },
   "HT_Text_Aby_Shop_NoLizards": {
-    "message": "\uc624, \uc5bc\ube60\uc9c4 \ub3c4\ub9c8\ubc40. \uadf8\uac83\uc740 \uc0b4 \uc218 \uc5c6\uc744 \uac83 \uac19\ub124\uc694. \uc9c0\ub09c \ubc88\uc5d0 \ubc8c\uc5b4\uc9c4 \uc77c\uc744 \uc0dd\uac01\ub9cc\ud558\uba74...<E>",
+    "message": "오, 얼빠진 도마뱀. 그것은 살 수 없을 것 같네요. 지난 번에 벌어진 일을 생각만하면...<E>",
     "description": "SphinxText.xls, row 1712"
   },
   "HT_Text_Aby_Shop_NoPiranhas": {
-    "message": "\ubbf8\uc548\ud569\ub2c8\ub2e4\ub9cc \ud53c\ub77c\ub0d0\ub97c \ub354 \uc774\uc0c1 \ubc1b\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \uc2dc\uc7a5\uc774 \uc791\ub144\uc5d0 \uadf8 \uc548 \uc88b\uc558\ub358 \uc0ac\uac74 \uc774\ud6c4\ub85c \uc774 \uac00\uac8c\uc5d0 \ubcf4\uad00\ud558\ub294 \uac83\uc744 \uae08\uc9c0\uc2dc\ucf30\uc2b5\ub2c8\ub2e4...<P>\uadf8\ub97c \ud0d3\ud558\uc9c0\ub294 \uc54a\uc544\uc694. \uba87 \uc8fc \ub3d9\uc548 \uc81c\ub300\ub85c \uc549\uc9c0\ub3c4 \ubabb\ud588\uc73c\ub2c8\uae50\uc694!<E>",
+    "message": "미안합니다만 피라냐를 더 이상 받을 수 없습니다. 시장이 작년에 그 안 좋았던 사건 이후로 이 가게에 보관하는 것을 금지시켰습니다...<P>그를 탓하지는 않아요. 몇 주 동안 제대로 앉지도 못했으니깐요!<E>",
     "description": "SphinxText.xls, row 1713"
   },
   "HT_Text_Aby_Sewer_GateBlocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uc774 \uad00\ubb38\uc744 \uc5f4\ub824\uba74 <FC 0,128,0>\uc5f4\uc1e0<END FC>\uac00 \ud544\uc694\ud558\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 관문을 열려면 <FC 0,128,0>열쇠<END FC>가 필요하다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1715"
   },
   "HT_Text_Aby_Sewer_GotKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc624\ub798\ub41c \uc5f4\uc1e0<END FC>\ub97c \ud558\ub098 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>오래된 열쇠<END FC>를 하나 찾았다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1716"
   },
   "HT_Text_Aby_Canal_Sign_GrandCanal01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\ub300 \uc6b4\ud558<END FC> ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>대 운하<END FC> ]---<E>",
     "description": "SphinxText.xls, row 1718"
   },
   "HT_Text_Aby_Canal_Sign_NarrowCanal01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\uc18c \uc6b4\ud558<END FC> ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>소 운하<END FC> ]---<E>",
     "description": "SphinxText.xls, row 1719"
   },
   "HT_Text_Aby_Canal_Sign_AbydosPlaza01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \uad11\uc7a5<END FC> ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>아비도스 광장<END FC> ]---<E>",
     "description": "SphinxText.xls, row 1720"
   },
   "HT_Text_Aby_Canal_Sign_ToGrandCanal01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\ub300 \uc6b4\ud558<END FC> ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>대 운하<END FC> ]---<E>",
     "description": "SphinxText.xls, row 1721"
   },
   "HT_Text_Aby_Canal_Sign_ToNarrowCanal01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\uc18c \uc6b4\ud558<END FC> ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>소 운하<END FC> ]---<E>",
     "description": "SphinxText.xls, row 1722"
   },
   "HT_Text_Aby_Canal_Sign_ToAbydosPlaza01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \uad11\uc7a5<END FC> ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>아비도스 광장<END FC> ]---<E>",
     "description": "SphinxText.xls, row 1723"
   },
   "HT_Text_Aby_Canal_Sign_Museum01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC> ]---<N><CNTR>---[ \uae30\uc99d \ud658\uc601! ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>아비도스 박물관<END FC> ]---<N><CNTR>---[ 기증 환영! ]---<E>",
     "description": "SphinxText.xls, row 1724"
   },
   "HT_Text_Aby_Canal_Sign_WallsMinigame01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\uc2b9\uc790\uc758 \ud68c\ub791<END FC> ]---<N><CNTR>---[ \ucc38\uac00\ud558\ub824\uba74 2 \ubbf8\ud130\ub97c \ub118\ub294 \uacf5\uc911\uc81c\ube44\ub97c \ud574\uc57c \ud568! ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>승자의 회랑<END FC> ]---<N><CNTR>---[ 참가하려면 2 미터를 넘는 공중제비를 해야 함! ]---<E>",
     "description": "SphinxText.xls, row 1725"
   },
   "HT_Text_Aby_Canal_Sign_Shop01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\ubaac\ud22c\uc758 \uad34\ubb3c \uac00\uac8c<END FC> ]---<N><CNTR>---[ \uc0c8 \uad34\ubb3c\uc774 \uc785\uace0\ub418\uc5c8\uc74c! ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>몬투의 괴물 가게<END FC> ]---<N><CNTR>---[ 새 괴물이 입고되었음! ]---<E>",
     "description": "SphinxText.xls, row 1726"
   },
   "HT_Text_Aby_Canal_Sign_Inventor01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\ubc1c\uba85\uac00 \ucf00\uba54\ud2b8<END FC> ]---<N><CNTR>---[ \uacf5\uc2dd\ubc29\ubb38 \uc678\uc5d0 \ubc29\ubb38\uac1d \uac70\uc808! ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>발명가 케메트<END FC> ]---<N><CNTR>---[ 공식방문 외에 방문객 거절! ]---<E>",
     "description": "SphinxText.xls, row 1727"
   },
   "HT_Text_Aby_Canal_Sign_PairsMinigame01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\ud30c\ub124\ube0c\uc758 \uc9dd\uc9d3\uae30 \ubc29<END FC> ]---<N><CNTR>---[ \uae30\uc5b5\ub825\uc73c\ub85c \ub3c8\uc744 \ubc84\uc138\uc694! ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>파네브의 짝짓기 방<END FC> ]---<N><CNTR>---[ 기억력으로 돈을 버세요! ]---<E>",
     "description": "SphinxText.xls, row 1728"
   },
   "HT_Text_Aby_Canal_Sign_SimonMinigame01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\uc18c\ub974\ucf58\uc758 \uc21c\uc11c\uc758 \ubc29<END FC> ]---<N><CNTR>---[ \ub611\ubc14\ub85c \uc21c\uc11c\ub97c \ub9de\ucd94\uba74 <FC 0,128,0>\uc2a4\uce90\ub7fd<END FC>\uc744 \ud68d\ub4dd! ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>소르콘의 순서의 방<END FC> ]---<N><CNTR>---[ 똑바로 순서를 맞추면 <FC 0,128,0>스캐럽<END FC>을 획득! ]---<E>",
     "description": "SphinxText.xls, row 1729"
   },
   "HT_Text_Aby_Canal_Sign_ShootingMinigame01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>\ud14c\ud504\ub11b\uc758 \uacfc\ub141 \uc220\uc9d1<END FC> ]---<N><CNTR>---[ \uacfc\ub141 \ub9de\ucd94\uae30 \uc19c\uc528\ub97c \uc2dc\ud5d8\ud574\ubcf4\uc138\uc694! ]---<E>",
+    "message": "<N><CNTR>---[ <FC 128,64,0>테프넛의 과녁 술집<END FC> ]---<N><CNTR>---[ 과녁 맞추기 솜씨를 시험해보세요! ]---<E>",
     "description": "SphinxText.xls, row 1730"
   },
   "HT_Text_Aby_Canal_Sign_ElectricWater": {
-    "message": "<CNTR>---[ <FC 128,64,0>\uc218\uc601 \uae08\uc9c0<END FC> ]---<N><CNTR>---[ \uacbd\uace0! <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc2dc\ub97c \ub458\ub7ec\uc2f8\ub294 \ubaa8\ub4e0 \ubb3c\uc740 \uc804\ub958\uac00 \ud750\ub974\uace0 \uc788\uc74c. \ubb3c\uc5d0 \ub4e4\uc5b4\uac00\uc9c0 \ub9c8\uc2dc\uc624. ]---<E>",
+    "message": "<CNTR>---[ <FC 128,64,0>수영 금지<END FC> ]---<N><CNTR>---[ 경고! <FC 128,64,0>아비도스<END FC>시를 둘러싸는 모든 물은 전류가 흐르고 있음. 물에 들어가지 마시오. ]---<E>",
     "description": "SphinxText.xls, row 1731"
   },
   "HT_Text_Aby_Canal_BoatOwner_Intro01": {
-    "message": "\uc548\ub155, \ub098\ub294 \ucf58\uc2a4, \ubcf4\ud2b8 \uc120\uc7a5\uc774\uc9c0. \ubaa8\ud5d8\uc744 \uc88b\uc544\ud558\ub294 \ubcf4\ud1b5 \ub0a8\uc790 \uac19\uad70. \ub0b4 \uc11c\ube44\uc2a4\ub294 \uc544\uc8fc \uc801\ub2f9\ud55c \uac00\uaca9\uc5d0 \ubaa8\ub4e0 \ud734\uac00\uc5ec\ud589\uae4c\uc9c0\ub3c4 \ud3ec\ud568\ud55c\ub2e4.<P>\uc6d0\ud55c\ub2e4\uba74 <FC 128,64,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4<END FC>\uae4c\uc9c0 \ub2e8 <FC 0,128,0>25 \uc2a4\uce90\ub7fd<END FC>\uc5d0 \ub370\ub824\ub2e4 \uc904 \uc218 \uc788\ub2e4.<N>  <B 2> \uad00\uc2ec \uc5c6\uc2b5\ub2c8\ub2e4<N>  <B 1> \uac11\uc2dc\ub2e4<E>",
+    "message": "안녕, 나는 콘스, 보트 선장이지. 모험을 좋아하는 보통 남자 같군. 내 서비스는 아주 적당한 가격에 모든 휴가여행까지도 포함한다.<P>원한다면 <FC 128,64,0>헬리오폴리스<END FC>까지 단 <FC 0,128,0>25 스캐럽<END FC>에 데려다 줄 수 있다.<N>  <B 2> 관심 없습니다<N>  <B 1> 갑시다<E>",
     "description": "SphinxText.xls, row 1732"
   },
   "HT_Text_Aby_Canal_BoatOwner_Return01": {
-    "message": "\uc548\ub155! \ub2e4\uc2dc \ub9cc\ub098\uac8c \ub418\uc5c8\uad70.<P>\uc6d0\ud55c\ub2e4\uba74, <FC 128,64,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4<END FC>\uae4c\uc9c0 \ub2e8 <FC 0,128,0>25 \uc2a4\uce90\ub7fd<END FC>\uc5d0 \ub370\ub824\ub2e4 \uc904 \uc218 \uc788\ub2e4.<N>  <B 2> \uad00\uc2ec \uc5c6\uc2b5\ub2c8\ub2e4<N>  <B 1> \uac11\uc2dc\ub2e4<E>",
+    "message": "안녕! 다시 만나게 되었군.<P>원한다면, <FC 128,64,0>헬리오폴리스<END FC>까지 단 <FC 0,128,0>25 스캐럽<END FC>에 데려다 줄 수 있다.<N>  <B 2> 관심 없습니다<N>  <B 1> 갑시다<E>",
     "description": "SphinxText.xls, row 1733"
   },
   "HT_Text_Aby_Canal_BoatOwner_ToHeliopolisConfirm": {
-    "message": "\ub2e4\uc74c \uc815\ucc29\uc740 <FC 128,64,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4<END FC>!<E>",
+    "message": "다음 정착은 <FC 128,64,0>헬리오폴리스<END FC>!<E>",
     "description": "SphinxText.xls, row 1734"
   },
   "HT_Text_Aby_Canal_BoatOwner_ToHeliopolisDecline": {
-    "message": "\uc88b\uc544, \uc0dd\uac01\uc774 \ubc14\ub00c\uba74 \uc54c\ub824\ub2ec\ub77c\uace0.<E>",
+    "message": "좋아, 생각이 바뀌면 알려달라고.<E>",
     "description": "SphinxText.xls, row 1735"
   },
   "HT_Text_Aby_Canal_BoatOwner_NotEnoughMoney": {
-    "message": "\ubbf8\uc548\ud558\uc9c0\ub9cc <FC 0,128,0>\uc2a4\uce90\ub7fd<END FC>\uc774 \ucda9\ubd84\ud558\uc9c0 \uc54a\uc544.<E>",
+    "message": "미안하지만 <FC 0,128,0>스캐럽<END FC>이 충분하지 않아.<E>",
     "description": "SphinxText.xls, row 1736"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationIntro": {
-    "message": "\ud1b5\uacfc\uc2dc\ucf1c\uc8fc\uae30 \uc804\uc5d0 \ud1b5\ud589\uc99d\uc744 \ubd10\uc57c\uaca0\ub2e4.<E>",
+    "message": "통과시켜주기 전에 통행증을 봐야겠다.<E>",
     "description": "SphinxText.xls, row 1737"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationPrompt": {
-    "message": "\ud1b5\ud589\uc99d\uc744 \uc880 \ubd05\uc2dc\ub2e4.<N>  <B 1> \ubb3c\ub860\uc774\uc8e0, \uc5ec\uae30 \uc788\uc2b5\ub2c8\ub2e4<N>  <B 2> \uc74c... \uc78a\uc5b4\ubc84\ub9b0 \uac83 \uac19\uc740\ub370\uc694<E>",
+    "message": "통행증을 좀 봅시다.<N>  <B 1> 물론이죠, 여기 있습니다<N>  <B 2> 음... 잊어버린 것 같은데요<E>",
     "description": "SphinxText.xls, row 1738"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedGood": {
-    "message": "\ud1b5\ud589\uc99d\uc774 \ub9de\uad70\uc694. \ud1b5\uacfc\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "통행증이 맞군요. 통과할 수 있습니다.<E>",
     "description": "SphinxText.xls, row 1739"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedBad": {
-    "message": "\ub3c4\ub300\uccb4 \uc774\uac83\uc774 \ubb34\uc2a8 \ud1b5\ud589\uc99d\uc774\uc57c? <FC 128,64,0>\uc758\ud68c\uc2e4<END FC>\ub85c \uac00\uace0 \uc2f6\ub2e4\uba74 \ud1b5\ud589\uc99d\uc774 \ud544\uc694\ud558\ub2e4!<P>\uc800\ub9ac \uac00\ub77c, \uc2dc\uac04\ub0ad\ube44 \ud558\uc9c0\ub9d0\uace0!<E>",
+    "message": "도대체 이것이 무슨 통행증이야? <FC 128,64,0>의회실<END FC>로 가고 싶다면 통행증이 필요하다!<P>저리 가라, 시간낭비 하지말고!<E>",
     "description": "SphinxText.xls, row 1740"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationDeclined": {
-    "message": "\uadf8\ub798, \uadf8\ub798, \uadf8\ub7f4\uc2f8\ud55c \uc774\uc57c\uae30\uad70. \ud1b5\ud589\uc99d\uc774 \uc5c6\uc73c\uba74 \ubabb \ub4e4\uc5b4\uac04\ub2e4. <FC 128,64,0>\uc758\ud68c\uc2e4<END FC>\ub85c \uc544\ubb34\ub098 \ub4e4\uc5ec\ubcf4\ub0bc \uc218 \uc5c6\uc5b4.<P> \uc774\uc81c \uaebc\uc838\ubc84\ub824!<E>",
+    "message": "그래, 그래, 그럴싸한 이야기군. 통행증이 없으면 못 들어간다. <FC 128,64,0>의회실<END FC>로 아무나 들여보낼 수 없어.<P> 이제 꺼져버려!<E>",
     "description": "SphinxText.xls, row 1741"
   },
   "HT_Text_Aby_Canal_GateGuard_Done": {
-    "message": "\uc548\ub155\ud558\uc2ed\ub2c8\uae4c, \uc120\uc0dd\ub2d8.<E>",
+    "message": "안녕하십니까, 선생님.<E>",
     "description": "SphinxText.xls, row 1742"
   },
   "HT_Text_Aby_Canal_GateGuard_DoneWarning": {
-    "message": "\uc6b4\ud558\uc8fc\uc704\uc758 \uc791\uc740 \uc9d0\uc2b9\ub4e4\uc744 \uc870\uc2ec\ud558\uc2ed\uc2dc\uc624.<E>",
+    "message": "운하주위의 작은 짐승들을 조심하십시오.<E>",
     "description": "SphinxText.xls, row 1743"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedWarning": {
-    "message": "\ud1b5\uacfc\ud558\uc154\ub3c4 \uc88b\uc2b5\ub2c8\ub2e4, \ud558\uc9c0\ub9cc \uc870\uc2ec\ud558\uc2ed\uc2dc\uc624. \uc6b4\ud558 \uc804\uccb4\uac00 \uad34\ubb3c\ub4e4\ub85c \ub4a4\ub36e\ud600 \uc788\uc2b5\ub2c8\ub2e4. \ubcc4\uac70 \uc544\ub2cc \uac83 \uac19\uc544 \ubcf4\uc774\uc9c0\ub9cc \uc815\ub9d0 \uacf5\uaca9\uc801\uc785\ub2c8\ub2e4.<P>\ubd80\ud0c1\uc774 \uc788\uc2b5\ub2c8\ub2e4\ub9cc~ \uc6b4\ud558\uc5d0\uc11c \uad34\ubb3c\ub4e4\uc744 \ubc15\uba78\ud574\uc900\ub2e4\uba74 \uc774 <FC 0,128,0>\ud3ec\ud138 \ubd80\uc801<END FC>\uc744 \ub4dc\ub9ac\uaca0\uc2b5\ub2c8\ub2e4. \uc800\ud55c\ud14c\ub294 \uc18c\uc6a9\uc774 \uc5c6\uc2b5\ub2c8\ub2e4. \uc5b4\ub5bb\uac8c \uc0ac\uc6a9\ud558\ub294 \uc9c0\ub3c4 \ubab0\ub77c\uc694.<E>",
+    "message": "통과하셔도 좋습니다, 하지만 조심하십시오. 운하 전체가 괴물들로 뒤덮혀 있습니다. 별거 아닌 것 같아 보이지만 정말 공격적입니다.<P>부탁이 있습니다만~ 운하에서 괴물들을 박멸해준다면 이 <FC 0,128,0>포털 부적<END FC>을 드리겠습니다. 저한테는 소용이 없습니다. 어떻게 사용하는 지도 몰라요.<E>",
     "description": "SphinxText.xls, row 1744"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedBeasts": {
-    "message": "\ub3d9\ubb3c\ub4e4\uc774 \uc544\uc9c1 \uc870\uae08 \ub0a8\uc544\uc788\uc5b4\uc694. <FC 0,128,0>\ud3ec\ud138 \ubd80\uc801<END FC>\uc744 \uc6d0\ud55c\ub2e4\uba74 \uc6b4\ud558 \uc804\uccb4\ub97c \ucc98\ub9ac\ud574\uc57c \ud569\ub2c8\ub2e4.<E>",
+    "message": "동물들이 아직 조금 남아있어요. <FC 0,128,0>포털 부적<END FC>을 원한다면 운하 전체를 처리해야 합니다.<E>",
     "description": "SphinxText.xls, row 1745"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedComplete": {
-    "message": "\ud6cc\ub96d\ud569\ub2c8\ub2e4, \uc6b4\ud558 \uc804\uccb4\ub97c \ucc98\ub9ac\ud588\uad70\uc694! \ub300\ub2e8\ud569\ub2c8\ub2e4, \ub0b4 \uce5c\uad6c.<P>\uc88b\uc544\uc694, \uc5ec\uae30 \uc57d\uc18d\ud588\ub358 <FC 0,128,0>\ud3ec\ud138 \ubd80\uc801<END FC>\uc774 \uc788\uc2b5\ub2c8\ub2e4. \uc800\ubcf4\ub2e4 \uc720\uc6a9\ud558\uac8c \uc0ac\uc6a9\ud558\uae38 \ubc14\ub798\uc694.<E>",
+    "message": "훌륭합니다, 운하 전체를 처리했군요! 대단합니다, 내 친구.<P>좋아요, 여기 약속했던 <FC 0,128,0>포털 부적<END FC>이 있습니다. 저보다 유용하게 사용하길 바래요.<E>",
     "description": "SphinxText.xls, row 1746"
   },
   "HT_Text_Aby_Canal_GateGuard_GiveBothPiranha": {
-    "message": "\uc790, \ub0b4\uac00 \uc7a1\uc740 \uc774 \ud53c\ub77c\ub0d0 \uad34\ubb3c\ub4e4\ub3c4 \uac00\uc838. \ub09c \ubcc4\ub85c \ud544\uc694 \uc5c6\uc5b4.<E>",
+    "message": "자, 내가 잡은 이 피라냐 괴물들도 가져. 난 별로 필요 없어.<E>",
     "description": "SphinxText.xls, row 1747"
   },
   "HT_Text_Aby_Canal_GateGuard_GiveOnePiranha": {
-    "message": "\uc790, \ub0b4\uac00 \uc7a1\uc740 \uc774 \ud53c\ub77c\ub0d0 \uad34\ubb3c\ub3c4 \uac00\uc838. \ub09c \ubcc4\ub85c \ud544\uc694 \uc5c6\uc5b4.<E>",
+    "message": "자, 내가 잡은 이 피라냐 괴물도 가져. 난 별로 필요 없어.<E>",
     "description": "SphinxText.xls, row 1748"
   },
   "HT_Text_Aby_Canal_GateGuard_CouncilChambers": {
-    "message": "\uc774 \ud1b5\ub85c\ub294 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \uc758\ud68c\uc2e4<END FC>\ub85c \ud1b5\ud569\ub2c8\ub2e4, \uc120\uc0dd\ub2d8.<E>",
+    "message": "이 통로는 <FC 128,64,0>아비도스 의회실<END FC>로 통합니다, 선생님.<E>",
     "description": "SphinxText.xls, row 1749"
   },
   "HT_Text_Aby_Canal_Beggar_MoneyPrompt": {
-    "message": "<FC 0,128,0>\uc2a4\uce90\ub7fd<END FC> \uba87 \ud47c\ub9cc \uc801\uc120\ud558\uaca0\ub294\uac00, \ub0b4 \uce5c\uad6c?<N>  <B 1> \uc544\ub2c8\uc624<N>  <B 2> \uadf8\ub7ec\uc8e0, \uc5ec\uae30 <FC 0,128,0>2 \uc2a4\uce90\ub7fd<END FC>\uc785\ub2c8\ub2e4<N>  <B 3> \ubb3c\ub860\uc774\uc8e0, \uc5ec\uae30 <FC 0,128,0>10 \uc2a4\uce90\ub7fd<END FC>\uc785\ub2c8\ub2e4<E>",
+    "message": "<FC 0,128,0>스캐럽<END FC> 몇 푼만 적선하겠는가, 내 친구?<N>  <B 1> 아니오<N>  <B 2> 그러죠, 여기 <FC 0,128,0>2 스캐럽<END FC>입니다<N>  <B 3> 물론이죠, 여기 <FC 0,128,0>10 스캐럽<END FC>입니다<E>",
     "description": "SphinxText.xls, row 1750"
   },
   "HT_Text_Aby_Canal_Beggar_NoMoneyPrompt": {
-    "message": "\uc774\ubbf8 \ucda9\ubd84\ud788 \uc8fc\uc5c8\uc5b4, \uce5c\uad6c. \ub124 <FC 0,128,0>\uc2a4\uce90\ub7fd<END FC>\uc744 \ub354 \ubc1b\uc73c\uba74 \ub0b4\uac00 \ubbf8\uc548\ud558\uac8c \ub420 \uac70\uc57c.<E>",
+    "message": "이미 충분히 주었어, 친구. 네 <FC 0,128,0>스캐럽<END FC>을 더 받으면 내가 미안하게 될 거야.<E>",
     "description": "SphinxText.xls, row 1751"
   },
   "HT_Text_Aby_Canal_Beggar_NotEnoughMoney": {
-    "message": "\ub124 \uc790\uc2e0\ub3c4 <FC 0,128,0>\uc2a4\uce90\ub7fd<END FC>\uc744 \uadf8 \uc815\ub3c4 \uac00\uc9c0\uace0 \uc788\uc9c0 \uc54a\uad70, \uce5c\uad6c. \ubb38\uc9c0\ubc29\uc744 \ud558\ub098 \ucc3e\uc544\uc11c \ub098 \uac19\uc774 \ud574\ubcf4\ub294\uac74 \uc5b4\ub54c.<E>",
+    "message": "네 자신도 <FC 0,128,0>스캐럽<END FC>을 그 정도 가지고 있지 않군, 친구. 문지방을 하나 찾아서 나 같이 해보는건 어때.<E>",
     "description": "SphinxText.xls, row 1752"
   },
   "HT_Text_Aby_Canal_Beggar_GivenNone": {
-    "message": "\uc88b\uc544! \ub10c \uac00\ub09c\ud558\ub2e4\ub294 \uac8c \ubb54\uc9c0 \ubaa8\ub974\ub294 \uad70. \ub10c \ucc38 \uc6b4\uc774 \uc88b\uc544.<E>",
+    "message": "좋아! 넌 가난하다는 게 뭔지 모르는 군. 넌 참 운이 좋아.<E>",
     "description": "SphinxText.xls, row 1753"
   },
   "HT_Text_Aby_Canal_Beggar_GivenMinimum": {
-    "message": "\uc6b0\uc640, <FC 0,128,0>2 \uc2a4\uce90\ub7fd<END FC>! \uc774\uc81c \ub0b4\uac00 \ud56d\uc0c1 \uc0ac\ub824\ud588\ub358 \uc9d1\uc744 \uc0b4 \uc218 \uc788\uaca0\ub2e4!<P>\uc911\uc5bc\uc911\uc5bc... \ud601\ub300\ub97c \uc878\ub77c\ub9e4\uace0... \uc911\uc5bc\uc911\uc5bc... \uc870\uae08\ub9cc \ub354 \uc544\ub07c\uba74...<E>",
+    "message": "우와, <FC 0,128,0>2 스캐럽<END FC>! 이제 내가 항상 사려했던 집을 살 수 있겠다!<P>중얼중얼... 혁대를 졸라매고... 중얼중얼... 조금만 더 아끼면...<E>",
     "description": "SphinxText.xls, row 1754"
   },
   "HT_Text_Aby_Canal_Beggar_GivenMaximum": {
-    "message": "\uc640, \uace0\ub9c8\uc6cc \uce5c\uad6c! \uc790\ub128 \uc544\ub7c9 \uc788\ub294 \uc0ac\ub78c\uc774\uc57c, \uace0\ub9c8\uc6cc.<E>",
+    "message": "와, 고마워 친구! 자넨 아량 있는 사람이야, 고마워.<E>",
     "description": "SphinxText.xls, row 1755"
   },
   "HT_Text_Aby_Canal_Beggar_GivenMaximumAgain": {
-    "message": "\uc774\ub7f0, \uace0\ub9c8\uc6cc! \uc138\uc0c1\uc0ac\ub78c\ub4e4\uc774 \ub2e4 \uc790\ub124 \uac19\ub2e4\uba74 \uc774 \uc138\uc0c1\uc5d0\ub294 \ubb38\uc81c\uac00 \uc5c6\uc744 \uac70\uc57c. \ub0b4\uac00 \uc5ec\uae30 \uc549\uc544\uc788\uc9c0\ub3c4 \uc54a\uc744 \uac70\ub77c\uace0!<E>",
+    "message": "이런, 고마워! 세상사람들이 다 자네 같다면 이 세상에는 문제가 없을 거야. 내가 여기 앉아있지도 않을 거라고!<E>",
     "description": "SphinxText.xls, row 1756"
   },
   "HT_Text_Aby_Canal_Beggar_GivenMaximumReward": {
-    "message": "\uc6b0\uc640, \ucc29\ud55c \uc0ac\ub9c8\ub9ac\uc544\uc778\uc774 \ub530\ub85c \uc5c6\uad70! \ub108\ubb34 \uad00\ub300\ud558\uad70, \ubcf4\ub2f5\uc73c\ub85c \uc774\uac83\uc744 \uc8fc\uc9c0.<P>\uc2dc\uad81\ucc3d\uc5d0\uc11c \uc5bc\ub9c8 \uc804 \uc774\uac83\uc744 \ucc3e\uc558\ub2e4. \uc2dc\uad81\ucc3d\uc5d0\uc11c \ubb58 \ud558\uace0 \uc788\uc5c8\ub294\uc9c0\ub294 \ubb3b\uc9c0 \ub9d0\uace0, \uc54c\uace0 \uc2f6\uc9c0 \uc54a\uc744 \uac70\uc57c!<P>\uc5b4\uca0c\ub4e0, \uac00\uc9c4 \uac74 \uc774\uac8c \uc804\ubd80\uace0 \ub108\uc5d0\uac8c \uc8fc\uace0 \uc2f6\ub2e4.<E>",
+    "message": "우와, 착한 사마리아인이 따로 없군! 너무 관대하군, 보답으로 이것을 주지.<P>시궁창에서 얼마 전 이것을 찾았다. 시궁창에서 뭘 하고 있었는지는 묻지 말고, 알고 싶지 않을 거야!<P>어쨌든, 가진 건 이게 전부고 너에게 주고 싶다.<E>",
     "description": "SphinxText.xls, row 1757"
   },
   "HT_Text_Aby_Canal_Inventor_GoAway01": {
-    "message": "\uc77d\uae30 \ubabb\ud574? \ud45c\uc2dc\uc5d0 \ubc29\ubb38\uac1d \uae08\uc9c0\ub77c\uace0 \ub418\uc5b4\uc788\uc796\uc544!<E>",
+    "message": "읽기 못해? 표시에 방문객 금지라고 되어있잖아!<E>",
     "description": "SphinxText.xls, row 1758"
   },
   "HT_Text_Aby_Canal_Inventor_GoAway02": {
-    "message": "\uacf5\uc2dd \ubc29\ubb38\uc774 \uc544\ub2c8\uc796\uc544, \uac00\ubc84\ub824!<E>",
+    "message": "공식 방문이 아니잖아, 가버려!<E>",
     "description": "SphinxText.xls, row 1759"
   },
   "HT_Text_Aby_Canal_Inventor_GoAway03": {
-    "message": "\ub0b4 \ubb38\uc744 \uadf8\ub9cc \ub450\ub4e4\uaca8! \uacf5\uc2dd\ubc29\ubb38\ub9cc \ubc1b\ub294\ub2e4!<E>",
+    "message": "내 문을 그만 두들겨! 공식방문만 받는다!<E>",
     "description": "SphinxText.xls, row 1760"
   },
   "HT_Text_Aby_Canal_Inventor_Prompt01": {
-    "message": "\ub9c8\uce68\ub0b4, \uacf5\uc2dd\ubc29\ubb38\uc744 \ud558\ub294 \uc0ac\ub78c\uc774\uad70! \uadf8 \uc885\uc774\ub294 \ub098\ub97c \uc704\ud55c \uac83\uc778\uac00?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "마침내, 공식방문을 하는 사람이군! 그 종이는 나를 위한 것인가?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1761"
   },
   "HT_Text_Aby_Canal_Inventor_Prompt02": {
-    "message": "\uadf8 \uc885\uc774\ub294 \ub098\ub97c \uc704\ud55c \uac83\uc778\uac00?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "그 종이는 나를 위한 것인가?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1762"
   },
   "HT_Text_Aby_Canal_Inventor_Accept01": {
-    "message": "\uc624, \ud6cc\ub96d\ud574! \uc5b4\ub514 \ubcf4\uc790...<P>\uc624 \uc774\ub7f0, \uc815\ub9d0 \uc548 \uc88b\uc740 \uc18c\uc2dd\uc774\uad70. <FC 0,128,0>\uce58\ub8cc \uc57d\ucd08<END FC>\ub77c, \ud760...<P>\uc774\uac83\ub4e4\uc740 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC> \uc8fc\ubcc0\uc5d0\uc11c \uc790\ub77c\uae34 \ud558\uc9c0\ub9cc \uc774 \uc2dd\ubb3c\ub4e4\uc740 \ub9e4\uc6b0 \uc5f0\uc57d\ud574\uc11c \uc9d1\ub294 \uc21c\uac04 \uc8fd\uc5b4\ubc84\ub9b0\ub2e4.<P>\uc2e0\uc120\ud558\uac8c \ubcf4\uc874\ud558\ub824\uba74 <FC 0,128,0>\uc57d\ucd08\uc8fc\uba38\ub2c8<END FC>\uac00 \ud544\uc694\ud558\ub2e4. \uc548\ud0c0\uae5d\uc9c0\ub9cc \ub0b4 \uc791\uc5c5\uc2e4\uc5d0\ub294 \ud558\ub098\ub3c4 \uc5c6\ub2e4.<P>\ud604\uc7ac \ub124\uac00 \uad00\uc2ec \uc788\uc744 \ub9cc\ud55c \uc720\uc77c\ud55c \uac83\uc740 \uc774\uac70\uc57c. \ud558\uc9c0\ub9cc \ubb34\uc2a8 \uc6a9\ub3c4\uc5d0 \uc4f0\uc774\ub294 \uc9c0 \ubaa8\ub978\ub2e4. \ub124\uac00 \uc54c\uc544\ub0bc \uc218 \uc788\uc744\uae4c?<E>",
+    "message": "오, 훌륭해! 어디 보자...<P>오 이런, 정말 안 좋은 소식이군. <FC 0,128,0>치료 약초<END FC>라, 흠...<P>이것들은 <FC 128,64,0>아비도스<END FC> 주변에서 자라긴 하지만 이 식물들은 매우 연약해서 집는 순간 죽어버린다.<P>신선하게 보존하려면 <FC 0,128,0>약초주머니<END FC>가 필요하다. 안타깝지만 내 작업실에는 하나도 없다.<P>현재 네가 관심 있을 만한 유일한 것은 이거야. 하지만 무슨 용도에 쓰이는 지 모른다. 네가 알아낼 수 있을까?<E>",
     "description": "SphinxText.xls, row 1763"
   },
   "HT_Text_Aby_Canal_Inventor_Decline01": {
-    "message": "\uccc7! \uac70\uc9d3\ub9d0 \ud558\uace0 \uc788\ub294 \uac83 \uac19\uc740\ub370!<E>",
+    "message": "쳇! 거짓말 하고 있는 것 같은데!<E>",
     "description": "SphinxText.xls, row 1764"
   },
   "HT_Text_Aby_Canal_Inventor_MedicineBag01": {
-    "message": "\ub2e4\uc2dc \ub9cc\ub0ac\uad70, \uc774\ubc29\uc778. \uac70\uae30 \uac00\uc9c0\uace0 \uc788\ub294 \uac8c \uba38\uc9c0?<P><FC 0,128,0>\uc57d\ucd08\uc8fc\uba38\ub2c8<END FC>? \uc544\uc8fc \ud765\ubbf8\ub85c\uc6b4\uac78. \uc774\uac70\ub77c\uba74 \ub124\uac00 \ud544\uc694\ud55c <FC 0,128,0>\uce58\ub8cc \uc57d\ucd08<END FC>\ub97c \ubcf4\uc874\ud558\ub294 \ub370 \ubb38\uc81c\uac00 \uc5c6\uc744 \uac83 \uac19\uc740\ub370.<P>\ub098\ub791 \uc774\uc57c\uae30 \ud558\uba70 \ub354 \uc774\uc0c1 \uc2dc\uac04\uc744 \ub0ad\ube44\ud558\uc9c0 \ub9d0\uace0 \uc2dc\uc7a5\uc744 \uc704\ud574\uc11c \uadf8 \uc57d\ucd08\ub4e4\uc744 \ubaa8\uc73c\uae30 \uc2dc\uc791\ud574\ub77c!<E>",
+    "message": "다시 만났군, 이방인. 거기 가지고 있는 게 머지?<P><FC 0,128,0>약초주머니<END FC>? 아주 흥미로운걸. 이거라면 네가 필요한 <FC 0,128,0>치료 약초<END FC>를 보존하는 데 문제가 없을 것 같은데.<P>나랑 이야기 하며 더 이상 시간을 낭비하지 말고 시장을 위해서 그 약초들을 모으기 시작해라!<E>",
     "description": "SphinxText.xls, row 1765"
   },
   "HT_Text_Aby_Canal_Inventor_Herbs01": {
-    "message": "\uc544\uc9c1 \uc57d\ucd08\ub97c \ud558\ub098\ub3c4 \ubabb \ucc3e\uc558\uc5b4? \ub108\ubb34 \ub2a6\uae30 \uc804\uc5d0 \uc6c0\uc9c1\uc774\ub294 \uac8c \uc88b\uc744\uac78!<E>",
+    "message": "아직 약초를 하나도 못 찾았어? 너무 늦기 전에 움직이는 게 좋을걸!<E>",
     "description": "SphinxText.xls, row 1766"
   },
   "HT_Text_Aby_Canal_Inventor_Herbs02": {
-    "message": "\uc544\uc8fc \uc88b\uc544, \uc57d\ucd08\ub97c \uc870\uae08 \ucc3e\uc558\uad70. \ub108\ubb34 \ub2a6\uae30 \uc804\uc5d0 \uc11c\ub458\ub7ec\uc11c \ub098\uba38\uc9c0\ub97c \ucc3e\uc544\ub77c!<E>",
+    "message": "아주 좋아, 약초를 조금 찾았군. 너무 늦기 전에 서둘러서 나머지를 찾아라!<E>",
     "description": "SphinxText.xls, row 1767"
   },
   "HT_Text_Aby_Canal_Inventor_Herbs03": {
-    "message": "\ud6cc\ub96d\ud574, \ubaa8\ub4e0 \uc57d\ucd08\ub97c \uac00\uc9c0\uace0 \uc788\uad70! \ub098\ub791 \uc5ec\uae30\uc11c \uc7a1\ub2f4\uc744 \ud558\ub2e4\ub2c8 \ubb50 \ud558\ub294 \uc9d3\uc774\uc57c?! <FC 128,64,0>\uc758\ud68c\uc2e4<END FC>\ub85c \uc989\uc2dc \ub3cc\uc544\uac00\uac70\ub77c!<E>",
+    "message": "훌륭해, 모든 약초를 가지고 있군! 나랑 여기서 잡담을 하다니 뭐 하는 짓이야?! <FC 128,64,0>의회실<END FC>로 즉시 돌아가거라!<E>",
     "description": "SphinxText.xls, row 1768"
   },
   "HT_Text_Aby_Canal_Inventor_Done01": {
-    "message": "\ub2e4\uc2dc \ub9cc\ub0ac\uad70! \uc2dc\uc7a5\uc744 \uad6c\ud558\ub294 \ud6cc\ub96d\ud55c \uc77c\uc744 \ud574\ub0c8\uad70. <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \uc2dc\ubbfc\ub4e4\uc774 \ub108\uc5d0\uac8c \ud06c\uac8c \uac10\uc0ac\ud574\uc57c \ud560 \ube5a\uc744 \uc84c\ub2e4.<E>",
+    "message": "다시 만났군! 시장을 구하는 훌륭한 일을 해냈군. <FC 128,64,0>아비도스<END FC>의 시민들이 너에게 크게 감사해야 할 빚을 졌다.<E>",
     "description": "SphinxText.xls, row 1769"
   },
   "HT_Text_Aby_Canal_Help_CanalCleared": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\uc800 \uad34\ubb3c\uc774 <FC 128,64,0>\uc18c \uc6b4\ud558<END FC>\uc5d0<N>\ub9cc\uc5f0\ud558\ub294 \ub9c8\uc9c0\ub9c9 \uad34\ubb3c\uc774\uc5c8\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc544\ube44\ub3c4\uc2a4\uc778 \ud638\uc704\ubcd1\uc5d0\uac8c \ubcf4\uace0\ud558\uc5ec<N>\ubcf4\uc0c1\uc744 \ubc1b\uc544\uc57c \ud55c\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>저 괴물이 <FC 128,64,0>소 운하<END FC>에<N>만연하는 마지막 괴물이었다!<P><ES HT_Text_ES_S_HelpText><CNTR>아비도스인 호위병에게 보고하여<N>보상을 받아야 한다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1770"
   },
   "HT_Text_Aby_Canal_Help_GotHerbGood": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uce58\ub8cc \uc57d\ucd08<END FC>\ub97c \ud558\ub098 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>\uc57d\ucd08\uc8fc\uba38\ub2c8<END FC>\uc5d0 \uc548\uc804\ud788 \ubcf4\uad00\ub418\uc5c8\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>치료 약초<END FC>를 하나 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>약초주머니<END FC>에 안전히 보관되었다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1771"
   },
   "HT_Text_Aby_Canal_Help_GotHerbBad": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uce58\ub8cc \uc57d\ucd08<END FC>\ub97c \ud558\ub098 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\ud558\uc9c0\ub9cc \uc21c\uc2dd\uac04\uc5d0 \uc2dc\ub4e4\uc5b4 \uc8fd\uc5b4\ubc84\ub838\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>치료 약초<END FC>를 하나 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>하지만 순식간에 시들어 죽어버렸다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1772"
   },
   "HT_Text_Aby_Canal_Help_GotAnkhPiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ud669\uae08 \uc559\ud06c \uc870\uac01<END FC>\uc744 \ud55c \uac1c \uad6c\ud588\ub2e4!<ES HT_Text_ES_S_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 앙크 조각<END FC>을 한 개 구했다!<ES HT_Text_ES_S_HelpText><E>",
     "description": "SphinxText.xls, row 1773"
   },
   "HT_Text_Aby_Cana_StairsDoorLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\uc774 \ubb38\uc744 \uc5f4\ub824\uba74 <FC 0,128,0>\uc5f4\uc1e0<END FC>\uac00 \ud544\uc694\ud558\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 문을 열려면 <FC 0,128,0>열쇠<END FC>가 필요하다.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1774"
   },
   "HT_Text_Aby_Cana_Help_FoundPearl": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc9c4\uc8fc<END FC>\ub97c \ud558\ub098 \ucc3e\uc558\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아비도스의 진주<END FC>를 하나 찾았다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1775"
   },
   "HT_Text_Aby_Canal_Key_01": {
-    "message": "\uc624~ <FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc9c4\uc8fc<END FC>\ub97c \ub2e4 \ucc3e\uc73c\uc168\uad70\uc694! \uac10\uc0ac\ud569\ub2c8\ub2e4!<P>\uc81c \uc544\ub0b4\uc640 \ud568\uaed8 \ubc15\ubb3c\uad00\uc73c\ub85c \uac00\uc11c \ubcf4\uc11d \ubc15\ub78c\ud68c\ub97c \ubd10\uc57c\uaca0\uad70\uc694. \uadf8 \ub54c \uc544\ub0b4\uac00 \uc774 \ubaa9\uac78\uc774\ub97c \ud558\uba74 \uc815\ub9d0 \uc88b\uc544\ud560 \uac70\uc5d0\uc694.<E>",
+    "message": "오~ <FC 0,128,0>아비도스의 진주<END FC>를 다 찾으셨군요! 감사합니다!<P>제 아내와 함께 박물관으로 가서 보석 박람회를 봐야겠군요. 그 때 아내가 이 목걸이를 하면 정말 좋아할 거에요.<E>",
     "description": "SphinxText.xls, row 1776"
   },
   "HT_Text_Aby_Canal_Key_02": {
-    "message": "\uc6d0\ud55c\ub2e4\uba74 \uc774 \uc5f4\uc1e0\ub97c \uc774\uc6a9\ud558\uc5ec \uc704\uce35 \ud1b5\ub85c\uc758 \ubb38\uc744 \uc5f4 \uc218 \uc788\uc5b4\uc694.<E>",
+    "message": "원한다면 이 열쇠를 이용하여 위층 통로의 문을 열 수 있어요.<E>",
     "description": "SphinxText.xls, row 1777"
   },
   "HT_Text_Aby_Generic": {
-    "message": "\ub108 \uac19\uc740 \ub188\ud558\uace0 \uc774\uc57c\uae30 \ud560 \uc2dc\uac04\uc774 \uc5c6\ub2e4.<E>",
+    "message": "너 같은 놈하고 이야기 할 시간이 없다.<E>",
     "description": "SphinxText.xls, row 1778"
   },
   "HT_Text_Aby_Canal_WellNPC1_A": {
-    "message": "\uc774 \uace1\uc608\uc0ac\ub294 \ub6f0\uc5b4\ub098\uc694, \uadf8\ub807\uc9c0 \uc54a\ub098\uc694? \uc57d\uac04 \uc815\uc2e0\uc740 \uc5c6\uc9c0\ub9cc \ub6f0\uc5b4\ub098\uc8e0...<P>\uc81c \ub3d9\uc0dd\uc774 \uc774\uac83\uc744 \ubcf4\uba74 \uc815\ub9d0 \uc88b\uc544\ud560 \uac70\uc5d0\uc694.<E>",
+    "message": "이 곡예사는 뛰어나요, 그렇지 않나요? 약간 정신은 없지만 뛰어나죠...<P>제 동생이 이것을 보면 정말 좋아할 거에요.<E>",
     "description": "SphinxText.xls, row 1779"
   },
   "HT_Text_Aby_Canal_WellNPC1_B": {
-    "message": "\ud0d0\ud5d8\uac00\ucc98\ub7fc \ubcf4\uc774\ub294 \uad70\uc694. \ub0b4\uac00 \uc80a\uc5c8\uc744 \uc801, \ud0d0\ud5d8\uac00\ub4e4\uc5d0 \uad00\ud55c \uc774\uc57c\uae30\ub4e4\uc744 \uc815\ub9d0 \uc88b\uc544\ud588\uc8e0.<E>",
+    "message": "탐험가처럼 보이는 군요. 내가 젊었을 적, 탐험가들에 관한 이야기들을 정말 좋아했죠.<E>",
     "description": "SphinxText.xls, row 1780"
   },
   "HT_Text_Aby_Canal_WellNPC1_C": {
-    "message": "\uc704\ub300\ud55c <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00<END FC>\uc744 \ubc29\ubb38\ud574 \ubcf4\uc168\uc2b5\ub2c8\uae4c? \uc815\ub9d0 \uba4b\uc9c4 \uacf3\uc774\uc5d0\uc694.<E> ",
+    "message": "위대한 <FC 128,64,0>아비도스 박물관<END FC>을 방문해 보셨습니까? 정말 멋진 곳이에요.<E> ",
     "description": "SphinxText.xls, row 1781"
   },
   "HT_Text_Aby_Canal_WellNPC2_A": {
-    "message": "\ub3c4\ub300\uccb4 \ubb34\uc2a8 \uc77c\uc774\ub78c! \uad34\ubb3c\ub4e4\uacfc \uc804\ub958\uac00 \ud750\ub974\ub294 \ubb3c\uc774\ub77c\ub2c8! \uc6b0\ub9ac\uac00 \uacf5\uaca9 \ubc1b\uace0 \uc788\ub294 \uac74\uac00? <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\ub294 \ud3c9\ud654\ub85c\uc6b4 \ub3c4\uc2dc\ub780 \ub9d0\uc774\uc57c!<E>",
+    "message": "도대체 무슨 일이람! 괴물들과 전류가 흐르는 물이라니! 우리가 공격 받고 있는 건가? <FC 128,64,0>아비도스<END FC>는 평화로운 도시란 말이야!<E>",
     "description": "SphinxText.xls, row 1782"
   },
   "HT_Text_Aby_Canal_WellNPC2_B": {
-    "message": "\uc5b8\uc81c\ucbe4 \uc2dc\uc7a5\uc774 \uadf8 \uad34\ubb3c\ub4e4\uacfc \uac10\uc804\ub418\ub294 \ubb3c\uc5d0 \ub300\ud574 \ub300\ucc45\uc744 \uc138\uc6b8\ub7f0\uc9c0?<E>",
+    "message": "언제쯤 시장이 그 괴물들과 감전되는 물에 대해 대책을 세울런지?<E>",
     "description": "SphinxText.xls, row 1783"
   },
   "HT_Text_Aby_Canal_WellNPC2_C": {
-    "message": "\ubaa8\ub4e0 \uc0ac\ub78c\ub4e4\uc774 \uac81\uc5d0 \uc9c8\ub824\uc788\uc5b4\uc11c \uc694\uc998\uc740 \uc7a5\uc0ac\uac00 \uc548\ub3fc .<E>",
+    "message": "모든 사람들이 겁에 질려있어서 요즘은 장사가 안돼 .<E>",
     "description": "SphinxText.xls, row 1784"
   },
   "HT_Text_Aby_Canal_WellNPC3_A": {
-    "message": "\ubb3c\uc5d0 \uc804\ub958\uac00 \ud750\ub974\uace0 \ubb34\uc11c\uc6b4 \uad34\ubb3c\ub4e4\uc774 \ub098\ud0c0\ub0ac\ub2e4\ub294 \uac8c \ubb34\uc5c7\uc744 \uc758\ubbf8\ud558\ub294 \uac78\uae4c\uc694?<E>",
+    "message": "물에 전류가 흐르고 무서운 괴물들이 나타났다는 게 무엇을 의미하는 걸까요?<E>",
     "description": "SphinxText.xls, row 1785"
   },
   "HT_Text_Aby_Canal_WellNPC3_B": {
-    "message": "\uc5ec\uae30 \ucd9c\uc2e0\uc774 \uc544\ub2c8\uc8e0? \uc6d0\ub798 <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\ub294 \uc9c0\uae08\ubcf4\ub2e4\ub294 \ud6e8\uc52c \ubd84\uc8fc\ud558\uc9c0\ub9cc \uad34\ubb3c\ub4e4\uacfc \uc804\ub958\uac00 \ud750\ub974\ub294 \ubb3c \ub54c\ubb38\uc5d0 \uc0ac\ub78c\ub4e4\uc774 \uac81\uc5d0 \uc9c8\ub838\uc5b4\uc694...<E>",
+    "message": "여기 출신이 아니죠? 원래 <FC 128,64,0>아비도스<END FC>는 지금보다는 훨씬 분주하지만 괴물들과 전류가 흐르는 물 때문에 사람들이 겁에 질렸어요...<E>",
     "description": "SphinxText.xls, row 1786"
   },
   "HT_Text_Aby_Canal_WellNPC3_C": {
-    "message": "\uc81c \uc0dd\uac01\uc5d0\ub294 \uc2dc\uc7a5\uc774 \uc774 \uc0ac\ub78c\uc744 \uacf5\uc2dd \uc5f0\uc608\uc778\uc73c\ub85c \ucde8\uc9c1\uc2dc\ucf1c\uc918\uc57c \ub418\uc694. \uc81c \ub3d9\uc0dd\uc774 \uc800 \uc0ac\ub78c\uc744 \ubd24\uc73c\uba74 \uc88b\uc558\uc744 \ud150\ub370.<E>",
+    "message": "제 생각에는 시장이 이 사람을 공식 연예인으로 취직시켜줘야 되요. 제 동생이 저 사람을 봤으면 좋았을 텐데.<E>",
     "description": "SphinxText.xls, row 1787"
   },
   "HT_Text_Aby_Canal_PearlMan_A": {
-    "message": "\ub3c4\uc640\uc918\uc11c \ub2e4\uc2dc \ud55c \ubc88 \uac10\uc0ac\ud558\ub124! \ubaa9\uac78\uc774\ub294 \uc644\ubcbd\ud574, \ub0b4 \uc544\ub0b4\ub294 \uc544\ubb34\uac83\ub3c4 \ubaa8\ub97c \uac70\uc57c.<E>",
+    "message": "도와줘서 다시 한 번 감사하네! 목걸이는 완벽해, 내 아내는 아무것도 모를 거야.<E>",
     "description": "SphinxText.xls, row 1788"
   },
   "HT_Text_Aby_Canal_PearlMan_B": {
-    "message": "\ub0b4 \uc544\ub0b4\ub294 \ubb3c\uc5d0 \uc804\uae30\uac00 \ud750\ub974\ub294 \uac8c \uc2dc\uc7a5\uc5d0 \ub300\ud55c \uc77c\uc885\uc758 \ubaa8\ub7b5\uc774\ub77c\uace0 \uc0dd\uac01\ud574.<E>",
+    "message": "내 아내는 물에 전기가 흐르는 게 시장에 대한 일종의 모략이라고 생각해.<E>",
     "description": "SphinxText.xls, row 1789"
   },
   "HT_Text_Aby_Canal_PearlMan_C": {
-    "message": "\uc6b0\ub9ac\uc758 \uc544\ub984\ub2e4\uc6b4 \ub3c4\uc2dc\ub97c \uc544\uc9c1 \ud0d0\ud5d8\ud574\ubcf4\uc2dc\uc9c0 \uc54a\uc558\ub294\uac00? \uc774\uacf3\uc5d0\ub294 \uc815\ub9d0 \uba4b\uc9c4 \uc77c\ub4e4\uc774 \ub9ce\uc774 \uc788\uc9c0.<E>",
+    "message": "우리의 아름다운 도시를 아직 탐험해보시지 않았는가? 이곳에는 정말 멋진 일들이 많이 있지.<E>",
     "description": "SphinxText.xls, row 1790"
   },
   "HT_Text_Aby_Canal_ZipHint01": {
-    "message": "<FC 0,128,0>\ub3c4\ub974\ub798 \uc904 \uc190\uc7a1\uc774<END FC>\uac00 \uc788\ub2e4\uba74, <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc5d0\uc11c \ub3cc\uc544\ub2e4\ub2d0 \ub54c \ubaa8\ub4e0 \ub3c4\ub974\ub798 \uc904\ub4e4\uc744 \uc774\uc6a9\ud560 \uc218 \uc788\ub2e4.<P>\uadf8 \uc190\uc7a1\uc774\ub97c \ubc15\ubb3c\uad00\uc758 \uc218\uc9d1\uc5d0 \uad34\ubb3c\uc744 \uae30\uc99d\ud558\ub294 \uc0ac\ub78c\uc5d0\uac8c \ub098\ub220\uc900\ub2e4\uace0 \ub4e4\uc5c8\uc5b4...<E>",
+    "message": "<FC 0,128,0>도르래 줄 손잡이<END FC>가 있다면, <FC 128,64,0>아비도스<END FC>에서 돌아다닐 때 모든 도르래 줄들을 이용할 수 있다.<P>그 손잡이를 박물관의 수집에 괴물을 기증하는 사람에게 나눠준다고 들었어...<E>",
     "description": "SphinxText.xls, row 1791"
   },
   "HT_Text_Aby_Canal_ZipHint02": {
-    "message": "<FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\ub97c \ub5a0\ub098\uace0 \uc2f6\uc73c\uc2dc\uba74, \ub098\ub8fb\ubc30 \uc0ac\uacf5\uc5d0\uac8c \uac00\uae30 \uc704\ud574 <FC 0,128,0>\ub3c4\ub974\ub798 \uc904 \uc190\uc7a1\uc774<END FC>\uac00 \ud544\uc694\ud569\ub2c8\ub2e4.<E>",
+    "message": "<FC 128,64,0>아비도스<END FC>를 떠나고 싶으시면, 나룻배 사공에게 가기 위해 <FC 0,128,0>도르래 줄 손잡이<END FC>가 필요합니다.<E>",
     "description": "SphinxText.xls, row 1792"
   },
   "HT_Text_Aby_Canal_ZipHint03": {
-    "message": "\uc81c\uac00 \uc54c\uae30\ub85c\ub294  \ubc15\ubb3c\uad00\uc5d0 \uad34\ubb3c\uc744 \uae30\uc99d\ud558\ub294 \uc0ac\ub78c\ub4e4\uc740<FC 0,128,0>\ub3c4\ub974\ub798 \uc904 \uc190\uc7a1\uc774<END FC>\ub97c \ubc1b\uc544\uc11c <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\uc758 \ub3c4\ub974\ub798 \uc904\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc788\ub2e4\uace0 \ud574\uc694.<E>",
+    "message": "제가 알기로는  박물관에 괴물을 기증하는 사람들은<FC 0,128,0>도르래 줄 손잡이<END FC>를 받아서 <FC 128,64,0>아비도스<END FC>의 도르래 줄을 사용할 수 있다고 해요.<E>",
     "description": "SphinxText.xls, row 1793"
   },
   "HT_Text_Aby_Canal_LizardOwner_Ramble": {
-    "message": "\uc774 \uc5bc\ube60\uc9c4 \ub3c4\ub9c8\ubc40\uc744 \uc81c\ud06c\ub77c\ub294 \uc0ac\ub78c\uc5d0\uac8c\uc11c \uc0c0\ub294\ub370 \uadf8\uac00 \uc544\uc8fc \ube44\uc2fc \uac70\ub77c\uace0 \ud588\uc5b4\uc694, \ud558\uc9c0\ub9cc \uac70\uc9d3\ub9d0 \ud55c \uac83 \uac19\uc544\uc694.<P>\uc4f8\ubaa8\uac00 \uc5c6\uc5b4\uc694! \ubb18\uae30\ub098 \ubb3c\uac74\uc744 \uc9d1\uc5b4\uc624\ub77c\uace0 \uac00\ub974\uce58\ub824\uace0 \ud588\ub294\ub370 \ub9d0\uc744 \uc798 \ub4e3\uc9c0 \uc54a\uc544\uc694!<P>\uc774\uac83\uc73c\ub85c\ub294 \uc5ec\uc790\uce5c\uad6c\uc5d0\uac8c \uba4b\uc788\uac8c \ubcf4\uc774\uc9c0 \ubabb\ud558\uaca0\ub124\uc694.<P>\uc5ec\uc790\uce5c\uad6c\uc5d0\uac8c \uba4b\uc788\uac8c \ubcf4\uc77c \ub9cc\ud55c \uac83\uc744 \ucc3e\uc744 \uc218\ub9cc \uc788\ub2e4\uba74...<E>",
+    "message": "이 얼빠진 도마뱀을 제크라는 사람에게서 샀는데 그가 아주 비싼 거라고 했어요, 하지만 거짓말 한 것 같아요.<P>쓸모가 없어요! 묘기나 물건을 집어오라고 가르치려고 했는데 말을 잘 듣지 않아요!<P>이것으로는 여자친구에게 멋있게 보이지 못하겠네요.<P>여자친구에게 멋있게 보일 만한 것을 찾을 수만 있다면...<E>",
     "description": "SphinxText.xls, row 1794"
   },
   "HT_Text_Aby_Canal_LizardOwner_GotMedal": {
-    "message": "\uc7a0\uae50! \uadf8\uac83\uc740 \uac8c\uc784 \uba54\ub2ec\uc778\uac00\uc694? \uc6b0\uc640!<P>\uadf8\uac83\uc744 \ub124 \uac1c \ubaa8\ub450 \ubaa8\uc73c\uba74, \uc774 \uc4f8\ubaa8\uc5c6.., \uc544, \uc544\uc8fc \uc4f8\ubaa8 \uc788\ub294 \ub3c4\ub9c8\ubc40\ud558\uace0 \uad50\ud658\ud558\uc8e0!<P>\uc5b4\ub54c\uc694?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "잠깐! 그것은 게임 메달인가요? 우와!<P>그것을 네 개 모두 모으면, 이 쓸모없.., 아, 아주 쓸모 있는 도마뱀하고 교환하죠!<P>어때요?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1795"
   },
   "HT_Text_Aby_Canal_LizardOwner_GotMedals": {
-    "message": "\uc7a0\uae50! \uadf8\uac83\ub4e4\uc740 \uac8c\uc784 \uba54\ub2ec\ub4e4\uc778\uac00\uc694? \uc6b0\uc640!<P>\uadf8\uac83\ub4e4\uc744 \ub124 \uac1c \ubaa8\ub450 \ubaa8\uc73c\uba74, \uc774 \uc4f8\ubaa8\uc5c6..., \uc544, \uc544\uc8fc \uc4f8\ubaa8 \uc788\ub294 \ub3c4\ub9c8\ubc40\ud558\uace0 \uad50\ud658\ud558\uc8e0!<P>\uc5b4\ub54c\uc694?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "잠깐! 그것들은 게임 메달들인가요? 우와!<P>그것들을 네 개 모두 모으면, 이 쓸모없..., 아, 아주 쓸모 있는 도마뱀하고 교환하죠!<P>어때요?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1796"
   },
   "HT_Text_Aby_Canal_LizardOwner_ItsADeal": {
-    "message": "\uc88b\uc544\uc694! \ub2e4 \ubaa8\uc73c\uba74 \ub3cc\uc544\uc640\uc918\uc694!<E>",
+    "message": "좋아요! 다 모으면 돌아와줘요!<E>",
     "description": "SphinxText.xls, row 1797"
   },
   "HT_Text_Aby_Canal_LizardOwner_NoDeal": {
-    "message": "\uc815\ub9d0\uc774\uc5d0\uc694? \ubd10\uc694, \uc774 \ub3c4\ub9c8\ubc40\uc774 \uc5bc\ub9c8\ub098 \ucd08\ub85d\uc774\uace0 \uc74c... \ub3c4\ub9c8\ubc40\ub2e4\uc6b4\uc9c0! \uc544\ub2c8\ub77c\uad6c\uc694? \uca5d, \uc800\uc758 \uc81c\uc548\uc740 \ud56d\uc0c1 \uc720\ud6a8\ud569\ub2c8\ub2e4.<E>",
+    "message": "정말이에요? 봐요, 이 도마뱀이 얼마나 초록이고 음... 도마뱀다운지! 아니라구요? 쩝, 저의 제안은 항상 유효합니다.<E>",
     "description": "SphinxText.xls, row 1798"
   },
   "HT_Text_Aby_Canal_LizardOwner_AskDeal": {
-    "message": "\uc0dd\uac01\uc744 \ubc14\uafb8\uc168\ub098\uc694? \ub0b4 \ub3c4\ub9c8\ubc40\uacfc \uac8c\uc784 \uba54\ub2ec\ub4e4\uc744 \uad50\ud658\ud558\uace0 \uc2f6\uc740\uac00\uc694?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "생각을 바꾸셨나요? 내 도마뱀과 게임 메달들을 교환하고 싶은가요?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1799"
   },
   "HT_Text_Aby_Canal_LizardOwner_NotGotAll": {
-    "message": "\uc544\uc9c1 \ub2e4 \ubabb \ubaa8\uc558\ub098\uc694? \uca5d, \ub2e4 \ubaa8\uc73c\uba74 \ub098\ub97c \ucc3e\uc544\uc624\uc138\uc694.<E>",
+    "message": "아직 다 못 모았나요? 쩝, 다 모으면 나를 찾아오세요.<E>",
     "description": "SphinxText.xls, row 1800"
   },
   "HT_Text_Aby_Canal_LizardOwner_DoDeal": {
-    "message": "\ub2e4 \ubaa8\uc558\uad70\uc694! \uc6b0\uc640! \uc9c0\uae08 \uad50\ud658\ud558\uace0 \uc2f6\uc740\uac00\uc694?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "message": "다 모았군요! 우와! 지금 교환하고 싶은가요?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
     "description": "SphinxText.xls, row 1801"
   },
   "HT_Text_Aby_Canal_LizardOwner_NotYet": {
-    "message": "\uc544\uc9c1 \uc544\ub2c8\ub77c\uad6c\uc694? \uc800\ub7f0, \uad50\ud658\ud560 \uc900\ube44\uac00 \ub418\uba74, \ub098\ub97c \ucc3e\uc544\uc624\uc138\uc694.<E>",
+    "message": "아직 아니라구요? 저런, 교환할 준비가 되면, 나를 찾아오세요.<E>",
     "description": "SphinxText.xls, row 1802"
   },
   "HT_Text_Aby_Canal_LizardOwner_Swapped": {
-    "message": "\uc88b\uc544! \ub0b4 \uc5ec\uc790\uce5c\uad6c\uac00 \uc815\ub9d0 \uac10\ub3d9\ubc1b\uc744 \uac70\uc57c!<E>",
+    "message": "좋아! 내 여자친구가 정말 감동받을 거야!<E>",
     "description": "SphinxText.xls, row 1803"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished01": {
-    "message": "\uc774 \uba54\ub2ec\ub4e4\uc740 \ub300\ub2e8\ud574\uc694. \ub0b4 \uc5ec\uc790\uce5c\uad6c\uac00 \ub180\ub784 \uac70\uc57c!<E>",
+    "message": "이 메달들은 대단해요. 내 여자친구가 놀랄 거야!<E>",
     "description": "SphinxText.xls, row 1804"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished02": {
-    "message": "\uc774 \uba54\ub2ec\ub4e4\uc744 \uc704\ud574\uc11c \uc804\uc2dc\uc7a5\uc744 \uc7a5\ub9cc\ud574\uc57c\uaca0\uad70.<E>",
+    "message": "이 메달들을 위해서 전시장을 장만해야겠군.<E>",
     "description": "SphinxText.xls, row 1805"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished03": {
-    "message": "\uadf8 \uc5b4\ucc98\uad6c\ub2c8\uc5c6\ub294 \uc57d\ud0c8\uc0ac\uac74 \uc774\ud6c4 \ubc15\ubb3c\uad00\uc740 \uc5b4\ub5a4\uc9c0 \uad81\uae08\ud558\uad70?<E>",
+    "message": "그 어처구니없는 약탈사건 이후 박물관은 어떤지 궁금하군?<E>",
     "description": "SphinxText.xls, row 1806"
   },
   "HT_Text_Aby_Canal_Posh_Introduction01": {
-    "message": "\uc774\ub7f0, \uc774\ub7f0! \uc774\ubc29\uc778\uc774\ub77c! \uc5ec\uae30\uc5d0 \uc5b4\ub5bb\uac8c \uc654\ub294\uc9c0 \uc815\ub9d0 \uad81\uae08\ud558\uad70.<E>",
+    "message": "이런, 이런! 이방인이라! 여기에 어떻게 왔는지 정말 궁금하군.<E>",
     "description": "SphinxText.xls, row 1807"
   },
   "HT_Text_Aby_Canal_Posh_Introduction02": {
-    "message": "\ub180\ub78d\uad70! \uc800 \ucabd\uc5d0\ub294 \ubc30\ub3c4 \uc5c6\uace0 \uc804\uae30\uac00 \ud750\ub974\ub294 \ubb3c\uc744 \ud5e4\uc5c4\uccd0 \uc62c \uc218\ub3c4 \uc5c6\uc5c8\uc744 \ud150\ub370!<E>",
+    "message": "놀랍군! 저 쪽에는 배도 없고 전기가 흐르는 물을 헤엄쳐 올 수도 없었을 텐데!<E>",
     "description": "SphinxText.xls, row 1808"
   },
   "HT_Text_Aby_Canal_Posh_Introduction03": {
-    "message": "<FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC>\ub294 \uc6d0\ub798 \ubc88\ucc3d\ud558\uace0 \ud3c9\ud654\ub85c\uc6b4 \ub3c4\uc2dc\uc600\uc5b4. \uc800 \uc804\uae30\ubc40\uc7a5\uc5b4\ub4e4\uc774 \ub098\ud0c0\ub098\uae30 \uc804\uae4c\uc9c0\ub294.<E>",
+    "message": "<FC 128,64,0>아비도스<END FC>는 원래 번창하고 평화로운 도시였어. 저 전기뱀장어들이 나타나기 전까지는.<E>",
     "description": "SphinxText.xls, row 1809"
   },
   "HT_Text_Aby_Canal_Posh_Introduction04": {
-    "message": "\ub204\uad6c\ub3c4 \uc800\ub4e4\uc774 \uc5b4\ub514\uc11c \uc654\ub294\uc9c0 \ubaa8\ub974\uc9c0. \ud558\uc9c0\ub9cc \uc800\ub4e4 \ub54c\ubb38\uc5d0 \ub3c4\uc2dc\uac00 \uc228\uc744 \uc8fd\uc774\uace0 \uc788\ub2e4\uad6c!<E>",
+    "message": "누구도 저들이 어디서 왔는지 모르지. 하지만 저들 때문에 도시가 숨을 죽이고 있다구!<E>",
     "description": "SphinxText.xls, row 1810"
   },
   "HT_Text_Aby_Canal_Posh_Hint1": {
-    "message": "\ub204\uad70\uac00 \uc6b0\ubb3c\uc5d0 \ubb54\uac00\ub97c \ub5a8\uc5b4\ub728\ub838\ub2e4\uace0 \ub4e4\uc5c8\uc5b4. \uadf8\uac8c \ubb58\uae4c?<E>",
+    "message": "누군가 우물에 뭔가를 떨어뜨렸다고 들었어. 그게 뭘까?<E>",
     "description": "SphinxText.xls, row 1811"
   },
   "HT_Text_Aby_Canal_Posh_Hint2": {
-    "message": "\ud56d\uc544\ub9ac\uc5d0\ub294 \ub54c\ub54c\ub85c \ud765\ubbf8 \uc788\ub294 \uac83\ub4e4\uc774 \ub2f4\uaca8 \uc788\uc5b4.<E>",
+    "message": "항아리에는 때때로 흥미 있는 것들이 담겨 있어.<E>",
     "description": "SphinxText.xls, row 1812"
   },
   "HT_Text_Aby_Canal_Posh_Mayor01": {
-    "message": "<EFF><EPO>\uc5b4\ub5a1\ud558\uc9c0? \uc2dc\uc7a5\uc774 \uc544\ud504\ub2e4\ub2c8! \ubb50\uac00 \uc798\ubabb\ub41c \uac78\uae4c?<P>\uace7 \uadf8\ub294 <FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uad00<END FC>\uc744 \uba38\ub9ac\uc5d0 \uc4f0\uc9c0 \ubabb\ud560 \uc815\ub3c4\ub85c \uc544\ud504\uac8c \ub420 \uac70\uc57c!<E>",
+    "message": "<EFF><EPO>어떡하지? 시장이 아프다니! 뭐가 잘못된 걸까?<P>곧 그는 <FC 0,128,0>아비도스의 성스러운 관<END FC>을 머리에 쓰지 못할 정도로 아프게 될 거야!<E>",
     "description": "SphinxText.xls, row 1813"
   },
   "HT_Text_Aby_Canal_Posh_Mayor02": {
-    "message": "\uad34\ubb3c\ub4e4, \uc804\ub958\uac00 \ud750\ub974\ub294 \ubb3c \uadf8\ub9ac\uace0 \uc774\uc820 \uc2dc\uc7a5\uae4c\uc9c0! \uc815\ub9d0 \ucd5c\uc545\uc758 \uacbd\uc6b0\uad70!<E>",
+    "message": "괴물들, 전류가 흐르는 물 그리고 이젠 시장까지! 정말 최악의 경우군!<E>",
     "description": "SphinxText.xls, row 1814"
   },
   "HT_Text_Aby_Canal_Posh_Mayor03": {
-    "message": "\ub9cc\uc57d \uc2dc\uc7a5\uc774 \ubcd1\ud658\uc5d0\uc11c \uace7 \ud68c\ubcf5\ub418\uc9c0 \uc54a\ub294\ub2e4\uba74 \ub204\uac00 \ucc45\uc784\uc744 \ub9e1\uac8c \ub420 \uac83\uc778\uc9c0 \uad81\uae08\ud558\uad70?<E>",
+    "message": "만약 시장이 병환에서 곧 회복되지 않는다면 누가 책임을 맡게 될 것인지 궁금하군?<E>",
     "description": "SphinxText.xls, row 1815"
   },
   "HT_Text_Aby_Canal_Posh_Mayor04": {
-    "message": "\uc758\ud68c\uc758 \uc758\uc0ac\uac00 \uc2dc\uc7a5\uc744 \ub3c4\uc6b8 \uc218 \uc788\uae30\ub97c \ubc14\ub780\ub2e4.<E>",
+    "message": "의회의 의사가 시장을 도울 수 있기를 바란다.<E>",
     "description": "SphinxText.xls, row 1816"
   },
   "HT_Text_Aby_Canal_Posh_MayorCured01": {
-    "message": "\uc2dc\uc7a5\uc774 \uce58\ub8cc\ub418\uc5c8\ub2e4\uace0? \ud589\uc6b4\uc774\uad70!<E>",
+    "message": "시장이 치료되었다고? 행운이군!<E>",
     "description": "SphinxText.xls, row 1817"
   },
   "HT_Text_Aby_Canal_Posh_Defeated01": {
-    "message": "\uc2dc\uc7a5\uc758 \uc870\uc5b8\uc790\ub4e4\uc774 \ubc30\uc2e0\uc790\ub4e4\uc774\uc5c8\ub2e4\ub2c8 \ub204\uac00 \uc0dd\uac01\uc774\ub098 \ud588\uaca0\uc5b4?<E>",
+    "message": "시장의 조언자들이 배신자들이었다니 누가 생각이나 했겠어?<E>",
     "description": "SphinxText.xls, row 1818"
   },
   "HT_Text_Aby_Canal_Posh_Defeated02": {
-    "message": "\uc774\uc81c \uc2dc\uc7a5\uc774 \uadf8\uc758 \ub098\uc05c \uc870\uc5b8\uc790\ub4e4\uc744 \uc81c\uac70\ud588\uc73c\ub2c8, \ub3c4\uc2dc\ub97c \uc815\ub9ac\ud560 \uc9c0\ub3c4...<E>",
+    "message": "이제 시장이 그의 나쁜 조언자들을 제거했으니, 도시를 정리할 지도...<E>",
     "description": "SphinxText.xls, row 1819"
   },
   "HT_Text_Aby_Canal_Posh_Defeated03": {
-    "message": "\uc2dc\uc7a5\uc740 \uc774 \ubaa8\ub4e0 \uacfc\uc815\uc744 \ud1b5\ud574 \ub9e4\uc6b0 \uc6a9\uac10\ud588\ub2e4\uace0 \uc0dd\uac01\ud574.<E>",
+    "message": "시장은 이 모든 과정을 통해 매우 용감했다고 생각해.<E>",
     "description": "SphinxText.xls, row 1820"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block01": {
-    "message": "\ubbf8\uc548\ud558\uc9c0\ub9cc <FC 128,64,0>\uc544\ube44\ub3c4\uc2a4<END FC> \ubcf4\uc11d \ubc15\ub78c\ud68c \uc900\ube44\uac00 \ub05d\ub0a0 \ub54c\uae4c\uc9c0 \ubc15\ubb3c\uad00\uc5d0\ub294 \ub4e4\uc5b4\uac00\uac8c \ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.<P>\ub2e4\uc74c\uc5d0 \ub2e4\uc2dc \uc640 \uc8fc\uc2ed\uc2dc\uc624.<E>",
+    "message": "미안하지만 <FC 128,64,0>아비도스<END FC> 보석 박람회 준비가 끝날 때까지 박물관에는 들어가게 할 수 없습니다.<P>다음에 다시 와 주십시오.<E>",
     "description": "SphinxText.xls, row 1821"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block02": {
-    "message": "\ubbf8\uc548\ud569\ub2c8\ub2e4, \ubc15\ubb3c\uad00\uc73c\ub85c \ub4e4\uc5ec\ubcf4\ub0bc \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.<E>",
+    "message": "미안합니다, 박물관으로 들여보낼 수 없습니다.<E>",
     "description": "SphinxText.xls, row 1822"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block03": {
-    "message": "\uc774\ubbf8 \ub4e4\uc5b4\uac00\uc2e4 \uc218 \uc5c6\ub2e4\uace0 \ub9d0\uc500 \ub4dc\ub838\uc2b5\ub2c8\ub2e4.<P>\ub098\uc911\uc5d0 \ubcf4\uc11d \ubc15\ub78c\ud68c\ub97c \uc5f4 \ub54c \ub2e4\uc2dc \uc640\uc8fc\uc2ed\uc2dc\uc624.<E>",
+    "message": "이미 들어가실 수 없다고 말씀 드렸습니다.<P>나중에 보석 박람회를 열 때 다시 와주십시오.<E>",
     "description": "SphinxText.xls, row 1823"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open01": {
-    "message": "\ubc15\ubb3c\uad00\uc744 \uc990\uae30\uc2ed\uc2dc\uc624.<E>",
+    "message": "박물관을 즐기십시오.<E>",
     "description": "SphinxText.xls, row 1824"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open02": {
-    "message": "\uac00\ubcf4\uc2ed\uc2dc\uc624.<E>",
+    "message": "가보십시오.<E>",
     "description": "SphinxText.xls, row 1825"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open03": {
-    "message": "\uc88b\uc740 \ud558\ub8e8 \ubcf4\ub0b4\uc2ed\uc2dc\uc624.<E>",
+    "message": "좋은 하루 보내십시오.<E>",
     "description": "SphinxText.xls, row 1826"
   },
   "HT_Text_Aby_Canal_Juggler01": {
-    "message": "\ub9d0 \uc2dc\ud0a4\uc9c0\ub9c8! \ub108 \ub54c\ubb38\uc5d0 \uacf5\ub4e4\uc744 \ub5a8\uc5b4\ub728\ub838\uc796\uc544!<E>",
+    "message": "말 시키지마! 너 때문에 공들을 떨어뜨렸잖아!<E>",
     "description": "SphinxText.xls, row 1827"
   },
   "HT_Text_Aby_Canal_Juggler02": {
-    "message": "\ub9d0 \uac78\uc9c0\ub9c8! \uc0ac\ub78c\ub4e4\uc774 \ub9d0\uc744 \uac78\uba74 \uacf5\uc744 \ub5a8\uc5b4\ub728\ub9b0\ub2e8 \ub9d0\uc774\uc57c!<E>",
+    "message": "말 걸지마! 사람들이 말을 걸면 공을 떨어뜨린단 말이야!<E>",
     "description": "SphinxText.xls, row 1828"
   },
   "HT_Text_Aby_Canal_PearlMan01": {
-    "message": "\uc544\ub0b4\uc758 \uc9c4\uc8fc \ubaa9\uac78\uc774\ub97c \uc783\uc5b4\ubc84\ub9b0 \uac83\uc744 \uc54c\uba74 \uc544\ub0b4\uac00 \ub098\ub97c \uac00\ub9cc\ub450\uc9c0 \uc54a\uc744 \uac70\uc57c! <P>\ub0b4\uac00 \uc0c8\ub85c \uc0b0 \ubaa9\uac78\uc774\uc5d0 \uc9c4\uc8fc\uac00 \uc138 \uac1c\uac00 \ubd80\uc871\ud558\ub2e4\ub294 \uac83\uc744 \ub208\uce58\ucc4c \uac70\uc57c!<P>\uc774\ubd10, <FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc9c4\uc8fc\ub4e4<END FC> \uc911 \ud558\ub098\ub77c\ub3c4 \ucc3e\uac8c \ub418\uba74, \ub098\uc5d0\uac8c \uc54c\ub824\uc918! <E>",
+    "message": "아내의 진주 목걸이를 잃어버린 것을 알면 아내가 나를 가만두지 않을 거야! <P>내가 새로 산 목걸이에 진주가 세 개가 부족하다는 것을 눈치챌 거야!<P>이봐, <FC 0,128,0>아비도스의 진주들<END FC> 중 하나라도 찾게 되면, 나에게 알려줘! <E>",
     "description": "SphinxText.xls, row 1829"
   },
   "HT_Text_Aby_Canal_PearlMan02": {
-    "message": "<FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc9c4\uc8fc\ub4e4<END FC> \uc911 \ud558\ub098\ub77c\ub3c4 \ucc3e\uc558\ub098? \uc544\ub2c8\ub77c\uad6c? \uc800\ub7f0, \uacc4\uc18d \ucc3e\uc544\ubd10!<E>",
+    "message": "<FC 0,128,0>아비도스의 진주들<END FC> 중 하나라도 찾았나? 아니라구? 저런, 계속 찾아봐!<E>",
     "description": "SphinxText.xls, row 1830"
   },
   "HT_Text_Aby_Canal_PearlMan03": {
-    "message": "<FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc9c4\uc8fc<END FC> \ud558\ub098\ub97c \ucc3e\uc558\uad70?! \uace0\ub9c8\uc6cc! \ub450 \uac1c\ub9cc \ub354 \uc788\uc73c\uba74 \ub09c \uc0b4\uc558\ub2e4\uad6c!<E>",
+    "message": "<FC 0,128,0>아비도스의 진주<END FC> 하나를 찾았군?! 고마워! 두 개만 더 있으면 난 살았다구!<E>",
     "description": "SphinxText.xls, row 1831"
   },
   "HT_Text_Aby_Canal_PearlMan04": {
-    "message": "\ub610 \ub2e4\ub978 <FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc9c4\uc8fc<END FC>? \uc815\ub9d0 \uace0\ub9c8\uc6cc \uce5c\uad6c! \ud558\uc9c0\ub9cc \uc544\uc9c1 \ud55c \uac1c \ub354 \ud544\uc694\ud574!<E>",
+    "message": "또 다른 <FC 0,128,0>아비도스의 진주<END FC>? 정말 고마워 친구! 하지만 아직 한 개 더 필요해!<E>",
     "description": "SphinxText.xls, row 1832"
   },
   "HT_Text_Aby_Canal_PearlMan05": {
-    "message": "<FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc9c4\uc8fc\ub4e4<END FC>\uc774 \ub450 \uac1c? \uace0\ub9c8\uc6cc! \uc815\ub9d0 \uace0\ub9c8\uc6cc! \ud558\uc9c0\ub9cc \uc544\uc9c1 \ud558\ub098 \ub354 \ud544\uc694\ud574...<E>",
+    "message": "<FC 0,128,0>아비도스의 진주들<END FC>이 두 개? 고마워! 정말 고마워! 하지만 아직 하나 더 필요해...<E>",
     "description": "SphinxText.xls, row 1833"
   },
   "HT_Text_Aby_Canal_PearlMan06": {
-    "message": "\ub2e4\ub978 <FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc9c4\uc8fc\ub4e4<END FC>\uc744 \ucc3e\uc558\ub098? \uc544\uc9c1?<E>",
+    "message": "다른 <FC 0,128,0>아비도스의 진주들<END FC>을 찾았나? 아직?<E>",
     "description": "SphinxText.xls, row 1834"
   },
   "HT_Text_Aby_Canal_PearlMan07": {
-    "message": "\uadf8\ub798, <FC 0,128,0>\uc544\ube44\ub3c4\uc2a4\uc758 \uc9c4\uc8fc\ub4e4<END FC> \uc138 \uac1c\uad70! \uace0\ub9c8\uc6cc! \uc6d0\ud558\uba74 \uc704\uce35\uc758 \ud1b5\ub85c\uc758 \ubb38\uc744 \uc774 \uc5f4\uc1e0\ub97c \uc774\uc6a9\ud558\uc5ec \uc5f4 \uc218 \uc788\uc5b4.<P>\ub0b4 \uc544\ub0b4\uc640 \ud568\uaed8 \ubc15\ubb3c\uad00\uc758 \ubcf4\uc11d \uc218\uc9d1\uc744 \ubcf4\ub7ec \uc62c \ub54c \uc774 \ubaa9\uac78\uc774\ub97c \ud558\uba74 \uc88b\uc544\ud560 \uac70\uc57c.<E>",
+    "message": "그래, <FC 0,128,0>아비도스의 진주들<END FC> 세 개군! 고마워! 원하면 위층의 통로의 문을 이 열쇠를 이용하여 열 수 있어.<P>내 아내와 함께 박물관의 보석 수집을 보러 올 때 이 목걸이를 하면 좋아할 거야.<E>",
     "description": "SphinxText.xls, row 1835"
   },
   "HT_Text_Aby_Cana_ClosedDoors1": {
-    "message": "\ubb54\uc9c0 \ubaa8\ub974\uaca0\uc9c0\ub9cc, \uc548 \uc0b0\ub2e4\uad6c\uc694! <E>",
+    "message": "뭔지 모르겠지만, 안 산다구요! <E>",
     "description": "SphinxText.xls, row 1836"
   },
   "HT_Text_Aby_Cana_ClosedDoors2": {
-    "message": "\ubc14\uc058\ub2c8\uae4c \uac00 \ubd10! <E>",
+    "message": "바쁘니까 가 봐! <E>",
     "description": "SphinxText.xls, row 1837"
   },
   "HT_Text_Aby_Cana_ClosedDoors3": {
-    "message": "\uc800\ub141\uc2dd\uc0ac \uc911\uc774\uc57c, \ub098\uc911\uc5d0 \uc640! <E>",
+    "message": "저녁식사 중이야, 나중에 와! <E>",
     "description": "SphinxText.xls, row 1838"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick1": {
-    "message": "\uc624\uc624\uc624\uc624\uc624...<E>",
+    "message": "오오오오오...<E>",
     "description": "SphinxText.xls, row 1880"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick2": {
-    "message": "\uc544\uc544\uc544\uc544\uc544...<E>",
+    "message": "아아아아아...<E>",
     "description": "SphinxText.xls, row 1881"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick3": {
-    "message": "\ube0c\ub974\ub974\ub974\ub974...<E>",
+    "message": "브르르르르...<E>",
     "description": "SphinxText.xls, row 1882"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Recover": {
-    "message": "\uc774\uc81c \ud6e8\uc52c \uad1c\ucc2e\uad70, \uace0\ub9c8\uc6cc! \ub0b4\uac00 \uae30\uc6b4\uc744 \ucc28\ub9b4 \ub3d9\uc548 \ubc14\uae65 \ubc29\uc5d0\uc11c \uae30\ub2e4\ub9ac\uba74 \ub0b4\uac00 \uac00\uc11c \ubcf4\uc0c1\uc744 \ud558\uc9c0 <E>",
+    "message": "이제 훨씬 괜찮군, 고마워! 내가 기운을 차릴 동안 바깥 방에서 기다리면 내가 가서 보상을 하지 <E>",
     "description": "SphinxText.xls, row 1883"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved1": {
-    "message": "\ub0b4\uac00 \ubbff\uc5c8\ub358 \uc870\uc5b8\uc790\ub4e4\uc774 \ub098\ub97c \uadf8\ub807\uac8c \ubc30\uc2e0\ud588\ub2e4\ub2c8 \ubbff\uc744 \uc218 \uc5c6\uad70!<E>",
+    "message": "내가 믿었던 조언자들이 나를 그렇게 배신했다니 믿을 수 없군!<E>",
     "description": "SphinxText.xls, row 1884"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved2": {
-    "message": "\uc694\uc998\uc740 \ubbff\uc744 \ub9cc\ud55c \uc870\uc5b8\uc790\ub4e4\uc744 \ucc3e\ub294 \uac8c \ub108\ubb34 \ud798\ub4e4\uc5b4!<E>",
+    "message": "요즘은 믿을 만한 조언자들을 찾는 게 너무 힘들어!<E>",
     "description": "SphinxText.xls, row 1885"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted1": {
-    "message": "\uc694\uc998\uc740 \uc815\uc9c1\ud55c \uc870\uc5b8\uc790\ub4e4\uc744 \uc5bb\ub294 \uac8c \ub108\ubb34 \ud798\ub4e4\uc5b4.<E>",
+    "message": "요즘은 정직한 조언자들을 얻는 게 너무 힘들어.<E>",
     "description": "SphinxText.xls, row 1889"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted2": {
-    "message": "\uc774\uc81c \uc655\uad00\uc740 \uc548\uc804\ud558\uace0 \ub098\ub294 \uce58\ub8cc\ub418\uc5c8\uc73c\ubbc0\ub85c, \uc804\ub958\uac00 \ud750\ub974\ub294 \ubb3c\uc758 \ubb38\uc81c\ub97c \ud574\uacb0\ud558\ub294 \uac83\uc5d0 \uc9d1\uc911\ud560 \uc218 \uc788\uaca0\uad70.<E>",
+    "message": "이제 왕관은 안전하고 나는 치료되었으므로, 전류가 흐르는 물의 문제를 해결하는 것에 집중할 수 있겠군.<E>",
     "description": "SphinxText.xls, row 1890"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted3": {
-    "message": "\uadf8 \ub3d9\uc0c1 \ubc11\uc5d0 \uc9c0\ud558 \ub3d9\uad74\uc774 \uc788\uc5c8\ub2e4\ub294 \uac83\uc740 \uc804\ud600 \ubab0\ub790\uad70. \ub3c4\uc2dc\uc5d0 \ubb34\uc5c7\uc774 \ub610 \uc228\uaca8\uc838 \uc788\ub294\uc9c0 \ub3c4\uc2dc \uacc4\ud68d\uc744 \uc810\uac80\ud574\uc57c \ud560\uc9c0\ub3c4 \ubaa8\ub974\uaca0\uad70.<E>",
+    "message": "그 동상 밑에 지하 동굴이 있었다는 것은 전혀 몰랐군. 도시에 무엇이 또 숨겨져 있는지 도시 계획을 점검해야 할지도 모르겠군.<E>",
     "description": "SphinxText.xls, row 1891"
   }
 }

@@ -20,23 +20,23 @@
     "description": "SphinxText.xls, row 2626"
   },
   "HT_Text_BOS_Monster_DR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Cuanto mejor sea el nivel de defensa del monstruo, mejor resistir\u00e1 el ataque durante la batalla.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Cuanto mejor sea el nivel de defensa del monstruo, mejor resistirá el ataque durante la batalla.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2627"
   },
   "HT_Text_BOS_Monster_AR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Cuanto mejor sea el nivel de ataque del monstruo, mayor ser\u00e1 el da\u00f1o que infligir\u00e1 a sus oponentes.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Cuanto mejor sea el nivel de ataque del monstruo, mayor será el daño que infligirá a sus oponentes.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2628"
   },
   "HT_Text_BOS_Monster_Health_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Esta es la salud del monstruo. Si el monstruo pierde toda su salud, no podr\u00e1s liberar de nuevo un monstruo de esta especie, hasta que captures otro, \u00a1claro!<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>Esta es la salud del monstruo. Si el monstruo pierde toda su salud, no podrás liberar de nuevo un monstruo de esta especie, hasta que captures otro, ¡claro!<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2629"
   },
   "HT_Text_BOS_Monster_NoMoves": {
-    "message": "<ES HT_Text_ES_S_BOSStd>No tienes m\u00e1s movimientos para seleccionar.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>No tienes más movimientos para seleccionar.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2630"
   },
   "HT_Text_BOS_Monster_NoMonsters": {
-    "message": "<ES HT_Text_ES_S_BOSStd>No tienes ning\u00fan monstruo.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>No tienes ningún monstruo.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2631"
   }
 }

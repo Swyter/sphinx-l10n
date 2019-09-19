@@ -1,1002 +1,1002 @@
 {
   "HT_Text_Inv_BladeOfOsiris": {
-    "message": "\uc624\uc2dc\ub9ac\uc2a4\uc758 \uac80",
+    "message": "오시리스의 검",
     "description": "SphinxText.xls, row 2207"
   },
   "HT_Text_Inv_AncientClaws": {
-    "message": "\uace0\ub300\uc758 \ubc1c\ud1b1",
+    "message": "고대의 발톱",
     "description": "SphinxText.xls, row 2208"
   },
   "HT_Text_Inv_OnyxOfIsis": {
-    "message": "\uc774\uc2dc\uc2a4\uc758 \uc624\ub2c9\uc2a4",
+    "message": "이시스의 오닉스",
     "description": "SphinxText.xls, row 2209"
   },
   "HT_Text_Inv_WingsOfIbis": {
-    "message": "\uc774\ube44\uc2a4\uc758 \ub0a0\uac1c",
+    "message": "이비스의 날개",
     "description": "SphinxText.xls, row 2210"
   },
   "HT_Text_Inv_Blowpipe": {
-    "message": "\ucde8\uad00",
+    "message": "취관",
     "description": "SphinxText.xls, row 2211"
   },
   "HT_Text_Inv_ElectricAnkh": {
-    "message": "\uc804\uae30 \uc559\ud06c",
+    "message": "전기 앙크",
     "description": "SphinxText.xls, row 2212"
   },
   "HT_Text_Inv_OxygenAnkh": {
-    "message": "\uc0b0\uc18c \uc559\ud06c",
+    "message": "산소 앙크",
     "description": "SphinxText.xls, row 2213"
   },
   "HT_Text_Inv_CrocodileScales": {
-    "message": "\uc545\uc5b4 \ube44\ub298\ub4e4",
+    "message": "악어 비늘들",
     "description": "SphinxText.xls, row 2214"
   },
   "HT_Text_Inv_UnderwaterProjectile": {
-    "message": "\uc218\uc911 \ubc1c\uc0ac\uae30",
+    "message": "수중 발사기",
     "description": "SphinxText.xls, row 2215"
   },
   "HT_Text_Inv_HandsOfAmun": {
-    "message": "\uc544\ubb38\uc758 \uc190",
+    "message": "아문의 손",
     "description": "SphinxText.xls, row 2216"
   },
   "HT_Text_Inv_ScrollOfSokar": {
-    "message": "\uc18c\uce74\ub974\uc758 \ub450\ub8e8\ub9c8\uae30",
+    "message": "소카르의 두루마기",
     "description": "SphinxText.xls, row 2217"
   },
   "HT_Text_Inv_ScarabPurse": {
-    "message": "\uc2a4\uce90\ub7fd \uac00\ubc29",
+    "message": "스캐럽 가방",
     "description": "SphinxText.xls, row 2218"
   },
   "HT_Text_Inv_ScarabPurse2": {
-    "message": "\ub300\ud615 \uc2a4\uce90\ub7fd \uac00\ubc29",
+    "message": "대형 스캐럽 가방",
     "description": "SphinxText.xls, row 2219"
   },
   "HT_Text_Inv_BeetlePouch": {
-    "message": "\ub531\uc815\ubc8c\ub808 \uc8fc\uba38\ub2c8",
+    "message": "딱정벌레 주머니",
     "description": "SphinxText.xls, row 2220"
   },
   "HT_Text_Inv_DartBelt": {
-    "message": "\ub2e4\ud2b8 \ud601\ub300",
+    "message": "다트 혁대",
     "description": "SphinxText.xls, row 2221"
   },
   "HT_Text_Inv_RosettaTablePiece": {
-    "message": "\ub85c\uc81c\ud0c0 \ud0c1\uc0c1 \uc870\uac01",
+    "message": "로제타 탁상 조각",
     "description": "SphinxText.xls, row 2222"
   },
   "HT_Text_Inv_BeetleStachel": {
-    "message": "\ub531\uc815\ubc8c\ub808 \uc791\uc740 \uac00\ubc29",
+    "message": "딱정벌레 작은 가방",
     "description": "SphinxText.xls, row 2223"
   },
   "HT_Text_Inv_WingsOfRa": {
-    "message": "\ub77c\uc758 \ub0a0\uac1c",
+    "message": "라의 날개",
     "description": "SphinxText.xls, row 2224"
   },
   "HT_Text_Inv_ClawUpgrade": {
-    "message": "\ubc1c\ud1b1 \uc5c5\uadf8\ub808\uc774\ub4dc",
+    "message": "발톱 업그레이드",
     "description": "SphinxText.xls, row 2225"
   },
   "HT_Text_Inv_HandsOfAmunRa": {
-    "message": "\uc544\ubb38 \ub77c\uc758 \uc190",
+    "message": "아문 라의 손",
     "description": "SphinxText.xls, row 2226"
   },
   "HT_Text_Inv_ShieldOfOsiris": {
-    "message": "\uc624\uc2dc\ub9ac\uc2a4\uc758 \ubc29\ud328",
+    "message": "오시리스의 방패",
     "description": "SphinxText.xls, row 2227"
   },
   "HT_Text_Inv_RingOfMaat": {
-    "message": "\ub9c8\ud2b8\uc758 \uace0\ub9ac",
+    "message": "마트의 고리",
     "description": "SphinxText.xls, row 2228"
   },
   "HT_Text_Inv_SnakeCollar": {
-    "message": "\ubc40 \ubaa9\uac78\uc774",
+    "message": "뱀 목걸이",
     "description": "SphinxText.xls, row 2229"
   },
   "HT_Text_Inv_SandsOfTime": {
-    "message": "\uc2dc\uac04\uc758 \ubaa8\ub798",
+    "message": "시간의 모래",
     "description": "SphinxText.xls, row 2230"
   },
   "HT_Text_Inv_BasKetPaddle": {
-    "message": "\ubc14\uc2a4\ucf13 \ud328\ub4e4",
+    "message": "바스켓 패들",
     "description": "SphinxText.xls, row 2231"
   },
   "HT_Text_Inv_BasKetGrapple": {
-    "message": "\ubc14\uc2a4\ucf13 \uc7a1\uae30",
+    "message": "바스켓 잡기",
     "description": "SphinxText.xls, row 2232"
   },
   "HT_Text_Inv_WingsOfThoth": {
-    "message": "\ud1a0\ud2b8\uc758 \ub0a0\uac1c",
+    "message": "토트의 날개",
     "description": "SphinxText.xls, row 2233"
   },
   "HT_Text_Inv_NoteFromNefertiti": {
-    "message": "\ub124\ud37c\ub974\ud2f0\ud2f0\ub85c\ubd80\ud130\uc758 \ucabd\uc9c0",
+    "message": "네퍼르티티로부터의 쪽지",
     "description": "SphinxText.xls, row 2234"
   },
   "HT_Text_Inv_Crown": {
-    "message": "\uc655\uad00",
+    "message": "왕관",
     "description": "SphinxText.xls, row 2235"
   },
   "HT_Text_Inv_BookOfTheDead": {
-    "message": "\uc0ac\uc790\uc758 \uc11c",
+    "message": "사자의 서",
     "description": "SphinxText.xls, row 2236"
   },
   "HT_Text_Inv_Lizard": {
-    "message": "\uc5bc\ube60\uc9c4 \ub3c4\ub9c8\ubc40",
+    "message": "얼빠진 도마뱀",
     "description": "SphinxText.xls, row 2237"
   },
   "HT_Text_Inv_AnubisAmulet": {
-    "message": "\uc544\ub204\ube44\uc2a4 \ubd80\uc801",
+    "message": "아누비스 부적",
     "description": "SphinxText.xls, row 2238"
   },
   "HT_Text_Inv_AbydosGateKey": {
-    "message": "\uc544\ube44\ub3c4\uc2a4 \uad00\ubb38 \uc5f4\uc1e0",
+    "message": "아비도스 관문 열쇠",
     "description": "SphinxText.xls, row 2239"
   },
   "HT_Text_Inv_Herbs": {
-    "message": "\uce58\ub8cc \uc57d\ucd08",
+    "message": "치료 약초",
     "description": "SphinxText.xls, row 2240"
   },
   "HT_Text_Inv_MayersCureIngredient1": {
-    "message": "\uc2dc\uc7a5\uc758 \uce58\ub8cc \uc7ac\ub8cc 1",
+    "message": "시장의 치료 재료 1",
     "description": "SphinxText.xls, row 2241"
   },
   "HT_Text_Inv_MayorsCureIngredient2": {
-    "message": "\uc2dc\uc7a5\uc758 \uce58\ub8cc \uc7ac\ub8cc 2",
+    "message": "시장의 치료 재료 2",
     "description": "SphinxText.xls, row 2242"
   },
   "HT_Text_Inv_MayorsCureIngredient3": {
-    "message": "\uc2dc\uc7a5\uc758 \uce58\ub8cc \uc7ac\ub8cc 3",
+    "message": "시장의 치료 재료 3",
     "description": "SphinxText.xls, row 2243"
   },
   "HT_Text_Inv_MessageForAkarianKing": {
-    "message": "\uc544\uce74\ub9ac\uc544 \uc655\uc744 \uc704\ud55c \uba54\uc2dc\uc9c0",
+    "message": "아카리아 왕을 위한 메시지",
     "description": "SphinxText.xls, row 2244"
   },
   "HT_Text_Inv_AnkhContainer": {
-    "message": "\ud669\uae08 \uc559\ud06c ",
+    "message": "황금 앙크 ",
     "description": "SphinxText.xls, row 2245"
   },
   "HT_Text_Inv_AnkhPiece": {
-    "message": "\ud669\uae08 \uc559\ud06c \uc870\uac01",
+    "message": "황금 앙크 조각",
     "description": "SphinxText.xls, row 2246"
   },
   "HT_Text_Inv_CanopicVase": {
-    "message": "\ub0a9\uace8\ub2e8\uc9c0",
+    "message": "납골단지",
     "description": "SphinxText.xls, row 2247"
   },
   "HT_Text_Inv_BronzeScarab": {
-    "message": "\ud669\uae08 \uc2a4\uce90\ub7fd",
+    "message": "황금 스캐럽",
     "description": "SphinxText.xls, row 2248"
   },
   "HT_Text_Inv_SilverScarab": {
-    "message": "\uc740 \uc2a4\uce90\ub7fd",
+    "message": "은 스캐럽",
     "description": "SphinxText.xls, row 2249"
   },
   "HT_Text_Inv_GoldScarab": {
-    "message": "\ud669\uae08 \uc2a4\uce90\ub7fd",
+    "message": "황금 스캐럽",
     "description": "SphinxText.xls, row 2250"
   },
   "HT_Text_Inv_CrystalScarab": {
-    "message": "\uc218\uc815 \uc2a4\uce90\ub7fd",
+    "message": "수정 스캐럽",
     "description": "SphinxText.xls, row 2251"
   },
   "HT_Text_Inv_ConstructionBeetle": {
-    "message": "\uac74\uc124 \ub531\uc815\ubc8c\ub808",
+    "message": "건설 딱정벌레",
     "description": "SphinxText.xls, row 2252"
   },
   "HT_Text_Inv_EnigmaBeetle": {
-    "message": "\uc218\uc218\uaed8\ub07c \ub531\uc815\ubc8c\ub808",
+    "message": "수수께끼 딱정벌레",
     "description": "SphinxText.xls, row 2253"
   },
   "HT_Text_Inv_ExplosiveBeetle": {
-    "message": "\ud3ed\ubc1c \ub531\uc815\ubc8c\ub808",
+    "message": "폭발 딱정벌레",
     "description": "SphinxText.xls, row 2254"
   },
   "HT_Text_Inv_RemoteControlBeetle": {
-    "message": "RC \ub531\uc815\ubc8c\ub808",
+    "message": "RC 딱정벌레",
     "description": "SphinxText.xls, row 2255"
   },
   "HT_Text_Inv_StandardDart": {
-    "message": "\ud45c\uc900 \ub2e4\ud2b8",
+    "message": "표준 다트",
     "description": "SphinxText.xls, row 2256"
   },
   "HT_Text_Inv_CaptureBeetle": {
-    "message": "\ud3ec\ud68d \ub531\uc815\ubc8c\ub808",
+    "message": "포획 딱정벌레",
     "description": "SphinxText.xls, row 2257"
   },
   "HT_Text_Inv_IceDart": {
-    "message": "\uc5bc\uc74c \ub2e4\ud2b8",
+    "message": "얼음 다트",
     "description": "SphinxText.xls, row 2258"
   },
   "HT_Text_Inv_AcidDart": {
-    "message": "\uc5fc\uc0b0 \ub2e4\ud2b8",
+    "message": "염산 다트",
     "description": "SphinxText.xls, row 2259"
   },
   "HT_Text_Inv_FireDart": {
-    "message": "\ud654\uc5fc \ub2e4\ud2b8",
+    "message": "화염 다트",
     "description": "SphinxText.xls, row 2260"
   },
   "HT_Text_Inv_MiniGameDart": {
-    "message": "\uac8c\uc784 \ub2e4\ud2b8",
+    "message": "게임 다트",
     "description": "SphinxText.xls, row 2261"
   },
   "HT_Text_Inv_BounceDart": {
-    "message": "\ud280\ub294 \ub2e4\ud2b8",
+    "message": "튀는 다트",
     "description": "SphinxText.xls, row 2262"
   },
   "HT_Text_Inv_PossessionDart": {
-    "message": "\uc18c\uc720 \ub2e4\ud2b8",
+    "message": "소유 다트",
     "description": "SphinxText.xls, row 2263"
   },
   "HT_Text_Inv_KaDart": {
-    "message": "\uce74 \ub2e4\ud2b8",
+    "message": "카 다트",
     "description": "SphinxText.xls, row 2264"
   },
   "HT_Text_Inv_SilverAnkh": {
-    "message": "\uc740 \uc559\ud06c",
+    "message": "은 앙크",
     "description": "SphinxText.xls, row 2265"
   },
   "HT_Text_Inv_BronzeAnkh": {
-    "message": "\ub3d9 \uc559\ud06c",
+    "message": "동 앙크",
     "description": "SphinxText.xls, row 2266"
   },
   "HT_Text_Inv_CrystalKey": {
-    "message": "\uc218\uc815 \uc5f4\uc1e0",
+    "message": "수정 열쇠",
     "description": "SphinxText.xls, row 2267"
   },
   "HT_Text_Inv_MagicSeed": {
-    "message": "\ub18d\ubd80\uc758 \ub9c8\ubc95 \uc528\uc557\ub4e4",
+    "message": "농부의 마법 씨앗들",
     "description": "SphinxText.xls, row 2268"
   },
   "HT_Text_Inv_CrystalKey1": {
-    "message": "\uc218\uc815 \uc5f4\uc1e0 1",
+    "message": "수정 열쇠 1",
     "description": "SphinxText.xls, row 2269"
   },
   "HT_Text_Inv_CrystalKey2": {
-    "message": "\uc218\uc815 \uc5f4\uc1e0 2",
+    "message": "수정 열쇠 2",
     "description": "SphinxText.xls, row 2270"
   },
   "HT_Text_Inv_CrystalKey3": {
-    "message": "\uc218\uc815 \uc5f4\uc1e0 3",
+    "message": "수정 열쇠 3",
     "description": "SphinxText.xls, row 2271"
   },
   "HT_Text_Inv_Pearl": {
-    "message": "\ud478\ub978 \ub2e4\uc774\uc544\ubaac\ub4dc",
+    "message": "푸른 다이아몬드",
     "description": "SphinxText.xls, row 2272"
   },
   "HT_Text_Inv_Cabbage": {
-    "message": "\uc591\ubc30\ucd94",
+    "message": "양배추",
     "description": "SphinxText.xls, row 2273"
   },
   "HT_Text_Inv_Carrot": {
-    "message": "\ud64d\ub2f9\ubb34",
+    "message": "홍당무",
     "description": "SphinxText.xls, row 2274"
   },
   "HT_Text_Inv_Sakkara_Berry": {
-    "message": "\uc7a5\uacfc",
+    "message": "장과",
     "description": "SphinxText.xls, row 2275"
   },
   "HT_Text_Inv_Bread": {
-    "message": "\ube75",
+    "message": "빵",
     "description": "SphinxText.xls, row 2276"
   },
   "HT_Text_Inv_CloakOfInvisibility": {
-    "message": "\uc5b4\ub450\uc6b4 \ub3cc",
+    "message": "어두운 돌",
     "description": "SphinxText.xls, row 2277"
   },
   "HT_Text_Inv_HourGlass": {
-    "message": "\ubaa8\ub798 \uc2dc\uacc4",
+    "message": "모래 시계",
     "description": "SphinxText.xls, row 2278"
   },
   "HT_Text_Inv_AbyLever": {
-    "message": "\uc9c0\ub808",
+    "message": "지레",
     "description": "SphinxText.xls, row 2279"
   },
   "HT_Text_Inv_PhysNote": {
-    "message": "\uc758\uc0ac\uc758 \ucabd\uc9c0",
+    "message": "의사의 쪽지",
     "description": "SphinxText.xls, row 2280"
   },
   "HT_Text_Inv_ArmadilloTrophy": {
-    "message": "\ud2b8\ub85c\ud53c",
+    "message": "트로피",
     "description": "SphinxText.xls, row 2281"
   },
   "HT_Text_Inv_MagicWater": {
-    "message": "\ub9c8\ubc95\uc218",
+    "message": "마법수",
     "description": "SphinxText.xls, row 2282"
   },
   "HT_Text_Inv_BC01_Giant_Prawn": {
-    "message": "\uac70\ub300\ud55c \uc0c8\uc6b0",
+    "message": "거대한 새우",
     "description": "SphinxText.xls, row 2283"
   },
   "HT_Text_Inv_BM09_Smiling_burble": {
-    "message": "\ubbf8\uc18c \uc9d3\ub294 \uac70\ud488",
+    "message": "미소 짓는 거품",
     "description": "SphinxText.xls, row 2284"
   },
   "HT_Text_Inv_BM10_i_Cyclops": {
-    "message": "\uc2f8\uc774\ud074\ub86d\uc2a4",
+    "message": "싸이클롭스",
     "description": "SphinxText.xls, row 2285"
   },
   "HT_Text_Inv_BM12_slim_burble": {
-    "message": "\uc2ac\ub9bc \ubc84\ube14",
+    "message": "슬림 버블",
     "description": "SphinxText.xls, row 2286"
   },
   "HT_Text_Inv_BR04_Goofy_Lizard": {
-    "message": "\uc5bc\ube60\uc9c4 \ub3c4\ub9c8\ubc40",
+    "message": "얼빠진 도마뱀",
     "description": "SphinxText.xls, row 2287"
   },
   "HT_Text_Inv_BR05_Dino_Oaf": {
-    "message": "\ub2e4\uc774\ub178 \uc624\uc6b0\ud504",
+    "message": "다이노 오우프",
     "description": "SphinxText.xls, row 2288"
   },
   "HT_Text_Inv_BR06_Half_Brute": {
-    "message": "\ubc18\uc218",
+    "message": "반수",
     "description": "SphinxText.xls, row 2289"
   },
   "HT_Text_Inv_BU01_Mummy_Minotaur": {
-    "message": "\ubbf8\ub178\ud0c0\uc6b0\ub974\uc2a4 \ubbf8\uc774\ub77c",
+    "message": "미노타우르스 미이라",
     "description": "SphinxText.xls, row 2290"
   },
   "HT_Text_Inv_BU02_Skeletal_Axeman": {
-    "message": "\ud574\uace8 \ub3c4\ub07c\uafbc",
+    "message": "해골 도끼꾼",
     "description": "SphinxText.xls, row 2291"
   },
   "HT_Text_Inv_BU03_zombie_man": {
-    "message": "\uc880\ube44",
+    "message": "좀비",
     "description": "SphinxText.xls, row 2292"
   },
   "HT_Text_Inv_BU05_almost_a_bull": {
-    "message": "\uc62c\ubaa8\uc2a4\ud2b8-\uc5b4-\ubd88",
+    "message": "올모스트-어-불",
     "description": "SphinxText.xls, row 2293"
   },
   "HT_Text_Inv_BU06_MBird": {
-    "message": "\ubbf8\uc774\ub77c \uc0c8",
+    "message": "미이라 새",
     "description": "SphinxText.xls, row 2294"
   },
   "HT_Text_Inv_FL02_Featherless_Turkey": {
-    "message": "\uae43\ud138 \uc5c6\ub294 \uce60\uba74\uc870",
+    "message": "깃털 없는 칠면조",
     "description": "SphinxText.xls, row 2295"
   },
   "HT_Text_Inv_FL03_shuttlecock_bird": {
-    "message": "\uc154\ud2c0\ucf55 \uc0c8",
+    "message": "셔틀콕 새",
     "description": "SphinxText.xls, row 2296"
   },
   "HT_Text_Inv_FL04_Skeletal_Bat": {
-    "message": "\ud574\uace8\uc758 \ubc15\uc950",
+    "message": "해골의 박쥐",
     "description": "SphinxText.xls, row 2297"
   },
   "HT_Text_Inv_FL04_Skeletal_Bat_Fire": {
-    "message": "\ud574\uace8\uc758 \ubc15\uc950 \ud654\uc5fc",
+    "message": "해골의 박쥐 화염",
     "description": "SphinxText.xls, row 2298"
   },
   "HT_Text_Inv_FL05_Mummy_Eagle": {
-    "message": "\ub3c5\uc218\ub9ac \ubbf8\uc774\ub77c",
+    "message": "독수리 미이라",
     "description": "SphinxText.xls, row 2299"
   },
   "HT_Text_Inv_FL06_Undead_Man": {
-    "message": "\uc5b8\ub370\ub4dc \uc778\uac04",
+    "message": "언데드 인간",
     "description": "SphinxText.xls, row 2300"
   },
   "HT_Text_Inv_HD02_Cat": {
-    "message": "\ub098\uc774\ud504 \uace0\uc591\uc774",
+    "message": "나이프 고양이",
     "description": "SphinxText.xls, row 2301"
   },
   "HT_Text_Inv_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": "\uc778\uc885\ucc28\ubcc4\uc8fc\uc758\uc790",
+    "message": "인종차별주의자",
     "description": "SphinxText.xls, row 2302"
   },
   "HT_Text_Inv_HD14_Crab": {
-    "message": "\ud06c\ub7a9\ud578\ub4dc\ub4e4",
+    "message": "크랩핸드들",
     "description": "SphinxText.xls, row 2303"
   },
   "HT_Text_Inv_HD15_GuardTest": {
-    "message": "\uc790\ub77c\uc778\uac04",
+    "message": "자라인간",
     "description": "SphinxText.xls, row 2304"
   },
   "HT_Text_Inv_HD17_Sharpbeak": {
-    "message": "\ub0a0\uce74\ub85c\uc6b4 \ubd80\ub9ac",
+    "message": "날카로운 부리",
     "description": "SphinxText.xls, row 2305"
   },
   "HT_Text_Inv_HD43_Skull_Aka_Worshipper": {
-    "message": "\ud574\uace8 \uc22d\ubc30\uc790",
+    "message": "해골 숭배자",
     "description": "SphinxText.xls, row 2306"
   },
   "HT_Text_Inv_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "\uc5b4\ub460\uc758 \uc22d\ubc30\uc790",
+    "message": "어둠의 숭배자",
     "description": "SphinxText.xls, row 2307"
   },
   "HT_Text_Inv_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "\ud574\uace8 \uac80\uc0ac",
+    "message": "해골 검사",
     "description": "SphinxText.xls, row 2308"
   },
   "HT_Text_Inv_IN01_Green_Giant_worm": {
-    "message": "\ub300\ud615 \ucd08\ub85d \ubc8c\ub808",
+    "message": "대형 초록 벌레",
     "description": "SphinxText.xls, row 2309"
   },
   "HT_Text_Inv_IN07_Blade_Scorpion": {
-    "message": "\uce7c\ub0a0 \uc804\uac08",
+    "message": "칼날 전갈",
     "description": "SphinxText.xls, row 2310"
   },
   "HT_Text_Inv_IN08_Tacked_Spider": {
-    "message": "\uace0\uc815\ub41c \uac70\ubbf8",
+    "message": "고정된 거미",
     "description": "SphinxText.xls, row 2311"
   },
   "HT_Text_Inv_IN09_Sak_Spike_Spider": {
-    "message": "\uc2a4\ud30c\uc774\ud06c \uac70\ubbf8",
+    "message": "스파이크 거미",
     "description": "SphinxText.xls, row 2312"
   },
   "HT_Text_Inv_IN11_Spider": {
-    "message": "\uac70\ubbf8",
+    "message": "거미",
     "description": "SphinxText.xls, row 2313"
   },
   "HT_Text_Inv_PI01_Piranha": {
-    "message": "\ud53c\ub77c\ub0d0",
+    "message": "피라냐",
     "description": "SphinxText.xls, row 2314"
   },
   "HT_Text_Inv_PI01_Hard_Piranha": {
-    "message": "\uacac\uac11 \ud53c\ub77c\ub0d0",
+    "message": "견갑 피라냐",
     "description": "SphinxText.xls, row 2315"
   },
   "HT_Text_Inv_PI01_Green_Piranha": {
-    "message": "\ucd08\ub85d \ud53c\ub77c\ub0d0",
+    "message": "초록 피라냐",
     "description": "SphinxText.xls, row 2316"
   },
   "HT_Text_Inv_PI02_Electric_Eel": {
-    "message": "\uc804\uae30\ubc40\uc7a5\uc5b4",
+    "message": "전기뱀장어",
     "description": "SphinxText.xls, row 2317"
   },
   "HT_Text_Inv_PI03_Aka_Manta_Rays": {
-    "message": "\uc950\uac00\uc624\ub9ac",
+    "message": "쥐가오리",
     "description": "SphinxText.xls, row 2318"
   },
   "HT_Text_Inv_PI04_Aka_Spinefish": {
-    "message": "\ucc99\ucd94\ubb3c\uace0\uae30",
+    "message": "척추물고기",
     "description": "SphinxText.xls, row 2319"
   },
   "HT_Text_Inv_PI05_Aka_Turtle": {
-    "message": "\uac70\ubd81",
+    "message": "거북",
     "description": "SphinxText.xls, row 2320"
   },
   "HT_Text_Inv_PI06_Aka_Tentacle_Creature": {
-    "message": "\ucd09\uc218",
+    "message": "촉수",
     "description": "SphinxText.xls, row 2321"
   },
   "HT_Text_Inv_PL01_Eye": {
-    "message": "\ub208",
+    "message": "눈",
     "description": "SphinxText.xls, row 2322"
   },
   "HT_Text_Inv_PL02_Tree_Creature": {
-    "message": "\ub098\ubb34 \uc0dd\ubb3c",
+    "message": "나무 생물",
     "description": "SphinxText.xls, row 2323"
   },
   "HT_Text_Inv_PL04_Sunflower_With_Face": {
-    "message": "\ud574\ubc14\ub77c\uae30",
+    "message": "해바라기",
     "description": "SphinxText.xls, row 2324"
   },
   "HT_Text_Inv_QC01_Pokemon": {
-    "message": "\uaecd\uc9c8 \uad34\ubb3c",
+    "message": "껍질 괴물",
     "description": "SphinxText.xls, row 2325"
   },
   "HT_Text_Inv_QR01_Cobra": {
-    "message": "\ucf54\ube0c\ub77c",
+    "message": "코브라",
     "description": "SphinxText.xls, row 2326"
   },
   "HT_Text_Inv_QR02_Sak_Spitting_Toad": {
-    "message": "\ubc49\ub294 \ub450\uaebc\ube44",
+    "message": "뱉는 두꺼비",
     "description": "SphinxText.xls, row 2327"
   },
   "HT_Text_Inv_QR03_Sak_Small_Frog": {
-    "message": "\uc791\uc740 \uac1c\uad6c\ub9ac",
+    "message": "작은 개구리",
     "description": "SphinxText.xls, row 2328"
   },
   "HT_Text_Inv_QR04_Sak_Nose_Needler": {
-    "message": "\ub178\uc6b0\uc988 \ub2c8\ub4e4\ub7ec",
+    "message": "노우즈 니들러",
     "description": "SphinxText.xls, row 2329"
   },
   "HT_Text_Inv_QU01_Skeletal_Spider": {
-    "message": "\ud574\uace8 \uac70\ubbf8",
+    "message": "해골 거미",
     "description": "SphinxText.xls, row 2330"
   },
   "HT_Text_Inv_QU02_Skeletal_Armadillo": {
-    "message": "\uc544\ub974\ub9c8\ub51c\ub85c",
+    "message": "아르마딜로",
     "description": "SphinxText.xls, row 2331"
   },
   "HT_Text_Inv_QU02_Skeletal_Armadillo_Fire": {
-    "message": "\ud654\uc5fc \uc544\ub974\ub9c8\ub51c\ub85c",
+    "message": "화염 아르마딜로",
     "description": "SphinxText.xls, row 2332"
   },
   "HT_Text_Inv_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "\uc804\uae30 \uc544\ub974\ub9c8\ub51c\ub85c",
+    "message": "전기 아르마딜로",
     "description": "SphinxText.xls, row 2333"
   },
   "HT_Text_Inv_QU04_Mummy_Chihuahua": {
-    "message": "\uce58\uc640\uc640 \ubbf8\uc774\ub77c",
+    "message": "치와와 미이라",
     "description": "SphinxText.xls, row 2334"
   },
   "HT_Text_Inv_QU05_skeletal_waspspider": {
-    "message": "\ub9d0\ubc8c \uac70\ubbf8",
+    "message": "말벌 거미",
     "description": "SphinxText.xls, row 2335"
   },
   "HT_Text_Inv_QU06_Mummy_Worm": {
-    "message": "\ubc8c\ub808 \ubbf8\uc774\ub77c",
+    "message": "벌레 미이라",
     "description": "SphinxText.xls, row 2336"
   },
   "HT_Text_Inv_QU09_Rat": {
-    "message": "\uc950",
+    "message": "쥐",
     "description": "SphinxText.xls, row 2337"
   },
   "HT_Text_Inv_QU08_Normal_Chihuahua": {
-    "message": "\uce58\uc640\uc640",
+    "message": "치와와",
     "description": "SphinxText.xls, row 2338"
   },
   "HT_Text_Inv_HD03_BigBull": {
-    "message": "\uac70\ub300\ud55c \ud669\uc18c",
+    "message": "거대한 황소",
     "description": "SphinxText.xls, row 2339"
   },
   "HT_Text_Inv_HD09_Horned_ReptileMan": {
-    "message": "\ud30c\ucda9\ub958 \uc778\uac04",
+    "message": "파충류 인간",
     "description": "SphinxText.xls, row 2340"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_BedroomKey": {
-    "message": "\uc548\ub9c8\ub2f9 \uc5f4\uc1e0",
+    "message": "안마당 열쇠",
     "description": "SphinxText.xls, row 2341"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_NefertitiItem": {
-    "message": "\ub124\ud37c\ub974\ud2f0\ud2f0\uc758 \ud3b8\uc9c0",
+    "message": "네퍼르티티의 편지",
     "description": "SphinxText.xls, row 2342"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_SarcophagusKey": {
-    "message": "\uc11d\uad00 \uc5f4\uc1e0",
+    "message": "석관 열쇠",
     "description": "SphinxText.xls, row 2343"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_WardrobeKey": {
-    "message": "\uc637\uc7a5 \uc5f4\uc1e0",
+    "message": "옷장 열쇠",
     "description": "SphinxText.xls, row 2344"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_Trophy": {
-    "message": "\ud2b8\ub85c\ud53c",
+    "message": "트로피",
     "description": "SphinxText.xls, row 2345"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_Amulet": {
-    "message": "\uc624\ub798\ub41c \ubd80\uc801",
+    "message": "오래된 부적",
     "description": "SphinxText.xls, row 2346"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_CourtyardKey": {
-    "message": "\uc548\ub9c8\ub2f9 \uc5f4\uc1e0",
+    "message": "안마당 열쇠",
     "description": "SphinxText.xls, row 2347"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_TreasureChamberKey": {
-    "message": "\ubcf4\uc11d\uc2e4 \uc5f4\uc1e0",
+    "message": "보석실 열쇠",
     "description": "SphinxText.xls, row 2348"
   },
   "HT_Text_Inv_Item_Quest_Mum_Imp2_KeyStone": {
-    "message": "\ucd9c\uad6c \uc5f4\uc1e0",
+    "message": "출구 열쇠",
     "description": "SphinxText.xls, row 2349"
   },
   "HT_Text_Inv_Item_Quest_Mum_Imp2_ImpulseKey": {
-    "message": "\ucd9c\uad6c \uc5f4\uc1e0",
+    "message": "출구 열쇠",
     "description": "SphinxText.xls, row 2350"
   },
   "HT_Text_Inv_Item_Quest_Mum_Imp2_PlanetariumKey01": {
-    "message": "\ud0dc\uc591\uc758 \uc5f4\uc1e0",
+    "message": "태양의 열쇠",
     "description": "SphinxText.xls, row 2351"
   },
   "HT_Text_Inv_Item_Quest_Mum_Imp2_PlanetariumKey02": {
-    "message": "\uc9c0\uad6c\uc758 \uc5f4\uc1e0",
+    "message": "지구의 열쇠",
     "description": "SphinxText.xls, row 2352"
   },
   "HT_Text_Inv_Item_Quest_Mum_Imp2_PlanetariumKey03": {
-    "message": "\ub2ec\uc758 \uc5f4\uc1e0",
+    "message": "달의 열쇠",
     "description": "SphinxText.xls, row 2353"
   },
   "HT_Text_Inv_Item_Quest_Urk_GolemsEye": {
-    "message": "\uace8\ub818\uc758 \ub208",
+    "message": "골렘의 눈",
     "description": "SphinxText.xls, row 2354"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_Key01": {
-    "message": "\uc6b0\ub8e8\ud06c \uc5f4\uc1e0 1",
+    "message": "우루크 열쇠 1",
     "description": "SphinxText.xls, row 2355"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_Key02": {
-    "message": "\uc6b0\ub8e8\ud06c \uc5f4\uc1e0 2",
+    "message": "우루크 열쇠 2",
     "description": "SphinxText.xls, row 2356"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_Key03": {
-    "message": "\uad50\uac01 \uc5f4\uc1e0",
+    "message": "교각 열쇠",
     "description": "SphinxText.xls, row 2357"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_GlyphValuable01": {
-    "message": "\ud669\uae08 \uae00\ub9ac\ud504",
+    "message": "황금 글리프",
     "description": "SphinxText.xls, row 2358"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_GlyphValuable02": {
-    "message": "\ub2e4\uc774\uc544\ubaac\ub4dc \uae00\ub9ac\ud504",
+    "message": "다이아몬드 글리프",
     "description": "SphinxText.xls, row 2359"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_GlyphMedium01": {
-    "message": "\ub3d9 \uae00\ub9ac\ud504",
+    "message": "동 글리프",
     "description": "SphinxText.xls, row 2360"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_GlyphWorthless01": {
-    "message": "\ubaa9\uc81c \uae00\ub9ac\ud504",
+    "message": "목제 글리프",
     "description": "SphinxText.xls, row 2361"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_UrukiteGem": {
-    "message": "\uc6b0\ub8e8\ud06c\uc758 \ubcf4\uc11d",
+    "message": "우루크의 보석",
     "description": "SphinxText.xls, row 2362"
   },
   "HT_Text_Inv_Item_Quest_CageKey": {
-    "message": "\ucca0\uc7a5 \uc5f4\uc1e0",
+    "message": "철장 열쇠",
     "description": "SphinxText.xls, row 2363"
   },
   "HT_Text_Inv_Basket": {
-    "message": "\ubc14\uc2a4-\ucf13",
+    "message": "바스-켓",
     "description": "SphinxText.xls, row 2364"
   },
   "HT_Text_Inv_Leaves": {
-    "message": "\ub098\ubb47\uc78e\ub4e4",
+    "message": "나뭇잎들",
     "description": "SphinxText.xls, row 2365"
   },
   "HT_Text_Inv_Sticks": {
-    "message": "\ub9c9\ub300\uae30\ub4e4",
+    "message": "막대기들",
     "description": "SphinxText.xls, row 2366"
   },
   "HT_Text_Inv_LightColumnMap": {
-    "message": "Light Colum \uc9c0\ub3c4",
+    "message": "Light Colum 지도",
     "description": "SphinxText.xls, row 2367"
   },
   "HT_Text_Inv_ToadEggs": {
-    "message": "\ubc49\ub294 \ub450\uaebc\ube44 \uc54c\ub4e4",
+    "message": "뱉는 두꺼비 알들",
     "description": "SphinxText.xls, row 2368"
   },
   "HT_Text_Inv_AbyPass": {
-    "message": "\uc544\ube44\ub3c4\uc2a4 \ud1b5\ud589\uc99d",
+    "message": "아비도스 통행증",
     "description": "SphinxText.xls, row 2369"
   },
   "HT_Text_Inv_AbyPearls": {
-    "message": "\uc544\ube44\ub3c4\uc2a4\uc758 \uc9c4\uc8fc\ub4e4",
+    "message": "아비도스의 진주들",
     "description": "SphinxText.xls, row 2370"
   },
   "HT_Text_Inv_RosettaStonePiece": {
-    "message": "\ub85c\uc81c\ud0c0\uc11d \uc870\uac01",
+    "message": "로제타석 조각",
     "description": "SphinxText.xls, row 2371"
   },
   "HT_Text_Inv_RosettaStone": {
-    "message": "\ub85c\uc81c\ud0c0\uc11d",
+    "message": "로제타석",
     "description": "SphinxText.xls, row 2372"
   },
   "HT_Text_Inv_Item_Quest_Hel_BoatOwnerItem": {
-    "message": "\ubcf4\ud2b8 \ub3db",
+    "message": "보트 돛",
     "description": "SphinxText.xls, row 2373"
   },
   "HT_Text_Inv_DeathWatchBeetle": {
-    "message": "\uc0b4\uc9dd\uc218\uc5fc\ubc8c\ub808",
+    "message": "살짝수염벌레",
     "description": "SphinxText.xls, row 2374"
   },
   "HT_Text_Inv_Sak_Crown": {
-    "message": "\uc6b0\ub8e8\ud06c\uc758 \uc655\uad00",
+    "message": "우루크의 왕관",
     "description": "SphinxText.xls, row 2375"
   },
   "HT_Text_Inv_Aby_Crown": {
-    "message": "\uc544\ube44\ub3c4\uc2a4\uc758 \uc655\uad00",
+    "message": "아비도스의 왕관",
     "description": "SphinxText.xls, row 2376"
   },
   "HT_Text_Inv_Hel_Crown": {
-    "message": "\ud5ec\ub9ac\uc544\uc758 \uc655\uad00",
+    "message": "헬리아의 왕관",
     "description": "SphinxText.xls, row 2377"
   },
   "HT_Text_Inv_Set_Crown": {
-    "message": "\uc138\ud2b8 \uc655\uad00",
+    "message": "세트 왕관",
     "description": "SphinxText.xls, row 2378"
   },
   "HT_Text_Inv_Item_Quest_Hel_PharaohInvite": {
-    "message": "\ud30c\ub77c\uc624 \ucd08\uccad\uc7a5",
+    "message": "파라오 초청장",
     "description": "SphinxText.xls, row 2379"
   },
   "HT_Text_Inv_Item_Quest_Hel_ForgerItem01": {
-    "message": "\ud30c\ub9ac\ub8e8\uc2a4",
+    "message": "파리루스",
     "description": "SphinxText.xls, row 2380"
   },
   "HT_Text_Inv_Item_Quest_Hel_ForgerItem02": {
-    "message": "\uc789\ud06c",
+    "message": "잉크",
     "description": "SphinxText.xls, row 2381"
   },
   "HT_Text_Inv_Item_Quest_Hel_ForgerItem03": {
-    "message": "\uc5fc\ub8cc \uc78e",
+    "message": "염료 잎",
     "description": "SphinxText.xls, row 2382"
   },
   "HT_Text_Inv_Item_Quest_Hel_BeetleBreederItem": {
-    "message": "\ub531\uc815\ubc8c\ub808 \uc0ac\uc721 \ud56d\uc544\ub9ac",
+    "message": "딱정벌레 사육 항아리",
     "description": "SphinxText.xls, row 2383"
   },
   "HT_Text_Inv_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": "\ucda9\uc131 \uce74\ub4dc",
+    "message": "충성 카드",
     "description": "SphinxText.xls, row 2384"
   },
   "HT_Text_Inv_Mum_LedgeKey": {
-    "message": "\uc120\ubc18 \ubb38 \uc5f4\uc1e0",
+    "message": "선반 문 열쇠",
     "description": "SphinxText.xls, row 2385"
   },
   "HT_Text_Inv_MummyMoney": {
-    "message": "\uc624\ub2c9\uc2a4 \uc2a4\uce90\ub7fd",
+    "message": "오닉스 스캐럽",
     "description": "SphinxText.xls, row 2386"
   },
   "HT_Text_Inv_Mum_OldKey": {
-    "message": "\uc624\ub798\ub41c \uc9c0\ud558\uc2e4 \uc5f4\uc1e0",
+    "message": "오래된 지하실 열쇠",
     "description": "SphinxText.xls, row 2387"
   },
   "HT_Text_Inv_Mum_GlyphKey": {
-    "message": "\uae00\ub9ac\ud504 \uc5f4\uc1e0",
+    "message": "글리프 열쇠",
     "description": "SphinxText.xls, row 2388"
   },
   "HT_Text_Inv_Mum_WallSection2Key": {
-    "message": "\uc131\ubcbd \uc5f4\uc1e0",
+    "message": "성벽 열쇠",
     "description": "SphinxText.xls, row 2389"
   },
   "HT_Text_Inv_Mum_WallSection3Key": {
-    "message": "\uc131\ubcbd \uc5f4\uc1e0",
+    "message": "성벽 열쇠",
     "description": "SphinxText.xls, row 2390"
   },
   "HT_Text_Inv_IshkaRing": {
-    "message": "\uc774\uc26c\uce74\uc758 \uace0\ub9ac",
+    "message": "이쉬카의 고리",
     "description": "SphinxText.xls, row 2391"
   },
   "HT_Text_Inv_HonourTalisman": {
-    "message": "\uba85\uc608\uc758 \ubd80\uc801",
+    "message": "명예의 부적",
     "description": "SphinxText.xls, row 2392"
   },
   "HT_Text_Inv_PalaceInvite": {
-    "message": "\uc655\uc2e4\uc758 \ucd08\ub300\uc7a5",
+    "message": "왕실의 초대장",
     "description": "SphinxText.xls, row 2393"
   },
   "HT_Text_Inv_Item_Quest_CurseStone01": {
-    "message": "\uc800\uc8fc\uc11d",
+    "message": "저주석",
     "description": "SphinxText.xls, row 2394"
   },
   "HT_Text_Inv_Item_Quest_CurseStone02": {
-    "message": "\uc800\uc8fc\uc11d",
+    "message": "저주석",
     "description": "SphinxText.xls, row 2395"
   },
   "HT_Text_Inv_Item_Quest_CurseStone03": {
-    "message": "\uc800\uc8fc\uc11d",
+    "message": "저주석",
     "description": "SphinxText.xls, row 2396"
   },
   "HT_Text_Inv_Item_Quest_CurseStone04": {
-    "message": "\uc800\uc8fc\uc11d",
+    "message": "저주석",
     "description": "SphinxText.xls, row 2397"
   },
   "HT_Text_Inv_Item_Quest_CurseStone05": {
-    "message": "\uc800\uc8fc\uc11d",
+    "message": "저주석",
     "description": "SphinxText.xls, row 2398"
   },
   "HT_Text_Inv_Item_Quest_CurseStone06": {
-    "message": "\uc800\uc8fc\uc11d",
+    "message": "저주석",
     "description": "SphinxText.xls, row 2399"
   },
   "HT_Text_Inv_Item_Quest_CurseStone07": {
-    "message": "\uc800\uc8fc\uc11d",
+    "message": "저주석",
     "description": "SphinxText.xls, row 2400"
   },
   "HT_Text_Inv_Item_Quest_CurseStone08": {
-    "message": "\uc800\uc8fc\uc11d",
+    "message": "저주석",
     "description": "SphinxText.xls, row 2401"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Uruk01": {
-    "message": "\uc6b0\ub8e8\ud06c \uc131 \ubd80\uc801",
+    "message": "우루크 성 부적",
     "description": "SphinxText.xls, row 2402"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Luxor01": {
-    "message": "\ubbf8\uc9c0\uc758 \ubd80\uc801",
+    "message": "미지의 부적",
     "description": "SphinxText.xls, row 2403"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Abydos01": {
-    "message": "\uc544\ube44\ub3c4\uc2a4 \ubd80\uc801",
+    "message": "아비도스 부적",
     "description": "SphinxText.xls, row 2404"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Akaria01": {
-    "message": "\uc544\uce74\ub9ac\uc544 \ubd80\uc801",
+    "message": "아카리아 부적",
     "description": "SphinxText.xls, row 2405"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Heliopolis01": {
-    "message": "\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4 \ubd80\uc801",
+    "message": "헬리오폴리스 부적",
     "description": "SphinxText.xls, row 2406"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Sakkara01": {
-    "message": "\uc0ac\uce74\ub77c \ubd80\uc801",
+    "message": "사카라 부적",
     "description": "SphinxText.xls, row 2407"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Sakkara01Piece": {
-    "message": "\ubd80\uc801 \uc870\uac01",
+    "message": "부적 조각",
     "description": "SphinxText.xls, row 2408"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_DarkArea01": {
-    "message": "\uc544\ub204\ube44\uc2a4 \ubd80\uc801",
+    "message": "아누비스 부적",
     "description": "SphinxText.xls, row 2409"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_DarkArea03": {
-    "message": "\uc6b0\ub8e8\ud06c \uacc4\uace1 \ubd80\uc801",
+    "message": "우루크 계곡 부적",
     "description": "SphinxText.xls, row 2410"
   },
   "HT_Text_Inv_Item_Quest_GoldKey": {
-    "message": "\ud669\uae08 \uc5f4\uc1e0",
+    "message": "황금 열쇠",
     "description": "SphinxText.xls, row 2411"
   },
   "HT_Text_Inv_Item_Quest_GlyphKey01": {
-    "message": "\uae00\ub9ac\ud504 \uc5f4\uc1e0",
+    "message": "글리프 열쇠",
     "description": "SphinxText.xls, row 2412"
   },
   "HT_Text_Inv_Item_Quest_GlyphKey02": {
-    "message": "\uae00\ub9ac\ud504 \uc5f4\uc1e0",
+    "message": "글리프 열쇠",
     "description": "SphinxText.xls, row 2413"
   },
   "HT_Text_Inv_Item_Quest_HeliopolisGateKey01": {
-    "message": "\ub0a8\ucabd \uc0ac\ub9c9 \uc5f4\uc1e0",
+    "message": "남쪽 사막 열쇠",
     "description": "SphinxText.xls, row 2414"
   },
   "HT_Text_Inv_Item_Quest_HeliopolisGateKey02": {
-    "message": "\uc624\ubca8\ub9ac\uc2a4\ud06c \uad00\ubb38 \uc5f4\uc1e0",
+    "message": "오벨리스크 관문 열쇠",
     "description": "SphinxText.xls, row 2415"
   },
   "HT_Text_Inv_Item_Quest_HeliopolisGateKey03": {
-    "message": "\ub3d9\uad74 \ubb38 \uc5f4\uc1e0",
+    "message": "동굴 문 열쇠",
     "description": "SphinxText.xls, row 2416"
   },
   "HT_Text_Inv_Item_Quest_Bone01": {
-    "message": "\ud574\uace8\uc758 \ub450\uac1c\uace8",
+    "message": "해골의 두개골",
     "description": "SphinxText.xls, row 2417"
   },
   "HT_Text_Inv_Item_Quest_Bone02": {
-    "message": "\ud574\uace8\uc758 \uace8\ubc18",
+    "message": "해골의 골반",
     "description": "SphinxText.xls, row 2418"
   },
   "HT_Text_Inv_Item_Quest_Bone03": {
-    "message": "\ud574\uace8\uc758 \ud314",
+    "message": "해골의 팔",
     "description": "SphinxText.xls, row 2419"
   },
   "HT_Text_Inv_Item_Quest_Bone04": {
-    "message": "\ud574\uace8\uc758 \ub2e4\ub9ac",
+    "message": "해골의 다리",
     "description": "SphinxText.xls, row 2420"
   },
   "HT_Text_Inv_AcidVial": {
-    "message": "\uac9d \uc5fc\uc0b0\uc758 \uc720\ub9ac\ubcd1",
+    "message": "겝 염산의 유리병",
     "description": "SphinxText.xls, row 2421"
   },
   "HT_Text_Inv_Proclomation": {
-    "message": "\uc655\uc758 \uc120\uc5b8\uc11c",
+    "message": "왕의 선언서",
     "description": "SphinxText.xls, row 2422"
   },
   "HT_Text_Inv_DiaryPage": {
-    "message": "\uc138\ud2b8\uc758 \uc77c\uae30\uc758 \ud55c \uc7a5",
+    "message": "세트의 일기의 한 장",
     "description": "SphinxText.xls, row 2423"
   },
   "HT_Text_Inv_HippyItem": {
-    "message": "\uc591\uc0b0",
+    "message": "양산",
     "description": "SphinxText.xls, row 2424"
   },
   "HT_Text_Inv_CreatureList01": {
-    "message": "\uad34\ubb3c \ubaa9\ub85d I",
+    "message": "괴물 목록 I",
     "description": "SphinxText.xls, row 2425"
   },
   "HT_Text_Inv_CreatureList02": {
-    "message": "\uad34\ubb3c \ubaa9\ub85d II",
+    "message": "괴물 목록 II",
     "description": "SphinxText.xls, row 2426"
   },
   "HT_Text_Inv_CreatureList03": {
-    "message": "\uad34\ubb3c \ubaa9\ub85d III",
+    "message": "괴물 목록 III",
     "description": "SphinxText.xls, row 2427"
   },
   "HT_Text_Inv_StatueHead": {
-    "message": "\uc0c1\uc758 \uba38\ub9ac",
+    "message": "상의 머리",
     "description": "SphinxText.xls, row 2428"
   },
   "HT_Text_Inv_Coconut": {
-    "message": "\ucf54\ucf54\ub11b",
+    "message": "코코넛",
     "description": "SphinxText.xls, row 2429"
   },
   "HT_Text_Inv_ZipLineHook": {
-    "message": "\ub3c4\ub974\ub798 \uc904 \uc190\uc7a1\uc774",
+    "message": "도르래 줄 손잡이",
     "description": "SphinxText.xls, row 2430"
   },
   "HT_Text_Inv_MedicineRoot": {
-    "message": "\uc758\uc57d \ubfcc\ub9ac",
+    "message": "의약 뿌리",
     "description": "SphinxText.xls, row 2431"
   },
   "HT_Text_Inv_WarriorTrophy": {
-    "message": "\uc804\uc0ac \ud2b8\ub85c\ud53c",
+    "message": "전사 트로피",
     "description": "SphinxText.xls, row 2432"
   },
   "HT_Text_Inv_SluiceWheel": {
-    "message": "\ubaa9\uc7ac \ubc14\ud034",
+    "message": "목재 바퀴",
     "description": "SphinxText.xls, row 2433"
   },
   "HT_Text_Inv_AbyWellKey": {
-    "message": "\uc624\ub798\ub41c \uc5f4\uc1e0",
+    "message": "오래된 열쇠",
     "description": "SphinxText.xls, row 2434"
   },
   "HT_Text_Inv_DummyItem": {
-    "message": "\uac00\uc9dc \uc544\uc774\ud15c",
+    "message": "가짜 아이템",
     "description": "SphinxText.xls, row 2435"
   },
   "HT_Text_Inv_AbyStairsKey": {
-    "message": "\uacc4\ub2e8 \uc5f4\uc1e0",
+    "message": "계단 열쇠",
     "description": "SphinxText.xls, row 2436"
   },
   "HT_Text_Inv_WallSection3Key": {
-    "message": "\ubcbd \ubd80\ubd84 3 \uc5f4\uc1e0",
+    "message": "벽 부분 3 열쇠",
     "description": "SphinxText.xls, row 2437"
   },
   "HT_Text_Inv_MedicineBag": {
-    "message": "\uc57d\ucd08\uc8fc\uba38\ub2c8",
+    "message": "약초주머니",
     "description": "SphinxText.xls, row 2438"
   },
   "HT_Text_Inv_AtunStatue": {
-    "message": "\uc544\ud230 \uc0c1",
+    "message": "아툰 상",
     "description": "SphinxText.xls, row 2439"
   },
   "HT_Text_Inv_HathorStatue": {
-    "message": "\ud558\ud1a0\ub974 \uc0c1",
+    "message": "하토르 상",
     "description": "SphinxText.xls, row 2440"
   },
   "HT_Text_Inv_Jewel01": {
-    "message": "\ub3c4\ub09c \ub2f9\ud55c \ubcf4\uc11d",
+    "message": "도난 당한 보석",
     "description": "SphinxText.xls, row 2441"
   },
   "HT_Text_Inv_Jewel02": {
-    "message": "\ub3c4\ub09c \ub2f9\ud55c \ubcf4\uc11d",
+    "message": "도난 당한 보석",
     "description": "SphinxText.xls, row 2442"
   },
   "HT_Text_Inv_Jewel03": {
-    "message": "\ub3c4\ub09c \ub2f9\ud55c \ubcf4\uc11d",
+    "message": "도난 당한 보석",
     "description": "SphinxText.xls, row 2443"
   },
   "HT_Text_Inv_Jewel04": {
-    "message": "\ub3c4\ub09c \ub2f9\ud55c \ubcf4\uc11d",
+    "message": "도난 당한 보석",
     "description": "SphinxText.xls, row 2444"
   },
   "HT_Text_Inv_Jewel05": {
-    "message": "\ub3c4\ub09c \ub2f9\ud55c \ubcf4\uc11d",
+    "message": "도난 당한 보석",
     "description": "SphinxText.xls, row 2445"
   },
   "HT_Text_Inv_Jewel06": {
-    "message": "\ub3c4\ub09c \ub2f9\ud55c \ubcf4\uc11d",
+    "message": "도난 당한 보석",
     "description": "SphinxText.xls, row 2446"
   },
   "HT_Text_Inv_EagleStone": {
-    "message": "\ub3c5\uc218\ub9ac \ub3cc",
+    "message": "독수리 돌",
     "description": "SphinxText.xls, row 2447"
   },
   "HT_Text_Inv_AtunEye": {
-    "message": "\uc544\ud230\uc758 \ub208",
+    "message": "아툰의 눈",
     "description": "SphinxText.xls, row 2448"
   },
   "HT_Text_Inv_Medal_Shoot": {
-    "message": "2\uae09 \uc0ac\uc218 \uba54\ub2ec",
+    "message": "2급 사수 메달",
     "description": "SphinxText.xls, row 2449"
   },
   "HT_Text_Inv_Medal_Walls": {
-    "message": "\uc2b9\uc790\uc758 \uba54\ub2ec",
+    "message": "승자의 메달",
     "description": "SphinxText.xls, row 2450"
   },
   "HT_Text_Inv_Medal_Pairs": {
-    "message": "\uae30\uc5b5\uc758 \uba54\ub2ec",
+    "message": "기억의 메달",
     "description": "SphinxText.xls, row 2451"
   },
   "HT_Text_Inv_Medal_Simon": {
-    "message": "\uc21c\uc11c\uc758 \uba54\ub2ec",
+    "message": "순서의 메달",
     "description": "SphinxText.xls, row 2452"
   },
   "HT_Text_Inv_Museum_Certificate": {
-    "message": "\uc0ac\ub0e5\uc758 \uba85\uc218",
+    "message": "사냥의 명수",
     "description": "SphinxText.xls, row 2453"
   },
   "HT_Text_Inv_Museum_HunterA": {
-    "message": "\uc0ac\ub0e5\uafbc \ud669\uae08 \uae09",
+    "message": "사냥꾼 황금 급",
     "description": "SphinxText.xls, row 2454"
   },
   "HT_Text_Inv_Museum_HunterB": {
-    "message": "\uc0ac\ub0e5\uafbc \uc740 \uae09",
+    "message": "사냥꾼 은 급",
     "description": "SphinxText.xls, row 2455"
   },
   "HT_Text_Inv_Museum_HunterC": {
-    "message": "\uc0ac\ub0e5\uafbc \ub3d9 \uae09",
+    "message": "사냥꾼 동 급",
     "description": "SphinxText.xls, row 2456"
   }
 }

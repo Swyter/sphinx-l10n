@@ -1,674 +1,674 @@
 {
   "HT_Text_Inv_Dsc_IceDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc5bc\uc74c \ub2e4\ud2b8\ub4e4\ub85c \ud2b9\uc815 \uad34\ubb3c\ub4e4\uc744 \uc5bc\ub824\ubc84\ub9b4 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>얼음 다트들로 특정 괴물들을 얼려버릴 수 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2730"
   },
   "HT_Text_Inv_Dsc_FireDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud654\uc5fc \ub2e4\ud2b8\ub4e4\ub85c \ud2b9\uc815 \uad34\ubb3c\ub4e4\uc744 \ud0dc\uc6b8 \uc218 \uc788\ub2e4.<ES HT_Text_ES_S_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>화염 다트들로 특정 괴물들을 태울 수 있다.<ES HT_Text_ES_S_BOSStd>",
     "description": "SphinxText.xls, row 2731"
   },
   "HT_Text_Inv_Dsc_Acid": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc5fc\uc0b0 \ub2e4\ud2b8\ub4e4\ub85c \ud2b9\uc815 \uae08\uc18d \uc0ac\uc2ac\ub4e4\uc744 \ub179\uc774\uac70\ub098 \uad34\ubb3c\ub4e4\uc5d0 \uc0c1\ucc98\ub97c \uc785\ud790 \uc218 \uc788\ub2e4.<ES HT_Text_ES_S_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>염산 다트들로 특정 금속 사슬들을 녹이거나 괴물들에 상처를 입힐 수 있다.<ES HT_Text_ES_S_BOSStd>",
     "description": "SphinxText.xls, row 2732"
   },
   "HT_Text_Inv_Dsc_BladeOfOsiris": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \uac15\ub825\ud55c \uac80\uc740 \ud55c \ub54c \uc704\ub300\ud55c \uc2e0 \uc624\uc2dc\ub9ac\uc2a4\uac00 \uc0ac\uc6a9\ud588\ub358 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 강력한 검은 한 때 위대한 신 오시리스가 사용했던 것이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2733"
   },
   "HT_Text_Inv_Dsc_BronzeScarab": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \ud45c\uc900 \ub3d9\uc804\uc740 \uc5ec\ub7ec \uc885\ub958\uc758 \uc544\uc774\ud15c\ub4e4\uc744 \uad6c\uc785\ud558\uae30 \uc704\ud574 \uc0ac\uc6a9\ub41c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 표준 동전은 여러 종류의 아이템들을 구입하기 위해 사용된다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2734"
   },
   "HT_Text_Inv_Dsc_WingsOfIbis": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uace0\ub300\uc758 \uc720\ubb3c\ub85c\uc368 \uacf5\uc911\uc5d0\uc11c \uc774\ub2e8 \uc810\ud504\ub97c \ud560 \uc218 \uc788\ub294 \ub2a5\ub825\uc744 \ubd80\uc5ec\ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>고대의 유물로써 공중에서 이단 점프를 할 수 있는 능력을 부여한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2737"
   },
   "HT_Text_Inv_Dsc_Blowpipe": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uac15\ub825\ud55c \ubb34\uae30\uc640 \ub3c4\uad6c\ub85c\uc11c \uc6d0\uac70\ub9ac\uc758 \ubaa9\ud45c\ubb3c\uc5d0 \uacfc\ub141\uc5d0 \ub2e4\ud2b8\ub4e4\uc744 \ubc1c\uc0ac\ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>강력한 무기와 도구로서 원거리의 목표물에 과녁에 다트들을 발사한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2738"
   },
   "HT_Text_Inv_Dsc_CrocodileScales": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub9c8\ubc95\uc758 \uc720\ubb3c\ub85c\uc368 \uc218\uc911\uc5d0\uc11c \uace0\uc18d\uc73c\ub85c \ud5e4\uc5c4\uce60 \uc218 \uc788\uac8c \ud574\uc900\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>마법의 유물로써 수중에서 고속으로 헤엄칠 수 있게 해준다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2741"
   },
   "HT_Text_Inv_Dsc_UnderwaterProjectile": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \ub2e4\ud2b8\ub294 \ub9c8\ubc95\uc5d0 \uc758\ud574 \ubb34\uc81c\ud55c\uc73c\ub85c \uc0dd\uaca8\ub09c\ub2e4. \uc218\uc911\uc5d0\uc11c \ud5e4\uc5c4\uce58\uace0 \uc788\uc744 \ub3d9\uc548, \uacfc\ub141\uacfc \ud2b9\uc815 \uad34\ubb3c\ub4e4\uc744 \ub9de\ucd94\uae30 \uc704\ud574 \uc0ac\uc6a9\ub41c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 다트는 마법에 의해 무제한으로 생겨난다. 수중에서 헤엄치고 있을 동안, 과녁과 특정 괴물들을 맞추기 위해 사용된다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2742"
   },
   "HT_Text_Inv_Dsc_HandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uace0\ub300\uc758 \uc720\ubb3c\ub85c\uc368 \ub9e4\uc6b0 \ubb34\uac70\uc6b4 \ubb3c\uac74\ub4e4\uc744 \ubc00 \uc218 \uc788\ub294 \ud798\uc744 \ubd88\uc5b4\ub123\uc5b4 \uc900\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>고대의 유물로써 매우 무거운 물건들을 밀 수 있는 힘을 불어넣어 준다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2743"
   },
   "HT_Text_Inv_Dsc_ScarabPurse": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \uac00\ubc29\uc740 \ud669\uae08 \uc2a4\uce90\ub7fd\uc744 400\uac1c\ub098 \ub2f4\uc744 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 가방은 황금 스캐럽을 400개나 담을 수 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2745"
   },
   "HT_Text_Inv_Dsc_ScarabPurse2": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \uac00\ubc29\uc740 \ud669\uae08 \uc2a4\uce90\ub7fd\uc744 900\uac1c\ub098 \ub2f4\uc744 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 가방은 황금 스캐럽을 900개나 담을 수 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2746"
   },
   "HT_Text_Inv_Dsc_BeetlePouch": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \uc8fc\uba38\ub2c8\ub294 \ud3ec\ud68d \ub531\uc815\ubc8c\ub808\ub97c 20\ub9c8\ub9ac\uc640 \ud3ec\ud68d\ub41c \uc5ec\ub7ec \uc885\ub958\uc758 \uad34\ubb3c\ub4e4\uc744 \uac01\uac01 10\ub9c8\ub9ac\uc529 \ub2f4\uc744 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 주머니는 포획 딱정벌레를 20마리와 포획된 여러 종류의 괴물들을 각각 10마리씩 담을 수 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2747"
   },
   "HT_Text_Inv_Dsc_DartBelt": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \ud601\ub300\ub294 \uac01 \uc885\ub958\uc758 \ub2e4\ud2b8\ub4e4\uc744 50\uac1c\uae4c\uc9c0 \ub2f4\uc744 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 혁대는 각 종류의 다트들을 50개까지 담을 수 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2748"
   },
   "HT_Text_Inv_Dsc_BeetleStachel": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \uc791\uc740 \uac00\ubc29\uc740 \ud3ec\ud68d \ub531\uc815\ubc8c\ub808\ub4e4 50\ub9c8\ub9ac\uc640 \ud3ec\ud68d\ub41c \uc5ec\ub7ec \uc885\ub958\uc758 \uad34\ubb3c\ub4e4\uc744 \uac01\uac01 10\ub9c8\ub9ac\uc529 \ub2f4\uc744 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 작은 가방은 포획 딱정벌레들 50마리와 포획된 여러 종류의 괴물들을 각각 10마리씩 담을 수 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2750"
   },
   "HT_Text_Inv_Dsc_HandsOfAmunRa": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774\uac83\ub4e4\uc740 \uad49\uc7a5\ud788 \ud070 \ubb3c\uccb4\ub4e4\ub3c4 \ubc00 \uc218 \uc788\uac8c \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이것들은 굉장히 큰 물체들도 밀 수 있게 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2753"
   },
   "HT_Text_Inv_Dsc_ShieldOfOsiris": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \ub9c8\ubc95\uc758 \ubc29\ud328\ub294 \uc704\ub300\ud55c \uc2e0 \uc624\uc2dc\ub9ac\uc2a4\uac00 \uc804\uc7c1\uc5d0\uc11c \uc0ac\uc6a9\ud588\ub358 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 마법의 방패는 위대한 신 오시리스가 전쟁에서 사용했던 것이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2754"
   },
   "HT_Text_Inv_Dsc_CloakOfInvisibility": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \ub9c8\ubc95\uc11d\uc740 \uc0ac\uc6a9\uc790\uc5d0\uac8c \ud22c\uba85\uc758 \ud798\uc744 \ubd80\uc5ec\ud55c\ub2e4... \uadf8\ub7ec\ub098 \uadf8 \ub300\uac00\ub85c \uc0dd\uba85\uc744 \ube7c\uc557\uc544 \uac08 \uac83\uc774\ub2e4!<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 마법석은 사용자에게 투명의 힘을 부여한다... 그러나 그 대가로 생명을 빼앗아 갈 것이다!<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2761"
   },
   "HT_Text_Inv_Dsc_AnkhContainer": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc0dd\uba85\uc5d0\ub108\uc9c0\ub85c \ubc14\ub010 \ud669\uae08 \uc559\ud06c\ub294 \uccb4\ub825\uc744 \uc62c\ub824\uc900\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>생명에너지로 바뀐 황금 앙크는 체력을 올려준다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2763"
   },
   "HT_Text_Inv_Dsc_AnkhPiece": {
-    "message": "<ES HT_Text_ES_S_BOSStd>4\uac1c\uc758 \ud669\uae08 \uc559\ud06c \uc870\uac01\ub4e4\uc740 \uc5b4\ub5a4 \ub2a5\ub825\uc744 \uac00\uc9c4 \uc0ac\ub78c\uc5d0 \uc758\ud574 \ub2e4\ub978 \ud669\uae08 \uc559\ud06c\ub85c \ubcc0\ud615\ub420 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>4개의 황금 앙크 조각들은 어떤 능력을 가진 사람에 의해 다른 황금 앙크로 변형될 수 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2764"
   },
   "HT_Text_Inv_Dsc_CanopicVase": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc2e0\uc131\ud55c \ud654\ubcd1\uc73c\ub85c \ud22c\ud0d5\uce74\uba58\uc758 \uc601\ud63c\uc758 \uc870\uac01\uc744 \ub2f4\uace0 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>신성한 화병으로 투탕카멘의 영혼의 조각을 담고 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2765"
   },
   "HT_Text_Inv_Dsc_Pearl": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud478\ub978 \ub2e4\uc774\uc544\ubaac\ub4dc\ub85c\uc368 \uc2b9\uc790 \ud68c\ub791\uc758 \uac8c\uc784 \ub9c8\uc2a4\ud130\uc758 \uc18c\uc720\uc774\ub2e4. \uc774\uac83\uc744 \uadf8\uc5d0\uac8c \ub3cc\ub824\uc8fc\uc5b4 \ubcbd\uc758 \uc2dc\ub828\uc5d0\uc11c\uc758 \ub108\uc758 \uac00\uce58\ub97c \uc785\uc99d\ud558\ub77c.<ES HT_Text_ES_S_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>푸른 다이아몬드로써 승자 회랑의 게임 마스터의 소유이다. 이것을 그에게 돌려주어 벽의 시련에서의 너의 가치를 입증하라.<ES HT_Text_ES_S_BOSStd>",
     "description": "SphinxText.xls, row 2770"
   },
   "HT_Text_Inv_Dsc_Herbs": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc2dc\uc7a5\uc758 \uce58\ub8cc\ub97c \uc704\ud55c \uce58\ub8cc \uc57d\ucd08.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>시장의 치료를 위한 치료 약초.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2772"
   },
   "HT_Text_Inv_Dsc_BookOfTheDead": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \ucc45\uc740 \ubc14\uc2a4-\ucf13\uacfc \ubbf8\uc774\ub77c\ub97c \uc704\ud55c \ub0a9\uace8\ub2e8\uc9c0\ub4e4\uc744 \uc6b0\ub8e8\ud06c \uc131\uc73c\ub85c \ud568\uaed8 \ubcf4\ub0bc \uc218 \uc788\ub294 \uc8fc\ubb38\uc744 \ub2f4\uace0 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 책은 바스-켓과 미이라를 위한 납골단지들을 우루크 성으로 함께 보낼 수 있는 주문을 담고 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2778"
   },
   "HT_Text_Inv_Dsc_BronzeAnkh": {
-    "message": "\uc7ac\uace0\uc5d0 \ub098\ud0c0\ub098\uc9c0 \uc54a\ub294\ub2e4",
+    "message": "재고에 나타나지 않는다",
     "description": "SphinxText.xls, row 2784"
   },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uad34\ubb3c\ub4e4\uc744 \ud3ec\ud68d\ud558\uae30 \uc704\ud574 \uc0ac\uc6a9\ub418\ub294 \ub531\uc815\ubc8c\ub808\ub4e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>괴물들을 포획하기 위해 사용되는 딱정벌레들.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2787"
   },
   "HT_Text_Inv_Dsc_StandardDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub2e4\ud2b8\ub4e4\uc740 \ub9c8\ubc95\uc73c\ub85c \ubb34\uc81c\ud55c \uc0dd\uaca8\ub09c\ub2e4. \uadf8\ub7ec\ub098 \ud3ed\ubc1c\uc131\uc758 \uad34\ubb3c\ub4e4\uc5d0\uac8c\ub294 \uc791\uc740 \uc0c1\ucc98\ub9cc \uc904 \uc218 \uc788\uc744\ubfd0\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>다트들은 마법으로 무제한 생겨난다. 그러나 폭발성의 괴물들에게는 작은 상처만 줄 수 있을뿐이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2788"
   },
   "HT_Text_Inv_Dsc_KaDart": {
-    "message": "\uc7ac\uace0\uc5d0 \ub098\ud0c0\ub098\uc9c0 \uc54a\ub294\ub2e4",
+    "message": "재고에 나타나지 않는다",
     "description": "SphinxText.xls, row 2789"
   },
   "HT_Text_Inv_Dsc_BounceDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub2e4\ud2b8\ub4e4\uc740 \ub9c8\ubc95\uc73c\ub85c \ubb34\uc81c\ud55c \uc0dd\uaca8\ub09c\ub2e4. \uc774\uac83\uc740 \uacfc\ub141\ub4e4\uc744 \uba40\ub9ac\uc11c\ub3c4 \ub9de\ucd9c \uc218 \uc788\uc9c0\ub9cc, \ud3ed\ubc1c\uc131\uc758 \uad34\ubb3c\ub4e4\uc5d0\uac8c\ub294 \uc791\uc740 \uc0c1\ucc98\ub97c \uc904 \uc218 \uc788\uc744\ubfd0\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>다트들은 마법으로 무제한 생겨난다. 이것은 과녁들을 멀리서도 맞출 수 있지만, 폭발성의 괴물들에게는 작은 상처를 줄 수 있을뿐이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2790"
   },
   "HT_Text_Inv_Dsc_PossessionDart": {
-    "message": "\uc7ac\uace0\uc5d0 \ub098\ud0c0\ub098\uc9c0 \uc54a\ub294\ub2e4",
+    "message": "재고에 나타나지 않는다",
     "description": "SphinxText.xls, row 2791"
   },
   "HT_Text_Inv_Dsc_PhysNote": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc758\uc0ac\uac00 \ubc1c\uba85\uac00 \ucf00\uba54\ud2b8\uc5d0 \ubcf4\ub0b4\ub294 \ucabd\uc9c0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>의사가 발명가 케메트에 보내는 쪽지.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2792"
   },
   "HT_Text_Inv_Dsc_BC01_Giant_Prawn": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \uac9d \uc5ec\uc655\uc758 \uc6a9\uc0ac\ub4e4\uc740 \uc5c4\uccad\ub098\uac8c \uc794\uc778\ud558\ub2e4...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc804\ud22c\uc5d0\uc11c \uc774\ub4e4\uc744 \ub300\uba74\ud558\ub294 \uc790\ub4e4\uc5d0\uac8c \ud589\uc6b4\uc774 \uc788\uae30\ub97c.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 겝 여왕의 용사들은 엄청나게 잔인하다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>전투에서 이들을 대면하는 자들에게 행운이 있기를.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2794"
   },
   "HT_Text_Inv_Dsc_BM09_Smiling_burble": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubc84\ube14 \uc885\uc871 \uc911 \ubcc4\ub09c \uba64\ubc84\ub85c \ubfd4\uc744 \uc774\uc6a9\ud558\uc5ec \uacf5\uaca9\ud55c\ub2e4...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc774\ub4e4\uc758 \ubfd4\uc740 \ud0dc\uc5b4\ub098\uba74\uc11c \uba38\ub9ac \uc704\uc5d0\uc11c \uc790\ub77c\uac8c \ub41c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>버블 종족 중 별난 멤버로 뿔을 이용하여 공격한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들의 뿔은 태어나면서 머리 위에서 자라게 된다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2795"
   },
   "HT_Text_Inv_Dsc_BM10_i_Cyclops": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \uc7a1\uae30\uc5b4\ub824\uc6b4 \ubc8c\ub808\ub4e4\uc740 \uadf8\ub4e4\uc758 \uc678\ub208\uc5d0\uc11c \uac15\ub825\ud55c \uad11\uc120\uc744 \uc3d8\uba70 \uc9e7\uc740 \uac70\ub9ac\uc758 \ud154\ub808\ud3ec\ud2b8\uac00 \uac00\ub2a5\ud558\ub2e4...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc0c1\ucc98\ub97c \uc785\uc73c\uba74 \uc2f8\uc774\ud074\ub86d\uc2a4\ub294 \ub450 \uac1c\ub85c \ub098\ub258\uc5b4\uc838\uc11c \uc704\ud5d8\uc774 \ubc30\uac00 \ub41c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 잡기어려운 벌레들은 그들의 외눈에서 강력한 광선을 쏘며 짧은 거리의 텔레포트가 가능하다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>상처를 입으면 싸이클롭스는 두 개로 나뉘어져서 위험이 배가 된다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2796"
   },
   "HT_Text_Inv_Dsc_BM12_slim_burble": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud3ed\ubc1c\ub825\uc744 \ubaa8\uc544\uc11c \ubaa9\ud45c\ubb3c\uc5d0 \ub3cc\uc9c4\ud55c\ub2e4...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc774 \uc810\uc744 \uc774\uc6a9\ud558\uc5ec \ud3ec\ud68d\ud55c \uc2ac\ub9bc \ubc84\ube14\ub4e4\uc744 \uc7a5\uc560\ubb3c \uc55e\uc5d0 \ub193\uc73c\uba74 \uc720\uc6a9\ud558\uac8c \uc4f8 \uc218 \uc788\uc744 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>폭발력을 모아서 목표물에 돌진한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이 점을 이용하여 포획한 슬림 버블들을 장애물 앞에 놓으면 유용하게 쓸 수 있을 것이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2797"
   },
   "HT_Text_Inv_Dsc_BR04_Goofy_Lizard": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc5bc\ube60\uc9c4 \ub3c4\ub9c8\ubc40\ub4e4\uc740 \uc11c\ud22c\ub974\uace0 \uac74\ub9dd\uc99d\uc774 \uc788\uc9c0\ub9cc \uc0ac\uc2e4\uc740 \uc628\uc21c\ud55c \uc0dd\ubb3c\uc774\ub2e4. \uc5b8\uc81c\ub098 \uc790\uc2e0\uc758 \uadf8\ub9bc\uc790\ub97c \ucad3\uc73c\uba70 \uc2dc\uac04\uc744 \ubcf4\ub0b8\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>얼빠진 도마뱀들은 서투르고 건망증이 있지만 사실은 온순한 생물이다. 언제나 자신의 그림자를 쫓으며 시간을 보낸다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2798"
   },
   "HT_Text_Inv_Dsc_BR05_Dino_Oaf": {
-    "message": "\ud574\uc57c \ud560 \uac83<E>",
+    "message": "해야 할 것<E>",
     "description": "SphinxText.xls, row 2799"
   },
   "HT_Text_Inv_Dsc_BR06_Half_Brute": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubc18\uc218\ub77c\ub294 \uc774\ub984\uc740 \uc774 \uad34\ubb3c\ub4e4\uc758 \uacf5\uaca9\uc131\uc744 \uacfc\uc18c\ud3c9\uac00\ud558\ub294 \uac83\uc774\ub2e4...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\ub6b1\ub6b1\ud558\uc5ec \ub290\ub9ac\uac8c \uac77\uc9c0\ub9cc \uac15\ud55c \ud798\uc73c\ub85c \ub545\uc744 \ub0b4\ub9ac\uccd0\uc11c \uac15\ub825\ud55c \ucda9\uaca9\ud30c\ub97c \ub0bc \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>반수라는 이름은 이 괴물들의 공격성을 과소평가하는 것이다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>뚱뚱하여 느리게 걷지만 강한 힘으로 땅을 내리쳐서 강력한 충격파를 낼 수 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2800"
   },
   "HT_Text_Inv_Dsc_BU01_Mummy_Minotaur": {
-    "message": "\ud574\uc57c \ud560 \uac83<E>",
+    "message": "해야 할 것<E>",
     "description": "SphinxText.xls, row 2801"
   },
   "HT_Text_Inv_Dsc_BU02_Skeletal_Axeman": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub3c4\ub07c\ub97c \ud718\ub450\ub974\ub294 \uc5b8\ub370\ub4dc \uc6a9\uc0ac\ub4e4\uc744 \uc870\uc2ec\ud558\ub77c...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc774\ub4e4\uc740 \uadf8\ub4e4\uc758 \ubb34\uae30\ub97c \ubd80\uba54\ub791\uc73c\ub85c \uc0ac\uc6a9\ud560 \uc218 \uc788\uace0 \uadf8 \ub3c4\ub07c\uac00 \ub3cc\uc544\uc62c \ub54c\uae4c\uc9c0 \ubcf4\ud638\ubc29\ud328 \uc548\uc5d0 \uc228\uc744 \uc218\ub3c4 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>도끼를 휘두르는 언데드 용사들을 조심하라...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들은 그들의 무기를 부메랑으로 사용할 수 있고 그 도끼가 돌아올 때까지 보호방패 안에 숨을 수도 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2802"
   },
   "HT_Text_Inv_Dsc_BU03_zombie_man": {
-    "message": "\ud574\uc57c \ud560 \uac83<E>",
+    "message": "해야 할 것<E>",
     "description": "SphinxText.xls, row 2803"
   },
   "HT_Text_Inv_Dsc_BU05_almost_a_bull": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc62c\ubaa8\uc2a4\ud2b8-\uc5b4-\ubd88\uc740 \uba38\ub9ac\uc5d0 \uc788\ub294 \ub450 \ubfd4\ub9cc\uc774 \uc544\ub2c8\ub77c \ube68\uac15\uc744 \uc785\uace0 \uc788\ub294 \uac83\uc740 \ub3cc\uc9c4\ud558\uc5ec \uacf5\uaca9\ud558\ub294 \uac81\ub098\ub294 \ubc84\ub987 \ub54c\ubb38\uc5d0 \uc774\ub984\uc774 \uc8fc\uc5b4\uc84c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>올모스트-어-불은 머리에 있는 두 뿔만이 아니라 빨강을 입고 있는 것은 돌진하여 공격하는 겁나는 버릇 때문에 이름이 주어졌다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2804"
   },
   "HT_Text_Inv_Dsc_BU06_MBird": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774\ub4e4\uc740 \uc5b8\ub370\ub4dc\uc774\uba70 \ube44\uc6b0\ud638\uc801 \uc874\uc7ac\uc774\ub2e4. \uc704\ud611\uc774\ub77c\uace0 \ub290\ub07c\ub294 \uac83\uc5d0\uac8c \uc77c\ub2e8 \ubd80\ub9ac\ub85c \ub0b4\uce60 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이들은 언데드이며 비우호적 존재이다. 위협이라고 느끼는 것에게 일단 부리로 내칠 것이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2805"
   },
   "HT_Text_Inv_Dsc_FL02_Featherless_Turkey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uae43\ud138 \uc5c6\ub294 \uce60\uba74\uc870\ub294 \uae43\ud138\uc774 \ud558\ub098\ub3c4 \uc5c6\uc5b4\uc11c \uc9c0\uc5b4\uc9c4 \uac83\uc774\ub2e4. \ub3d9\uc808\uae30 \uc794\uce58\uc5d0 \ubcc4\ubbf8\ub85c \uc4f0\uc778\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>깃털 없는 칠면조는 깃털이 하나도 없어서 지어진 것이다. 동절기 잔치에 별미로 쓰인다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2806"
   },
   "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc154\ud2c0\ucf55 \uc0c8\ub294 \ub2e4\ub9ac\uac00 \ud558\ub098\uc9c0\ub9cc \ub9e4\uc6b0 \ube60\ub974\ub2e4...<P><ES HT_Text_ES_S_BOSStd>\uacf5\uc911\uc744 \ub0a0\uc544\uac08 \ub54c\ub294 \ub2e4\ud2b8 \uac19\uc544 \ubcf4\uc774\uba70, \uc0c1\ub2f9\ud55c \uc704\ub825\uc774 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>셔틀콕 새는 다리가 하나지만 매우 빠르다...<P><ES HT_Text_ES_S_BOSStd>공중을 날아갈 때는 다트 같아 보이며, 상당한 위력이 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2807"
   },
   "HT_Text_Inv_Dsc_FL04_Skeletal_Bat": {
-    "message": "\ud574\uc57c \ud560 \uac83",
+    "message": "해야 할 것",
     "description": "SphinxText.xls, row 2808"
   },
   "HT_Text_Inv_Dsc_FL04_Skeletal_Bat_Fire": {
-    "message": "\ud574\uc57c \ud560 \uac83",
+    "message": "해야 할 것",
     "description": "SphinxText.xls, row 2809"
   },
   "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
-    "message": "\ub3c5\uc218\ub9ac \ubbf8\uc774\ub77c\ub294 \uac00\uc7a5 \ud070 \uc0c8 \uc911 \ud558\ub098\uc774\ub2e4. \uc5b8\ub370\ub4dc\uc9c0\ub9cc \uc0b4\uc544\uc788\ub294 \uc0c1\ub300\ubcf4\ub2e4 \ub354\uc6b1 \uc0dd\uae30 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "독수리 미이라는 가장 큰 새 중 하나이다. 언데드지만 살아있는 상대보다 더욱 생기 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2810"
   },
   "HT_Text_Inv_Dsc_FL06_Undead_Man": {
-    "message": "\ud574\uc57c \ud560 \uac83<E>",
+    "message": "해야 할 것<E>",
     "description": "SphinxText.xls, row 2811"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub098\uc774\ud504 \uace0\uc591\uc774\ub4e4\uc740 \ub6f0\uc5b4\ub09c \ub3c4\uc57d\uacfc \ubc18\ub3d9\uc73c\ub85c \uc801\ub4e4\uc744 \ud63c\ub3c8\uc2dc\ucf1c\uc11c \ubc88\uac1c\uac19\uc774 \uc801\uc5d0\uac8c \ub0a0\uce74\ub85c\uc6b4 \ubc1c\ud1b1\uacf5\uaca9\uc744 \ud55c\ub2e4.<ES HT_Text_ES_S_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>나이프 고양이들은 뛰어난 도약과 반동으로 적들을 혼돈시켜서 번개같이 적에게 날카로운 발톱공격을 한다.<ES HT_Text_ES_S_BOSStd>",
     "description": "SphinxText.xls, row 2812"
   },
   "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": "\ud574\uc57c \ud560 \uac83<E>",
+    "message": "해야 할 것<E>",
     "description": "SphinxText.xls, row 2813"
   },
   "HT_Text_Inv_Dsc_HD14_Crab": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud06c\ub7a9\ud578\ub4dc\ub4e4\uc740 \uc57d\uac04 \uadc0\ucc2e\uc740 \ubc29\ubc95\uc73c\ub85c \uc801\uc744 \uacf5\uaca9\ud55c\ub2e4. \uadf8\ub7ec\ub098 \uadfc\ucc98\uc5d0 \uc624\uac8c \ub418\uba74 \uace0\ud1b5\uc744 \uac10\uc218\ud574\uc57c\ub9cc \ud560 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>크랩핸드들은 약간 귀찮은 방법으로 적을 공격한다. 그러나 근처에 오게 되면 고통을 감수해야만 할 것이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2814"
   },
   "HT_Text_Inv_Dsc_HD15_GuardTest": {
-    "message": "\ud574\uc57c \ud560 \uac83<E>",
+    "message": "해야 할 것<E>",
     "description": "SphinxText.xls, row 2815"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub0a0\uce74\ub85c\uc6b4 \ubd80\ub9ac\ub4e4\uc740 \uc591\uc190\uc5d0 \uce7c\uc744 \uc950\uace0 \uc788\uc73c\uba70 \uc801\ub4e4 \ud5f7\uac08\ub9ac\uac8c \ub9cc\ub4e4\uc5b4 \uacf5\uaca9\uc744 \ud55c\ub2e4...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\ub290\ub9ac\uc9c0\ub9cc \uc801\ub4e4\uc5d0\uac8c \ud655\uc2e4\ud788 \uc801\uc744 \uc555\ub3c4\ud558\ub294 \uac83\uc73c\ub85c \uc545\uba85 \ub192\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>날카로운 부리들은 양손에 칼을 쥐고 있으며 적들 헷갈리게 만들어 공격을 한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>느리지만 적들에게 확실히 적을 압도하는 것으로 악명 높다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2816"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud574\uace8 \uc22d\ubc30\uc790\ub4e4\uc740 \ud654\uc5fc \uc9c0\ud321\uc774\uc640 \uc720\ub839 \uac19\uc740 \ub098\ub294 \ud574\uace8\ub4e4\uc744 \uc18c\ud658\ud560 \uc218 \uc788\ub294 \ub2a5\ub825\uc744 \uc774\uc6a9\ud558\uc5ec \uacf5\uaca9\ud574 \uc62c \uac83\uc774\ub2e4...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc774\ub4e4 \uc911 \ud558\ub098\ub97c \ub9cc\ub09c\ub2e4\uba74 \ubd84\uba85\uc774 \uadfc\ucc98\uc5d0 \ud574\uace8 \uc22d\ubc30\uc790\ub4e4\uc774 \uc788\uc744 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>해골 숭배자들은 화염 지팡이와 유령 같은 나는 해골들을 소환할 수 있는 능력을 이용하여 공격해 올 것이다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들 중 하나를 만난다면 분명이 근처에 해골 숭배자들이 있을 것이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2817"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubcbd\uc744 \ud1b5\uacfc\ud560 \uc218 \uc788\uace0 \ube60\ub974\uac8c \uc6c0\uc9c1\uc5ec\uc11c \uc54c \uc218 \uc5c6\ub294 \uacf3\uc5d0\uc11c \uacf5\uaca9\ud55c\ub2e4...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\ubc1c\uc0ac \uacf5\uaca9\uc740 \ud1b5\ud558\uc9c0 \uc54a\ub294\ub2e4. \uadf8\ub7f0 \uacf5\uaca9\uc740 \uc774 \uc5b4\ub460\uc758 \uc22d\ubc30\uc790\ub4e4\uc744 \uadf8\ub0e5 \ud1b5\uacfc\ud558\uae30 \ub54c\ubb38\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>벽을 통과할 수 있고 빠르게 움직여서 알 수 없는 곳에서 공격한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>발사 공격은 통하지 않는다. 그런 공격은 이 어둠의 숭배자들을 그냥 통과하기 때문이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2818"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub6f0\uc5b4\ub09c \uac80\uc220\ub85c \uc801\ub4e4\uc744 \ucad3\ub294 \uc545\ub9c8\uc131\uc758 \ube5b\ub098\ub294 \ud574\uace8. <ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc5f0\uc18d\uacf5\uaca9\uc744 \ud558\uba74 \ubc29\uc5b4 \ud558\ub294 \uacbd\uc6b0\ub3c4 \uc788\uc73c\ub2c8 \uc8fc\uc758\ud558\ub77c.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>뛰어난 검술로 적들을 쫓는 악마성의 빛나는 해골. <ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>연속공격을 하면 방어 하는 경우도 있으니 주의하라.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2819"
   },
   "HT_Text_Inv_Dsc_IN01_Green_Giant_worm": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774\ub4e4\uc740 \uad6c\uba4d\uc5d0\uc11c \ub180\ub784\ub9cc\ud55c \uc18d\ub3c4\ub85c \ub6f0\uc5b4 \ub098\uc624\uba70 \uc721\uc911\ud55c \ubab8\uc73c\ub85c \uae54\uc544\ubb49\uac90\ub2e4...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc5b4\ub9ac\uc219\ud55c \uacf5\uaca9\uc73c\ub85c\ub294 \ud1b5\ud558\uc9c0 \uc54a\uc744 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이들은 구멍에서 놀랄만한 속도로 뛰어 나오며 육중한 몸으로 깔아뭉겐다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>어리숙한 공격으로는 통하지 않을 것이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2820"
   },
   "HT_Text_Inv_Dsc_IN07_Blade_Scorpion": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uce7c\ub0a0 \uc804\uac08\uc740 \uc6c0\uc9c1\uc784\ub3c4 \ube60\ub974\uc9c0\ub9cc \uacf5\uaca9\uc740 \ub354 \ube60\ub974\ub2e4. \ub140\uc11d\ub4e4\uc774 \uc990\uaca8 \uc7a0\uc744 \uc790\ub294 \uc5b4\ub450\uc6b4 \uad6c\uba4d\ub4e4\uc744 \uc870\uc2ec\ud558\ub77c.<ES HT_Text_ES_S_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>칼날 전갈은 움직임도 빠르지만 공격은 더 빠르다. 녀석들이 즐겨 잠을 자는 어두운 구멍들을 조심하라.<ES HT_Text_ES_S_BOSStd>",
     "description": "SphinxText.xls, row 2821"
   },
   "HT_Text_Inv_Dsc_IN08_Tacked_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubd99\uc5b4\uc788\ub294 \uac70\ubbf8\ub294 \uc774\uacf3 \uc800\uacf3\uc5d0 \uac78\ub824 \uc788\ub294 \uac83\uc744 \uc88b\uc544\ud55c\ub2e4...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc774\ub4e4\uc774 \uc704\uc5d0\uc11c \ub5a8\uc5b4\uc9c8 \uc218 \uc788\uc73c\ub2c8 \ub3d9\uad74\uc774 \ub9ce\uc740 \ud130\ub110\uc5d0\uc11c\ub294 \ucc9c\uc7a5\uc744 \uc8fc\uc758\ud558\ub77c.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>붙어있는 거미는 이곳 저곳에 걸려 있는 것을 좋아한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들이 위에서 떨어질 수 있으니 동굴이 많은 터널에서는 천장을 주의하라.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2822"
   },
   "HT_Text_Inv_Dsc_IN09_Sak_Spike_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc801\uc5d0\uac8c \ub2ec\ub77c\ubd99\uc740 \ud6c4, \ud754\ub4e4\uc5b4 \ub5a8\uc5b4 \ub728\ub9ac\uae30 \uc804\uae4c\uc9c0\ub294 \ubb3c\uace0 \ub193\uc9c0 \uc54a\ub294\ub2e4....<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc774\ub4e4\uc740 \ubb34\ub9ac\ub85c \uc0ac\ub0e5\ud558\uae30 \ub54c\ubb38\uc5d0 \ud558\ub098\uac00 \ubcf4\uc774\uba74 \ubc18\ub4dc\uc2dc \ub3d9\ub8cc\ub4e4\uc774 \uc8fc\uc704\uc5d0 \uc788\uc744 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>적에게 달라붙은 후, 흔들어 떨어 뜨리기 전까지는 물고 놓지 않는다....<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들은 무리로 사냥하기 때문에 하나가 보이면 반드시 동료들이 주위에 있을 것이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2823"
   },
   "HT_Text_Inv_Dsc_IN11_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc5b4\ub514\uc5d0\uc11c\ub098 \ube60\ub974\uac8c \uc6c0\uc9c1\uc77c \uc218 \uc788\ub294 \ub2a5\ub825\uc744 \uac00\uc9c4 \uc808\uc9c0\ub3d9\ubb3c...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc9c0\ub3c5\ud55c \uc774\ube68\ubfd0\ub9cc\uc774 \uc544\ub2c8\ub77c \ub2e4\ub9ac \ub05d\ubd80\ubd84\uc5d0\ub3c4 \ub0a0\uce74\ub85c\uc6b4 \ubc1c\ud1b1\uc774 \ub098 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>어디에서나 빠르게 움직일 수 있는 능력을 가진 절지동물...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>지독한 이빨뿐만이 아니라 다리 끝부분에도 날카로운 발톱이 나 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2824"
   },
   "HT_Text_Inv_Dsc_PI01_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uac77\ub294 \ubaa8\uc2b5\uc740 \uc6b0\uc2a4\uc6cc \ubcf4\uc774\uc9c0\ub9cc \uadf8\ub4e4\uc774 \ubb34\ub294 \ud798\uc740 \ub300\ub2e8\ud558\ub2e4. \uc0ac\ub098\uc6b4 \uc131\uaca9\uc774\ub2e4...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc774\ub4e4\uc758 \ucd94\uc704\ub3c4 \uc798 \uacac\ub518\ub2e4\uace0 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>걷는 모습은 우스워 보이지만 그들이 무는 힘은 대단하다. 사나운 성격이다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들의 추위도 잘 견딘다고 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2825"
   },
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uacac\uac11 \ud53c\ub77c\ub0d0\ub294 \ud30c\ub77c\ub098\uac00 \uc9c4\ud654\ud55c \uc0c8\ub85c\uc6b4 \uc885\uc774\ub2e4. \ucd5c\uadfc\uc5d0 \ub4e4\uc5b4\uc11c\uc57c \ubc1c\uacac \ub418\uc5c8\uc73c\uba70, \ub2e4\ub978 \uc885\ub958\ub4e4\ubcf4\ub2e4 \ube60\ub974\uace0 \uac15\ud558\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>견갑 피라냐는 파라나가 진화한 새로운 종이다. 최근에 들어서야 발견 되었으며, 다른 종류들보다 빠르고 강하다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2826"
   },
   "HT_Text_Inv_Dsc_PI01_Green_Piranha": {
-    "message": "\ud560 \uac83",
+    "message": "할 것",
     "description": "SphinxText.xls, row 2827"
   },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubc40 \uac19\uc740 \ubb3c\uace0\uae30\ub85c \uc804\uae30\ub97c \ubc29\ucd9c \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc804\uae30\ubc40\uc7a5\uc5b4\ub4e4\uc740 \uacf5\uaca9\uc801\uc774\uba70 \uc790\uc2e0\uc758 \uc601\uc5ed\uc744 \uc9c0\ud0a4\uae30 \uc704\ud574 \uc5ec\ub7ff\uc774 \ubaa8\uc5ec \ub113\uc740 \uc9c0\uc5ed\uc758 \ubb3c\uc5d0 \uc804\uae30\ub97c \ud750\ub974\uac8c \ud558\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc838 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>뱀 같은 물고기로 전기를 방출 한다.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>전기뱀장어들은 공격적이며 자신의 영역을 지키기 위해 여럿이 모여 넓은 지역의 물에 전기를 흐르게 하는 것으로 알려져 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2828"
   },
   "HT_Text_Inv_Dsc_PI03_Aka_Manta_Rays": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub300\ud615\uc758 \uc2dd\uc6a9 \ubc14\ub2f7\ubb3c\uace0\uae30\ub85c \ub0a9\uc791\ud55c \ubab8\uccb4\uc640 \uc720\uc5f0\ud558\uac8c \ud5e4\uc5c4\uce58\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc838 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc624\ub7ab\ub3d9\uc548 \uc694\ub9ac\uc7ac\ub8cc\ub85c \uc0ac\uc6a9\ub418\uba70 \uac00\uae4c\uc774 \ub2e4\uac00\uac00\uba74 \ub180\ub77c \ub2ec\uc544\ub09c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>대형의 식용 바닷물고기로 납작한 몸체와 유연하게 헤엄치는 것으로 알려져 있다.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>오랫동안 요리재료로 사용되며 가까이 다가가면 놀라 달아난다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2829"
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ube60\ub974\uac8c \ud5e4\uc5c4\uce58\uba70 \uc790\uc2e0\uc758 \uc601\uc5ed\uc744 \uc9c0\ud0a4\ub294 \ucc99\ucd94\ubb3c\uace0\uae30\ub294 \uc885\uc885 \uace0\uc704\uce35\uc5d0\uc11c \uc790\uc2e0\uc758 \uacbd\ube44\ub97c \uc704\ud574 \uae30\ub974\uae30\ub3c4 \ud55c\ub2e4.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>\uc720\uc5f0\ud558\uac8c \uc6c0\uc9c1\uc774\uba74\uc11c \uc801\ub4e4\uc774 \uac10\uc9c0\ud558\uae30\ub3c4 \uc804\uc5d0 \uacf5\uaca9\ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>빠르게 헤엄치며 자신의 영역을 지키는 척추물고기는 종종 고위층에서 자신의 경비를 위해 기르기도 한다.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>유연하게 움직이면서 적들이 감지하기도 전에 공격한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2830"
   },
   "HT_Text_Inv_Dsc_PI05_Aka_Turtle": {
-    "message": "\ud560 \uac83",
+    "message": "할 것",
     "description": "SphinxText.xls, row 2831"
   },
   "HT_Text_Inv_Dsc_PI06_Aka_Tentacle_Creature": {
-    "message": "\ud560 \uac83",
+    "message": "할 것",
     "description": "SphinxText.xls, row 2832"
   },
   "HT_Text_Inv_Dsc_PL01_Eye": {
-    "message": "\ud560 \uac83",
+    "message": "할 것",
     "description": "SphinxText.xls, row 2833"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub098\ubb34 \uc0dd\ubb3c\uc740 \uc544\ub984\ub2e4\uc6b4 \ub9c8\ubc95\uc758 \ud798\uc744 \uac00\uc9c0\uace0 \uc788\uc73c\uba70 \uc778\uad11\uc758 \ube5b\uc73c\ub85c \ub9c8\ubc95\uc744 \uac78\uc5b4\uc11c \ubc11\uc5d0\uc11c \uae30\uc2b5\uc744 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>나무 생물은 아름다운 마법의 힘을 가지고 있으며 인광의 빛으로 마법을 걸어서 밑에서 기습을 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2834"
   },
   "HT_Text_Inv_Dsc_PL04_Sunflower_With_Face": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud574\ubc14\ub77c\uae30\ub97c \uc870\uc2ec\ud558\ub77c. \uc704\ud611\uc801\uc778 \ud3ec\uc790 \uacf5\uaca9\uc744 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>해바라기를 조심하라. 위협적인 포자 공격을 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2835"
   },
   "HT_Text_Inv_Dsc_QC01_Pokemon": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub290\ub9ac\uace0, \uc21c\ud558\uace0 \uc870\uc6a9\ud55c \uaecd\uc9c8 \uad34\ubb3c\ub4e4\uc740 \uc4f8\ubaa8\uac00 \uac70\uc758 \uc5c6\ub2e4. \ubd80\uc790\ub4e4\uc740 \uc774\ub4e4\uc758 \uaecd\ub370\uae30\ub97c \uc7a5\uc2dd\uc73c\ub85c  \uc0ac\uc6a9\ud558\uae30\ub3c4 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>느리고, 순하고 조용한 껍질 괴물들은 쓸모가 거의 없다. 부자들은 이들의 껍데기를 장식으로  사용하기도 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2836"
   },
   "HT_Text_Inv_Dsc_QR01_Cobra": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ucf54\ube0c\ub77c\ub294 \ub3c5\uc744 \uc9c0\ub2cc \ub450\uac74\ubaa8\uc591\uc758 \ubc40\uc73c\ub85c \ub098\ubb34\uac00 \uc788\ub294 \ud3c9\uc6d0\uc5d0\uc11c \uc11c\uc2dd\ud55c\ub2e4. \uc790\uc2e0\uc758 \uc601\uc5ed \uce68\ubc94\ud558\uba74 \uc774\ub4e4\uc740 \ubc14\ub85c \uacf5\uaca9\ud574 \uc62c \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>코브라는 독을 지닌 두건모양의 뱀으로 나무가 있는 평원에서 서식한다. 자신의 영역 침범하면 이들은 바로 공격해 올 것이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2837"
   },
   "HT_Text_Inv_Dsc_QR02_Sak_Spitting_Toad": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc5c4\uccad\ub09c \ud06c\uae30\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0 \uc774 \ub450\uaebc\ube44\ub294 \ucf54\ucf54\ub11b\uc744  \uc88b\uc544\ud558\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc838 \uc788\ub294 \uc870\uc6a9\ud55c \uc0dd\ubb3c\uc774\ub2e4.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>\ubc49\ub294 \ub450\uaebc\ube44\ub4e4\uc740 \ucf54\ucf54\ub11b\uc744 \uc8fc\uba74 \ud0d0\ud5d8\uac00\ub4e4\uc744 \ub3c4\uc640 \uc900\ub2e4\uace0 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>엄청난 크기에도 불구하고 이 두꺼비는 코코넛을  좋아하는 것으로 알려져 있는 조용한 생물이다.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>뱉는 두꺼비들은 코코넛을 주면 탐험가들을 도와 준다고 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2838"
   },
   "HT_Text_Inv_Dsc_QR03_Sak_Small_Frog": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \uac1c\uad6c\ub9ac\ub294 \uc791\uc9c0\ub9cc \uc548\uc804\ud55c \uc0dd\ubb3c\uc740 \uc544\ub2c8\ub2e4. \ub2aa\uc9c0\ub300\uc5d0\uc11c \uc0b4\uace0 \uc788\uc73c\uba70 \ub3c5\uc131\uc744 \uc9c0\ub2c8\uace0 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 개구리는 작지만 안전한 생물은 아니다. 늪지대에서 살고 있으며 독성을 지니고 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2839"
   },
   "HT_Text_Inv_Dsc_QR04_Sak_Nose_Needler": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub178\uc6b0\uc988 \ub2c8\ub4e4\ub7ec\ub294 \uba3c\uc9c0\uac00 \ub9ce\uc740 \uc9c0\uc5ed\uc5d0\uc11c \ubc1c\uacac\ub418\ub294 \ub545\uc744 \ud30c\ub294 \ud3ec\uc720\ub958\ub2e4. \uc774 \ub140\uc11d\uc744 \uc7a1\ub294\uae30\ub294 \uadf8\ub9ac \uc27d\uc9c0 \uc54a\uc744 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>노우즈 니들러는 먼지가 많은 지역에서 발견되는 땅을 파는 포유류다. 이 녀석을 잡는기는 그리 쉽지 않을 것이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2840"
   },
   "HT_Text_Inv_Dsc_QU01_Skeletal_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud070\uba38\ub9ac\ub97c \uc774\uc6a9\ud558\uc5ec \uc801\uc5d0\uac8c \ubc15\uce58\uae30\ub97c \ud558\ub294 \uac83\uc73c\ub85c \uc54c\ub824\uc838 \uc788\ub2e4. \ud574\uace8 \uac70\ubbf8\ub294 \uc801\uc744 \uae30\uc808\uc744 \uc2dc\ud0a8 \ud6c4\uc5d0 \uc990\uaca8\uac00\uba74\uc11c \uc7a1\uc544\uba39\ub294\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>큰머리를 이용하여 적에게 박치기를 하는 것으로 알려져 있다. 해골 거미는 적을 기절을 시킨 후에 즐겨가면서 잡아먹는다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2841"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc704\ud5d8\uc758 \uac00\ub2a5\uc131\uc744 \uac10\uc9c0\ud558\uba74 \uace0\uc18d\ud68c\uc804\uc744 \ud558\uba70 \uc801\uc5d0\uac8c \ub3cc\uc9c4\ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>위험의 가능성을 감지하면 고속회전을 하며 적에게 돌진한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2842"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Fire": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud574\uace8\uc758 \uc544\ub974\ub9c8\ub51c\ub85c\ucc98\ub7fc \ud68c\uc804 \ubc0f \uae30 \ubaa8\uc73c\uae30 \uacf5\uaca9\uc744 \uc0ac\uc6a9\ud558\ub294 \ud574\uace8\uc758 \ud654\uc5fc \uc544\ub974\ub9c8\ub51c\ub85c\ub294 \ud654\uc5fc\uacf5\uaca9\uc73c\ub85c \uc801\ub4e4\uc744 \ud0dc\uc6cc\ubc84\ub9b0\ub2e4...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>\ud3ec\ud68d\uc744 \ud55c \ud6c4 \uc774\ub4e4\uc744 \uc774\uc6a9 \ub098\ubb34\ub85c \ub41c \uc7a5\uc560\ubb3c\uc744 \ud0dc\uc6cc\ubc84\ub9b4 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>해골의 아르마딜로처럼 회전 및 기 모으기 공격을 사용하는 해골의 화염 아르마딜로는 화염공격으로 적들을 태워버린다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>포획을 한 후 이들을 이용 나무로 된 장애물을 태워버릴 수 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2843"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "<ES HT_Text_ES_S_BOSStd> \ud574\uace8\uc758 \uc804\uae30 \uc544\ub974\ub9c8\ub51c\ub85c\ub294 \ud68c\uc804\ud558\uba74\uc11c \uc8fc\uc704\ub85c \uc624\ub294 \uc790\ub4e4\uc5d0\uac8c \uc804\uae30\ucda9\uaca9\uc744 \uc900\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd> 해골의 전기 아르마딜로는 회전하면서 주위로 오는 자들에게 전기충격을 준다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2844"
   },
   "HT_Text_Inv_Dsc_QU04_Mummy_Chihuahua": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \uc791\uc740 \uac1c\ub4e4\uc740 \ubbf8\uc774\ub77c\uac00 \ub418\ub294 \uac83\uc5d0 \ub300\ud574 \ubcc4\ub85c \uae30\ubed0\ud558\uc9c0 \uc54a\uae30 \ub54c\ubb38\uc5d0 \uadfc\ucc98\uc5d0 \uac00\uc9c0 \uc54a\ub294 \uac83\uc774 \uc88b\ub2e4. \ub9cc\uc57d \uc2e4\uc218\ub85c \ub2e4\uac00\uac04\ub2e4\uba74 \ubb3c\uace0 \ub5a8\uc5b4\uc9c0\uc9c0 \uc54a\uc744 \uac83\uc774\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 작은 개들은 미이라가 되는 것에 대해 별로 기뻐하지 않기 때문에 근처에 가지 않는 것이 좋다. 만약 실수로 다가간다면 물고 떨어지지 않을 것이다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2845"
   },
   "HT_Text_Inv_Dsc_QU05_skeletal_waspspider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub9d0\ubc8c \uac70\ubbf8\ub294 \ub0a0\uce74\ub85c\uc6b4 \uc55e\ub2c8\ub85c \uc704\ud611\ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>말벌 거미는 날카로운 앞니로 위협한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2846"
   },
   "HT_Text_Inv_Dsc_QU06_Mummy_Worm": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774\ub4e4\uc740 \ubfcc\ub9ac\ub97c \ubc15\uc73c\uba74 \ud55c \ubc29\ud5a5 \ubc16\uc5d0 \ubcfc\uc218 \uc5c6\ub2e4. \uc774\ub4e4 \ub4a4\uc5d0 \uc11c\uba74 \uc544\ubb34\ub7f0 \ud574\uac00 \uc5c6\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이들은 뿌리를 박으면 한 방향 밖에 볼수 없다. 이들 뒤에 서면 아무런 해가 없다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2847"
   },
   "HT_Text_Inv_Dsc_QU09_Rat": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubb34\uc5b8\uac00\ub97c \ubb3c\uc9c0 \ubabb\uace0\ub294 \ubabb \ubc30\uae30\ub294 \uc9dc\uc99d\ub098\ub294 \uc0dd\ubb3c. \uc0ac\ub78c\ub4e4\uc774 \ub9ce\uc740 \uacf3\uc5d0\uc11c \ud754\ud788 \ubc1c\uacac\ub41c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>무언가를 물지 못고는 못 배기는 짜증나는 생물. 사람들이 많은 곳에서 흔히 발견된다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2848"
   },
   "HT_Text_Inv_Dsc_QU08_Normal_Chihuahua": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uce58\uc640\uc640\ub294 \ubab8\uc774 \uc791\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \uac00\uc8fd\uc744 \uac00\uc9c4 \uac1c\ub2e4. \uc560\uacac\uc73c\ub85c \uc0ac\ub791\uc744 \ubc1b\uc9c0\ub9cc \ub300\ubd80\ubd84\uc758 \uc0ac\ub78c\ub4e4\uc740 \uc274 \uc0c8\uc5c6\uc774 \uc9d6\uc5b4\ub300\ub294 \uac83\uc744 \uc9dc\uc99d\ub0b8\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>치와와는 몸이 작고 부드러운 가죽을 가진 개다. 애견으로 사랑을 받지만 대부분의 사람들은 쉴 새없이 짖어대는 것을 짜증낸다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2849"
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uac70\ub300\ud55c \ud669\uc18c\ub97c \ub354 \uc790\uc138\ud788 \uc124\uba85\uc790\uba74 \uc544\ub9c8 \"\uac70\ub300\ud55c \ub9dd\ub098\ub2c8\"\ub77c\uace0\ub098 \ud560\uae4c...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>\ub9d0\ub3c4 \ud1b5\ud558\uc9c0 \uc54a\uace0 \uc544\ubb34\uc5d0\uac8c\ub098 \uac70\uce60\uac8c \ub9dd\uce58\ub97c \ud718\ub450\ub97c \uac70\uc57c. \uc0c1\ub300\ud558\uc9c0 \uc54a\ub294 \uac83\uc774 \uc88b\uc544!<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>거대한 황소를 더 자세히 설명자면 아마 \"거대한 망나니\"라고나 할까...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>말도 통하지 않고 아무에게나 거칠게 망치를 휘두를 거야. 상대하지 않는 것이 좋아!<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2850"
   },
   "HT_Text_Inv_Dsc_HD09_Horned_ReptileMan": {
-    "message": "\ud560 \uac83",
+    "message": "할 것",
     "description": "SphinxText.xls, row 2851"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uad81\uc804 \uc548\ub9c8\ub2f9\uc758 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>궁전 안마당의 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2852"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_NefertitiItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub124\ud37c\ub974\ud2f0\ud2f0\uc758 \ud3b8\uc9c0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>네퍼르티티의 편지.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2853"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_SarcophagusKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub9c8\ubc95\uc758 \uc11d\uad00\uc744 \uc5ec\ub294 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>마법의 석관을 여는 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2854"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_WardrobeKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc637\uc7a5\uc758 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>옷장의 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2855"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_Amulet": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub8e9\uc18c\ub974\uc758 \uad81\uc804\uc5d0\uc11c \ubc1c\uacac\ub41c \uc624\ub798\ub41c \ubd80\uc801\ub4e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>룩소르의 궁전에서 발견된 오래된 부적들.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2857"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_CourtyardKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uad81\uc911 \uc548\ub9c8\ub2f9\uc758 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>궁중 안마당의 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2858"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_TreasureChamberKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uad81\uc911 \ubcf4\uc11d\uc2e4\uc758 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>궁중 보석실의 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2859"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_KeyStone": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub300\ud615 \ubb38 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>대형 문 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2860"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_ImpulseKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub300\ud615 \ubb38 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>대형 문 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2861"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc911\uc559 \ud640\uc758 \ucc9c\ubb38\uad00\uc744 \uc704\ud55c \ud0dc\uc591\uc758 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>중앙 홀의 천문관을 위한 태양의 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2862"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc911\uc559 \ud640\uc758 \ucc9c\ubb38\uad00\uc744 \uc704\ud55c \uc9c0\uad6c\uc758 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>중앙 홀의 천문관을 위한 지구의 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2863"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc911\uc559 \ud640\uc758 \ucc9c\ubb38\uad00\uc744 \uc704\ud55c \ub2ec\uc758 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>중앙 홀의 천문관을 위한 달의 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2864"
   },
   "HT_Text_Inv_Dsc_Basket": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubc14\uc2a4-\ucf13\uc740 \ub9c8\ubc95\uc758 \ubb3c\uac74\uc73c\ub85c \uc0ac\uc790\uc758 \uc11c\ub97c \uac00\uc9c0\uace0 \uc788\ub2e4\uba74 \uc544\uc774\ud15c\ub4e4\uc744 \uc2a4\ud551\ud06c\uc2a4\uc640 \ubbf8\uc774\ub77c \uc0ac\uc774\uc5d0\uc11c \uc804\uc1a1\ud560 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>바스-켓은 마법의 물건으로 사자의 서를 가지고 있다면 아이템들을 스핑크스와 미이라 사이에서 전송할 수 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2874"
   },
   "HT_Text_Inv_Dsc_AbyPass": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4 \ud1b5\ud589\uc99d.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 통행증.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2879"
   },
   "HT_Text_Inv_Dsc_AbyPearls": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4\uc5d0\uc11c\ub9cc \ubc1c\uacac\ub418\ub294 \uc544\ub984\ub2f5\uace0 \uc9c4\uae30\ud55c \uc9c4\uc8fc\ub4e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스에서만 발견되는 아름답고 진기한 진주들.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2880"
   },
   "HT_Text_Inv_Dsc_RosettaStonePiece": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub85c\uc81c\ud0c0\uc11d\uc758 \ubd80\uc11c\uc9c4 \uc870\uac01\ub4e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>로제타석의 부서진 조각들.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2881"
   },
   "HT_Text_Inv_Dsc_RosettaStone": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uace0\ub300\uc758 \ub85c\uc81c\ud0c0\uc11d\uc73c\ub85c \uace0\ub300\uc758 \ubb38\uac74\uc744 \ud574\ub3c5\ud560 \uc218 \uc788\uc74c.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>고대의 로제타석으로 고대의 문건을 해독할 수 있음.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2882"
   },
   "HT_Text_Inv_Dsc_Sak_Crown": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc6b0\ub8e8\ud06c\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uc655\uad00.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>우루크의 성스러운 왕관.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2885"
   },
   "HT_Text_Inv_Dsc_Aby_Crown": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uad00.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스의 성스러운 관.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2886"
   },
   "HT_Text_Inv_Dsc_Hel_Crown": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uc655\uad00.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 성스러운 왕관.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2887"
   },
   "HT_Text_Inv_Dsc_Set_Crown": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc138\ud2b8\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uc655\uad00.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>세트의 성스러운 왕관.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2888"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_PharaohInvite": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \ud30c\ub77c\uc624\ub97c \ubcfc \uc218 \uc788\ub294 \ucd08\uccad\uc7a5.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 파라오를 볼 수 있는 초청장.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2889"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub531\uc815\ubc8c\ub808\ub4e4\uc744 \uc591\uc721\ud558\uae30 \uc704\ud55c \ucee4\ub2e4\ub780 \ud56d\uc544\ub9ac.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>딱정벌레들을 양육하기 위한 커다란 항아리.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2893"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubca0\ub450\uc778 \ubcc0\ubc29\uc758 \uac00\uacc4\uc5d0\uc11c \ub531\uc815\ubc8c\ub808\ub4e4\uc744 \ubc18 \uac00\uaca9\uc5d0 \uc0b4 \uc218 \uc788\ub294 \ud560\uc778 \uce74\ub4dc.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>베두인 변방의 가계에서 딱정벌레들을 반 가격에 살 수 있는 할인 카드.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2894"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CageKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc6b0\ub8e8\ud06c\uc758 \ucca0\uc7a5\uc758 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>우루크의 철장의 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2896"
   },
   "HT_Text_Inv_Dsc_MummyMoney": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc6b0\ub8e8\ud06c\uc758 \uc131\uc5d0\uc11c\ub9cc \ubc1c\uacac\ub418\ub294 \uc9c4\uae30\ud55c \ub3d9\uc804.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>우루크의 성에서만 발견되는 진기한 동전.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2897"
   },
   "HT_Text_Inv_Dsc_Mum_OldKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc624\ub798\ub41c \uc9c0\ud558\uc2e4\uc758 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>오래된 지하실의 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2898"
   },
   "HT_Text_Inv_Dsc_Mum_GlyphKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud669\uae08 \uae00\ub9ac\ud504 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>황금 글리프 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2899"
   },
   "HT_Text_Inv_Dsc_PalaceInvite": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \ud30c\ub77c\uc624\ub97c \ubcfc \uc218 \uc788\ub294 \ucd08\uccad\uc7a5.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 파라오를 볼 수 있는 초청장.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2904"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc5ec\uc2e0 \ub204\ud2b8\uc758 \ud798\uc744 \uac00\uc9c4 \ub9c8\ubc95\uc758 \ub3cc, \uac00\uc7a5 \uac15\ub825\ud55c \uc800\uc8fc\ub3c4 \ud480 \uc218 \uc788\ub2e4\uace0 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>여신 누트의 힘을 가진 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2905"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud589\ubcf5\uc744 \uc0c1\uc9d5\ud558\ub294 \ub9c8\ubc95\uc758 \ub3cc, \uac00\uc7a5 \uac15\ub825\ud55c \uc800\uc8fc\ub3c4 \ud480 \uc218 \uc788\ub2e4\uace0 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>행복을 상징하는 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2906"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ube44\uc625\ud568\uc744 \uc0c1\uc9d5\ud558\ub294 \ub9c8\ubc95\uc758 \ub3cc, \uac00\uc7a5 \uac15\ub825\ud55c \uc800\uc8fc\ub3c4 \ud480 \uc218 \uc788\ub2e4\uace0 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>비옥함을 상징하는 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2907"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uac80\ubcf4\ub2e4 \uac15\ub825\ud558\ub2e4\uace0 \uc804\ud574\uc9c0\ub294 \ub9c8\ubc95\uc758 \ub3cc, \uac00\uc7a5 \uac15\ub825\ud55c \uc800\uc8fc\ub3c4 \ud480 \uc218 \uc788\ub2e4\uace0 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>검보다 강력하다고 전해지는 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2908"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone05": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc608\uc5b8\uc758 \ud798\uc744 \uac00\uc9c4 \ub9c8\ubc95\uc758 \ub3cc, \uac00\uc7a5 \uac15\ub825\ud55c \uc800\uc8fc\ub3c4 \ud480 \uc218 \uc788\ub2e4\uace0 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>예언의 힘을 가진 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2909"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone06": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub300 \uc800\ud0dd\uc758 \ub9c8\ubc95\uc758 \ub3cc, \uac00\uc7a5 \uac15\ub825\ud55c \uc800\uc8fc\ub3c4 \ud480 \uc218 \uc788\ub2e4\uace0 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>대 저택의 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2910"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone07": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubcf4\ud638\uc640 \uacbd\uacc4\uc758 \ub9c8\ubc95\uc758 \ub3cc, \uac00\uc7a5 \uac15\ub825\ud55c \uc800\uc8fc\ub3c4 \ud480 \uc218 \uc788\ub2e4\uace0 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>보호와 경계의 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2911"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone08": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubcf4\ud638\uc640 \uacbd\uacc4\uc758 \ub9c8\ubc95\uc758 \ub3cc, \uac00\uc7a5 \uac15\ub825\ud55c \uc800\uc8fc\ub3c4 \ud480 \uc218 \uc788\ub2e4\uace0 \ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>보호와 경계의 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2912"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Luxor01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubbf8\uc9c0\uc758 \uc7a5\uc18c\ub85c\uc758 \uc804\uc1a1\uc744 \ud45c\uc2dc\ud558\ub294 \uc774\uc0c1\ud55c \uc2ec\ubcfc\ub4e4\uc774 \uc788\ub294 \ud3ec\ud138 \ubd80\uc801.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>미지의 장소로의 전송을 표시하는 이상한 심볼들이 있는 포털 부적.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2914"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Abydos01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4\ub85c\uc758 \uc804\uc1a1\uc744 \ud45c\uc2dc\ud558\ub294 \ub300\uc591\uc758 \uc2ec\ubcfc\ub4e4\uc774 \uc788\ub294 \ud3ec\ud138 \ubd80\uc801.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스로의 전송을 표시하는 대양의 심볼들이 있는 포털 부적.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2915"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Heliopolis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\ub85c\uc758 \uc804\uc1a1\uc744 \ud45c\uc2dc\ud558\ub294 \ubaa8\ub798 \uc5d0\uce6d \uc2ec\ubcfc\ub4e4\uc774 \uc788\ub294 \ud3ec\ud138 \ubd80\uc801.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스로의 전송을 표시하는 모래 에칭 심볼들이 있는 포털 부적.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2917"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_DarkArea01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ub204\ube44\uc2a4 \ud0d1\uc73c\ub85c\uc758 \uc804\uc1a1\uc744 \ud45c\uc2dc\ud558\ub294 \uace0\ub300\uc758 \uc2ec\ubcfc\uc774 \uc788\ub294 \ud3ec\ud138 \ubd80\uc801.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아누비스 탑으로의 전송을 표시하는 고대의 심볼이 있는 포털 부적.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2920"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GoldKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud669\uae08 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>황금 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2922"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GlyphKey01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud2b9\uc815 \uc8fc\uc694 \ubc1b\uce68\ub300\ub4e4\uc5d0 \ub4e4\uc5b4 \ub9de\ub294 \ud669\uae08 \uae00\ub9ac\ud504.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>특정 주요 받침대들에 들어 맞는 황금 글리프.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2923"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GlyphKey02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud2b9\uc815 \uc8fc\uc694 \ubc1b\uce68\ub300\ub4e4\uc5d0 \ub4e4\uc5b4 \ub9de\ub294 \ud669\uae08 \uae00\ub9ac\ud504.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>특정 주요 받침대들에 들어 맞는 황금 글리프.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2924"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \ub0a8\ucabd \uc0ac\ub9c9\uc73c\ub85c\uc758 \uad00\ubb38\uc744 \uc5ec\ub294 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 남쪽 사막으로의 관문을 여는 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2925"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4\uc758 \uc704\ub300\ud55c \uc624\ubca8\ub9ac\uc2a4\ud06c\ub85c\uc758 \uad00\ubb38\uc744 \uc5ec\ub294 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 위대한 오벨리스크로의 관문을 여는 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2926"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4 \uc9c0\uc810\uacfc \ub0a8\ucabd \ud574\ubcc0 \uc0ac\uc774\uc5d0 \uc788\ub294 \ub3d9\uad74\uc5d0 \uc788\ub294 \uc11d\ubb38\uc744 \uc5ec\ub294 \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스 지점과 남쪽 해변 사이에 있는 동굴에 있는 석문을 여는 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2927"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud574\uace8 \ub3c4\ub07c\uafbc\uc758 \ud574\uace8.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>해골 도끼꾼의 해골.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2928"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud574\uace8 \ub3c4\ub07c\uafbc\uc758 \uace8\ubc18.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>해골 도끼꾼의 골반.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2929"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud574\uace8 \ub3c4\ub07c\uafbc\uc758 \ud314.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>해골 도끼꾼의 팔.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2930"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud574\uace8 \ub3c4\ub07c\uafbc\uc758 \ub2e4\ub9ac.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>해골 도끼꾼의 다리.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2931"
   },
   "HT_Text_Inv_Dsc_HippyItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc774 \uc591\uc0b0\uc740 \uc2dc\uc6d0\ud55c \uadf8\ub298\uc744 \ub9cc\ub4e4\uc5b4 \uc900\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>이 양산은 시원한 그늘을 만들어 준다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2935"
   },
   "HT_Text_Inv_Dsc_CreatureList01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. \ud654\uc5fc \uc544\ub974\ub9c8\ub51c\ub85c<PC 1>2. \ubc8c\ub808 \ubbf8\uc774\ub77c<N>3. \uc62c\ubaa8\uc2a4\ud2b8-\uc5b4-\ubd88<PC 1>4. \ubc18\uc218<E><ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>1. 화염 아르마딜로<PC 1>2. 벌레 미이라<N>3. 올모스트-어-불<PC 1>4. 반수<E><ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2936"
   },
   "HT_Text_Inv_Dsc_CreatureList02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. \uc5b4\ub460\uc758 \uc22d\ubc30\uc790<PC 1>2. \ub9d0\ubc8c \uac70\ubbf8<N>3. \uc950<PC 1>4. \uc2a4\ud30c\uc774\ud06c \uac70\ubbf8<E><ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>1. 어둠의 숭배자<PC 1>2. 말벌 거미<N>3. 쥐<PC 1>4. 스파이크 거미<E><ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2937"
   },
   "HT_Text_Inv_Dsc_CreatureList03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. \ub098\ubb34 \uc0dd\ubb3c<PC 1>2. \ud574\uace8 \uac70\ubbf8<N>3. \uac70\ub300\ud55c \ud669\uc18c<PC 1>4. \ud574\uace8 \uc22d\ubc30\uc790<E><ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>1. 나무 생물<PC 1>2. 해골 거미<N>3. 거대한 황소<PC 1>4. 해골 숭배자<E><ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2938"
   },
   "HT_Text_Inv_Dsc_Coconut": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ucf54\ucf54\ub11b\ub4e4\uc740 \uc6b0\ub8e8\ud06c\uc758 \uc6a9\uc554 \ub450\uaebc\ube44\uac00 \uac00\uc7a5 \uc88b\uc544\ud558\ub294 \uc74c\uc2dd\uc774\ub2e4. \uc6a9\uc554 \ub450\uaebc\ube44\uc5d0\uac8c \uc774 \uc74c\uc2dd\uc744 \uc8fc\uba74 \ud0d0\ud5d8\uac00\ub4e4\uc744 \ub3c4\uc640\uc900\ub2e4\uace0 \uc54c\ub824\uc838 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>코코넛들은 우루크의 용암 두꺼비가 가장 좋아하는 음식이다. 용암 두꺼비에게 이 음식을 주면 탐험가들을 도와준다고 알려져 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2940"
   },
   "HT_Text_Inv_Dsc_ZipLineHook": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubd84\ub9ac \uac00\ub2a5\ud55c \uc190\uc7a1\uc774\ub85c\uc368 \ub3c4\ub974\ub798 \uc904\uc744 \uc774\uc6a9\ud560 \uc218 \uc788\uac8c \ud574\uc900\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>분리 가능한 손잡이로써 도르래 줄을 이용할 수 있게 해준다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2941"
   },
   "HT_Text_Inv_Dsc_AbyWellKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc624\ub798\ub41c \uc5f4\uc1e0.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>오래된 열쇠.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2945"
   },
   "HT_Text_Inv_Dsc_DummyItem": {
-    "message": "\uac00\uc9dc \uc544\uc774\ud15c\uc73c\ub85c \ud50c\ub808\uc774\uc5b4 \uc7ac\uace0\uc5d0 \ucd94\uac00\ub418\uc5b4\uc11c\ub294 \uc548 \ub41c\ub2e4",
+    "message": "가짜 아이템으로 플레이어 재고에 추가되어서는 안 된다",
     "description": "SphinxText.xls, row 2946"
   },
   "HT_Text_Inv_Dsc_AbyStairsKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc6b0\ubb3c \uc815\uc6d0\uc758 \uacc4\ub2e8\uc73c\ub85c\uc758 \uc5f4\uc1e0\ub85c\uc368 \uc544\ube44\ub3c4\uc2a4 \uc6b4\ud558\ub85c\uc758 \uc811\uadfc\uc744 \ud5c8\uc6a9\ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>우물 정원의 계단으로의 열쇠로써 아비도스 운하로의 접근을 허용한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2947"
   },
   "HT_Text_Inv_Dsc_MedicineBag": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud2b9\ubcc4\ud55c \uc548\uac10\uc744 \ub304 \uac00\ubc29\uc73c\ub85c \uc608\ubbfc\ud55c \uc758\uc57d\uc7ac\ub8cc\ub4e4\uc744 \ubcf4\uad00\ud55c\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>특별한 안감을 댄 가방으로 예민한 의약재료들을 보관한다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2948"
   },
   "HT_Text_Inv_Dsc_AtunStatue": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ud230 \uc2e0\uc758 \ud669\uae08\uc0c1. \uc544\ud230\uc758 \ub9c8\ubc95\uc758 \uc778\uc7a5\uc744 \ubd80\uc220 \uc218 \uc788\ub294 \uc720\uc77c\ud55c \ubb3c\uac74\uc774\ub77c \uc54c\ub824\uc838 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아툰 신의 황금상. 아툰의 마법의 인장을 부술 수 있는 유일한 물건이라 알려져 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2949"
   },
   "HT_Text_Inv_Dsc_HathorStatue": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud558\ud1a0\ub974 \uc2e0\uc758 \ud669\uae08\uc0c1\uc73c\ub85c \ub9c8\ubc95\uc758 \ud798\uc73c\ub85c \uc2a4\uba70\ub4e4\uc5b4 \uc788\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>하토르 신의 황금상으로 마법의 힘으로 스며들어 있다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2950"
   },
   "HT_Text_Inv_Dsc_Jewel01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00\uc758 \ubc15\ubb3c\uad00\uc5d0\uc11c \ub3c4\ub09c \ub2f9\ud55c \ubcf4\ubb3c\ub4e4 \uc911 \ud558\ub098.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2951"
   },
   "HT_Text_Inv_Dsc_Jewel02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00\uc758 \ubc15\ubb3c\uad00\uc5d0\uc11c \ub3c4\ub09c \ub2f9\ud55c \ubcf4\ubb3c\ub4e4 \uc911 \ud558\ub098.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2952"
   },
   "HT_Text_Inv_Dsc_Jewel03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00\uc758 \ubc15\ubb3c\uad00\uc5d0\uc11c \ub3c4\ub09c \ub2f9\ud55c \ubcf4\ubb3c\ub4e4 \uc911 \ud558\ub098.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2953"
   },
   "HT_Text_Inv_Dsc_Jewel04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00\uc758 \ubc15\ubb3c\uad00\uc5d0\uc11c \ub3c4\ub09c \ub2f9\ud55c \ubcf4\ubb3c\ub4e4 \uc911 \ud558\ub098.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2954"
   },
   "HT_Text_Inv_Dsc_Jewel05": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00\uc758 \ubc15\ubb3c\uad00\uc5d0\uc11c \ub3c4\ub09c \ub2f9\ud55c \ubcf4\ubb3c\ub4e4 \uc911 \ud558\ub098.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2955"
   },
   "HT_Text_Inv_Dsc_Jewel06": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00\uc758 \ubc15\ubb3c\uad00\uc5d0\uc11c \ub3c4\ub09c \ub2f9\ud55c \ubcf4\ubb3c\ub4e4 \uc911 \ud558\ub098.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2956"
   },
   "HT_Text_Inv_Dsc_EagleStone": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub9c8\ubc95\uc5d0 \uac78\ub9b0 \ub3cc\ub85c\uc368 \ud2b9\uc815 \uc9c0\uc810\uc5d0\uc11c \uc704\ub300\ud55c \ub3c5\uc218\ub9ac\ub97c \uc18c\ud658\ud560 \uc218 \uc788\ub3c4\ub85d \ud574\uc900\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>마법에 걸린 돌로써 특정 지점에서 위대한 독수리를 소환할 수 있도록 해준다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2957"
   },
   "HT_Text_Inv_Dsc_AtunEye": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ub208\uc54c \ubaa8\uc591\uc758 \ub3cc. \uc5b4\ub5a4 \uc870\ud615\ubb3c\uc758 \ub208\uad6c\uba4d\uc5d0 \ub4e4\uc5b4\ub9de\uc744 \uac83\ucc98\ub7fc \ubcf4\uc778\ub2e4.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>눈알 모양의 돌. 어떤 조형물의 눈구멍에 들어맞을 것처럼 보인다.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2958"
   },
   "HT_Text_Inv_Dsc_Medal_Shoot": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ucde8\uad00\uc758 \uc9c4\uc815\ud55c \uba85\uc218\uc784\uc744 \uc99d\uba85\ud558\ub294 \uba54\ub2ec.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>취관의 진정한 명수임을 증명하는 메달.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2959"
   },
   "HT_Text_Inv_Dsc_Medal_Walls": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud68c\ub791\uc758 \uc2b9\uc790\uc784\uc744 \uc99d\uba85\ud558\ub294 \uba54\ub2ec.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>회랑의 승자임을 증명하는 메달.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2960"
   },
   "HT_Text_Inv_Dsc_Medal_Pairs": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ud30c\ub124\ube0c\uc758 \uc9dd\uc9d3\uae30 \uac8c\uc784\uc744 \uc644\uc218\ud568\uc744 \uc99d\uba85\ud558\ub294 \uba54\ub2ec.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>파네브의 짝짓기 게임을 완수함을 증명하는 메달.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2961"
   },
   "HT_Text_Inv_Dsc_Medal_Simon": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uc18c\ub974\ucf58\uc758 \uc21c\uc11c \uac8c\uc784\uc744 \uc644\uc218\ud568\uc744 \uc99d\uba85\ud558\ub294 \uba54\ub2ec.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>소르콘의 순서 게임을 완수함을 증명하는 메달.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2962"
   },
   "HT_Text_Inv_Dsc_Museum_Certificate": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\ubc15\ubb3c\uad00\uc758 \ubc15\ubb3c\ud559 \uc218\uc9d1\uc744 \uc644\uc218\ud55c \uac83\uc5d0 \ub300\ud558\uc5ec \uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00\uc5d0\uc11c \ubc1b\uc740 \uc99d\uba85\uc11c.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>박물관의 박물학 수집을 완수한 것에 대하여 아비도스 박물관에서 받은 증명서.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2963"
   },
   "HT_Text_Inv_Dsc_Museum_HunterA": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uad34\ubb3c 30\ub9c8\ub9ac\ub97c \uc218\uc9d1\ud55c \uac83\uc5d0 \ub300\ud558\uc5ec \uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00\uc5d0\uc11c \ubc1b\uc740 \uc99d\uba85\uc11c.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>괴물 30마리를 수집한 것에 대하여 아비도스 박물관에서 받은 증명서.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2964"
   },
   "HT_Text_Inv_Dsc_Museum_HunterB": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uad34\ubb3c 20\ub9c8\ub9ac\ub97c \uc218\uc9d1\ud55c \uac83\uc5d0 \ub300\ud558\uc5ec \uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00\uc5d0\uc11c \ubc1b\uc740 \uc99d\uba85\uc11c.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>괴물 20마리를 수집한 것에 대하여 아비도스 박물관에서 받은 증명서.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2965"
   },
   "HT_Text_Inv_Dsc_Museum_HunterC": {
-    "message": "<ES HT_Text_ES_S_BOSStd>\uad34\ubb3c 10\ub9c8\ub9ac\ub97c \uc218\uc9d1\ud55c \uac83\uc5d0 \ub300\ud558\uc5ec \uc544\ube44\ub3c4\uc2a4 \ubc15\ubb3c\uad00\uc5d0\uc11c \ubc1b\uc740 \uc99d\uba85\uc11c.<ES HT_Text_ES_E_BOSStd>",
+    "message": "<ES HT_Text_ES_S_BOSStd>괴물 10마리를 수집한 것에 대하여 아비도스 박물관에서 받은 증명서.<ES HT_Text_ES_E_BOSStd>",
     "description": "SphinxText.xls, row 2966"
   }
 }

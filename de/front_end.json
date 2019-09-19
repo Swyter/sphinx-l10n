@@ -80,11 +80,11 @@
     "description": "SphinxText.xls, row 3000"
   },
   "HT_Text_FE_Menu_ConfirmQuit": {
-    "message": "Bist du sicher, dass du aufh\u00f6ren m\u00f6chtest?",
+    "message": "Bist du sicher, dass du aufhören möchtest?",
     "description": "SphinxText.xls, row 3001"
   },
   "HT_Text_FE_Menu_ConfirmQuit_XB": {
-    "message": "M\u00f6chtest du das Spiel wirklich beenden? \\nAlle nicht gespeicherten Spieldaten gehen verloren.",
+    "message": "Möchtest du das Spiel wirklich beenden? \\nAlle nicht gespeicherten Spieldaten gehen verloren.",
     "description": "SphinxText.xls, row 3002"
   },
   "HT_Text_FE_Menu_SoundStereo": {
@@ -116,11 +116,11 @@
     "description": "SphinxText.xls, row 3010"
   },
   "HT_Text_OptionsMenu_Back": {
-    "message": "ZUR\u00dcCK",
+    "message": "ZURÜCK",
     "description": "SphinxText.xls, row 3011"
   },
   "HT_Text_OptionsMenu_Select": {
-    "message": "AUSW\u00c4HLEN",
+    "message": "AUSWÄHLEN",
     "description": "SphinxText.xls, row 3012"
   },
   "HT_Text_FE_Menu_ThirdPerson": {
@@ -152,19 +152,19 @@
     "description": "SphinxText.xls, row 3019"
   },
   "HT_Text_FE_PressStart_PS2": {
-    "message": "START-TASTE DR\u00dcCKEN",
+    "message": "START-TASTE DRÜCKEN",
     "description": "SphinxText.xls, row 3020"
   },
   "HT_Text_FE_PressStart_XB": {
-    "message": "DR\u00dcCKE START",
+    "message": "DRÜCKE START",
     "description": "SphinxText.xls, row 3021"
   },
   "HT_Text_FE_PressStart_GC": {
-    "message": "Dr\u00fccke START",
+    "message": "Drücke START",
     "description": "SphinxText.xls, row 3022"
   },
   "HT_Text_FE_PressStart_PC": {
-    "message": "Beliebige Taste dr\u00fccken ZUM STARTEN",
+    "message": "Beliebige Taste drücken ZUM STARTEN",
     "description": "SphinxText.xls, row 3023"
   },
   "HT_Text_FE_Bonus1_Title": {
@@ -180,7 +180,7 @@
     "description": "SphinxText.xls, row 3027"
   },
   "HT_Text_FE_Bonus2_Description": {
-    "message": "Trailer f\u00fcr Sphinx und die verfluchte Mumie",
+    "message": "Trailer für Sphinx und die verfluchte Mumie",
     "description": "SphinxText.xls, row 3028"
   },
   "HT_Text_FE_Menu_SaveSlotA": {
@@ -216,7 +216,7 @@
     "description": "SphinxText.xls, row 3037"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
-    "message": "BESCH\u00c4DIGT",
+    "message": "BESCHÄDIGT",
     "description": "SphinxText.xls, row 3039"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
@@ -260,7 +260,7 @@
     "description": "SphinxText.xls, row 3051"
   },
   "HT_Text_MemCard_PromptHaventSaved_XB": {
-    "message": "Bist du sicher, dass du ohne zu speichern fortfahren m\u00f6chtest?",
+    "message": "Bist du sicher, dass du ohne zu speichern fortfahren möchtest?",
     "description": "SphinxText.xls, row 3053"
   },
   "HT_Text_MemCard_GameName": {
@@ -280,23 +280,23 @@
     "description": "SphinxText.xls, row 3058"
   },
   "HT_Text_ReplacePadPrompt_PS2_PAL": {
-    "message": "Kein Controller in Controller-Anschluss (MISSINGPAD). Bitte zum Fortfahren einen Analog Controller (DUALSHOCK\u00ae) oder einen Analog Controller (DUALSHOCK\u00ae2) einstecken.",
+    "message": "Kein Controller in Controller-Anschluss (MISSINGPAD). Bitte zum Fortfahren einen Analog Controller (DUALSHOCK®) oder einen Analog Controller (DUALSHOCK®2) einstecken.",
     "description": "SphinxText.xls, row 3060"
   },
   "HT_Text_ReplacePadPrompt_PS2_NTSC": {
-    "message": "Kein Controller in Controller-Anschluss (MISSINGPAD). Zum Fortfahren bitte einen Analog Controller (DUALSHOCK\u00ae) oder einen Analog Controller (DUALSHOCK\u00ae2) einstecken.",
+    "message": "Kein Controller in Controller-Anschluss (MISSINGPAD). Zum Fortfahren bitte einen Analog Controller (DUALSHOCK®) oder einen Analog Controller (DUALSHOCK®2) einstecken.",
     "description": "SphinxText.xls, row 3061"
   },
   "HT_Text_ReplacePadPrompt_XB_Start": {
-    "message": "Bitte den Controller (MISSINGPAD) wieder anschlie\u00dfen und START dr\u00fccken.",
+    "message": "Bitte den Controller (MISSINGPAD) wieder anschließen und START drücken.",
     "description": "SphinxText.xls, row 3062"
   },
   "HT_Text_ReplacePadPrompt_XB": {
-    "message": "Bitte den Controller (MISSINGPAD) wieder anschlie\u00dfen.",
+    "message": "Bitte den Controller (MISSINGPAD) wieder anschließen.",
     "description": "SphinxText.xls, row 3063"
   },
   "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
-    "message": "Du wirst weder Spielstand noch Optionen speichern k\u00f6nnen. Bist du sicher, dass du fortfahren m\u00f6chtest?",
+    "message": "Du wirst weder Spielstand noch Optionen speichern können. Bist du sicher, dass du fortfahren möchtest?",
     "description": "SphinxText.xls, row 3065"
   },
   "HT_Text_DeathScreen_Continue": {
@@ -312,7 +312,7 @@
     "description": "SphinxText.xls, row 3068"
   },
   "HT_Text_OptionsMenu_Reset": {
-    "message": "ZUR\u00dcCKSETZEN",
+    "message": "ZURÜCKSETZEN",
     "description": "SphinxText.xls, row 3070"
   },
   "HT_Text_ScreenAdjustText_PS2": {
@@ -332,15 +332,15 @@
     "description": "SphinxText.xls, row 3074"
   },
   "HT_Text_Memcard_SaveConfirm": {
-    "message": "Bist du sicher, dass du\\nin diesen Speicherplatz speichern m\u00f6chtest?",
+    "message": "Bist du sicher, dass du\\nin diesen Speicherplatz speichern möchtest?",
     "description": "SphinxText.xls, row 3075"
   },
   "HT_Text_Memcard_LoadConfirm": {
-    "message": "Bist du sicher, dass du\\ndiesen Spielstand laden m\u00f6chtest?",
+    "message": "Bist du sicher, dass du\\ndiesen Spielstand laden möchtest?",
     "description": "SphinxText.xls, row 3076"
   },
   "HT_Text_Memcard_OverwriteConfirm": {
-    "message": "Der Spielstand existiert bereits.\\n\\nM\u00f6chtest du den alten\\nSpielstand \u00fcberschreiben?",
+    "message": "Der Spielstand existiert bereits.\\n\\nMöchtest du den alten\\nSpielstand überschreiben?",
     "description": "SphinxText.xls, row 3077"
   },
   "HT_Text_Memcard_NoFormat": {
@@ -352,7 +352,7 @@
     "description": "SphinxText.xls, row 3079"
   },
   "HT_Text_Memcard_NoDirectory": {
-    "message": "Die Memory Card (PS2) in\\nMEMORY CARD-Steckplatz 1 enth\u00e4lt\\nkeinen Sphinx-Ordner.\\Sphinx-Ordner jetzt anlegen?",
+    "message": "Die Memory Card (PS2) in\\nMEMORY CARD-Steckplatz 1 enthält\\nkeinen Sphinx-Ordner.\\Sphinx-Ordner jetzt anlegen?",
     "description": "SphinxText.xls, row 3080"
   },
   "HT_Text_Memcard_FormatComplete": {
@@ -372,7 +372,7 @@
     "description": "SphinxText.xls, row 3084"
   },
   "HT_Text_Memcard_NoCard": {
-    "message": "Achtung! Sphinx speichert automatisch.\\nWenn jetzt eine Memory Card (PS2)\\neingesteckt wird, k\u00f6nnen Daten\\n\u00fcberschrieben werden. Zum Speichern wird\\neine Memory Card (PS2) mit mindestens\\nxKB freiem Speicher ben\u00f6tigt.\\n\\nDr\u00fccke die START-Taste, um ohne zu\\nSpeichern fortzufahren.",
+    "message": "Achtung! Sphinx speichert automatisch.\\nWenn jetzt eine Memory Card (PS2)\\neingesteckt wird, können Daten\\nüberschrieben werden. Zum Speichern wird\\neine Memory Card (PS2) mit mindestens\\nxKB freiem Speicher benötigt.\\n\\nDrücke die START-Taste, um ohne zu\\nSpeichern fortzufahren.",
     "description": "SphinxText.xls, row 3085"
   },
   "HT_Text_Memcard_NoCard1": {
@@ -380,27 +380,27 @@
     "description": "SphinxText.xls, row 3086"
   },
   "HT_Text_Memcard_NoSpace_Boot": {
-    "message": "Ungen\u00fcgend Speicherplatz auf der Memory Card (PS2).\\nBitte eine Memory Card (PS2) mit mindestens\\nxKB freiem Speicherplatz einstecken, oder\\andere Daten mit dem internen Browser der\\nKonsole l\u00f6schen.",
+    "message": "Ungenügend Speicherplatz auf der Memory Card (PS2).\\nBitte eine Memory Card (PS2) mit mindestens\\nxKB freiem Speicherplatz einstecken, oder\\andere Daten mit dem internen Browser der\\nKonsole löschen.",
     "description": "SphinxText.xls, row 3087"
   },
   "HT_Text_Memcard_NoSpace_Save": {
-    "message": "Ungen\u00fcgend Speicherplatz auf der Memory Card (PS2) in\\nMEMORY CARD-Steckplatz 1. Sphinx ben\u00f6tigt\\nxKB freien Speicherplatz, um Daten zu speichern.",
+    "message": "Ungenügend Speicherplatz auf der Memory Card (PS2) in\\nMEMORY CARD-Steckplatz 1. Sphinx benötigt\\nxKB freien Speicherplatz, um Daten zu speichern.",
     "description": "SphinxText.xls, row 3088"
   },
   "HT_Text_Memcard_PressKey": {
-    "message": "DR\u00dcCKE START, UM OHNE SPEICHERN FORTZUFAHREN",
+    "message": "DRÜCKE START, UM OHNE SPEICHERN FORTZUFAHREN",
     "description": "SphinxText.xls, row 3089"
   },
   "HT_Text_Memcard_Loading": {
-    "message": "L\u00e4dt Daten...",
+    "message": "Lädt Daten...",
     "description": "SphinxText.xls, row 3090"
   },
   "HT_Text_Memcard_Saving": {
-    "message": "Speichert Daten. Memory Card (PS2) in MEMORY\\nCARD-Steckplatz 1 nicht entfernen und die Konsole nicht zur\u00fcckstellen oder abschalten.",
+    "message": "Speichert Daten. Memory Card (PS2) in MEMORY\\nCARD-Steckplatz 1 nicht entfernen und die Konsole nicht zurückstellen oder abschalten.",
     "description": "SphinxText.xls, row 3091"
   },
   "HT_Text_Memcard_Formatting": {
-    "message": "Formatieren...\\n\\nFormatiert Memory Card (PS2) in MEMORY CARD-Steckplatz 1.\\nMemory Card (PS2) nicht entfernen\\nund die Konsole nicht zur\u00fccksetzen oder\\nabschalten.",
+    "message": "Formatieren...\\n\\nFormatiert Memory Card (PS2) in MEMORY CARD-Steckplatz 1.\\nMemory Card (PS2) nicht entfernen\\nund die Konsole nicht zurücksetzen oder\\nabschalten.",
     "description": "SphinxText.xls, row 3092"
   },
   "HT_Text_Memcard_YesNo": {
@@ -408,11 +408,11 @@
     "description": "SphinxText.xls, row 3093"
   },
   "HT_Text_Menu_Cross": {
-    "message": "Ausw\u00e4hlen",
+    "message": "Auswählen",
     "description": "SphinxText.xls, row 3094"
   },
   "HT_Text_Menu_Triangle": {
-    "message": "ZUR\u00dcCK",
+    "message": "ZURÜCK",
     "description": "SphinxText.xls, row 3095"
   },
   "HT_Text_Menu_Square": {
@@ -444,11 +444,11 @@
     "description": "SphinxText.xls, row 3102"
   },
   "HT_Text_Menu_BOS": {
-    "message": "Buch des Sphinx \u00f6ffnen",
+    "message": "Buch des Sphinx öffnen",
     "description": "SphinxText.xls, row 3103"
   },
   "HT_Text_Menu_Inventory": {
-    "message": "Gep\u00e4ck",
+    "message": "Gepäck",
     "description": "SphinxText.xls, row 3104"
   },
   "HT_Text_Menu_Jump": {
@@ -480,7 +480,7 @@
     "description": "SphinxText.xls, row 3111"
   },
   "HT_Text_Menu_Start": {
-    "message": "Pausemen\u00fc",
+    "message": "Pausemenü",
     "description": "SphinxText.xls, row 3112"
   },
   "HT_Text_Menu_PadLayout1": {
@@ -488,7 +488,7 @@
     "description": "SphinxText.xls, row 3113"
   },
   "HT_Text_Menu_PadLayout2": {
-    "message": "LINKSH\u00c4NDER",
+    "message": "LINKSHÄNDER",
     "description": "SphinxText.xls, row 3114"
   },
   "HT_Text_Menu_PadLayout3": {
@@ -580,7 +580,7 @@
     "description": "SphinxText.xls, row 3136"
   },
   "HT_Text_Menu_Volume": {
-    "message": "LAUTST\u00c4RKE",
+    "message": "LAUTSTÄRKE",
     "description": "SphinxText.xls, row 3137"
   },
   "HT_Text_Menu_SoundFX": {
@@ -636,7 +636,7 @@
     "description": "SphinxText.xls, row 3150"
   },
   "HT_Text_Menu_SaveOver": {
-    "message": "Diesen Spielstand \u00fcberschreiben",
+    "message": "Diesen Spielstand überschreiben",
     "description": "SphinxText.xls, row 3151"
   },
   "HT_Text_Menu_UseSlot": {
@@ -656,7 +656,7 @@
     "description": "SphinxText.xls, row 3155"
   },
   "HT_Text_Menu_Scarabs": {
-    "message": " Skarab\u00e4en",
+    "message": " Skarabäen",
     "description": "SphinxText.xls, row 3156"
   },
   "HT_Text_Menu_InvertON": {
@@ -680,7 +680,7 @@
     "description": "SphinxText.xls, row 3161"
   },
   "HT_Text_Menu_Reset": {
-    "message": "ZUR\u00dcCKSETZEN",
+    "message": "ZURÜCKSETZEN",
     "description": "SphinxText.xls, row 3162"
   },
   "HT_Text_Credits1": {
@@ -688,7 +688,7 @@
     "description": "SphinxText.xls, row 3163"
   },
   "HT_Text_Credits2": {
-    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avil\u00e9s \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts ",
+    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avilés \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts ",
     "description": "SphinxText.xls, row 3164"
   },
   "HT_Text_Credits3": {
@@ -760,7 +760,7 @@
     "description": "SphinxText.xls, row 3181"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Du hast nun das <FC 0,128,0>Blasrohr<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Die magischen Pfeile, die du hiermit verschie\u00dft,<N>erneuern sich automatisch unbegrenzt.<P><ES HT_Text_ES_S_HelpText><CNTR>Mit den Pfeilen kann auf entfernte Ziele geschossen werden,<N>aber sie reichen nur, um explosive Monster zu verletzen.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Benutze <SB HT_PadAction_HUD_ShowRotator>, um das <FC 0,128,0>Blasrohr<END FC> einer Taste zuzuweisen.<P><ES HT_Text_ES_S_HelpText><CNTR>Sobald das <FC 0,128,0>Blasrohr<END FC> zugewiesen ist, musst du<N>die Taste dr\u00fccken, um in den First-Person-Modus zu gelangen.<P><ES HT_Text_ES_S_HelpText><CNTR>Dr\u00fccke zum Feuern <SB HT_Action_FireDart>.<ES HT_Text_ES_S_HelpText><P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Dr\u00fccke <SB HT_Action_Cancel>, um den<N><FC 0,128,0>Blasrohr-<END FC>Modus zu beenden.<ES HT_Text_ES_E_HelpText><E>",
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Du hast nun das <FC 0,128,0>Blasrohr<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Die magischen Pfeile, die du hiermit verschießt,<N>erneuern sich automatisch unbegrenzt.<P><ES HT_Text_ES_S_HelpText><CNTR>Mit den Pfeilen kann auf entfernte Ziele geschossen werden,<N>aber sie reichen nur, um explosive Monster zu verletzen.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Benutze <SB HT_PadAction_HUD_ShowRotator>, um das <FC 0,128,0>Blasrohr<END FC> einer Taste zuzuweisen.<P><ES HT_Text_ES_S_HelpText><CNTR>Sobald das <FC 0,128,0>Blasrohr<END FC> zugewiesen ist, musst du<N>die Taste drücken, um in den First-Person-Modus zu gelangen.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke zum Feuern <SB HT_Action_FireDart>.<ES HT_Text_ES_S_HelpText><P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke <SB HT_Action_Cancel>, um den<N><FC 0,128,0>Blasrohr-<END FC>Modus zu beenden.<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 3182"
   }
 }

@@ -1,54 +1,54 @@
 {
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1a": {
-    "message": "\uc138\ud2b8\ub2d8, \uac9d\ub4e4\uc740 <FC 0,128,0>\uc6b0\ub8e8\ud06c\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uc655\uad00<END FC>\uc744 \uac00\uc838\uc624\uc2e0 \uac83\uc5d0 \ub300\ud574 \uae4a\uc774 \uac10\uc0ac \ub4dc\ub9bd\ub2c8\ub2e4. \uc655\uad00\uc740 \uc800\ud76c \uc190\uc5d0 \uc788\uc73c\uba74 \ub9e4\uc6b0 \uc548\uc804\ud560 \uac83\uc785\ub2c8\ub2e4.<E>",
+    "message": "세트님, 겝들은 <FC 0,128,0>우루크의 성스러운 왕관<END FC>을 가져오신 것에 대해 깊이 감사 드립니다. 왕관은 저희 손에 있으면 매우 안전할 것입니다.<E>",
     "description": "SphinxText.xls, row 1481"
   },
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1b": {
-    "message": "\ub108\ud76c\uac00 \uc9c4\uc2e4\uc744 \ub9d0\ud558\uace0 \uc788\ub2e4\uace0 \ubbff\ub294\ub2e4. \uadf8\ub807\uc9c0 \uc54a\ub2e4\uba74, \uadf8 \uacb0\uacfc\ub294 \ucc38\uc73c\ub85c \ub054\uc9c1\ud560 \uac83\uc774\ub2e4.<E>",
+    "message": "너희가 진실을 말하고 있다고 믿는다. 그렇지 않다면, 그 결과는 참으로 끔직할 것이다.<E>",
     "description": "SphinxText.xls, row 1482"
   },
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1c": {
-    "message": "\uc5fc\ub824 \ub9c8\uc2ed\uc2dc\uc624, \uc138\ud2b8\ub2d8. \uadf8 \ub204\uad6c\ub3c4 \uac9d \uc5ec\uc655\uc758 \ud798\uc744 \uadf9\ubcf5\ud560 \uc218 \uc5c6\uc5c8\uc2b5\ub2c8\ub2e4...<E>",
+    "message": "염려 마십시오, 세트님. 그 누구도 겝 여왕의 힘을 극복할 수 없었습니다...<E>",
     "description": "SphinxText.xls, row 1483"
   },
   "HT_Text_Sakk_5_Boss_Fight_Gebqueen1a": {
-    "message": "\ub124 \uc5b4\ucc0c \uac10\ud788 \uac9d \uc5ec\uc655\uc758 \uad81\uc804\uc73c\ub85c \ub4e4\uc5b4\uc654\ub290\ub0d0?!<E>",
+    "message": "네 어찌 감히 겝 여왕의 궁전으로 들어왔느냐?!<E>",
     "description": "SphinxText.xls, row 1485"
   },
   "HT_Text_Sakk_5_Boss_Fight_Gebqueen1b": {
-    "message": "\ub108\uc758 \uadf8 \ubb34\ub840\ud568\uc774 \ud070 \ub300\uac00\ub97c \uce58\ub97c \uac83\uc774\ub2e4. \uc8fd\uc744 \uc900\ube44\ub97c \ud574\ub77c!<E>",
+    "message": "너의 그 무례함이 큰 대가를 치를 것이다. 죽을 준비를 해라!<E>",
     "description": "SphinxText.xls, row 1486"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1a": {
-    "message": "\ub124\uac00 \ub098\ub97c \uc774\uacbc\ub2e4, \ud558\uc9c0\ub9cc \uc138\ud2b8\ub2d8\uc774 \ub108\ub97c \uc8fd\uc77c \uac83\uc774\ub2e4.<P>\ub108\uc758 \ub178\ub825\uc740 \ud5db\uc218\uace0\uc600\ub2e4... \ub108\ubb34 \ub2a6\uc5c8\uc5b4... \ub108\ub294 \uacb0\ucf54 \uadf8\ub97c \uc774\uae30\uc9c0 \ubabb\ud560 \uac83\uc774\ub2e4...<E>",
+    "message": "네가 나를 이겼다, 하지만 세트님이 너를 죽일 것이다.<P>너의 노력은 헛수고였다... 너무 늦었어... 너는 결코 그를 이기지 못할 것이다...<E>",
     "description": "SphinxText.xls, row 1487"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1b": {
-    "message": "\uc544\uc544\uc544\uc544\uc544!!!! <E>",
+    "message": "아아아아아!!!! <E>",
     "description": "SphinxText.xls, row 1488"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1c": {
-    "message": "\uc544\uc544\uc544\uc544\uc544!!!! <E>",
+    "message": "아아아아아!!!! <E>",
     "description": "SphinxText.xls, row 1489"
   },
   "HT_Text_Sakk_5_TakeCrown1a": {
-    "message": "\ub124\uac00 \uc774\ud574\ud558\uc9c0 \ubabb \ud558\ub294 \ud798\uc758 \ub2e4\ub978 \uc655\uad00.<E>",
+    "message": "네가 이해하지 못 하는 힘의 다른 왕관.<E>",
     "description": "SphinxText.xls, row 1528"
   },
   "HT_Text_Sakk_5_TakeCrown1b": {
-    "message": "\ub124\uac00 \uc120\ud0dd\ud558\ub294 \uae38\uc740 \ub9e4\uc6b0 \uc704\ud5d8\ud55c \uac83\uc774\ub2e4...<E>",
+    "message": "네가 선택하는 길은 매우 위험한 것이다...<E>",
     "description": "SphinxText.xls, row 1529"
   },
   "HT_Text_Sakk_5_TakeCrown1c": {
-    "message": "\uac00\uc7a5 \uacb0\uc758\uac00 \uad73\uc740 \uc601\uc6c5\ub4e4\ub9cc\uc774 \uc131\uacf5\ud560 \uac83\uc774\ub2e4.<E>",
+    "message": "가장 결의가 굳은 영웅들만이 성공할 것이다.<E>",
     "description": "SphinxText.xls, row 1530"
   },
   "HT_Text_Sakk_5_TakeCrown1d": {
-    "message": "\uc608\uc5b8\uc774 \ub9c8\uce68\ub0b4 \ud604\uc2e4\ud654 \ub418\uc5b4\uac00\uace0 \uc788\ub2e4... \ud558\uc9c0\ub9cc \ub124\uac00 \uadf8 \uacb0\ub9d0\uc744 \uac00\uc838\uc624\ub294 \uc790\uac00 \ub420 \uac83\uc778\uac00?<E>",
+    "message": "예언이 마침내 현실화 되어가고 있다... 하지만 네가 그 결말을 가져오는 자가 될 것인가?<E>",
     "description": "SphinxText.xls, row 1531"
   },
   "HT_Text_Sakk_5_TakeCrown1e": {
-    "message": "\uc774 <FC 0,128,0>\ud669\uae08 \uc559\ud06c<END FC>\ub97c \ub108\uc758 \uc5c5\uc801\uc758 \ubcf4\uc0c1\uc73c\ub85c \uac00\uc838\uac00\ub77c.<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \ub9c8\ubc95\uc758 \uc720\ubb3c\uc740 \ub108\uc758 \uccb4\ub825\uc758 \uc6a9\ub7c9\uc744 <N><FC 0,128,0>1 \uc559\ud06c<END FC>\ub9cc\ud07c \uc99d\uac00\ud558\uc600\uace0 \ub108\uc758 \uccb4\ub825\uc744 \ubaa8\ub450 \ucc44\uc6e0\ub2e4!<ES HT_Text_ES_E_HelpText><E>",
+    "message": "이 <FC 0,128,0>황금 앙크<END FC>를 너의 업적의 보상으로 가져가라.<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 유물은 너의 체력의 용량을 <N><FC 0,128,0>1 앙크<END FC>만큼 증가하였고 너의 체력을 모두 채웠다!<ES HT_Text_ES_E_HelpText><E>",
     "description": "SphinxText.xls, row 1532"
   }
 }
