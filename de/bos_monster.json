@@ -1,42 +1,32 @@
 {
   "HT_Text_BOS_Monster_CapturedMonsters": {
-    "message": "Monster",
-    "description": "SphinxText.xls, row 2622"
+    "message": "Monster"
   },
   "HT_Text_BOS_Monster_Moves": {
-    "message": "Moves",
-    "description": "SphinxText.xls, row 2623"
+    "message": "Moves"
   },
   "HT_Text_BOS_Monster_Health": {
-    "message": "Gesundheit",
-    "description": "SphinxText.xls, row 2624"
+    "message": "Gesundheit"
   },
   "HT_Text_BOS_Monster_AttackRating": {
-    "message": "Angriff",
-    "description": "SphinxText.xls, row 2625"
+    "message": "Angriff"
   },
   "HT_Text_BOS_Monster_DefenceRating": {
-    "message": "Verteidigung",
-    "description": "SphinxText.xls, row 2626"
+    "message": "Verteidigung"
   },
   "HT_Text_BOS_Monster_DR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Je höher der Verteidigungswert, desto mehr Treffer kann dein Monster im Kampf verkraften.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2627"
+    "message": "<ES HT_Text_ES_S_BOSStd>Je höher der Verteidigungswert, desto mehr Treffer kann dein Monster im Kampf verkraften.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_AR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Je höher der Angriffswert deines Monsters, desto mehr Schaden kann es bei Gegnern verursachen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2628"
+    "message": "<ES HT_Text_ES_S_BOSStd>Je höher der Angriffswert deines Monsters, desto mehr Schaden kann es bei Gegnern verursachen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_Health_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Dies ist die Gesundheit deines Monsters. Wenn diese völlig aufgebraucht ist, kannst du kein Monster dieser Art mehr freilassen. Es sei denn, du fängst ein weiteres dieser Art!<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2629"
+    "message": "<ES HT_Text_ES_S_BOSStd>Dies ist die Gesundheit deines Monsters. Wenn diese völlig aufgebraucht ist, kannst du kein Monster dieser Art mehr freilassen. Es sei denn, du fängst ein weiteres dieser Art!<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_NoMoves": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Im Augenblick hast du keine Moves zwischen denen du auswählen kannst.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2630"
+    "message": "<ES HT_Text_ES_S_BOSStd>Im Augenblick hast du keine Moves zwischen denen du auswählen kannst.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_NoMonsters": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Derzeit hast du keine Monster.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2631"
+    "message": "<ES HT_Text_ES_S_BOSStd>Derzeit hast du keine Monster.<ES HT_Text_ES_E_BOSStd>"
   }
 }

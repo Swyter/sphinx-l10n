@@ -1,238 +1,179 @@
 {
   "HT_Text_Context_Test": {
-    "message": "시험 내용",
-    "description": "SphinxText.xls, row 2461"
+    "message": "시험 내용"
   },
   "HT_Text_Context_UseItem": {
-    "message": "아이템",
-    "description": "SphinxText.xls, row 2462"
+    "message": "아이템"
   },
   "HT_Text_Context_Use": {
-    "message": "사용",
-    "description": "SphinxText.xls, row 2463"
+    "message": "사용"
   },
   "HT_Text_Context_PushObject": {
-    "message": "밀기",
-    "description": "SphinxText.xls, row 2464"
+    "message": "밀기"
   },
   "HT_Text_Context_PullObject": {
-    "message": "당기기",
-    "description": "SphinxText.xls, row 2465"
+    "message": "당기기"
   },
   "HT_Text_Context_Lever": {
-    "message": "작동",
-    "description": "SphinxText.xls, row 2466"
+    "message": "작동"
   },
   "HT_Text_Context_OpenDoor": {
-    "message": "열기",
-    "description": "SphinxText.xls, row 2467"
+    "message": "열기"
   },
   "HT_Text_Context_PickupObject": {
-    "message": "줍기",
-    "description": "SphinxText.xls, row 2468"
+    "message": "줍기"
   },
   "HT_Text_Context_SavePoint": {
-    "message": "저장",
-    "description": "SphinxText.xls, row 2469"
+    "message": "저장"
   },
   "HT_Text_Context_NPC": {
-    "message": "대화",
-    "description": "SphinxText.xls, row 2470"
+    "message": "대화"
   },
   "HT_Text_Context_Grab": {
-    "message": "잡기 ",
-    "description": "SphinxText.xls, row 2471"
+    "message": "잡기 "
   },
   "HT_Text_Context_Possession": {
-    "message": "보유",
-    "description": "SphinxText.xls, row 2472"
+    "message": "보유"
   },
   "HT_Text_Context_Unpossession": {
-    "message": "버리기",
-    "description": "SphinxText.xls, row 2473"
+    "message": "버리기"
   },
   "HT_Text_Context_Release": {
-    "message": "놓기",
-    "description": "SphinxText.xls, row 2474"
+    "message": "놓기"
   },
   "HT_Text_Context_Clone": {
-    "message": "복제 ",
-    "description": "SphinxText.xls, row 2475"
+    "message": "복제 "
   },
   "HT_Text_Context_Invisibility": {
-    "message": "투명",
-    "description": "SphinxText.xls, row 2476"
+    "message": "투명"
   },
   "HT_Text_Context_Hide": {
-    "message": "숨기",
-    "description": "SphinxText.xls, row 2477"
+    "message": "숨기"
   },
   "HT_Text_Context_FreezeTime": {
-    "message": "시간 정지",
-    "description": "SphinxText.xls, row 2478"
+    "message": "시간 정지"
   },
   "HT_Text_Context_KaTile": {
-    "message": "사용",
-    "description": "SphinxText.xls, row 2479"
+    "message": "사용"
   },
   "HT_Text_Context_Shop": {
-    "message": "구매",
-    "description": "SphinxText.xls, row 2480"
+    "message": "구매"
   },
   "HT_Text_Context_Blank": {
-    "message": " ",
-    "description": "SphinxText.xls, row 2481"
+    "message": " "
   },
   "HT_Text_Context_Linear": {
-    "message": "직선",
-    "description": "SphinxText.xls, row 2482"
+    "message": "직선"
   },
   "HT_Text_Context_Recall": {
-    "message": "회수",
-    "description": "SphinxText.xls, row 2483"
+    "message": "회수"
   },
   "HT_Text_Context_Directed": {
-    "message": "유도",
-    "description": "SphinxText.xls, row 2484"
+    "message": "유도"
   },
   "HT_Text_Context_Cancel": {
-    "message": "취소",
-    "description": "SphinxText.xls, row 2485"
+    "message": "취소"
   },
   "HT_Text_Context_Jump": {
-    "message": "점프",
-    "description": "SphinxText.xls, row 2486"
+    "message": "점프"
   },
   "HT_Text_Context_Attack": {
-    "message": "공격",
-    "description": "SphinxText.xls, row 2487"
+    "message": "공격"
   },
   "HT_Text_Context_Detonate": {
-    "message": "폭발",
-    "description": "SphinxText.xls, row 2488"
+    "message": "폭발"
   },
   "HT_Text_Context_Beetle": {
-    "message": "딱정벌레",
-    "description": "SphinxText.xls, row 2489"
+    "message": "딱정벌레"
   },
   "HT_Text_Context_Throw": {
-    "message": "던지기",
-    "description": "SphinxText.xls, row 2490"
+    "message": "던지기"
   },
   "HT_Text_Context_Drop": {
-    "message": "놓기",
-    "description": "SphinxText.xls, row 2491"
+    "message": "놓기"
   },
   "HT_Text_Context_FireDart": {
-    "message": "발사",
-    "description": "SphinxText.xls, row 2492"
+    "message": "발사"
   },
   "HT_Text_Context_FirstPerson": {
-    "message": "1인칭",
-    "description": "SphinxText.xls, row 2493"
+    "message": "1인칭"
   },
   "HT_Text_Context_Blowpipe": {
-    "message": "취관",
-    "description": "SphinxText.xls, row 2494"
+    "message": "취관"
   },
   "HT_Text_Context_ThirdPerson": {
-    "message": "3인칭",
-    "description": "SphinxText.xls, row 2495"
+    "message": "3인칭"
   },
   "HT_Text_Context_Program": {
-    "message": "프로그램",
-    "description": "SphinxText.xls, row 2496"
+    "message": "프로그램"
   },
   "HT_Text_Context_SpittingToadV": {
-    "message": "수직",
-    "description": "SphinxText.xls, row 2497"
+    "message": "수직"
   },
   "HT_Text_Context_SpittingToadH": {
-    "message": "수평",
-    "description": "SphinxText.xls, row 2498"
+    "message": "수평"
   },
   "HT_Text_Context_Flap": {
-    "message": "날개침",
-    "description": "SphinxText.xls, row 2499"
+    "message": "날개침"
   },
   "HT_Text_Context_Enter": {
-    "message": "입장",
-    "description": "SphinxText.xls, row 2500"
+    "message": "입장"
   },
   "HT_Text_Context_Grow": {
-    "message": "자라기",
-    "description": "SphinxText.xls, row 2501"
+    "message": "자라기"
   },
   "HT_Text_Context_Exit": {
-    "message": "나가기",
-    "description": "SphinxText.xls, row 2502"
+    "message": "나가기"
   },
   "HT_Text_Context_SwapMummy": {
-    "message": "교환",
-    "description": "SphinxText.xls, row 2503"
+    "message": "교환"
   },
   "HT_Text_Context_MummyCrawl": {
-    "message": "기어가기",
-    "description": "SphinxText.xls, row 2504"
+    "message": "기어가기"
   },
   "HT_Text_Context_MummyStandUp": {
-    "message": "서기  ",
-    "description": "SphinxText.xls, row 2505"
+    "message": "서기  "
   },
   "HT_Text_Context_Dive": {
-    "message": "잠수",
-    "description": "SphinxText.xls, row 2506"
+    "message": "잠수"
   },
   "HT_Text_Context_Swim": {
-    "message": "수영",
-    "description": "SphinxText.xls, row 2507"
+    "message": "수영"
   },
   "HT_Text_Context_SwimFast": {
-    "message": "빠름",
-    "description": "SphinxText.xls, row 2508"
+    "message": "빠름"
   },
   "HT_Text_Context_WallSneakPeek": {
-    "message": "살펴보기",
-    "description": "SphinxText.xls, row 2509"
+    "message": "살펴보기"
   },
   "HT_Text_Context_WallSneak": {
-    "message": "게걸음",
-    "description": "SphinxText.xls, row 2510"
+    "message": "게걸음"
   },
   "HT_Text_Context_Take": {
-    "message": "줍기",
-    "description": "SphinxText.xls, row 2511"
+    "message": "줍기"
   },
   "HT_Text_Context_DJump": {
-    "message": "공중제비",
-    "description": "SphinxText.xls, row 2512"
+    "message": "공중제비"
   },
   "HT_Text_Context_Read": {
-    "message": "읽기",
-    "description": "SphinxText.xls, row 2513"
+    "message": "읽기"
   },
   "HT_Text_Context_Slam": {
-    "message": "내려치기",
-    "description": "SphinxText.xls, row 2514"
+    "message": "내려치기"
   },
   "HT_Text_Context_Wear": {
-    "message": "입기",
-    "description": "SphinxText.xls, row 2515"
+    "message": "입기"
   },
   "HT_Text_Context_UnHide": {
-    "message": "숨지 않기",
-    "description": "SphinxText.xls, row 2516"
+    "message": "숨지 않기"
   },
   "HT_Text_Context_Choose": {
-    "message": "선택",
-    "description": "SphinxText.xls, row 2517"
+    "message": "선택"
   },
   "HT_Text_Context_Select": {
-    "message": "선택",
-    "description": "SphinxText.xls, row 2518"
+    "message": "선택"
   },
   "HT_Text_Context_Shake": {
-    "message": "흔들기",
-    "description": "SphinxText.xls, row 2519"
+    "message": "흔들기"
   }
 }

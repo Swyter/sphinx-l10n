@@ -1,1034 +1,776 @@
 {
   "HT_Text_DanTest": {
-    "message": "댄의 테스트용 텍스트<E>",
-    "description": "SphinxText.xls, row 11"
+    "message": "댄의 테스트용 텍스트<E>"
   },
   "HT_Text_MG_WallDodge_Start": {
-    "message": "<FC 128,64,0>승자의 회랑<END FC>에 온 것을 환영한다. 플레이에 드는 비용은 <FC 0,128,0>10 스캐럽<END FC>이다.<P>플레이 하겠는가?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 13"
+    "message": "<FC 128,64,0>승자의 회랑<END FC>에 온 것을 환영한다. 플레이에 드는 비용은 <FC 0,128,0>10 스캐럽<END FC>이다.<P>플레이 하겠는가?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_MG_WallDodge_Instructions": {
-    "message": "움직이는 벽을 피하면서 동상들을 모두 부셔버리고 제한 시간 내에 출구에 도착하면 된다.<E>",
-    "description": "SphinxText.xls, row 14"
+    "message": "움직이는 벽을 피하면서 동상들을 모두 부셔버리고 제한 시간 내에 출구에 도착하면 된다.<E>"
   },
   "HT_Text_MG_WallDodge_Choose": {
-    "message": "어떤 시련에 도전해보겠나?<N>  <B 1> 시련 1<N>  <B 2> 시련 2<E>",
-    "description": "SphinxText.xls, row 15"
+    "message": "어떤 시련에 도전해보겠나?<N>  <B 1> 시련 1<N>  <B 2> 시련 2<E>"
   },
   "HT_Text_MG_WallDodge_Choose2": {
-    "message": "어떤 시련에 도전해보겠나?<N>  <B 1> 시련 1<N>  <B 2> 시련 2<N>  <B 3> 시련 3<E>",
-    "description": "SphinxText.xls, row 16"
+    "message": "어떤 시련에 도전해보겠나?<N>  <B 1> 시련 1<N>  <B 2> 시련 2<N>  <B 3> 시련 3<E>"
   },
   "HT_Text_MG_WallDodge_NotReady": {
-    "message": "넌 아직 준비가 되지 않았다.<E>",
-    "description": "SphinxText.xls, row 17"
+    "message": "넌 아직 준비가 되지 않았다.<E>"
   },
   "HT_Text_MG_WallDodge_Fail": {
-    "message": "미안하지만, 실패했다. 다시 해봐.<E>",
-    "description": "SphinxText.xls, row 18"
+    "message": "미안하지만, 실패했다. 다시 해봐.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed": {
-    "message": "잘했다! <FC 0,128,0><SO HT_Objective_WallDodge_Time> 초<END FC>에 완료했군! 신기록이다!<E>",
-    "description": "SphinxText.xls, row 19"
+    "message": "잘했다! <FC 0,128,0><SO HT_Objective_WallDodge_Time> 초<END FC>에 완료했군! 신기록이다!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed1": {
-    "message": "보상 받을 자격이 있습니다.<N><FC 0,128,0><SO HT_Objective_MGWalls_Prize> 스캐럽<END FC>을 획득하였습니다!<E>",
-    "description": "SphinxText.xls, row 20"
+    "message": "보상 받을 자격이 있습니다.<N><FC 0,128,0><SO HT_Objective_MGWalls_Prize> 스캐럽<END FC>을 획득하였습니다!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed2": {
-    "message": "대단한 기록이다!<N>상금은 <FC 0,128,0><SO HT_Objective_MGWalls_Prize> 스캐럽<END FC>이다!<E>",
-    "description": "SphinxText.xls, row 21"
+    "message": "대단한 기록이다!<N>상금은 <FC 0,128,0><SO HT_Objective_MGWalls_Prize> 스캐럽<END FC>이다!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore1": {
-    "message": "나쁘진 않군 - <FC 0,128,0><SO HT_Objective_WallDodge_Time> 초<END FC>에 완료했다. 그러나 더 잘 할 수 있겠군...<P>최고 시간은 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> 초<END FC>다.<E>",
-    "description": "SphinxText.xls, row 22"
+    "message": "나쁘진 않군 - <FC 0,128,0><SO HT_Objective_WallDodge_Time> 초<END FC>에 완료했다. 그러나 더 잘 할 수 있겠군...<P>최고 시간은 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> 초<END FC>다.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore2": {
-    "message": "나쁘진 않군 - <FC 0,128,0><SO HT_Objective_WallDodge_Time> 초<END FC>에 완료했다. 다음엔 더 잘 할 수 있겠군...<P>최고 시간은 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2> 초<END FC>다.<E>",
-    "description": "SphinxText.xls, row 23"
+    "message": "나쁘진 않군 - <FC 0,128,0><SO HT_Objective_WallDodge_Time> 초<END FC>에 완료했다. 다음엔 더 잘 할 수 있겠군...<P>최고 시간은 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2> 초<END FC>다.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore3": {
-    "message": "괜찮았다 - <FC 0,128,0><SO HT_Objective_WallDodge_Time> 초<END FC>에 완료했다. 다음엔 향상시킬 수 있겠군...<P>최고 시간은 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> 초<END FC>다.<E>",
-    "description": "SphinxText.xls, row 24"
+    "message": "괜찮았다 - <FC 0,128,0><SO HT_Objective_WallDodge_Time> 초<END FC>에 완료했다. 다음엔 향상시킬 수 있겠군...<P>최고 시간은 <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> 초<END FC>다.<E>"
   },
   "HT_Text_MG_WallDodge_HighScores": {
-    "message": "<DP><DHP><END TT><CNTR>시련 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>시련 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N>시련 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>",
-    "description": "SphinxText.xls, row 25"
+    "message": "<DP><DHP><END TT><CNTR>시련 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>시련 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N>시련 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>"
   },
   "HT_Text_MG_WallDodge_Test": {
-    "message": "<FC 128,64,0>승자의 회랑<END FC>에 온 것을 환영한다.<P>여기서는 진정한 승자만이 자신의 능력을 시험할 수 있다. 우리의 시련에 대항하여 겨뤄보겠나?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 26"
+    "message": "<FC 128,64,0>승자의 회랑<END FC>에 온 것을 환영한다.<P>여기서는 진정한 승자만이 자신의 능력을 시험할 수 있다. 우리의 시련에 대항하여 겨뤄보겠나?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_MG_WallDodge_TestYes": {
-    "message": "용감하고 훌륭한 선택이다! 그러나, 진행하기 전에 작은 시험을 통과해야만 한다.<E>",
-    "description": "SphinxText.xls, row 27"
+    "message": "용감하고 훌륭한 선택이다! 그러나, 진행하기 전에 작은 시험을 통과해야만 한다.<E>"
   },
   "HT_Text_MG_WallDodge_TestYesPearl": {
-    "message": "울타리 너머 있는 <FC 0,128,0>다이아몬드<END FC>를 <FC 0,128,0>20 초<END FC> 이내에 내게 가져와라, 그러면 시련을 감당할 수 있다는 것을 증명하는 것이다.<E>",
-    "description": "SphinxText.xls, row 28"
+    "message": "울타리 너머 있는 <FC 0,128,0>다이아몬드<END FC>를 <FC 0,128,0>20 초<END FC> 이내에 내게 가져와라, 그러면 시련을 감당할 수 있다는 것을 증명하는 것이다.<E>"
   },
   "HT_Text_MG_WallDodge_TestNo": {
-    "message": "나쁘지 않군. <FC 128,64,0>승자의 회랑<END FC>은 아무나 시도할 수 있는게 아니거든...<E>",
-    "description": "SphinxText.xls, row 29"
+    "message": "나쁘지 않군. <FC 128,64,0>승자의 회랑<END FC>은 아무나 시도할 수 있는게 아니거든...<E>"
   },
   "HT_Text_MG_WallDodge_TestComplete": {
-    "message": "훌륭하다, 시험을 통과했다.<E>",
-    "description": "SphinxText.xls, row 30"
+    "message": "훌륭하다, 시험을 통과했다.<E>"
   },
   "HT_Text_MG_WallDodge_TestFail": {
-    "message": "시련에 맞설 준비가 안 되어있다는 것이 자명하군. <FC 0,128,0>다이아몬드<END FC>를 회수할 수 있는 능력을 얻은 후 돌아오라.<E>",
-    "description": "SphinxText.xls, row 31"
+    "message": "시련에 맞설 준비가 안 되어있다는 것이 자명하군. <FC 0,128,0>다이아몬드<END FC>를 회수할 수 있는 능력을 얻은 후 돌아오라.<E>"
   },
   "HT_Text_MG_WallDodge_TestInProgress": {
-    "message": "몇 초 밖에 안 남았다!<E>",
-    "description": "SphinxText.xls, row 32"
+    "message": "몇 초 밖에 안 남았다!<E>"
   },
   "HT_Text_MG_WallDodge_TestGiveUp": {
-    "message": "시험을 완수할 수 없으면, 시련을 시도해 볼 수 없다. 성공할 수 있다고 느낄 때 다시 오게... <E>",
-    "description": "SphinxText.xls, row 33"
+    "message": "시험을 완수할 수 없으면, 시련을 시도해 볼 수 없다. 성공할 수 있다고 느낄 때 다시 오게... <E>"
   },
   "HT_Text_MG_WallDodge_NoMoney": {
-    "message": "뭘 하려고 하는 거냐? 10 <FC 0,128,0>스캐럽<END FC>이 있어야 한다.<E>",
-    "description": "SphinxText.xls, row 36"
+    "message": "뭘 하려고 하는 거냐? 10 <FC 0,128,0>스캐럽<END FC>이 있어야 한다.<E>"
   },
   "HT_Text_MG_WallDodge_GameComplete": {
-    "message": "시련을 완수했군! 진정한 승자다!<P>시련을 극복한 자들에게만 주어지는 <FC 0,128,0>승자의 메달<END FC>을 주도록 하지.<E>",
-    "description": "SphinxText.xls, row 37"
+    "message": "시련을 완수했군! 진정한 승자다!<P>시련을 극복한 자들에게만 주어지는 <FC 0,128,0>승자의 메달<END FC>을 주도록 하지.<E>"
   },
   "HT_Text_MG_Shooting_Start": {
-    "message": "<FC 128,64,0>테프넛의 과녁 술집<END FC>에 오신 것을 환영합니다. 플레이 하려면 <FC 0,128,0>10 스캐럽<END FC>이 필요합니다.<P>플레이 하시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 46"
+    "message": "<FC 128,64,0>테프넛의 과녁 술집<END FC>에 오신 것을 환영합니다. 플레이 하려면 <FC 0,128,0>10 스캐럽<END FC>이 필요합니다.<P>플레이 하시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_MG_Shooting_Instructions": {
-    "message": "과녁을 맞춰서 점수를 얻으십시오. 해골을 맞추면 아주 안 좋은 일이 벌어집니다... 그럴 경우 점수와 시간을 잃게 됩니다.<E>",
-    "description": "SphinxText.xls, row 47"
+    "message": "과녁을 맞춰서 점수를 얻으십시오. 해골을 맞추면 아주 안 좋은 일이 벌어집니다... 그럴 경우 점수와 시간을 잃게 됩니다.<E>"
   },
   "HT_Text_MG_Shooting_Won": {
-    "message": "그렇게 나쁘진 않군요. 많은 과녁을 맞췄습니다. <P>하지만 <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> 점<END FC>보다는 더 잘 했던 적이 있군요.<P>이 점수의 상으로 여기 <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> 스캐럽<END FC>이 있습니다. 더 잘 할 수 있다고 생각한다면 마음껏 재도전 하십시오.<E>",
-    "description": "SphinxText.xls, row 48"
+    "message": "그렇게 나쁘진 않군요. 많은 과녁을 맞췄습니다. <P>하지만 <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> 점<END FC>보다는 더 잘 했던 적이 있군요.<P>이 점수의 상으로 여기 <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> 스캐럽<END FC>이 있습니다. 더 잘 할 수 있다고 생각한다면 마음껏 재도전 하십시오.<E>"
   },
   "HT_Text_MG_Shooting_Won_HighScore": {
-    "message": "<FC 0,128,0><SO HT_Objective_Shooting_Score1> 점<END FC>으로 신기록을 세웠군요! 이 점수는 벽의 차트에 추가될 것입니다.<P>이렇게 훌륭한 고득점의 보상으로, 여기 <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> 스캐럽<END FC>이 있습니다!<E>",
-    "description": "SphinxText.xls, row 49"
+    "message": "<FC 0,128,0><SO HT_Objective_Shooting_Score1> 점<END FC>으로 신기록을 세웠군요! 이 점수는 벽의 차트에 추가될 것입니다.<P>이렇게 훌륭한 고득점의 보상으로, 여기 <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> 스캐럽<END FC>이 있습니다!<E>"
   },
   "HT_Text_MG_Shooting_Lost": {
-    "message": "쯧! 정말 못 봐주겠군요! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> 점<END FC>은 불쌍할 정도입니다! 혹시 연습이 더 필요한 것은 아닌가요?<E>",
-    "description": "SphinxText.xls, row 50"
+    "message": "쯧! 정말 못 봐주겠군요! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> 점<END FC>은 불쌍할 정도입니다! 혹시 연습이 더 필요한 것은 아닌가요?<E>"
   },
   "HT_Text_MG_Shooting_LostSingle": {
-    "message": "쯧! 정말 못 봐주겠군요! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> 점<END FC>은 불쌍할 정도입니다! 혹시 연습이 더 필요한 것은 아닌가요?<E>",
-    "description": "SphinxText.xls, row 51"
+    "message": "쯧! 정말 못 봐주겠군요! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> 점<END FC>은 불쌍할 정도입니다! 혹시 연습이 더 필요한 것은 아닌가요?<E>"
   },
   "HT_Text_MG_Shooting_HighScores": {
-    "message": "<DP><DHP><END TT>당신의 최고 점수는: <FC 0,128,0><SO HT_Objective_Shooting_Score1> 점<END FC>입니다!",
-    "description": "SphinxText.xls, row 52"
+    "message": "<DP><DHP><END TT>당신의 최고 점수는: <FC 0,128,0><SO HT_Objective_Shooting_Score1> 점<END FC>입니다!"
   },
   "HT_Text_MG_Shooting_NoMoney": {
-    "message": "제가 <FC 0,128,0>10 스캐럽<END FC>이라고 말씀 드렸죠. 그것은 <FC 0,128,0>10 스캐럽<END FC>이 안되는군요! 그렇죠?<E>",
-    "description": "SphinxText.xls, row 56"
+    "message": "제가 <FC 0,128,0>10 스캐럽<END FC>이라고 말씀 드렸죠. 그것은 <FC 0,128,0>10 스캐럽<END FC>이 안되는군요! 그렇죠?<E>"
   },
   "HT_Text_MG_Shooting_GameComplete": {
-    "message": "<FC 0,128,0>취관<END FC>사용법을 통달했다는 것을 증명하였습니다! <FC 0,128,0>2급 사수 메달<END FC>을 수여하게 되어서 기쁩니다. 잘 하셨습니다.<E>",
-    "description": "SphinxText.xls, row 57"
+    "message": "<FC 0,128,0>취관<END FC>사용법을 통달했다는 것을 증명하였습니다! <FC 0,128,0>2급 사수 메달<END FC>을 수여하게 되어서 기쁩니다. 잘 하셨습니다.<E>"
   },
   "HT_Text_MG_Shooting_WinInstructions": {
-    "message": "<FC 0,128,0>취관<END FC>사용법을 통달하였다는 것을 증명하고 <FC 0,128,0>2급 사수 메달<END FC>을 얻으려면, <FC 0,128,0>40 점<END FC> 이상을 얻어야만 합니다.<E>",
-    "description": "SphinxText.xls, row 58"
+    "message": "<FC 0,128,0>취관<END FC>사용법을 통달하였다는 것을 증명하고 <FC 0,128,0>2급 사수 메달<END FC>을 얻으려면, <FC 0,128,0>40 점<END FC> 이상을 얻어야만 합니다.<E>"
   },
   "HT_Text_MG_Simon_Start": {
-    "message": "이방인이여, 신비의 순서 게임에 온 것을 환영합니다. 나의 사당에서 소리와 색상의 패턴을 기억하는 능력을 시험 받게 될 것입니다.<P>플레이 하시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 60"
+    "message": "이방인이여, 신비의 순서 게임에 온 것을 환영합니다. 나의 사당에서 소리와 색상의 패턴을 기억하는 능력을 시험 받게 될 것입니다.<P>플레이 하시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_MG_Simon_StartEasy": {
-    "message": "신비의 순서 게임에 온 것을 환영합니다. <FC 0,128,0>5 스캐럽<END FC>이라는 적당한 가격으로 저의 마법의 사당에서 자신의 능력을 시험해 볼 수 있습니다.<P>플레이 하시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 61"
+    "message": "신비의 순서 게임에 온 것을 환영합니다. <FC 0,128,0>5 스캐럽<END FC>이라는 적당한 가격으로 저의 마법의 사당에서 자신의 능력을 시험해 볼 수 있습니다.<P>플레이 하시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_MG_Simon_Choose1": {
-    "message": "내 마법의 사당에서 어떤 단계의 능력을 시험해 보고 싶은가?<N>  <B 1> 초급자 - <FC 0,128,0>5 스캐럽<END FC><N>  <B 2> 중급자 - <FC 0,128,0>10 스캐럽<END FC><E>",
-    "description": "SphinxText.xls, row 62"
+    "message": "내 마법의 사당에서 어떤 단계의 능력을 시험해 보고 싶은가?<N>  <B 1> 초급자 - <FC 0,128,0>5 스캐럽<END FC><N>  <B 2> 중급자 - <FC 0,128,0>10 스캐럽<END FC><E>"
   },
   "HT_Text_MG_Simon_Choose2": {
-    "message": "성당에서 어떤 레벨의 능력을 시험해 보고 싶은가?<N>  <B 1> 초급자 - <FC 0,128,0>5 스캐럽<END FC><N>  <B 2> 중급자 - <FC 0,128,0>10 스캐럽<END FC><N>  <B 3> 상급자 - <FC 0,128,0>20 스캐럽<END FC><E>",
-    "description": "SphinxText.xls, row 63"
+    "message": "성당에서 어떤 레벨의 능력을 시험해 보고 싶은가?<N>  <B 1> 초급자 - <FC 0,128,0>5 스캐럽<END FC><N>  <B 2> 중급자 - <FC 0,128,0>10 스캐럽<END FC><N>  <B 3> 상급자 - <FC 0,128,0>20 스캐럽<END FC><E>"
   },
   "HT_Text_MG_Simon_Instructions": {
-    "message": "길을 따라 중앙 플랫폼으로 걸어가세요. 앞에 펼쳐지는 순서들을 기억해보세요.<P>승리하려면 그 순서들을 반복하세요.<N>중앙 플랫폼위로 점프하면 각각의 순서들을 다시 볼 수 있으나, 단 한 번 뿐입니다.<E>",
-    "description": "SphinxText.xls, row 64"
+    "message": "길을 따라 중앙 플랫폼으로 걸어가세요. 앞에 펼쳐지는 순서들을 기억해보세요.<P>승리하려면 그 순서들을 반복하세요.<N>중앙 플랫폼위로 점프하면 각각의 순서들을 다시 볼 수 있으나, 단 한 번 뿐입니다.<E>"
   },
   "HT_Text_MG_Simon_Fail": {
-    "message": "아니~ 아니~ 아니~ 전혀 아니에요! 이번에는 실패했군요.<E>",
-    "description": "SphinxText.xls, row 65"
+    "message": "아니~ 아니~ 아니~ 전혀 아니에요! 이번에는 실패했군요.<E>"
   },
   "HT_Text_MG_Simon_Succeed": {
-    "message": "잘했어요~! <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>회를 통과했군요!<E>",
-    "description": "SphinxText.xls, row 66"
+    "message": "잘했어요~! <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>회를 통과했군요!<E>"
   },
   "HT_Text_MG_Simon_Win": {
-    "message": "축하 드립니다, 이겼습니다! 상품으로 <FC 0,128,0><SO HT_Objective_Simon_Prize> 스캐럽<END FC>을 받으세요!<E>",
-    "description": "SphinxText.xls, row 67"
+    "message": "축하 드립니다, 이겼습니다! 상품으로 <FC 0,128,0><SO HT_Objective_Simon_Prize> 스캐럽<END FC>을 받으세요!<E>"
   },
   "HT_Text_MG_Simon_Restart": {
-    "message": "게임 중입니다! 어떻게 하실 건가요?<N>  <B 1> 종료<PC 1><B 2> 재 시작<N>  <B 3> 계속 진행<PC 1><B 4> 설명<E>",
-    "description": "SphinxText.xls, row 68"
+    "message": "게임 중입니다! 어떻게 하실 건가요?<N>  <B 1> 종료<PC 1><B 2> 재 시작<N>  <B 3> 계속 진행<PC 1><B 4> 설명<E>"
   },
   "HT_Text_MG_Simon_CopyLimit": {
-    "message": "아아 그것은 안 되요! 각 순서마다 두 번씩만 볼 수 있습니다!<E>",
-    "description": "SphinxText.xls, row 69"
+    "message": "아아 그것은 안 되요! 각 순서마다 두 번씩만 볼 수 있습니다!<E>"
   },
   "HT_Text_MG_Simon_NoMoney": {
-    "message": "잠깐, <FC 0,128,0>스캐럽<END FC>이 충분하지 않군요. 플레이 하기에 충분할 때 다시 오세요.<E>",
-    "description": "SphinxText.xls, row 72"
+    "message": "잠깐, <FC 0,128,0>스캐럽<END FC>이 충분하지 않군요. 플레이 하기에 충분할 때 다시 오세요.<E>"
   },
   "HT_Text_MG_Simon_CantLeave": {
-    "message": "이봐요, 떠날 수 없어요! 게임 중이잖아요?<E>",
-    "description": "SphinxText.xls, row 73"
+    "message": "이봐요, 떠날 수 없어요! 게임 중이잖아요?<E>"
   },
   "HT_Text_MG_Simon_GameComplete": {
-    "message": "훌륭해요! 제 게임을 풀고 <FC 0,128,0>순서의 메달<END FC>을 획득하셨습니다.<E>",
-    "description": "SphinxText.xls, row 74"
+    "message": "훌륭해요! 제 게임을 풀고 <FC 0,128,0>순서의 메달<END FC>을 획득하셨습니다.<E>"
   },
   "HT_Text_MG_Pairs_Start": {
-    "message": "저의 게임에 오신 것을 환영합니다! 플레이 하시려면 <FC 0,128,0>10 스캐럽<END FC>을 주셔야 합니다.<P>플레이 하시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 76"
+    "message": "저의 게임에 오신 것을 환영합니다! 플레이 하시려면 <FC 0,128,0>10 스캐럽<END FC>을 주셔야 합니다.<P>플레이 하시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_MG_Pairs_Scores": {
-    "message": "<DHP><DP><END TT>현재 최고 기록은:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> 초<END FC>입니다.",
-    "description": "SphinxText.xls, row 77"
+    "message": "<DHP><DP><END TT>현재 최고 기록은:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> 초<END FC>입니다."
   },
   "HT_Text_MG_Pairs_NoScores": {
-    "message": "<DHP><DP><END TT>이 게임을 끝까지 한 적이 한 번도 없습니다... <END FC>",
-    "description": "SphinxText.xls, row 78"
+    "message": "<DHP><DP><END TT>이 게임을 끝까지 한 적이 한 번도 없습니다... <END FC>"
   },
   "HT_Text_MG_Pairs_Win": {
-    "message": "축하합니다! <FC 0,128,0><SO HT_Objective_Pairs_Won> 스캐럽<END FC>을 얻었습니다!<E>",
-    "description": "SphinxText.xls, row 79"
+    "message": "축하합니다! <FC 0,128,0><SO HT_Objective_Pairs_Won> 스캐럽<END FC>을 얻었습니다!<E>"
   },
   "HT_Text_MG_Pairs_Restart": {
-    "message": "지금은 게임 중입니다! 어떻게 하시겠습니까?<N>  <B 1> 종료<PC 1><B 2> 재 시작<N>  <B 3> 계속 진행<PC 1><B 4> 설명<E>",
-    "description": "SphinxText.xls, row 80"
+    "message": "지금은 게임 중입니다! 어떻게 하시겠습니까?<N>  <B 1> 종료<PC 1><B 2> 재 시작<N>  <B 3> 계속 진행<PC 1><B 4> 설명<E>"
   },
   "HT_Text_MG_Pairs_Instructions": {
-    "message": "<FC 0,128,0>취관<END FC>을 이용하여 방의 끝에 있는 문들을 쏘아서 여십시오.<P>이기려면 문들의 뒤에 있는 아이템들의 쌍을 찾으면 됩니다.<E>",
-    "description": "SphinxText.xls, row 81"
+    "message": "<FC 0,128,0>취관<END FC>을 이용하여 방의 끝에 있는 문들을 쏘아서 여십시오.<P>이기려면 문들의 뒤에 있는 아이템들의 쌍을 찾으면 됩니다.<E>"
   },
   "HT_Text_MG_Pairs_NoBlowpipe": {
-    "message": "미안하지만 <FC 0,128,0>취관<END FC>이 없으면 플레이 할 수 없습니다.<E>",
-    "description": "SphinxText.xls, row 85"
+    "message": "미안하지만 <FC 0,128,0>취관<END FC>이 없으면 플레이 할 수 없습니다.<E>"
   },
   "HT_Text_MG_Pairs_RestartPay": {
-    "message": "<FC 0,128,0>10 스캐럽<END FC>이 또 듭니다...<N>  <B 1> 좋아, 다시 시작<N>  <B 2> 아니, 계속 진행<E>",
-    "description": "SphinxText.xls, row 87"
+    "message": "<FC 0,128,0>10 스캐럽<END FC>이 또 듭니다...<N>  <B 1> 좋아, 다시 시작<N>  <B 2> 아니, 계속 진행<E>"
   },
   "HT_Text_MG_Pairs_NoMoney": {
-    "message": "<FC 0,128,0>10 스캐럽<END FC>이 든다고 말씀 드렸는데, <FC 0,128,0>10 스캐럽<END FC>이 없으시군요.<E>",
-    "description": "SphinxText.xls, row 88"
+    "message": "<FC 0,128,0>10 스캐럽<END FC>이 든다고 말씀 드렸는데, <FC 0,128,0>10 스캐럽<END FC>이 없으시군요.<E>"
   },
   "HT_Text_MG_Pairs_NotWon": {
-    "message": "너무 오래 끌었군요! 상품은 없습니다!<E>",
-    "description": "SphinxText.xls, row 89"
+    "message": "너무 오래 끌었군요! 상품은 없습니다!<E>"
   },
   "HT_Text_MG_Pairs_WinInstructions": {
-    "message": "<FC 0,128,0>60 초<END FC>이내에 게임을 끝내면, <FC 0,128,0>기억의 메달<END FC>을 받을 자격이 있다는 것을 증명하는 겁니다.<E>",
-    "description": "SphinxText.xls, row 90"
+    "message": "<FC 0,128,0>60 초<END FC>이내에 게임을 끝내면, <FC 0,128,0>기억의 메달<END FC>을 받을 자격이 있다는 것을 증명하는 겁니다.<E>"
   },
   "HT_Text_MG_Pairs_GameComplete": {
-    "message": "그리고 <FC 0,128,0>기억의 메달<END FC>을 얻으셨습니다!<E>",
-    "description": "SphinxText.xls, row 91"
+    "message": "그리고 <FC 0,128,0>기억의 메달<END FC>을 얻으셨습니다!<E>"
   },
   "HT_Text_MG_Pairs_TooLong": {
-    "message": "그만, 시간이 너무 흘렀네요, 유감입니다만, 이 게임을 멈추겠습니다.<E>",
-    "description": "SphinxText.xls, row 92"
+    "message": "그만, 시간이 너무 흘렀네요, 유감입니다만, 이 게임을 멈추겠습니다.<E>"
   },
   "HT_Text_Museum_BC01_Giant_Prawn": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>겝<END FC> ]---<P>고대의 땅의 신과 같은 이름을 가진, 겝들은 평화로운 생물이었다.<P>그러나 최근의 그들은 가공할 겝 여왕의 충실한 일꾼으로써 위협적인 존재가 되고 있다...<E>",
-    "description": "SphinxText.xls, row 94"
+    "message": "<N><CNTR>---[ <FC 0,128,0>겝<END FC> ]---<P>고대의 땅의 신과 같은 이름을 가진, 겝들은 평화로운 생물이었다.<P>그러나 최근의 그들은 가공할 겝 여왕의 충실한 일꾼으로써 위협적인 존재가 되고 있다...<E>"
   },
   "HT_Text_Museum_BM09_Smiling_burble": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>미소 짓는 거품<END FC> ]---<P>이 작은 벌레는 버블들 중에서 온순한 종족 중의 하나로, 이 종의 특징인 폭발적인 속성이 사라져 버렸다.<P>그들의 강력한 뿔은 바위를 조각낼 수 있지만 방향감각 부족으로 그 평소의 위험성이 감소되었지.<E>",
-    "description": "SphinxText.xls, row 95"
+    "message": "<N><CNTR>---[ <FC 0,128,0>미소 짓는 거품<END FC> ]---<P>이 작은 벌레는 버블들 중에서 온순한 종족 중의 하나로, 이 종의 특징인 폭발적인 속성이 사라져 버렸다.<P>그들의 강력한 뿔은 바위를 조각낼 수 있지만 방향감각 부족으로 그 평소의 위험성이 감소되었지.<E>"
   },
   "HT_Text_Museum_BM10_i_Cyclops": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>싸이클롭스<END FC> ]---<P>외눈이라서 붙여진 이름인데, 이 이족보행 종족은 화염, 번개, 공간 이동 및 자기 복제가 가능하다.<P>피부와 머리 색이 혼합되어 종종 어떤 뿌리 식물과 혼동되기도 한다...<E>",
-    "description": "SphinxText.xls, row 96"
+    "message": "<N><CNTR>---[ <FC 0,128,0>싸이클롭스<END FC> ]---<P>외눈이라서 붙여진 이름인데, 이 이족보행 종족은 화염, 번개, 공간 이동 및 자기 복제가 가능하다.<P>피부와 머리 색이 혼합되어 종종 어떤 뿌리 식물과 혼동되기도 한다...<E>"
   },
   "HT_Text_Museum_BM12_slim_burble": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>슬림 버블<END FC> ]---<P>다른 버블들과 비교했을 때, 회전하는 뼈대가 두드러지는 슬림 버블은 놀랄만한 속도로 알을 낳을 수 있다.<P>벼랑 밑에 세워진 사육지에 살고, 불 같은 성격은 새롭게 흘러나오는 용암을 주로 먹기 때문이다.<E>",
-    "description": "SphinxText.xls, row 97"
+    "message": "<N><CNTR>---[ <FC 0,128,0>슬림 버블<END FC> ]---<P>다른 버블들과 비교했을 때, 회전하는 뼈대가 두드러지는 슬림 버블은 놀랄만한 속도로 알을 낳을 수 있다.<P>벼랑 밑에 세워진 사육지에 살고, 불 같은 성격은 새롭게 흘러나오는 용암을 주로 먹기 때문이다.<E>"
   },
   "HT_Text_Museum_BR04_Goofy_Lizard": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>얼빠진 도마뱀<END FC> ]---<P>얼빠진 도마뱀은 방향감각이 전혀 없기 때문에 완전히 상식 밖의 습성을 가지고 있다.<P>현존하는 가장 흔한 길들여진 동물이다.<E>",
-    "description": "SphinxText.xls, row 98"
+    "message": "<N><CNTR>---[ <FC 0,128,0>얼빠진 도마뱀<END FC> ]---<P>얼빠진 도마뱀은 방향감각이 전혀 없기 때문에 완전히 상식 밖의 습성을 가지고 있다.<P>현존하는 가장 흔한 길들여진 동물이다.<E>"
   },
   "HT_Text_Museum_BR05_Dino_Oaf": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>다이노 오우프<END FC> ]---<P>다이노 오우프들은 수 백만 년 동안 존재하여 왔다, 이는 최근 발견된 동굴 벽화에서 증명된다.<P>순하고 호기심 많은 잡식성으로 이들의 힘은 종종 힘든 농작일을 돕는데 사용된다.<E>",
-    "description": "SphinxText.xls, row 99"
+    "message": "<N><CNTR>---[ <FC 0,128,0>다이노 오우프<END FC> ]---<P>다이노 오우프들은 수 백만 년 동안 존재하여 왔다, 이는 최근 발견된 동굴 벽화에서 증명된다.<P>순하고 호기심 많은 잡식성으로 이들의 힘은 종종 힘든 농작일을 돕는데 사용된다.<E>"
   },
   "HT_Text_Museum_BR06_Half_Brute": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>반수<END FC> ]---<P>반수라는 이름은 두 다리를 가진 이 괴물의 성질을 과소평가하는 듯 하다. 주로 사막지역에서 발견된다.<P>전수의 후손으로 이 혐오스러운 도마뱀은 현재 멸종된 것으로 알려져 있다.<E>",
-    "description": "SphinxText.xls, row 100"
+    "message": "<N><CNTR>---[ <FC 0,128,0>반수<END FC> ]---<P>반수라는 이름은 두 다리를 가진 이 괴물의 성질을 과소평가하는 듯 하다. 주로 사막지역에서 발견된다.<P>전수의 후손으로 이 혐오스러운 도마뱀은 현재 멸종된 것으로 알려져 있다.<E>"
   },
   "HT_Text_Museum_BU01_Mummy_Minotaur": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>미노타우르스 미이라<END FC> ]---<P>고대의 미로의 수호자들의 후손으로 미노타우르스 미이라들은 <FC 128,64,0>이집트<END FC> 암흑의 사원들을 배회하고 있다.<P>입에서 뿜어내는 불에 둘러 쌓여 있고, 화염 공격은 박물관의 안전을 위해서 중화되었다.<E>",
-    "description": "SphinxText.xls, row 101"
+    "message": "<N><CNTR>---[ <FC 0,128,0>미노타우르스 미이라<END FC> ]---<P>고대의 미로의 수호자들의 후손으로 미노타우르스 미이라들은 <FC 128,64,0>이집트<END FC> 암흑의 사원들을 배회하고 있다.<P>입에서 뿜어내는 불에 둘러 쌓여 있고, 화염 공격은 박물관의 안전을 위해서 중화되었다.<E>"
   },
   "HT_Text_Museum_BU02_Skeletal_Axeman": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>해골 도끼꾼<END FC> ]---<P>고대 어둠의 이집트 군사의 병사들이라는 소문이 있다. 언데드의 멤버로써 이들의 기원은 알려져 있지 않다.<P>이제는 세 명 이상의 그룹으로는 목격되지 않지만 과거에는 대부대를 형성하였다.<E>",
-    "description": "SphinxText.xls, row 102"
+    "message": "<N><CNTR>---[ <FC 0,128,0>해골 도끼꾼<END FC> ]---<P>고대 어둠의 이집트 군사의 병사들이라는 소문이 있다. 언데드의 멤버로써 이들의 기원은 알려져 있지 않다.<P>이제는 세 명 이상의 그룹으로는 목격되지 않지만 과거에는 대부대를 형성하였다.<E>"
   },
   "HT_Text_Museum_BU03_zombie_man": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>좀비<END FC> ]---<P>언데드의 지위에 오르기 전에, 이들은 거대한 사원들을 짓기 위해 길고 힘든 노동을 했던 노예들이었다.<P>좀비는 이제 그들에게서 영원히 멀어져 버린 후세로의 관문을 찾아서 모래 땅을 헤매도록 저주 받았다...<E>",
-    "description": "SphinxText.xls, row 103"
+    "message": "<N><CNTR>---[ <FC 0,128,0>좀비<END FC> ]---<P>언데드의 지위에 오르기 전에, 이들은 거대한 사원들을 짓기 위해 길고 힘든 노동을 했던 노예들이었다.<P>좀비는 이제 그들에게서 영원히 멀어져 버린 후세로의 관문을 찾아서 모래 땅을 헤매도록 저주 받았다...<E>"
   },
   "HT_Text_Museum_BU05_almost_a_bull": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>올모스트-어-불<END FC> ]---<P><FC 128,64,0>헬리오폴리스<END FC>에서 종종 발견되는 올모스트-어-불의 방어 장치는 어떠한 자를 상대하더라도 더 작은 목표물로 보이기 위해 줄어들도록 한다.<P>특이한 증식의 실수로 인하여 한 손이 세 번째 뿔로 교체되었다, 이는 거의 진화의 변태이다.<E>",
-    "description": "SphinxText.xls, row 104"
+    "message": "<N><CNTR>---[ <FC 0,128,0>올모스트-어-불<END FC> ]---<P><FC 128,64,0>헬리오폴리스<END FC>에서 종종 발견되는 올모스트-어-불의 방어 장치는 어떠한 자를 상대하더라도 더 작은 목표물로 보이기 위해 줄어들도록 한다.<P>특이한 증식의 실수로 인하여 한 손이 세 번째 뿔로 교체되었다, 이는 거의 진화의 변태이다.<E>"
   },
   "HT_Text_Museum_BU06_MBird": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>미이라 새<END FC> ]---<P>미이라로 만들어졌을 때, 미신에 대항하여 보호수단으로 미이라 새의 눈 주위에 붕대가 감싸졌다.<P>그 결과로, 적들의 위치를 파악할 때 청각에 의존하며 소리가 나는 방향으로 발톱을 뻗치며 뛰어오른다.<E>",
-    "description": "SphinxText.xls, row 105"
+    "message": "<N><CNTR>---[ <FC 0,128,0>미이라 새<END FC> ]---<P>미이라로 만들어졌을 때, 미신에 대항하여 보호수단으로 미이라 새의 눈 주위에 붕대가 감싸졌다.<P>그 결과로, 적들의 위치를 파악할 때 청각에 의존하며 소리가 나는 방향으로 발톱을 뻗치며 뛰어오른다.<E>"
   },
   "HT_Text_Museum_FL02_Featherless_Turkey": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>깃털 없는 칠면조<END FC> ]---<P>빠르고 간단한 음식 처리를 위해 특별히 개량된 깃털 없는 칠면조는 세월이 흐르면서 복합체를 개발해냈다.<P>이들은 근처의 누구라도 들이받으며, 자신의 깃털을 잃어버리게 된 것을 영역에 들어오는 모든 생물의 탓으로 돌리려는 듯 하다.<E>",
-    "description": "SphinxText.xls, row 106"
+    "message": "<N><CNTR>---[ <FC 0,128,0>깃털 없는 칠면조<END FC> ]---<P>빠르고 간단한 음식 처리를 위해 특별히 개량된 깃털 없는 칠면조는 세월이 흐르면서 복합체를 개발해냈다.<P>이들은 근처의 누구라도 들이받으며, 자신의 깃털을 잃어버리게 된 것을 영역에 들어오는 모든 생물의 탓으로 돌리려는 듯 하다.<E>"
   },
   "HT_Text_Museum_FL03_shuttlecock_bird": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>셔틀콕 새<END FC> ]---<P>셔틀콕 새는 비록 한 번에 짧은 거리밖에 날 수 없지만, 하나뿐인 다리는 대단한 점프력을 지니고 있다. <P>독특하게 배열된 머리주위의 날개는 공격하기 위해 돌진할 때를 위해 공기역학적으로 만들어졌다.<E>",
-    "description": "SphinxText.xls, row 107"
+    "message": "<N><CNTR>---[ <FC 0,128,0>셔틀콕 새<END FC> ]---<P>셔틀콕 새는 비록 한 번에 짧은 거리밖에 날 수 없지만, 하나뿐인 다리는 대단한 점프력을 지니고 있다. <P>독특하게 배열된 머리주위의 날개는 공격하기 위해 돌진할 때를 위해 공기역학적으로 만들어졌다.<E>"
   },
   "HT_Text_Museum_HD02_Cat": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>나이프 고양이<END FC> ]---<P>크랩핸드들의 훨씬 빠르고 더욱 치명적인 친척 뻘로, 비상한 청각을 소유하고 있다.<P>외형은 휴머노이드이지만, 고양이라는 이름의 반쪽이 의미하는 것을 이해하려면 나이프 고양이가 사냥하는 것을 목격하여야만 할 것이다.<E>",
-    "description": "SphinxText.xls, row 108"
+    "message": "<N><CNTR>---[ <FC 0,128,0>나이프 고양이<END FC> ]---<P>크랩핸드들의 훨씬 빠르고 더욱 치명적인 친척 뻘로, 비상한 청각을 소유하고 있다.<P>외형은 휴머노이드이지만, 고양이라는 이름의 반쪽이 의미하는 것을 이해하려면 나이프 고양이가 사냥하는 것을 목격하여야만 할 것이다.<E>"
   },
   "HT_Text_Museum_HD03_BigBull": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>거대한 황소<END FC> ]---<P>망치를 휘두르는 이 괴물은 나쁜 성격으로 널리 알려져 있다.<P>어마어마한 크기의 무기는 방패가 따로 필요 없다.<E>",
-    "description": "SphinxText.xls, row 109"
+    "message": "<N><CNTR>---[ <FC 0,128,0>거대한 황소<END FC> ]---<P>망치를 휘두르는 이 괴물은 나쁜 성격으로 널리 알려져 있다.<P>어마어마한 크기의 무기는 방패가 따로 필요 없다.<E>"
   },
   "HT_Text_Museum_HD14_Crab": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>크랩핸드<END FC> ]---<P>이 괴물은 휴머노이드와 갑각류의 조합이며 대륙전체에서 발견된다.<P>크랩핸드를 장식하는 황금 갑옷 플레이트는 몸에 영구히 장착되어 있으며 성장을 가능하게 하기 위하여 마법이 걸려있다.<E>",
-    "description": "SphinxText.xls, row 110"
+    "message": "<N><CNTR>---[ <FC 0,128,0>크랩핸드<END FC> ]---<P>이 괴물은 휴머노이드와 갑각류의 조합이며 대륙전체에서 발견된다.<P>크랩핸드를 장식하는 황금 갑옷 플레이트는 몸에 영구히 장착되어 있으며 성장을 가능하게 하기 위하여 마법이 걸려있다.<E>"
   },
   "HT_Text_Museum_HD17_Sharpbeak": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>날카로운 부리<END FC> ]---<P>날카로운 부리의 날씬한 외형은 유연한 전사를 만들었고 이들은 검술을 잘 훈련 받았다.<P>도마뱀과 새의 이런 특이한 합성은 흑마법이 원인이라는 소문이 있다.<E>",
-    "description": "SphinxText.xls, row 111"
+    "message": "<N><CNTR>---[ <FC 0,128,0>날카로운 부리<END FC> ]---<P>날카로운 부리의 날씬한 외형은 유연한 전사를 만들었고 이들은 검술을 잘 훈련 받았다.<P>도마뱀과 새의 이런 특이한 합성은 흑마법이 원인이라는 소문이 있다.<E>"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>해골 숭배자<END FC> ]---<P>악의 힘에 강력한 동반자로 기술이 뛰어나고 동시에 무자비한 전투사들이다.<P>- 이들의 거주지는 해골로 장식되어 있다 - 라고 전한 탈출한 자의 말에 의하더라도 해골 숭배자가 정확히 그러하다는 것을 증명한다.<E>",
-    "description": "SphinxText.xls, row 112"
+    "message": "<N><CNTR>---[ <FC 0,128,0>해골 숭배자<END FC> ]---<P>악의 힘에 강력한 동반자로 기술이 뛰어나고 동시에 무자비한 전투사들이다.<P>- 이들의 거주지는 해골로 장식되어 있다 - 라고 전한 탈출한 자의 말에 의하더라도 해골 숭배자가 정확히 그러하다는 것을 증명한다.<E>"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>어둠의 숭배자<END FC> ]---<P>탐험가들은 어떠한 성의 그림자라도 조심스럽게 접근해야 한다, 그 이유는 어둠의 숭배자가 어둠에서 서성거릴 수 있기 때문이다.<P>현세와 사후 세계 사이에 갇혀있는 전사들의 영혼을 고문하는 것으로 알려져 있다.<E>",
-    "description": "SphinxText.xls, row 113"
+    "message": "<N><CNTR>---[ <FC 0,128,0>어둠의 숭배자<END FC> ]---<P>탐험가들은 어떠한 성의 그림자라도 조심스럽게 접근해야 한다, 그 이유는 어둠의 숭배자가 어둠에서 서성거릴 수 있기 때문이다.<P>현세와 사후 세계 사이에 갇혀있는 전사들의 영혼을 고문하는 것으로 알려져 있다.<E>"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>해골 검사<END FC> ]---<P>다양한 검술에 고도로 훈련되어 있으며 치명적인 적군이다.<P>해골 숭배자들과 유사하게, 부딪히면 영혼의 본질을 뽑아버리는 해골 유령을 소환할 수도 있다.<E>",
-    "description": "SphinxText.xls, row 114"
+    "message": "<N><CNTR>---[ <FC 0,128,0>해골 검사<END FC> ]---<P>다양한 검술에 고도로 훈련되어 있으며 치명적인 적군이다.<P>해골 숭배자들과 유사하게, 부딪히면 영혼의 본질을 뽑아버리는 해골 유령을 소환할 수도 있다.<E>"
   },
   "HT_Text_Museum_IN01_Green_Giant_worm": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>대형 초록 벌레<END FC> ]---<P>알려진 최대의 무척추 생물로써, 현존하는 몇 안 되는 육식 벌레들 중 하나이기도 하다.<P>대형 초록 벌레들은 그들의 지하 터널 네트워크로의 입구를 독특하게 방어하여서 그들의 존재를 사전 경고를 하고 있다.<E>",
-    "description": "SphinxText.xls, row 115"
+    "message": "<N><CNTR>---[ <FC 0,128,0>대형 초록 벌레<END FC> ]---<P>알려진 최대의 무척추 생물로써, 현존하는 몇 안 되는 육식 벌레들 중 하나이기도 하다.<P>대형 초록 벌레들은 그들의 지하 터널 네트워크로의 입구를 독특하게 방어하여서 그들의 존재를 사전 경고를 하고 있다.<E>"
   },
   "HT_Text_Museum_IN07_Blade_Scorpion": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>칼날 전갈<END FC> ]---<P>게와 유사한 이 거미류는 일반 전갈과는 매우 다른 꼬리 관절을 가지고 있다.<P>꼬리의 끝부분에 치명적인 침을 가지고 다니는 것 이외에도 이 칼날 전갈의 꼬리 자체가 치명적이고, 면도날처럼 날카로운 날을 가지고 있어, 방어구 조차도 뚫어버릴 수 있다.<E>",
-    "description": "SphinxText.xls, row 116"
+    "message": "<N><CNTR>---[ <FC 0,128,0>칼날 전갈<END FC> ]---<P>게와 유사한 이 거미류는 일반 전갈과는 매우 다른 꼬리 관절을 가지고 있다.<P>꼬리의 끝부분에 치명적인 침을 가지고 다니는 것 이외에도 이 칼날 전갈의 꼬리 자체가 치명적이고, 면도날처럼 날카로운 날을 가지고 있어, 방어구 조차도 뚫어버릴 수 있다.<E>"
   },
   "HT_Text_Museum_IN09_Sak_Spike_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>스파이크 거미<END FC> ]---<P>거미류 중 가장 작은 종류라고 추정되며 강력한 다리에 의하여 다른 종류에 비해 민첩하다.<P>스파이크 거미는 무리를 져 다니는 사냥꾼이며, 이 무리는 적을 둘러 싸고 모든 방향에서 동시에 공격을 한다.<E>",
-    "description": "SphinxText.xls, row 117"
+    "message": "<N><CNTR>---[ <FC 0,128,0>스파이크 거미<END FC> ]---<P>거미류 중 가장 작은 종류라고 추정되며 강력한 다리에 의하여 다른 종류에 비해 민첩하다.<P>스파이크 거미는 무리를 져 다니는 사냥꾼이며, 이 무리는 적을 둘러 싸고 모든 방향에서 동시에 공격을 한다.<E>"
   },
   "HT_Text_Museum_PI01_Piranha": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>피라냐<END FC> ]---<P>신비하고 멀리 떨어진 대륙이 원산지인 난폭한 물고기. 이 대륙에서 발견되는 것들은 다른 대륙의 것들처럼 왕성한 식성을 지니고 있다.<P>쥐와 흡사하게, 최근 몇 년 동안 피라냐는 큰 마을들에서 증식하여 위협이 되었다.<E>",
-    "description": "SphinxText.xls, row 118"
+    "message": "<N><CNTR>---[ <FC 0,128,0>피라냐<END FC> ]---<P>신비하고 멀리 떨어진 대륙이 원산지인 난폭한 물고기. 이 대륙에서 발견되는 것들은 다른 대륙의 것들처럼 왕성한 식성을 지니고 있다.<P>쥐와 흡사하게, 최근 몇 년 동안 피라냐는 큰 마을들에서 증식하여 위협이 되었다.<E>"
   },
   "HT_Text_Museum_PI01_Hard_Piranha": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>견갑 피라냐<END FC> ]---<P>견갑 피라냐는 외부 뼈대가 있어, 믿을 수 없는 회복력을 가지고 있다.<P>알려진 다른 피라냐 종류보다 더 빠르고 영악하여, 이들이 가한다고 알려진 상처만큼이나 추한 모습을 하고 있다는 것은 부정할 수 없는 사실이다.<E>",
-    "description": "SphinxText.xls, row 119"
+    "message": "<N><CNTR>---[ <FC 0,128,0>견갑 피라냐<END FC> ]---<P>견갑 피라냐는 외부 뼈대가 있어, 믿을 수 없는 회복력을 가지고 있다.<P>알려진 다른 피라냐 종류보다 더 빠르고 영악하여, 이들이 가한다고 알려진 상처만큼이나 추한 모습을 하고 있다는 것은 부정할 수 없는 사실이다.<E>"
   },
   "HT_Text_Museum_PL02_Tree_Creature": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>나무 생물<END FC> ]---<P>나무 생물은 탄생으로부터 마법의 능력을 지니고 있는 것으로 알려져 있는 식물들 중 하나이다.<P>머리 위에서 발산하는 빛의 매혹적인 섬광으로 혼란 시키고 땅 밑의 뿌리가 땅을 통해 빠르게 터지면서 공격을 한다.<E>",
-    "description": "SphinxText.xls, row 120"
+    "message": "<N><CNTR>---[ <FC 0,128,0>나무 생물<END FC> ]---<P>나무 생물은 탄생으로부터 마법의 능력을 지니고 있는 것으로 알려져 있는 식물들 중 하나이다.<P>머리 위에서 발산하는 빛의 매혹적인 섬광으로 혼란 시키고 땅 밑의 뿌리가 땅을 통해 빠르게 터지면서 공격을 한다.<E>"
   },
   "HT_Text_Museum_PL04_Sunflower_With_Face": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>해바라기<END FC> ]---<P>이 사철 식물은 수 백년을 사는 것으로 알려져 있다.<P>대부분의 시간에는 정지하고 있으나 위협을 받으면 깨어나서 세 개의 포자를 동시에 발사하여 공격한다.<E>",
-    "description": "SphinxText.xls, row 121"
+    "message": "<N><CNTR>---[ <FC 0,128,0>해바라기<END FC> ]---<P>이 사철 식물은 수 백년을 사는 것으로 알려져 있다.<P>대부분의 시간에는 정지하고 있으나 위협을 받으면 깨어나서 세 개의 포자를 동시에 발사하여 공격한다.<E>"
   },
   "HT_Text_Museum_QC01_Pokemon": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>껍질 괴물<END FC> ]---<P>부끄러움을 타는 이 초식성 파충류는 일생의 대부분을 껍데기 안에서 보내는 것으로 잘 알려져 있다.<P>널리 분포되어 있지만 껍질 괴물들에게 가해진 심한 잔혹한 행위에 의하여 보호받는 생물로 지정되었다.<E>",
-    "description": "SphinxText.xls, row 122"
+    "message": "<N><CNTR>---[ <FC 0,128,0>껍질 괴물<END FC> ]---<P>부끄러움을 타는 이 초식성 파충류는 일생의 대부분을 껍데기 안에서 보내는 것으로 잘 알려져 있다.<P>널리 분포되어 있지만 껍질 괴물들에게 가해진 심한 잔혹한 행위에 의하여 보호받는 생물로 지정되었다.<E>"
   },
   "HT_Text_Museum_QR04_Sak_Nose_Needler": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>노우즈 니들러<END FC> ]---<P>노우즈 니들러는 이들의 적이 분노하여 판단력을 잃을 때가지 찌르는 공격을 한다. <P>부드러운 토양에서 상당한 속도로 땅 속에 숨어 들어가며 잠깐 땅 위로 나와 땅 밑으로 들어가기 전에 적에게 부식성 돌을 던지는 절차를 반복한다.<E>",
-    "description": "SphinxText.xls, row 123"
+    "message": "<N><CNTR>---[ <FC 0,128,0>노우즈 니들러<END FC> ]---<P>노우즈 니들러는 이들의 적이 분노하여 판단력을 잃을 때가지 찌르는 공격을 한다. <P>부드러운 토양에서 상당한 속도로 땅 속에 숨어 들어가며 잠깐 땅 위로 나와 땅 밑으로 들어가기 전에 적에게 부식성 돌을 던지는 절차를 반복한다.<E>"
   },
   "HT_Text_Museum_QU01_Skeletal_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>해골 거미<END FC> ]---<P>그들 종에서 가장 독특한 외모를 가진 해골 거미는 척추의 비상한 수직 성장이 두드러진다.<P><FC 128,64,0>우루크<END FC>가 원산지인 이들의 살 없는 몸통은, 그 곳의 폭염에 거의 영향을 받지 않는다.<E>",
-    "description": "SphinxText.xls, row 124"
+    "message": "<N><CNTR>---[ <FC 0,128,0>해골 거미<END FC> ]---<P>그들 종에서 가장 독특한 외모를 가진 해골 거미는 척추의 비상한 수직 성장이 두드러진다.<P><FC 128,64,0>우루크<END FC>가 원산지인 이들의 살 없는 몸통은, 그 곳의 폭염에 거의 영향을 받지 않는다.<E>"
   },
   "HT_Text_Museum_QU02_Skeletal_Armadillo": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>아르마딜로<END FC> ]---<P>이 특이한 뒤뚱거리는 다리 네 개의 동물들은 평상시 느린 속도로 걷는다. 이들의 단단한 껍데기는 땅에서 회전할 때, 무기로써 두 배의 위력을 가진다.<P>몇몇 구전동화에서는 이들의 기원이 두더지와 자라의 합성이라고 한다.<E>",
-    "description": "SphinxText.xls, row 125"
+    "message": "<N><CNTR>---[ <FC 0,128,0>아르마딜로<END FC> ]---<P>이 특이한 뒤뚱거리는 다리 네 개의 동물들은 평상시 느린 속도로 걷는다. 이들의 단단한 껍데기는 땅에서 회전할 때, 무기로써 두 배의 위력을 가진다.<P>몇몇 구전동화에서는 이들의 기원이 두더지와 자라의 합성이라고 한다.<E>"
   },
   "HT_Text_Museum_QU04_Mummy_Chihuahua": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>치와와 미이라<END FC> ]---<P>치와와는 작은 몸체와 부드러운 털을 가진 개이다. 미이라로 만드는 과정은 그들의 죽지 않은 동료들을 매우 공격적으로 만들었다.<P>전 파라오의 애완동물로써 주인과 함께 무덤으로 갔다.<E>",
-    "description": "SphinxText.xls, row 126"
+    "message": "<N><CNTR>---[ <FC 0,128,0>치와와 미이라<END FC> ]---<P>치와와는 작은 몸체와 부드러운 털을 가진 개이다. 미이라로 만드는 과정은 그들의 죽지 않은 동료들을 매우 공격적으로 만들었다.<P>전 파라오의 애완동물로써 주인과 함께 무덤으로 갔다.<E>"
   },
   "HT_Text_Museum_QU05_skeletal_waspspider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>말벌 거미<END FC> ]---<P>느린 거미류의 하나로, 이들의 발톱 끝에는 강력한 침이 있다.<P>말벌 거미는 해변지역에서 찾을 수 있는 시원한 바람을 좋아한다.<E>",
-    "description": "SphinxText.xls, row 127"
+    "message": "<N><CNTR>---[ <FC 0,128,0>말벌 거미<END FC> ]---<P>느린 거미류의 하나로, 이들의 발톱 끝에는 강력한 침이 있다.<P>말벌 거미는 해변지역에서 찾을 수 있는 시원한 바람을 좋아한다.<E>"
   },
   "HT_Text_Museum_QU06_Mummy_Worm": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>벌레 미이라<END FC> ]---<P>척추가 없는 언데드로써, 독기 있는 화염공을 내뱉는다.<P>한 지점에 정착하여 땅속으로 파고들어갈 수 없는 이들은 종종 원하지 않는 방문객들을 쫓아버리는 보초로써 보관된다.<E>",
-    "description": "SphinxText.xls, row 128"
+    "message": "<N><CNTR>---[ <FC 0,128,0>벌레 미이라<END FC> ]---<P>척추가 없는 언데드로써, 독기 있는 화염공을 내뱉는다.<P>한 지점에 정착하여 땅속으로 파고들어갈 수 없는 이들은 종종 원하지 않는 방문객들을 쫓아버리는 보초로써 보관된다.<E>"
   },
   "HT_Text_Museum_QU09_Rat": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>쥐<END FC> ]---<P>병을 전염시키는 능력으로 잘 알려진 큰 설치류는 하수구 외 다른 위생상태가 좋지 않은 지역에서 종종 발견된다.<P>\"쥐\"라는 이름은 또한 믿을 수 없는 사람을 나타내기를 위해서도 사용된다.<E>",
-    "description": "SphinxText.xls, row 129"
+    "message": "<N><CNTR>---[ <FC 0,128,0>쥐<END FC> ]---<P>병을 전염시키는 능력으로 잘 알려진 큰 설치류는 하수구 외 다른 위생상태가 좋지 않은 지역에서 종종 발견된다.<P>\"쥐\"라는 이름은 또한 믿을 수 없는 사람을 나타내기를 위해서도 사용된다.<E>"
   },
   "HT_Text_Museum_PI04_Spinefish": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>척추물고기<END FC> ]---<P>척추물고기의 아름다운 지느러미는 침략자들을 물리치기 위해 사용하는 맹독의 척추를 감추고 있다.<P>척추물고기는 영역에 매우 민감한 동물이기 때문에, 고위층에서 그들의 성벽의 수비에 흔히 사용한다.<E>",
-    "description": "SphinxText.xls, row 130"
+    "message": "<N><CNTR>---[ <FC 0,128,0>척추물고기<END FC> ]---<P>척추물고기의 아름다운 지느러미는 침략자들을 물리치기 위해 사용하는 맹독의 척추를 감추고 있다.<P>척추물고기는 영역에 매우 민감한 동물이기 때문에, 고위층에서 그들의 성벽의 수비에 흔히 사용한다.<E>"
   },
   "HT_Text_Museum_PI02_Electric_Eel": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>전기뱀장어<END FC> ]---<P>전기뱀장어는 자연 서식지에서는 매우 온순한 동물이다.<P>그러나 이것이 생성하는 전기장 때문에, 이것이 서식하는 물은 전기가 통하고, 이를 인식하지 못하고 있는 동물에게 매우 위험하다.<E>",
-    "description": "SphinxText.xls, row 131"
+    "message": "<N><CNTR>---[ <FC 0,128,0>전기뱀장어<END FC> ]---<P>전기뱀장어는 자연 서식지에서는 매우 온순한 동물이다.<P>그러나 이것이 생성하는 전기장 때문에, 이것이 서식하는 물은 전기가 통하고, 이를 인식하지 못하고 있는 동물에게 매우 위험하다.<E>"
   },
   "HT_Text_Museum_PI03_Manta_Ray": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>쥐가오리<END FC> ]---<P>쥐가오리의 자연 서식지는 큰 바다이다.<P>이들은 작은 물고기 떼를 먹이로 삼는 것을 선호하지만 화가 나면 더 큰 동물들도 공격하는 것으로 알려져 있다.<E>",
-    "description": "SphinxText.xls, row 132"
+    "message": "<N><CNTR>---[ <FC 0,128,0>쥐가오리<END FC> ]---<P>쥐가오리의 자연 서식지는 큰 바다이다.<P>이들은 작은 물고기 떼를 먹이로 삼는 것을 선호하지만 화가 나면 더 큰 동물들도 공격하는 것으로 알려져 있다.<E>"
   },
   "HT_Text_Museum_FL05_Mummy_Eagle": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>독수리 미이라<END FC> ]---<P>독수리 미이라는 알려진 커다란 새들 중 하나이다. 거대한 크기와 힘은 사람들을 쉽게 들어올릴 수 있다는 것을 의미한다.<P>이 능력은 고대인들에 의해 교통 수단으로 이용되었는데, 그들은 <FC 0,128,0>독수리 돌<END FC>을 사용하여 독수리 미이라를 마음대로 소환할 수 있었다.<E>",
-    "description": "SphinxText.xls, row 133"
+    "message": "<N><CNTR>---[ <FC 0,128,0>독수리 미이라<END FC> ]---<P>독수리 미이라는 알려진 커다란 새들 중 하나이다. 거대한 크기와 힘은 사람들을 쉽게 들어올릴 수 있다는 것을 의미한다.<P>이 능력은 고대인들에 의해 교통 수단으로 이용되었는데, 그들은 <FC 0,128,0>독수리 돌<END FC>을 사용하여 독수리 미이라를 마음대로 소환할 수 있었다.<E>"
   },
   "HT_Text_Museum_IN11_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>민첩한 거미<END FC> ]---<P>민첩한 거미는 벽이나 천장을 기어 다니면서 땅 위에서 생활을 한다.<P>유리한 지점에서 자신에게 시선을 집중시키지 않으면서 알아채지 못하는 적 위로 떨어질 수 있다.<E>",
-    "description": "SphinxText.xls, row 134"
+    "message": "<N><CNTR>---[ <FC 0,128,0>민첩한 거미<END FC> ]---<P>민첩한 거미는 벽이나 천장을 기어 다니면서 땅 위에서 생활을 한다.<P>유리한 지점에서 자신에게 시선을 집중시키지 않으면서 알아채지 못하는 적 위로 떨어질 수 있다.<E>"
   },
   "HT_Text_Museum_QR01_Cobra": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>코브라<END FC> ]---<P>우산모양의 목이 있으며 맹독을 가진 독사이다.<P>코브라는 어둡고 외딴 곳에 흔히 집을 짓고 살면서 많은 부주의한 탐험가들을 놀라게 한다.<E> ",
-    "description": "SphinxText.xls, row 135"
+    "message": "<N><CNTR>---[ <FC 0,128,0>코브라<END FC> ]---<P>우산모양의 목이 있으며 맹독을 가진 독사이다.<P>코브라는 어둡고 외딴 곳에 흔히 집을 짓고 살면서 많은 부주의한 탐험가들을 놀라게 한다.<E> "
   },
   "HT_Text_Museum_QR02_Spitting_Toad": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>뱉는 두꺼비<END FC> ]---<P>소위 \"뱉는 두꺼비\"라고 불리는 이름은 일단 삼키고 나중에 생각하는 경향에서 유래된 것이다.<P>두꺼비의 까다로운 미각에 맞지 않는 것은 꽤 힘차게 내뱉어진다.<E>",
-    "description": "SphinxText.xls, row 136"
+    "message": "<N><CNTR>---[ <FC 0,128,0>뱉는 두꺼비<END FC> ]---<P>소위 \"뱉는 두꺼비\"라고 불리는 이름은 일단 삼키고 나중에 생각하는 경향에서 유래된 것이다.<P>두꺼비의 까다로운 미각에 맞지 않는 것은 꽤 힘차게 내뱉어진다.<E>"
   },
   "HT_Text_Museum_QR03_Small_Frog": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>작은 개구리<END FC> ]---<P>작은 개구리는 독성의 늪지대에서 유래하였다.<P>그 결과로 유독성 물질에 저항력이 매우 강하다.<E>",
-    "description": "SphinxText.xls, row 137"
+    "message": "<N><CNTR>---[ <FC 0,128,0>작은 개구리<END FC> ]---<P>작은 개구리는 독성의 늪지대에서 유래하였다.<P>그 결과로 유독성 물질에 저항력이 매우 강하다.<E>"
   },
   "HT_Text_Museum_QU08_Normal_Chihuahua": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>치와와<END FC> ]---<P>부자들이 선호하는 애완동물인 치와와들은 매우 정력적이다.<P>개를 사랑하는 모임은 치와와들을 아주 좋아하나 많은 사람들이 쉴 새 없이 짖어대는 것을 매우 신경에 거슬려 한다.<E>",
-    "description": "SphinxText.xls, row 138"
+    "message": "<N><CNTR>---[ <FC 0,128,0>치와와<END FC> ]---<P>부자들이 선호하는 애완동물인 치와와들은 매우 정력적이다.<P>개를 사랑하는 모임은 치와와들을 아주 좋아하나 많은 사람들이 쉴 새 없이 짖어대는 것을 매우 신경에 거슬려 한다.<E>"
   },
   "HT_Text_Museum_PI05_Aka_Turtle": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>바다 거북<END FC> ]---<P>바다 거북은 대양을 선호하는 외로운 생물이다. 거대한 몸체는 기나긴 수명의 결과이기도 하다.<P>최고령의 바다 거북은 300년이 넘는 수명을 지닌 것으로 발견되기도 하였다.<E>",
-    "description": "SphinxText.xls, row 139"
+    "message": "<N><CNTR>---[ <FC 0,128,0>바다 거북<END FC> ]---<P>바다 거북은 대양을 선호하는 외로운 생물이다. 거대한 몸체는 기나긴 수명의 결과이기도 하다.<P>최고령의 바다 거북은 300년이 넘는 수명을 지닌 것으로 발견되기도 하였다.<E>"
   },
   "HT_Text_Museum_BM07_Squirt": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>스쿼트<END FC> ]---<P>스쿼트는 부끄럼을 잘 타고 쉽게 놀라는 생물이다. 스쿼트는 <FC 0,128,0>포획 딱정벌레<END FC>에 면역성이 있어 매우 유용하다.<E>",
-    "description": "SphinxText.xls, row 140"
+    "message": "<N><CNTR>---[ <FC 0,128,0>스쿼트<END FC> ]---<P>스쿼트는 부끄럼을 잘 타고 쉽게 놀라는 생물이다. 스쿼트는 <FC 0,128,0>포획 딱정벌레<END FC>에 면역성이 있어 매우 유용하다.<E>"
   },
   "HT_Text_Museum_Name_BM09_Smiling_burble": {
-    "message": "미소 짓는 거품! 자신의 뿔을 아무렇게나 사용하죠.",
-    "description": "SphinxText.xls, row 142"
+    "message": "미소 짓는 거품! 자신의 뿔을 아무렇게나 사용하죠."
   },
   "HT_Text_Museum_Name_BM10_i_Cyclops": {
-    "message": "싸이클롭스! 귀여워 보이지만 매우 짓궂습니다.",
-    "description": "SphinxText.xls, row 143"
+    "message": "싸이클롭스! 귀여워 보이지만 매우 짓궂습니다."
   },
   "HT_Text_Museum_Name_BM12_slim_burble": {
-    "message": "슬림 버블! 빠르게 번식하고 폭발하기도 합니다!",
-    "description": "SphinxText.xls, row 144"
+    "message": "슬림 버블! 빠르게 번식하고 폭발하기도 합니다!"
   },
   "HT_Text_Museum_Name_BR04_Goofy_Lizard": {
-    "message": "얼빠진 도마뱀! 바보 같지만 호의적인 동물입니다.",
-    "description": "SphinxText.xls, row 145"
+    "message": "얼빠진 도마뱀! 바보 같지만 호의적인 동물입니다."
   },
   "HT_Text_Museum_Name_BR06_Half_Brute": {
-    "message": "반수! 놀라울 정도로 공격적인 괴물이죠.",
-    "description": "SphinxText.xls, row 147"
+    "message": "반수! 놀라울 정도로 공격적인 괴물이죠."
   },
   "HT_Text_Museum_Name_BU02_Skeletal_Axeman": {
-    "message": "해골 도끼꾼! 어둠에서 온 죽음의 보병입니다.",
-    "description": "SphinxText.xls, row 149"
+    "message": "해골 도끼꾼! 어둠에서 온 죽음의 보병입니다."
   },
   "HT_Text_Museum_Name_BU05_almost_a_bull": {
-    "message": "올모스트-어-불! 자신의 뿔을 난폭하게 사용합니다.",
-    "description": "SphinxText.xls, row 151"
+    "message": "올모스트-어-불! 자신의 뿔을 난폭하게 사용합니다."
   },
   "HT_Text_Museum_Name_BU06_MBird": {
-    "message": "미이라 새! 자신의 깃털의 대부분이 붕대로 감싸여 있답니다.",
-    "description": "SphinxText.xls, row 152"
+    "message": "미이라 새! 자신의 깃털의 대부분이 붕대로 감싸여 있답니다."
   },
   "HT_Text_Museum_Name_FL02_Featherless_Turkey": {
-    "message": "깃털 없는 칠면조! 심술 많은 대머리 새죠.",
-    "description": "SphinxText.xls, row 153"
+    "message": "깃털 없는 칠면조! 심술 많은 대머리 새죠."
   },
   "HT_Text_Museum_Name_FL03_shuttlecock_bird": {
-    "message": "셔틀콕 새! 공기역학적인 깃털을 가진 외족생물입니다.",
-    "description": "SphinxText.xls, row 154"
+    "message": "셔틀콕 새! 공기역학적인 깃털을 가진 외족생물입니다."
   },
   "HT_Text_Museum_Name_HD02_Cat": {
-    "message": "나이프 고양이! 상냥한 고양이과의 동물은 아니라고 할 수 있죠.",
-    "description": "SphinxText.xls, row 155"
+    "message": "나이프 고양이! 상냥한 고양이과의 동물은 아니라고 할 수 있죠."
   },
   "HT_Text_Museum_Name_HD03_BigBull": {
-    "message": "거대한 황소! 자신의 망치를 휘두르는 것을 유달리 좋아하죠.",
-    "description": "SphinxText.xls, row 156"
+    "message": "거대한 황소! 자신의 망치를 휘두르는 것을 유달리 좋아하죠."
   },
   "HT_Text_Museum_Name_HD14_Crab": {
-    "message": "크랩핸드! 까다로운 성격의 이족보행 생물입니다.",
-    "description": "SphinxText.xls, row 157"
+    "message": "크랩핸드! 까다로운 성격의 이족보행 생물입니다."
   },
   "HT_Text_Museum_Name_HD17_Sharpbeak": {
-    "message": "날카로운 부리! 이 전투형 생물은 보기 드문 놈입니다.",
-    "description": "SphinxText.xls, row 158"
+    "message": "날카로운 부리! 이 전투형 생물은 보기 드문 놈입니다."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper": {
-    "message": "해골 숭배자! 악의 힘과 강력한 동료입니다.",
-    "description": "SphinxText.xls, row 159"
+    "message": "해골 숭배자! 악의 힘과 강력한 동료입니다."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "어둠의 숭배자! 그림자의 밖에서는 거의 모습을 드러내지 않죠.",
-    "description": "SphinxText.xls, row 160"
+    "message": "어둠의 숭배자! 그림자의 밖에서는 거의 모습을 드러내지 않죠."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "해골 검사! 유령 같은 공격을 하는 고도의 기술을 지닌 전투사입니다. ",
-    "description": "SphinxText.xls, row 161"
+    "message": "해골 검사! 유령 같은 공격을 하는 고도의 기술을 지닌 전투사입니다. "
   },
   "HT_Text_Museum_Name_IN01_Green_Giant_worm": {
-    "message": "대형 초록 벌레! 큰 이빨을 가진 거대한 벌레입니다.",
-    "description": "SphinxText.xls, row 162"
+    "message": "대형 초록 벌레! 큰 이빨을 가진 거대한 벌레입니다."
   },
   "HT_Text_Museum_Name_IN07_Blade_Scorpion": {
-    "message": "칼날 전갈! 빠르고 쏘는 꼬리를 가진 치명적인 생물이죠.",
-    "description": "SphinxText.xls, row 163"
+    "message": "칼날 전갈! 빠르고 쏘는 꼬리를 가진 치명적인 생물이죠."
   },
   "HT_Text_Museum_Name_IN09_Sak_Spike_Spider": {
-    "message": "스파이크 거미! 적 위로 떨어지는 것으로 잘 알려져 있죠.",
-    "description": "SphinxText.xls, row 164"
+    "message": "스파이크 거미! 적 위로 떨어지는 것으로 잘 알려져 있죠."
   },
   "HT_Text_Museum_Name_PI01_Piranha": {
-    "message": "피라냐! 빨리 먹어 치우는 육식성 물고기입니다.",
-    "description": "SphinxText.xls, row 165"
+    "message": "피라냐! 빨리 먹어 치우는 육식성 물고기입니다."
   },
   "HT_Text_Museum_Name_PI01_Hard_Piranha": {
-    "message": "견갑 피라냐! 빠르고 치명적인 작은 물고기입니다.",
-    "description": "SphinxText.xls, row 166"
+    "message": "견갑 피라냐! 빠르고 치명적인 작은 물고기입니다."
   },
   "HT_Text_Museum_Name_PL02_Tree_Creature": {
-    "message": "나무 생물! 이 나무 밑에서 그늘을 찾지 마시길!",
-    "description": "SphinxText.xls, row 167"
+    "message": "나무 생물! 이 나무 밑에서 그늘을 찾지 마시길!"
   },
   "HT_Text_Museum_Name_PL04_Sunflower_With_Face": {
-    "message": "해바라기! 포자를 발사하는 위험한 식물입니다.",
-    "description": "SphinxText.xls, row 168"
+    "message": "해바라기! 포자를 발사하는 위험한 식물입니다."
   },
   "HT_Text_Museum_Name_QC01_Pokemon": {
-    "message": "껍질 괴물! 소심하고 작은 껍데기의 파충류입니다.",
-    "description": "SphinxText.xls, row 169"
+    "message": "껍질 괴물! 소심하고 작은 껍데기의 파충류입니다."
   },
   "HT_Text_Museum_Name_QR04_Sak_Nose_Needler": {
-    "message": "노우즈 니들러! 공격적인 지하의 포유류입니다.",
-    "description": "SphinxText.xls, row 170"
+    "message": "노우즈 니들러! 공격적인 지하의 포유류입니다."
   },
   "HT_Text_Museum_Name_QU01_Skeletal_Spider": {
-    "message": "해골 거미! 적에게 박치기를 하여 굴복시킵니다. ",
-    "description": "SphinxText.xls, row 171"
+    "message": "해골 거미! 적에게 박치기를 하여 굴복시킵니다. "
   },
   "HT_Text_Museum_Name_QU04_Mummy_Chihuahua": {
-    "message": "치와와 미이라! 이제 언데드인 애완동물.",
-    "description": "SphinxText.xls, row 173"
+    "message": "치와와 미이라! 이제 언데드인 애완동물."
   },
   "HT_Text_Museum_Name_QU04_Normal_Chihuahua": {
-    "message": "치와와! 부자들 사이에서 인기 있는 애완동물.",
-    "description": "SphinxText.xls, row 174"
+    "message": "치와와! 부자들 사이에서 인기 있는 애완동물."
   },
   "HT_Text_Museum_Name_QU05_skeletal_waspspider": {
-    "message": "말벌 거미! 험악한 침으로 알려져 있죠.",
-    "description": "SphinxText.xls, row 175"
+    "message": "말벌 거미! 험악한 침으로 알려져 있죠."
   },
   "HT_Text_Museum_Name_QU06_Mummy_Worm": {
-    "message": "벌레 미이라! 공격자들을 물리치기 위해 화염공을 뱉어냅니다.",
-    "description": "SphinxText.xls, row 176"
+    "message": "벌레 미이라! 공격자들을 물리치기 위해 화염공을 뱉어냅니다."
   },
   "HT_Text_Museum_Name_QU09_Rat": {
-    "message": "쥐! 총총거리며 돌아다니는 작은 생물이죠.",
-    "description": "SphinxText.xls, row 177"
+    "message": "쥐! 총총거리며 돌아다니는 작은 생물이죠."
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "전기 아르마딜로! 그 종들 중에 가장 충격적이죠.",
-    "description": "SphinxText.xls, row 178"
+    "message": "전기 아르마딜로! 그 종들 중에 가장 충격적이죠."
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Fire": {
-    "message": "화염 아르마딜로! 불타오르며 빙빙 돌죠.",
-    "description": "SphinxText.xls, row 179"
+    "message": "화염 아르마딜로! 불타오르며 빙빙 돌죠."
   },
   "HT_Text_Museum_Name_QR01_Cobra": {
-    "message": "코브라! 목에 두건을 둘러 싼 모양을 하고 있는, 독을 지닌 뱀이죠.",
-    "description": "SphinxText.xls, row 180"
+    "message": "코브라! 목에 두건을 둘러 싼 모양을 하고 있는, 독을 지닌 뱀이죠."
   },
   "HT_Text_Museum_Name_QR03_Small_Frog": {
-    "message": "작은 개구리! 확실히 작지만 독성이 있죠.",
-    "description": "SphinxText.xls, row 181"
+    "message": "작은 개구리! 확실히 작지만 독성이 있죠."
   },
   "HT_Text_Museum_Name_Jewel01": {
-    "message": "슈의 보석",
-    "description": "SphinxText.xls, row 182"
+    "message": "슈의 보석"
   },
   "HT_Text_Museum_Name_Jewel02": {
-    "message": "멤피스의 보석",
-    "description": "SphinxText.xls, row 183"
+    "message": "멤피스의 보석"
   },
   "HT_Text_Museum_Name_Jewel03": {
-    "message": "이드푸의 보석",
-    "description": "SphinxText.xls, row 184"
+    "message": "이드푸의 보석"
   },
   "HT_Text_Museum_Name_Jewel04": {
-    "message": "웨자트의 보석",
-    "description": "SphinxText.xls, row 185"
+    "message": "웨자트의 보석"
   },
   "HT_Text_Museum_Name_Jewel05": {
-    "message": "유리어스의 보석",
-    "description": "SphinxText.xls, row 186"
+    "message": "유리어스의 보석"
   },
   "HT_Text_Museum_Name_Jewel06": {
-    "message": "웨니의 보석",
-    "description": "SphinxText.xls, row 187"
+    "message": "웨니의 보석"
   },
   "HT_Text_ES_S_HelpText": {
-    "message": "<FC 60,98,57>",
-    "description": "SphinxText.xls, row 189"
+    "message": "<FC 60,98,57>"
   },
   "HT_Text_ES_E_HelpText": {
-    "message": "<END FC>",
-    "description": "SphinxText.xls, row 190"
+    "message": "<END FC>"
   },
   "HT_Text_ES_S_BOSItem": {
-    "message": "<FC 60,98,57>",
-    "description": "SphinxText.xls, row 191"
+    "message": "<FC 60,98,57>"
   },
   "HT_Text_ES_E_BOSItem": {
-    "message": "<END FC>",
-    "description": "SphinxText.xls, row 192"
+    "message": "<END FC>"
   },
   "HT_Text_ES_S_BOSLocation": {
-    "message": "<FC 60,98,57>",
-    "description": "SphinxText.xls, row 193"
+    "message": "<FC 60,98,57>"
   },
   "HT_Text_ES_E_BOSLocation": {
-    "message": "<END FC>",
-    "description": "SphinxText.xls, row 194"
+    "message": "<END FC>"
   },
   "HT_Text_Gen_Help_GotAbyCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아비도스의 성스러운 관<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 196"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아비도스의 성스러운 관<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotSakCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>우루크의 성스러운 관<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 197"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>우루크의 성스러운 관<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHelCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>헬리오폴리스의 성스러운 관<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 198"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>헬리오폴리스의 성스러운 관<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNoteFirst": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><FC 0,128,0><CNTR>스핑크스의 서<END FC>에<N>새 기록이 추가되었다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>스핑크스의 서<END FC>를 보려면<N><SB HT_PadAction_BOS_Show>를 누르시오.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>기록<END FC> 부분은 당신의 탐험에 관한<N>중요한 정보를 포함하고 있습니다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 199"
+    "message": "<ES HT_Text_ES_S_HelpText><N><FC 0,128,0><CNTR>스핑크스의 서<END FC>에<N>새 기록이 추가되었다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>스핑크스의 서<END FC>를 보려면<N><SB HT_PadAction_BOS_Show>를 누르시오.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>기록<END FC> 부분은 당신의 탐험에 관한<N>중요한 정보를 포함하고 있습니다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNote": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>스핑크스의 서<END FC>에<N>새 기록이 추가되었다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 200"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>스핑크스의 서<END FC>에<N>새 기록이 추가되었다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNotes": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>스핑크스의 서<END FC>에<N>새 기록들이 추가 되었다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 201"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>스핑크스의 서<END FC>에<N>새 기록들이 추가 되었다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter2Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아툰 상<END FC>을 얻었다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 황금형상은 마력을 지닌 것으로 알려져 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>두 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 202"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아툰 상<END FC>을 얻었다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 황금형상은 마력을 지닌 것으로 알려져 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>두 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter3Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>약초주머니<END FC>를 얻었다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>특별한 안감을 댄 가방은<N>그 어느 섬세한 약초라도 잘 보존한다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>세 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 얻었다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 203"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>약초주머니<END FC>를 얻었다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>특별한 안감을 댄 가방은<N>그 어느 섬세한 약초라도 잘 보존한다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>세 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 얻었다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter4Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아문의 손<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 유물은 스핑크스에게<N>매우 무거운 물건들을 끌고 밀 수 있는 힘을 준다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>네 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 204"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아문의 손<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 유물은 스핑크스에게<N>매우 무거운 물건들을 끌고 밀 수 있는 힘을 준다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>네 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter5Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>왕실의 초대장<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 공식문서는 <FC 128,64,0>헬리오폴리스<END FC>의 파라오를<N>만나도록 초청하고 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>다섯 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 205"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>왕실의 초대장<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 공식문서는 <FC 128,64,0>헬리오폴리스<END FC>의 파라오를<N>만나도록 초청하고 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>다섯 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter6Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>세트의 성스러운 왕관<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>여섯 번째<FC 0,128,0>도난 당한 아비도스 보물<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 206"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서<N>수집한 아이템들을 얻었다...<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>세트의 성스러운 왕관<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>여섯 번째<FC 0,128,0>도난 당한 아비도스 보물<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR><FC 128,64,0>아비도스 박물관<END FC>의 관리자들은<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_AtunDisc": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이것은 고대의 <FC 0,128,0>아툰의 디스크<END FC>다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것은 마법의 지점으로써, 지나가면 초고속으로 달릴 수 있도록 하는 신비한 에너지를 불어넣는다.<P><ES HT_Text_ES_S_HelpText><CNTR>안타깝게도 효과는 일시적이지만 <FC 128,64,0>헬리오폴리스<END FC>를 더 효과적으로 돌아다니기 위해서는 매우 유용하게 쓰일 것이다.<E>",
-    "description": "SphinxText.xls, row 207"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이것은 고대의 <FC 0,128,0>아툰의 디스크<END FC>다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것은 마법의 지점으로써, 지나가면 초고속으로 달릴 수 있도록 하는 신비한 에너지를 불어넣는다.<P><ES HT_Text_ES_S_HelpText><CNTR>안타깝게도 효과는 일시적이지만 <FC 128,64,0>헬리오폴리스<END FC>를 더 효과적으로 돌아다니기 위해서는 매우 유용하게 쓰일 것이다.<E>"
   },
   "HT_Text_Gen_Help_GotAtunEye": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아툰의 눈<END FC>을 찾았다!<P><ES HT_Text_ES_S_HelpText><CNTR>어떤 상의 눈에<N>맞을 것 같다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 208"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아툰의 눈<END FC>을 찾았다!<P><ES HT_Text_ES_S_HelpText><CNTR>어떤 상의 눈에<N>맞을 것 같다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAtunEyes04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>4 아툰의 눈들<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>어떤 상의 눈에<N>맞을 것 같다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 209"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>4 아툰의 눈들<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>어떤 상의 눈에<N>맞을 것 같다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotDoubleJump": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>이비스의 날개<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 유물로 스핑크스는<N>높은 곳과 먼 곳에 도달하기 위해<N>이중 점프를 할 수 있다!<P><CNTR><ES HT_Text_ES_S_HelpText>점프를 하려면 <SB HT_Action_Jump>를 누르고<N><FC 0,128,0>공중제비<END FC>를 하려면<N>공중에서 <SB HT_Action_Jump>를 다시 누른다.<E>",
-    "description": "SphinxText.xls, row 210"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>이비스의 날개<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 유물로 스핑크스는<N>높은 곳과 먼 곳에 도달하기 위해<N>이중 점프를 할 수 있다!<P><CNTR><ES HT_Text_ES_S_HelpText>점프를 하려면 <SB HT_Action_Jump>를 누르고<N><FC 0,128,0>공중제비<END FC>를 하려면<N>공중에서 <SB HT_Action_Jump>를 다시 누른다.<E>"
   },
   "HT_Text_Gen_Help_GotShieldOfOsiris": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>오시리스의 방패<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 방패는 전장에서 <N>위대한 신 오시리스가 직접 사용했었다.<P><ES HT_Text_ES_S_HelpText><CNTR>이 방패를 이용하여 적들의 여러 가지 공격과<N>위험물로부터 자신을 방어할 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>오시리스의 방패<END FC>를 장착하려면<N><SB HT_PadAction_HUD_ShowRotator>를 이용하여 이 아이템을 선택한다...<P><ES HT_Text_ES_S_HelpText><CNTR>...그리고 이 아이템에 배당할<N>버튼을 누른다.<P><CNTR><ES HT_Text_ES_S_HelpText>배당이 완료되고 난 후, 네 자신을 보호하려면<N>해당 버튼을 누른 상태로 있는다.<P><ES HT_Text_ES_S_HelpText><CNTR>자신을 보호하고 있을 때<N><SB HT_PadAction_PLR_MovePlr>를 사용하여 방패의 방향을 조정한다.<E>",
-    "description": "SphinxText.xls, row 211"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>오시리스의 방패<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 방패는 전장에서 <N>위대한 신 오시리스가 직접 사용했었다.<P><ES HT_Text_ES_S_HelpText><CNTR>이 방패를 이용하여 적들의 여러 가지 공격과<N>위험물로부터 자신을 방어할 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>오시리스의 방패<END FC>를 장착하려면<N><SB HT_PadAction_HUD_ShowRotator>를 이용하여 이 아이템을 선택한다...<P><ES HT_Text_ES_S_HelpText><CNTR>...그리고 이 아이템에 배당할<N>버튼을 누른다.<P><CNTR><ES HT_Text_ES_S_HelpText>배당이 완료되고 난 후, 네 자신을 보호하려면<N>해당 버튼을 누른 상태로 있는다.<P><ES HT_Text_ES_S_HelpText><CNTR>자신을 보호하고 있을 때<N><SB HT_PadAction_PLR_MovePlr>를 사용하여 방패의 방향을 조정한다.<E>"
   },
   "HT_Text_Gen_Help_GotBlowpipe": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>취관<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 강력한 도구에서 발사되는 마법의 다트는<N>재생성 되어 무한으로 공급된다.<P><ES HT_Text_ES_S_HelpText><CNTR>다트는 원거리의 목표를 맞추기 위해 사용될 수 있지만<N>폭발하는 괴물들은 상처 입힐 정도만의 위력을 가지고 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR><SB HT_PadAction_HUD_ShowRotator>를 이용하여 <FC 0,128,0>취관<END FC>을 버튼에 배당한다.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>취관<END FC>의 배당이 끝나면<N>그 버튼을 눌러 일인칭 모드로 변환한다.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_FireDart>를 눌러서 발사한다.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_Cancel>를 눌러서 <N><FC 0,128,0>취관<END FC> 모드에서 나간다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 212"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>취관<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 강력한 도구에서 발사되는 마법의 다트는<N>재생성 되어 무한으로 공급된다.<P><ES HT_Text_ES_S_HelpText><CNTR>다트는 원거리의 목표를 맞추기 위해 사용될 수 있지만<N>폭발하는 괴물들은 상처 입힐 정도만의 위력을 가지고 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR><SB HT_PadAction_HUD_ShowRotator>를 이용하여 <FC 0,128,0>취관<END FC>을 버튼에 배당한다.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>취관<END FC>의 배당이 끝나면<N>그 버튼을 눌러 일인칭 모드로 변환한다.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_FireDart>를 눌러서 발사한다.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_Cancel>를 눌러서 <N><FC 0,128,0>취관<END FC> 모드에서 나간다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아문의 손<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 유물은 스핑크스에게 매우 무거운 물건을<N>밀고 끌 수 있는 힘을 부여한다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 213"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아문의 손<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 유물은 스핑크스에게 매우 무거운 물건을<N>밀고 끌 수 있는 힘을 부여한다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotMummyCash": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서 <FC 0,128,0><N><SO HT_Objective_Mum_CashCollected> 오닉스 스캐럽<END FC>을 얻었다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 214"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>미이라가 <FC 128,64,0>우루크의 성<END FC>에서 <FC 0,128,0><N><SO HT_Objective_Mum_CashCollected> 오닉스 스캐럽<END FC>을 얻었다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetlePouch": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>딱정벌레 주머니<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 주머니에는 다양한 종류의 괴물들을 포획할 수 있는<N><FC 0,128,0>포획 딱정벌레 20<END FC>마리를<N>지니고 다닐 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>괴물을 포획하려면, 먼저<N>순순히 포획될 때까지 공격을 가해야만 한다. 그러면,<N>노랑으로 빛날 것이다.<P><ES HT_Text_ES_S_HelpText><CNTR>괴물이 약해지면, 포획 딱정벌레를 풀어놓는다. <SB HT_PadAction_PLR_MoveBeetle>을 이용하여 딱정벌레를 괴물에게 인도한다.<P><ES HT_Text_ES_S_HelpText><CNTR>딱정벌레가 괴물에 부딪히면, 포획되어 목록에 추가될 것이다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 215"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>딱정벌레 주머니<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 주머니에는 다양한 종류의 괴물들을 포획할 수 있는<N><FC 0,128,0>포획 딱정벌레 20<END FC>마리를<N>지니고 다닐 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>괴물을 포획하려면, 먼저<N>순순히 포획될 때까지 공격을 가해야만 한다. 그러면,<N>노랑으로 빛날 것이다.<P><ES HT_Text_ES_S_HelpText><CNTR>괴물이 약해지면, 포획 딱정벌레를 풀어놓는다. <SB HT_PadAction_PLR_MoveBeetle>을 이용하여 딱정벌레를 괴물에게 인도한다.<P><ES HT_Text_ES_S_HelpText><CNTR>딱정벌레가 괴물에 부딪히면, 포획되어 목록에 추가될 것이다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotScarabPurseUpgrade01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>대형 스캐럽 가방<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이제 <FC 0,128,0>900 스캐럽<END FC>씩이나 가지고 다닐 수 있다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 216"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>대형 스캐럽 가방<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이제 <FC 0,128,0>900 스캐럽<END FC>씩이나 가지고 다닐 수 있다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetleSatchel": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>작은 딱정벌레 가방<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이제 포획 딱정벌레를 50마리씩이나 가지고 다닐 수 있다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 217"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>작은 딱정벌레 가방<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이제 포획 딱정벌레를 50마리씩이나 가지고 다닐 수 있다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotDartBelt": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>다트 혁대<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>각 종류의 다트를 50개씩 가지고 다닐 수 있다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 218"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>다트 혁대<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>각 종류의 다트를 50개씩 가지고 다닐 수 있다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAnkhPiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 앙크 조각<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것을 네 개 모으면 알맞은 능력을 지닌 자가<N>너의 체력 최대값을 증가시킬 수 있을 것이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 219"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 앙크 조각<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것을 네 개 모으면 알맞은 능력을 지닌 자가<N>너의 체력 최대값을 증가시킬 수 있을 것이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAnkhContainer": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 앙크<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 유물이 너의 체력 최대값을<N><FC 0,128,0>1 앙크<END FC>만큼 증가시켰고 너의 체력을 다시 채웠다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 220"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 앙크<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 유물이 너의 체력 최대값을<N><FC 0,128,0>1 앙크<END FC>만큼 증가시켰고 너의 체력을 다시 채웠다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_Got100Scarabs": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>100 황금 스캐럽<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>한꺼번에 전부 낭비하지 말도록!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 221"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>100 황금 스캐럽<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>한꺼번에 전부 낭비하지 말도록!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotIceDarts": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>얼음 다트<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 다트들은 특정 괴물들을 <N>얼려 버리는데 사용될 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>괴물을 얼려버리면 그 얼음 덩어리를<N>크기에 따라 집어 들던가 밀어버릴 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>갈 수 없었던 곳을 도달하기 위해서<N>그 얼음 덩어리 위로 올라설 수도 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>한 편으로는, 그 덩어리를<N>너의 검으로 쳐서 부셔버릴 수도 있다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 222"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>얼음 다트<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 다트들은 특정 괴물들을 <N>얼려 버리는데 사용될 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>괴물을 얼려버리면 그 얼음 덩어리를<N>크기에 따라 집어 들던가 밀어버릴 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>갈 수 없었던 곳을 도달하기 위해서<N>그 얼음 덩어리 위로 올라설 수도 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>한 편으로는, 그 덩어리를<N>너의 검으로 쳐서 부셔버릴 수도 있다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAcidDarts": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>염산 다트<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 부식성이 있는 마법의 다트는 특정 금속 사슬을 녹이기 위해 사용할 수 있다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 223"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>염산 다트<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 부식성이 있는 마법의 다트는 특정 금속 사슬을 녹이기 위해 사용할 수 있다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHippyItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>양산<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>더운 여름날에 그림자를 제공하는 것으로<N>완벽해 보인다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 224"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>양산<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>더운 여름날에 그림자를 제공하는 것으로<N>완벽해 보인다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetleBreederItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>딱정벌레 양육 단지<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 128,64,0>베두인 변방<END FC>에 있는 딱정벌레 양육가는<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 225"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>딱정벌레 양육 단지<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 128,64,0>베두인 변방<END FC>에 있는 딱정벌레 양육가는<N>이것을 보면 매우 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotUnderwaterProjectile": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>수중 발사체<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이것들을 사용하여 수중에서 헤엄치며<N>목표물과 괴물들을 맞출 수 있다!<P><ES HT_Text_ES_S_HelpText><CNTR>수중에 있을 때 향한 방향으로 발사물을 쏘려면<N><SB HT_Action_UnderwaterAttack>를 누르기만 하면 된다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 226"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>수중 발사체<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이것들을 사용하여 수중에서 헤엄치며<N>목표물과 괴물들을 맞출 수 있다!<P><ES HT_Text_ES_S_HelpText><CNTR>수중에 있을 때 향한 방향으로 발사물을 쏘려면<N><SB HT_Action_UnderwaterAttack>를 누르기만 하면 된다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotFastSwim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>악어 비늘<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 고대의 유물은 수중에서<N>대단한 속력으로 헤엄칠 수 있게 한다!<P><ES HT_Text_ES_S_HelpText><CNTR>수중에서 <SB HT_Action_SwimFast>를 눌러<N>신나게 수영한다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 227"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>악어 비늘<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 고대의 유물은 수중에서<N>대단한 속력으로 헤엄칠 수 있게 한다!<P><ES HT_Text_ES_S_HelpText><CNTR>수중에서 <SB HT_Action_SwimFast>를 눌러<N>신나게 수영한다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundGoldKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 열쇠<END FC>를 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 228"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 열쇠<END FC>를 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundGlyphKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>글리프 열쇠<END FC>를 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 229"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>글리프 열쇠<END FC>를 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundCanopicVase": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>납골단지<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>투탕카멘의 영혼의 일부가<N>안에 저장되어있다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 230"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>납골단지<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>투탕카멘의 영혼의 일부가<N>안에 저장되어있다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundRosettaStonePiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>로제타석의 조각<END FC>하나를 찾았다!<P><ES HT_Text_ES_S_HelpText><CNTR>고고학자는 이것에 매우 관심이 있을 것이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 231"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>로제타석의 조각<END FC>하나를 찾았다!<P><ES HT_Text_ES_S_HelpText><CNTR>고고학자는 이것에 매우 관심이 있을 것이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>남쪽 사막 열쇠<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것은<FC 128,64,0>헬리오폴리스의 남쪽 사막<END FC>으로<N>향하는 관문을 연다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 232"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>남쪽 사막 열쇠<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것은<FC 128,64,0>헬리오폴리스의 남쪽 사막<END FC>으로<N>향하는 관문을 연다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>오벨리스크 관문 열쇠<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것은  <FC 128,64,0>헬리오폴리스의 위대한 오벨리스크<END FC>로<N>향하는 관문을 연다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 233"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>오벨리스크 관문 열쇠<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것은  <FC 128,64,0>헬리오폴리스의 위대한 오벨리스크<END FC>로<N>향하는 관문을 연다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>동굴 문 열쇠<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것은 <N><FC 128,64,0>헬리오폴리스 지점<END FC>와 <FC 128,64,0>남쪽 해변<END FC>사이의<N>동굴의 돌로 된 문을 연다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 234"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>동굴 문 열쇠<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것은 <N><FC 128,64,0>헬리오폴리스 지점<END FC>와 <FC 128,64,0>남쪽 해변<END FC>사이의<N>동굴의 돌로 된 문을 연다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPhysiciansNote": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>의사의 쪽지<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이것은 <FC 128,64,0>아비도스 운하<END FC>에 살고 있는<N>발명가 케메트 앞으로 보내지도록 적혀있다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 235"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>의사의 쪽지<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이것은 <FC 128,64,0>아비도스 운하<END FC>에 살고 있는<N>발명가 케메트 앞으로 보내지도록 적혀있다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHealingHerb": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>치료 약초<END FC> 한 개를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 128,64,0>아비도스 의회실<END FC>의 의사는<N>이것을 보면 가장 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 236"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>치료 약초<END FC> 한 개를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR><FC 128,64,0>아비도스 의회실<END FC>의 의사는<N>이것을 보면 가장 기뻐할 것이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAtunStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아툰 상<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 황금 형상은 마력을 지니고 있다고 전해진다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 237"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아툰 상<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 황금 형상은 마력을 지니고 있다고 전해진다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHathorStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>하토르 상<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 황금 형상은 마력을 지니고 있다고 전해진다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 238"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>하토르 상<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 황금 형상은 마력을 지니고 있다고 전해진다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotMedicineBag": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>약초주머니<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>특별히 안감이 대어진 이 가방은<N>안에 담긴 어떤 섬세한 의약재라도 보존할 것이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 239"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>약초주머니<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>특별히 안감이 대어진 이 가방은<N>안에 담긴 어떤 섬세한 의약재라도 보존할 것이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotEagleStone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>독수리 돌<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법이 걸린 돌은 특정 지점에 서서<N>위대한 독수리 하나를 소환하는 것을 가능하게 한다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 240"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>독수리 돌<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법이 걸린 돌은 특정 지점에 서서<N>위대한 독수리 하나를 소환하는 것을 가능하게 한다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotWallSection2Key": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>성벽 열쇠<END FC>를 한 개 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 241"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>성벽 열쇠<END FC>를 한 개 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotWallSection3Key": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>성벽 열쇠<END FC>를 한 개 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 242"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>성벽 열쇠<END FC>를 한 개 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NoBookOfDead": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>사자의 서<END FC>가 없이는 <FC 0,128,0>납골단지<END FC>를 미이라에게 전송할 바스-켓을 소환할 수 없다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 243"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>사자의 서<END FC>가 없이는 <FC 0,128,0>납골단지<END FC>를 미이라에게 전송할 바스-켓을 소환할 수 없다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NoHandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 물건은 네가 움직이기에 너무 무겁다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 244"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 물건은 네가 움직이기에 너무 무겁다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>어떤 종류의 아이템들을 위한 우묵한 곳이 있다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 245"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>어떤 종류의 아이템들을 위한 우묵한 곳이 있다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 장치를 활성화하려면 <FC 0,128,0>열쇠<END FC>가 필요하다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 246"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 장치를 활성화하려면 <FC 0,128,0>열쇠<END FC>가 필요하다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 구조물에 큰 새의 그림이 그려져 있다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 247"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 구조물에 큰 새의 그림이 그려져 있다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 석상의 눈구멍은 비어있다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 248"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 석상의 눈구멍은 비어있다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>그 아이템은 여기서 사용할 수 없다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 249"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>그 아이템은 여기서 사용할 수 없다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>그 열쇠는 맞지 않다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 250"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>그 열쇠는 맞지 않다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>그 <FC 0,128,0>저주석<END FC>은 틀린 색이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 251"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>그 <FC 0,128,0>저주석<END FC>은 틀린 색이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>저주석 2<END FC>개를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>각각의 마법의 돌은 <FC 128,64,0>저주 받은 성<END FC>의<N><CNTR>주민 한 명의 저주를 풀 수 있는 힘이 있다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 252"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>저주석 2<END FC>개를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>각각의 마법의 돌은 <FC 128,64,0>저주 받은 성<END FC>의<N><CNTR>주민 한 명의 저주를 풀 수 있는 힘이 있다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>저주석 2<END FC>개를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>각각의 마법의 돌은 <FC 128,64,0>저주 받은 성<END FC>의<N><CNTR>주민 한 명의 저주를 풀 수 있는 힘이 있다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 253"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>저주석 2<END FC>개를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>각각의 마법의 돌은 <FC 128,64,0>저주 받은 성<END FC>의<N><CNTR>주민 한 명의 저주를 풀 수 있는 힘이 있다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0> 저주석 3<END FC>개를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>각각의 마법의 돌은 <FC 128,64,0>저주 받은 성<END FC>의<N><CNTR>주민 한 명의 저주를 풀 수 있는 힘이 있다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 254"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0> 저주석 3<END FC>개를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>각각의 마법의 돌은 <FC 128,64,0>저주 받은 성<END FC>의<N><CNTR>주민 한 명의 저주를 풀 수 있는 힘이 있다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>미지의 부적<END FC>을 한 개 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 고대 유물의 괴기한 문양들은<N>미지의 장소로의 전송을 의미한다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 255"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>미지의 부적<END FC>을 한 개 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 고대 유물의 괴기한 문양들은<N>미지의 장소로의 전송을 의미한다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아비도스 부적<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 고대의 유물에 있는 해양의 문양들은<N>아비도스로 전송을 의미한다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 256"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아비도스 부적<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 고대의 유물에 있는 해양의 문양들은<N>아비도스로 전송을 의미한다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>헬리오폴리스 부적<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>모래로 새겨진 문양의 이 고대 유물은<N>헬리오폴리스로의 전송을 의미한다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 258"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>헬리오폴리스 부적<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>모래로 새겨진 문양의 이 고대 유물은<N>헬리오폴리스로의 전송을 의미한다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아누비스 부적<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 고대의 유물의 문양들은<N>아누비스 탑으로의 전송을 의미한다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 261"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아누비스 부적<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 고대의 유물의 문양들은<N>아누비스 탑으로의 전송을 의미한다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_Portal_HaveAmulet": {
-    "message": "너의 <FC 0,128,0>포털 부적<END FC>을 보여다오, 소인이여, 그러면 내가 너의 운명의 관문들을 열어줄 것이다.<E>",
-    "description": "SphinxText.xls, row 263"
+    "message": "너의 <FC 0,128,0>포털 부적<END FC>을 보여다오, 소인이여, 그러면 내가 너의 운명의 관문들을 열어줄 것이다.<E>"
   },
   "HT_Text_Gen_Help_Portal_NoAmulet": {
-    "message": "나를 왜 소환하였는가? <FC 0,128,0>포털 부적<END FC>이 없이는 너를 통과시킬 수 없다.<E>",
-    "description": "SphinxText.xls, row 264"
+    "message": "나를 왜 소환하였는가? <FC 0,128,0>포털 부적<END FC>이 없이는 너를 통과시킬 수 없다.<E>"
   },
   "HT_Text_Gen_Help_Portal_AlreadyHere": {
-    "message": "나에게 무슨 바보 같은 일을 요청하는가? 너는 이미 이곳에 있다.<E>",
-    "description": "SphinxText.xls, row 265"
+    "message": "나에게 무슨 바보 같은 일을 요청하는가? 너는 이미 이곳에 있다.<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를 <FC 128,64,0>미지의 장소<END FC>로 전송할 것이다...<E>",
-    "description": "SphinxText.xls, row 266"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를 <FC 128,64,0>미지의 장소<END FC>로 전송할 것이다...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를 <FC 128,64,0>아비도스<END FC>로 전송할 것이다...<E>",
-    "description": "SphinxText.xls, row 267"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를 <FC 128,64,0>아비도스<END FC>로 전송할 것이다...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedAkaria01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를<FC 128,64,0>아카리아<END FC>로 전송할 것이다...<E>",
-    "description": "SphinxText.xls, row 268"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를<FC 128,64,0>아카리아<END FC>로 전송할 것이다...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를<FC 128,64,0>헬리오폴리스<END FC>로 전송할 것이다...<E>",
-    "description": "SphinxText.xls, row 269"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를<FC 128,64,0>헬리오폴리스<END FC>로 전송할 것이다...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedSakkara01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>포털 신은 너의 제물을 받아들이고 <FC 128,64,0>사카라<END FC>로의 전송을 제공할 것이다...<E>",
-    "description": "SphinxText.xls, row 270"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>포털 신은 너의 제물을 받아들이고 <FC 128,64,0>사카라<END FC>로의 전송을 제공할 것이다...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedUruk01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>포털 신은 너의 제물을 받아들여 너를<FC 128,64,0>우루크 성<END FC>으로 전송할 것이다...<E>",
-    "description": "SphinxText.xls, row 271"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>포털 신은 너의 제물을 받아들여 너를<FC 128,64,0>우루크 성<END FC>으로 전송할 것이다...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를<FC 128,64,0>아누비스 탑<END FC>으로 전송할 것이다...<E>",
-    "description": "SphinxText.xls, row 272"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 제물을 받아들여<N>너를<FC 128,64,0>아누비스 탑<END FC>으로 전송할 것이다...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>포털 신은 너의 제물을 받아들여 너를<FC 128,64,0>우루크 계곡<END FC>으로 전송할 것이다...<E>",
-    "description": "SphinxText.xls, row 273"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>포털 신은 너의 제물을 받아들여 너를<FC 128,64,0>우루크 계곡<END FC>으로 전송할 것이다...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 미련함에 즐거워한다.<N>너는 이미 <FC 128,64,0>미지의 장소<END FC>에 와있다!<E>",
-    "description": "SphinxText.xls, row 274"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 미련함에 즐거워한다.<N>너는 이미 <FC 128,64,0>미지의 장소<END FC>에 와있다!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 미련함에 즐거워한다.<N>너는 이미 <FC 128,64,0>아비도스<END FC>에 있다!<E>",
-    "description": "SphinxText.xls, row 275"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 미련함에 즐거워한다.<N>너는 이미 <FC 128,64,0>아비도스<END FC>에 있다!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 미련함에 즐거워한다.<N>너는 이미 <FC 128,64,0>헬리오폴리스<END FC>에 있다!<E>",
-    "description": "SphinxText.xls, row 276"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 미련함에 즐거워한다.<N>너는 이미 <FC 128,64,0>헬리오폴리스<END FC>에 있다!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 미련함에 즐거워한다.<N>너는 이미 <FC 128,64,0>아누비스 탑<END FC>에 있다!<E>",
-    "description": "SphinxText.xls, row 277"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>포털 신은 너의 미련함에 즐거워한다.<N>너는 이미 <FC 128,64,0>아누비스 탑<END FC>에 있다!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDenied01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>포털 신은 이번에는 너를 통과시키지 않을 것이다...<E>",
-    "description": "SphinxText.xls, row 278"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>포털 신은 이번에는 너를 통과시키지 않을 것이다...<E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem05": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 문을 열려면 <FC 0,128,0>열쇠<END FC> 하나가 필요하다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 279"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 문을 열려면 <FC 0,128,0>열쇠<END FC> 하나가 필요하다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Sewer_King_Challenge1": {
-    "message": "내 주위의 횃불에 모두 불을 붙이면 너에게 이 고대의 유물을 주겠다. 하지만 조심해라, 불은 붙이기 쉽지만 그 만큼 잘 꺼지니깐.<E>",
-    "description": "SphinxText.xls, row 280"
+    "message": "내 주위의 횃불에 모두 불을 붙이면 너에게 이 고대의 유물을 주겠다. 하지만 조심해라, 불은 붙이기 쉽지만 그 만큼 잘 꺼지니깐.<E>"
   },
   "HT_Text_Mum_Chapter1_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>이비스의 날개<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 281"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>이비스의 날개<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter2_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아툰 상<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 282"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아툰 상<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter3_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>약초주머니<END FC>를 찾았다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 283"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>약초주머니<END FC>를 찾았다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter4_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아문의 손<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 284"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아문의 손<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter5_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>왕실의 초대장<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 285"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>왕실의 초대장<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter1_FoundJewel1": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>첫 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><W 90>",
-    "description": "SphinxText.xls, row 286"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>첫 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><W 90>"
   },
   "HT_Text_Mum_Chapter2_FoundJewel2": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>두 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 287"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>두 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter3_FoundJewel3": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>세 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 288"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>세 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter4_FoundJewel4": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>네 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 289"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>네 번째 <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter5_FoundJewel5": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>다섯 번째  <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 290"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>다섯 번째  <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter6_FoundJewel6": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>여섯 번째  <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 291"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>여섯 번째  <FC 0,128,0>도난 당한 아비도스 보물<END FC>을 찾았다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_GotStairsKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>계단 열쇠<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>우물 쪽의 발코니로 향하는 계단을 열 때 사용하라.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 292"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>계단 열쇠<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>우물 쪽의 발코니로 향하는 계단을 열 때 사용하라.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotZipHandle": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>도르래 줄 손잡이<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이제부터 <FC 128,64,0>아비도스<END FC>의 도르래 줄들을 사용하여<N>도시를 돌아다닐 수 있다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 293"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>도르래 줄 손잡이<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이제부터 <FC 128,64,0>아비도스<END FC>의 도르래 줄들을 사용하여<N>도시를 돌아다닐 수 있다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotParasol": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>양산<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>햇볕의 무더운 날에 매우 유용하다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 294"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>양산<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>햇볕의 무더운 날에 매우 유용하다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Cast_Urukite1": {
-    "message": "물러가라, 괴물아!!! 세트가 나를 죽일 수 있지만, 내 영혼을 갖지는 못한다! <E>",
-    "description": "SphinxText.xls, row 296"
+    "message": "물러가라, 괴물아!!! 세트가 나를 죽일 수 있지만, 내 영혼을 갖지는 못한다! <E>"
   },
   "HT_Text_Mum_Cast_Urukite2": {
-    "message": "왜 나를 해방하는가? 누군가? 나를 죽이고 싶지는 않은가? <E>",
-    "description": "SphinxText.xls, row 297"
+    "message": "왜 나를 해방하는가? 누군가? 나를 죽이고 싶지는 않은가? <E>"
   },
   "HT_Text_Mum_Cast_Urukite3": {
-    "message": "흠... 철장 밖에서 그렇게 무서워 보이지는 않는군... 왜 나를 돕는 거지? <E>",
-    "description": "SphinxText.xls, row 298"
+    "message": "흠... 철장 밖에서 그렇게 무서워 보이지는 않는군... 왜 나를 돕는 거지? <E>"
   },
   "HT_Text_Mum_Cast_Urukite4": {
-    "message": "사람들이 나보고 성에서 보석을 훔쳤다고 하지만 난 그런 적 없어!<P>내 이름은 켄수다. 나는 우루크인이다. 우리는 세트가 나타나기 전 이 지역의 주민들이었다 . 우리의 숫자는 적고 성에 숨어서 살아남으려고 노력한다.<P>지금까지는 이 지역을 더 잘 알기 때문에 세트를 피해왔지만 그리 오래가지 못할 것이다. 다른 이가 도와주지 않는다면 결국에는 그가 우리를 찾을 것이다. <E>",
-    "description": "SphinxText.xls, row 299"
+    "message": "사람들이 나보고 성에서 보석을 훔쳤다고 하지만 난 그런 적 없어!<P>내 이름은 켄수다. 나는 우루크인이다. 우리는 세트가 나타나기 전 이 지역의 주민들이었다 . 우리의 숫자는 적고 성에 숨어서 살아남으려고 노력한다.<P>지금까지는 이 지역을 더 잘 알기 때문에 세트를 피해왔지만 그리 오래가지 못할 것이다. 다른 이가 도와주지 않는다면 결국에는 그가 우리를 찾을 것이다. <E>"
   },
   "HT_Text_Mum_Cast_Urukite5": {
-    "message": "어찌되었건, 우리는 이 방에 오래 머무를 수 없다. 세트의 파수꾼들이 언제 들이닥칠지 모른다. 나를 따라와. 이 방에서 탈출하도록 도와주지. <E>",
-    "description": "SphinxText.xls, row 300"
+    "message": "어찌되었건, 우리는 이 방에 오래 머무를 수 없다. 세트의 파수꾼들이 언제 들이닥칠지 모른다. 나를 따라와. 이 방에서 탈출하도록 도와주지. <E>"
   },
   "HT_Text_Mum_Cast_Urukite6": {
-    "message": "이 비밀의 문은 성의 다른 곳과 연결되어 있다. 우리는 이제 헤어져야만 한다. 같이 붙어있는 것은 우리에게 너무 위험하다. 건투를 빈다. <E>",
-    "description": "SphinxText.xls, row 301"
+    "message": "이 비밀의 문은 성의 다른 곳과 연결되어 있다. 우리는 이제 헤어져야만 한다. 같이 붙어있는 것은 우리에게 너무 위험하다. 건투를 빈다. <E>"
   },
   "HT_Text_Mum_Cast_CageLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 철장을 열려면 <FC 0,128,0>철장 열쇠<END FC>가 필요하다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 302"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 철장을 열려면 <FC 0,128,0>철장 열쇠<END FC>가 필요하다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Cast_Help_FoundCageKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>철장 열쇠<END FC>를 하나 찾았다!<ES HT_Text_ES_S_HelpText><E><W 30>",
-    "description": "SphinxText.xls, row 303"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>철장 열쇠<END FC>를 하나 찾았다!<ES HT_Text_ES_S_HelpText><E><W 30>"
   }
 }

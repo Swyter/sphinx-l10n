@@ -1,674 +1,506 @@
 {
   "HT_Text_Inv_Dsc_IceDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eispfeile können benutzt werden, um bestimmte Monster einzufrieren.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2730"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eispfeile können benutzt werden, um bestimmte Monster einzufrieren.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FireDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Mit Feuerpfeilen können bestimmte Monster angezündet werden.<ES HT_Text_ES_S_BOSStd>",
-    "description": "SphinxText.xls, row 2731"
+    "message": "<ES HT_Text_ES_S_BOSStd>Mit Feuerpfeilen können bestimmte Monster angezündet werden.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Acid": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Säurepfeile können bestimmte Metallketten auflösen und Monster verletzen.<ES HT_Text_ES_S_BOSStd>",
-    "description": "SphinxText.xls, row 2732"
+    "message": "<ES HT_Text_ES_S_BOSStd>Säurepfeile können bestimmte Metallketten auflösen und Monster verletzen.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BladeOfOsiris": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Die mächtige Klinge, die einst der große Gott Osiris trug.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2733"
+    "message": "<ES HT_Text_ES_S_BOSStd>Die mächtige Klinge, die einst der große Gott Osiris trug.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BronzeScarab": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Die Standardwährung zum Kauf vieler verschiedener Dinge.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2734"
+    "message": "<ES HT_Text_ES_S_BOSStd>Die Standardwährung zum Kauf vieler verschiedener Dinge.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_WingsOfIbis": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein altes Artefakt, das es einem ermöglicht, mitten in der Luft einen zweiten Sprung zu machen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2737"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein altes Artefakt, das es einem ermöglicht, mitten in der Luft einen zweiten Sprung zu machen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Blowpipe": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine mächtige Waffe, die magische Pfeile auf entfernte Ziele schießt.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2738"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine mächtige Waffe, die magische Pfeile auf entfernte Ziele schießt.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CrocodileScales": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein magisches Artefakt, es ermöglicht, mit großer Geschwindigkeit zu tauchen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2741"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein magisches Artefakt, es ermöglicht, mit großer Geschwindigkeit zu tauchen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_UnderwaterProjectile": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Vorrat dieser Munition erneuert sich magisch immer wieder. Damit können Ziele und Monster auch unter Wasser getroffen werden.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2742"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Vorrat dieser Munition erneuert sich magisch immer wieder. Damit können Ziele und Monster auch unter Wasser getroffen werden.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Mit diesem alten Artefakt kannst du extrem schwere Objekte schieben.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2743"
+    "message": "<ES HT_Text_ES_S_BOSStd>Mit diesem alten Artefakt kannst du extrem schwere Objekte schieben.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ScarabPurse": {
-    "message": "<ES HT_Text_ES_S_BOSStd>In diesen Beutel passen bis zu 400 Goldskarabäen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2745"
+    "message": "<ES HT_Text_ES_S_BOSStd>In diesen Beutel passen bis zu 400 Goldskarabäen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ScarabPurse2": {
-    "message": "<ES HT_Text_ES_S_BOSStd>In diesen Beutel passen bis zu 900 Goldskarabäen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2746"
+    "message": "<ES HT_Text_ES_S_BOSStd>In diesen Beutel passen bis zu 900 Goldskarabäen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BeetlePouch": {
-    "message": "<ES HT_Text_ES_S_BOSStd>In diesen Beutel passen bis zu 20 Fangkäfer und bis zu 10 gefangene Monster pro Art.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2747"
+    "message": "<ES HT_Text_ES_S_BOSStd>In diesen Beutel passen bis zu 20 Fangkäfer und bis zu 10 gefangene Monster pro Art.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_DartBelt": {
-    "message": "<ES HT_Text_ES_S_BOSStd>In diesen Gurt passen bis zu 50 Pfeile jeder Art.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2748"
+    "message": "<ES HT_Text_ES_S_BOSStd>In diesen Gurt passen bis zu 50 Pfeile jeder Art.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BeetleStachel": {
-    "message": "<ES HT_Text_ES_S_BOSStd>In diese Tasche passen bis zu 50 Fangkäfer und bis zu 10 gefangene Monster pro Art.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2750"
+    "message": "<ES HT_Text_ES_S_BOSStd>In diese Tasche passen bis zu 50 Fangkäfer und bis zu 10 gefangene Monster pro Art.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HandsOfAmunRa": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Damit kannst du sogar die größten Objekte verschieben.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2753"
+    "message": "<ES HT_Text_ES_S_BOSStd>Damit kannst du sogar die größten Objekte verschieben.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ShieldOfOsiris": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der magische Schild, der vom großen Gott Osiris benutzt wurde.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2754"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der magische Schild, der vom großen Gott Osiris benutzt wurde.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CloakOfInvisibility": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Dieser magische Stein bringt dem Benutzer die Macht der Unsichtbarkeit... und den sofortigen Tod!<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2761"
+    "message": "<ES HT_Text_ES_S_BOSStd>Dieser magische Stein bringt dem Benutzer die Macht der Unsichtbarkeit... und den sofortigen Tod!<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AnkhContainer": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Die Essenz des Lebens. Jedes weitere Goldankh erhöht den Gesundheitsvorrat.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2763"
+    "message": "<ES HT_Text_ES_S_BOSStd>Die Essenz des Lebens. Jedes weitere Goldankh erhöht den Gesundheitsvorrat.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AnkhPiece": {
-    "message": "<ES HT_Text_ES_S_BOSStd>4 Goldankh-Teile können von einer Person mit entsprechenden Fähigkeiten zu einem Goldankh zusammengesetzt werden.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2764"
+    "message": "<ES HT_Text_ES_S_BOSStd>4 Goldankh-Teile können von einer Person mit entsprechenden Fähigkeiten zu einem Goldankh zusammengesetzt werden.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CanopicVase": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein heiliges Gefäß, das einen Teil von Tutankhamens Seele enthält.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2765"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein heiliges Gefäß, das einen Teil von Tutankhamens Seele enthält.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Pearl": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Bringe ihn zu ihm, um zu beweisen, dass du der Herausforderung gewachsen bist.<ES HT_Text_ES_S_BOSStd>",
-    "description": "SphinxText.xls, row 2770"
+    "message": "<ES HT_Text_ES_S_BOSStd>Bringe ihn zu ihm, um zu beweisen, dass du der Herausforderung gewachsen bist.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Herbs": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Heilkräuter für die Medizin des Bürgermeisters.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2772"
+    "message": "<ES HT_Text_ES_S_BOSStd>Heilkräuter für die Medizin des Bürgermeisters.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BookOfTheDead": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Dieser Wälzer enthält die Beschwörungen, um Tragek-Orb mit einer Urne für die Mumie zum Palast von Uruk zu entsenden.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2778"
+    "message": "<ES HT_Text_ES_S_BOSStd>Dieser Wälzer enthält die Beschwörungen, um Tragek-Orb mit einer Urne für die Mumie zum Palast von Uruk zu entsenden.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BronzeAnkh": {
-    "message": "ERSCHEINT NICHT IM GEPÄCK",
-    "description": "SphinxText.xls, row 2784"
+    "message": "ERSCHEINT NICHT IM GEPÄCK"
   },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Käfer, die zum Fangen von Monstern benutzt werden können.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2787"
+    "message": "<ES HT_Text_ES_S_BOSStd>Käfer, die zum Fangen von Monstern benutzt werden können.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_StandardDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Vorrat dieser magischen Pfeile erneuert sich immer wieder. Mit ihnen können lediglich explosive Monster verletzt werden.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2788"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Vorrat dieser magischen Pfeile erneuert sich immer wieder. Mit ihnen können lediglich explosive Monster verletzt werden.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_KaDart": {
-    "message": "ERSCHEINT NICHT IM GEPÄCK",
-    "description": "SphinxText.xls, row 2789"
+    "message": "ERSCHEINT NICHT IM GEPÄCK"
   },
   "HT_Text_Inv_Dsc_BounceDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Vorrat dieser magischen Pfeile erneuert sich immer wieder. Sie prallen von Wänden ab und treffen ihr Ziel indirekt. Mit ihnen können lediglich explosive Monster verletzt werden.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2790"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Vorrat dieser magischen Pfeile erneuert sich immer wieder. Sie prallen von Wänden ab und treffen ihr Ziel indirekt. Mit ihnen können lediglich explosive Monster verletzt werden.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PossessionDart": {
-    "message": "ERSCHEINT NICHT IM GEPÄCK",
-    "description": "SphinxText.xls, row 2791"
+    "message": "ERSCHEINT NICHT IM GEPÄCK"
   },
   "HT_Text_Inv_Dsc_PhysNote": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine Notiz vom Arzt an Kemmet den Erfinder.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2792"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine Notiz vom Arzt an Kemmet den Erfinder.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BC01_Giant_Prawn": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Diese Krieger der Gebkönigin sind gigantisch und sehr gefährlich...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Viel Glück, wenn du deinem solchen begegnest.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2794"
+    "message": "<ES HT_Text_ES_S_BOSStd>Diese Krieger der Gebkönigin sind gigantisch und sehr gefährlich...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Viel Glück, wenn du deinem solchen begegnest.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM09_Smiling_burble": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine exzentrische Art der Fettsackfamilie. Benutzt die Hörner zum Angreifen...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Hüte tragen sie schon seit so vielen Generationen, dass diese inzwischen von Geburt an angewachsen sind.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2795"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine exzentrische Art der Fettsackfamilie. Benutzt die Hörner zum Angreifen...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Hüte tragen sie schon seit so vielen Generationen, dass diese inzwischen von Geburt an angewachsen sind.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM10_i_Cyclops": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Diese flinken Tierchen schießen einen Feuerstrahl aus ihrem Auge und können sich über kurze Entfernungen teleportieren...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Ein verwundeter Zyklop teilt sich und wird somit doppelt gefährlich.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2796"
+    "message": "<ES HT_Text_ES_S_BOSStd>Diese flinken Tierchen schießen einen Feuerstrahl aus ihrem Auge und können sich über kurze Entfernungen teleportieren...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Ein verwundeter Zyklop teilt sich und wird somit doppelt gefährlich.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM12_slim_burble": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Verteidigt sich durch Selbstmord. Erzeugt hierfür eine Sprengladung und wirft sich auf den Gegner...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Dies kann hilfreich sein, wenn man sie gegen Hindernisse laufen lässt.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2797"
+    "message": "<ES HT_Text_ES_S_BOSStd>Verteidigt sich durch Selbstmord. Erzeugt hierfür eine Sprengladung und wirft sich auf den Gegner...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Dies kann hilfreich sein, wenn man sie gegen Hindernisse laufen lässt.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BR04_Goofy_Lizard": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Von Geburt an sind Trottelechsen ungeschickt und vergesslich, aber ungeheuer gutmütig. Bekannt dafür, dass sie stundenlang ihren eigenen Schatten zu fangen versuchen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2798"
+    "message": "<ES HT_Text_ES_S_BOSStd>Von Geburt an sind Trottelechsen ungeschickt und vergesslich, aber ungeheuer gutmütig. Bekannt dafür, dass sie stundenlang ihren eigenen Schatten zu fangen versuchen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BR05_Dino_Oaf": {
-    "message": "ZU TUN<E>",
-    "description": "SphinxText.xls, row 2799"
+    "message": "ZU TUN<E>"
   },
   "HT_Text_Inv_Dsc_BR06_Half_Brute": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Name des Halbstarken beschreibt diese aggressiven Zweibeiner nicht annähernd...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Sie sind zwar langsam, können aber so fest aufstampfen, dass sie eine Schockwelle in ihrer Umgebung verbreiten.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2800"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Name des Halbstarken beschreibt diese aggressiven Zweibeiner nicht annähernd...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Sie sind zwar langsam, können aber so fest aufstampfen, dass sie eine Schockwelle in ihrer Umgebung verbreiten.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU01_Mummy_Minotaur": {
-    "message": "ZU TUN<E>",
-    "description": "SphinxText.xls, row 2801"
+    "message": "ZU TUN<E>"
   },
   "HT_Text_Inv_Dsc_BU02_Skeletal_Axeman": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Pass auf diese untoten Axtschwinger auf...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Sie benutzen ihre Axt als Bumerang und erzeugen so einen Schutzschild, solange die Axt ihre Flugbahn beschreibt.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2802"
+    "message": "<ES HT_Text_ES_S_BOSStd>Pass auf diese untoten Axtschwinger auf...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Sie benutzen ihre Axt als Bumerang und erzeugen so einen Schutzschild, solange die Axt ihre Flugbahn beschreibt.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU03_zombie_man": {
-    "message": "ZU TUN<E>",
-    "description": "SphinxText.xls, row 2803"
+    "message": "ZU TUN<E>"
   },
   "HT_Text_Inv_Dsc_BU05_almost_a_bull": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Fast-Ein-Stier heißt nicht nur wegen seiner zwei Hörner so. Er greift außerdem jeden an, der in der Farbe Rot gekleidet ist.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2804"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Fast-Ein-Stier heißt nicht nur wegen seiner zwei Hörner so. Er greift außerdem jeden an, der in der Farbe Rot gekleidet ist.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU06_MBird": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Sie sind ebenso untot, wie unfreundlich. Sie stürzen sich auf alles, was ihnen als Bedrohung erscheint.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2805"
+    "message": "<ES HT_Text_ES_S_BOSStd>Sie sind ebenso untot, wie unfreundlich. Sie stürzen sich auf alles, was ihnen als Bedrohung erscheint.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL02_Featherless_Turkey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Nackte Truthahn trägt seinen passenden Namen aus Mangel an Federn. Im Winter ist er eine beliebte Delikatesse.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2806"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Nackte Truthahn trägt seinen passenden Namen aus Mangel an Federn. Im Winter ist er eine beliebte Delikatesse.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Federballvogel hat zwar nur ein Bein, ist aber trotzdem sehr schnell...<P><ES HT_Text_ES_S_BOSStd>Bei einem Angriff gleicht er einem Pfeil und kann auch entsprechenden Schaden anrichten.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2807"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Federballvogel hat zwar nur ein Bein, ist aber trotzdem sehr schnell...<P><ES HT_Text_ES_S_BOSStd>Bei einem Angriff gleicht er einem Pfeil und kann auch entsprechenden Schaden anrichten.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL04_Skeletal_Bat": {
-    "message": "ZU TUN",
-    "description": "SphinxText.xls, row 2808"
+    "message": "ZU TUN"
   },
   "HT_Text_Inv_Dsc_FL04_Skeletal_Bat_Fire": {
-    "message": "ZU TUN",
-    "description": "SphinxText.xls, row 2809"
+    "message": "ZU TUN"
   },
   "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
-    "message": "Die Adlermumie ist einer der größten Vögel. Da sie untot sind, schaden ihnen Angriffe weniger als ihren lebenden Artgenossen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2810"
+    "message": "Die Adlermumie ist einer der größten Vögel. Da sie untot sind, schaden ihnen Angriffe weniger als ihren lebenden Artgenossen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL06_Undead_Man": {
-    "message": "ZU TUN<E>",
-    "description": "SphinxText.xls, row 2811"
+    "message": "ZU TUN<E>"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Messerkatzen verwirren ihre Gegner mit flinken Sprüngen, bevor sie mit ihren scharfen Krallen angreifen.<ES HT_Text_ES_S_BOSStd>",
-    "description": "SphinxText.xls, row 2812"
+    "message": "<ES HT_Text_ES_S_BOSStd>Messerkatzen verwirren ihre Gegner mit flinken Sprüngen, bevor sie mit ihren scharfen Krallen angreifen.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": "ZU TUN<E>",
-    "description": "SphinxText.xls, row 2813"
+    "message": "ZU TUN<E>"
   },
   "HT_Text_Inv_Dsc_HD14_Crab": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Krabbenhände greifen ihre Gegner auf plumpe Art mit scharfen Krallen an. Wenn sie jedoch nah genug herankommen, sind die Resultate beachtlich.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2814"
+    "message": "<ES HT_Text_ES_S_BOSStd>Krabbenhände greifen ihre Gegner auf plumpe Art mit scharfen Krallen an. Wenn sie jedoch nah genug herankommen, sind die Resultate beachtlich.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD15_GuardTest": {
-    "message": "ZU TUN<E>",
-    "description": "SphinxText.xls, row 2815"
+    "message": "ZU TUN<E>"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Spitzschnäbel tragen in jeder Hand ein Schwert, womit sie sehr geschickt umgehen können...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Aufgrund des langsamen, aber qualvollen Todes, den sie ihren Gegnern bescheren, sind sie sehr unbeliebt.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2816"
+    "message": "<ES HT_Text_ES_S_BOSStd>Spitzschnäbel tragen in jeder Hand ein Schwert, womit sie sehr geschickt umgehen können...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Aufgrund des langsamen, aber qualvollen Todes, den sie ihren Gegnern bescheren, sind sie sehr unbeliebt.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Schädelanbeter benutzen im Kampf ihre Flammenstäbe und beschwören fliegende Geisterschädel...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Wenn du auf einen von ihnen triffst, dann sind die Mächte des Bösen nicht weit.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2817"
+    "message": "<ES HT_Text_ES_S_BOSStd>Schädelanbeter benutzen im Kampf ihre Flammenstäbe und beschwören fliegende Geisterschädel...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Wenn du auf einen von ihnen triffst, dann sind die Mächte des Bösen nicht weit.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Sie können sich durch feste Materie bewegen, sind schnell wie eine Winterwolke und scheinen aus dem Nichts anzugreifen...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Schusswaffen können hier nicht viel ausrichten.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2818"
+    "message": "<ES HT_Text_ES_S_BOSStd>Sie können sich durch feste Materie bewegen, sind schnell wie eine Winterwolke und scheinen aus dem Nichts anzugreifen...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Schusswaffen können hier nicht viel ausrichten.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Sie können äußerst gut mit dem Schwert umgehen und beschwören Totenschädel, die ihre Gegner jagen...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Sie sind gut in der Verteidigung und daher schwer zu treffen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2819"
+    "message": "<ES HT_Text_ES_S_BOSStd>Sie können äußerst gut mit dem Schwert umgehen und beschwören Totenschädel, die ihre Gegner jagen...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Sie sind gut in der Verteidigung und daher schwer zu treffen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN01_Green_Giant_worm": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Sie kommen blitzschnell aus ihren Löchern und überwältigen alles und jeden mit ihrer Masse...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Sie sind unempfindlich gegen alles, was ein kleineres Monster aufhalten könnte.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2820"
+    "message": "<ES HT_Text_ES_S_BOSStd>Sie kommen blitzschnell aus ihren Löchern und überwältigen alles und jeden mit ihrer Masse...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Sie sind unempfindlich gegen alles, was ein kleineres Monster aufhalten könnte.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN07_Blade_Scorpion": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Säbelskorpion kann schnell laufen und noch schneller angreifen. Von seinen dunklen Schlafhöhlen sollte man sich fernhalten.<ES HT_Text_ES_S_BOSStd>",
-    "description": "SphinxText.xls, row 2821"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Säbelskorpion kann schnell laufen und noch schneller angreifen. Von seinen dunklen Schlafhöhlen sollte man sich fernhalten.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN08_Tacked_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Die Stelzenspinne findet sich so ziemlich überall...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Achte immer auf Höhlendecken, da sie sich gerne von dort herunterfallen lassen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2822"
+    "message": "<ES HT_Text_ES_S_BOSStd>Die Stelzenspinne findet sich so ziemlich überall...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Achte immer auf Höhlendecken, da sie sich gerne von dort herunterfallen lassen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN09_Sak_Spike_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Springt die Beute an und beißt sich durch, bis sie abgeschüttelt wird oder satt ist...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Eine kommt selten allein, da sie in Gruppen jagen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2823"
+    "message": "<ES HT_Text_ES_S_BOSStd>Springt die Beute an und beißt sich durch, bis sie abgeschüttelt wird oder satt ist...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Eine kommt selten allein, da sie in Gruppen jagen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN11_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Gliederfüßer, der an Wänden und Decken laufen kann...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Die gefährlichen Fänge sind nicht das einzige, was man bei ihnen fürchten muss. Ihre Beine enden in tödlichen dolchartigen Krallen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2824"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Gliederfüßer, der an Wänden und Decken laufen kann...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Die gefährlichen Fänge sind nicht das einzige, was man bei ihnen fürchten muss. Ihre Beine enden in tödlichen dolchartigen Krallen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Es sieht lustig aus, wenn sie gehen, aber ihr Biss ist ganz und gar nicht witzig. Sie sind an Land und im Wasser gefährlich...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Ihr einzigartiger Körper macht sie unempfindlich gegen Kälte.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2825"
+    "message": "<ES HT_Text_ES_S_BOSStd>Es sieht lustig aus, wenn sie gehen, aber ihr Biss ist ganz und gar nicht witzig. Sie sind an Land und im Wasser gefährlich...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Ihr einzigartiger Körper macht sie unempfindlich gegen Kälte.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Exo-Piranha ist ein verwandter des Piranhas. Er wurde erst vor wenigen Jahren entdeckt und ist stärker und schneller als der Rest seiner Art.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2826"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Exo-Piranha ist ein verwandter des Piranhas. Er wurde erst vor wenigen Jahren entdeckt und ist stärker und schneller als der Rest seiner Art.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Green_Piranha": {
-    "message": "ZU TUN",
-    "description": "SphinxText.xls, row 2827"
+    "message": "ZU TUN"
   },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein schlangengleicher Fisch, der elektrische Ladungen abgeben kann.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Elektrische Aale sind aggressiv und ortsgebunden. In größeren Schwärmen können sie sogar riesige Wassergebiete unter Strom setzen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2828"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein schlangengleicher Fisch, der elektrische Ladungen abgeben kann.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Elektrische Aale sind aggressiv und ortsgebunden. In größeren Schwärmen können sie sogar riesige Wassergebiete unter Strom setzen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI03_Aka_Manta_Rays": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein großer, essbarer Meeresfisch, den man an seinem flachen Körper und seinem grazilen Schwimmstil erkennt.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Aufgrund seiner Begehrtheit als Delikatesse ist der Mantarochen inzwischen sehr misstrauisch gegenüber jedem, der ihm zu nahe kommt.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2829"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein großer, essbarer Meeresfisch, den man an seinem flachen Körper und seinem grazilen Schwimmstil erkennt.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Aufgrund seiner Begehrtheit als Delikatesse ist der Mantarochen inzwischen sehr misstrauisch gegenüber jedem, der ihm zu nahe kommt.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Stachelfisch ist schnell und verteidigt sein Territorium äußerst aggressiv. Daher ist er eine beliebte Zutat in Wassergräben von Anwesen.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Er greift sein Opfer meistens schon an, bevor er entdeckt wird.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2830"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Stachelfisch ist schnell und verteidigt sein Territorium äußerst aggressiv. Daher ist er eine beliebte Zutat in Wassergräben von Anwesen.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Er greift sein Opfer meistens schon an, bevor er entdeckt wird.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI05_Aka_Turtle": {
-    "message": "ZU TUN",
-    "description": "SphinxText.xls, row 2831"
+    "message": "ZU TUN"
   },
   "HT_Text_Inv_Dsc_PI06_Aka_Tentacle_Creature": {
-    "message": "ZU TUN",
-    "description": "SphinxText.xls, row 2832"
+    "message": "ZU TUN"
   },
   "HT_Text_Inv_Dsc_PL01_Eye": {
-    "message": "ZU TUN",
-    "description": "SphinxText.xls, row 2833"
+    "message": "ZU TUN"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Das Baumtier besitzt ein wunderschönes, magisches Talent, aber wenn man sich davon verzaubern lässt, folgt meistens eine böse Überraschung.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2834"
+    "message": "<ES HT_Text_ES_S_BOSStd>Das Baumtier besitzt ein wunderschönes, magisches Talent, aber wenn man sich davon verzaubern lässt, folgt meistens eine böse Überraschung.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PL04_Sunflower_With_Face": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Die Sonnenblume ist nicht so friedlich, wie man meinen könnte. Lass dich von einem ihrer Kerne treffen, und du wirst erst einmal gut schlafen können.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2835"
+    "message": "<ES HT_Text_ES_S_BOSStd>Die Sonnenblume ist nicht so friedlich, wie man meinen könnte. Lass dich von einem ihrer Kerne treffen, und du wirst erst einmal gut schlafen können.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QC01_Pokemon": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Schalentierchen sind langsam, ängstlich und von geringem Nutzen. Die Reichen benutzen ihre Schalen gerne als Zierde.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2836"
+    "message": "<ES HT_Text_ES_S_BOSStd>Schalentierchen sind langsam, ängstlich und von geringem Nutzen. Die Reichen benutzen ihre Schalen gerne als Zierde.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR01_Cobra": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Kobras sind sehr giftig und leben auf Bäumen und anderen Pflanzen. Wer das Heim einer Kobra stört, muss mit einem sofortigen Angriff rechnen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2837"
+    "message": "<ES HT_Text_ES_S_BOSStd>Kobras sind sehr giftig und leben auf Bäumen und anderen Pflanzen. Wer das Heim einer Kobra stört, muss mit einem sofortigen Angriff rechnen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR02_Sak_Spitting_Toad": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Trotz ihrer enormen Größe sind Spuckerkröten friedliche Wesen, deren Vorliebe für Kokosnüsse weit bekannt ist.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Man sagt, dass Spuckerkröten manchmal Abenteurern helfen, die sie mit dieser Delikatesse füttern.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2838"
+    "message": "<ES HT_Text_ES_S_BOSStd>Trotz ihrer enormen Größe sind Spuckerkröten friedliche Wesen, deren Vorliebe für Kokosnüsse weit bekannt ist.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Man sagt, dass Spuckerkröten manchmal Abenteurern helfen, die sie mit dieser Delikatesse füttern.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR03_Sak_Small_Frog": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Dieser Frosch ist zwar klein, dafür aber umso giftiger. Meistens finden sie sich in Sumpfgebieten.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2839"
+    "message": "<ES HT_Text_ES_S_BOSStd>Dieser Frosch ist zwar klein, dafür aber umso giftiger. Meistens finden sie sich in Sumpfgebieten.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR04_Sak_Nose_Needler": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Nasenstichler ist ein Säugetier aus der Wüstengegend. Aufgrund seiner Flinkheit und seiner Grabkünste ist er kaum zu erwischen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2840"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Nasenstichler ist ein Säugetier aus der Wüstengegend. Aufgrund seiner Flinkheit und seiner Grabkünste ist er kaum zu erwischen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU01_Skeletal_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Die Skelettspinne schlägt ihre Opfer mit einer Kopfnuss bewusstlos, um sie dann in Ruhe zu verspeisen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2841"
+    "message": "<ES HT_Text_ES_S_BOSStd>Die Skelettspinne schlägt ihre Opfer mit einer Kopfnuss bewusstlos, um sie dann in Ruhe zu verspeisen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Wenn sie bedroht werden, drehen sie sich zunächst auf der Stelle und stürzen sich dann auf ihren Gegner.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2842"
+    "message": "<ES HT_Text_ES_S_BOSStd>Wenn sie bedroht werden, drehen sie sich zunächst auf der Stelle und stürzen sich dann auf ihren Gegner.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Fire": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Das Feuergürteltier erweitert den Wirbelangriff noch mit einem Feuerball, sodass der Gegner auch noch mit Verbrennungen rechnen muss...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Wenn man sie gefangen nimmt, kann man mit ihnen hölzerne Hindernisse niederbrennen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2843"
+    "message": "<ES HT_Text_ES_S_BOSStd>Das Feuergürteltier erweitert den Wirbelangriff noch mit einem Feuerball, sodass der Gegner auch noch mit Verbrennungen rechnen muss...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Wenn man sie gefangen nimmt, kann man mit ihnen hölzerne Hindernisse niederbrennen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Das elektrische Gürteltier wirbelt auf der Stelle und lädt sich dabei elektrisch auf. Diese Ladung schützt es dann vor den Angriffen jener, die es berühren.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2844"
+    "message": "<ES HT_Text_ES_S_BOSStd>Das elektrische Gürteltier wirbelt auf der Stelle und lädt sich dabei elektrisch auf. Diese Ladung schützt es dann vor den Angriffen jener, die es berühren.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU04_Mummy_Chihuahua": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Diese kleinen Hunde sind alles andere als glücklich darüber, mumifiziert zu sein. Man sollte ihnen daher nicht zu nahe kommen. Ansonsten beißen sie sich fest, bis es einem gelingt, sie abzuschütteln.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2845"
+    "message": "<ES HT_Text_ES_S_BOSStd>Diese kleinen Hunde sind alles andere als glücklich darüber, mumifiziert zu sein. Man sollte ihnen daher nicht zu nahe kommen. Ansonsten beißen sie sich fest, bis es einem gelingt, sie abzuschütteln.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU05_skeletal_waspspider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Die Wespenspinne besitzt scharfe Vorderklauen, mit denen sie ihre Beute mit Leichtigkeit zersäbeln kann.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2846"
+    "message": "<ES HT_Text_ES_S_BOSStd>Die Wespenspinne besitzt scharfe Vorderklauen, mit denen sie ihre Beute mit Leichtigkeit zersäbeln kann.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU06_Mummy_Worm": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Da sie im Boden verwurzelt sind, können sie nicht in alle Richtungen schauen. Es ist also völlig harmlos, hinter ihnen zu stehen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2847"
+    "message": "<ES HT_Text_ES_S_BOSStd>Da sie im Boden verwurzelt sind, können sie nicht in alle Richtungen schauen. Es ist also völlig harmlos, hinter ihnen zu stehen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU09_Rat": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein nerviges Tier, das seine Jagd nicht aufgibt, bis es seine Zähne irgendwo hineingebohrt hat. Lebt meistens in der Nähe bewohnter Gebiete.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2848"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein nerviges Tier, das seine Jagd nicht aufgibt, bis es seine Zähne irgendwo hineingebohrt hat. Lebt meistens in der Nähe bewohnter Gebiete.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU08_Normal_Chihuahua": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein  Chihuahua ist ein kleines Tier mit weichem Fell. Bei Hundeliebhabern sind sie sehr beliebt. Bei allen anderen findet ihr Gekläffe jedoch wenig Anklang.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2849"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein  Chihuahua ist ein kleines Tier mit weichem Fell. Bei Hundeliebhabern sind sie sehr beliebt. Bei allen anderen findet ihr Gekläffe jedoch wenig Anklang.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Große Stier sollte vielleicht besser als Großer Dickkopf bezeichnet werden...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Mit Argumenten ist ihm nicht beizukommen, und er schlägt seinen Hammer auf alles, das ihm nicht passt. Ihm sollte man nicht in den Weg kommen!<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2850"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Große Stier sollte vielleicht besser als Großer Dickkopf bezeichnet werden...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Mit Argumenten ist ihm nicht beizukommen, und er schlägt seinen Hammer auf alles, das ihm nicht passt. Ihm sollte man nicht in den Weg kommen!<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD09_Horned_ReptileMan": {
-    "message": "ZU TUN",
-    "description": "SphinxText.xls, row 2851"
+    "message": "ZU TUN"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel zum Palasthof.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2852"
+    "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel zum Palasthof.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_NefertitiItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Nefertitis Brief.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2853"
+    "message": "<ES HT_Text_ES_S_BOSStd>Nefertitis Brief.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_SarcophagusKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel für magische Sarkophage.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2854"
+    "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel für magische Sarkophage.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_WardrobeKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel für einen Schrank.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2855"
+    "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel für einen Schrank.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_Amulet": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Alte Amulette aus dem Palast von Luxor.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2857"
+    "message": "<ES HT_Text_ES_S_BOSStd>Alte Amulette aus dem Palast von Luxor.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_CourtyardKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel zum Palasthof.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2858"
+    "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel zum Palasthof.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_TreasureChamberKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel zur Schatzkammer des Palastes.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2859"
+    "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel zur Schatzkammer des Palastes.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_KeyStone": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein großer Türschlüssel.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2860"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein großer Türschlüssel.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_ImpulseKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein großer Türschlüssel.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2861"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein großer Türschlüssel.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Sonnenschlüssel für das Planetarium im Zentralsaal.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2862"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Sonnenschlüssel für das Planetarium im Zentralsaal.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Erdschlüssel für das Planetarium im Zentralsaal.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2863"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Erdschlüssel für das Planetarium im Zentralsaal.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Mondschlüssel für das Planetarium im Zentralsaal.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2864"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Mondschlüssel für das Planetarium im Zentralsaal.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Basket": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Tragek-Orb ist ein magischer Korb, der Gegenstände zwischen Sphinx und der Mumie hin- und hertransportieren kann. Dafür wird jedoch das Buch der Toten benötigt.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2874"
+    "message": "<ES HT_Text_ES_S_BOSStd>Tragek-Orb ist ein magischer Korb, der Gegenstände zwischen Sphinx und der Mumie hin- und hertransportieren kann. Dafür wird jedoch das Buch der Toten benötigt.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyPass": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ausweis zur Identifikation in Abydos.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2879"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ausweis zur Identifikation in Abydos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyPearls": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Wunderschöne, seltene Perlen, die man nur in Abydos finden kann.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2880"
+    "message": "<ES HT_Text_ES_S_BOSStd>Wunderschöne, seltene Perlen, die man nur in Abydos finden kann.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_RosettaStonePiece": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Bruchstücke des Rosettasteins.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2881"
+    "message": "<ES HT_Text_ES_S_BOSStd>Bruchstücke des Rosettasteins.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_RosettaStone": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Rosettastein. Mit ihm sind Übersetzungen von antiken Texten möglich.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2882"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Rosettastein. Mit ihm sind Übersetzungen von antiken Texten möglich.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Sak_Crown": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Die Heilige Krone von Uruk.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2885"
+    "message": "<ES HT_Text_ES_S_BOSStd>Die Heilige Krone von Uruk.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Aby_Crown": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Die Heilige Krone von Abydos.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2886"
+    "message": "<ES HT_Text_ES_S_BOSStd>Die Heilige Krone von Abydos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Hel_Crown": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Die Heilige Krone von Heliopolis.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2887"
+    "message": "<ES HT_Text_ES_S_BOSStd>Die Heilige Krone von Heliopolis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Set_Crown": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Die Heilige Krone von Set.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2888"
+    "message": "<ES HT_Text_ES_S_BOSStd>Die Heilige Krone von Set.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_PharaohInvite": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine Einladung zu einer Audienz beim Pharao von Heliopolis.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2889"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine Einladung zu einer Audienz beim Pharao von Heliopolis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein großes Glas für die Zucht von Käfern.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2893"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein großes Glas für die Zucht von Käfern.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Die VIP-Kundenkarte ermöglicht den um die Hälfte ermäßigten Einkauf von Käfern im Beduinenlager.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2894"
+    "message": "<ES HT_Text_ES_S_BOSStd>Die VIP-Kundenkarte ermöglicht den um die Hälfte ermäßigten Einkauf von Käfern im Beduinenlager.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CageKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel zum Käfig des Urukiters.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2896"
+    "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel zum Käfig des Urukiters.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_MummyMoney": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Seltenes Zahlungsmittel, das man nur im Palast von Uruk findet.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2897"
+    "message": "<ES HT_Text_ES_S_BOSStd>Seltenes Zahlungsmittel, das man nur im Palast von Uruk findet.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Mum_OldKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Schlüssel zu einem alten Keller.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2898"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Schlüssel zu einem alten Keller.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Mum_GlyphKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein goldener Ornamentschlüssel.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2899"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein goldener Ornamentschlüssel.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PalaceInvite": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine Einladung zu einer Audienz beim Pharao von Heliopolis.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2904"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine Einladung zu einer Audienz beim Pharao von Heliopolis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein, der in Verbindung zur Göttin Nut steht. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2905"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein, der in Verbindung zur Göttin Nut steht. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein, der weltlichen Segen verkündet. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2906"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein, der weltlichen Segen verkündet. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein, der mit Fruchtbarkeit in Verbindung gebracht wird. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2907"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein, der mit Fruchtbarkeit in Verbindung gebracht wird. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein, der mächtiger als das Schwert sein soll. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2908"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein, der mächtiger als das Schwert sein soll. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone05": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein prophetischen Ursprungs. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2909"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein prophetischen Ursprungs. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone06": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein des großen Hauses. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2910"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein des großen Hauses. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone07": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein des Schutzes und der Achtsamkeit. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2911"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein des Schutzes und der Achtsamkeit. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone08": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein des Schutzes und der Achtsamkeit. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2912"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein magischer Stein des Schutzes und der Achtsamkeit. Man sagt, dass sich damit sogar die stärksten Flüche aufheben lassen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Luxor01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Portalamulett mit seltsamen Symbolen, die auf den Transport zu einem rätselhaften Ort hinweisen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2914"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Portalamulett mit seltsamen Symbolen, die auf den Transport zu einem rätselhaften Ort hinweisen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Abydos01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Portalamulett mit Meeressymbolen, die auf den Transport nach Abydos hinweisen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2915"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Portalamulett mit Meeressymbolen, die auf den Transport nach Abydos hinweisen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Heliopolis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Portalamulett mit Wüstensymbolen, die auf den Transport nach Heliopolis hinweisen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2917"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Portalamulett mit Wüstensymbolen, die auf den Transport nach Heliopolis hinweisen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_DarkArea01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Portalamulett mit antiken Symbolen, die auf den Transport zum Anubisturm hinweisen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2920"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Portalamulett mit antiken Symbolen, die auf den Transport zum Anubisturm hinweisen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GoldKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein goldener Schlüssel.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2922"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein goldener Schlüssel.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GlyphKey01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine goldene Skulptur, die in bestimmte Schlüsselpodeste passt.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2923"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine goldene Skulptur, die in bestimmte Schlüsselpodeste passt.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GlyphKey02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine goldene Skulptur, die in bestimmte Schlüsselpodeste passt.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2924"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine goldene Skulptur, die in bestimmte Schlüsselpodeste passt.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Schlüssel für ein Tor zur Südwüste von Heliopolis.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2925"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Schlüssel für ein Tor zur Südwüste von Heliopolis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Schlüssel für ein Tor zum Großen Obelisken von Heliopolis.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2926"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Schlüssel für ein Tor zum Großen Obelisken von Heliopolis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Schlüssel für die Steintür einer Höhle zwischen Heliopolisspitze und dem Südstrand.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2927"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Schlüssel für die Steintür einer Höhle zwischen Heliopolisspitze und dem Südstrand.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Schädel eines Skelettkriegers.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2928"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Schädel eines Skelettkriegers.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Beckenknochen eines Skelettkriegers.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2929"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Beckenknochen eines Skelettkriegers.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Arm eines Skelettkriegers.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2930"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Arm eines Skelettkriegers.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Das Bein eines Skelettkriegers.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2931"
+    "message": "<ES HT_Text_ES_S_BOSStd>Das Bein eines Skelettkriegers.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HippyItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Dieser Sonnenschirm ist ein idealer Schattenspender.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2935"
+    "message": "<ES HT_Text_ES_S_BOSStd>Dieser Sonnenschirm ist ein idealer Schattenspender.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. Feuergürteltier<PC 1>2. Wurm-Mumie<N>3. Fast-ein-Stier<PC 1>4. Halbstarker<E><ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2936"
+    "message": "<ES HT_Text_ES_S_BOSStd>1. Feuergürteltier<PC 1>2. Wurm-Mumie<N>3. Fast-ein-Stier<PC 1>4. Halbstarker<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. Dunkler Anbeter<PC 1>2. Wespenspinne<N>3. Ratte<PC 1>4. Sprinterspinne<E><ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2937"
+    "message": "<ES HT_Text_ES_S_BOSStd>1. Dunkler Anbeter<PC 1>2. Wespenspinne<N>3. Ratte<PC 1>4. Sprinterspinne<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. Baumtier<PC 1>2. Skelettspinne<N>3. Großer Stier<PC 1>4. Schädelanbeter<E><ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2938"
+    "message": "<ES HT_Text_ES_S_BOSStd>1. Baumtier<PC 1>2. Skelettspinne<N>3. Großer Stier<PC 1>4. Schädelanbeter<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Coconut": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Kokosnüsse sind die Lieblingsnahrung der urukischen Lavakröte. Man sagt, dass Lavakröten für Kokosnüsse auch Abenteurern helfen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2940"
+    "message": "<ES HT_Text_ES_S_BOSStd>Kokosnüsse sind die Lieblingsnahrung der urukischen Lavakröte. Man sagt, dass Lavakröten für Kokosnüsse auch Abenteurern helfen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ZipLineHook": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein abnehmbarer Griff, mit dem du das Zugseil benutzen kannst.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2941"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein abnehmbarer Griff, mit dem du das Zugseil benutzen kannst.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyWellKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein alter Schlüssel.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2945"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein alter Schlüssel.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_DummyItem": {
-    "message": "DUMMY ITEM THAT SHOULD NEVER BE ADDED TO PLAYER INVENTORY",
-    "description": "SphinxText.xls, row 2946"
+    "message": "DUMMY ITEM THAT SHOULD NEVER BE ADDED TO PLAYER INVENTORY"
   },
   "HT_Text_Inv_Dsc_AbyStairsKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Der Schlüssel zur Treppe im Brunnenhof. Ermöglicht den Zutritt zu den Kanälen von Abydos.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2947"
+    "message": "<ES HT_Text_ES_S_BOSStd>Der Schlüssel zur Treppe im Brunnenhof. Ermöglicht den Zutritt zu den Kanälen von Abydos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_MedicineBag": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein speziell gesäumter Beutel, in dem man Zutaten für Arzneien aufbewahren kann.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2948"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein speziell gesäumter Beutel, in dem man Zutaten für Arzneien aufbewahren kann.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AtunStatue": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine goldene Statue des Gottes Atun. Sie soll der einzige Gegenstand sein, mit dem das magische Siegel von Atun gebrochen werden kann.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2949"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine goldene Statue des Gottes Atun. Sie soll der einzige Gegenstand sein, mit dem das magische Siegel von Atun gebrochen werden kann.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HathorStatue": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine goldene Statue des Gottes Hathor. Sie besitzt magische Kräfte.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2950"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine goldene Statue des Gottes Hathor. Sie besitzt magische Kräfte.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eines der gestohlenen Juwelen aus dem Museum von Abydos.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2951"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eines der gestohlenen Juwelen aus dem Museum von Abydos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eines der gestohlenen Juwelen aus dem Museum von Abydos.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2952"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eines der gestohlenen Juwelen aus dem Museum von Abydos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eines der gestohlenen Juwelen aus dem Museum von Abydos.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2953"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eines der gestohlenen Juwelen aus dem Museum von Abydos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eines der gestohlenen Juwelen aus dem Museum von Abydos.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2954"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eines der gestohlenen Juwelen aus dem Museum von Abydos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel05": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eines der gestohlenen Juwelen aus dem Museum von Abydos.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2955"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eines der gestohlenen Juwelen aus dem Museum von Abydos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel06": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eines der gestohlenen Juwelen aus dem Museum von Abydos.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2956"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eines der gestohlenen Juwelen aus dem Museum von Abydos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_EagleStone": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein verzauberter Stein, mit dem man an bestimmten Stellen einen Großen Adler herbeirufen kann.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2957"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein verzauberter Stein, mit dem man an bestimmten Stellen einen Großen Adler herbeirufen kann.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AtunEye": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Steinauge, das in die Augenhöhle einer Statue passen könnte.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2958"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Steinauge, das in die Augenhöhle einer Statue passen könnte.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Shoot": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine eindrucksvolle Medaille, die bezeugt, dass du mit dem Blasrohr ein wahrer Scharfschütze bist.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2959"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine eindrucksvolle Medaille, die bezeugt, dass du mit dem Blasrohr ein wahrer Scharfschütze bist.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Walls": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine eindrucksvolle Medaille, die dich als Meister des Korridors auszeichnet.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2960"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine eindrucksvolle Medaille, die dich als Meister des Korridors auszeichnet.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Pairs": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine eindrucksvolle Medaille, die bestätigt, dass du Ganebs Gedächtnisprüfung bestanden hast.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2961"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine eindrucksvolle Medaille, die bestätigt, dass du Ganebs Gedächtnisprüfung bestanden hast.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Simon": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Eine eindrucksvolle Medaille, die bezeugt, dass du Sorkons Sequenzspiel geschafft hast.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2962"
+    "message": "<ES HT_Text_ES_S_BOSStd>Eine eindrucksvolle Medaille, die bezeugt, dass du Sorkons Sequenzspiel geschafft hast.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_Certificate": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Zertifikat des Museums von Abydos für die Vervollständigung der naturhistorischen Sammlung des Museums.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2963"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Zertifikat des Museums von Abydos für die Vervollständigung der naturhistorischen Sammlung des Museums.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterA": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Zertifikat des Museums von Abydos für das Sammeln von 30 Monstern.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2964"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Zertifikat des Museums von Abydos für das Sammeln von 30 Monstern.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterB": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Zertifikat des Museums von Abydos für das Sammeln von 20 Monstern.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2965"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Zertifikat des Museums von Abydos für das Sammeln von 20 Monstern.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterC": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ein Zertifikat des Museums von Abydos für das Sammeln von 10 Monstern.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2966"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ein Zertifikat des Museums von Abydos für das Sammeln von 10 Monstern.<ES HT_Text_ES_E_BOSStd>"
   }
 }

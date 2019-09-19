@@ -1,766 +1,575 @@
 {
   "HT_Text_FE_Menu_NewGame": {
-    "message": "NUEVA PARTIDA",
-    "description": "SphinxText.xls, row 2981"
+    "message": "NUEVA PARTIDA"
   },
   "HT_Text_FE_Menu_LoadGame": {
-    "message": "CARGAR PARTIDA",
-    "description": "SphinxText.xls, row 2982"
+    "message": "CARGAR PARTIDA"
   },
   "HT_Text_FE_Menu_BonusMaterial": {
-    "message": "BONUS",
-    "description": "SphinxText.xls, row 2983"
+    "message": "BONUS"
   },
   "HT_Text_FE_Menu_Options": {
-    "message": "OPCIONES",
-    "description": "SphinxText.xls, row 2984"
+    "message": "OPCIONES"
   },
   "HT_Text_FE_Menu_OptionsSubControl": {
-    "message": "CONFIGURAR CONTROLES",
-    "description": "SphinxText.xls, row 2985"
+    "message": "CONFIGURAR CONTROLES"
   },
   "HT_Text_FE_Menu_OptionsSubScreen": {
-    "message": "CONFIGURAR PANTALLA",
-    "description": "SphinxText.xls, row 2986"
+    "message": "CONFIGURAR PANTALLA"
   },
   "HT_Text_FE_Menu_OptionsSubSound": {
-    "message": "CONFIGURAR SONIDO",
-    "description": "SphinxText.xls, row 2987"
+    "message": "CONFIGURAR SONIDO"
   },
   "HT_Text_FE_Menu_MusicVolume": {
-    "message": "VOL. MÚSICA",
-    "description": "SphinxText.xls, row 2988"
+    "message": "VOL. MÚSICA"
   },
   "HT_Text_FE_Menu_SoundVolume": {
-    "message": "VOL. SONIDO",
-    "description": "SphinxText.xls, row 2989"
+    "message": "VOL. SONIDO"
   },
   "HT_Text_FE_Menu_PadRumbleGC": {
-    "message": "VIBRACIÓN",
-    "description": "SphinxText.xls, row 2990"
+    "message": "VIBRACIÓN"
   },
   "HT_Text_FE_Menu_PadRumbleXB": {
-    "message": "VIBRACIÓN",
-    "description": "SphinxText.xls, row 2991"
+    "message": "VIBRACIÓN"
   },
   "HT_Text_FE_Menu_PadRumblePS2": {
-    "message": "VIBRACIÓN",
-    "description": "SphinxText.xls, row 2992"
+    "message": "VIBRACIÓN"
   },
   "HT_Text_FE_Menu_ScreenAdjust": {
-    "message": "AJUSTAR PANTALLA",
-    "description": "SphinxText.xls, row 2993"
+    "message": "AJUSTAR PANTALLA"
   },
   "HT_Text_FE_Menu_Widescreen": {
-    "message": "PANORÁMICA",
-    "description": "SphinxText.xls, row 2994"
+    "message": "PANORÁMICA"
   },
   "HT_Text_FE_Menu_Subtitles": {
-    "message": "SUBTÍTULOS",
-    "description": "SphinxText.xls, row 2995"
+    "message": "SUBTÍTULOS"
   },
   "HT_Text_FE_Menu_InvertThirdPersonVert": {
-    "message": "INVERTIR VERTICAL 3.ª PERSONA",
-    "description": "SphinxText.xls, row 2996"
+    "message": "INVERTIR VERTICAL 3.ª PERSONA"
   },
   "HT_Text_FE_Menu_InvertThirdPersonHorz": {
-    "message": "INVERTIR HORIZ. 3.ª PERSONA",
-    "description": "SphinxText.xls, row 2997"
+    "message": "INVERTIR HORIZ. 3.ª PERSONA"
   },
   "HT_Text_FE_Menu_InvertFirstPersonVert": {
-    "message": "INVERTIR VERTICAL 1.ª PERSONA",
-    "description": "SphinxText.xls, row 2998"
+    "message": "INVERTIR VERTICAL 1.ª PERSONA"
   },
   "HT_Text_FE_Menu_OK": {
-    "message": "ACEPTAR",
-    "description": "SphinxText.xls, row 2999"
+    "message": "ACEPTAR"
   },
   "HT_Text_FE_Menu_Cancel": {
-    "message": "CANCELAR",
-    "description": "SphinxText.xls, row 3000"
+    "message": "CANCELAR"
   },
   "HT_Text_FE_Menu_ConfirmQuit": {
-    "message": "¿Seguro que deseas salir?",
-    "description": "SphinxText.xls, row 3001"
+    "message": "¿Seguro que deseas salir?"
   },
   "HT_Text_FE_Menu_ConfirmQuit_XB": {
-    "message": "¿Seguro que deseas salir? \\nSe perderán los avances que no se hayan guardado.",
-    "description": "SphinxText.xls, row 3002"
+    "message": "¿Seguro que deseas salir? \\nSe perderán los avances que no se hayan guardado."
   },
   "HT_Text_FE_Menu_SoundStereo": {
-    "message": "ESTÉREO",
-    "description": "SphinxText.xls, row 3004"
+    "message": "ESTÉREO"
   },
   "HT_Text_FE_Menu_SoundMono": {
-    "message": "MONO",
-    "description": "SphinxText.xls, row 3005"
+    "message": "MONO"
   },
   "HT_Text_FE_Menu_SoundSurround": {
-    "message": "SURROUND",
-    "description": "SphinxText.xls, row 3006"
+    "message": "SURROUND"
   },
   "HT_Text_FE_Menu_SoundStereoSurround": {
-    "message": "ESTÉREO/\\nSURROUND",
-    "description": "SphinxText.xls, row 3007"
+    "message": "ESTÉREO/\\nSURROUND"
   },
   "HT_Text_FE_Menu_SoundModeOption": {
-    "message": "MODO DE SONIDO",
-    "description": "SphinxText.xls, row 3008"
+    "message": "MODO DE SONIDO"
   },
   "HT_Text_FE_Menu_On": {
-    "message": "SÍ",
-    "description": "SphinxText.xls, row 3009"
+    "message": "SÍ"
   },
   "HT_Text_FE_Menu_Off": {
-    "message": "NO",
-    "description": "SphinxText.xls, row 3010"
+    "message": "NO"
   },
   "HT_Text_OptionsMenu_Back": {
-    "message": "ATRÁS",
-    "description": "SphinxText.xls, row 3011"
+    "message": "ATRÁS"
   },
   "HT_Text_OptionsMenu_Select": {
-    "message": "SELECCIONAR",
-    "description": "SphinxText.xls, row 3012"
+    "message": "SELECCIONAR"
   },
   "HT_Text_FE_Menu_ThirdPerson": {
-    "message": "3.ª PERSONA:",
-    "description": "SphinxText.xls, row 3013"
+    "message": "3.ª PERSONA:"
   },
   "HT_Text_FE_Menu_FirstPerson": {
-    "message": "1.ª PERSONA:",
-    "description": "SphinxText.xls, row 3014"
+    "message": "1.ª PERSONA:"
   },
   "HT_Text_FE_Menu_InvertHorz": {
-    "message": "INVERTIR HORIZONTAL",
-    "description": "SphinxText.xls, row 3015"
+    "message": "INVERTIR HORIZONTAL"
   },
   "HT_Text_FE_Menu_InvertVert": {
-    "message": "INVERTIR VERTICAL",
-    "description": "SphinxText.xls, row 3016"
+    "message": "INVERTIR VERTICAL"
   },
   "HT_Text_FE_MenuPause_Continue": {
-    "message": "CONTINUAR",
-    "description": "SphinxText.xls, row 3017"
+    "message": "CONTINUAR"
   },
   "HT_Text_FE_MenuPause_Options": {
-    "message": "OPCIONES",
-    "description": "SphinxText.xls, row 3018"
+    "message": "OPCIONES"
   },
   "HT_Text_FE_MenuPause_QuitGame": {
-    "message": "ABANDONAR PARTIDA",
-    "description": "SphinxText.xls, row 3019"
+    "message": "ABANDONAR PARTIDA"
   },
   "HT_Text_FE_PressStart_PS2": {
-    "message": "PULSA EL BOTÓN START",
-    "description": "SphinxText.xls, row 3020"
+    "message": "PULSA EL BOTÓN START"
   },
   "HT_Text_FE_PressStart_XB": {
-    "message": "PULSA START",
-    "description": "SphinxText.xls, row 3021"
+    "message": "PULSA START"
   },
   "HT_Text_FE_PressStart_GC": {
-    "message": "Pulsa START",
-    "description": "SphinxText.xls, row 3022"
+    "message": "Pulsa START"
   },
   "HT_Text_FE_PressStart_PC": {
-    "message": "Pulsa un botón para continuar",
-    "description": "SphinxText.xls, row 3023"
+    "message": "Pulsa un botón para continuar"
   },
   "HT_Text_FE_Bonus1_Title": {
-    "message": "Cómo se hizo Sphinx",
-    "description": "SphinxText.xls, row 3025"
+    "message": "Cómo se hizo Sphinx"
   },
   "HT_Text_FE_Bonus1_Description": {
-    "message": "Comprueba lo que hay detrás de las escenas de Sphinx y la maldita momia.",
-    "description": "SphinxText.xls, row 3026"
+    "message": "Comprueba lo que hay detrás de las escenas de Sphinx y la maldita momia."
   },
   "HT_Text_FE_Bonus2_Title": {
-    "message": "Tráiler de Sphinx",
-    "description": "SphinxText.xls, row 3027"
+    "message": "Tráiler de Sphinx"
   },
   "HT_Text_FE_Bonus2_Description": {
-    "message": "Tráiler de Sphinx y la Momia maldita",
-    "description": "SphinxText.xls, row 3028"
+    "message": "Tráiler de Sphinx y la Momia maldita"
   },
   "HT_Text_FE_Menu_SaveSlotA": {
-    "message": "SPHINX A",
-    "description": "SphinxText.xls, row 3030"
+    "message": "SPHINX A"
   },
   "HT_Text_FE_Menu_SaveSlotB": {
-    "message": "SPHINX B",
-    "description": "SphinxText.xls, row 3031"
+    "message": "SPHINX B"
   },
   "HT_Text_FE_Menu_SaveSlotC": {
-    "message": "SPHINX C",
-    "description": "SphinxText.xls, row 3032"
+    "message": "SPHINX C"
   },
   "HT_Text_FE_Menu_SaveSlotA_XB": {
-    "message": "Sphinx A",
-    "description": "SphinxText.xls, row 3033"
+    "message": "Sphinx A"
   },
   "HT_Text_FE_Menu_SaveSlotB_XB": {
-    "message": "Sphinx B",
-    "description": "SphinxText.xls, row 3034"
+    "message": "Sphinx B"
   },
   "HT_Text_FE_Menu_SaveSlotC_XB": {
-    "message": "Sphinx C",
-    "description": "SphinxText.xls, row 3035"
+    "message": "Sphinx C"
   },
   "HT_Text_FE_Menu_SaveSlotNone": {
-    "message": "Continuar sin guardar",
-    "description": "SphinxText.xls, row 3036"
+    "message": "Continuar sin guardar"
   },
   "HT_Text_FE_Menu_SaveSlotEmpty": {
-    "message": "Vacía",
-    "description": "SphinxText.xls, row 3037"
+    "message": "Vacía"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
-    "message": "DAÑADOS",
-    "description": "SphinxText.xls, row 3039"
+    "message": "DAÑADOS"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
-    "message": "DAÑADOS",
-    "description": "SphinxText.xls, row 3040"
+    "message": "DAÑADOS"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_GC": {
-    "message": "VACÍA",
-    "description": "SphinxText.xls, row 3041"
+    "message": "VACÍA"
   },
   "HT_Text_MemCard_PromptSlotA": {
-    "message": "SPHINX A",
-    "description": "SphinxText.xls, row 3043"
+    "message": "SPHINX A"
   },
   "HT_Text_MemCard_PromptSlotB": {
-    "message": "SPHINX B",
-    "description": "SphinxText.xls, row 3044"
+    "message": "SPHINX B"
   },
   "HT_Text_MemCard_PromptSlotC": {
-    "message": "SPHINX C",
-    "description": "SphinxText.xls, row 3045"
+    "message": "SPHINX C"
   },
   "HT_Text_MemCard_PromptNo": {
-    "message": "NO",
-    "description": "SphinxText.xls, row 3047"
+    "message": "NO"
   },
   "HT_Text_MemCard_PromptYes": {
-    "message": "SÍ",
-    "description": "SphinxText.xls, row 3048"
+    "message": "SÍ"
   },
   "HT_Text_MemCard_PromptOK": {
-    "message": "ACEPTAR",
-    "description": "SphinxText.xls, row 3049"
+    "message": "ACEPTAR"
   },
   "HT_Text_MemCard_PromptRetry": {
-    "message": "REINTENTAR",
-    "description": "SphinxText.xls, row 3050"
+    "message": "REINTENTAR"
   },
   "HT_Text_MemCard_PromptCancel": {
-    "message": "CANCELAR",
-    "description": "SphinxText.xls, row 3051"
+    "message": "CANCELAR"
   },
   "HT_Text_MemCard_PromptHaventSaved_XB": {
-    "message": "¿Seguro que deseas continuar sin guardar?",
-    "description": "SphinxText.xls, row 3053"
+    "message": "¿Seguro que deseas continuar sin guardar?"
   },
   "HT_Text_MemCard_GameName": {
-    "message": "SPHINX",
-    "description": "SphinxText.xls, row 3054"
+    "message": "SPHINX"
   },
   "HT_Text_Paused_PS2": {
-    "message": "En pausa",
-    "description": "SphinxText.xls, row 3056"
+    "message": "En pausa"
   },
   "HT_Text_Paused_XB": {
-    "message": "Presionar START para continuar.",
-    "description": "SphinxText.xls, row 3057"
+    "message": "Presionar START para continuar."
   },
   "HT_Text_Paused_GC": {
-    "message": "En pausa",
-    "description": "SphinxText.xls, row 3058"
+    "message": "En pausa"
   },
   "HT_Text_ReplacePadPrompt_PS2_PAL": {
-    "message": "No hay un mando insertado en el puerto de mando (MISSINGPAD). Vuelve a insertar un mando analógico (DUALSHOCK®) o un mando analógico (DUALSHOCK®2) para continuar.",
-    "description": "SphinxText.xls, row 3060"
+    "message": "No hay un mando insertado en el puerto de mando (MISSINGPAD). Vuelve a insertar un mando analógico (DUALSHOCK®) o un mando analógico (DUALSHOCK®2) para continuar."
   },
   "HT_Text_ReplacePadPrompt_PS2_NTSC": {
-    "message": "No hay un mando insertado en el puerto de mando (MISSINGPAD). Vuelve a insertar un mando analógico (DUALSHOCK®) o un mando analógico (DUALSHOCK®2) para continuar.",
-    "description": "SphinxText.xls, row 3061"
+    "message": "No hay un mando insertado en el puerto de mando (MISSINGPAD). Vuelve a insertar un mando analógico (DUALSHOCK®) o un mando analógico (DUALSHOCK®2) para continuar."
   },
   "HT_Text_ReplacePadPrompt_XB_Start": {
-    "message": "Volver a conectar el controlador (MISSINGPAD) y presionar START para continuar.",
-    "description": "SphinxText.xls, row 3062"
+    "message": "Volver a conectar el controlador (MISSINGPAD) y presionar START para continuar."
   },
   "HT_Text_ReplacePadPrompt_XB": {
-    "message": "Volver a conectar el controlador al puerto (MISSINGPAD).",
-    "description": "SphinxText.xls, row 3063"
+    "message": "Volver a conectar el controlador al puerto (MISSINGPAD)."
   },
   "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
-    "message": "No podrás guardar tus progresos o las opciones durante la partida. ¿Seguro que deseas continuar?",
-    "description": "SphinxText.xls, row 3065"
+    "message": "No podrás guardar tus progresos o las opciones durante la partida. ¿Seguro que deseas continuar?"
   },
   "HT_Text_DeathScreen_Continue": {
-    "message": "CONTINUAR",
-    "description": "SphinxText.xls, row 3066"
+    "message": "CONTINUAR"
   },
   "HT_Text_DeathScreen_QuitGame": {
-    "message": "ABANDONAR PARTIDA",
-    "description": "SphinxText.xls, row 3067"
+    "message": "ABANDONAR PARTIDA"
   },
   "HT_Text_DeathScreen_Text": {
-    "message": "FIN DE PARTIDA",
-    "description": "SphinxText.xls, row 3068"
+    "message": "FIN DE PARTIDA"
   },
   "HT_Text_OptionsMenu_Reset": {
-    "message": "RESTAURAR",
-    "description": "SphinxText.xls, row 3070"
+    "message": "RESTAURAR"
   },
   "HT_Text_ScreenAdjustText_PS2": {
-    "message": "Ajusta la pantalla con\\nlos botones de dirección.",
-    "description": "SphinxText.xls, row 3071"
+    "message": "Ajusta la pantalla con\\nlos botones de dirección."
   },
   "HT_Text_ScreenAdjustText_GC": {
-    "message": "Ajusta la pantalla con el Panel de Control.",
-    "description": "SphinxText.xls, row 3072"
+    "message": "Ajusta la pantalla con el Panel de Control."
   },
   "HT_Text_ScreenAdjustText_XB": {
-    "message": "Ajusta la pantalla con el mando de dirección.",
-    "description": "SphinxText.xls, row 3073"
+    "message": "Ajusta la pantalla con el mando de dirección."
   },
   "HT_Text_Memcard_Test": {
-    "message": "This is a memory card help window test.\\nWith new lines.\\nAnd exclamations!",
-    "description": "SphinxText.xls, row 3074"
+    "message": "This is a memory card help window test.\\nWith new lines.\\nAnd exclamations!"
   },
   "HT_Text_Memcard_SaveConfirm": {
-    "message": "¿Seguro que deseas\\nguardar en esta ranura?",
-    "description": "SphinxText.xls, row 3075"
+    "message": "¿Seguro que deseas\\nguardar en esta ranura?"
   },
   "HT_Text_Memcard_LoadConfirm": {
-    "message": "¿Seguro que deseas\\ncargar esta partida?",
-    "description": "SphinxText.xls, row 3076"
+    "message": "¿Seguro que deseas\\ncargar esta partida?"
   },
   "HT_Text_Memcard_OverwriteConfirm": {
-    "message": "La partida guardada ya existe.\\n\\n¿Deseas sobrescribir la\\npartida anterior?",
-    "description": "SphinxText.xls, row 3077"
+    "message": "La partida guardada ya existe.\\n\\n¿Deseas sobrescribir la\\npartida anterior?"
   },
   "HT_Text_Memcard_NoFormat": {
-    "message": "Memory card (PS2) de la ranura\\npara MEMORY CARD 1 sin formato.\\n\\n¿Formatear memory card (PS2)?",
-    "description": "SphinxText.xls, row 3078"
+    "message": "Memory card (PS2) de la ranura\\npara MEMORY CARD 1 sin formato.\\n\\n¿Formatear memory card (PS2)?"
   },
   "HT_Text_Memcard_NoFormat_Boot": {
-    "message": "Memory card (PS2) de la ranura\\npara MEMORY CARD 1 sin formato.\\n¿Formatear memory card (PS2)?",
-    "description": "SphinxText.xls, row 3079"
+    "message": "Memory card (PS2) de la ranura\\npara MEMORY CARD 1 sin formato.\\n¿Formatear memory card (PS2)?"
   },
   "HT_Text_Memcard_NoDirectory": {
-    "message": "Memory card (PS2) de la ranura\\npara MEMORY CARD 1 no contiene\\nuna carpeta de Shpinx.\\n\\n¿Crear carpeta de Sphinx?",
-    "description": "SphinxText.xls, row 3080"
+    "message": "Memory card (PS2) de la ranura\\npara MEMORY CARD 1 no contiene\\nuna carpeta de Shpinx.\\n\\n¿Crear carpeta de Sphinx?"
   },
   "HT_Text_Memcard_FormatComplete": {
-    "message": "Éxito al formatear.",
-    "description": "SphinxText.xls, row 3081"
+    "message": "Éxito al formatear."
   },
   "HT_Text_Memcard_SaveFailed": {
-    "message": "Error al guardar partida.",
-    "description": "SphinxText.xls, row 3082"
+    "message": "Error al guardar partida."
   },
   "HT_Text_Memcard_SaveSuccess": {
-    "message": "Partida guardada con éxito.",
-    "description": "SphinxText.xls, row 3083"
+    "message": "Partida guardada con éxito."
   },
   "HT_Text_Memcard_LoadFail": {
-    "message": "Error al cargar partida.",
-    "description": "SphinxText.xls, row 3084"
+    "message": "Error al cargar partida."
   },
   "HT_Text_Memcard_NoCard": {
-    "message": "Atención: Sphinx usa la función de autoguardado.\\nSi insertas una memory card (PS2)\\na partir de este punto, puede haber\\nsobrescritura de datos. No obstante, si deseas guardar\\ndatos del juego, inserta una memory card (PS2)\\ncon al menos x KB de espacio libre.\\n\\nPulsa el botón START (inicio)\\npara continuar sin guardar.",
-    "description": "SphinxText.xls, row 3085"
+    "message": "Atención: Sphinx usa la función de autoguardado.\\nSi insertas una memory card (PS2)\\na partir de este punto, puede haber\\nsobrescritura de datos. No obstante, si deseas guardar\\ndatos del juego, inserta una memory card (PS2)\\ncon al menos x KB de espacio libre.\\n\\nPulsa el botón START (inicio)\\npara continuar sin guardar."
   },
   "HT_Text_Memcard_NoCard1": {
-    "message": "No hay memory card (8MB)(para PlayStation®2)\\nen la ranura para MEMORY CARD 1.",
-    "description": "SphinxText.xls, row 3086"
+    "message": "No hay memory card (8MB)(para PlayStation®2)\\nen la ranura para MEMORY CARD 1."
   },
   "HT_Text_Memcard_NoSpace_Boot": {
-    "message": "No hay espacio suficiente en la memory card (PS2). Inserta una\\nmemory card (PS2) con al menos x KB de espacio libre,\\no crea espacio libre con el navegador interno de la consola.",
-    "description": "SphinxText.xls, row 3087"
+    "message": "No hay espacio suficiente en la memory card (PS2). Inserta una\\nmemory card (PS2) con al menos x KB de espacio libre,\\no crea espacio libre con el navegador interno de la consola."
   },
   "HT_Text_Memcard_NoSpace_Save": {
-    "message": "No hay espacio suficiente en la memory card (PS2) de la\\nranura para MEMORY CARD 1. Sphinx necesita x KB de espacio libre para guardar datos.",
-    "description": "SphinxText.xls, row 3088"
+    "message": "No hay espacio suficiente en la memory card (PS2) de la\\nranura para MEMORY CARD 1. Sphinx necesita x KB de espacio libre para guardar datos."
   },
   "HT_Text_Memcard_PressKey": {
-    "message": "PULSA START (INICIO) PARA CONTINUAR SIN GUARDAR",
-    "description": "SphinxText.xls, row 3089"
+    "message": "PULSA START (INICIO) PARA CONTINUAR SIN GUARDAR"
   },
   "HT_Text_Memcard_Loading": {
-    "message": "Cargando...",
-    "description": "SphinxText.xls, row 3090"
+    "message": "Cargando..."
   },
   "HT_Text_Memcard_Saving": {
-    "message": "Guardando datos. No extraigas la memory card (PS2) de\\nla ranura para MEMORY CARD 1. No reinicies ni apagues la consola.",
-    "description": "SphinxText.xls, row 3091"
+    "message": "Guardando datos. No extraigas la memory card (PS2) de\\nla ranura para MEMORY CARD 1. No reinicies ni apagues la consola."
   },
   "HT_Text_Memcard_Formatting": {
-    "message": "Formateando...\\n\\n\\nFormateando la memory card (PS2) de la ranura para MEMORY CARD 1.\\nNo extraigas la memory card (PS2).\\nNo reinicies ni apagues la consola.",
-    "description": "SphinxText.xls, row 3092"
+    "message": "Formateando...\\n\\n\\nFormateando la memory card (PS2) de la ranura para MEMORY CARD 1.\\nNo extraigas la memory card (PS2).\\nNo reinicies ni apagues la consola."
   },
   "HT_Text_Memcard_YesNo": {
-    "message": "<B 1>Sí<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 3093"
+    "message": "<B 1>Sí<N><B 2>No<E>"
   },
   "HT_Text_Menu_Cross": {
-    "message": "Seleccionar",
-    "description": "SphinxText.xls, row 3094"
+    "message": "Seleccionar"
   },
   "HT_Text_Menu_Triangle": {
-    "message": "ATRÁS",
-    "description": "SphinxText.xls, row 3095"
+    "message": "ATRÁS"
   },
   "HT_Text_Menu_Square": {
-    "message": "Centrar pantalla",
-    "description": "SphinxText.xls, row 3096"
+    "message": "Centrar pantalla"
   },
   "HT_Text_Menu_StartPause": {
-    "message": "Continuar partida",
-    "description": "SphinxText.xls, row 3097"
+    "message": "Continuar partida"
   },
   "HT_Text_Menu_AdjustScreen": {
-    "message": "Usar joystick analógico\\nizquierdo o botón de dirección\\npara ajustar la pantalla",
-    "description": "SphinxText.xls, row 3098"
+    "message": "Usar joystick analógico\\nizquierdo o botón de dirección\\npara ajustar la pantalla"
   },
   "HT_Text_Menu_Accept": {
-    "message": "Sí",
-    "description": "SphinxText.xls, row 3099"
+    "message": "Sí"
   },
   "HT_Text_Menu_Decline": {
-    "message": "No",
-    "description": "SphinxText.xls, row 3100"
+    "message": "No"
   },
   "HT_Text_Menu_Pause": {
-    "message": "Detener partida",
-    "description": "SphinxText.xls, row 3101"
+    "message": "Detener partida"
   },
   "HT_Text_Menu_Empty": {
-    "message": "Nada",
-    "description": "SphinxText.xls, row 3102"
+    "message": "Nada"
   },
   "HT_Text_Menu_BOS": {
-    "message": "Abrir Libro de Sphinx",
-    "description": "SphinxText.xls, row 3103"
+    "message": "Abrir Libro de Sphinx"
   },
   "HT_Text_Menu_Inventory": {
-    "message": "Inventario",
-    "description": "SphinxText.xls, row 3104"
+    "message": "Inventario"
   },
   "HT_Text_Menu_Jump": {
-    "message": "Saltar",
-    "description": "SphinxText.xls, row 3105"
+    "message": "Saltar"
   },
   "HT_Text_Menu_Attack": {
-    "message": "Atacar",
-    "description": "SphinxText.xls, row 3106"
+    "message": "Atacar"
   },
   "HT_Text_Menu_Context": {
-    "message": "Contexto",
-    "description": "SphinxText.xls, row 3107"
+    "message": "Contexto"
   },
   "HT_Text_Menu_Shield": {
-    "message": "Escudo",
-    "description": "SphinxText.xls, row 3108"
+    "message": "Escudo"
   },
   "HT_Text_Menu_Pipe": {
-    "message": "Cerbatana",
-    "description": "SphinxText.xls, row 3109"
+    "message": "Cerbatana"
   },
   "HT_Text_Menu_Camera": {
-    "message": "Control de cámara",
-    "description": "SphinxText.xls, row 3110"
+    "message": "Control de cámara"
   },
   "HT_Text_Menu_Move": {
-    "message": "Mover personaje",
-    "description": "SphinxText.xls, row 3111"
+    "message": "Mover personaje"
   },
   "HT_Text_Menu_Start": {
-    "message": "Menú Detener partida",
-    "description": "SphinxText.xls, row 3112"
+    "message": "Menú Detener partida"
   },
   "HT_Text_Menu_PadLayout1": {
-    "message": "PREDETERMINADO",
-    "description": "SphinxText.xls, row 3113"
+    "message": "PREDETERMINADO"
   },
   "HT_Text_Menu_PadLayout2": {
-    "message": "MANO=IZQUIERDA",
-    "description": "SphinxText.xls, row 3114"
+    "message": "MANO=IZQUIERDA"
   },
   "HT_Text_Menu_PadLayout3": {
-    "message": "BEBIDO",
-    "description": "SphinxText.xls, row 3115"
+    "message": "BEBIDO"
   },
   "HT_Text_Menu_NoPad": {
-    "message": "Se ha desconectado el mando\\ndel puerto de mando 1.\\nVuélvelo a conectar para\\ncontinuar la partida.",
-    "description": "SphinxText.xls, row 3116"
+    "message": "Se ha desconectado el mando\\ndel puerto de mando 1.\\nVuélvelo a conectar para\\ncontinuar la partida."
   },
   "HT_Text_Menu_Uruk1": {
-    "message": "SPHINX=@=URUK=HILLS",
-    "description": "SphinxText.xls, row 3117"
+    "message": "SPHINX=@=URUK=HILLS"
   },
   "HT_Text_Menu_Uruk2": {
-    "message": "MUMMY=@=URUK=CASTLE",
-    "description": "SphinxText.xls, row 3118"
+    "message": "MUMMY=@=URUK=CASTLE"
   },
   "HT_Text_Menu_Making": {
-    "message": "CÓMO=SE=HIZO=:=:=:",
-    "description": "SphinxText.xls, row 3119"
+    "message": "CÓMO=SE=HIZO=:=:=:"
   },
   "HT_Text_Menu_Trailer": {
-    "message": "TRÁILER",
-    "description": "SphinxText.xls, row 3120"
+    "message": "TRÁILER"
   },
   "HT_Text_Menu_Exit": {
-    "message": "CERRAR=DEMO",
-    "description": "SphinxText.xls, row 3121"
+    "message": "CERRAR=DEMO"
   },
   "HT_Text_Menu_Continue": {
-    "message": "CONTINUAR",
-    "description": "SphinxText.xls, row 3122"
+    "message": "CONTINUAR"
   },
   "HT_Text_Menu_Rumble": {
-    "message": "VIBRACIÓN==SÍ",
-    "description": "SphinxText.xls, row 3123"
+    "message": "VIBRACIÓN==SÍ"
   },
   "HT_Text_Menu_RumbleOff": {
-    "message": "VIBRACIÓN==NO",
-    "description": "SphinxText.xls, row 3124"
+    "message": "VIBRACIÓN==NO"
   },
   "HT_Text_Menu_StartDemo": {
-    "message": "REPRODUCIR=DEMO",
-    "description": "SphinxText.xls, row 3125"
+    "message": "REPRODUCIR=DEMO"
   },
   "HT_Text_Menu_NewGame": {
-    "message": "PARTIDA=NUEVA",
-    "description": "SphinxText.xls, row 3126"
+    "message": "PARTIDA=NUEVA"
   },
   "HT_Text_Menu_Load": {
-    "message": "CARGAR=PARTIDA",
-    "description": "SphinxText.xls, row 3127"
+    "message": "CARGAR=PARTIDA"
   },
   "HT_Text_Menu_Save": {
-    "message": "GUARDAR=PARTIDA",
-    "description": "SphinxText.xls, row 3128"
+    "message": "GUARDAR=PARTIDA"
   },
   "HT_Text_Menu_Options": {
-    "message": "OPCIONES",
-    "description": "SphinxText.xls, row 3129"
+    "message": "OPCIONES"
   },
   "HT_Text_Menu_EndGame": {
-    "message": "FIN=DE=PARTIDA",
-    "description": "SphinxText.xls, row 3130"
+    "message": "FIN=DE=PARTIDA"
   },
   "HT_Text_Menu_Screen": {
-    "message": "CONFIGURAR=PANTALLA",
-    "description": "SphinxText.xls, row 3131"
+    "message": "CONFIGURAR=PANTALLA"
   },
   "HT_Text_Menu_Pad": {
-    "message": "CONFIGURAR=CONTROLES",
-    "description": "SphinxText.xls, row 3132"
+    "message": "CONFIGURAR=CONTROLES"
   },
   "HT_Text_Menu_Sound": {
-    "message": "CONFIGURAR=SONIDO",
-    "description": "SphinxText.xls, row 3133"
+    "message": "CONFIGURAR=SONIDO"
   },
   "HT_Text_Menu_ScreenAdjust": {
-    "message": "AJUSTAR=PANTALLA",
-    "description": "SphinxText.xls, row 3134"
+    "message": "AJUSTAR=PANTALLA"
   },
   "HT_Text_Menu_WidescreenON": {
-    "message": "PANORÁMICA==SÍ",
-    "description": "SphinxText.xls, row 3135"
+    "message": "PANORÁMICA==SÍ"
   },
   "HT_Text_Menu_WidescreenOFF": {
-    "message": "PANORÁMICA==NO",
-    "description": "SphinxText.xls, row 3136"
+    "message": "PANORÁMICA==NO"
   },
   "HT_Text_Menu_Volume": {
-    "message": "VOLUMEN",
-    "description": "SphinxText.xls, row 3137"
+    "message": "VOLUMEN"
   },
   "HT_Text_Menu_SoundFX": {
-    "message": "EFECTOS=DE=SONIDO",
-    "description": "SphinxText.xls, row 3138"
+    "message": "EFECTOS=DE=SONIDO"
   },
   "HT_Text_Menu_Music": {
-    "message": "MÚSICA",
-    "description": "SphinxText.xls, row 3139"
+    "message": "MÚSICA"
   },
   "HT_Text_Menu_SurroundON": {
-    "message": "SURROUND",
-    "description": "SphinxText.xls, row 3140"
+    "message": "SURROUND"
   },
   "HT_Text_Menu_SurroundOFF": {
-    "message": "ESTÉREO",
-    "description": "SphinxText.xls, row 3141"
+    "message": "ESTÉREO"
   },
   "HT_Text_Menu_Mono": {
-    "message": "MONO",
-    "description": "SphinxText.xls, row 3142"
+    "message": "MONO"
   },
   "HT_Text_Menu_Videos": {
-    "message": "VÍDEOS",
-    "description": "SphinxText.xls, row 3143"
+    "message": "VÍDEOS"
   },
   "HT_Text_Menu_QuitLevel": {
-    "message": "SALIR=DE=NIVEL",
-    "description": "SphinxText.xls, row 3144"
+    "message": "SALIR=DE=NIVEL"
   },
   "HT_Text_Menu_NTSC": {
-    "message": "FRECUENCIA==60",
-    "description": "SphinxText.xls, row 3145"
+    "message": "FRECUENCIA==60"
   },
   "HT_Text_Menu_PAL": {
-    "message": "FRECUENCIA==50",
-    "description": "SphinxText.xls, row 3146"
+    "message": "FRECUENCIA==50"
   },
   "HT_Text_Menu_QuitQuestion": {
-    "message": "¿Abandonar partida? ",
-    "description": "SphinxText.xls, row 3147"
+    "message": "¿Abandonar partida? "
   },
   "HT_Text_Menu_Paused": {
-    "message": "PAUSA",
-    "description": "SphinxText.xls, row 3148"
+    "message": "PAUSA"
   },
   "HT_Text_Menu_QuitLevQuestion": {
-    "message": "¿Abandonar nivel?",
-    "description": "SphinxText.xls, row 3149"
+    "message": "¿Abandonar nivel?"
   },
   "HT_Text_Menu_StartGame": {
-    "message": "Iniciar partida",
-    "description": "SphinxText.xls, row 3150"
+    "message": "Iniciar partida"
   },
   "HT_Text_Menu_SaveOver": {
-    "message": "Guardar durante la partida",
-    "description": "SphinxText.xls, row 3151"
+    "message": "Guardar durante la partida"
   },
   "HT_Text_Menu_UseSlot": {
-    "message": "Usar esta ranura",
-    "description": "SphinxText.xls, row 3152"
+    "message": "Usar esta ranura"
   },
   "HT_Text_Menu_LoadGame": {
-    "message": "Cargar esta partida",
-    "description": "SphinxText.xls, row 3153"
+    "message": "Cargar esta partida"
   },
   "HT_Text_Menu_EmptySlot": {
-    "message": "[ vacía ]",
-    "description": "SphinxText.xls, row 3154"
+    "message": "[ vacía ]"
   },
   "HT_Text_Menu_CorruptSlot": {
-    "message": "[ dañada ]",
-    "description": "SphinxText.xls, row 3155"
+    "message": "[ dañada ]"
   },
   "HT_Text_Menu_Scarabs": {
-    "message": " Skarabs",
-    "description": "SphinxText.xls, row 3156"
+    "message": " Skarabs"
   },
   "HT_Text_Menu_InvertON": {
-    "message": "INVERTIR=CÁMARA==SÍ",
-    "description": "SphinxText.xls, row 3157"
+    "message": "INVERTIR=CÁMARA==SÍ"
   },
   "HT_Text_Menu_InvertOFF": {
-    "message": "INVERTIR=CÁMARA==NO",
-    "description": "SphinxText.xls, row 3158"
+    "message": "INVERTIR=CÁMARA==NO"
   },
   "HT_Text_Menu_SwapXYON": {
-    "message": "CAMBIAR=CÁMARA=X==SÍ",
-    "description": "SphinxText.xls, row 3159"
+    "message": "CAMBIAR=CÁMARA=X==SÍ"
   },
   "HT_Text_Menu_SwapXYOFF": {
-    "message": "CAMBIAR=CÁMARA=X==NO",
-    "description": "SphinxText.xls, row 3160"
+    "message": "CAMBIAR=CÁMARA=X==NO"
   },
   "HT_Text_Menu_Cancel": {
-    "message": "CANCELAR",
-    "description": "SphinxText.xls, row 3161"
+    "message": "CANCELAR"
   },
   "HT_Text_Menu_Reset": {
-    "message": "RESTAURAR",
-    "description": "SphinxText.xls, row 3162"
+    "message": "RESTAURAR"
   },
   "HT_Text_Credits1": {
-    "message": "\\n\\nTHQ Nordic GmbH\n\\n\\n\n\\nProgrammer & PC Conversion:\n\\nIsmael Ferreras Morezuelas (Swyter)\n\\n\n\\nExecutive Producer:\n\\nReinhard Pollice\n\\n \n\\nLocalization Manager:\n\\nGennaro Giani\n\\n \n\\nPR & Marketing Director:   \n\\nPhilipp Brock\n\\n\n\\nPR & Marketing:\n\\nFlorian Emmerich\n\\nStephanie Harman\n\\nLina Berehi\n\\n\n\\nPublishing Director:\n\\nJan Binsmaier\n\\n\n\\nPublishing Project Management:\n\\nBarbara Kugler\n\\n\n\\nSocial Media Manager: \n\\nManuel Karl\n\\n\n\\nLead Graphic Artist:\n\\nErnst Satzinger\n\\n\n\\nGraphic Asset Assistant: \n\\nTobias Grimus\n\\nPeter Hambsch\n\\nJanet Weiss\n\\n \n\\nAge Rating Coordinator:\n\\nThomas Reisinger\n\\n\n\\nWeb Developer:\n\\nNina Trabe\n\\n\n\\nSales Director:\n\\nGeorg Klotzberg\n\\n \n\\nSales:\n\\nReinhold Schor\n\\nNik Blower\n\\nIan Warley\n\\nJeremy Soulet\n\\n \n\\nDigital Distribution:\n\\nThomas Reisinger\n\\nTim Grainer\n\\n \n\\nManufacturing:\n\\nAnton Seicarescu\n\\n \n\\nAccounting & Office Management:\n\\nMarion Mayer\n\\nAnton Seicarescu\n\\n \n\\nBusiness & Product Development Director: \n\\nReinhard Pollice\n\\n \n\\nTHQ Nordic Management:\n\\nKlemens Kreuzer\n\\nLars Wingefors\n\\n  \n\\nTHQ Nordic Inc.\n\\nAdrienne Lauer\n\\nEric Wuestmann\n\\nKlemens Kreuzer\n\\n\n\\n\\n\\nDesigned and developed by\\nEurocom Entertainment Software\n\\n\\n\\nPRODUCTION\n\\nVictor Garrido\n\\nPadraig Crowley\n\\n\n\\nGAME PROGRAMMING\n\\nMartin Hall\n\\nRichard Teather\n\\nChris Jordan\n\\nDaniel Peake\n\\nGraeme Richardson\n\\nGraham Reeves\n\\nLenny Johnson\n\\nMat Sneap\n\\n\n\\nENVIRONMENTS\n\\nJoaquin Catala Retortillo\n\\nAdrian Mannion\n\\nAlex Huguet Paredes\n\\nAna Amat Marco\n\\nColin Garrat\n\\nDavid Munoz Velazquez\n\\nLuis Gomez Guzman\n\\nStefan Scheffers\n\\nWilli Hammes\n\\n\n\\nCHARACTERS/ASSETS\n\\nJulian Romero \n\\nAbraham Meneu Oset\n\\nAmanda Barlow\n\\nBarry Lawless\n\\nJuan Solis\n\\nLars Verhoeff\n\\nPaul Harrison\n\\n\n\\nLEVEL DESIGN\n\\nMartin Kilcoyne\n\\nAndy Collins\n\\nDarren Weekes\n\\nJohn Barker\n\\nKarl Gillott\n\\nPhil Bennett\n\\nStuart Bee\n\\n\n\\nANIMATION\n\\nJose Luis Garcia Camara\n\\nAlberto Corral Arencibia\n\\nBobby Stockport\n\\nCarlos Fernandez Puertolas\n\\nDaniel Meitin Roca\n\\nEnrique Oliva\n\\nSantiago Colomo Martinez\n\\nSyd Franklin\n\\n\n\\nENGINE PROGRAMMING\n\\nChris Jackson\n\\nIan Denny\n\\nAndy Hutchings\n\\nAshley Finney\n\\nDave Looker\n\\nJL\n\\nJulian Vaughan\n\\nKev Stainwright\n\\nShane Clark\n\\nSteven Walker\n\\nTim Rogers\n\\n\n\\nTOOLS\n\\nAndy Mitchell\n\\nBob Smith\n\\nDiego Garcia Huerta\n\\nJim Makin\n\\nKev Marks\n\\nKevin Thacker\n\\n\n\\nAUDIO\n\\nSteve Duckworth\n\\nDuncan Bradshaw\n\\n\n\\nQA\n\\nMichael Robinson\n\\nLouise Sargison\n\\nAndrew Dilks\n\\nAndrew Green\n\\nChristopher Pilkington\n\\nDave Smith\n\\nDominic Hallam\n\\nDominic Hills\n\\nJamie Small\n\\nMatthew Gilchrist\n\\nOliver Madden\n\\nPeter Barrett\n\\nRichard Charles\n\\n\n\\n\n\\nSPECIAL THANKS\n\\nAndrew Dilks\n\\nBrian Riordan\n\\nChris Allen\n\\nChris Boyle\n\\nClive Stevenson\n\\nDuncan Hewitt\n\\nHelen Jones\n\\nHenk Nieborg\n\\nHugh Binns\n\\nJoe Lewis\n\\nJohn Parr\n\\nJosh Andrews\n\\nLasse Louhento\n\\nLudovic Le Camus\n\\nMark Potente\n\\nMartin McBain\n\\nMatt Dixon\n\\nMatt Farrell\n\\nMichael Hirst\n\\nPhil Dobson\n\\nPhil Hackney\n\\nRob Berry\n\\nSteve Gratton\n\\nTom Noone\n\\nUlf Dahl",
-    "description": "SphinxText.xls, row 3163"
+    "message": "\\n\\nTHQ Nordic GmbH\n\\n\\n\n\\nProgrammer & PC Conversion:\n\\nIsmael Ferreras Morezuelas (Swyter)\n\\n\n\\nExecutive Producer:\n\\nReinhard Pollice\n\\n \n\\nLocalization Manager:\n\\nGennaro Giani\n\\n \n\\nPR & Marketing Director:   \n\\nPhilipp Brock\n\\n\n\\nPR & Marketing:\n\\nFlorian Emmerich\n\\nStephanie Harman\n\\nLina Berehi\n\\n\n\\nPublishing Director:\n\\nJan Binsmaier\n\\n\n\\nPublishing Project Management:\n\\nBarbara Kugler\n\\n\n\\nSocial Media Manager: \n\\nManuel Karl\n\\n\n\\nLead Graphic Artist:\n\\nErnst Satzinger\n\\n\n\\nGraphic Asset Assistant: \n\\nTobias Grimus\n\\nPeter Hambsch\n\\nJanet Weiss\n\\n \n\\nAge Rating Coordinator:\n\\nThomas Reisinger\n\\n\n\\nWeb Developer:\n\\nNina Trabe\n\\n\n\\nSales Director:\n\\nGeorg Klotzberg\n\\n \n\\nSales:\n\\nReinhold Schor\n\\nNik Blower\n\\nIan Warley\n\\nJeremy Soulet\n\\n \n\\nDigital Distribution:\n\\nThomas Reisinger\n\\nTim Grainer\n\\n \n\\nManufacturing:\n\\nAnton Seicarescu\n\\n \n\\nAccounting & Office Management:\n\\nMarion Mayer\n\\nAnton Seicarescu\n\\n \n\\nBusiness & Product Development Director: \n\\nReinhard Pollice\n\\n \n\\nTHQ Nordic Management:\n\\nKlemens Kreuzer\n\\nLars Wingefors\n\\n  \n\\nTHQ Nordic Inc.\n\\nAdrienne Lauer\n\\nEric Wuestmann\n\\nKlemens Kreuzer\n\\n\n\\n\\n\\nDesigned and developed by\\nEurocom Entertainment Software\n\\n\\n\\nPRODUCTION\n\\nVictor Garrido\n\\nPadraig Crowley\n\\n\n\\nGAME PROGRAMMING\n\\nMartin Hall\n\\nRichard Teather\n\\nChris Jordan\n\\nDaniel Peake\n\\nGraeme Richardson\n\\nGraham Reeves\n\\nLenny Johnson\n\\nMat Sneap\n\\n\n\\nENVIRONMENTS\n\\nJoaquin Catala Retortillo\n\\nAdrian Mannion\n\\nAlex Huguet Paredes\n\\nAna Amat Marco\n\\nColin Garrat\n\\nDavid Munoz Velazquez\n\\nLuis Gomez Guzman\n\\nStefan Scheffers\n\\nWilli Hammes\n\\n\n\\nCHARACTERS/ASSETS\n\\nJulian Romero \n\\nAbraham Meneu Oset\n\\nAmanda Barlow\n\\nBarry Lawless\n\\nJuan Solis\n\\nLars Verhoeff\n\\nPaul Harrison\n\\n\n\\nLEVEL DESIGN\n\\nMartin Kilcoyne\n\\nAndy Collins\n\\nDarren Weekes\n\\nJohn Barker\n\\nKarl Gillott\n\\nPhil Bennett\n\\nStuart Bee\n\\n\n\\nANIMATION\n\\nJose Luis Garcia Camara\n\\nAlberto Corral Arencibia\n\\nBobby Stockport\n\\nCarlos Fernandez Puertolas\n\\nDaniel Meitin Roca\n\\nEnrique Oliva\n\\nSantiago Colomo Martinez\n\\nSyd Franklin\n\\n\n\\nENGINE PROGRAMMING\n\\nChris Jackson\n\\nIan Denny\n\\nAndy Hutchings\n\\nAshley Finney\n\\nDave Looker\n\\nJL\n\\nJulian Vaughan\n\\nKev Stainwright\n\\nShane Clark\n\\nSteven Walker\n\\nTim Rogers\n\\n\n\\nTOOLS\n\\nAndy Mitchell\n\\nBob Smith\n\\nDiego Garcia Huerta\n\\nJim Makin\n\\nKev Marks\n\\nKevin Thacker\n\\n\n\\nAUDIO\n\\nSteve Duckworth\n\\nDuncan Bradshaw\n\\n\n\\nQA\n\\nMichael Robinson\n\\nLouise Sargison\n\\nAndrew Dilks\n\\nAndrew Green\n\\nChristopher Pilkington\n\\nDave Smith\n\\nDominic Hallam\n\\nDominic Hills\n\\nJamie Small\n\\nMatthew Gilchrist\n\\nOliver Madden\n\\nPeter Barrett\n\\nRichard Charles\n\\n\n\\n\n\\nSPECIAL THANKS\n\\nAndrew Dilks\n\\nBrian Riordan\n\\nChris Allen\n\\nChris Boyle\n\\nClive Stevenson\n\\nDuncan Hewitt\n\\nHelen Jones\n\\nHenk Nieborg\n\\nHugh Binns\n\\nJoe Lewis\n\\nJohn Parr\n\\nJosh Andrews\n\\nLasse Louhento\n\\nLudovic Le Camus\n\\nMark Potente\n\\nMartin McBain\n\\nMatt Dixon\n\\nMatt Farrell\n\\nMichael Hirst\n\\nPhil Dobson\n\\nPhil Hackney\n\\nRob Berry\n\\nSteve Gratton\n\\nTom Noone\n\\nUlf Dahl"
   },
   "HT_Text_Credits2": {
-    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avilés \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts ",
-    "description": "SphinxText.xls, row 3164"
+    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avilés \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts "
   },
   "HT_Text_Credits3": {
-    "message": "\\n\\n\\nTHQ MARKETING \n\\n\\nDIRECTOR, GLOBAL BRAND \n\\nMANAGEMENT \n\\nAlison Quiron \n\\n  \n\\nPRODUCT MARKETING \n\\nMANAGER \n\\nMonica Guerra Robinson \n\\nDamian Garcia \n\\n  \n\\nSENIOR VICE PRESIDENT, \n\\nWORLDWIDE MARKETING \n\\nPeter Dille \n\\n  \n\\nDIRECTOR, CREATIVE \n\\nSERVICES \n\\nHoward Liebeskind \n\\n  \n\\nSENIOR MANAGER, \n\\nCREATIVE SERVICES \n\\nKathy Helgason \n\\n  \n\\nCREATIVE SERVICES MANAGER \n\\nKirk Somdal \n\\n  \n\\nINSTRUCTION MANUAL TEXT \n\\nRusel DeMaria \n\\n  \n\\nDIRECTOR, BUSINESS \n\\nDEVELOPMENT \n\\nDan Kelly \n\\n  \n\\nMANAGER, PRODUCTION \n\\nRESOURCES \n\\nJenae Pash \n\\n  \n\\nPRODUCTION RESOURCES \n\\nCOORDINATOR \n\\nHeather Leonard \n\\n  \n\\nHEAD OF BRAND MANAGEMENT \n\\nMichael Pattison\n\\n\n\\nBRAND MANAGER \n\\nMickey Torode \n\\n  \n\\nDIRECTOR OF LOCALIZATION \n\\nSusanne Dieck \n\\n  \n\\nLOCALIZATION ENGINEER \n\\nBernd Kurtz \n\\n  \n\\nSUBMISSION COORDINATOR \n\\nFlorence Kum \n\\n  \n\\nSPECIAL THANKS \n\\nBrian Farrell \n\\nJack Sorensen \n\\nTerri Schiek \n\\nGermaine Gioia \n\\nLeslie Brown \n\\nBrandy A. Carrillo \n\\nTiffany Ternan \n\\nRobert Riley \n\\nJack Suzuki \n\\nGordon Madison \n\\nRicardo Fischer \n\\nChristian Kenney \n\\nPaul Rivas \n\\nStacey Mendoza \n\\nJulian Brummitt \n\\n  \n\\n--\n\\n  \n\\nThe restored version of Sphinx would not have been possible \n\\nwithout the following open-source libraries:  \n\\n  \n\\n  \n\\nSDL 2.0 - By Sam Lantinga, Ryan C. Gordon and contributors \n\\nhttps://www.libsdl.org (zlib license) \n\\n  \n\\n  \n\\nOpenAL Soft - By Chris Robinson and contributors \n\\nhttp://kcat.strangesoft.net/openal.html (LGPL 2 license) \n\\n  \n\\n  \n\\nxxHash - By Yann Collet and contributors \n\\nhttps://github.com/Cyan4973/xxHash (BSD 2-Clause license) \n\\n  \n\\n  \n\\nstb_image - By Sean Barrett and contributors \n\\nhttps://github.com/nothings/stb (Public domain)",
-    "description": "SphinxText.xls, row 3165"
+    "message": "\\n\\n\\nTHQ MARKETING \n\\n\\nDIRECTOR, GLOBAL BRAND \n\\nMANAGEMENT \n\\nAlison Quiron \n\\n  \n\\nPRODUCT MARKETING \n\\nMANAGER \n\\nMonica Guerra Robinson \n\\nDamian Garcia \n\\n  \n\\nSENIOR VICE PRESIDENT, \n\\nWORLDWIDE MARKETING \n\\nPeter Dille \n\\n  \n\\nDIRECTOR, CREATIVE \n\\nSERVICES \n\\nHoward Liebeskind \n\\n  \n\\nSENIOR MANAGER, \n\\nCREATIVE SERVICES \n\\nKathy Helgason \n\\n  \n\\nCREATIVE SERVICES MANAGER \n\\nKirk Somdal \n\\n  \n\\nINSTRUCTION MANUAL TEXT \n\\nRusel DeMaria \n\\n  \n\\nDIRECTOR, BUSINESS \n\\nDEVELOPMENT \n\\nDan Kelly \n\\n  \n\\nMANAGER, PRODUCTION \n\\nRESOURCES \n\\nJenae Pash \n\\n  \n\\nPRODUCTION RESOURCES \n\\nCOORDINATOR \n\\nHeather Leonard \n\\n  \n\\nHEAD OF BRAND MANAGEMENT \n\\nMichael Pattison\n\\n\n\\nBRAND MANAGER \n\\nMickey Torode \n\\n  \n\\nDIRECTOR OF LOCALIZATION \n\\nSusanne Dieck \n\\n  \n\\nLOCALIZATION ENGINEER \n\\nBernd Kurtz \n\\n  \n\\nSUBMISSION COORDINATOR \n\\nFlorence Kum \n\\n  \n\\nSPECIAL THANKS \n\\nBrian Farrell \n\\nJack Sorensen \n\\nTerri Schiek \n\\nGermaine Gioia \n\\nLeslie Brown \n\\nBrandy A. Carrillo \n\\nTiffany Ternan \n\\nRobert Riley \n\\nJack Suzuki \n\\nGordon Madison \n\\nRicardo Fischer \n\\nChristian Kenney \n\\nPaul Rivas \n\\nStacey Mendoza \n\\nJulian Brummitt \n\\n  \n\\n--\n\\n  \n\\nThe restored version of Sphinx would not have been possible \n\\nwithout the following open-source libraries:  \n\\n  \n\\n  \n\\nSDL 2.0 - By Sam Lantinga, Ryan C. Gordon and contributors \n\\nhttps://www.libsdl.org (zlib license) \n\\n  \n\\n  \n\\nOpenAL Soft - By Chris Robinson and contributors \n\\nhttp://kcat.strangesoft.net/openal.html (LGPL 2 license) \n\\n  \n\\n  \n\\nxxHash - By Yann Collet and contributors \n\\nhttps://github.com/Cyan4973/xxHash (BSD 2-Clause license) \n\\n  \n\\n  \n\\nstb_image - By Sean Barrett and contributors \n\\nhttps://github.com/nothings/stb (Public domain)"
   },
   "HT_Text_FE_Menu_ToggleReverb": {
-    "message": "REVERBERAR",
-    "description": "SphinxText.xls, row 3166"
+    "message": "REVERBERAR"
   },
   "HT_Text_FE_Menu_FieldOfView": {
-    "message": "CAMPO DE VISIÓN",
-    "description": "SphinxText.xls, row 3167"
+    "message": "CAMPO DE VISIÓN"
   },
   "HT_Text_FE_Menu_Resolution": {
-    "message": "RESOLUCIÓN",
-    "description": "SphinxText.xls, row 3168"
+    "message": "RESOLUCIÓN"
   },
   "HT_Text_FE_Menu_ChooseScreen": {
-    "message": "UTILIZAR PANTALLA",
-    "description": "SphinxText.xls, row 3169"
+    "message": "UTILIZAR PANTALLA"
   },
   "HT_Text_FE_Menu_ToggleParticles": {
-    "message": "PARTÍCULAS",
-    "description": "SphinxText.xls, row 3170"
+    "message": "PARTÍCULAS"
   },
   "HT_Text_FE_Menu_ToggleParticles_Limited": {
-    "message": "LIMITADAS",
-    "description": "SphinxText.xls, row 3171"
+    "message": "LIMITADAS"
   },
   "HT_Text_FE_Menu_ToggleParticles_Soft": {
-    "message": "SUAVES",
-    "description": "SphinxText.xls, row 3172"
+    "message": "SUAVES"
   },
   "HT_Text_FE_Menu_Anisotropy": {
-    "message": "SUAVIZAR TEXTURAS",
-    "description": "SphinxText.xls, row 3173"
+    "message": "SUAVIZAR TEXTURAS"
   },
   "HT_Text_FE_Menu_MultiSampling": {
-    "message": "MUESTREO MÚLTIPLE",
-    "description": "SphinxText.xls, row 3174"
+    "message": "MUESTREO MÚLTIPLE"
   },
   "HT_Text_FE_Menu_Vsync": {
-    "message": "SINC. VERTICAL",
-    "description": "SphinxText.xls, row 3175"
+    "message": "SINC. VERTICAL"
   },
   "HT_Text_FE_Menu_VsyncAdaptive": {
-    "message": "ADAPTABLE",
-    "description": "SphinxText.xls, row 3176"
+    "message": "ADAPTABLE"
   },
   "HT_Text_FE_Menu_RestartGame": {
-    "message": "REINICIAR JUEGO",
-    "description": "SphinxText.xls, row 3177"
+    "message": "REINICIAR JUEGO"
   },
   "HT_Text_FE_ResolutionRequiresRestart": {
-    "message": "Para cambiar la resolución hay que reiniciar el juego.",
-    "description": "SphinxText.xls, row 3178"
+    "message": "Para cambiar la resolución hay que reiniciar el juego."
   },
   "HT_Text_FE_ResolutionBorderless": {
-    "message": "SIN BORDES",
-    "description": "SphinxText.xls, row 3179"
+    "message": "SIN BORDES"
   },
   "HT_Text_FE_ResolutionWindowed": {
-    "message": "VENTANA",
-    "description": "SphinxText.xls, row 3180"
+    "message": "VENTANA"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": " grad",
-    "description": "SphinxText.xls, row 3181"
+    "message": " grad"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes la <FC 0,128,0>Cerbatana<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Los dardos mágicos que lanza este poderoso instrumento<N>se regeneran, por lo que son infinitos.<P><ES HT_Text_ES_S_HelpText><CNTR>Puedes usarlos para llegar a blancos lejanos, pero sólo<N>tienen potencia para hacer daño a monstruos explosivos.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Usa <SB HT_PadAction_HUD_ShowRotator> para asignar un botón para la <FC 0,128,0>Cerbatana<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Una vez asignada la <FC 0,128,0>Cerbatana<END FC>, pulsa<N>ese botón para activar el modo en primera persona.<P><ES HT_Text_ES_S_HelpText><CNTR>Pulsa <SB HT_Action_FireDart> para disparar.<P><ES HT_Text_ES_S_HelpText><CNTR>Mantén pulsado <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> o <SB HT_PadAction_GYR_Right> mientras mueves el Joy-Con izquierdo para apuntar con los controles de movimiento giroscópicos.<P><ES HT_Text_ES_S_HelpText><CNTR>Pulsa <SB HT_Action_Cancel> para salir<N>del modo <FC 0,128,0>Cerbatana<END FC>.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 3182"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes la <FC 0,128,0>Cerbatana<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Los dardos mágicos que lanza este poderoso instrumento<N>se regeneran, por lo que son infinitos.<P><ES HT_Text_ES_S_HelpText><CNTR>Puedes usarlos para llegar a blancos lejanos, pero sólo<N>tienen potencia para hacer daño a monstruos explosivos.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Usa <SB HT_PadAction_HUD_ShowRotator> para asignar un botón para la <FC 0,128,0>Cerbatana<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Una vez asignada la <FC 0,128,0>Cerbatana<END FC>, pulsa<N>ese botón para activar el modo en primera persona.<P><ES HT_Text_ES_S_HelpText><CNTR>Pulsa <SB HT_Action_FireDart> para disparar.<P><ES HT_Text_ES_S_HelpText><CNTR>Mantén pulsado <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> o <SB HT_PadAction_GYR_Right> mientras mueves el Joy-Con izquierdo para apuntar con los controles de movimiento giroscópicos.<P><ES HT_Text_ES_S_HelpText><CNTR>Pulsa <SB HT_Action_Cancel> para salir<N>del modo <FC 0,128,0>Cerbatana<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   }
 }

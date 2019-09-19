@@ -1,550 +1,413 @@
 {
   "HT_Text_Lux_pyra_sacrifice_2a": {
-    "message": "폐하, 건물에 침입자가 있습니다!<E>",
-    "description": "SphinxText.xls, row 1904"
+    "message": "폐하, 건물에 침입자가 있습니다!<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_2b": {
-    "message": "뭐야?! 죽여라! 이 의식을 방해해서는 안 된다!<E>",
-    "description": "SphinxText.xls, row 1905"
+    "message": "뭐야?! 죽여라! 이 의식을 방해해서는 안 된다!<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_2c": {
-    "message": "잠깐만... 무엇인가 느껴진다...<W 60>",
-    "description": "SphinxText.xls, row 1906"
+    "message": "잠깐만... 무엇인가 느껴진다...<W 60>"
   },
   "HT_Text_Lux_pyra_sacrifice_2d": {
-    "message": "성안의 버림받은 영혼이여, 깨어나라! 일어나서 침입자를 죽여라!<W 120>",
-    "description": "SphinxText.xls, row 1907"
+    "message": "성안의 버림받은 영혼이여, 깨어나라! 일어나서 침입자를 죽여라!<W 120>"
   },
   "HT_Text_Lux_pyra_sacrifice_3a": {
-    "message": "<EFF><EPO>뭐였지? 이런! 다시 시작해야만 하겠군...<P>저기다! 저기에 우리의 의식을 망친 훼방꾼이 있다...<E>",
-    "description": "SphinxText.xls, row 1908"
+    "message": "<EFF><EPO>뭐였지? 이런! 다시 시작해야만 하겠군...<P>저기다! 저기에 우리의 의식을 망친 훼방꾼이 있다...<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_3b": {
-    "message": "이 바보녀석! 마법 장치를 꺼라! 폭발하려는 것이 안 보이느냐!<W 120><E>",
-    "description": "SphinxText.xls, row 1909"
+    "message": "이 바보녀석! 마법 장치를 꺼라! 폭발하려는 것이 안 보이느냐!<W 120><E>"
   },
   "HT_Text_Lux_pyra_sacrifice_3c": {
-    "message": "우리를 빨아들이고 있다! 안돼!!!<W 60>",
-    "description": "SphinxText.xls, row 1910"
+    "message": "우리를 빨아들이고 있다! 안돼!!!<W 60>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_a": {
-    "message": "오! 구해줘서 고맙습니다, 하지만 나의 사랑하는 투트가 죽었어요! 그가 없이 어떻게 살아간단 말인가요?<E>",
-    "description": "SphinxText.xls, row 1911"
+    "message": "오! 구해줘서 고맙습니다, 하지만 나의 사랑하는 투트가 죽었어요! 그가 없이 어떻게 살아간단 말인가요?<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_b": {
-    "message": "이 병이 그의 마지막 전부에요. 그 영혼의 일부가 안에 있다고 믿어요.<E>",
-    "description": "SphinxText.xls, row 1912"
+    "message": "이 병이 그의 마지막 전부에요. 그 영혼의 일부가 안에 있다고 믿어요.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_c": {
-    "message": "당신이 가지길 바래요. 당신만이 그를 다시 돌아오게 할 수 있을 것 같아요.<E>",
-    "description": "SphinxText.xls, row 1913"
+    "message": "당신이 가지길 바래요. 당신만이 그를 다시 돌아오게 할 수 있을 것 같아요.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_c1": {
-    "message": "제발, 그를 찾아서 저에게 다시 데려와 주세요. 오, 투트! 왜 당신에게 이런 일이?<E>",
-    "description": "SphinxText.xls, row 1914"
+    "message": "제발, 그를 찾아서 저에게 다시 데려와 주세요. 오, 투트! 왜 당신에게 이런 일이?<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_d": {
-    "message": "떠나기 전에, 이것을 받아요. 이것은 투트가 나에게 준 부적 이예요, 그는 이것에 관심이 많았지만 저는 그 이유를 모르겠어요. 저에게는 단순히 하나의 부적일 뿐 이예요.<E>",
-    "description": "SphinxText.xls, row 1915"
+    "message": "떠나기 전에, 이것을 받아요. 이것은 투트가 나에게 준 부적 이예요, 그는 이것에 관심이 많았지만 저는 그 이유를 모르겠어요. 저에게는 단순히 하나의 부적일 뿐 이예요.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_e": {
-    "message": "스핑크스, 가능한 빨리 <FC 128,64,0>헬리오폴리스<END FC>에서 나와 만나야 한다.<E>",
-    "description": "SphinxText.xls, row 1916"
+    "message": "스핑크스, 가능한 빨리 <FC 128,64,0>헬리오폴리스<END FC>에서 나와 만나야 한다.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_e1": {
-    "message": "이 사건들은 매우 불길한 일이 벌어지고 있다는 확실한 증거다.<E>",
-    "description": "SphinxText.xls, row 1917"
+    "message": "이 사건들은 매우 불길한 일이 벌어지고 있다는 확실한 증거다.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_f": {
-    "message": "<EFF><EPO>의식 동안에 작용하던 힘들은 나에게는 너무 강력하고 악마적이었다.<P>우리는 그 힘이 진정한 위협이 되기 전에 그 근원을 반드시 찾아야만 한다.<E>",
-    "description": "SphinxText.xls, row 1918"
+    "message": "<EFF><EPO>의식 동안에 작용하던 힘들은 나에게는 너무 강력하고 악마적이었다.<P>우리는 그 힘이 진정한 위협이 되기 전에 그 근원을 반드시 찾아야만 한다.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_g": {
-    "message": "그 <FC 0,128,0>포털 부적<END FC>으로 이 곳을 떠나기 위해 입구에 있는 포털을 사용할 수 있다.<E>",
-    "description": "SphinxText.xls, row 1919"
+    "message": "그 <FC 0,128,0>포털 부적<END FC>으로 이 곳을 떠나기 위해 입구에 있는 포털을 사용할 수 있다.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_g1": {
-    "message": "이번에도 네가 어디로 보내지는 지 알 수 없지만 어디가 되든 헬리오폴리스로 가는 길을 찾아야만 한다.<E>",
-    "description": "SphinxText.xls, row 1920"
+    "message": "이번에도 네가 어디로 보내지는 지 알 수 없지만 어디가 되든 헬리오폴리스로 가는 길을 찾아야만 한다.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_h": {
-    "message": "네퍼르티티는 걱정하지 마라. 내가 이곳에서 그녀를 탈출시킬 방법을 찾아보마.<E>",
-    "description": "SphinxText.xls, row 1921"
+    "message": "네퍼르티티는 걱정하지 마라. 내가 이곳에서 그녀를 탈출시킬 방법을 찾아보마.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_I": {
-    "message": "이 <FC 0,128,0>황금 앙크<END FC>를 가져가라. 네가 여행에서 언젠가 부딪히게 될 위험에서 너를 도와줄 것이다.<E>",
-    "description": "SphinxText.xls, row 1922"
+    "message": "이 <FC 0,128,0>황금 앙크<END FC>를 가져가라. 네가 여행에서 언젠가 부딪히게 될 위험에서 너를 도와줄 것이다.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_m": {
-    "message": "행운을 빈다, 스핑크스.<W 60>",
-    "description": "SphinxText.xls, row 1923"
+    "message": "행운을 빈다, 스핑크스.<W 60>"
   },
   "HT_Text_Lux_Pyramid_Help_GotShield": {
-    "message": "<N><CNTR><FC 0,128,0>오시리스의 방패<END FC>를 구했다!<P><CNTR>이 가장 고대의 유물은 위대한 신 오시리스 자신이 장착했다고 전해진다!<P><CNTR>여러 종류의 적 공격과 그 외 위험물들로부터 네 자신을 보호하기 위하여 사용할 수 있다.<E>",
-    "description": "SphinxText.xls, row 1924"
+    "message": "<N><CNTR><FC 0,128,0>오시리스의 방패<END FC>를 구했다!<P><CNTR>이 가장 고대의 유물은 위대한 신 오시리스 자신이 장착했다고 전해진다!<P><CNTR>여러 종류의 적 공격과 그 외 위험물들로부터 네 자신을 보호하기 위하여 사용할 수 있다.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_NeedAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>포털 부적<END FC>이 없이는 포털 신은 통과시켜 주지 않을 것이다.<E>",
-    "description": "SphinxText.xls, row 1925"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>포털 부적<END FC>이 없이는 포털 신은 통과시켜 주지 않을 것이다.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_AmuletAccepted": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR> 포털 신은 너의 신임장을 인정하고 <FC 128,64,0>아비도스<END FC>로의 운송을 제공할 것이다...<E>",
-    "description": "SphinxText.xls, row 1926"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR> 포털 신은 너의 신임장을 인정하고 <FC 128,64,0>아비도스<END FC>로의 운송을 제공할 것이다...<E>"
   },
   "HT_Text_Lux_Pyramid_Help_UsePortal": {
-    "message": "포털을 이용합니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 1927"
+    "message": "포털을 이용합니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotPortalAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>포털 부적<END FC> 하나 얻었다!<P><N><CNTR>이 황금 유물은 포털 신을 기리기 위하여 만들어졌다.<E>",
-    "description": "SphinxText.xls, row 1928"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>포털 부적<END FC> 하나 얻었다!<P><N><CNTR>이 황금 유물은 포털 신을 기리기 위하여 만들어졌다.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotCanopicVase": {
-    "message": "<N><CNTR><FC 0,128,0>납골단지<END FC>를 하나 얻었다!<P><N><CNTR>투탕카멘의 영혼의 일부가 안에 저장되어있다.<E>",
-    "description": "SphinxText.xls, row 1929"
+    "message": "<N><CNTR><FC 0,128,0>납골단지<END FC>를 하나 얻었다!<P><N><CNTR>투탕카멘의 영혼의 일부가 안에 저장되어있다.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotGoldKey": {
-    "message": "<N><CNTR><FC 0,128,0>황금 열쇠<END FC>를 하나 발견하였다!<E>",
-    "description": "SphinxText.xls, row 1930"
+    "message": "<N><CNTR><FC 0,128,0>황금 열쇠<END FC>를 하나 발견하였다!<E>"
   },
   "HT_Text_Lux_Pyramid_NefertitiHU17_KillEnemies": {
-    "message": "나와 이야기할 시간이 없다! 그 끔찍한 괴물들을 제거하라!<E>",
-    "description": "SphinxText.xls, row 1931"
+    "message": "나와 이야기할 시간이 없다! 그 끔찍한 괴물들을 제거하라!<E>"
   },
   "HT_Text_Lux_Pyramid_NefertitiHU17_Go": {
-    "message": "떠나야 한다! 여기서 할 수 있는 것은 아무 것도 없다.<E>",
-    "description": "SphinxText.xls, row 1932"
+    "message": "떠나야 한다! 여기서 할 수 있는 것은 아무 것도 없다.<E>"
   },
   "HT_Text_Lux_pala_Guard_a": {
-    "message": "좋은 아침입니다, 왕자님, 그리고 생신 축하 드립니다!<E>",
-    "description": "SphinxText.xls, row 1934"
+    "message": "좋은 아침입니다, 왕자님, 그리고 생신 축하 드립니다!<E>"
   },
   "HT_Text_Lux_pala_Guard_b": {
-    "message": "네퍼르티티님께서 찾고 계셨습니다. 매우 중요한 일이라고 하셨습니다, 그리고 의전실로 가시기 전에 <FC 128,64,0>안마당<END FC>에서 뵙고 싶다고 하셨습니다.<E>",
-    "description": "SphinxText.xls, row 1935"
+    "message": "네퍼르티티님께서 찾고 계셨습니다. 매우 중요한 일이라고 하셨습니다, 그리고 의전실로 가시기 전에 <FC 128,64,0>안마당<END FC>에서 뵙고 싶다고 하셨습니다.<E>"
   },
   "HT_Text_Lux_pala_Guard_c": {
-    "message": "폐하, 네퍼르티티님께서 의전실로 가시기 전에 <FC 128,64,0>안마당<END FC>에서 뵈어야 한다고 강조하셨습니다. 아뢰옵건데, 급한 일 같았사옵니다... <E>",
-    "description": "SphinxText.xls, row 1936"
+    "message": "폐하, 네퍼르티티님께서 의전실로 가시기 전에 <FC 128,64,0>안마당<END FC>에서 뵈어야 한다고 강조하셨습니다. 아뢰옵건데, 급한 일 같았사옵니다... <E>"
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_a": {
-    "message": "네퍼르티티님, 투탕카멘 왕자께서 청혼을 하신 것을 알고 있습니다. <E> ",
-    "description": "SphinxText.xls, row 1937"
+    "message": "네퍼르티티님, 투탕카멘 왕자께서 청혼을 하신 것을 알고 있습니다. <E> "
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_a1": {
-    "message": "어떤 자라도 이렇게 말씀 드리겠지만, 가장 논리적인 선택이 항상 가장 현명할 필요는 없다는 것입니다. 예를 들면 그의 형제이신 아크헨나덴님과 결혼을 한다면 예기치 못한 이점이 있을 지도 모릅니다...<E>",
-    "description": "SphinxText.xls, row 1938"
+    "message": "어떤 자라도 이렇게 말씀 드리겠지만, 가장 논리적인 선택이 항상 가장 현명할 필요는 없다는 것입니다. 예를 들면 그의 형제이신 아크헨나덴님과 결혼을 한다면 예기치 못한 이점이 있을 지도 모릅니다...<E>"
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_b": {
-    "message": "미래가 어떻게 변할 지 누가 알겠습니까? 잘 생각해 보셔야 합니다, 네퍼르티티님... <E>",
-    "description": "SphinxText.xls, row 1939"
+    "message": "미래가 어떻게 변할 지 누가 알겠습니까? 잘 생각해 보셔야 합니다, 네퍼르티티님... <E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_a": {
-    "message": "투탕카멘, 마침내 왔군요!<E>",
-    "description": "SphinxText.xls, row 1940"
+    "message": "투탕카멘, 마침내 왔군요!<E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_b": {
-    "message": "이곳에 제가 읽어야만 하는 중요한 <FC 0,128,0>편지<END FC>가 있어요. 다른 사람이 찾기 전에 가져다 줄 수 있나요?<E>",
-    "description": "SphinxText.xls, row 1941"
+    "message": "이곳에 제가 읽어야만 하는 중요한 <FC 0,128,0>편지<END FC>가 있어요. 다른 사람이 찾기 전에 가져다 줄 수 있나요?<E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_c": {
-    "message": "가져오려고 했지만 광풍이 불어서 날라 가버렸어요. 이제 저 위의 석상의 발에 있어요. <E>",
-    "description": "SphinxText.xls, row 1942"
+    "message": "가져오려고 했지만 광풍이 불어서 날라 가버렸어요. 이제 저 위의 석상의 발에 있어요. <E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_d": {
-    "message": "제발 서둘러줘요! <W 60>",
-    "description": "SphinxText.xls, row 1943"
+    "message": "제발 서둘러줘요! <W 60>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_a": {
-    "message": "훌륭해요! 구했군요! <W 60>",
-    "description": "SphinxText.xls, row 1944"
+    "message": "훌륭해요! 구했군요! <W 60>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_b": {
-    "message": "이 편지에 관해서 당신과 이야기를 해야 해요, 하지만 여기서는 안 되요. 누군가 듣고 있을 지 몰라요. 잠시 후에 궁전의 밖에서 만나요. <E>",
-    "description": "SphinxText.xls, row 1945"
+    "message": "이 편지에 관해서 당신과 이야기를 해야 해요, 하지만 여기서는 안 되요. 누군가 듣고 있을 지 몰라요. 잠시 후에 궁전의 밖에서 만나요. <E>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_c": {
-    "message": "알고 계셔야 할 것들이 있어요... <E>",
-    "description": "SphinxText.xls, row 1946"
+    "message": "알고 계셔야 할 것들이 있어요... <E>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_d": {
-    "message": "...그리고 제발, 나의 사랑하는 투탕카멘, 조심해요! <E>",
-    "description": "SphinxText.xls, row 1947"
+    "message": "...그리고 제발, 나의 사랑하는 투탕카멘, 조심해요! <E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_a": {
-    "message": "오, 내가 제일 좋아하는 조카가 제일 좋아하는 숙모를 만나러 왔군! 생일 축하한다! 나의 소중한 조카여, 많이 컸구나!<E>",
-    "description": "SphinxText.xls, row 1948"
+    "message": "오, 내가 제일 좋아하는 조카가 제일 좋아하는 숙모를 만나러 왔군! 생일 축하한다! 나의 소중한 조카여, 많이 컸구나!<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_b": {
-    "message": "오, <FC 0,128,0>오래된 부적들<END FC>을 몇 개 찾았구나. 이제는 아무도 그것들에 신경을 쓰지 않지. 하지만 나는 최근에 그것들을 찾고 있단다.<E>",
-    "description": "SphinxText.xls, row 1949"
+    "message": "오, <FC 0,128,0>오래된 부적들<END FC>을 몇 개 찾았구나. 이제는 아무도 그것들에 신경을 쓰지 않지. 하지만 나는 최근에 그것들을 찾고 있단다.<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_b1": {
-    "message": "내 손에 쥐고 있은 이것과 같은 부적들을 본 적이 있느냐? <E>",
-    "description": "SphinxText.xls, row 1950"
+    "message": "내 손에 쥐고 있은 이것과 같은 부적들을 본 적이 있느냐? <E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_c": {
-    "message": "궁전 여기저기에 모두 흩어져 있는데 아크헨나덴이 나에게 모으라고 명령을 했다. 수집된 것을 <FC 128,64,0>보석실<END FC>에 저장하고 싶어한다는군.<E>",
-    "description": "SphinxText.xls, row 1951"
+    "message": "궁전 여기저기에 모두 흩어져 있는데 아크헨나덴이 나에게 모으라고 명령을 했다. 수집된 것을 <FC 128,64,0>보석실<END FC>에 저장하고 싶어한다는군.<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_d": {
-    "message": "네 형은 날이 갈수록 변덕이 심해지는 것 같다. 나를 위해서 <FC 0,128,0>오래된 부적들<END FC>을 찾아주겠니, 나의 사랑스런 조카?<P>그것들을 찾아서 궁전을 뒤지고 다니기에는 나는 너무 늙었단다.<E>",
-    "description": "SphinxText.xls, row 1952"
+    "message": "네 형은 날이 갈수록 변덕이 심해지는 것 같다. 나를 위해서 <FC 0,128,0>오래된 부적들<END FC>을 찾아주겠니, 나의 사랑스런 조카?<P>그것들을 찾아서 궁전을 뒤지고 다니기에는 나는 너무 늙었단다.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_a": {
-    "message": "오, 훌륭해! <FC 0,128,0>오래된 부적들<END FC>이 모두 회수되었군! 나에게 너무 친절하구나. <E>",
-    "description": "SphinxText.xls, row 1953"
+    "message": "오, 훌륭해! <FC 0,128,0>오래된 부적들<END FC>이 모두 회수되었군! 나에게 너무 친절하구나. <E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_b": {
-    "message": "괜찮다면, 내 사랑스런 조카여, 마지막 부탁을 하나만 더 들어주렴. 그것들을 <FC 128,64,0>보석실<END FC>에 갔다 둘 수 있겠니? 거기까지 걷기가 힘들구나. <E>",
-    "description": "SphinxText.xls, row 1954"
+    "message": "괜찮다면, 내 사랑스런 조카여, 마지막 부탁을 하나만 더 들어주렴. 그것들을 <FC 128,64,0>보석실<END FC>에 갔다 둘 수 있겠니? 거기까지 걷기가 힘들구나. <E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_c": {
-    "message": "여기에 <FC 128,64,0>보석실<END FC>의 열쇠가 있다. 문이 어디 있는 지 알지. 옆 방의 계단 아래다.<E>",
-    "description": "SphinxText.xls, row 1955"
+    "message": "여기에 <FC 128,64,0>보석실<END FC>의 열쇠가 있다. 문이 어디 있는 지 알지. 옆 방의 계단 아래다.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_d": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>보석실 열쇠<END FC>를 구했다!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 1956"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>보석실 열쇠<END FC>를 구했다!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_a": {
-    "message": "오래오래 장수하거라, 나의 사랑스러운 아우여! <E>",
-    "description": "SphinxText.xls, row 1957"
+    "message": "오래오래 장수하거라, 나의 사랑스러운 아우여! <E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_b": {
-    "message": "모든 이들이 너의 생일을 준비하느라 분주하다. 신기하지... 내 생일 때는 사람들이 그리 동요하지 않은 걸로 기억하는데. <E>",
-    "description": "SphinxText.xls, row 1958"
+    "message": "모든 이들이 너의 생일을 준비하느라 분주하다. 신기하지... 내 생일 때는 사람들이 그리 동요하지 않은 걸로 기억하는데. <E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_c": {
-    "message": "제발, 형제여, 나는 너의 생일파티를 위한 계획들을 마무리 짓느라 바쁘다! <E>",
-    "description": "SphinxText.xls, row 1959"
+    "message": "제발, 형제여, 나는 너의 생일파티를 위한 계획들을 마무리 짓느라 바쁘다! <E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_d": {
-    "message": "마침내 일어났군...  평소처럼 늦는군.<E>",
-    "description": "SphinxText.xls, row 1960"
+    "message": "마침내 일어났군...  평소처럼 늦는군.<E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_a": {
-    "message": "아크헨나덴님, 네퍼르티티가 편지를 가지고 있는 게 분명합니다. 그녀와 대화하기 전에는 제가 가지고 있었습니다! <E>",
-    "description": "SphinxText.xls, row 1961"
+    "message": "아크헨나덴님, 네퍼르티티가 편지를 가지고 있는 게 분명합니다. 그녀와 대화하기 전에는 제가 가지고 있었습니다! <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_b": {
-    "message": "흠, 위험스러워지는 군... 우리의 계획을 빨리 진행해야 한다. 석관들은 다 제자리에 있는가? <E>",
-    "description": "SphinxText.xls, row 1962"
+    "message": "흠, 위험스러워지는 군... 우리의 계획을 빨리 진행해야 한다. 석관들은 다 제자리에 있는가? <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_c": {
-    "message": "예, 폐하, 모든 것이 계획대로 진행 중입니다. <W 60>",
-    "description": "SphinxText.xls, row 1963"
+    "message": "예, 폐하, 모든 것이 계획대로 진행 중입니다. <W 60>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_d": {
-    "message": "<FC 0,128,0>석관 열쇠<END FC> 하나를 무슨 일이 생길 것에 대비하여 여기 여분으로 남겨두겠습니다.<E>",
-    "description": "SphinxText.xls, row 1964"
+    "message": "<FC 0,128,0>석관 열쇠<END FC> 하나를 무슨 일이 생길 것에 대비하여 여기 여분으로 남겨두겠습니다.<E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_e": {
-    "message": "나의 작은 아우가 올해는 예상하지 못했던 깜짝 놀랄 생일을 맞이하겠군.<E>",
-    "description": "SphinxText.xls, row 1965"
+    "message": "나의 작은 아우가 올해는 예상하지 못했던 깜짝 놀랄 생일을 맞이하겠군.<E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_f": {
-    "message": "참으로 예측 불허한 깜짝 쇼이죠, 폐하! <E>",
-    "description": "SphinxText.xls, row 1966"
+    "message": "참으로 예측 불허한 깜짝 쇼이죠, 폐하! <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_g": {
-    "message": "하하하!!! 하하하!!! 이 파티는 이 궁전에서 벌어진 것 중 최고가 될 거야! <E>",
-    "description": "SphinxText.xls, row 1967"
+    "message": "하하하!!! 하하하!!! 이 파티는 이 궁전에서 벌어진 것 중 최고가 될 거야! <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_a": {
-    "message": "모두 준비하고 있다가 파티가 시작되면 워프 석관들을 이용하여 궁전으로 들어와라. 궁전을 신속하게 점령 하여야만 한다. <E>",
-    "description": "SphinxText.xls, row 1968"
+    "message": "모두 준비하고 있다가 파티가 시작되면 워프 석관들을 이용하여 궁전으로 들어와라. 궁전을 신속하게 점령 하여야만 한다. <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_b": {
-    "message": "오늘 밤 마침내 왕권이 내 것이 될 것이다! <E>",
-    "description": "SphinxText.xls, row 1969"
+    "message": "오늘 밤 마침내 왕권이 내 것이 될 것이다! <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_c": {
-    "message": "오, 나의 사랑스런 아우여, 깜짝 놀랐군! 내가 오늘 밤 너를 위한 정말 훌륭한 파티를 준비했다.<E>",
-    "description": "SphinxText.xls, row 1970"
+    "message": "오, 나의 사랑스런 아우여, 깜짝 놀랐군! 내가 오늘 밤 너를 위한 정말 훌륭한 파티를 준비했다.<E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_d": {
-    "message": "하지만 넌 지금 선물을 원하고 있구나.<E>",
-    "description": "SphinxText.xls, row 1971"
+    "message": "하지만 넌 지금 선물을 원하고 있구나.<E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_e": {
-    "message": "경비병, 왕자를 잡아라! <W 60>",
-    "description": "SphinxText.xls, row 1972"
+    "message": "경비병, 왕자를 잡아라! <W 60>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_a": {
-    "message": "좋은 아침입니다, 왕자님, 그리고 생신 축하 드립니다! <E>",
-    "description": "SphinxText.xls, row 1973"
+    "message": "좋은 아침입니다, 왕자님, 그리고 생신 축하 드립니다! <E>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_b": {
-    "message": "궁전 전체가 왕자님의 생일 파티를 준비하느라 매우 분주합니다.<E>",
-    "description": "SphinxText.xls, row 1974"
+    "message": "궁전 전체가 왕자님의 생일 파티를 준비하느라 매우 분주합니다.<E>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_c": {
-    "message": "왕자님, 네퍼르티티님과 조금 전에 이야기를 나누었습니다. 그분께서 왕자님과 오늘 아침에 <FC 128,64,0>안마당<END FC>에서 뵙자고 요청하셨습니다.<E>",
-    "description": "SphinxText.xls, row 1975"
+    "message": "왕자님, 네퍼르티티님과 조금 전에 이야기를 나누었습니다. 그분께서 왕자님과 오늘 아침에 <FC 128,64,0>안마당<END FC>에서 뵙자고 요청하셨습니다.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant1": {
-    "message": "왕자님, 지금은 이 옷장을 청소하느라 바쁩니다.<E>",
-    "description": "SphinxText.xls, row 1976"
+    "message": "왕자님, 지금은 이 옷장을 청소하느라 바쁩니다.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant2": {
-    "message": "오, 왕자님! 그것은 좋은 화분이었어요!<E>",
-    "description": "SphinxText.xls, row 1977"
+    "message": "오, 왕자님! 그것은 좋은 화분이었어요!<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant3": {
-    "message": "난장판이군요! 제발 더 이상 넘어뜨리지 마세요, 왕자님.<E>",
-    "description": "SphinxText.xls, row 1978"
+    "message": "난장판이군요! 제발 더 이상 넘어뜨리지 마세요, 왕자님.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant4": {
-    "message": "<DHP><DP>오, 안돼, 또!<W 30>",
-    "description": "SphinxText.xls, row 1979"
+    "message": "<DHP><DP>오, 안돼, 또!<W 30>"
   },
   "HT_Text_Lux_Pala_CleaningServant5": {
-    "message": "<DHP><DP>제발, 왕자님, 방을 더 이상 난장판으로 만들지 말아 주세요!<W 60>",
-    "description": "SphinxText.xls, row 1980"
+    "message": "<DHP><DP>제발, 왕자님, 방을 더 이상 난장판으로 만들지 말아 주세요!<W 60>"
   },
   "HT_Text_Lux_Pala_WardrobeLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 옷장을 열려면 <FC 0,128,0>열쇠<END FC>가 필요합니다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 1981"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 옷장을 열려면 <FC 0,128,0>열쇠<END FC>가 필요합니다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_WardrobeBlocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 옷장은 잠겨있는 것 같다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 1982"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 옷장은 잠겨있는 것 같다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_CorriderGuard": {
-    "message": "생신 축하 드립니다, 왕자님! <E>",
-    "description": "SphinxText.xls, row 1983"
+    "message": "생신 축하 드립니다, 왕자님! <E>"
   },
   "HT_Text_Lux_Pala_CorriderGuardBlock": {
-    "message": "폐하, 네퍼르티티님께서 <FC 128,64,0>안마당<END FC>에서 뵈어야 한다고 강조하십니다.<E>",
-    "description": "SphinxText.xls, row 1984"
+    "message": "폐하, 네퍼르티티님께서 <FC 128,64,0>안마당<END FC>에서 뵈어야 한다고 강조하십니다.<E>"
   },
   "HT_Text_Lux_Pala_SetiPartner1": {
-    "message": "좋은 아침입니다, 왕자님, 형님께서 의식을 위해서 궁전을 다시 장식하느라 매우 분주한 듯 보입니다. <E>",
-    "description": "SphinxText.xls, row 1985"
+    "message": "좋은 아침입니다, 왕자님, 형님께서 의식을 위해서 궁전을 다시 장식하느라 매우 분주한 듯 보입니다. <E>"
   },
   "HT_Text_Lux_Pala_SetiPartner2": {
-    "message": "어머나! 더러운 구멍이 있네. 꼭 쥐 구멍 같군요! <E>",
-    "description": "SphinxText.xls, row 1986"
+    "message": "어머나! 더러운 구멍이 있네. 꼭 쥐 구멍 같군요! <E>"
   },
   "HT_Text_Lux_Pala_SetiPartner3": {
-    "message": "다 처리되었다고 생각했었는데, 최소한 이 것은 막혀 있긴 하군요. <E>",
-    "description": "SphinxText.xls, row 1987"
+    "message": "다 처리되었다고 생각했었는데, 최소한 이 것은 막혀 있긴 하군요. <E>"
   },
   "HT_Text_Lux_Pala_SetiSecret": {
-    "message": "아니, 이것은 이 궁전의 수수께끼 같은 오래된 비밀통로들 중 하나인 것 같다. 그 비밀통로들은 나보다 더 오래 궁전에 있었지! <E>",
-    "description": "SphinxText.xls, row 1988"
+    "message": "아니, 이것은 이 궁전의 수수께끼 같은 오래된 비밀통로들 중 하나인 것 같다. 그 비밀통로들은 나보다 더 오래 궁전에 있었지! <E>"
   },
   "HT_Text_Lux_Pala_SetiQuestion": {
-    "message": "내가 궁전을 뒤져서 그것들을 찾기에는 너무 늙었어. 나의 사랑스런 조카여! 나를 위해 부적들을 제발 찾아 줄 수 있겠니? <N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 1989"
+    "message": "내가 궁전을 뒤져서 그것들을 찾기에는 너무 늙었어. 나의 사랑스런 조카여! 나를 위해 부적들을 제발 찾아 줄 수 있겠니? <N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionAgain": {
-    "message": "사랑하는 조카여, 생각이 바뀌었느냐?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 1990"
+    "message": "사랑하는 조카여, 생각이 바뀌었느냐?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionYes": {
-    "message": "신의 가호가 있기를, 내 사랑! 이 숙모를 도와주어서 고맙다. <E>",
-    "description": "SphinxText.xls, row 1991"
+    "message": "신의 가호가 있기를, 내 사랑! 이 숙모를 도와주어서 고맙다. <E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionNo": {
-    "message": "제발, 네 숙모에게 친절하게 대하렴. 네 형이 나에게 그것에 관하여 다시 물어보게 되면 뭐라고 대답해야 할지를 모르겠다. <E>",
-    "description": "SphinxText.xls, row 1992"
+    "message": "제발, 네 숙모에게 친절하게 대하렴. 네 형이 나에게 그것에 관하여 다시 물어보게 되면 뭐라고 대답해야 할지를 모르겠다. <E>"
   },
   "HT_Text_Lux_Pala_SetiAccepted": {
-    "message": "그 부적들을 찾는 것을 도와주겠다고 네가 나선 것은 정말 고맙구나. <E>",
-    "description": "SphinxText.xls, row 1993"
+    "message": "그 부적들을 찾는 것을 도와주겠다고 네가 나선 것은 정말 고맙구나. <E>"
   },
   "HT_Text_Lux_Pala_Sorkon1": {
-    "message": "왕자님, 궁전의 보안에 관한 소문들을 들었습니다. 수비병을 강화하도록 요청하였습니다, 하지만 왕자님의 형님께서 처리하겠다고 하셨습니다. <E> ",
-    "description": "SphinxText.xls, row 1994"
+    "message": "왕자님, 궁전의 보안에 관한 소문들을 들었습니다. 수비병을 강화하도록 요청하였습니다, 하지만 왕자님의 형님께서 처리하겠다고 하셨습니다. <E> "
   },
   "HT_Text_Lux_Pala_Sorkon2": {
-    "message": "왕자님? 왕자님! 그곳에 가지 마십시오, 위험합니다! <W 60>",
-    "description": "SphinxText.xls, row 1995"
+    "message": "왕자님? 왕자님! 그곳에 가지 마십시오, 위험합니다! <W 60>"
   },
   "HT_Text_Lux_Pala_Sorkon3": {
-    "message": "왕자님, 제 말은 정말 들으시지 않으시는 군요! 이 위험한 통로들을 배회하시면서 다치시면 큰일입니다. 너무 오래되어서 언제 무너질지 모릅니다! <E>",
-    "description": "SphinxText.xls, row 1996"
+    "message": "왕자님, 제 말은 정말 들으시지 않으시는 군요! 이 위험한 통로들을 배회하시면서 다치시면 큰일입니다. 너무 오래되어서 언제 무너질지 모릅니다! <E>"
   },
   "HT_Text_Lux_Pala_Sorkon4": {
-    "message": "왕자님, 무슨 일입니까? 이런 곳에 비밀 문이 있다고는 생각해보지 못했습니다. 이런 위험한 곳들을 돌아다니시다니 안전히 걱정됩니다! <E>",
-    "description": "SphinxText.xls, row 1997"
+    "message": "왕자님, 무슨 일입니까? 이런 곳에 비밀 문이 있다고는 생각해보지 못했습니다. 이런 위험한 곳들을 돌아다니시다니 안전히 걱정됩니다! <E>"
   },
   "HT_Text_Lux_Pala_DishServant1": {
-    "message": "지금은 음식을 준비하느라 조금 바쁩니다. 왕자님, 잠시 동안 혼자서 시간을 보내셔야겠군요. <E>",
-    "description": "SphinxText.xls, row 1998"
+    "message": "지금은 음식을 준비하느라 조금 바쁩니다. 왕자님, 잠시 동안 혼자서 시간을 보내셔야겠군요. <E>"
   },
   "HT_Text_Lux_Pala_DishServant2": {
-    "message": "<DHP><DP>으악! 왕자님, 제발 접시들을 더 이상 깨지 말아 주세요! <W 30>",
-    "description": "SphinxText.xls, row 1999"
+    "message": "<DHP><DP>으악! 왕자님, 제발 접시들을 더 이상 깨지 말아 주세요! <W 30>"
   },
   "HT_Text_Lux_Pala_DishServant3": {
-    "message": "<DHP><DP>오! 화병들! 제발 탁상 위에 올라서지 말아주십시오, 왕자님! <W 30>",
-    "description": "SphinxText.xls, row 2000"
+    "message": "<DHP><DP>오! 화병들! 제발 탁상 위에 올라서지 말아주십시오, 왕자님! <W 30>"
   },
   "HT_Text_Lux_Pala_Dress1": {
-    "message": "<ES HT_Text_ES_S_HelpText><N>이것을 입겠는가?<N>  <B 1> 예<N>  <B 2> 아니오<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2001"
+    "message": "<ES HT_Text_ES_S_HelpText><N>이것을 입겠는가?<N>  <B 1> 예<N>  <B 2> 아니오<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_Dress2": {
-    "message": "<W 1>",
-    "description": "SphinxText.xls, row 2002"
+    "message": "<W 1>"
   },
   "HT_Text_Lux_Pala_TreasureGuard1": {
-    "message": "아마 대장에게 말씀해보셔야 할 것 같습니다. <E>",
-    "description": "SphinxText.xls, row 2003"
+    "message": "아마 대장에게 말씀해보셔야 할 것 같습니다. <E>"
   },
   "HT_Text_Lux_Pala_TreasureCaptain1": {
-    "message": "왕자님, 큰일이 벌어졌습니다. 경비병들이 <FC 128,64,0>보석실<END FC>의 문이 부서지고, 모든 상자들이 비어있다는 것을 발견했습니다. <P>방에서 유일하게 발견한 것은 이상한 석관뿐입니다. <P>건드리지 마십시오, 분명히 도난사고와 연관이 있는 것입니다. 당신의 형님 아크헨나덴님에게 알려드리려 했으나 어디에서도 찾을 수 없었습니다.<E>",
-    "description": "SphinxText.xls, row 2004"
+    "message": "왕자님, 큰일이 벌어졌습니다. 경비병들이 <FC 128,64,0>보석실<END FC>의 문이 부서지고, 모든 상자들이 비어있다는 것을 발견했습니다. <P>방에서 유일하게 발견한 것은 이상한 석관뿐입니다. <P>건드리지 마십시오, 분명히 도난사고와 연관이 있는 것입니다. 당신의 형님 아크헨나덴님에게 알려드리려 했으나 어디에서도 찾을 수 없었습니다.<E>"
   },
   "HT_Text_Lux_Pala_DressWrong": {
-    "message": "오, 왕자님, 옷을 입지 않고 침실 밖으로 나가실 계획은 아니시죠, 설마?<E>",
-    "description": "SphinxText.xls, row 2005"
+    "message": "오, 왕자님, 옷을 입지 않고 침실 밖으로 나가실 계획은 아니시죠, 설마?<E>"
   },
   "HT_Text_Lux_Pala_DressWrong2": {
-    "message": "제발, 왕자님! 분홍색은 안 되요! 정말 보기 흉해요!<E>",
-    "description": "SphinxText.xls, row 2006"
+    "message": "제발, 왕자님! 분홍색은 안 되요! 정말 보기 흉해요!<E>"
   },
   "HT_Text_Lux_Pala_Help_FoundWardrobeKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>옷장 열쇠<END FC>를 하나 찾았다!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2007"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>옷장 열쇠<END FC>를 하나 찾았다!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_MenesCorrider1": {
-    "message": "오, 왕자님, 오늘은 매우 멋있게 차려 입으셨군요. 언제나 왕자님의 취향은 나무랄 데 없습니다! <E>",
-    "description": "SphinxText.xls, row 2008"
+    "message": "오, 왕자님, 오늘은 매우 멋있게 차려 입으셨군요. 언제나 왕자님의 취향은 나무랄 데 없습니다! <E>"
   },
   "HT_Text_Lux_Pala_MenesCorrider2": {
-    "message": "오, 생신 축하 드리는 걸 깜빡 했군요. 사과 드립니다, 왕자님. <E>",
-    "description": "SphinxText.xls, row 2009"
+    "message": "오, 생신 축하 드리는 걸 깜빡 했군요. 사과 드립니다, 왕자님. <E>"
   },
   "HT_Text_Lux_Palace_GuardHU06_NefLookingForYou": {
-    "message": "좋은 아침입니다 왕자님 그리고 생일 축하 드립니다!<P>네퍼르티티님께서 찾고 계셨습니다. 매우 중요한 일이라고 하셨고 <FC 128,64,0>안마당<END FC>에서 뵙고 싶다고 하셨습니다.<E>",
-    "description": "SphinxText.xls, row 2011"
+    "message": "좋은 아침입니다 왕자님 그리고 생일 축하 드립니다!<P>네퍼르티티님께서 찾고 계셨습니다. 매우 중요한 일이라고 하셨고 <FC 128,64,0>안마당<END FC>에서 뵙고 싶다고 하셨습니다.<E>"
   },
   "HT_Text_Lux_Palace_GuardHU06_NefFound": {
-    "message": "네퍼르티티님을 찾으셨군요! 혹시 왕자님께서는 연회준비가 어떻게 되가는지 알고 싶으신가요?<E>",
-    "description": "SphinxText.xls, row 2012"
+    "message": "네퍼르티티님을 찾으셨군요! 혹시 왕자님께서는 연회준비가 어떻게 되가는지 알고 싶으신가요?<E>"
   },
   "HT_Text_Lux_Palace_ServantHU03_SarcophagusDecor": {
-    "message": "당신의 형님께서 궁전을 이 석관들로 장식해야만 한다고 매우 강조하셨습니다.<P>송구스럽습니다만, 왕자님, 저것들이 정말 맘에 안 들어요. 움직일 때마다 눈이 따라오는 것 같아요...<E>",
-    "description": "SphinxText.xls, row 2013"
+    "message": "당신의 형님께서 궁전을 이 석관들로 장식해야만 한다고 매우 강조하셨습니다.<P>송구스럽습니다만, 왕자님, 저것들이 정말 맘에 안 들어요. 움직일 때마다 눈이 따라오는 것 같아요...<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_MeetMeOutside": {
-    "message": "훌륭해요! 구했군요! 이 편지에 관하여 이야기를 좀 해야 되지만 여기서는 안 되요. 누군가 듣고 있을 지 몰라요.<P>나중에 궁전 밖에서 만나서 이야기해요. 조심해요, 투탕카멘.<E>",
-    "description": "SphinxText.xls, row 2014"
+    "message": "훌륭해요! 구했군요! 이 편지에 관하여 이야기를 좀 해야 되지만 여기서는 안 되요. 누군가 듣고 있을 지 몰라요.<P>나중에 궁전 밖에서 만나서 이야기해요. 조심해요, 투탕카멘.<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItem": {
-    "message": "투탕카멘, 마침내 왔군요! 제발, 다른 사람이 찾기 전에 내 <FC 0,128,0>편지<END FC>를 저 위에서 가져와야만 해요.<P> <FC 0,128,0>편지<END FC>에는  중요한 정보가 담겨 있어요 - 제발 서둘러줘요!<E>",
-    "description": "SphinxText.xls, row 2015"
+    "message": "투탕카멘, 마침내 왔군요! 제발, 다른 사람이 찾기 전에 내 <FC 0,128,0>편지<END FC>를 저 위에서 가져와야만 해요.<P> <FC 0,128,0>편지<END FC>에는  중요한 정보가 담겨 있어요 - 제발 서둘러줘요!<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemNoCutscene": {
-    "message": "투탕카멘, 제발 내 <FC 0,128,0>편지<END FC>를 찾아줘요! 이 근처 어딘가에 있어요.<E>",
-    "description": "SphinxText.xls, row 2016"
+    "message": "투탕카멘, 제발 내 <FC 0,128,0>편지<END FC>를 찾아줘요! 이 근처 어딘가에 있어요.<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemAgain": {
-    "message": "제발 서둘러요, 다른 사람이 찾기 전에!<E>",
-    "description": "SphinxText.xls, row 2017"
+    "message": "제발 서둘러요, 다른 사람이 찾기 전에!<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemDone": {
-    "message": "미안하지만 이런 공공장소에서는 편지에 관하여 이야기 할 수 없어요.<E>",
-    "description": "SphinxText.xls, row 2018"
+    "message": "미안하지만 이런 공공장소에서는 편지에 관하여 이야기 할 수 없어요.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_EvilHappyBirthday": {
-    "message": "오래오래 장수하거라, 나의 아우여! 이상하게도 내 생일에는 이런 동요를 기억하지 못하겠는걸.<E>",
-    "description": "SphinxText.xls, row 2019"
+    "message": "오래오래 장수하거라, 나의 아우여! 이상하게도 내 생일에는 이런 동요를 기억하지 못하겠는걸.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_EvilHappyBirthdayAgain": {
-    "message": "제발, 아우여! 너의 생일 축하잔치를 위한 계획들을 마무리 짓느라 바쁘다.<E>",
-    "description": "SphinxText.xls, row 2020"
+    "message": "제발, 아우여! 너의 생일 축하잔치를 위한 계획들을 마무리 짓느라 바쁘다.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting01": {
-    "message": "모든 마법의 석관들이 제 위치에 있는가?<E>",
-    "description": "SphinxText.xls, row 2021"
+    "message": "모든 마법의 석관들이 제 위치에 있는가?<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting02": {
-    "message": "훌륭하군! 내 버릇없는 형제는 올해 예상치 못했던 생일 깜짝 쇼를 받을 것이다.<P>다른 열쇠들에 무슨 일이 생길 것에 대비하여 여기에 여분의 <FC 0,128,0>석관 열쇠<END FC> 하나를 둘 것이다.<E>",
-    "description": "SphinxText.xls, row 2022"
+    "message": "훌륭하군! 내 버릇없는 형제는 올해 예상치 못했던 생일 깜짝 쇼를 받을 것이다.<P>다른 열쇠들에 무슨 일이 생길 것에 대비하여 여기에 여분의 <FC 0,128,0>석관 열쇠<END FC> 하나를 둘 것이다.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting03": {
-    "message": "음화하하!!!<P>음화하하!!!<P>이 파티는 이 궁전의 역사상 최고가 될 것이다!<E>",
-    "description": "SphinxText.xls, row 2023"
+    "message": "음화하하!!!<P>음화하하!!!<P>이 파티는 이 궁전의 역사상 최고가 될 것이다!<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFound": {
-    "message": "오, 정말 착하구나, 조카야. 하지만 안타깝게도 아직<N><FC 0,128,0><SO HT_Objective_Lux_Palace_SetiQuestItemsRemaining><END FC>개의 부적들이 행방불명이란다.<E>",
-    "description": "SphinxText.xls, row 2035"
+    "message": "오, 정말 착하구나, 조카야. 하지만 안타깝게도 아직<N><FC 0,128,0><SO HT_Objective_Lux_Palace_SetiQuestItemsRemaining><END FC>개의 부적들이 행방불명이란다.<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFoundOne": {
-    "message": "훌륭하구나! <FC 0,128,0>1<END FC>개의 부적만이 남았구나, 사랑스러운 조카여.<E>",
-    "description": "SphinxText.xls, row 2036"
+    "message": "훌륭하구나! <FC 0,128,0>1<END FC>개의 부적만이 남았구나, 사랑스러운 조카여.<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsComplete": {
-    "message": "도와주어서 고맙다, 조카야. 내 혼자 힘으로는 절대 그 부적들을 찾을 수 없었을 거야.<E>",
-    "description": "SphinxText.xls, row 2037"
+    "message": "도와주어서 고맙다, 조카야. 내 혼자 힘으로는 절대 그 부적들을 찾을 수 없었을 거야.<E>"
   },
   "HT_Text_Lux_Palace_MenesHU09_Plotting01": {
-    "message": "예, 선생님, 모든 것이 예정대로 진행 중입니다.<E>",
-    "description": "SphinxText.xls, row 2038"
+    "message": "예, 선생님, 모든 것이 예정대로 진행 중입니다.<E>"
   },
   "HT_Text_Lux_Palace_MenesHU09_Plotting02": {
-    "message": "매우 현명한 예방조치이십니다, 선생님.<E>",
-    "description": "SphinxText.xls, row 2039"
+    "message": "매우 현명한 예방조치이십니다, 선생님.<E>"
   },
   "HT_Text_Lux_Pala_Read_TreasureRoom": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>보석실<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 2045"
+    "message": "<N><CNTR>---[ <FC 128,64,0>보석실<END FC> ]---<E>"
   },
   "HT_Text_Lux_Pala_Help_UseLever": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>지레들을 작동하려면 가까이에 서서 <SB HT_Action_LeverDown>를 누른다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2046"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>지레들을 작동하려면 가까이에 서서 <SB HT_Action_LeverDown>를 누른다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_Help_UseSarco": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>석관 열쇠<END FC>로 석관 가까이에 서서 <N><SB HT_Action_Enter>를 눌러 석관을 사용할 수 있다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2047"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>석관 열쇠<END FC>로 석관 가까이에 서서 <N><SB HT_Action_Enter>를 눌러 석관을 사용할 수 있다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Pushable": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이런 물건들은 당기거나 밀 수 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>물건 근처에 갔을 때 <SB HT_Action_Grab>를 누른다...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...그리고 <SB HT_PadAction_PLR_MovePlr>를 사용하여 밀거나 당긴다.<E>",
-    "description": "SphinxText.xls, row 2048"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이런 물건들은 당기거나 밀 수 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>물건 근처에 갔을 때 <SB HT_Action_Grab>를 누른다...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...그리고 <SB HT_PadAction_PLR_MovePlr>를 사용하여 밀거나 당긴다.<E>"
   },
   "HT_Text_Lux_Palace_Help_LedgeWalk": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>어떤 모서리 부분은 게걸음으로 지나갈 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>가장자리로 다가가서 <SB HT_Action_WallSneak>를 눌러<N>장애물에 기대어 선다.<P><ES HT_Text_ES_S_HelpText><CNTR>기대어 서면<N><SB HT_PadAction_PLR_MovePlr>를 사용하여 좌우로 움직인다.<P><ES HT_Text_ES_S_HelpText><CNTR>느리게 움직이려면 <SB HT_PadAction_PLR_MovePlr>를 가볍게 누른다.<P><ES HT_Text_ES_S_HelpText><CNTR>게걸음 모드에서 나오려면 <SB HT_Action_WallSneakExit>를 누른다.<E>",
-    "description": "SphinxText.xls, row 2049"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>어떤 모서리 부분은 게걸음으로 지나갈 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>가장자리로 다가가서 <SB HT_Action_WallSneak>를 눌러<N>장애물에 기대어 선다.<P><ES HT_Text_ES_S_HelpText><CNTR>기대어 서면<N><SB HT_PadAction_PLR_MovePlr>를 사용하여 좌우로 움직인다.<P><ES HT_Text_ES_S_HelpText><CNTR>느리게 움직이려면 <SB HT_PadAction_PLR_MovePlr>를 가볍게 누른다.<P><ES HT_Text_ES_S_HelpText><CNTR>게걸음 모드에서 나오려면 <SB HT_Action_WallSneakExit>를 누른다.<E>"
   },
   "HT_Text_Lux_Palace_Help_LedgeHang": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>벽에 있는 어떤 튀어나온 부분들은 잡을 수 있다.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>바깥쪽으로 걸어 나와서 떨어질 때 돌아서서 튀어나온 부분을 잡는다.<P><ES HT_Text_ES_S_HelpText><CNTR>그리고 <SB HT_PadAction_PLR_MovePlr>를 사용하여 좌우로 움직인다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 2050"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>벽에 있는 어떤 튀어나온 부분들은 잡을 수 있다.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>바깥쪽으로 걸어 나와서 떨어질 때 돌아서서 튀어나온 부분을 잡는다.<P><ES HT_Text_ES_S_HelpText><CNTR>그리고 <SB HT_PadAction_PLR_MovePlr>를 사용하여 좌우로 움직인다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_DoorLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 문은 잠겨있다. 열려면 열쇠가 필요하다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2051"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 문은 잠겨있다. 열려면 열쇠가 필요하다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_DoorLockedForever": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 문은 다른 쪽에서 잠겨있어서<N>열 수가 없다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2052"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 문은 다른 쪽에서 잠겨있어서<N>열 수가 없다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Crawl": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><SB HT_Action_MummyCrawl> 를 눌러서 걷기 혹은 기어가기<N>로 전환한다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2053"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><SB HT_Action_MummyCrawl> 를 눌러서 걷기 혹은 기어가기<N>로 전환한다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundBedroomKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>안마당 열쇠<END FC>를 찾았다!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2054"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>안마당 열쇠<END FC>를 찾았다!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundNefertitiItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>네퍼르티티의 편지<END FC>를 찾았다!<ES HT_Text_ES_S_HelpText><E><W 30>",
-    "description": "SphinxText.xls, row 2055"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>네퍼르티티의 편지<END FC>를 찾았다!<ES HT_Text_ES_S_HelpText><E><W 30>"
   },
   "HT_Text_Lux_Palace_Help_FoundSarcophagusKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR><N><FC 0,128,0>석관 열쇠<END FC>를 찾았다!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2057"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR><N><FC 0,128,0>석관 열쇠<END FC>를 찾았다!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>오래된 부적<END FC>을 하나 찾았다!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2059"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>오래된 부적<END FC>을 하나 찾았다!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundCourtyardKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>안마당 열쇠<END FC>를 찾았다<ES HT_Text_ES_S_HelpText>!<E>",
-    "description": "SphinxText.xls, row 2060"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>안마당 열쇠<END FC>를 찾았다<ES HT_Text_ES_S_HelpText>!<E>"
   }
 }

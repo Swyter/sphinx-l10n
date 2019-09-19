@@ -1,674 +1,506 @@
 {
   "HT_Text_Inv_Dsc_IceDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>얼음 다트들로 특정 괴물들을 얼려버릴 수 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2730"
+    "message": "<ES HT_Text_ES_S_BOSStd>얼음 다트들로 특정 괴물들을 얼려버릴 수 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FireDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>화염 다트들로 특정 괴물들을 태울 수 있다.<ES HT_Text_ES_S_BOSStd>",
-    "description": "SphinxText.xls, row 2731"
+    "message": "<ES HT_Text_ES_S_BOSStd>화염 다트들로 특정 괴물들을 태울 수 있다.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Acid": {
-    "message": "<ES HT_Text_ES_S_BOSStd>염산 다트들로 특정 금속 사슬들을 녹이거나 괴물들에 상처를 입힐 수 있다.<ES HT_Text_ES_S_BOSStd>",
-    "description": "SphinxText.xls, row 2732"
+    "message": "<ES HT_Text_ES_S_BOSStd>염산 다트들로 특정 금속 사슬들을 녹이거나 괴물들에 상처를 입힐 수 있다.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BladeOfOsiris": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 강력한 검은 한 때 위대한 신 오시리스가 사용했던 것이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2733"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 강력한 검은 한 때 위대한 신 오시리스가 사용했던 것이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BronzeScarab": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 표준 동전은 여러 종류의 아이템들을 구입하기 위해 사용된다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2734"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 표준 동전은 여러 종류의 아이템들을 구입하기 위해 사용된다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_WingsOfIbis": {
-    "message": "<ES HT_Text_ES_S_BOSStd>고대의 유물로써 공중에서 이단 점프를 할 수 있는 능력을 부여한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2737"
+    "message": "<ES HT_Text_ES_S_BOSStd>고대의 유물로써 공중에서 이단 점프를 할 수 있는 능력을 부여한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Blowpipe": {
-    "message": "<ES HT_Text_ES_S_BOSStd>강력한 무기와 도구로서 원거리의 목표물에 과녁에 다트들을 발사한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2738"
+    "message": "<ES HT_Text_ES_S_BOSStd>강력한 무기와 도구로서 원거리의 목표물에 과녁에 다트들을 발사한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CrocodileScales": {
-    "message": "<ES HT_Text_ES_S_BOSStd>마법의 유물로써 수중에서 고속으로 헤엄칠 수 있게 해준다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2741"
+    "message": "<ES HT_Text_ES_S_BOSStd>마법의 유물로써 수중에서 고속으로 헤엄칠 수 있게 해준다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_UnderwaterProjectile": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 다트는 마법에 의해 무제한으로 생겨난다. 수중에서 헤엄치고 있을 동안, 과녁과 특정 괴물들을 맞추기 위해 사용된다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2742"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 다트는 마법에 의해 무제한으로 생겨난다. 수중에서 헤엄치고 있을 동안, 과녁과 특정 괴물들을 맞추기 위해 사용된다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_BOSStd>고대의 유물로써 매우 무거운 물건들을 밀 수 있는 힘을 불어넣어 준다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2743"
+    "message": "<ES HT_Text_ES_S_BOSStd>고대의 유물로써 매우 무거운 물건들을 밀 수 있는 힘을 불어넣어 준다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ScarabPurse": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 가방은 황금 스캐럽을 400개나 담을 수 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2745"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 가방은 황금 스캐럽을 400개나 담을 수 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ScarabPurse2": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 가방은 황금 스캐럽을 900개나 담을 수 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2746"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 가방은 황금 스캐럽을 900개나 담을 수 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BeetlePouch": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 주머니는 포획 딱정벌레를 20마리와 포획된 여러 종류의 괴물들을 각각 10마리씩 담을 수 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2747"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 주머니는 포획 딱정벌레를 20마리와 포획된 여러 종류의 괴물들을 각각 10마리씩 담을 수 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_DartBelt": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 혁대는 각 종류의 다트들을 50개까지 담을 수 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2748"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 혁대는 각 종류의 다트들을 50개까지 담을 수 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BeetleStachel": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 작은 가방은 포획 딱정벌레들 50마리와 포획된 여러 종류의 괴물들을 각각 10마리씩 담을 수 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2750"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 작은 가방은 포획 딱정벌레들 50마리와 포획된 여러 종류의 괴물들을 각각 10마리씩 담을 수 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HandsOfAmunRa": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이것들은 굉장히 큰 물체들도 밀 수 있게 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2753"
+    "message": "<ES HT_Text_ES_S_BOSStd>이것들은 굉장히 큰 물체들도 밀 수 있게 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ShieldOfOsiris": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 마법의 방패는 위대한 신 오시리스가 전쟁에서 사용했던 것이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2754"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 마법의 방패는 위대한 신 오시리스가 전쟁에서 사용했던 것이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CloakOfInvisibility": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 마법석은 사용자에게 투명의 힘을 부여한다... 그러나 그 대가로 생명을 빼앗아 갈 것이다!<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2761"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 마법석은 사용자에게 투명의 힘을 부여한다... 그러나 그 대가로 생명을 빼앗아 갈 것이다!<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AnkhContainer": {
-    "message": "<ES HT_Text_ES_S_BOSStd>생명에너지로 바뀐 황금 앙크는 체력을 올려준다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2763"
+    "message": "<ES HT_Text_ES_S_BOSStd>생명에너지로 바뀐 황금 앙크는 체력을 올려준다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AnkhPiece": {
-    "message": "<ES HT_Text_ES_S_BOSStd>4개의 황금 앙크 조각들은 어떤 능력을 가진 사람에 의해 다른 황금 앙크로 변형될 수 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2764"
+    "message": "<ES HT_Text_ES_S_BOSStd>4개의 황금 앙크 조각들은 어떤 능력을 가진 사람에 의해 다른 황금 앙크로 변형될 수 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CanopicVase": {
-    "message": "<ES HT_Text_ES_S_BOSStd>신성한 화병으로 투탕카멘의 영혼의 조각을 담고 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2765"
+    "message": "<ES HT_Text_ES_S_BOSStd>신성한 화병으로 투탕카멘의 영혼의 조각을 담고 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Pearl": {
-    "message": "<ES HT_Text_ES_S_BOSStd>푸른 다이아몬드로써 승자 회랑의 게임 마스터의 소유이다. 이것을 그에게 돌려주어 벽의 시련에서의 너의 가치를 입증하라.<ES HT_Text_ES_S_BOSStd>",
-    "description": "SphinxText.xls, row 2770"
+    "message": "<ES HT_Text_ES_S_BOSStd>푸른 다이아몬드로써 승자 회랑의 게임 마스터의 소유이다. 이것을 그에게 돌려주어 벽의 시련에서의 너의 가치를 입증하라.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Herbs": {
-    "message": "<ES HT_Text_ES_S_BOSStd>시장의 치료를 위한 치료 약초.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2772"
+    "message": "<ES HT_Text_ES_S_BOSStd>시장의 치료를 위한 치료 약초.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BookOfTheDead": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 책은 바스-켓과 미이라를 위한 납골단지들을 우루크 성으로 함께 보낼 수 있는 주문을 담고 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2778"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 책은 바스-켓과 미이라를 위한 납골단지들을 우루크 성으로 함께 보낼 수 있는 주문을 담고 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BronzeAnkh": {
-    "message": "재고에 나타나지 않는다",
-    "description": "SphinxText.xls, row 2784"
+    "message": "재고에 나타나지 않는다"
   },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
-    "message": "<ES HT_Text_ES_S_BOSStd>괴물들을 포획하기 위해 사용되는 딱정벌레들.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2787"
+    "message": "<ES HT_Text_ES_S_BOSStd>괴물들을 포획하기 위해 사용되는 딱정벌레들.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_StandardDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>다트들은 마법으로 무제한 생겨난다. 그러나 폭발성의 괴물들에게는 작은 상처만 줄 수 있을뿐이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2788"
+    "message": "<ES HT_Text_ES_S_BOSStd>다트들은 마법으로 무제한 생겨난다. 그러나 폭발성의 괴물들에게는 작은 상처만 줄 수 있을뿐이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_KaDart": {
-    "message": "재고에 나타나지 않는다",
-    "description": "SphinxText.xls, row 2789"
+    "message": "재고에 나타나지 않는다"
   },
   "HT_Text_Inv_Dsc_BounceDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>다트들은 마법으로 무제한 생겨난다. 이것은 과녁들을 멀리서도 맞출 수 있지만, 폭발성의 괴물들에게는 작은 상처를 줄 수 있을뿐이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2790"
+    "message": "<ES HT_Text_ES_S_BOSStd>다트들은 마법으로 무제한 생겨난다. 이것은 과녁들을 멀리서도 맞출 수 있지만, 폭발성의 괴물들에게는 작은 상처를 줄 수 있을뿐이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PossessionDart": {
-    "message": "재고에 나타나지 않는다",
-    "description": "SphinxText.xls, row 2791"
+    "message": "재고에 나타나지 않는다"
   },
   "HT_Text_Inv_Dsc_PhysNote": {
-    "message": "<ES HT_Text_ES_S_BOSStd>의사가 발명가 케메트에 보내는 쪽지.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2792"
+    "message": "<ES HT_Text_ES_S_BOSStd>의사가 발명가 케메트에 보내는 쪽지.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BC01_Giant_Prawn": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 겝 여왕의 용사들은 엄청나게 잔인하다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>전투에서 이들을 대면하는 자들에게 행운이 있기를.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2794"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 겝 여왕의 용사들은 엄청나게 잔인하다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>전투에서 이들을 대면하는 자들에게 행운이 있기를.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM09_Smiling_burble": {
-    "message": "<ES HT_Text_ES_S_BOSStd>버블 종족 중 별난 멤버로 뿔을 이용하여 공격한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들의 뿔은 태어나면서 머리 위에서 자라게 된다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2795"
+    "message": "<ES HT_Text_ES_S_BOSStd>버블 종족 중 별난 멤버로 뿔을 이용하여 공격한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들의 뿔은 태어나면서 머리 위에서 자라게 된다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM10_i_Cyclops": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 잡기어려운 벌레들은 그들의 외눈에서 강력한 광선을 쏘며 짧은 거리의 텔레포트가 가능하다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>상처를 입으면 싸이클롭스는 두 개로 나뉘어져서 위험이 배가 된다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2796"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 잡기어려운 벌레들은 그들의 외눈에서 강력한 광선을 쏘며 짧은 거리의 텔레포트가 가능하다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>상처를 입으면 싸이클롭스는 두 개로 나뉘어져서 위험이 배가 된다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM12_slim_burble": {
-    "message": "<ES HT_Text_ES_S_BOSStd>폭발력을 모아서 목표물에 돌진한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이 점을 이용하여 포획한 슬림 버블들을 장애물 앞에 놓으면 유용하게 쓸 수 있을 것이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2797"
+    "message": "<ES HT_Text_ES_S_BOSStd>폭발력을 모아서 목표물에 돌진한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이 점을 이용하여 포획한 슬림 버블들을 장애물 앞에 놓으면 유용하게 쓸 수 있을 것이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BR04_Goofy_Lizard": {
-    "message": "<ES HT_Text_ES_S_BOSStd>얼빠진 도마뱀들은 서투르고 건망증이 있지만 사실은 온순한 생물이다. 언제나 자신의 그림자를 쫓으며 시간을 보낸다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2798"
+    "message": "<ES HT_Text_ES_S_BOSStd>얼빠진 도마뱀들은 서투르고 건망증이 있지만 사실은 온순한 생물이다. 언제나 자신의 그림자를 쫓으며 시간을 보낸다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BR05_Dino_Oaf": {
-    "message": "해야 할 것<E>",
-    "description": "SphinxText.xls, row 2799"
+    "message": "해야 할 것<E>"
   },
   "HT_Text_Inv_Dsc_BR06_Half_Brute": {
-    "message": "<ES HT_Text_ES_S_BOSStd>반수라는 이름은 이 괴물들의 공격성을 과소평가하는 것이다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>뚱뚱하여 느리게 걷지만 강한 힘으로 땅을 내리쳐서 강력한 충격파를 낼 수 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2800"
+    "message": "<ES HT_Text_ES_S_BOSStd>반수라는 이름은 이 괴물들의 공격성을 과소평가하는 것이다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>뚱뚱하여 느리게 걷지만 강한 힘으로 땅을 내리쳐서 강력한 충격파를 낼 수 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU01_Mummy_Minotaur": {
-    "message": "해야 할 것<E>",
-    "description": "SphinxText.xls, row 2801"
+    "message": "해야 할 것<E>"
   },
   "HT_Text_Inv_Dsc_BU02_Skeletal_Axeman": {
-    "message": "<ES HT_Text_ES_S_BOSStd>도끼를 휘두르는 언데드 용사들을 조심하라...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들은 그들의 무기를 부메랑으로 사용할 수 있고 그 도끼가 돌아올 때까지 보호방패 안에 숨을 수도 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2802"
+    "message": "<ES HT_Text_ES_S_BOSStd>도끼를 휘두르는 언데드 용사들을 조심하라...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들은 그들의 무기를 부메랑으로 사용할 수 있고 그 도끼가 돌아올 때까지 보호방패 안에 숨을 수도 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU03_zombie_man": {
-    "message": "해야 할 것<E>",
-    "description": "SphinxText.xls, row 2803"
+    "message": "해야 할 것<E>"
   },
   "HT_Text_Inv_Dsc_BU05_almost_a_bull": {
-    "message": "<ES HT_Text_ES_S_BOSStd>올모스트-어-불은 머리에 있는 두 뿔만이 아니라 빨강을 입고 있는 것은 돌진하여 공격하는 겁나는 버릇 때문에 이름이 주어졌다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2804"
+    "message": "<ES HT_Text_ES_S_BOSStd>올모스트-어-불은 머리에 있는 두 뿔만이 아니라 빨강을 입고 있는 것은 돌진하여 공격하는 겁나는 버릇 때문에 이름이 주어졌다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU06_MBird": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이들은 언데드이며 비우호적 존재이다. 위협이라고 느끼는 것에게 일단 부리로 내칠 것이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2805"
+    "message": "<ES HT_Text_ES_S_BOSStd>이들은 언데드이며 비우호적 존재이다. 위협이라고 느끼는 것에게 일단 부리로 내칠 것이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL02_Featherless_Turkey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>깃털 없는 칠면조는 깃털이 하나도 없어서 지어진 것이다. 동절기 잔치에 별미로 쓰인다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2806"
+    "message": "<ES HT_Text_ES_S_BOSStd>깃털 없는 칠면조는 깃털이 하나도 없어서 지어진 것이다. 동절기 잔치에 별미로 쓰인다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
-    "message": "<ES HT_Text_ES_S_BOSStd>셔틀콕 새는 다리가 하나지만 매우 빠르다...<P><ES HT_Text_ES_S_BOSStd>공중을 날아갈 때는 다트 같아 보이며, 상당한 위력이 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2807"
+    "message": "<ES HT_Text_ES_S_BOSStd>셔틀콕 새는 다리가 하나지만 매우 빠르다...<P><ES HT_Text_ES_S_BOSStd>공중을 날아갈 때는 다트 같아 보이며, 상당한 위력이 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL04_Skeletal_Bat": {
-    "message": "해야 할 것",
-    "description": "SphinxText.xls, row 2808"
+    "message": "해야 할 것"
   },
   "HT_Text_Inv_Dsc_FL04_Skeletal_Bat_Fire": {
-    "message": "해야 할 것",
-    "description": "SphinxText.xls, row 2809"
+    "message": "해야 할 것"
   },
   "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
-    "message": "독수리 미이라는 가장 큰 새 중 하나이다. 언데드지만 살아있는 상대보다 더욱 생기 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2810"
+    "message": "독수리 미이라는 가장 큰 새 중 하나이다. 언데드지만 살아있는 상대보다 더욱 생기 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL06_Undead_Man": {
-    "message": "해야 할 것<E>",
-    "description": "SphinxText.xls, row 2811"
+    "message": "해야 할 것<E>"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
-    "message": "<ES HT_Text_ES_S_BOSStd>나이프 고양이들은 뛰어난 도약과 반동으로 적들을 혼돈시켜서 번개같이 적에게 날카로운 발톱공격을 한다.<ES HT_Text_ES_S_BOSStd>",
-    "description": "SphinxText.xls, row 2812"
+    "message": "<ES HT_Text_ES_S_BOSStd>나이프 고양이들은 뛰어난 도약과 반동으로 적들을 혼돈시켜서 번개같이 적에게 날카로운 발톱공격을 한다.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": "해야 할 것<E>",
-    "description": "SphinxText.xls, row 2813"
+    "message": "해야 할 것<E>"
   },
   "HT_Text_Inv_Dsc_HD14_Crab": {
-    "message": "<ES HT_Text_ES_S_BOSStd>크랩핸드들은 약간 귀찮은 방법으로 적을 공격한다. 그러나 근처에 오게 되면 고통을 감수해야만 할 것이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2814"
+    "message": "<ES HT_Text_ES_S_BOSStd>크랩핸드들은 약간 귀찮은 방법으로 적을 공격한다. 그러나 근처에 오게 되면 고통을 감수해야만 할 것이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD15_GuardTest": {
-    "message": "해야 할 것<E>",
-    "description": "SphinxText.xls, row 2815"
+    "message": "해야 할 것<E>"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
-    "message": "<ES HT_Text_ES_S_BOSStd>날카로운 부리들은 양손에 칼을 쥐고 있으며 적들 헷갈리게 만들어 공격을 한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>느리지만 적들에게 확실히 적을 압도하는 것으로 악명 높다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2816"
+    "message": "<ES HT_Text_ES_S_BOSStd>날카로운 부리들은 양손에 칼을 쥐고 있으며 적들 헷갈리게 만들어 공격을 한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>느리지만 적들에게 확실히 적을 압도하는 것으로 악명 높다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper": {
-    "message": "<ES HT_Text_ES_S_BOSStd>해골 숭배자들은 화염 지팡이와 유령 같은 나는 해골들을 소환할 수 있는 능력을 이용하여 공격해 올 것이다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들 중 하나를 만난다면 분명이 근처에 해골 숭배자들이 있을 것이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2817"
+    "message": "<ES HT_Text_ES_S_BOSStd>해골 숭배자들은 화염 지팡이와 유령 같은 나는 해골들을 소환할 수 있는 능력을 이용하여 공격해 올 것이다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들 중 하나를 만난다면 분명이 근처에 해골 숭배자들이 있을 것이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "<ES HT_Text_ES_S_BOSStd>벽을 통과할 수 있고 빠르게 움직여서 알 수 없는 곳에서 공격한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>발사 공격은 통하지 않는다. 그런 공격은 이 어둠의 숭배자들을 그냥 통과하기 때문이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2818"
+    "message": "<ES HT_Text_ES_S_BOSStd>벽을 통과할 수 있고 빠르게 움직여서 알 수 없는 곳에서 공격한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>발사 공격은 통하지 않는다. 그런 공격은 이 어둠의 숭배자들을 그냥 통과하기 때문이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "<ES HT_Text_ES_S_BOSStd>뛰어난 검술로 적들을 쫓는 악마성의 빛나는 해골. <ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>연속공격을 하면 방어 하는 경우도 있으니 주의하라.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2819"
+    "message": "<ES HT_Text_ES_S_BOSStd>뛰어난 검술로 적들을 쫓는 악마성의 빛나는 해골. <ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>연속공격을 하면 방어 하는 경우도 있으니 주의하라.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN01_Green_Giant_worm": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이들은 구멍에서 놀랄만한 속도로 뛰어 나오며 육중한 몸으로 깔아뭉겐다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>어리숙한 공격으로는 통하지 않을 것이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2820"
+    "message": "<ES HT_Text_ES_S_BOSStd>이들은 구멍에서 놀랄만한 속도로 뛰어 나오며 육중한 몸으로 깔아뭉겐다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>어리숙한 공격으로는 통하지 않을 것이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN07_Blade_Scorpion": {
-    "message": "<ES HT_Text_ES_S_BOSStd>칼날 전갈은 움직임도 빠르지만 공격은 더 빠르다. 녀석들이 즐겨 잠을 자는 어두운 구멍들을 조심하라.<ES HT_Text_ES_S_BOSStd>",
-    "description": "SphinxText.xls, row 2821"
+    "message": "<ES HT_Text_ES_S_BOSStd>칼날 전갈은 움직임도 빠르지만 공격은 더 빠르다. 녀석들이 즐겨 잠을 자는 어두운 구멍들을 조심하라.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN08_Tacked_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>붙어있는 거미는 이곳 저곳에 걸려 있는 것을 좋아한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들이 위에서 떨어질 수 있으니 동굴이 많은 터널에서는 천장을 주의하라.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2822"
+    "message": "<ES HT_Text_ES_S_BOSStd>붙어있는 거미는 이곳 저곳에 걸려 있는 것을 좋아한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들이 위에서 떨어질 수 있으니 동굴이 많은 터널에서는 천장을 주의하라.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN09_Sak_Spike_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>적에게 달라붙은 후, 흔들어 떨어 뜨리기 전까지는 물고 놓지 않는다....<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들은 무리로 사냥하기 때문에 하나가 보이면 반드시 동료들이 주위에 있을 것이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2823"
+    "message": "<ES HT_Text_ES_S_BOSStd>적에게 달라붙은 후, 흔들어 떨어 뜨리기 전까지는 물고 놓지 않는다....<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들은 무리로 사냥하기 때문에 하나가 보이면 반드시 동료들이 주위에 있을 것이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN11_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>어디에서나 빠르게 움직일 수 있는 능력을 가진 절지동물...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>지독한 이빨뿐만이 아니라 다리 끝부분에도 날카로운 발톱이 나 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2824"
+    "message": "<ES HT_Text_ES_S_BOSStd>어디에서나 빠르게 움직일 수 있는 능력을 가진 절지동물...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>지독한 이빨뿐만이 아니라 다리 끝부분에도 날카로운 발톱이 나 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>걷는 모습은 우스워 보이지만 그들이 무는 힘은 대단하다. 사나운 성격이다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들의 추위도 잘 견딘다고 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2825"
+    "message": "<ES HT_Text_ES_S_BOSStd>걷는 모습은 우스워 보이지만 그들이 무는 힘은 대단하다. 사나운 성격이다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>이들의 추위도 잘 견딘다고 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>견갑 피라냐는 파라나가 진화한 새로운 종이다. 최근에 들어서야 발견 되었으며, 다른 종류들보다 빠르고 강하다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2826"
+    "message": "<ES HT_Text_ES_S_BOSStd>견갑 피라냐는 파라나가 진화한 새로운 종이다. 최근에 들어서야 발견 되었으며, 다른 종류들보다 빠르고 강하다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Green_Piranha": {
-    "message": "할 것",
-    "description": "SphinxText.xls, row 2827"
+    "message": "할 것"
   },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
-    "message": "<ES HT_Text_ES_S_BOSStd>뱀 같은 물고기로 전기를 방출 한다.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>전기뱀장어들은 공격적이며 자신의 영역을 지키기 위해 여럿이 모여 넓은 지역의 물에 전기를 흐르게 하는 것으로 알려져 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2828"
+    "message": "<ES HT_Text_ES_S_BOSStd>뱀 같은 물고기로 전기를 방출 한다.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>전기뱀장어들은 공격적이며 자신의 영역을 지키기 위해 여럿이 모여 넓은 지역의 물에 전기를 흐르게 하는 것으로 알려져 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI03_Aka_Manta_Rays": {
-    "message": "<ES HT_Text_ES_S_BOSStd>대형의 식용 바닷물고기로 납작한 몸체와 유연하게 헤엄치는 것으로 알려져 있다.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>오랫동안 요리재료로 사용되며 가까이 다가가면 놀라 달아난다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2829"
+    "message": "<ES HT_Text_ES_S_BOSStd>대형의 식용 바닷물고기로 납작한 몸체와 유연하게 헤엄치는 것으로 알려져 있다.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>오랫동안 요리재료로 사용되며 가까이 다가가면 놀라 달아난다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
-    "message": "<ES HT_Text_ES_S_BOSStd>빠르게 헤엄치며 자신의 영역을 지키는 척추물고기는 종종 고위층에서 자신의 경비를 위해 기르기도 한다.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>유연하게 움직이면서 적들이 감지하기도 전에 공격한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2830"
+    "message": "<ES HT_Text_ES_S_BOSStd>빠르게 헤엄치며 자신의 영역을 지키는 척추물고기는 종종 고위층에서 자신의 경비를 위해 기르기도 한다.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>유연하게 움직이면서 적들이 감지하기도 전에 공격한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI05_Aka_Turtle": {
-    "message": "할 것",
-    "description": "SphinxText.xls, row 2831"
+    "message": "할 것"
   },
   "HT_Text_Inv_Dsc_PI06_Aka_Tentacle_Creature": {
-    "message": "할 것",
-    "description": "SphinxText.xls, row 2832"
+    "message": "할 것"
   },
   "HT_Text_Inv_Dsc_PL01_Eye": {
-    "message": "할 것",
-    "description": "SphinxText.xls, row 2833"
+    "message": "할 것"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
-    "message": "<ES HT_Text_ES_S_BOSStd>나무 생물은 아름다운 마법의 힘을 가지고 있으며 인광의 빛으로 마법을 걸어서 밑에서 기습을 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2834"
+    "message": "<ES HT_Text_ES_S_BOSStd>나무 생물은 아름다운 마법의 힘을 가지고 있으며 인광의 빛으로 마법을 걸어서 밑에서 기습을 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PL04_Sunflower_With_Face": {
-    "message": "<ES HT_Text_ES_S_BOSStd>해바라기를 조심하라. 위협적인 포자 공격을 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2835"
+    "message": "<ES HT_Text_ES_S_BOSStd>해바라기를 조심하라. 위협적인 포자 공격을 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QC01_Pokemon": {
-    "message": "<ES HT_Text_ES_S_BOSStd>느리고, 순하고 조용한 껍질 괴물들은 쓸모가 거의 없다. 부자들은 이들의 껍데기를 장식으로  사용하기도 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2836"
+    "message": "<ES HT_Text_ES_S_BOSStd>느리고, 순하고 조용한 껍질 괴물들은 쓸모가 거의 없다. 부자들은 이들의 껍데기를 장식으로  사용하기도 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR01_Cobra": {
-    "message": "<ES HT_Text_ES_S_BOSStd>코브라는 독을 지닌 두건모양의 뱀으로 나무가 있는 평원에서 서식한다. 자신의 영역 침범하면 이들은 바로 공격해 올 것이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2837"
+    "message": "<ES HT_Text_ES_S_BOSStd>코브라는 독을 지닌 두건모양의 뱀으로 나무가 있는 평원에서 서식한다. 자신의 영역 침범하면 이들은 바로 공격해 올 것이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR02_Sak_Spitting_Toad": {
-    "message": "<ES HT_Text_ES_S_BOSStd>엄청난 크기에도 불구하고 이 두꺼비는 코코넛을  좋아하는 것으로 알려져 있는 조용한 생물이다.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>뱉는 두꺼비들은 코코넛을 주면 탐험가들을 도와 준다고 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2838"
+    "message": "<ES HT_Text_ES_S_BOSStd>엄청난 크기에도 불구하고 이 두꺼비는 코코넛을  좋아하는 것으로 알려져 있는 조용한 생물이다.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>뱉는 두꺼비들은 코코넛을 주면 탐험가들을 도와 준다고 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR03_Sak_Small_Frog": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 개구리는 작지만 안전한 생물은 아니다. 늪지대에서 살고 있으며 독성을 지니고 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2839"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 개구리는 작지만 안전한 생물은 아니다. 늪지대에서 살고 있으며 독성을 지니고 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR04_Sak_Nose_Needler": {
-    "message": "<ES HT_Text_ES_S_BOSStd>노우즈 니들러는 먼지가 많은 지역에서 발견되는 땅을 파는 포유류다. 이 녀석을 잡는기는 그리 쉽지 않을 것이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2840"
+    "message": "<ES HT_Text_ES_S_BOSStd>노우즈 니들러는 먼지가 많은 지역에서 발견되는 땅을 파는 포유류다. 이 녀석을 잡는기는 그리 쉽지 않을 것이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU01_Skeletal_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>큰머리를 이용하여 적에게 박치기를 하는 것으로 알려져 있다. 해골 거미는 적을 기절을 시킨 후에 즐겨가면서 잡아먹는다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2841"
+    "message": "<ES HT_Text_ES_S_BOSStd>큰머리를 이용하여 적에게 박치기를 하는 것으로 알려져 있다. 해골 거미는 적을 기절을 시킨 후에 즐겨가면서 잡아먹는다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo": {
-    "message": "<ES HT_Text_ES_S_BOSStd>위험의 가능성을 감지하면 고속회전을 하며 적에게 돌진한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2842"
+    "message": "<ES HT_Text_ES_S_BOSStd>위험의 가능성을 감지하면 고속회전을 하며 적에게 돌진한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Fire": {
-    "message": "<ES HT_Text_ES_S_BOSStd>해골의 아르마딜로처럼 회전 및 기 모으기 공격을 사용하는 해골의 화염 아르마딜로는 화염공격으로 적들을 태워버린다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>포획을 한 후 이들을 이용 나무로 된 장애물을 태워버릴 수 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2843"
+    "message": "<ES HT_Text_ES_S_BOSStd>해골의 아르마딜로처럼 회전 및 기 모으기 공격을 사용하는 해골의 화염 아르마딜로는 화염공격으로 적들을 태워버린다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>포획을 한 후 이들을 이용 나무로 된 장애물을 태워버릴 수 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "<ES HT_Text_ES_S_BOSStd> 해골의 전기 아르마딜로는 회전하면서 주위로 오는 자들에게 전기충격을 준다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2844"
+    "message": "<ES HT_Text_ES_S_BOSStd> 해골의 전기 아르마딜로는 회전하면서 주위로 오는 자들에게 전기충격을 준다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU04_Mummy_Chihuahua": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 작은 개들은 미이라가 되는 것에 대해 별로 기뻐하지 않기 때문에 근처에 가지 않는 것이 좋다. 만약 실수로 다가간다면 물고 떨어지지 않을 것이다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2845"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 작은 개들은 미이라가 되는 것에 대해 별로 기뻐하지 않기 때문에 근처에 가지 않는 것이 좋다. 만약 실수로 다가간다면 물고 떨어지지 않을 것이다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU05_skeletal_waspspider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>말벌 거미는 날카로운 앞니로 위협한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2846"
+    "message": "<ES HT_Text_ES_S_BOSStd>말벌 거미는 날카로운 앞니로 위협한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU06_Mummy_Worm": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이들은 뿌리를 박으면 한 방향 밖에 볼수 없다. 이들 뒤에 서면 아무런 해가 없다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2847"
+    "message": "<ES HT_Text_ES_S_BOSStd>이들은 뿌리를 박으면 한 방향 밖에 볼수 없다. 이들 뒤에 서면 아무런 해가 없다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU09_Rat": {
-    "message": "<ES HT_Text_ES_S_BOSStd>무언가를 물지 못고는 못 배기는 짜증나는 생물. 사람들이 많은 곳에서 흔히 발견된다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2848"
+    "message": "<ES HT_Text_ES_S_BOSStd>무언가를 물지 못고는 못 배기는 짜증나는 생물. 사람들이 많은 곳에서 흔히 발견된다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU08_Normal_Chihuahua": {
-    "message": "<ES HT_Text_ES_S_BOSStd>치와와는 몸이 작고 부드러운 가죽을 가진 개다. 애견으로 사랑을 받지만 대부분의 사람들은 쉴 새없이 짖어대는 것을 짜증낸다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2849"
+    "message": "<ES HT_Text_ES_S_BOSStd>치와와는 몸이 작고 부드러운 가죽을 가진 개다. 애견으로 사랑을 받지만 대부분의 사람들은 쉴 새없이 짖어대는 것을 짜증낸다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
-    "message": "<ES HT_Text_ES_S_BOSStd>거대한 황소를 더 자세히 설명자면 아마 \"거대한 망나니\"라고나 할까...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>말도 통하지 않고 아무에게나 거칠게 망치를 휘두를 거야. 상대하지 않는 것이 좋아!<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2850"
+    "message": "<ES HT_Text_ES_S_BOSStd>거대한 황소를 더 자세히 설명자면 아마 \"거대한 망나니\"라고나 할까...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>말도 통하지 않고 아무에게나 거칠게 망치를 휘두를 거야. 상대하지 않는 것이 좋아!<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD09_Horned_ReptileMan": {
-    "message": "할 것",
-    "description": "SphinxText.xls, row 2851"
+    "message": "할 것"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>궁전 안마당의 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2852"
+    "message": "<ES HT_Text_ES_S_BOSStd>궁전 안마당의 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_NefertitiItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>네퍼르티티의 편지.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2853"
+    "message": "<ES HT_Text_ES_S_BOSStd>네퍼르티티의 편지.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_SarcophagusKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>마법의 석관을 여는 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2854"
+    "message": "<ES HT_Text_ES_S_BOSStd>마법의 석관을 여는 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_WardrobeKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>옷장의 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2855"
+    "message": "<ES HT_Text_ES_S_BOSStd>옷장의 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_Amulet": {
-    "message": "<ES HT_Text_ES_S_BOSStd>룩소르의 궁전에서 발견된 오래된 부적들.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2857"
+    "message": "<ES HT_Text_ES_S_BOSStd>룩소르의 궁전에서 발견된 오래된 부적들.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_CourtyardKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>궁중 안마당의 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2858"
+    "message": "<ES HT_Text_ES_S_BOSStd>궁중 안마당의 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_TreasureChamberKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>궁중 보석실의 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2859"
+    "message": "<ES HT_Text_ES_S_BOSStd>궁중 보석실의 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_KeyStone": {
-    "message": "<ES HT_Text_ES_S_BOSStd>대형 문 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2860"
+    "message": "<ES HT_Text_ES_S_BOSStd>대형 문 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_ImpulseKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>대형 문 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2861"
+    "message": "<ES HT_Text_ES_S_BOSStd>대형 문 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>중앙 홀의 천문관을 위한 태양의 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2862"
+    "message": "<ES HT_Text_ES_S_BOSStd>중앙 홀의 천문관을 위한 태양의 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>중앙 홀의 천문관을 위한 지구의 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2863"
+    "message": "<ES HT_Text_ES_S_BOSStd>중앙 홀의 천문관을 위한 지구의 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>중앙 홀의 천문관을 위한 달의 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2864"
+    "message": "<ES HT_Text_ES_S_BOSStd>중앙 홀의 천문관을 위한 달의 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Basket": {
-    "message": "<ES HT_Text_ES_S_BOSStd>바스-켓은 마법의 물건으로 사자의 서를 가지고 있다면 아이템들을 스핑크스와 미이라 사이에서 전송할 수 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2874"
+    "message": "<ES HT_Text_ES_S_BOSStd>바스-켓은 마법의 물건으로 사자의 서를 가지고 있다면 아이템들을 스핑크스와 미이라 사이에서 전송할 수 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyPass": {
-    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 통행증.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2879"
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 통행증.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyPearls": {
-    "message": "<ES HT_Text_ES_S_BOSStd>아비도스에서만 발견되는 아름답고 진기한 진주들.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2880"
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스에서만 발견되는 아름답고 진기한 진주들.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_RosettaStonePiece": {
-    "message": "<ES HT_Text_ES_S_BOSStd>로제타석의 부서진 조각들.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2881"
+    "message": "<ES HT_Text_ES_S_BOSStd>로제타석의 부서진 조각들.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_RosettaStone": {
-    "message": "<ES HT_Text_ES_S_BOSStd>고대의 로제타석으로 고대의 문건을 해독할 수 있음.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2882"
+    "message": "<ES HT_Text_ES_S_BOSStd>고대의 로제타석으로 고대의 문건을 해독할 수 있음.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Sak_Crown": {
-    "message": "<ES HT_Text_ES_S_BOSStd>우루크의 성스러운 왕관.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2885"
+    "message": "<ES HT_Text_ES_S_BOSStd>우루크의 성스러운 왕관.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Aby_Crown": {
-    "message": "<ES HT_Text_ES_S_BOSStd>아비도스의 성스러운 관.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2886"
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스의 성스러운 관.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Hel_Crown": {
-    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 성스러운 왕관.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2887"
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 성스러운 왕관.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Set_Crown": {
-    "message": "<ES HT_Text_ES_S_BOSStd>세트의 성스러운 왕관.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2888"
+    "message": "<ES HT_Text_ES_S_BOSStd>세트의 성스러운 왕관.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_PharaohInvite": {
-    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 파라오를 볼 수 있는 초청장.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2889"
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 파라오를 볼 수 있는 초청장.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>딱정벌레들을 양육하기 위한 커다란 항아리.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2893"
+    "message": "<ES HT_Text_ES_S_BOSStd>딱정벌레들을 양육하기 위한 커다란 항아리.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": "<ES HT_Text_ES_S_BOSStd>베두인 변방의 가계에서 딱정벌레들을 반 가격에 살 수 있는 할인 카드.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2894"
+    "message": "<ES HT_Text_ES_S_BOSStd>베두인 변방의 가계에서 딱정벌레들을 반 가격에 살 수 있는 할인 카드.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CageKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>우루크의 철장의 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2896"
+    "message": "<ES HT_Text_ES_S_BOSStd>우루크의 철장의 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_MummyMoney": {
-    "message": "<ES HT_Text_ES_S_BOSStd>우루크의 성에서만 발견되는 진기한 동전.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2897"
+    "message": "<ES HT_Text_ES_S_BOSStd>우루크의 성에서만 발견되는 진기한 동전.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Mum_OldKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>오래된 지하실의 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2898"
+    "message": "<ES HT_Text_ES_S_BOSStd>오래된 지하실의 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Mum_GlyphKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>황금 글리프 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2899"
+    "message": "<ES HT_Text_ES_S_BOSStd>황금 글리프 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PalaceInvite": {
-    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 파라오를 볼 수 있는 초청장.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2904"
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 파라오를 볼 수 있는 초청장.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>여신 누트의 힘을 가진 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2905"
+    "message": "<ES HT_Text_ES_S_BOSStd>여신 누트의 힘을 가진 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>행복을 상징하는 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2906"
+    "message": "<ES HT_Text_ES_S_BOSStd>행복을 상징하는 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>비옥함을 상징하는 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2907"
+    "message": "<ES HT_Text_ES_S_BOSStd>비옥함을 상징하는 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>검보다 강력하다고 전해지는 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2908"
+    "message": "<ES HT_Text_ES_S_BOSStd>검보다 강력하다고 전해지는 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone05": {
-    "message": "<ES HT_Text_ES_S_BOSStd>예언의 힘을 가진 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2909"
+    "message": "<ES HT_Text_ES_S_BOSStd>예언의 힘을 가진 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone06": {
-    "message": "<ES HT_Text_ES_S_BOSStd>대 저택의 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2910"
+    "message": "<ES HT_Text_ES_S_BOSStd>대 저택의 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone07": {
-    "message": "<ES HT_Text_ES_S_BOSStd>보호와 경계의 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2911"
+    "message": "<ES HT_Text_ES_S_BOSStd>보호와 경계의 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone08": {
-    "message": "<ES HT_Text_ES_S_BOSStd>보호와 경계의 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2912"
+    "message": "<ES HT_Text_ES_S_BOSStd>보호와 경계의 마법의 돌, 가장 강력한 저주도 풀 수 있다고 한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Luxor01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>미지의 장소로의 전송을 표시하는 이상한 심볼들이 있는 포털 부적.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2914"
+    "message": "<ES HT_Text_ES_S_BOSStd>미지의 장소로의 전송을 표시하는 이상한 심볼들이 있는 포털 부적.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Abydos01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>아비도스로의 전송을 표시하는 대양의 심볼들이 있는 포털 부적.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2915"
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스로의 전송을 표시하는 대양의 심볼들이 있는 포털 부적.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Heliopolis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스로의 전송을 표시하는 모래 에칭 심볼들이 있는 포털 부적.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2917"
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스로의 전송을 표시하는 모래 에칭 심볼들이 있는 포털 부적.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_DarkArea01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>아누비스 탑으로의 전송을 표시하는 고대의 심볼이 있는 포털 부적.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2920"
+    "message": "<ES HT_Text_ES_S_BOSStd>아누비스 탑으로의 전송을 표시하는 고대의 심볼이 있는 포털 부적.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GoldKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>황금 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2922"
+    "message": "<ES HT_Text_ES_S_BOSStd>황금 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GlyphKey01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>특정 주요 받침대들에 들어 맞는 황금 글리프.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2923"
+    "message": "<ES HT_Text_ES_S_BOSStd>특정 주요 받침대들에 들어 맞는 황금 글리프.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GlyphKey02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>특정 주요 받침대들에 들어 맞는 황금 글리프.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2924"
+    "message": "<ES HT_Text_ES_S_BOSStd>특정 주요 받침대들에 들어 맞는 황금 글리프.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 남쪽 사막으로의 관문을 여는 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2925"
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 남쪽 사막으로의 관문을 여는 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 위대한 오벨리스크로의 관문을 여는 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2926"
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스의 위대한 오벨리스크로의 관문을 여는 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스 지점과 남쪽 해변 사이에 있는 동굴에 있는 석문을 여는 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2927"
+    "message": "<ES HT_Text_ES_S_BOSStd>헬리오폴리스 지점과 남쪽 해변 사이에 있는 동굴에 있는 석문을 여는 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>해골 도끼꾼의 해골.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2928"
+    "message": "<ES HT_Text_ES_S_BOSStd>해골 도끼꾼의 해골.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>해골 도끼꾼의 골반.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2929"
+    "message": "<ES HT_Text_ES_S_BOSStd>해골 도끼꾼의 골반.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>해골 도끼꾼의 팔.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2930"
+    "message": "<ES HT_Text_ES_S_BOSStd>해골 도끼꾼의 팔.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>해골 도끼꾼의 다리.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2931"
+    "message": "<ES HT_Text_ES_S_BOSStd>해골 도끼꾼의 다리.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HippyItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 양산은 시원한 그늘을 만들어 준다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2935"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 양산은 시원한 그늘을 만들어 준다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. 화염 아르마딜로<PC 1>2. 벌레 미이라<N>3. 올모스트-어-불<PC 1>4. 반수<E><ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2936"
+    "message": "<ES HT_Text_ES_S_BOSStd>1. 화염 아르마딜로<PC 1>2. 벌레 미이라<N>3. 올모스트-어-불<PC 1>4. 반수<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. 어둠의 숭배자<PC 1>2. 말벌 거미<N>3. 쥐<PC 1>4. 스파이크 거미<E><ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2937"
+    "message": "<ES HT_Text_ES_S_BOSStd>1. 어둠의 숭배자<PC 1>2. 말벌 거미<N>3. 쥐<PC 1>4. 스파이크 거미<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. 나무 생물<PC 1>2. 해골 거미<N>3. 거대한 황소<PC 1>4. 해골 숭배자<E><ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2938"
+    "message": "<ES HT_Text_ES_S_BOSStd>1. 나무 생물<PC 1>2. 해골 거미<N>3. 거대한 황소<PC 1>4. 해골 숭배자<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Coconut": {
-    "message": "<ES HT_Text_ES_S_BOSStd>코코넛들은 우루크의 용암 두꺼비가 가장 좋아하는 음식이다. 용암 두꺼비에게 이 음식을 주면 탐험가들을 도와준다고 알려져 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2940"
+    "message": "<ES HT_Text_ES_S_BOSStd>코코넛들은 우루크의 용암 두꺼비가 가장 좋아하는 음식이다. 용암 두꺼비에게 이 음식을 주면 탐험가들을 도와준다고 알려져 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ZipLineHook": {
-    "message": "<ES HT_Text_ES_S_BOSStd>분리 가능한 손잡이로써 도르래 줄을 이용할 수 있게 해준다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2941"
+    "message": "<ES HT_Text_ES_S_BOSStd>분리 가능한 손잡이로써 도르래 줄을 이용할 수 있게 해준다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyWellKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>오래된 열쇠.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2945"
+    "message": "<ES HT_Text_ES_S_BOSStd>오래된 열쇠.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_DummyItem": {
-    "message": "가짜 아이템으로 플레이어 재고에 추가되어서는 안 된다",
-    "description": "SphinxText.xls, row 2946"
+    "message": "가짜 아이템으로 플레이어 재고에 추가되어서는 안 된다"
   },
   "HT_Text_Inv_Dsc_AbyStairsKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>우물 정원의 계단으로의 열쇠로써 아비도스 운하로의 접근을 허용한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2947"
+    "message": "<ES HT_Text_ES_S_BOSStd>우물 정원의 계단으로의 열쇠로써 아비도스 운하로의 접근을 허용한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_MedicineBag": {
-    "message": "<ES HT_Text_ES_S_BOSStd>특별한 안감을 댄 가방으로 예민한 의약재료들을 보관한다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2948"
+    "message": "<ES HT_Text_ES_S_BOSStd>특별한 안감을 댄 가방으로 예민한 의약재료들을 보관한다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AtunStatue": {
-    "message": "<ES HT_Text_ES_S_BOSStd>아툰 신의 황금상. 아툰의 마법의 인장을 부술 수 있는 유일한 물건이라 알려져 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2949"
+    "message": "<ES HT_Text_ES_S_BOSStd>아툰 신의 황금상. 아툰의 마법의 인장을 부술 수 있는 유일한 물건이라 알려져 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HathorStatue": {
-    "message": "<ES HT_Text_ES_S_BOSStd>하토르 신의 황금상으로 마법의 힘으로 스며들어 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2950"
+    "message": "<ES HT_Text_ES_S_BOSStd>하토르 신의 황금상으로 마법의 힘으로 스며들어 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2951"
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2952"
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2953"
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2954"
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel05": {
-    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2955"
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel06": {
-    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2956"
+    "message": "<ES HT_Text_ES_S_BOSStd>아비도스 박물관의 박물관에서 도난 당한 보물들 중 하나.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_EagleStone": {
-    "message": "<ES HT_Text_ES_S_BOSStd>마법에 걸린 돌로써 특정 지점에서 위대한 독수리를 소환할 수 있도록 해준다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2957"
+    "message": "<ES HT_Text_ES_S_BOSStd>마법에 걸린 돌로써 특정 지점에서 위대한 독수리를 소환할 수 있도록 해준다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AtunEye": {
-    "message": "<ES HT_Text_ES_S_BOSStd>눈알 모양의 돌. 어떤 조형물의 눈구멍에 들어맞을 것처럼 보인다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2958"
+    "message": "<ES HT_Text_ES_S_BOSStd>눈알 모양의 돌. 어떤 조형물의 눈구멍에 들어맞을 것처럼 보인다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Shoot": {
-    "message": "<ES HT_Text_ES_S_BOSStd>취관의 진정한 명수임을 증명하는 메달.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2959"
+    "message": "<ES HT_Text_ES_S_BOSStd>취관의 진정한 명수임을 증명하는 메달.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Walls": {
-    "message": "<ES HT_Text_ES_S_BOSStd>회랑의 승자임을 증명하는 메달.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2960"
+    "message": "<ES HT_Text_ES_S_BOSStd>회랑의 승자임을 증명하는 메달.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Pairs": {
-    "message": "<ES HT_Text_ES_S_BOSStd>파네브의 짝짓기 게임을 완수함을 증명하는 메달.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2961"
+    "message": "<ES HT_Text_ES_S_BOSStd>파네브의 짝짓기 게임을 완수함을 증명하는 메달.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Simon": {
-    "message": "<ES HT_Text_ES_S_BOSStd>소르콘의 순서 게임을 완수함을 증명하는 메달.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2962"
+    "message": "<ES HT_Text_ES_S_BOSStd>소르콘의 순서 게임을 완수함을 증명하는 메달.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_Certificate": {
-    "message": "<ES HT_Text_ES_S_BOSStd>박물관의 박물학 수집을 완수한 것에 대하여 아비도스 박물관에서 받은 증명서.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2963"
+    "message": "<ES HT_Text_ES_S_BOSStd>박물관의 박물학 수집을 완수한 것에 대하여 아비도스 박물관에서 받은 증명서.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterA": {
-    "message": "<ES HT_Text_ES_S_BOSStd>괴물 30마리를 수집한 것에 대하여 아비도스 박물관에서 받은 증명서.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2964"
+    "message": "<ES HT_Text_ES_S_BOSStd>괴물 30마리를 수집한 것에 대하여 아비도스 박물관에서 받은 증명서.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterB": {
-    "message": "<ES HT_Text_ES_S_BOSStd>괴물 20마리를 수집한 것에 대하여 아비도스 박물관에서 받은 증명서.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2965"
+    "message": "<ES HT_Text_ES_S_BOSStd>괴물 20마리를 수집한 것에 대하여 아비도스 박물관에서 받은 증명서.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterC": {
-    "message": "<ES HT_Text_ES_S_BOSStd>괴물 10마리를 수집한 것에 대하여 아비도스 박물관에서 받은 증명서.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2966"
+    "message": "<ES HT_Text_ES_S_BOSStd>괴물 10마리를 수집한 것에 대하여 아비도스 박물관에서 받은 증명서.<ES HT_Text_ES_E_BOSStd>"
   }
 }

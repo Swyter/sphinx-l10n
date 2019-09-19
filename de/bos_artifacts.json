@@ -1,18 +1,14 @@
 {
   "HT_Text_BOS_Arti_Artifacts": {
-    "message": "Fähigkeiten",
-    "description": "SphinxText.xls, row 2532"
+    "message": "Fähigkeiten"
   },
   "HT_Text_BOS_Arti_Quest": {
-    "message": "Aufgaben",
-    "description": "SphinxText.xls, row 2533"
+    "message": "Aufgaben"
   },
   "HT_Text_BOS_Arti_Monsters": {
-    "message": "Gegenstände für Monster",
-    "description": "SphinxText.xls, row 2534"
+    "message": "Gegenstände für Monster"
   },
   "HT_Text_BOS_Arti_GotNoItems": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Derzeit hast du keine Gegenstände dieser Art.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2535"
+    "message": "<ES HT_Text_ES_S_BOSStd>Derzeit hast du keine Gegenstände dieser Art.<ES HT_Text_ES_E_BOSStd>"
   }
 }

@@ -1,278 +1,209 @@
 {
   "HT_Text_Shop_AskForMore": {
-    "message": "<END TT>Would you like to buy more?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2641"
+    "message": "<END TT>Would you like to buy more?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_BuyFireDart": {
-    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Fire Darts cost <FC 0,128,0>10 Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2642"
+    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Fire Darts cost <FC 0,128,0>10 Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_BuyIceDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Ice Darts cost <FC 0,128,0>12 Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2643"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Ice Darts cost <FC 0,128,0>12 Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_BuyAcidDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Acid Darts cost <FC 0,128,0>12 Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2644"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Acid Darts cost <FC 0,128,0>12 Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_BuyRemoteControlBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_RemoteBeetle><N>Capture beetles: may contain traces of peanut. <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> for 5 beetles.Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2645"
+    "message": "<END TT><I HT_Texture_Icon_RemoteBeetle><N>Capture beetles: may contain traces of peanut. <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> for 5 beetles.Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_BuyExplosiveBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Explosive beetles: illegal in over 20 states. <FC 0,128,0>10 Scarabs<END FC> for 5 beetles. Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2646"
+    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Explosive beetles: illegal in over 20 states. <FC 0,128,0>10 Scarabs<END FC> for 5 beetles. Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_Flex_BuyFireDart": {
-    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Fire Darts cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2647"
+    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Fire Darts cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_Flex_BuyIceDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Ice Darts cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2648"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Ice Darts cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_Flex_BuyAcidDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Acid Darts cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2649"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Acid Darts cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_Flex_BuyExplosiveBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Explosive beetles: illegal in over 20 states. <FC 0,128,0><SO HT_Objective_Shop_Price>Scarabs<END FC> for 5 beetles.Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2650"
+    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Explosive beetles: illegal in over 20 states. <FC 0,128,0><SO HT_Objective_Shop_Price>Scarabs<END FC> for 5 beetles.Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_DartBelt": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_DartBelt> Dart Belt - Holds a maximum of 50 darts of each type<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2651"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_DartBelt> Dart Belt - Holds a maximum of 50 darts of each type<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyDartBelt": {
-    "message": "<END TT>Buy Dart Belt for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2652"
+    "message": "<END TT>Buy Dart Belt for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Test": {
-    "message": "<END TT>Please, look around. Maybe you'll find something else that interests you.<E>",
-    "description": "SphinxText.xls, row 2653"
+    "message": "<END TT>Please, look around. Maybe you'll find something else that interests you.<E>"
   },
   "HT_Text_Shop_TestInventory": {
-    "message": "<END TT>Your inventory has been relieved of it's contents. Have a nice day.<E>",
-    "description": "SphinxText.xls, row 2654"
+    "message": "<END TT>Your inventory has been relieved of it's contents. Have a nice day.<E>"
   },
   "HT_Text_Shop_Sorry": {
-    "message": "<END TT>Sorry, you don't have enough money to buy that.<E>",
-    "description": "SphinxText.xls, row 2655"
+    "message": "<END TT>Sorry, you don't have enough money to buy that.<E>"
   },
   "HT_Text_Shop_Full": {
-    "message": "<END TT>You've already got as many of those as you can carry.<E>",
-    "description": "SphinxText.xls, row 2656"
+    "message": "<END TT>You've already got as many of those as you can carry.<E>"
   },
   "HT_Text_Shop_NoStock": {
-    "message": "<END TT>I'm sorry, we don't have any more of those.<E>",
-    "description": "SphinxText.xls, row 2657"
+    "message": "<END TT>I'm sorry, we don't have any more of those.<E>"
   },
   "HT_Text_Shop_IceDart": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Ice Darts<N>Shoot these at things to freeze them.<E>",
-    "description": "SphinxText.xls, row 2658"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Ice Darts<N>Shoot these at things to freeze them.<E>"
   },
   "HT_Text_Shop_FireDart": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_FireDart> Fire Darts<N>Lets make with the arson already!<E>",
-    "description": "SphinxText.xls, row 2659"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_FireDart> Fire Darts<N>Lets make with the arson already!<E>"
   },
   "HT_Text_Shop_AcidDart": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Acid Darts<N>Highly corrosive pipe launched projectiles.<E>",
-    "description": "SphinxText.xls, row 2660"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Acid Darts<N>Highly corrosive pipe launched projectiles.<E>"
   },
   "HT_Text_Shop_RemoteControlBeetle": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture beetles<N>Batteries not included.<E>",
-    "description": "SphinxText.xls, row 2661"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture beetles<N>Batteries not included.<E>"
   },
   "HT_Text_Shop_CaptureBeetles05": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 5<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2662"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 5<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles05": {
-    "message": "<END TT>Buy 5 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2663"
+    "message": "<END TT>Buy 5 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_CaptureBeetles15": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 15<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2664"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 15<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles15": {
-    "message": "<END TT>Buy 15 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2665"
+    "message": "<END TT>Buy 15 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_CaptureBeetles30": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 30<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2666"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 30<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles30": {
-    "message": "<END TT>Buy 30 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2667"
+    "message": "<END TT>Buy 30 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_BeetleSatchel": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Beetle Satchel - Holds a maximum of 50 Capture Beetles<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2668"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Beetle Satchel - Holds a maximum of 50 Capture Beetles<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyBeetleSatchel": {
-    "message": "<END TT>Buy Beetle Satchel for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2669"
+    "message": "<END TT>Buy Beetle Satchel for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_AcidDarts10": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Acid Darts x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2670"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Acid Darts x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyAcidDarts10": {
-    "message": "<END TT>Buy 10 Acid Darts for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2671"
+    "message": "<END TT>Buy 10 Acid Darts for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_IceDarts10": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Ice Darts x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2672"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Ice Darts x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyIceDarts10": {
-    "message": "<END TT>Buy 10 Ice Darts for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2673"
+    "message": "<END TT>Buy 10 Ice Darts for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_ExplosiveBeetle": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Explosive beetles<N>If swallowed seek medical attention immediately.<E>",
-    "description": "SphinxText.xls, row 2674"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Explosive beetles<N>If swallowed seek medical attention immediately.<E>"
   },
   "HT_Text_Shop_BronzeAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_BronzeAnkh> Bronze Ankh<N>This is a girl's Ankh, the weakest model on the market.<E>",
-    "description": "SphinxText.xls, row 2675"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_BronzeAnkh> Bronze Ankh<N>This is a girl's Ankh, the weakest model on the market.<E>"
   },
   "HT_Text_Shop_BuyBronzeAnkh": {
-    "message": "<END TT><I HT_Texture_Icon_BronzeAnkh> Bronze Ankh<N>This is a girl's Ankh, the weakest model on the market. Buy one?<N><B 1>Yes<N><B 2>No, I'm a real man",
-    "description": "SphinxText.xls, row 2676"
+    "message": "<END TT><I HT_Texture_Icon_BronzeAnkh> Bronze Ankh<N>This is a girl's Ankh, the weakest model on the market. Buy one?<N><B 1>Yes<N><B 2>No, I'm a real man"
   },
   "HT_Text_Shop_SilverAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_SilverAnkh> Silver Ankh<N>For those who can't quite afford a Gold Ankh.<E>",
-    "description": "SphinxText.xls, row 2677"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_SilverAnkh> Silver Ankh<N>For those who can't quite afford a Gold Ankh.<E>"
   },
   "HT_Text_Shop_BuySilverAnkh": {
-    "message": "<END TT><I HT_Texture_Icon_SilverAnkh> Silver Ankh<N>For those who can't quite afford a Gold Ankh. Buy one?<N><B 1>It's all I can afford<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2678"
+    "message": "<END TT><I HT_Texture_Icon_SilverAnkh> Silver Ankh<N>For those who can't quite afford a Gold Ankh. Buy one?<N><B 1>It's all I can afford<N><B 2>No<E>"
   },
   "HT_Text_Shop_GoldAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Gold Ankh<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2679"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Gold Ankh<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyGoldAnkh": {
-    "message": "<END TT>Buy Gold Ankh for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 2680"
+    "message": "<END TT>Buy Gold Ankh for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
   },
   "HT_Text_Shop_GoldAnkhPiece": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhPiece> Gold Ankh Piece<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2681"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhPiece> Gold Ankh Piece<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyGoldAnkhPiece": {
-    "message": "<END TT>Buy Gold Ankh Piece for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2682"
+    "message": "<END TT>Buy Gold Ankh Piece for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_GateKey03": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GlyphKey02> Cave Door Key<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2683"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GlyphKey02> Cave Door Key<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyGateKey03": {
-    "message": "<END TT>Buy Cave Door Key for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2684"
+    "message": "<END TT>Buy Cave Door Key for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_AtunEyes04": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Atun Eye x 4<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2685"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Atun Eye x 4<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyAtunEyes04": {
-    "message": "<END TT>Buy 4 Atun Eyes for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2686"
+    "message": "<END TT>Buy 4 Atun Eyes for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Glyph_1": {
-    "message": "<DHP><DP><END TT>AGlyph.<N>Somebody set up us the bomb.<E>",
-    "description": "SphinxText.xls, row 2687"
+    "message": "<DHP><DP><END TT>AGlyph.<N>Somebody set up us the bomb.<E>"
   },
   "HT_Text_Shop_Glyph_2": {
-    "message": "<DHP><DP><END TT>Another Glyph. <N>How are you gentlemen.<E>",
-    "description": "SphinxText.xls, row 2688"
+    "message": "<DHP><DP><END TT>Another Glyph. <N>How are you gentlemen.<E>"
   },
   "HT_Text_Shop_Glyph_3": {
-    "message": "<DHP><DP><END TT>A different Glyph. <N>You have no chance to survive make your time .<E>",
-    "description": "SphinxText.xls, row 2689"
+    "message": "<DHP><DP><END TT>A different Glyph. <N>You have no chance to survive make your time .<E>"
   },
   "HT_Text_Shop_Glyph_4": {
-    "message": "<DHP><DP><END TT>Another different Glyph. <N>Move 'zig' ! For great justice .<E>",
-    "description": "SphinxText.xls, row 2690"
+    "message": "<DHP><DP><END TT>Another different Glyph. <N>Move 'zig' ! For great justice .<E>"
   },
   "HT_Text_Shop_BuyGlyph_1": {
-    "message": "<END TT>A glyph.<N>Somebody set up us the bomb . Would you like to buy it?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2691"
+    "message": "<END TT>A glyph.<N>Somebody set up us the bomb . Would you like to buy it?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_BuyGlyph_2": {
-    "message": "<END TT>Another glyph. <N>How are you gentlemen . Would you like to buy it?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2692"
+    "message": "<END TT>Another glyph. <N>How are you gentlemen . Would you like to buy it?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_BuyGlyph_3": {
-    "message": "<END TT>A different glyph. <N>You have no chance to survive make your time . Would you like to buy it?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2693"
+    "message": "<END TT>A different glyph. <N>You have no chance to survive make your time . Would you like to buy it?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_BuyGlyph_4": {
-    "message": "<END TT>Another different Glyph. <N>Move 'zig' ! For great justice . Would you like to buy it?<N><B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 2694"
+    "message": "<END TT>Another different Glyph. <N>Move 'zig' ! For great justice . Would you like to buy it?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_Burble": {
-    "message": "<DHP><DP><END TT>Mummy Bird<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2695"
+    "message": "<DHP><DP><END TT>Mummy Bird<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyBurble": {
-    "message": "<END TT>Mummy Birds cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2696"
+    "message": "<END TT>Mummy Birds cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Pokemon": {
-    "message": "<DHP><DP><END TT>Shell Critter<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2697"
+    "message": "<DHP><DP><END TT>Shell Critter<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyPokemon": {
-    "message": "<END TT>Shell Critters cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2698"
+    "message": "<END TT>Shell Critters cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Rat": {
-    "message": "<DHP><DP><END TT>Rat<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2699"
+    "message": "<DHP><DP><END TT>Rat<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyRat": {
-    "message": "<END TT>Rats cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2700"
+    "message": "<END TT>Rats cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Armadillo": {
-    "message": "<DHP><DP><END TT>Shuttlecock Bird<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2701"
+    "message": "<DHP><DP><END TT>Shuttlecock Bird<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyArmadillo": {
-    "message": "<END TT>Shuttlecocks cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2702"
+    "message": "<END TT>Shuttlecocks cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Lizard": {
-    "message": "<DHP><DP><END TT>Featherless Turkey<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2703"
+    "message": "<DHP><DP><END TT>Featherless Turkey<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyLizard": {
-    "message": "<END TT>Turkeys cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2704"
+    "message": "<END TT>Turkeys cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Piranha": {
-    "message": "<DHP><DP><END TT>Small Frog<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>",
-    "description": "SphinxText.xls, row 2705"
+    "message": "<DHP><DP><END TT>Small Frog<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyPiranha": {
-    "message": "<END TT>Frogs cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>",
-    "description": "SphinxText.xls, row 2706"
+    "message": "<END TT>Frogs cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_BuyMonster": {
-    "message": "<END TT>That's a fine specimen, I'll give you <SO HT_Objective_Shop_Price> for it.<N>  <B 2> No way<N>  <B 1> It's a deal<E>",
-    "description": "SphinxText.xls, row 2707"
+    "message": "<END TT>That's a fine specimen, I'll give you <SO HT_Objective_Shop_Price> for it.<N>  <B 2> No way<N>  <B 1> It's a deal<E>"
   },
   "HT_Text_Shop_SuitYourself": {
-    "message": "Suit yourself then. The offer's always open if you change your mind...<E>",
-    "description": "SphinxText.xls, row 2708"
+    "message": "Suit yourself then. The offer's always open if you change your mind...<E>"
   },
   "HT_Text_Shop_NothingToSell": {
-    "message": "If you want to sell me monsters, you'd better go and catch some first...<E>",
-    "description": "SphinxText.xls, row 2709"
+    "message": "If you want to sell me monsters, you'd better go and catch some first...<E>"
   }
 }

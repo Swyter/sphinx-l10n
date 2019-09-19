@@ -1,1002 +1,752 @@
 {
   "HT_Text_Inv_BladeOfOsiris": {
-    "message": "Lama di Osiride",
-    "description": "SphinxText.xls, row 2207"
+    "message": "Lama di Osiride"
   },
   "HT_Text_Inv_AncientClaws": {
-    "message": "Artigli antichi",
-    "description": "SphinxText.xls, row 2208"
+    "message": "Artigli antichi"
   },
   "HT_Text_Inv_OnyxOfIsis": {
-    "message": "Onice di Iside",
-    "description": "SphinxText.xls, row 2209"
+    "message": "Onice di Iside"
   },
   "HT_Text_Inv_WingsOfIbis": {
-    "message": "Ali di Ibis",
-    "description": "SphinxText.xls, row 2210"
+    "message": "Ali di Ibis"
   },
   "HT_Text_Inv_Blowpipe": {
-    "message": "Cerbottana",
-    "description": "SphinxText.xls, row 2211"
+    "message": "Cerbottana"
   },
   "HT_Text_Inv_ElectricAnkh": {
-    "message": "Ankh elettrico",
-    "description": "SphinxText.xls, row 2212"
+    "message": "Ankh elettrico"
   },
   "HT_Text_Inv_OxygenAnkh": {
-    "message": "Ankh a ossigeno",
-    "description": "SphinxText.xls, row 2213"
+    "message": "Ankh a ossigeno"
   },
   "HT_Text_Inv_CrocodileScales": {
-    "message": "Scaglie di coccodrillo",
-    "description": "SphinxText.xls, row 2214"
+    "message": "Scaglie di coccodrillo"
   },
   "HT_Text_Inv_UnderwaterProjectile": {
-    "message": "Proiettile subacqueo",
-    "description": "SphinxText.xls, row 2215"
+    "message": "Proiettile subacqueo"
   },
   "HT_Text_Inv_HandsOfAmun": {
-    "message": "Mani di Amun",
-    "description": "SphinxText.xls, row 2216"
+    "message": "Mani di Amun"
   },
   "HT_Text_Inv_ScrollOfSokar": {
-    "message": "Pergamena di Sokar",
-    "description": "SphinxText.xls, row 2217"
+    "message": "Pergamena di Sokar"
   },
   "HT_Text_Inv_ScarabPurse": {
-    "message": "Borsa con scarabei",
-    "description": "SphinxText.xls, row 2218"
+    "message": "Borsa con scarabei"
   },
   "HT_Text_Inv_ScarabPurse2": {
-    "message": "Borsone con gli scarabei",
-    "description": "SphinxText.xls, row 2219"
+    "message": "Borsone con gli scarabei"
   },
   "HT_Text_Inv_BeetlePouch": {
-    "message": "Sacchetto per coleotteri",
-    "description": "SphinxText.xls, row 2220"
+    "message": "Sacchetto per coleotteri"
   },
   "HT_Text_Inv_DartBelt": {
-    "message": "Cintura con dardi",
-    "description": "SphinxText.xls, row 2221"
+    "message": "Cintura con dardi"
   },
   "HT_Text_Inv_RosettaTablePiece": {
-    "message": "Pezzo di stele di Rosetta",
-    "description": "SphinxText.xls, row 2222"
+    "message": "Pezzo di stele di Rosetta"
   },
   "HT_Text_Inv_BeetleStachel": {
-    "message": "Sacca con coleotteri",
-    "description": "SphinxText.xls, row 2223"
+    "message": "Sacca con coleotteri"
   },
   "HT_Text_Inv_WingsOfRa": {
-    "message": "Ali di Ra",
-    "description": "SphinxText.xls, row 2224"
+    "message": "Ali di Ra"
   },
   "HT_Text_Inv_ClawUpgrade": {
-    "message": "Potenziamento artiglio",
-    "description": "SphinxText.xls, row 2225"
+    "message": "Potenziamento artiglio"
   },
   "HT_Text_Inv_HandsOfAmunRa": {
-    "message": "Mani di Amun Ra",
-    "description": "SphinxText.xls, row 2226"
+    "message": "Mani di Amun Ra"
   },
   "HT_Text_Inv_ShieldOfOsiris": {
-    "message": "Scudo di Osiride",
-    "description": "SphinxText.xls, row 2227"
+    "message": "Scudo di Osiride"
   },
   "HT_Text_Inv_RingOfMaat": {
-    "message": "Anello di Maat",
-    "description": "SphinxText.xls, row 2228"
+    "message": "Anello di Maat"
   },
   "HT_Text_Inv_SnakeCollar": {
-    "message": "Collana di serpi",
-    "description": "SphinxText.xls, row 2229"
+    "message": "Collana di serpi"
   },
   "HT_Text_Inv_SandsOfTime": {
-    "message": "Sabbie del Tempo",
-    "description": "SphinxText.xls, row 2230"
+    "message": "Sabbie del Tempo"
   },
   "HT_Text_Inv_BasKetPaddle": {
-    "message": "Pagaia di BasKet",
-    "description": "SphinxText.xls, row 2231"
+    "message": "Pagaia di BasKet"
   },
   "HT_Text_Inv_BasKetGrapple": {
-    "message": "Rampino di BasKet",
-    "description": "SphinxText.xls, row 2232"
+    "message": "Rampino di BasKet"
   },
   "HT_Text_Inv_WingsOfThoth": {
-    "message": "Ali di Thoth",
-    "description": "SphinxText.xls, row 2233"
+    "message": "Ali di Thoth"
   },
   "HT_Text_Inv_NoteFromNefertiti": {
-    "message": "Messaggio di Nefertiti",
-    "description": "SphinxText.xls, row 2234"
+    "message": "Messaggio di Nefertiti"
   },
   "HT_Text_Inv_Crown": {
-    "message": "Corona",
-    "description": "SphinxText.xls, row 2235"
+    "message": "Corona"
   },
   "HT_Text_Inv_BookOfTheDead": {
-    "message": "Libro dei Morti",
-    "description": "SphinxText.xls, row 2236"
+    "message": "Libro dei Morti"
   },
   "HT_Text_Inv_Lizard": {
-    "message": "Lucertola goffa",
-    "description": "SphinxText.xls, row 2237"
+    "message": "Lucertola goffa"
   },
   "HT_Text_Inv_AnubisAmulet": {
-    "message": "Amuleto di Anubi",
-    "description": "SphinxText.xls, row 2238"
+    "message": "Amuleto di Anubi"
   },
   "HT_Text_Inv_AbydosGateKey": {
-    "message": "Chiave Porta di Abydos",
-    "description": "SphinxText.xls, row 2239"
+    "message": "Chiave Porta di Abydos"
   },
   "HT_Text_Inv_Herbs": {
-    "message": "Erbe medicinali",
-    "description": "SphinxText.xls, row 2240"
+    "message": "Erbe medicinali"
   },
   "HT_Text_Inv_MayersCureIngredient1": {
-    "message": "Ingrediente 1 cura Sindaco",
-    "description": "SphinxText.xls, row 2241"
+    "message": "Ingrediente 1 cura Sindaco"
   },
   "HT_Text_Inv_MayorsCureIngredient2": {
-    "message": "Ingrediente 2 cura Sindaco",
-    "description": "SphinxText.xls, row 2242"
+    "message": "Ingrediente 2 cura Sindaco"
   },
   "HT_Text_Inv_MayorsCureIngredient3": {
-    "message": "Ingrediente 3 cura Sindaco",
-    "description": "SphinxText.xls, row 2243"
+    "message": "Ingrediente 3 cura Sindaco"
   },
   "HT_Text_Inv_MessageForAkarianKing": {
-    "message": "Messaggio per il re di Akaria",
-    "description": "SphinxText.xls, row 2244"
+    "message": "Messaggio per il re di Akaria"
   },
   "HT_Text_Inv_AnkhContainer": {
-    "message": "Ankh d'oro",
-    "description": "SphinxText.xls, row 2245"
+    "message": "Ankh d'oro"
   },
   "HT_Text_Inv_AnkhPiece": {
-    "message": "Pezzo d'ankh d'oro",
-    "description": "SphinxText.xls, row 2246"
+    "message": "Pezzo d'ankh d'oro"
   },
   "HT_Text_Inv_CanopicVase": {
-    "message": "Vaso canopo",
-    "description": "SphinxText.xls, row 2247"
+    "message": "Vaso canopo"
   },
   "HT_Text_Inv_BronzeScarab": {
-    "message": "Scarabeo di bronzo",
-    "description": "SphinxText.xls, row 2248"
+    "message": "Scarabeo di bronzo"
   },
   "HT_Text_Inv_SilverScarab": {
-    "message": "Scarabeo d'argento",
-    "description": "SphinxText.xls, row 2249"
+    "message": "Scarabeo d'argento"
   },
   "HT_Text_Inv_GoldScarab": {
-    "message": "Scarabeo d'oro",
-    "description": "SphinxText.xls, row 2250"
+    "message": "Scarabeo d'oro"
   },
   "HT_Text_Inv_CrystalScarab": {
-    "message": "Scarabeo di cristallo",
-    "description": "SphinxText.xls, row 2251"
+    "message": "Scarabeo di cristallo"
   },
   "HT_Text_Inv_ConstructionBeetle": {
-    "message": "Coleottero da costruzione",
-    "description": "SphinxText.xls, row 2252"
+    "message": "Coleottero da costruzione"
   },
   "HT_Text_Inv_EnigmaBeetle": {
-    "message": "Coleottero misterioso",
-    "description": "SphinxText.xls, row 2253"
+    "message": "Coleottero misterioso"
   },
   "HT_Text_Inv_ExplosiveBeetle": {
-    "message": "Coleottero esplosivo",
-    "description": "SphinxText.xls, row 2254"
+    "message": "Coleottero esplosivo"
   },
   "HT_Text_Inv_RemoteControlBeetle": {
-    "message": "Coleottero RC",
-    "description": "SphinxText.xls, row 2255"
+    "message": "Coleottero RC"
   },
   "HT_Text_Inv_StandardDart": {
-    "message": "Dardo standard",
-    "description": "SphinxText.xls, row 2256"
+    "message": "Dardo standard"
   },
   "HT_Text_Inv_CaptureBeetle": {
-    "message": "Coleottero da cattura",
-    "description": "SphinxText.xls, row 2257"
+    "message": "Coleottero da cattura"
   },
   "HT_Text_Inv_IceDart": {
-    "message": "Dardo ghiaccio",
-    "description": "SphinxText.xls, row 2258"
+    "message": "Dardo ghiaccio"
   },
   "HT_Text_Inv_AcidDart": {
-    "message": "Dardo acido",
-    "description": "SphinxText.xls, row 2259"
+    "message": "Dardo acido"
   },
   "HT_Text_Inv_FireDart": {
-    "message": "Dardo fuoco",
-    "description": "SphinxText.xls, row 2260"
+    "message": "Dardo fuoco"
   },
   "HT_Text_Inv_MiniGameDart": {
-    "message": "Dardo da gioco",
-    "description": "SphinxText.xls, row 2261"
+    "message": "Dardo da gioco"
   },
   "HT_Text_Inv_BounceDart": {
-    "message": "Dardo rimbalzante",
-    "description": "SphinxText.xls, row 2262"
+    "message": "Dardo rimbalzante"
   },
   "HT_Text_Inv_PossessionDart": {
-    "message": "Dardo possessione",
-    "description": "SphinxText.xls, row 2263"
+    "message": "Dardo possessione"
   },
   "HT_Text_Inv_KaDart": {
-    "message": "Dardo di Ka",
-    "description": "SphinxText.xls, row 2264"
+    "message": "Dardo di Ka"
   },
   "HT_Text_Inv_SilverAnkh": {
-    "message": "Ankh d'argento",
-    "description": "SphinxText.xls, row 2265"
+    "message": "Ankh d'argento"
   },
   "HT_Text_Inv_BronzeAnkh": {
-    "message": "Ankh di bronzo",
-    "description": "SphinxText.xls, row 2266"
+    "message": "Ankh di bronzo"
   },
   "HT_Text_Inv_CrystalKey": {
-    "message": "Chiave di cristallo",
-    "description": "SphinxText.xls, row 2267"
+    "message": "Chiave di cristallo"
   },
   "HT_Text_Inv_MagicSeed": {
-    "message": "Semi magici",
-    "description": "SphinxText.xls, row 2268"
+    "message": "Semi magici"
   },
   "HT_Text_Inv_CrystalKey1": {
-    "message": "Chiave di cristallo 1",
-    "description": "SphinxText.xls, row 2269"
+    "message": "Chiave di cristallo 1"
   },
   "HT_Text_Inv_CrystalKey2": {
-    "message": "Chiave di cristallo 2",
-    "description": "SphinxText.xls, row 2270"
+    "message": "Chiave di cristallo 2"
   },
   "HT_Text_Inv_CrystalKey3": {
-    "message": "Chiave di cristallo 3",
-    "description": "SphinxText.xls, row 2271"
+    "message": "Chiave di cristallo 3"
   },
   "HT_Text_Inv_Pearl": {
-    "message": "Diamante blu",
-    "description": "SphinxText.xls, row 2272"
+    "message": "Diamante blu"
   },
   "HT_Text_Inv_Cabbage": {
-    "message": "Cavolo",
-    "description": "SphinxText.xls, row 2273"
+    "message": "Cavolo"
   },
   "HT_Text_Inv_Carrot": {
-    "message": "Carota",
-    "description": "SphinxText.xls, row 2274"
+    "message": "Carota"
   },
   "HT_Text_Inv_Sakkara_Berry": {
-    "message": "Bacca",
-    "description": "SphinxText.xls, row 2275"
+    "message": "Bacca"
   },
   "HT_Text_Inv_Bread": {
-    "message": "Pane",
-    "description": "SphinxText.xls, row 2276"
+    "message": "Pane"
   },
   "HT_Text_Inv_CloakOfInvisibility": {
-    "message": "Pietra oscura",
-    "description": "SphinxText.xls, row 2277"
+    "message": "Pietra oscura"
   },
   "HT_Text_Inv_HourGlass": {
-    "message": "Clessidra",
-    "description": "SphinxText.xls, row 2278"
+    "message": "Clessidra"
   },
   "HT_Text_Inv_AbyLever": {
-    "message": "Leva",
-    "description": "SphinxText.xls, row 2279"
+    "message": "Leva"
   },
   "HT_Text_Inv_PhysNote": {
-    "message": "Appunto del medico",
-    "description": "SphinxText.xls, row 2280"
+    "message": "Appunto del medico"
   },
   "HT_Text_Inv_ArmadilloTrophy": {
-    "message": "Trofeo",
-    "description": "SphinxText.xls, row 2281"
+    "message": "Trofeo"
   },
   "HT_Text_Inv_MagicWater": {
-    "message": "Acqua magica",
-    "description": "SphinxText.xls, row 2282"
+    "message": "Acqua magica"
   },
   "HT_Text_Inv_BC01_Giant_Prawn": {
-    "message": "Gambero gigante",
-    "description": "SphinxText.xls, row 2283"
+    "message": "Gambero gigante"
   },
   "HT_Text_Inv_BM09_Smiling_burble": {
-    "message": "Blob sorridente",
-    "description": "SphinxText.xls, row 2284"
+    "message": "Blob sorridente"
   },
   "HT_Text_Inv_BM10_i_Cyclops": {
-    "message": "Ciclopi",
-    "description": "SphinxText.xls, row 2285"
+    "message": "Ciclopi"
   },
   "HT_Text_Inv_BM12_slim_burble": {
-    "message": "Blob esile",
-    "description": "SphinxText.xls, row 2286"
+    "message": "Blob esile"
   },
   "HT_Text_Inv_BR04_Goofy_Lizard": {
-    "message": "Lucertola goffa",
-    "description": "SphinxText.xls, row 2287"
+    "message": "Lucertola goffa"
   },
   "HT_Text_Inv_BR05_Dino_Oaf": {
-    "message": "Dinosauro goffo",
-    "description": "SphinxText.xls, row 2288"
+    "message": "Dinosauro goffo"
   },
   "HT_Text_Inv_BR06_Half_Brute": {
-    "message": "Mezzobruto",
-    "description": "SphinxText.xls, row 2289"
+    "message": "Mezzobruto"
   },
   "HT_Text_Inv_BU01_Mummy_Minotaur": {
-    "message": "Minotauro mummia",
-    "description": "SphinxText.xls, row 2290"
+    "message": "Minotauro mummia"
   },
   "HT_Text_Inv_BU02_Skeletal_Axeman": {
-    "message": "Scheletro con ascia",
-    "description": "SphinxText.xls, row 2291"
+    "message": "Scheletro con ascia"
   },
   "HT_Text_Inv_BU03_zombie_man": {
-    "message": "Zombie",
-    "description": "SphinxText.xls, row 2292"
+    "message": "Zombie"
   },
   "HT_Text_Inv_BU05_almost_a_bull": {
-    "message": "Quasitoro",
-    "description": "SphinxText.xls, row 2293"
+    "message": "Quasitoro"
   },
   "HT_Text_Inv_BU06_MBird": {
-    "message": "Uccello mummia",
-    "description": "SphinxText.xls, row 2294"
+    "message": "Uccello mummia"
   },
   "HT_Text_Inv_FL02_Featherless_Turkey": {
-    "message": "Tacchino spiumato",
-    "description": "SphinxText.xls, row 2295"
+    "message": "Tacchino spiumato"
   },
   "HT_Text_Inv_FL03_shuttlecock_bird": {
-    "message": "Uccello volano",
-    "description": "SphinxText.xls, row 2296"
+    "message": "Uccello volano"
   },
   "HT_Text_Inv_FL04_Skeletal_Bat": {
-    "message": "Pipistrello scheletrico",
-    "description": "SphinxText.xls, row 2297"
+    "message": "Pipistrello scheletrico"
   },
   "HT_Text_Inv_FL04_Skeletal_Bat_Fire": {
-    "message": "Pipistrello di fuoco scheletrico",
-    "description": "SphinxText.xls, row 2298"
+    "message": "Pipistrello di fuoco scheletrico"
   },
   "HT_Text_Inv_FL05_Mummy_Eagle": {
-    "message": "Aquila mummia",
-    "description": "SphinxText.xls, row 2299"
+    "message": "Aquila mummia"
   },
   "HT_Text_Inv_FL06_Undead_Man": {
-    "message": "Non-morto",
-    "description": "SphinxText.xls, row 2300"
+    "message": "Non-morto"
   },
   "HT_Text_Inv_HD02_Cat": {
-    "message": "Gatto con le lame",
-    "description": "SphinxText.xls, row 2301"
+    "message": "Gatto con le lame"
   },
   "HT_Text_Inv_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": "Razzista",
-    "description": "SphinxText.xls, row 2302"
+    "message": "Razzista"
   },
   "HT_Text_Inv_HD14_Crab": {
-    "message": "Gatto con le chele",
-    "description": "SphinxText.xls, row 2303"
+    "message": "Gatto con le chele"
   },
   "HT_Text_Inv_HD15_GuardTest": {
-    "message": "Uomo-testuggine",
-    "description": "SphinxText.xls, row 2304"
+    "message": "Uomo-testuggine"
   },
   "HT_Text_Inv_HD17_Sharpbeak": {
-    "message": "Becco acuminato",
-    "description": "SphinxText.xls, row 2305"
+    "message": "Becco acuminato"
   },
   "HT_Text_Inv_HD43_Skull_Aka_Worshipper": {
-    "message": "Adoratore Teschio",
-    "description": "SphinxText.xls, row 2306"
+    "message": "Adoratore Teschio"
   },
   "HT_Text_Inv_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "Adoratore Tenebre",
-    "description": "SphinxText.xls, row 2307"
+    "message": "Adoratore Tenebre"
   },
   "HT_Text_Inv_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "Teschio spadaccino",
-    "description": "SphinxText.xls, row 2308"
+    "message": "Teschio spadaccino"
   },
   "HT_Text_Inv_IN01_Green_Giant_worm": {
-    "message": "Verme verde gigante",
-    "description": "SphinxText.xls, row 2309"
+    "message": "Verme verde gigante"
   },
   "HT_Text_Inv_IN07_Blade_Scorpion": {
-    "message": "Scorpione-falce",
-    "description": "SphinxText.xls, row 2310"
+    "message": "Scorpione-falce"
   },
   "HT_Text_Inv_IN08_Tacked_Spider": {
-    "message": "Ragno impalato",
-    "description": "SphinxText.xls, row 2311"
+    "message": "Ragno impalato"
   },
   "HT_Text_Inv_IN09_Sak_Spike_Spider": {
-    "message": "Ragno istrice",
-    "description": "SphinxText.xls, row 2312"
+    "message": "Ragno istrice"
   },
   "HT_Text_Inv_IN11_Spider": {
-    "message": "Ragno",
-    "description": "SphinxText.xls, row 2313"
+    "message": "Ragno"
   },
   "HT_Text_Inv_PI01_Piranha": {
-    "message": "Piranha",
-    "description": "SphinxText.xls, row 2314"
+    "message": "Piranha"
   },
   "HT_Text_Inv_PI01_Hard_Piranha": {
-    "message": "Piranha corazzato",
-    "description": "SphinxText.xls, row 2315"
+    "message": "Piranha corazzato"
   },
   "HT_Text_Inv_PI01_Green_Piranha": {
-    "message": "Piranha verde",
-    "description": "SphinxText.xls, row 2316"
+    "message": "Piranha verde"
   },
   "HT_Text_Inv_PI02_Electric_Eel": {
-    "message": "Lampreda",
-    "description": "SphinxText.xls, row 2317"
+    "message": "Lampreda"
   },
   "HT_Text_Inv_PI03_Aka_Manta_Rays": {
-    "message": "Manta",
-    "description": "SphinxText.xls, row 2318"
+    "message": "Manta"
   },
   "HT_Text_Inv_PI04_Aka_Spinefish": {
-    "message": "Pesce trombetta",
-    "description": "SphinxText.xls, row 2319"
+    "message": "Pesce trombetta"
   },
   "HT_Text_Inv_PI05_Aka_Turtle": {
-    "message": "Tartaruga",
-    "description": "SphinxText.xls, row 2320"
+    "message": "Tartaruga"
   },
   "HT_Text_Inv_PI06_Aka_Tentacle_Creature": {
-    "message": "Tentacolo",
-    "description": "SphinxText.xls, row 2321"
+    "message": "Tentacolo"
   },
   "HT_Text_Inv_PL01_Eye": {
-    "message": "Occhio",
-    "description": "SphinxText.xls, row 2322"
+    "message": "Occhio"
   },
   "HT_Text_Inv_PL02_Tree_Creature": {
-    "message": "Creatura albero",
-    "description": "SphinxText.xls, row 2323"
+    "message": "Creatura albero"
   },
   "HT_Text_Inv_PL04_Sunflower_With_Face": {
-    "message": "Girasole",
-    "description": "SphinxText.xls, row 2324"
+    "message": "Girasole"
   },
   "HT_Text_Inv_QC01_Pokemon": {
-    "message": "Creatura col guscio",
-    "description": "SphinxText.xls, row 2325"
+    "message": "Creatura col guscio"
   },
   "HT_Text_Inv_QR01_Cobra": {
-    "message": "Cobra",
-    "description": "SphinxText.xls, row 2326"
+    "message": "Cobra"
   },
   "HT_Text_Inv_QR02_Sak_Spitting_Toad": {
-    "message": "Rospo sputatore",
-    "description": "SphinxText.xls, row 2327"
+    "message": "Rospo sputatore"
   },
   "HT_Text_Inv_QR03_Sak_Small_Frog": {
-    "message": "Ranocchia",
-    "description": "SphinxText.xls, row 2328"
+    "message": "Ranocchia"
   },
   "HT_Text_Inv_QR04_Sak_Nose_Needler": {
-    "message": "Occhiellatore",
-    "description": "SphinxText.xls, row 2329"
+    "message": "Occhiellatore"
   },
   "HT_Text_Inv_QU01_Skeletal_Spider": {
-    "message": "Ragno scheletro",
-    "description": "SphinxText.xls, row 2330"
+    "message": "Ragno scheletro"
   },
   "HT_Text_Inv_QU02_Skeletal_Armadillo": {
-    "message": "Armadillo",
-    "description": "SphinxText.xls, row 2331"
+    "message": "Armadillo"
   },
   "HT_Text_Inv_QU02_Skeletal_Armadillo_Fire": {
-    "message": "Armadillo di fuoco",
-    "description": "SphinxText.xls, row 2332"
+    "message": "Armadillo di fuoco"
   },
   "HT_Text_Inv_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "Armadillo elettrico",
-    "description": "SphinxText.xls, row 2333"
+    "message": "Armadillo elettrico"
   },
   "HT_Text_Inv_QU04_Mummy_Chihuahua": {
-    "message": "Chihuahua mummia",
-    "description": "SphinxText.xls, row 2334"
+    "message": "Chihuahua mummia"
   },
   "HT_Text_Inv_QU05_skeletal_waspspider": {
-    "message": "Ragno vespa",
-    "description": "SphinxText.xls, row 2335"
+    "message": "Ragno vespa"
   },
   "HT_Text_Inv_QU06_Mummy_Worm": {
-    "message": "Verme mummia",
-    "description": "SphinxText.xls, row 2336"
+    "message": "Verme mummia"
   },
   "HT_Text_Inv_QU09_Rat": {
-    "message": "Topo",
-    "description": "SphinxText.xls, row 2337"
+    "message": "Topo"
   },
   "HT_Text_Inv_QU08_Normal_Chihuahua": {
-    "message": "Chihuahua",
-    "description": "SphinxText.xls, row 2338"
+    "message": "Chihuahua"
   },
   "HT_Text_Inv_HD03_BigBull": {
-    "message": "Grande toro",
-    "description": "SphinxText.xls, row 2339"
+    "message": "Grande toro"
   },
   "HT_Text_Inv_HD09_Horned_ReptileMan": {
-    "message": "Uomo-rettile",
-    "description": "SphinxText.xls, row 2340"
+    "message": "Uomo-rettile"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_BedroomKey": {
-    "message": "Chiave del cortile",
-    "description": "SphinxText.xls, row 2341"
+    "message": "Chiave del cortile"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_NefertitiItem": {
-    "message": "Lettera di Nefertiti",
-    "description": "SphinxText.xls, row 2342"
+    "message": "Lettera di Nefertiti"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_SarcophagusKey": {
-    "message": "Chiave del sarcofago",
-    "description": "SphinxText.xls, row 2343"
+    "message": "Chiave del sarcofago"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_WardrobeKey": {
-    "message": "Chiave del guardaroba",
-    "description": "SphinxText.xls, row 2344"
+    "message": "Chiave del guardaroba"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_Trophy": {
-    "message": "Trofeo",
-    "description": "SphinxText.xls, row 2345"
+    "message": "Trofeo"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_Amulet": {
-    "message": "Vecchio amuleto",
-    "description": "SphinxText.xls, row 2346"
+    "message": "Vecchio amuleto"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_CourtyardKey": {
-    "message": "Chiave del cortile",
-    "description": "SphinxText.xls, row 2347"
+    "message": "Chiave del cortile"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_TreasureChamberKey": {
-    "message": "Chiave Stanza tesoro",
-    "description": "SphinxText.xls, row 2348"
+    "message": "Chiave Stanza tesoro"
   },
   "HT_Text_Inv_Item_Quest_Mum_Imp2_KeyStone": {
-    "message": "Chiave delle uscita",
-    "description": "SphinxText.xls, row 2349"
+    "message": "Chiave delle uscita"
   },
   "HT_Text_Inv_Item_Quest_Mum_Imp2_ImpulseKey": {
-    "message": "Chiave dell'uscita",
-    "description": "SphinxText.xls, row 2350"
+    "message": "Chiave dell'uscita"
   },
   "HT_Text_Inv_Item_Quest_Mum_Imp2_PlanetariumKey01": {
-    "message": "Chiave solare",
-    "description": "SphinxText.xls, row 2351"
+    "message": "Chiave solare"
   },
   "HT_Text_Inv_Item_Quest_Mum_Imp2_PlanetariumKey02": {
-    "message": "Chiave terrestre",
-    "description": "SphinxText.xls, row 2352"
+    "message": "Chiave terrestre"
   },
   "HT_Text_Inv_Item_Quest_Mum_Imp2_PlanetariumKey03": {
-    "message": "Chiave lunare",
-    "description": "SphinxText.xls, row 2353"
+    "message": "Chiave lunare"
   },
   "HT_Text_Inv_Item_Quest_Urk_GolemsEye": {
-    "message": "Occhio del golem",
-    "description": "SphinxText.xls, row 2354"
+    "message": "Occhio del golem"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_Key01": {
-    "message": "Chiave di Uruk 1",
-    "description": "SphinxText.xls, row 2355"
+    "message": "Chiave di Uruk 1"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_Key02": {
-    "message": "Chiave di Uruk 2",
-    "description": "SphinxText.xls, row 2356"
+    "message": "Chiave di Uruk 2"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_Key03": {
-    "message": "Chiave del ponte",
-    "description": "SphinxText.xls, row 2357"
+    "message": "Chiave del ponte"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_GlyphValuable01": {
-    "message": "Glifo d'oro",
-    "description": "SphinxText.xls, row 2358"
+    "message": "Glifo d'oro"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_GlyphValuable02": {
-    "message": "Glifo di diamante",
-    "description": "SphinxText.xls, row 2359"
+    "message": "Glifo di diamante"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_GlyphMedium01": {
-    "message": "Glifo di bronzo",
-    "description": "SphinxText.xls, row 2360"
+    "message": "Glifo di bronzo"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_GlyphWorthless01": {
-    "message": "Glifo di legno",
-    "description": "SphinxText.xls, row 2361"
+    "message": "Glifo di legno"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_UrukiteGem": {
-    "message": "Gemma di Uruk",
-    "description": "SphinxText.xls, row 2362"
+    "message": "Gemma di Uruk"
   },
   "HT_Text_Inv_Item_Quest_CageKey": {
-    "message": "Chiave della gabbia",
-    "description": "SphinxText.xls, row 2363"
+    "message": "Chiave della gabbia"
   },
   "HT_Text_Inv_Basket": {
-    "message": "Bas-Ket",
-    "description": "SphinxText.xls, row 2364"
+    "message": "Bas-Ket"
   },
   "HT_Text_Inv_Leaves": {
-    "message": "Foglie",
-    "description": "SphinxText.xls, row 2365"
+    "message": "Foglie"
   },
   "HT_Text_Inv_Sticks": {
-    "message": "Fuscelli",
-    "description": "SphinxText.xls, row 2366"
+    "message": "Fuscelli"
   },
   "HT_Text_Inv_LightColumnMap": {
-    "message": "Mappa colonna luci",
-    "description": "SphinxText.xls, row 2367"
+    "message": "Mappa colonna luci"
   },
   "HT_Text_Inv_ToadEggs": {
-    "message": "Uova rospo sputatore",
-    "description": "SphinxText.xls, row 2368"
+    "message": "Uova rospo sputatore"
   },
   "HT_Text_Inv_AbyPass": {
-    "message": "Visto per Abydos",
-    "description": "SphinxText.xls, row 2369"
+    "message": "Visto per Abydos"
   },
   "HT_Text_Inv_AbyPearls": {
-    "message": "Perle di Abydos",
-    "description": "SphinxText.xls, row 2370"
+    "message": "Perle di Abydos"
   },
   "HT_Text_Inv_RosettaStonePiece": {
-    "message": "Pezzo della stele di Rosetta",
-    "description": "SphinxText.xls, row 2371"
+    "message": "Pezzo della stele di Rosetta"
   },
   "HT_Text_Inv_RosettaStone": {
-    "message": "Stele di Rosetta",
-    "description": "SphinxText.xls, row 2372"
+    "message": "Stele di Rosetta"
   },
   "HT_Text_Inv_Item_Quest_Hel_BoatOwnerItem": {
-    "message": "Vela barca",
-    "description": "SphinxText.xls, row 2373"
+    "message": "Vela barca"
   },
   "HT_Text_Inv_DeathWatchBeetle": {
-    "message": "Tarlo",
-    "description": "SphinxText.xls, row 2374"
+    "message": "Tarlo"
   },
   "HT_Text_Inv_Sak_Crown": {
-    "message": "Corona di Uruk",
-    "description": "SphinxText.xls, row 2375"
+    "message": "Corona di Uruk"
   },
   "HT_Text_Inv_Aby_Crown": {
-    "message": "Corona di Abydos",
-    "description": "SphinxText.xls, row 2376"
+    "message": "Corona di Abydos"
   },
   "HT_Text_Inv_Hel_Crown": {
-    "message": "Corona di Heliopolis",
-    "description": "SphinxText.xls, row 2377"
+    "message": "Corona di Heliopolis"
   },
   "HT_Text_Inv_Set_Crown": {
-    "message": "Corona di Set",
-    "description": "SphinxText.xls, row 2378"
+    "message": "Corona di Set"
   },
   "HT_Text_Inv_Item_Quest_Hel_PharaohInvite": {
-    "message": "Invito del faraone",
-    "description": "SphinxText.xls, row 2379"
+    "message": "Invito del faraone"
   },
   "HT_Text_Inv_Item_Quest_Hel_ForgerItem01": {
-    "message": "Papiro",
-    "description": "SphinxText.xls, row 2380"
+    "message": "Papiro"
   },
   "HT_Text_Inv_Item_Quest_Hel_ForgerItem02": {
-    "message": "Inchiostro",
-    "description": "SphinxText.xls, row 2381"
+    "message": "Inchiostro"
   },
   "HT_Text_Inv_Item_Quest_Hel_ForgerItem03": {
-    "message": "Foglia albero inchiostro",
-    "description": "SphinxText.xls, row 2382"
+    "message": "Foglia albero inchiostro"
   },
   "HT_Text_Inv_Item_Quest_Hel_BeetleBreederItem": {
-    "message": "Vaso d'allevamento per coleotteri",
-    "description": "SphinxText.xls, row 2383"
+    "message": "Vaso d'allevamento per coleotteri"
   },
   "HT_Text_Inv_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": "Tessera fedeltà",
-    "description": "SphinxText.xls, row 2384"
+    "message": "Tessera fedeltà"
   },
   "HT_Text_Inv_Mum_LedgeKey": {
-    "message": "Chiave porta terrazzo",
-    "description": "SphinxText.xls, row 2385"
+    "message": "Chiave porta terrazzo"
   },
   "HT_Text_Inv_MummyMoney": {
-    "message": "Scarabeo di onice",
-    "description": "SphinxText.xls, row 2386"
+    "message": "Scarabeo di onice"
   },
   "HT_Text_Inv_Mum_OldKey": {
-    "message": "Chiave dell'antico sotterraneo",
-    "description": "SphinxText.xls, row 2387"
+    "message": "Chiave dell'antico sotterraneo"
   },
   "HT_Text_Inv_Mum_GlyphKey": {
-    "message": "Chiave del glifo",
-    "description": "SphinxText.xls, row 2388"
+    "message": "Chiave del glifo"
   },
   "HT_Text_Inv_Mum_WallSection2Key": {
-    "message": "Chiave della grande muraglia",
-    "description": "SphinxText.xls, row 2389"
+    "message": "Chiave della grande muraglia"
   },
   "HT_Text_Inv_Mum_WallSection3Key": {
-    "message": "Chiave della grande muraglia",
-    "description": "SphinxText.xls, row 2390"
+    "message": "Chiave della grande muraglia"
   },
   "HT_Text_Inv_IshkaRing": {
-    "message": "Anello di Ishka",
-    "description": "SphinxText.xls, row 2391"
+    "message": "Anello di Ishka"
   },
   "HT_Text_Inv_HonourTalisman": {
-    "message": "Talismano dell'Onore",
-    "description": "SphinxText.xls, row 2392"
+    "message": "Talismano dell'Onore"
   },
   "HT_Text_Inv_PalaceInvite": {
-    "message": "Invito regale",
-    "description": "SphinxText.xls, row 2393"
+    "message": "Invito regale"
   },
   "HT_Text_Inv_Item_Quest_CurseStone01": {
-    "message": "Pietra della maledizione",
-    "description": "SphinxText.xls, row 2394"
+    "message": "Pietra della maledizione"
   },
   "HT_Text_Inv_Item_Quest_CurseStone02": {
-    "message": "Pietra della maledizione",
-    "description": "SphinxText.xls, row 2395"
+    "message": "Pietra della maledizione"
   },
   "HT_Text_Inv_Item_Quest_CurseStone03": {
-    "message": "Pietra della maledizione",
-    "description": "SphinxText.xls, row 2396"
+    "message": "Pietra della maledizione"
   },
   "HT_Text_Inv_Item_Quest_CurseStone04": {
-    "message": "Pietra della maledizione",
-    "description": "SphinxText.xls, row 2397"
+    "message": "Pietra della maledizione"
   },
   "HT_Text_Inv_Item_Quest_CurseStone05": {
-    "message": "Pietra della maledizione",
-    "description": "SphinxText.xls, row 2398"
+    "message": "Pietra della maledizione"
   },
   "HT_Text_Inv_Item_Quest_CurseStone06": {
-    "message": "Pietra della maledizione",
-    "description": "SphinxText.xls, row 2399"
+    "message": "Pietra della maledizione"
   },
   "HT_Text_Inv_Item_Quest_CurseStone07": {
-    "message": "Pietra della maledizione",
-    "description": "SphinxText.xls, row 2400"
+    "message": "Pietra della maledizione"
   },
   "HT_Text_Inv_Item_Quest_CurseStone08": {
-    "message": "Pietra della maledizione",
-    "description": "SphinxText.xls, row 2401"
+    "message": "Pietra della maledizione"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Uruk01": {
-    "message": "Amuleto castello Uruk",
-    "description": "SphinxText.xls, row 2402"
+    "message": "Amuleto castello Uruk"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Luxor01": {
-    "message": "Amuleto misterioso",
-    "description": "SphinxText.xls, row 2403"
+    "message": "Amuleto misterioso"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Abydos01": {
-    "message": "Amuleto di Abydos",
-    "description": "SphinxText.xls, row 2404"
+    "message": "Amuleto di Abydos"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Akaria01": {
-    "message": "Amuleto di Akaria",
-    "description": "SphinxText.xls, row 2405"
+    "message": "Amuleto di Akaria"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Heliopolis01": {
-    "message": "Amuleto di Heliopolis",
-    "description": "SphinxText.xls, row 2406"
+    "message": "Amuleto di Heliopolis"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Sakkara01": {
-    "message": "Amuleto di Sakkara",
-    "description": "SphinxText.xls, row 2407"
+    "message": "Amuleto di Sakkara"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_Sakkara01Piece": {
-    "message": "Pezzo amuleto",
-    "description": "SphinxText.xls, row 2408"
+    "message": "Pezzo amuleto"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_DarkArea01": {
-    "message": "Amuleto di Anubi",
-    "description": "SphinxText.xls, row 2409"
+    "message": "Amuleto di Anubi"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_DarkArea03": {
-    "message": "Amuleto Valle Uruk",
-    "description": "SphinxText.xls, row 2410"
+    "message": "Amuleto Valle Uruk"
   },
   "HT_Text_Inv_Item_Quest_GoldKey": {
-    "message": "Chiave d'oro",
-    "description": "SphinxText.xls, row 2411"
+    "message": "Chiave d'oro"
   },
   "HT_Text_Inv_Item_Quest_GlyphKey01": {
-    "message": "Chiave del glifo",
-    "description": "SphinxText.xls, row 2412"
+    "message": "Chiave del glifo"
   },
   "HT_Text_Inv_Item_Quest_GlyphKey02": {
-    "message": "Chiave del glifo",
-    "description": "SphinxText.xls, row 2413"
+    "message": "Chiave del glifo"
   },
   "HT_Text_Inv_Item_Quest_HeliopolisGateKey01": {
-    "message": "Chiave del deserto del Sud",
-    "description": "SphinxText.xls, row 2414"
+    "message": "Chiave del deserto del Sud"
   },
   "HT_Text_Inv_Item_Quest_HeliopolisGateKey02": {
-    "message": "Chiave del portale dell'obelisco",
-    "description": "SphinxText.xls, row 2415"
+    "message": "Chiave del portale dell'obelisco"
   },
   "HT_Text_Inv_Item_Quest_HeliopolisGateKey03": {
-    "message": "Chiave della grotta",
-    "description": "SphinxText.xls, row 2416"
+    "message": "Chiave della grotta"
   },
   "HT_Text_Inv_Item_Quest_Bone01": {
-    "message": "Teschio scheletrico",
-    "description": "SphinxText.xls, row 2417"
+    "message": "Teschio scheletrico"
   },
   "HT_Text_Inv_Item_Quest_Bone02": {
-    "message": "Bacino scheletrico",
-    "description": "SphinxText.xls, row 2418"
+    "message": "Bacino scheletrico"
   },
   "HT_Text_Inv_Item_Quest_Bone03": {
-    "message": "Braccio scheletrico",
-    "description": "SphinxText.xls, row 2419"
+    "message": "Braccio scheletrico"
   },
   "HT_Text_Inv_Item_Quest_Bone04": {
-    "message": "Gamba scheletrica",
-    "description": "SphinxText.xls, row 2420"
+    "message": "Gamba scheletrica"
   },
   "HT_Text_Inv_AcidVial": {
-    "message": "Fiala acido Geb",
-    "description": "SphinxText.xls, row 2421"
+    "message": "Fiala acido Geb"
   },
   "HT_Text_Inv_Proclomation": {
-    "message": "Proclama del re",
-    "description": "SphinxText.xls, row 2422"
+    "message": "Proclama del re"
   },
   "HT_Text_Inv_DiaryPage": {
-    "message": "Pagina diario di Set",
-    "description": "SphinxText.xls, row 2423"
+    "message": "Pagina diario di Set"
   },
   "HT_Text_Inv_HippyItem": {
-    "message": "Parasole",
-    "description": "SphinxText.xls, row 2424"
+    "message": "Parasole"
   },
   "HT_Text_Inv_CreatureList01": {
-    "message": "Elenco mostri I",
-    "description": "SphinxText.xls, row 2425"
+    "message": "Elenco mostri I"
   },
   "HT_Text_Inv_CreatureList02": {
-    "message": "Elenco mostri II",
-    "description": "SphinxText.xls, row 2426"
+    "message": "Elenco mostri II"
   },
   "HT_Text_Inv_CreatureList03": {
-    "message": "Elenco mostri III",
-    "description": "SphinxText.xls, row 2427"
+    "message": "Elenco mostri III"
   },
   "HT_Text_Inv_StatueHead": {
-    "message": "Teste di statua",
-    "description": "SphinxText.xls, row 2428"
+    "message": "Teste di statua"
   },
   "HT_Text_Inv_Coconut": {
-    "message": "Noce di cocco",
-    "description": "SphinxText.xls, row 2429"
+    "message": "Noce di cocco"
   },
   "HT_Text_Inv_ZipLineHook": {
-    "message": "Carrucola",
-    "description": "SphinxText.xls, row 2430"
+    "message": "Carrucola"
   },
   "HT_Text_Inv_MedicineRoot": {
-    "message": "Radice medicinale",
-    "description": "SphinxText.xls, row 2431"
+    "message": "Radice medicinale"
   },
   "HT_Text_Inv_WarriorTrophy": {
-    "message": "Trofeo guerriero",
-    "description": "SphinxText.xls, row 2432"
+    "message": "Trofeo guerriero"
   },
   "HT_Text_Inv_SluiceWheel": {
-    "message": "Ruota di legno",
-    "description": "SphinxText.xls, row 2433"
+    "message": "Ruota di legno"
   },
   "HT_Text_Inv_AbyWellKey": {
-    "message": "Chiave antica",
-    "description": "SphinxText.xls, row 2434"
+    "message": "Chiave antica"
   },
   "HT_Text_Inv_DummyItem": {
-    "message": "Oggetto finto",
-    "description": "SphinxText.xls, row 2435"
+    "message": "Oggetto finto"
   },
   "HT_Text_Inv_AbyStairsKey": {
-    "message": "Chiave delle scale",
-    "description": "SphinxText.xls, row 2436"
+    "message": "Chiave delle scale"
   },
   "HT_Text_Inv_WallSection3Key": {
-    "message": "Chiave della parete sezione 3",
-    "description": "SphinxText.xls, row 2437"
+    "message": "Chiave della parete sezione 3"
   },
   "HT_Text_Inv_MedicineBag": {
-    "message": "Borsa delle Medicine",
-    "description": "SphinxText.xls, row 2438"
+    "message": "Borsa delle Medicine"
   },
   "HT_Text_Inv_AtunStatue": {
-    "message": "Statua di Atun",
-    "description": "SphinxText.xls, row 2439"
+    "message": "Statua di Atun"
   },
   "HT_Text_Inv_HathorStatue": {
-    "message": "Statua di Hathor",
-    "description": "SphinxText.xls, row 2440"
+    "message": "Statua di Hathor"
   },
   "HT_Text_Inv_Jewel01": {
-    "message": "Gioiello rubato",
-    "description": "SphinxText.xls, row 2441"
+    "message": "Gioiello rubato"
   },
   "HT_Text_Inv_Jewel02": {
-    "message": "Gioiello rubato",
-    "description": "SphinxText.xls, row 2442"
+    "message": "Gioiello rubato"
   },
   "HT_Text_Inv_Jewel03": {
-    "message": "Gioiello rubato",
-    "description": "SphinxText.xls, row 2443"
+    "message": "Gioiello rubato"
   },
   "HT_Text_Inv_Jewel04": {
-    "message": "Gioiello rubato",
-    "description": "SphinxText.xls, row 2444"
+    "message": "Gioiello rubato"
   },
   "HT_Text_Inv_Jewel05": {
-    "message": "Gioiello rubato",
-    "description": "SphinxText.xls, row 2445"
+    "message": "Gioiello rubato"
   },
   "HT_Text_Inv_Jewel06": {
-    "message": "Gioiello rubato",
-    "description": "SphinxText.xls, row 2446"
+    "message": "Gioiello rubato"
   },
   "HT_Text_Inv_EagleStone": {
-    "message": "Pietra dell'aquila",
-    "description": "SphinxText.xls, row 2447"
+    "message": "Pietra dell'aquila"
   },
   "HT_Text_Inv_AtunEye": {
-    "message": "Occhio di Atun",
-    "description": "SphinxText.xls, row 2448"
+    "message": "Occhio di Atun"
   },
   "HT_Text_Inv_Medal_Shoot": {
-    "message": "Medaglia del Lanciatore",
-    "description": "SphinxText.xls, row 2449"
+    "message": "Medaglia del Lanciatore"
   },
   "HT_Text_Inv_Medal_Walls": {
-    "message": "Medaglia dei Campioni",
-    "description": "SphinxText.xls, row 2450"
+    "message": "Medaglia dei Campioni"
   },
   "HT_Text_Inv_Medal_Pairs": {
-    "message": "Medaglia della Memoria",
-    "description": "SphinxText.xls, row 2451"
+    "message": "Medaglia della Memoria"
   },
   "HT_Text_Inv_Medal_Simon": {
-    "message": "Medaglia delle Sequenze",
-    "description": "SphinxText.xls, row 2452"
+    "message": "Medaglia delle Sequenze"
   },
   "HT_Text_Inv_Museum_Certificate": {
-    "message": "Capo caccia",
-    "description": "SphinxText.xls, row 2453"
+    "message": "Capo caccia"
   },
   "HT_Text_Inv_Museum_HunterA": {
-    "message": "Certificato d'oro",
-    "description": "SphinxText.xls, row 2454"
+    "message": "Certificato d'oro"
   },
   "HT_Text_Inv_Museum_HunterB": {
-    "message": "Certificato d'argento",
-    "description": "SphinxText.xls, row 2455"
+    "message": "Certificato d'argento"
   },
   "HT_Text_Inv_Museum_HunterC": {
-    "message": "Certificato di Bronzo",
-    "description": "SphinxText.xls, row 2456"
+    "message": "Certificato di Bronzo"
   }
 }

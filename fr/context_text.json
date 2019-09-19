@@ -1,238 +1,179 @@
 {
   "HT_Text_Context_Test": {
-    "message": "TEST CONTEXTE",
-    "description": "SphinxText.xls, row 2461"
+    "message": "TEST CONTEXTE"
   },
   "HT_Text_Context_UseItem": {
-    "message": "UTILISER",
-    "description": "SphinxText.xls, row 2462"
+    "message": "UTILISER"
   },
   "HT_Text_Context_Use": {
-    "message": "UTILISER",
-    "description": "SphinxText.xls, row 2463"
+    "message": "UTILISER"
   },
   "HT_Text_Context_PushObject": {
-    "message": "POUSSER",
-    "description": "SphinxText.xls, row 2464"
+    "message": "POUSSER"
   },
   "HT_Text_Context_PullObject": {
-    "message": "TIRER",
-    "description": "SphinxText.xls, row 2465"
+    "message": "TIRER"
   },
   "HT_Text_Context_Lever": {
-    "message": "UTILISER LEVIER",
-    "description": "SphinxText.xls, row 2466"
+    "message": "UTILISER LEVIER"
   },
   "HT_Text_Context_OpenDoor": {
-    "message": "OUVRIR",
-    "description": "SphinxText.xls, row 2467"
+    "message": "OUVRIR"
   },
   "HT_Text_Context_PickupObject": {
-    "message": "RAMASSER",
-    "description": "SphinxText.xls, row 2468"
+    "message": "RAMASSER"
   },
   "HT_Text_Context_SavePoint": {
-    "message": "SAUVEGARDER",
-    "description": "SphinxText.xls, row 2469"
+    "message": "SAUVEGARDER"
   },
   "HT_Text_Context_NPC": {
-    "message": "PARLER",
-    "description": "SphinxText.xls, row 2470"
+    "message": "PARLER"
   },
   "HT_Text_Context_Grab": {
-    "message": "SAISIR",
-    "description": "SphinxText.xls, row 2471"
+    "message": "SAISIR"
   },
   "HT_Text_Context_Possession": {
-    "message": "ENVOÛTER",
-    "description": "SphinxText.xls, row 2472"
+    "message": "ENVOÛTER"
   },
   "HT_Text_Context_Unpossession": {
-    "message": "DÉSENVOÛTER",
-    "description": "SphinxText.xls, row 2473"
+    "message": "DÉSENVOÛTER"
   },
   "HT_Text_Context_Release": {
-    "message": "RELÂCHER",
-    "description": "SphinxText.xls, row 2474"
+    "message": "RELÂCHER"
   },
   "HT_Text_Context_Clone": {
-    "message": "CLONE",
-    "description": "SphinxText.xls, row 2475"
+    "message": "CLONE"
   },
   "HT_Text_Context_Invisibility": {
-    "message": "INVISIBLE",
-    "description": "SphinxText.xls, row 2476"
+    "message": "INVISIBLE"
   },
   "HT_Text_Context_Hide": {
-    "message": "CACHER",
-    "description": "SphinxText.xls, row 2477"
+    "message": "CACHER"
   },
   "HT_Text_Context_FreezeTime": {
-    "message": "GELER TEMPS",
-    "description": "SphinxText.xls, row 2478"
+    "message": "GELER TEMPS"
   },
   "HT_Text_Context_KaTile": {
-    "message": "TIRER KA",
-    "description": "SphinxText.xls, row 2479"
+    "message": "TIRER KA"
   },
   "HT_Text_Context_Shop": {
-    "message": "ACHETER",
-    "description": "SphinxText.xls, row 2480"
+    "message": "ACHETER"
   },
   "HT_Text_Context_Blank": {
-    "message": " ",
-    "description": "SphinxText.xls, row 2481"
+    "message": " "
   },
   "HT_Text_Context_Linear": {
-    "message": "LINÉAIRE",
-    "description": "SphinxText.xls, row 2482"
+    "message": "LINÉAIRE"
   },
   "HT_Text_Context_Recall": {
-    "message": "RAPPELER",
-    "description": "SphinxText.xls, row 2483"
+    "message": "RAPPELER"
   },
   "HT_Text_Context_Directed": {
-    "message": "DIRIGÉ",
-    "description": "SphinxText.xls, row 2484"
+    "message": "DIRIGÉ"
   },
   "HT_Text_Context_Cancel": {
-    "message": "ANNULER",
-    "description": "SphinxText.xls, row 2485"
+    "message": "ANNULER"
   },
   "HT_Text_Context_Jump": {
-    "message": "SAUTER",
-    "description": "SphinxText.xls, row 2486"
+    "message": "SAUTER"
   },
   "HT_Text_Context_Attack": {
-    "message": "ATTAQUER",
-    "description": "SphinxText.xls, row 2487"
+    "message": "ATTAQUER"
   },
   "HT_Text_Context_Detonate": {
-    "message": "FAIRE EXPLOSER",
-    "description": "SphinxText.xls, row 2488"
+    "message": "FAIRE EXPLOSER"
   },
   "HT_Text_Context_Beetle": {
-    "message": "INSECTE",
-    "description": "SphinxText.xls, row 2489"
+    "message": "INSECTE"
   },
   "HT_Text_Context_Throw": {
-    "message": "LANCER",
-    "description": "SphinxText.xls, row 2490"
+    "message": "LANCER"
   },
   "HT_Text_Context_Drop": {
-    "message": "LÂCHER",
-    "description": "SphinxText.xls, row 2491"
+    "message": "LÂCHER"
   },
   "HT_Text_Context_FireDart": {
-    "message": "FAIRE FEU",
-    "description": "SphinxText.xls, row 2492"
+    "message": "FAIRE FEU"
   },
   "HT_Text_Context_FirstPerson": {
-    "message": "1RE PERSONNE",
-    "description": "SphinxText.xls, row 2493"
+    "message": "1RE PERSONNE"
   },
   "HT_Text_Context_Blowpipe": {
-    "message": "SARBACANE",
-    "description": "SphinxText.xls, row 2494"
+    "message": "SARBACANE"
   },
   "HT_Text_Context_ThirdPerson": {
-    "message": "3E PERSONNE",
-    "description": "SphinxText.xls, row 2495"
+    "message": "3E PERSONNE"
   },
   "HT_Text_Context_Program": {
-    "message": "PROGRAMME",
-    "description": "SphinxText.xls, row 2496"
+    "message": "PROGRAMME"
   },
   "HT_Text_Context_SpittingToadV": {
-    "message": "VERTICAL",
-    "description": "SphinxText.xls, row 2497"
+    "message": "VERTICAL"
   },
   "HT_Text_Context_SpittingToadH": {
-    "message": "HORIZONTAL",
-    "description": "SphinxText.xls, row 2498"
+    "message": "HORIZONTAL"
   },
   "HT_Text_Context_Flap": {
-    "message": "VOLER",
-    "description": "SphinxText.xls, row 2499"
+    "message": "VOLER"
   },
   "HT_Text_Context_Enter": {
-    "message": "ENTRER",
-    "description": "SphinxText.xls, row 2500"
+    "message": "ENTRER"
   },
   "HT_Text_Context_Grow": {
-    "message": "CULTIVER",
-    "description": "SphinxText.xls, row 2501"
+    "message": "CULTIVER"
   },
   "HT_Text_Context_Exit": {
-    "message": "SORTIR",
-    "description": "SphinxText.xls, row 2502"
+    "message": "SORTIR"
   },
   "HT_Text_Context_SwapMummy": {
-    "message": "PERMUTER",
-    "description": "SphinxText.xls, row 2503"
+    "message": "PERMUTER"
   },
   "HT_Text_Context_MummyCrawl": {
-    "message": "RAMPER",
-    "description": "SphinxText.xls, row 2504"
+    "message": "RAMPER"
   },
   "HT_Text_Context_MummyStandUp": {
-    "message": "DEBOUT",
-    "description": "SphinxText.xls, row 2505"
+    "message": "DEBOUT"
   },
   "HT_Text_Context_Dive": {
-    "message": "PLONGER",
-    "description": "SphinxText.xls, row 2506"
+    "message": "PLONGER"
   },
   "HT_Text_Context_Swim": {
-    "message": "NAGER",
-    "description": "SphinxText.xls, row 2507"
+    "message": "NAGER"
   },
   "HT_Text_Context_SwimFast": {
-    "message": "VITE",
-    "description": "SphinxText.xls, row 2508"
+    "message": "VITE"
   },
   "HT_Text_Context_WallSneakPeek": {
-    "message": "COUP D'ŒIL",
-    "description": "SphinxText.xls, row 2509"
+    "message": "COUP D'ŒIL"
   },
   "HT_Text_Context_WallSneak": {
-    "message": "LONGER",
-    "description": "SphinxText.xls, row 2510"
+    "message": "LONGER"
   },
   "HT_Text_Context_Take": {
-    "message": "PRENDRE",
-    "description": "SphinxText.xls, row 2511"
+    "message": "PRENDRE"
   },
   "HT_Text_Context_DJump": {
-    "message": "DOUBLE-SAUT",
-    "description": "SphinxText.xls, row 2512"
+    "message": "DOUBLE-SAUT"
   },
   "HT_Text_Context_Read": {
-    "message": "LIRE",
-    "description": "SphinxText.xls, row 2513"
+    "message": "LIRE"
   },
   "HT_Text_Context_Slam": {
-    "message": "CLAC",
-    "description": "SphinxText.xls, row 2514"
+    "message": "CLAC"
   },
   "HT_Text_Context_Wear": {
-    "message": "PORTER",
-    "description": "SphinxText.xls, row 2515"
+    "message": "PORTER"
   },
   "HT_Text_Context_UnHide": {
-    "message": "DÉVOILER",
-    "description": "SphinxText.xls, row 2516"
+    "message": "DÉVOILER"
   },
   "HT_Text_Context_Choose": {
-    "message": "CHOISIR",
-    "description": "SphinxText.xls, row 2517"
+    "message": "CHOISIR"
   },
   "HT_Text_Context_Select": {
-    "message": "SÉLECTIONNER",
-    "description": "SphinxText.xls, row 2518"
+    "message": "SÉLECTIONNER"
   },
   "HT_Text_Context_Shake": {
-    "message": "SECOUER",
-    "description": "SphinxText.xls, row 2519"
+    "message": "SECOUER"
   }
 }

@@ -1,238 +1,179 @@
 {
   "HT_Text_Context_Test": {
-    "message": "PROVA CONTESTO",
-    "description": "SphinxText.xls, row 2461"
+    "message": "PROVA CONTESTO"
   },
   "HT_Text_Context_UseItem": {
-    "message": "USA",
-    "description": "SphinxText.xls, row 2462"
+    "message": "USA"
   },
   "HT_Text_Context_Use": {
-    "message": "USA",
-    "description": "SphinxText.xls, row 2463"
+    "message": "USA"
   },
   "HT_Text_Context_PushObject": {
-    "message": "SPINGI",
-    "description": "SphinxText.xls, row 2464"
+    "message": "SPINGI"
   },
   "HT_Text_Context_PullObject": {
-    "message": "TIRA",
-    "description": "SphinxText.xls, row 2465"
+    "message": "TIRA"
   },
   "HT_Text_Context_Lever": {
-    "message": "USA LEVA",
-    "description": "SphinxText.xls, row 2466"
+    "message": "USA LEVA"
   },
   "HT_Text_Context_OpenDoor": {
-    "message": "APRI",
-    "description": "SphinxText.xls, row 2467"
+    "message": "APRI"
   },
   "HT_Text_Context_PickupObject": {
-    "message": "RACCOGLI",
-    "description": "SphinxText.xls, row 2468"
+    "message": "RACCOGLI"
   },
   "HT_Text_Context_SavePoint": {
-    "message": "SALVA",
-    "description": "SphinxText.xls, row 2469"
+    "message": "SALVA"
   },
   "HT_Text_Context_NPC": {
-    "message": "PARLA",
-    "description": "SphinxText.xls, row 2470"
+    "message": "PARLA"
   },
   "HT_Text_Context_Grab": {
-    "message": "AFFERRA",
-    "description": "SphinxText.xls, row 2471"
+    "message": "AFFERRA"
   },
   "HT_Text_Context_Possession": {
-    "message": "POSSIEDI",
-    "description": "SphinxText.xls, row 2472"
+    "message": "POSSIEDI"
   },
   "HT_Text_Context_Unpossession": {
-    "message": "ABBANDONA",
-    "description": "SphinxText.xls, row 2473"
+    "message": "ABBANDONA"
   },
   "HT_Text_Context_Release": {
-    "message": "RILASCIA",
-    "description": "SphinxText.xls, row 2474"
+    "message": "RILASCIA"
   },
   "HT_Text_Context_Clone": {
-    "message": "CLONA",
-    "description": "SphinxText.xls, row 2475"
+    "message": "CLONA"
   },
   "HT_Text_Context_Invisibility": {
-    "message": "INVISIBILITÀ",
-    "description": "SphinxText.xls, row 2476"
+    "message": "INVISIBILITÀ"
   },
   "HT_Text_Context_Hide": {
-    "message": "NASCONDI",
-    "description": "SphinxText.xls, row 2477"
+    "message": "NASCONDI"
   },
   "HT_Text_Context_FreezeTime": {
-    "message": "BLOCCA TEMPO",
-    "description": "SphinxText.xls, row 2478"
+    "message": "BLOCCA TEMPO"
   },
   "HT_Text_Context_KaTile": {
-    "message": "SPARA KA",
-    "description": "SphinxText.xls, row 2479"
+    "message": "SPARA KA"
   },
   "HT_Text_Context_Shop": {
-    "message": "ACQUISTA",
-    "description": "SphinxText.xls, row 2480"
+    "message": "ACQUISTA"
   },
   "HT_Text_Context_Blank": {
-    "message": " ",
-    "description": "SphinxText.xls, row 2481"
+    "message": " "
   },
   "HT_Text_Context_Linear": {
-    "message": "LINEARE",
-    "description": "SphinxText.xls, row 2482"
+    "message": "LINEARE"
   },
   "HT_Text_Context_Recall": {
-    "message": "RICHIAMA",
-    "description": "SphinxText.xls, row 2483"
+    "message": "RICHIAMA"
   },
   "HT_Text_Context_Directed": {
-    "message": "DIRETTO",
-    "description": "SphinxText.xls, row 2484"
+    "message": "DIRETTO"
   },
   "HT_Text_Context_Cancel": {
-    "message": "ANNULLA",
-    "description": "SphinxText.xls, row 2485"
+    "message": "ANNULLA"
   },
   "HT_Text_Context_Jump": {
-    "message": "SALTA",
-    "description": "SphinxText.xls, row 2486"
+    "message": "SALTA"
   },
   "HT_Text_Context_Attack": {
-    "message": "ATTACCA",
-    "description": "SphinxText.xls, row 2487"
+    "message": "ATTACCA"
   },
   "HT_Text_Context_Detonate": {
-    "message": "FAI ESPLODERE",
-    "description": "SphinxText.xls, row 2488"
+    "message": "FAI ESPLODERE"
   },
   "HT_Text_Context_Beetle": {
-    "message": "COLEOTTERO",
-    "description": "SphinxText.xls, row 2489"
+    "message": "COLEOTTERO"
   },
   "HT_Text_Context_Throw": {
-    "message": "LANCIA",
-    "description": "SphinxText.xls, row 2490"
+    "message": "LANCIA"
   },
   "HT_Text_Context_Drop": {
-    "message": "LASCIA",
-    "description": "SphinxText.xls, row 2491"
+    "message": "LASCIA"
   },
   "HT_Text_Context_FireDart": {
-    "message": "SPARA  ",
-    "description": "SphinxText.xls, row 2492"
+    "message": "SPARA  "
   },
   "HT_Text_Context_FirstPerson": {
-    "message": "1a PERSONA",
-    "description": "SphinxText.xls, row 2493"
+    "message": "1a PERSONA"
   },
   "HT_Text_Context_Blowpipe": {
-    "message": "USA CERBOTTANA",
-    "description": "SphinxText.xls, row 2494"
+    "message": "USA CERBOTTANA"
   },
   "HT_Text_Context_ThirdPerson": {
-    "message": "3a PERSONA",
-    "description": "SphinxText.xls, row 2495"
+    "message": "3a PERSONA"
   },
   "HT_Text_Context_Program": {
-    "message": "PROGRAMMA",
-    "description": "SphinxText.xls, row 2496"
+    "message": "PROGRAMMA"
   },
   "HT_Text_Context_SpittingToadV": {
-    "message": "VERTICALE",
-    "description": "SphinxText.xls, row 2497"
+    "message": "VERTICALE"
   },
   "HT_Text_Context_SpittingToadH": {
-    "message": "ORIZZONTALE",
-    "description": "SphinxText.xls, row 2498"
+    "message": "ORIZZONTALE"
   },
   "HT_Text_Context_Flap": {
-    "message": "VOLA",
-    "description": "SphinxText.xls, row 2499"
+    "message": "VOLA"
   },
   "HT_Text_Context_Enter": {
-    "message": "ENTRA",
-    "description": "SphinxText.xls, row 2500"
+    "message": "ENTRA"
   },
   "HT_Text_Context_Grow": {
-    "message": "COLTIVA",
-    "description": "SphinxText.xls, row 2501"
+    "message": "COLTIVA"
   },
   "HT_Text_Context_Exit": {
-    "message": "ESCI",
-    "description": "SphinxText.xls, row 2502"
+    "message": "ESCI"
   },
   "HT_Text_Context_SwapMummy": {
-    "message": "SCAMBIA",
-    "description": "SphinxText.xls, row 2503"
+    "message": "SCAMBIA"
   },
   "HT_Text_Context_MummyCrawl": {
-    "message": "STRISCIA",
-    "description": "SphinxText.xls, row 2504"
+    "message": "STRISCIA"
   },
   "HT_Text_Context_MummyStandUp": {
-    "message": "ALZATI",
-    "description": "SphinxText.xls, row 2505"
+    "message": "ALZATI"
   },
   "HT_Text_Context_Dive": {
-    "message": "TUFFATI",
-    "description": "SphinxText.xls, row 2506"
+    "message": "TUFFATI"
   },
   "HT_Text_Context_Swim": {
-    "message": "NUOTA",
-    "description": "SphinxText.xls, row 2507"
+    "message": "NUOTA"
   },
   "HT_Text_Context_SwimFast": {
-    "message": "VELOCE",
-    "description": "SphinxText.xls, row 2508"
+    "message": "VELOCE"
   },
   "HT_Text_Context_WallSneakPeek": {
-    "message": "SBIRCIA",
-    "description": "SphinxText.xls, row 2509"
+    "message": "SBIRCIA"
   },
   "HT_Text_Context_WallSneak": {
-    "message": "INTRUFOLATI",
-    "description": "SphinxText.xls, row 2510"
+    "message": "INTRUFOLATI"
   },
   "HT_Text_Context_Take": {
-    "message": "PRENDI",
-    "description": "SphinxText.xls, row 2511"
+    "message": "PRENDI"
   },
   "HT_Text_Context_DJump": {
-    "message": "CAPRIOLA",
-    "description": "SphinxText.xls, row 2512"
+    "message": "CAPRIOLA"
   },
   "HT_Text_Context_Read": {
-    "message": "LEGGI",
-    "description": "SphinxText.xls, row 2513"
+    "message": "LEGGI"
   },
   "HT_Text_Context_Slam": {
-    "message": "SBATTI  ",
-    "description": "SphinxText.xls, row 2514"
+    "message": "SBATTI  "
   },
   "HT_Text_Context_Wear": {
-    "message": "INDOSSA",
-    "description": "SphinxText.xls, row 2515"
+    "message": "INDOSSA"
   },
   "HT_Text_Context_UnHide": {
-    "message": "RIVELA",
-    "description": "SphinxText.xls, row 2516"
+    "message": "RIVELA"
   },
   "HT_Text_Context_Choose": {
-    "message": "SCEGLI",
-    "description": "SphinxText.xls, row 2517"
+    "message": "SCEGLI"
   },
   "HT_Text_Context_Select": {
-    "message": "SELEZIONA",
-    "description": "SphinxText.xls, row 2518"
+    "message": "SELEZIONA"
   },
   "HT_Text_Context_Shake": {
-    "message": "MESCOLA",
-    "description": "SphinxText.xls, row 2519"
+    "message": "MESCOLA"
   }
 }

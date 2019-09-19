@@ -1,30 +1,23 @@
 {
   "HT_Text_BOS_Tab_Artifacts": {
-    "message": "유물",
-    "description": "SphinxText.xls, row 2523"
+    "message": "유물"
   },
   "HT_Text_BOS_Tab_Notes": {
-    "message": "기록",
-    "description": "SphinxText.xls, row 2524"
+    "message": "기록"
   },
   "HT_Text_BOS_Tab_Monsters": {
-    "message": "괴물",
-    "description": "SphinxText.xls, row 2525"
+    "message": "괴물"
   },
   "HT_Text_BOS_Instructions": {
-    "message": "<FC 30,10,0><SB HT_PadAction_BOS_NavigateDPad>를 이용하여 페이지들을 둘러봅니다 <N><SB HT_PadAction_BOS_TABCycleLeft> 와 <SB HT_PadAction_BOS_TABCycleRight>를 이용하여 페이지를 넘김니다<N>긴 설명은 <SB HT_PadAction_BOS_PageUp>으로 스크롤 합니다.",
-    "description": "SphinxText.xls, row 2526"
+    "message": "<FC 30,10,0><SB HT_PadAction_BOS_NavigateDPad>를 이용하여 페이지들을 둘러봅니다 <N><SB HT_PadAction_BOS_TABCycleLeft> 와 <SB HT_PadAction_BOS_TABCycleRight>를 이용하여 페이지를 넘김니다<N>긴 설명은 <SB HT_PadAction_BOS_PageUp>으로 스크롤 합니다."
   },
   "HT_Text_BOS_NoNotes": {
-    "message": "<ES HT_Text_ES_S_BOSStd>현재 기록이 하나도 없다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2527"
+    "message": "<ES HT_Text_ES_S_BOSStd>현재 기록이 하나도 없다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_NoAbilities": {
-    "message": "<ES HT_Text_ES_S_BOSStd>현재 기술이 하나도 없다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2528"
+    "message": "<ES HT_Text_ES_S_BOSStd>현재 기술이 하나도 없다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_NoQuestItems": {
-    "message": "<ES HT_Text_ES_S_BOSStd>현재 모험 아이템이 하나도 없다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2529"
+    "message": "<ES HT_Text_ES_S_BOSStd>현재 모험 아이템이 하나도 없다.<ES HT_Text_ES_E_BOSStd>"
   }
 }

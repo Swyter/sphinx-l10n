@@ -106,7 +106,7 @@ for cur in lang:
         out[row[MARKER_HASHCODE_COLUMN]] = collections.OrderedDict()
 
         out[row[MARKER_HASHCODE_COLUMN]]["message"]     = row[cur_col_idx]
-        out[row[MARKER_HASHCODE_COLUMN]]["description"] = "SphinxText.xls, row %u" % (i + 1) # swy: starts at zero
+        #out[row[MARKER_HASHCODE_COLUMN]]["description"] = "SphinxText.xls, row %u" % (i + 1) # swy: starts at zero
 
         #print("--", row[MARKER_HASHCODE_COLUMN])
 

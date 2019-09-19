@@ -1,238 +1,179 @@
 {
   "HT_Text_Context_Test": {
-    "message": "PROBAR CONTEXTO",
-    "description": "SphinxText.xls, row 2461"
+    "message": "PROBAR CONTEXTO"
   },
   "HT_Text_Context_UseItem": {
-    "message": "USAR  ",
-    "description": "SphinxText.xls, row 2462"
+    "message": "USAR  "
   },
   "HT_Text_Context_Use": {
-    "message": "USAR  ",
-    "description": "SphinxText.xls, row 2463"
+    "message": "USAR  "
   },
   "HT_Text_Context_PushObject": {
-    "message": "EMPUJAR",
-    "description": "SphinxText.xls, row 2464"
+    "message": "EMPUJAR"
   },
   "HT_Text_Context_PullObject": {
-    "message": "TIRAR",
-    "description": "SphinxText.xls, row 2465"
+    "message": "TIRAR"
   },
   "HT_Text_Context_Lever": {
-    "message": "USAR  PALANCA",
-    "description": "SphinxText.xls, row 2466"
+    "message": "USAR  PALANCA"
   },
   "HT_Text_Context_OpenDoor": {
-    "message": "ABRIR",
-    "description": "SphinxText.xls, row 2467"
+    "message": "ABRIR"
   },
   "HT_Text_Context_PickupObject": {
-    "message": "COGER",
-    "description": "SphinxText.xls, row 2468"
+    "message": "COGER"
   },
   "HT_Text_Context_SavePoint": {
-    "message": "GUARDAR",
-    "description": "SphinxText.xls, row 2469"
+    "message": "GUARDAR"
   },
   "HT_Text_Context_NPC": {
-    "message": "HABLAR",
-    "description": "SphinxText.xls, row 2470"
+    "message": "HABLAR"
   },
   "HT_Text_Context_Grab": {
-    "message": "AGARRAR",
-    "description": "SphinxText.xls, row 2471"
+    "message": "AGARRAR"
   },
   "HT_Text_Context_Possession": {
-    "message": "TENER",
-    "description": "SphinxText.xls, row 2472"
+    "message": "TENER"
   },
   "HT_Text_Context_Unpossession": {
-    "message": "NO TENER",
-    "description": "SphinxText.xls, row 2473"
+    "message": "NO TENER"
   },
   "HT_Text_Context_Release": {
-    "message": "LIBERAR",
-    "description": "SphinxText.xls, row 2474"
+    "message": "LIBERAR"
   },
   "HT_Text_Context_Clone": {
-    "message": "CLONAR",
-    "description": "SphinxText.xls, row 2475"
+    "message": "CLONAR"
   },
   "HT_Text_Context_Invisibility": {
-    "message": "INVISIBLE",
-    "description": "SphinxText.xls, row 2476"
+    "message": "INVISIBLE"
   },
   "HT_Text_Context_Hide": {
-    "message": "OCULTAR",
-    "description": "SphinxText.xls, row 2477"
+    "message": "OCULTAR"
   },
   "HT_Text_Context_FreezeTime": {
-    "message": "DETENER TIEMPO",
-    "description": "SphinxText.xls, row 2478"
+    "message": "DETENER TIEMPO"
   },
   "HT_Text_Context_KaTile": {
-    "message": "LANZAR  KA",
-    "description": "SphinxText.xls, row 2479"
+    "message": "LANZAR  KA"
   },
   "HT_Text_Context_Shop": {
-    "message": "COMPRAR",
-    "description": "SphinxText.xls, row 2480"
+    "message": "COMPRAR"
   },
   "HT_Text_Context_Blank": {
-    "message": " ",
-    "description": "SphinxText.xls, row 2481"
+    "message": " "
   },
   "HT_Text_Context_Linear": {
-    "message": "LINEAL",
-    "description": "SphinxText.xls, row 2482"
+    "message": "LINEAL"
   },
   "HT_Text_Context_Recall": {
-    "message": "RETIRAR",
-    "description": "SphinxText.xls, row 2483"
+    "message": "RETIRAR"
   },
   "HT_Text_Context_Directed": {
-    "message": "DIRIGIDO",
-    "description": "SphinxText.xls, row 2484"
+    "message": "DIRIGIDO"
   },
   "HT_Text_Context_Cancel": {
-    "message": "CANCELAR",
-    "description": "SphinxText.xls, row 2485"
+    "message": "CANCELAR"
   },
   "HT_Text_Context_Jump": {
-    "message": "SALTAR",
-    "description": "SphinxText.xls, row 2486"
+    "message": "SALTAR"
   },
   "HT_Text_Context_Attack": {
-    "message": "ATACAR",
-    "description": "SphinxText.xls, row 2487"
+    "message": "ATACAR"
   },
   "HT_Text_Context_Detonate": {
-    "message": "DETONAR",
-    "description": "SphinxText.xls, row 2488"
+    "message": "DETONAR"
   },
   "HT_Text_Context_Beetle": {
-    "message": "ESCARABAJO",
-    "description": "SphinxText.xls, row 2489"
+    "message": "ESCARABAJO"
   },
   "HT_Text_Context_Throw": {
-    "message": "TIRAR",
-    "description": "SphinxText.xls, row 2490"
+    "message": "TIRAR"
   },
   "HT_Text_Context_Drop": {
-    "message": "DEJAR",
-    "description": "SphinxText.xls, row 2491"
+    "message": "DEJAR"
   },
   "HT_Text_Context_FireDart": {
-    "message": "FUEGO",
-    "description": "SphinxText.xls, row 2492"
+    "message": "FUEGO"
   },
   "HT_Text_Context_FirstPerson": {
-    "message": "1.ª PERSONA",
-    "description": "SphinxText.xls, row 2493"
+    "message": "1.ª PERSONA"
   },
   "HT_Text_Context_Blowpipe": {
-    "message": "CERBATANA",
-    "description": "SphinxText.xls, row 2494"
+    "message": "CERBATANA"
   },
   "HT_Text_Context_ThirdPerson": {
-    "message": "3.ª PERSONA",
-    "description": "SphinxText.xls, row 2495"
+    "message": "3.ª PERSONA"
   },
   "HT_Text_Context_Program": {
-    "message": "PROGRAMA",
-    "description": "SphinxText.xls, row 2496"
+    "message": "PROGRAMA"
   },
   "HT_Text_Context_SpittingToadV": {
-    "message": "VERTICAL",
-    "description": "SphinxText.xls, row 2497"
+    "message": "VERTICAL"
   },
   "HT_Text_Context_SpittingToadH": {
-    "message": "HORIZONTAL",
-    "description": "SphinxText.xls, row 2498"
+    "message": "HORIZONTAL"
   },
   "HT_Text_Context_Flap": {
-    "message": "BATIR",
-    "description": "SphinxText.xls, row 2499"
+    "message": "BATIR"
   },
   "HT_Text_Context_Enter": {
-    "message": "INTRODUCIR",
-    "description": "SphinxText.xls, row 2500"
+    "message": "INTRODUCIR"
   },
   "HT_Text_Context_Grow": {
-    "message": "AUMENTAR",
-    "description": "SphinxText.xls, row 2501"
+    "message": "AUMENTAR"
   },
   "HT_Text_Context_Exit": {
-    "message": "SALIR",
-    "description": "SphinxText.xls, row 2502"
+    "message": "SALIR"
   },
   "HT_Text_Context_SwapMummy": {
-    "message": "CAMBIAR",
-    "description": "SphinxText.xls, row 2503"
+    "message": "CAMBIAR"
   },
   "HT_Text_Context_MummyCrawl": {
-    "message": "GATEAR",
-    "description": "SphinxText.xls, row 2504"
+    "message": "GATEAR"
   },
   "HT_Text_Context_MummyStandUp": {
-    "message": "EN PIE",
-    "description": "SphinxText.xls, row 2505"
+    "message": "EN PIE"
   },
   "HT_Text_Context_Dive": {
-    "message": "BUCEAR",
-    "description": "SphinxText.xls, row 2506"
+    "message": "BUCEAR"
   },
   "HT_Text_Context_Swim": {
-    "message": "NADAR",
-    "description": "SphinxText.xls, row 2507"
+    "message": "NADAR"
   },
   "HT_Text_Context_SwimFast": {
-    "message": "RÁPIDO",
-    "description": "SphinxText.xls, row 2508"
+    "message": "RÁPIDO"
   },
   "HT_Text_Context_WallSneakPeek": {
-    "message": "MIRAR",
-    "description": "SphinxText.xls, row 2509"
+    "message": "MIRAR"
   },
   "HT_Text_Context_WallSneak": {
-    "message": "SIGILO",
-    "description": "SphinxText.xls, row 2510"
+    "message": "SIGILO"
   },
   "HT_Text_Context_Take": {
-    "message": "COGER",
-    "description": "SphinxText.xls, row 2511"
+    "message": "COGER"
   },
   "HT_Text_Context_DJump": {
-    "message": "VOLTERETA",
-    "description": "SphinxText.xls, row 2512"
+    "message": "VOLTERETA"
   },
   "HT_Text_Context_Read": {
-    "message": "LEER",
-    "description": "SphinxText.xls, row 2513"
+    "message": "LEER"
   },
   "HT_Text_Context_Slam": {
-    "message": "GOLPEAR",
-    "description": "SphinxText.xls, row 2514"
+    "message": "GOLPEAR"
   },
   "HT_Text_Context_Wear": {
-    "message": "LLEVAR",
-    "description": "SphinxText.xls, row 2515"
+    "message": "LLEVAR"
   },
   "HT_Text_Context_UnHide": {
-    "message": "MOSTRAR",
-    "description": "SphinxText.xls, row 2516"
+    "message": "MOSTRAR"
   },
   "HT_Text_Context_Choose": {
-    "message": "ELEGIR",
-    "description": "SphinxText.xls, row 2517"
+    "message": "ELEGIR"
   },
   "HT_Text_Context_Select": {
-    "message": "SELECCIONAR",
-    "description": "SphinxText.xls, row 2518"
+    "message": "SELECCIONAR"
   },
   "HT_Text_Context_Shake": {
-    "message": "AGITAR",
-    "description": "SphinxText.xls, row 2519"
+    "message": "AGITAR"
   }
 }

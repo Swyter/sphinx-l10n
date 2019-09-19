@@ -1,42 +1,32 @@
 {
   "HT_Text_BOS_Monster_CapturedMonsters": {
-    "message": "괴물",
-    "description": "SphinxText.xls, row 2622"
+    "message": "괴물"
   },
   "HT_Text_BOS_Monster_Moves": {
-    "message": "동작",
-    "description": "SphinxText.xls, row 2623"
+    "message": "동작"
   },
   "HT_Text_BOS_Monster_Health": {
-    "message": "체력",
-    "description": "SphinxText.xls, row 2624"
+    "message": "체력"
   },
   "HT_Text_BOS_Monster_AttackRating": {
-    "message": "공격 등급",
-    "description": "SphinxText.xls, row 2625"
+    "message": "공격 등급"
   },
   "HT_Text_BOS_Monster_DefenceRating": {
-    "message": "방어 등급",
-    "description": "SphinxText.xls, row 2626"
+    "message": "방어 등급"
   },
   "HT_Text_BOS_Monster_DR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>괴물의 방어등급이 높을 수록, 전투에서 공격을 더 많이 견딜 수 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2627"
+    "message": "<ES HT_Text_ES_S_BOSStd>괴물의 방어등급이 높을 수록, 전투에서 공격을 더 많이 견딜 수 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_AR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>괴물의 공격등급이 높을 수록 적에게 더 많은 손상을 입힐 수 있다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2628"
+    "message": "<ES HT_Text_ES_S_BOSStd>괴물의 공격등급이 높을 수록 적에게 더 많은 손상을 입힐 수 있다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_Health_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이것의 괴물의 체력이다. 만약 괴물이 체력을 다 잃으면, 그 종류의 괴물을 더 이상 풀어놓을 수 없다 - 물론 그 종류의 다른 괴물을 잡으면 가능하다!<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2629"
+    "message": "<ES HT_Text_ES_S_BOSStd>이것의 괴물의 체력이다. 만약 괴물이 체력을 다 잃으면, 그 종류의 괴물을 더 이상 풀어놓을 수 없다 - 물론 그 종류의 다른 괴물을 잡으면 가능하다!<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_NoMoves": {
-    "message": "<ES HT_Text_ES_S_BOSStd>지금은 선택할 수 있는 동작이 없다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2630"
+    "message": "<ES HT_Text_ES_S_BOSStd>지금은 선택할 수 있는 동작이 없다.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_NoMonsters": {
-    "message": "<ES HT_Text_ES_S_BOSStd>지금은 괴물을 소유하고 있지 않다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2631"
+    "message": "<ES HT_Text_ES_S_BOSStd>지금은 괴물을 소유하고 있지 않다.<ES HT_Text_ES_E_BOSStd>"
   }
 }

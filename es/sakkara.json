@@ -1,54 +1,41 @@
 {
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1a": {
-    "message": "Mi Señor Set, los Gebs están eternamente agradecidos por haberles traído la <FC 0,128,0>Corona sagrada de Uruk<END FC>. La Corona estará a salvo en nuestras manos.<E>",
-    "description": "SphinxText.xls, row 1481"
+    "message": "Mi Señor Set, los Gebs están eternamente agradecidos por haberles traído la <FC 0,128,0>Corona sagrada de Uruk<END FC>. La Corona estará a salvo en nuestras manos.<E>"
   },
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1b": {
-    "message": "Creo que tus palabras son ciertas. Si no, las consecuencias serán terribles para ti.<E>",
-    "description": "SphinxText.xls, row 1482"
+    "message": "Creo que tus palabras son ciertas. Si no, las consecuencias serán terribles para ti.<E>"
   },
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1c": {
-    "message": "No hay motivos de preocupación, mi Señor Set. Nadie ha podido superar el poder de la Reina Geb.<E>",
-    "description": "SphinxText.xls, row 1483"
+    "message": "No hay motivos de preocupación, mi Señor Set. Nadie ha podido superar el poder de la Reina Geb.<E>"
   },
   "HT_Text_Sakk_5_Boss_Fight_Gebqueen1a": {
-    "message": "¿Cómo has entrado en el palacio de la Reina Geb?<E>",
-    "description": "SphinxText.xls, row 1485"
+    "message": "¿Cómo has entrado en el palacio de la Reina Geb?<E>"
   },
   "HT_Text_Sakk_5_Boss_Fight_Gebqueen1b": {
-    "message": "Pagarás un precio muy caro por tu insolencia. Vas a morir.<E>",
-    "description": "SphinxText.xls, row 1486"
+    "message": "Pagarás un precio muy caro por tu insolencia. Vas a morir.<E>"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1a": {
-    "message": "Puede que me hayas derrotado, pero Set te aniquilará.<P>Tus esfuerzos han sido en vano. Es demasiado tarde; nunca podrás con él.<E>",
-    "description": "SphinxText.xls, row 1487"
+    "message": "Puede que me hayas derrotado, pero Set te aniquilará.<P>Tus esfuerzos han sido en vano. Es demasiado tarde; nunca podrás con él.<E>"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1b": {
-    "message": "¡¡Aaaaaaaaaaaaaaaaaa!! <E>",
-    "description": "SphinxText.xls, row 1488"
+    "message": "¡¡Aaaaaaaaaaaaaaaaaa!! <E>"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1c": {
-    "message": "¡¡Aaaaaaaaaaaaaaaaaa!! <E>",
-    "description": "SphinxText.xls, row 1489"
+    "message": "¡¡Aaaaaaaaaaaaaaaaaa!! <E>"
   },
   "HT_Text_Sakk_5_TakeCrown1a": {
-    "message": "Es otra corona con un poder que desconoces.<E>",
-    "description": "SphinxText.xls, row 1528"
+    "message": "Es otra corona con un poder que desconoces.<E>"
   },
   "HT_Text_Sakk_5_TakeCrown1b": {
-    "message": "El camino escogido alberga grandes peligros.<E>",
-    "description": "SphinxText.xls, row 1529"
+    "message": "El camino escogido alberga grandes peligros.<E>"
   },
   "HT_Text_Sakk_5_TakeCrown1c": {
-    "message": "Tan solo los héroes más valientes tendrán éxito.<E>",
-    "description": "SphinxText.xls, row 1530"
+    "message": "Tan solo los héroes más valientes tendrán éxito.<E>"
   },
   "HT_Text_Sakk_5_TakeCrown1d": {
-    "message": "Por fin la profecía se está haciendo realidad. ¿Serás tú el Elegido que desencadene su fin?<E>",
-    "description": "SphinxText.xls, row 1531"
+    "message": "Por fin la profecía se está haciendo realidad. ¿Serás tú el Elegido que desencadene su fin?<E>"
   },
   "HT_Text_Sakk_5_TakeCrown1e": {
-    "message": "Acepta este <FC 0,128,0>Ankh de oro<END FC> como recompensa por tus logros.<P><ES HT_Text_ES_S_HelpText><CNTR>Este objeto mágico ha aumentado la capacidad de tu salud<N>en <FC 0,128,0>1 Ankh<END FC> y la ha restablecido por completo.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1532"
+    "message": "Acepta este <FC 0,128,0>Ankh de oro<END FC> como recompensa por tus logros.<P><ES HT_Text_ES_S_HelpText><CNTR>Este objeto mágico ha aumentado la capacidad de tu salud<N>en <FC 0,128,0>1 Ankh<END FC> y la ha restablecido por completo.<ES HT_Text_ES_E_HelpText><E>"
   }
 }

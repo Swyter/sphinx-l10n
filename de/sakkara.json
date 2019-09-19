@@ -1,54 +1,41 @@
 {
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1a": {
-    "message": "Herr, die Gebs werden dir für das Überbringen der <FC 0,128,0>Heiligen Krone von Uruk<END FC> ewig dankbar sein. Sie wird in unseren Händen völlig sicher sein.<E>",
-    "description": "SphinxText.xls, row 1481"
+    "message": "Herr, die Gebs werden dir für das Überbringen der <FC 0,128,0>Heiligen Krone von Uruk<END FC> ewig dankbar sein. Sie wird in unseren Händen völlig sicher sein.<E>"
   },
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1b": {
-    "message": "Ich bin nicht sicher, ob du die Wahrheit sprichst. Wenn nicht, dann werden die Konsequenzen für dich sehr schrecklich sein.<E>",
-    "description": "SphinxText.xls, row 1482"
+    "message": "Ich bin nicht sicher, ob du die Wahrheit sprichst. Wenn nicht, dann werden die Konsequenzen für dich sehr schrecklich sein.<E>"
   },
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1c": {
-    "message": "Keine Sorge, Herr. Niemand hat es jemals geschafft, die Macht der Gebkönigin zu brechen...<E>",
-    "description": "SphinxText.xls, row 1483"
+    "message": "Keine Sorge, Herr. Niemand hat es jemals geschafft, die Macht der Gebkönigin zu brechen...<E>"
   },
   "HT_Text_Sakk_5_Boss_Fight_Gebqueen1a": {
-    "message": "Wie kannst du es wagen, den Palast der Gebkönigin zu betreten?!<E>",
-    "description": "SphinxText.xls, row 1485"
+    "message": "Wie kannst du es wagen, den Palast der Gebkönigin zu betreten?!<E>"
   },
   "HT_Text_Sakk_5_Boss_Fight_Gebqueen1b": {
-    "message": "Für diese Beleidigung wirst du einen hohen Preis zahlen. Mach dich auf den Tod gefasst!<E>",
-    "description": "SphinxText.xls, row 1486"
+    "message": "Für diese Beleidigung wirst du einen hohen Preis zahlen. Mach dich auf den Tod gefasst!<E>"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1a": {
-    "message": "Du hast mich besiegt, aber Set wird dich auslöschen.<P>Deine Bemühungen waren völlig umsonst... es ist zu spät... du wirst ihn niemals besiegen...<E>",
-    "description": "SphinxText.xls, row 1487"
+    "message": "Du hast mich besiegt, aber Set wird dich auslöschen.<P>Deine Bemühungen waren völlig umsonst... es ist zu spät... du wirst ihn niemals besiegen...<E>"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1b": {
-    "message": "Aaaaaaiiiiiiiiiiiiee!!!! <E>",
-    "description": "SphinxText.xls, row 1488"
+    "message": "Aaaaaaiiiiiiiiiiiiee!!!! <E>"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1c": {
-    "message": "Aaaaaaiiiiiiiiiiiiee!!!! <E>",
-    "description": "SphinxText.xls, row 1489"
+    "message": "Aaaaaaiiiiiiiiiiiiee!!!! <E>"
   },
   "HT_Text_Sakk_5_TakeCrown1a": {
-    "message": "Eine weitere Krone, deren Macht du nicht verstehst.<E>",
-    "description": "SphinxText.xls, row 1528"
+    "message": "Eine weitere Krone, deren Macht du nicht verstehst.<E>"
   },
   "HT_Text_Sakk_5_TakeCrown1b": {
-    "message": "Der Weg, den du einschlägst, ist voller Gefahren...<E>",
-    "description": "SphinxText.xls, row 1529"
+    "message": "Der Weg, den du einschlägst, ist voller Gefahren...<E>"
   },
   "HT_Text_Sakk_5_TakeCrown1c": {
-    "message": "Nur die entschlossensten Helden können es schaffen.<E>",
-    "description": "SphinxText.xls, row 1530"
+    "message": "Nur die entschlossensten Helden können es schaffen.<E>"
   },
   "HT_Text_Sakk_5_TakeCrown1d": {
-    "message": "Endlich kommt die Prophezeiung zum Zuge... aber, wirst du der Eine sein, der sie erfüllt?<E>",
-    "description": "SphinxText.xls, row 1531"
+    "message": "Endlich kommt die Prophezeiung zum Zuge... aber, wirst du der Eine sein, der sie erfüllt?<E>"
   },
   "HT_Text_Sakk_5_TakeCrown1e": {
-    "message": "Nimm dieses <FC 0,128,0>Goldankh<END FC> als Belohnung für deine Leistungen.<P><ES HT_Text_ES_S_HelpText><CNTR>Dieses magische Artefakt hat deinen Gesundheitsvorrat <N>um <FC 0,128,0>1 Ankh<END FC> erhöht und deine Gesundheit vollständig wiederhergestellt!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1532"
+    "message": "Nimm dieses <FC 0,128,0>Goldankh<END FC> als Belohnung für deine Leistungen.<P><ES HT_Text_ES_S_HelpText><CNTR>Dieses magische Artefakt hat deinen Gesundheitsvorrat <N>um <FC 0,128,0>1 Ankh<END FC> erhöht und deine Gesundheit vollständig wiederhergestellt!<ES HT_Text_ES_E_HelpText><E>"
   }
 }

@@ -1,766 +1,575 @@
 {
   "HT_Text_FE_Menu_NewGame": {
-    "message": "새 게임",
-    "description": "SphinxText.xls, row 2981"
+    "message": "새 게임"
   },
   "HT_Text_FE_Menu_LoadGame": {
-    "message": "게임 불러오기",
-    "description": "SphinxText.xls, row 2982"
+    "message": "게임 불러오기"
   },
   "HT_Text_FE_Menu_BonusMaterial": {
-    "message": "보너스",
-    "description": "SphinxText.xls, row 2983"
+    "message": "보너스"
   },
   "HT_Text_FE_Menu_Options": {
-    "message": "옵션",
-    "description": "SphinxText.xls, row 2984"
+    "message": "옵션"
   },
   "HT_Text_FE_Menu_OptionsSubControl": {
-    "message": "컨트롤 설정",
-    "description": "SphinxText.xls, row 2985"
+    "message": "컨트롤 설정"
   },
   "HT_Text_FE_Menu_OptionsSubScreen": {
-    "message": "화면 설정",
-    "description": "SphinxText.xls, row 2986"
+    "message": "화면 설정"
   },
   "HT_Text_FE_Menu_OptionsSubSound": {
-    "message": "소리 설정",
-    "description": "SphinxText.xls, row 2987"
+    "message": "소리 설정"
   },
   "HT_Text_FE_Menu_MusicVolume": {
-    "message": "음악 크기",
-    "description": "SphinxText.xls, row 2988"
+    "message": "음악 크기"
   },
   "HT_Text_FE_Menu_SoundVolume": {
-    "message": "소리 크기",
-    "description": "SphinxText.xls, row 2989"
+    "message": "소리 크기"
   },
   "HT_Text_FE_Menu_PadRumbleGC": {
-    "message": "진동",
-    "description": "SphinxText.xls, row 2990"
+    "message": "진동"
   },
   "HT_Text_FE_Menu_PadRumbleXB": {
-    "message": "진동",
-    "description": "SphinxText.xls, row 2991"
+    "message": "진동"
   },
   "HT_Text_FE_Menu_PadRumblePS2": {
-    "message": "진동",
-    "description": "SphinxText.xls, row 2992"
+    "message": "진동"
   },
   "HT_Text_FE_Menu_ScreenAdjust": {
-    "message": "화면 조정",
-    "description": "SphinxText.xls, row 2993"
+    "message": "화면 조정"
   },
   "HT_Text_FE_Menu_Widescreen": {
-    "message": "와이드 스크린",
-    "description": "SphinxText.xls, row 2994"
+    "message": "와이드 스크린"
   },
   "HT_Text_FE_Menu_Subtitles": {
-    "message": "자막",
-    "description": "SphinxText.xls, row 2995"
+    "message": "자막"
   },
   "HT_Text_FE_Menu_InvertThirdPersonVert": {
-    "message": "3인칭 시점 세로 조작 뒤집기",
-    "description": "SphinxText.xls, row 2996"
+    "message": "3인칭 시점 세로 조작 뒤집기"
   },
   "HT_Text_FE_Menu_InvertThirdPersonHorz": {
-    "message": "3인칭 시점 가로 조작 뒤집기",
-    "description": "SphinxText.xls, row 2997"
+    "message": "3인칭 시점 가로 조작 뒤집기"
   },
   "HT_Text_FE_Menu_InvertFirstPersonVert": {
-    "message": "1인칭 시점 세로 조작 뒤집기",
-    "description": "SphinxText.xls, row 2998"
+    "message": "1인칭 시점 세로 조작 뒤집기"
   },
   "HT_Text_FE_Menu_OK": {
-    "message": "확인",
-    "description": "SphinxText.xls, row 2999"
+    "message": "확인"
   },
   "HT_Text_FE_Menu_Cancel": {
-    "message": "취소",
-    "description": "SphinxText.xls, row 3000"
+    "message": "취소"
   },
   "HT_Text_FE_Menu_ConfirmQuit": {
-    "message": "종료하고 싶습니까?",
-    "description": "SphinxText.xls, row 3001"
+    "message": "종료하고 싶습니까?"
   },
   "HT_Text_FE_Menu_ConfirmQuit_XB": {
-    "message": "정말로 그만 두시겠습니까? \\n저장되지 않은 진행상태는\\n모두 사라질 것입니다.",
-    "description": "SphinxText.xls, row 3002"
+    "message": "정말로 그만 두시겠습니까? \\n저장되지 않은 진행상태는\\n모두 사라질 것입니다."
   },
   "HT_Text_FE_Menu_SoundStereo": {
-    "message": "스테레오",
-    "description": "SphinxText.xls, row 3004"
+    "message": "스테레오"
   },
   "HT_Text_FE_Menu_SoundMono": {
-    "message": "모노",
-    "description": "SphinxText.xls, row 3005"
+    "message": "모노"
   },
   "HT_Text_FE_Menu_SoundSurround": {
-    "message": "서라운드",
-    "description": "SphinxText.xls, row 3006"
+    "message": "서라운드"
   },
   "HT_Text_FE_Menu_SoundStereoSurround": {
-    "message": "스테레오/\\n서라운드",
-    "description": "SphinxText.xls, row 3007"
+    "message": "스테레오/\\n서라운드"
   },
   "HT_Text_FE_Menu_SoundModeOption": {
-    "message": "소리 모드",
-    "description": "SphinxText.xls, row 3008"
+    "message": "소리 모드"
   },
   "HT_Text_FE_Menu_On": {
-    "message": "켜기",
-    "description": "SphinxText.xls, row 3009"
+    "message": "켜기"
   },
   "HT_Text_FE_Menu_Off": {
-    "message": "끄기",
-    "description": "SphinxText.xls, row 3010"
+    "message": "끄기"
   },
   "HT_Text_OptionsMenu_Back": {
-    "message": "뒤로",
-    "description": "SphinxText.xls, row 3011"
+    "message": "뒤로"
   },
   "HT_Text_OptionsMenu_Select": {
-    "message": "선택",
-    "description": "SphinxText.xls, row 3012"
+    "message": "선택"
   },
   "HT_Text_FE_Menu_ThirdPerson": {
-    "message": "3인칭 시점:",
-    "description": "SphinxText.xls, row 3013"
+    "message": "3인칭 시점:"
   },
   "HT_Text_FE_Menu_FirstPerson": {
-    "message": "1인칭 시점:",
-    "description": "SphinxText.xls, row 3014"
+    "message": "1인칭 시점:"
   },
   "HT_Text_FE_Menu_InvertHorz": {
-    "message": "가로 조작 방향 뒤집기",
-    "description": "SphinxText.xls, row 3015"
+    "message": "가로 조작 방향 뒤집기"
   },
   "HT_Text_FE_Menu_InvertVert": {
-    "message": "세로 조작 방향 뒤집기",
-    "description": "SphinxText.xls, row 3016"
+    "message": "세로 조작 방향 뒤집기"
   },
   "HT_Text_FE_MenuPause_Continue": {
-    "message": "계속",
-    "description": "SphinxText.xls, row 3017"
+    "message": "계속"
   },
   "HT_Text_FE_MenuPause_Options": {
-    "message": "옵션",
-    "description": "SphinxText.xls, row 3018"
+    "message": "옵션"
   },
   "HT_Text_FE_MenuPause_QuitGame": {
-    "message": "게임 종료",
-    "description": "SphinxText.xls, row 3019"
+    "message": "게임 종료"
   },
   "HT_Text_FE_PressStart_PS2": {
-    "message": "START(시작) 버튼을 누르십시오",
-    "description": "SphinxText.xls, row 3020"
+    "message": "START(시작) 버튼을 누르십시오"
   },
   "HT_Text_FE_PressStart_XB": {
-    "message": "START를 누르십시오",
-    "description": "SphinxText.xls, row 3021"
+    "message": "START를 누르십시오"
   },
   "HT_Text_FE_PressStart_GC": {
-    "message": "START(시작) 버튼을 누르십시오",
-    "description": "SphinxText.xls, row 3022"
+    "message": "START(시작) 버튼을 누르십시오"
   },
   "HT_Text_FE_PressStart_PC": {
-    "message": "시작하려면 아무 버튼이나 눌러주세요",
-    "description": "SphinxText.xls, row 3023"
+    "message": "시작하려면 아무 버튼이나 눌러주세요"
   },
   "HT_Text_FE_Bonus1_Title": {
-    "message": "스핑크스의 제작",
-    "description": "SphinxText.xls, row 3025"
+    "message": "스핑크스의 제작"
   },
   "HT_Text_FE_Bonus1_Description": {
-    "message": "스핑크스와 저주 받은 미이라의 제작 배경을 살펴봅시다",
-    "description": "SphinxText.xls, row 3026"
+    "message": "스핑크스와 저주 받은 미이라의 제작 배경을 살펴봅시다"
   },
   "HT_Text_FE_Bonus2_Title": {
-    "message": "스핑크스 동영상",
-    "description": "SphinxText.xls, row 3027"
+    "message": "스핑크스 동영상"
   },
   "HT_Text_FE_Bonus2_Description": {
-    "message": "스핑크스와 저주 받은 미이라의 동영상",
-    "description": "SphinxText.xls, row 3028"
+    "message": "스핑크스와 저주 받은 미이라의 동영상"
   },
   "HT_Text_FE_Menu_SaveSlotA": {
-    "message": "스핑크스 A",
-    "description": "SphinxText.xls, row 3030"
+    "message": "스핑크스 A"
   },
   "HT_Text_FE_Menu_SaveSlotB": {
-    "message": "스핑크스 B",
-    "description": "SphinxText.xls, row 3031"
+    "message": "스핑크스 B"
   },
   "HT_Text_FE_Menu_SaveSlotC": {
-    "message": "스핑크스 C",
-    "description": "SphinxText.xls, row 3032"
+    "message": "스핑크스 C"
   },
   "HT_Text_FE_Menu_SaveSlotA_XB": {
-    "message": "스핑크스 A",
-    "description": "SphinxText.xls, row 3033"
+    "message": "스핑크스 A"
   },
   "HT_Text_FE_Menu_SaveSlotB_XB": {
-    "message": "스핑크스 B",
-    "description": "SphinxText.xls, row 3034"
+    "message": "스핑크스 B"
   },
   "HT_Text_FE_Menu_SaveSlotC_XB": {
-    "message": "스핑크스 C",
-    "description": "SphinxText.xls, row 3035"
+    "message": "스핑크스 C"
   },
   "HT_Text_FE_Menu_SaveSlotNone": {
-    "message": "저장하지 않고 진행",
-    "description": "SphinxText.xls, row 3036"
+    "message": "저장하지 않고 진행"
   },
   "HT_Text_FE_Menu_SaveSlotEmpty": {
-    "message": "비어있음",
-    "description": "SphinxText.xls, row 3037"
+    "message": "비어있음"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
-    "message": "파손됨",
-    "description": "SphinxText.xls, row 3039"
+    "message": "파손됨"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
-    "message": "손상됨",
-    "description": "SphinxText.xls, row 3040"
+    "message": "손상됨"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_GC": {
-    "message": "비어있음",
-    "description": "SphinxText.xls, row 3041"
+    "message": "비어있음"
   },
   "HT_Text_MemCard_PromptSlotA": {
-    "message": "스핑크스 A",
-    "description": "SphinxText.xls, row 3043"
+    "message": "스핑크스 A"
   },
   "HT_Text_MemCard_PromptSlotB": {
-    "message": "스핑크스 B",
-    "description": "SphinxText.xls, row 3044"
+    "message": "스핑크스 B"
   },
   "HT_Text_MemCard_PromptSlotC": {
-    "message": "스핑크스 C",
-    "description": "SphinxText.xls, row 3045"
+    "message": "스핑크스 C"
   },
   "HT_Text_MemCard_PromptNo": {
-    "message": "아니오",
-    "description": "SphinxText.xls, row 3047"
+    "message": "아니오"
   },
   "HT_Text_MemCard_PromptYes": {
-    "message": "예",
-    "description": "SphinxText.xls, row 3048"
+    "message": "예"
   },
   "HT_Text_MemCard_PromptOK": {
-    "message": "확인",
-    "description": "SphinxText.xls, row 3049"
+    "message": "확인"
   },
   "HT_Text_MemCard_PromptRetry": {
-    "message": "다시 시도",
-    "description": "SphinxText.xls, row 3050"
+    "message": "다시 시도"
   },
   "HT_Text_MemCard_PromptCancel": {
-    "message": "취소",
-    "description": "SphinxText.xls, row 3051"
+    "message": "취소"
   },
   "HT_Text_MemCard_PromptHaventSaved_XB": {
-    "message": "정말 저장하지 않고 진행하시겠습니까?",
-    "description": "SphinxText.xls, row 3053"
+    "message": "정말 저장하지 않고 진행하시겠습니까?"
   },
   "HT_Text_MemCard_GameName": {
-    "message": "스핑크스",
-    "description": "SphinxText.xls, row 3054"
+    "message": "스핑크스"
   },
   "HT_Text_Paused_PS2": {
-    "message": "정지됨",
-    "description": "SphinxText.xls, row 3056"
+    "message": "정지됨"
   },
   "HT_Text_Paused_XB": {
-    "message": "계속하려면 START를 누르십시오.",
-    "description": "SphinxText.xls, row 3057"
+    "message": "계속하려면 START를 누르십시오."
   },
   "HT_Text_Paused_GC": {
-    "message": "정지됨",
-    "description": "SphinxText.xls, row 3058"
+    "message": "정지됨"
   },
   "HT_Text_ReplacePadPrompt_PS2_PAL": {
-    "message": "컨트롤러 포트 (MISSINGPAD)에 컨트롤러가 꽂혀있지 않습니다. 계속하시려면 아날로그 컨트롤러(DUALSHOCK®) 혹은 아날로그 컨트롤러(DUALSHOCK®2)를 꽂아주십시오.",
-    "description": "SphinxText.xls, row 3060"
+    "message": "컨트롤러 포트 (MISSINGPAD)에 컨트롤러가 꽂혀있지 않습니다. 계속하시려면 아날로그 컨트롤러(DUALSHOCK®) 혹은 아날로그 컨트롤러(DUALSHOCK®2)를 꽂아주십시오."
   },
   "HT_Text_ReplacePadPrompt_PS2_NTSC": {
-    "message": "컨트롤러 포트 (MISSINGPAD)에 컨트롤러가 꽂혀있지 않습니다. 계속하시려면 아날로그 컨트롤러(DUALSHOCK®) 혹은 아날로그 컨트롤러(DUALSHOCK®2)를 꽂아주십시오.",
-    "description": "SphinxText.xls, row 3061"
+    "message": "컨트롤러 포트 (MISSINGPAD)에 컨트롤러가 꽂혀있지 않습니다. 계속하시려면 아날로그 컨트롤러(DUALSHOCK®) 혹은 아날로그 컨트롤러(DUALSHOCK®2)를 꽂아주십시오."
   },
   "HT_Text_ReplacePadPrompt_XB_Start": {
-    "message": "컨트롤러를 컨트롤러 포트 (MISSINGPAD)에 다시 연결한 후 START를 눌러 계속하십시오.",
-    "description": "SphinxText.xls, row 3062"
+    "message": "컨트롤러를 컨트롤러 포트 (MISSINGPAD)에 다시 연결한 후 START를 눌러 계속하십시오."
   },
   "HT_Text_ReplacePadPrompt_XB": {
-    "message": "컨트롤러를 컨트롤러 포트 (MISSINGPAD)에 다시 연결하십시오.",
-    "description": "SphinxText.xls, row 3063"
+    "message": "컨트롤러를 컨트롤러 포트 (MISSINGPAD)에 다시 연결하십시오."
   },
   "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
-    "message": "게임 도중에 진행상태나설정을 저장할 수 없을 겁니다.정말로 계속하시겠습니까?",
-    "description": "SphinxText.xls, row 3065"
+    "message": "게임 도중에 진행상태나설정을 저장할 수 없을 겁니다.정말로 계속하시겠습니까?"
   },
   "HT_Text_DeathScreen_Continue": {
-    "message": "계속하기",
-    "description": "SphinxText.xls, row 3066"
+    "message": "계속하기"
   },
   "HT_Text_DeathScreen_QuitGame": {
-    "message": "게임 그만하기",
-    "description": "SphinxText.xls, row 3067"
+    "message": "게임 그만하기"
   },
   "HT_Text_DeathScreen_Text": {
-    "message": "게임 종료",
-    "description": "SphinxText.xls, row 3068"
+    "message": "게임 종료"
   },
   "HT_Text_OptionsMenu_Reset": {
-    "message": "초기화",
-    "description": "SphinxText.xls, row 3070"
+    "message": "초기화"
   },
   "HT_Text_ScreenAdjustText_PS2": {
-    "message": "방향키로 화면을\\n조정하십시오.",
-    "description": "SphinxText.xls, row 3071"
+    "message": "방향키로 화면을\\n조정하십시오."
   },
   "HT_Text_ScreenAdjustText_GC": {
-    "message": "십자 버튼으로 화면을 조정하십시오.",
-    "description": "SphinxText.xls, row 3072"
+    "message": "십자 버튼으로 화면을 조정하십시오."
   },
   "HT_Text_ScreenAdjustText_XB": {
-    "message": "방향 패드로 화면을 조정하십시오.",
-    "description": "SphinxText.xls, row 3073"
+    "message": "방향 패드로 화면을 조정하십시오."
   },
   "HT_Text_Memcard_Test": {
-    "message": "이것은 메모리 카드 도움말 시험입니다.\\n새 줄들.\\n그리고 느낌표들!",
-    "description": "SphinxText.xls, row 3074"
+    "message": "이것은 메모리 카드 도움말 시험입니다.\\n새 줄들.\\n그리고 느낌표들!"
   },
   "HT_Text_Memcard_SaveConfirm": {
-    "message": "이 슬롯에 저장\\n하시겠습니까?",
-    "description": "SphinxText.xls, row 3075"
+    "message": "이 슬롯에 저장\\n하시겠습니까?"
   },
   "HT_Text_Memcard_LoadConfirm": {
-    "message": "이 게임을 불러\\n오시겠습니까?",
-    "description": "SphinxText.xls, row 3076"
+    "message": "이 게임을 불러\\n오시겠습니까?"
   },
   "HT_Text_Memcard_OverwriteConfirm": {
-    "message": "게임이 이미 저장되어 있습니다.\\n\\n기존의 게임을\\n덮어쓰시겠습니까?",
-    "description": "SphinxText.xls, row 3077"
+    "message": "게임이 이미 저장되어 있습니다.\\n\\n기존의 게임을\\n덮어쓰시겠습니까?"
   },
   "HT_Text_Memcard_NoFormat": {
-    "message": "메모리 카드 슬롯 1의\\n메모리 카드(PS2)가 포맷되어 있지 않습니다.\\n\\n메모리 카드(PS2)를 포맷하시겠습니까?",
-    "description": "SphinxText.xls, row 3078"
+    "message": "메모리 카드 슬롯 1의\\n메모리 카드(PS2)가 포맷되어 있지 않습니다.\\n\\n메모리 카드(PS2)를 포맷하시겠습니까?"
   },
   "HT_Text_Memcard_NoFormat_Boot": {
-    "message": "메모리 카드 슬롯 1의\\n메모리 카드(PS2)가 포맷되어 있지 않습니다.\\n메모리 카드(PS2)를 포맷하시겠습니까?",
-    "description": "SphinxText.xls, row 3079"
+    "message": "메모리 카드 슬롯 1의\\n메모리 카드(PS2)가 포맷되어 있지 않습니다.\\n메모리 카드(PS2)를 포맷하시겠습니까?"
   },
   "HT_Text_Memcard_NoDirectory": {
-    "message": "메모리 카드 슬롯 1의\\n메모리 카드(PS2)에는스핑크스\\n시스템 데이터가 없습니다\\n스핑크스 시스템 데이터를 생성하시겠습니까?",
-    "description": "SphinxText.xls, row 3080"
+    "message": "메모리 카드 슬롯 1의\\n메모리 카드(PS2)에는스핑크스\\n시스템 데이터가 없습니다\\n스핑크스 시스템 데이터를 생성하시겠습니까?"
   },
   "HT_Text_Memcard_FormatComplete": {
-    "message": "포맷 완료.",
-    "description": "SphinxText.xls, row 3081"
+    "message": "포맷 완료."
   },
   "HT_Text_Memcard_SaveFailed": {
-    "message": "게임 저장 실패.",
-    "description": "SphinxText.xls, row 3082"
+    "message": "게임 저장 실패."
   },
   "HT_Text_Memcard_SaveSuccess": {
-    "message": "게임 저장 완료.",
-    "description": "SphinxText.xls, row 3083"
+    "message": "게임 저장 완료."
   },
   "HT_Text_Memcard_LoadFail": {
-    "message": "게임 불러오기 실패.",
-    "description": "SphinxText.xls, row 3084"
+    "message": "게임 불러오기 실패."
   },
   "HT_Text_Memcard_NoCard": {
-    "message": "주의! 스핑크스는 자동 저장 기능을 사용합니다.\\n지금 이후에 메모리 카드(PS2)를 삽입하면\\n데이터를 덮어써 버릴 수 있습니다.\\n그러나 게임 데이터를 저장하고 싶으시면\\n최소한 xKB의 빈 공간이 있는 메모리 카드(PS2)를 꽂으십시오.\\n\\n저장하지 않고 계속하시려면\\nSTART(시작) 버튼을 누르십시오.",
-    "description": "SphinxText.xls, row 3085"
+    "message": "주의! 스핑크스는 자동 저장 기능을 사용합니다.\\n지금 이후에 메모리 카드(PS2)를 삽입하면\\n데이터를 덮어써 버릴 수 있습니다.\\n그러나 게임 데이터를 저장하고 싶으시면\\n최소한 xKB의 빈 공간이 있는 메모리 카드(PS2)를 꽂으십시오.\\n\\n저장하지 않고 계속하시려면\\nSTART(시작) 버튼을 누르십시오."
   },
   "HT_Text_Memcard_NoCard1": {
-    "message": "메모리 카드 슬롯 1에\\n메모리 카드(PS2)가 없습니다.",
-    "description": "SphinxText.xls, row 3086"
+    "message": "메모리 카드 슬롯 1에\\n메모리 카드(PS2)가 없습니다."
   },
   "HT_Text_Memcard_NoSpace_Boot": {
-    "message": "메모리 카드(PS2)에 공간이 부족합니다. 최소한 xKB의\\n빈 공간이 있는 메모리 카드(PS2)를 꽂으시거나\\n콘솔의 브라우저를 사용하여 공간을 확보하십시오.",
-    "description": "SphinxText.xls, row 3087"
+    "message": "메모리 카드(PS2)에 공간이 부족합니다. 최소한 xKB의\\n빈 공간이 있는 메모리 카드(PS2)를 꽂으시거나\\n콘솔의 브라우저를 사용하여 공간을 확보하십시오."
   },
   "HT_Text_Memcard_NoSpace_Save": {
-    "message": "메모리 카드 슬롯 1의 메모리 카드(PS2)의 공간이 부족합니다.\\n스핑크스의 데이터를 저장하려면 xKB의 빈 공간이 필요합니다.",
-    "description": "SphinxText.xls, row 3088"
+    "message": "메모리 카드 슬롯 1의 메모리 카드(PS2)의 공간이 부족합니다.\\n스핑크스의 데이터를 저장하려면 xKB의 빈 공간이 필요합니다."
   },
   "HT_Text_Memcard_PressKey": {
-    "message": "저장하지 않고 계속하려면 START(시작) 버튼을 누르십시오",
-    "description": "SphinxText.xls, row 3089"
+    "message": "저장하지 않고 계속하려면 START(시작) 버튼을 누르십시오"
   },
   "HT_Text_Memcard_Loading": {
-    "message": "불러오는 중...",
-    "description": "SphinxText.xls, row 3090"
+    "message": "불러오는 중..."
   },
   "HT_Text_Memcard_Saving": {
-    "message": "데이터 저장 중. 메모리 카드 슬롯 1의 메모리 카드(PS2)를 뽑거나\\n콘솔을 리셋하거나 전원을 끄지 말아 주십시오.",
-    "description": "SphinxText.xls, row 3091"
+    "message": "데이터 저장 중. 메모리 카드 슬롯 1의 메모리 카드(PS2)를 뽑거나\\n콘솔을 리셋하거나 전원을 끄지 말아 주십시오."
   },
   "HT_Text_Memcard_Formatting": {
-    "message": "포맷 중...\\n\\n\\n메모리 카드 슬롯 1의 메모리 카드(PS2)를 포맷 중.\\n메모리 카드(PS2)를 뽑거나,\\콘솔을 리셋하거나 전원을 끄지 말아 주십시오.",
-    "description": "SphinxText.xls, row 3092"
+    "message": "포맷 중...\\n\\n\\n메모리 카드 슬롯 1의 메모리 카드(PS2)를 포맷 중.\\n메모리 카드(PS2)를 뽑거나,\\콘솔을 리셋하거나 전원을 끄지 말아 주십시오."
   },
   "HT_Text_Memcard_YesNo": {
-    "message": "<B 1>예<N><B 2>아니오<E>",
-    "description": "SphinxText.xls, row 3093"
+    "message": "<B 1>예<N><B 2>아니오<E>"
   },
   "HT_Text_Menu_Cross": {
-    "message": "선택",
-    "description": "SphinxText.xls, row 3094"
+    "message": "선택"
   },
   "HT_Text_Menu_Triangle": {
-    "message": "뒤로",
-    "description": "SphinxText.xls, row 3095"
+    "message": "뒤로"
   },
   "HT_Text_Menu_Square": {
-    "message": "화면 중앙 맞추기",
-    "description": "SphinxText.xls, row 3096"
+    "message": "화면 중앙 맞추기"
   },
   "HT_Text_Menu_StartPause": {
-    "message": "게임 계속하기",
-    "description": "SphinxText.xls, row 3097"
+    "message": "게임 계속하기"
   },
   "HT_Text_Menu_AdjustScreen": {
-    "message": "왼쪽 스틱 혹은\\n방향키를 사용하여\\n화면 위치를 조정하십시오",
-    "description": "SphinxText.xls, row 3098"
+    "message": "왼쪽 스틱 혹은\\n방향키를 사용하여\\n화면 위치를 조정하십시오"
   },
   "HT_Text_Menu_Accept": {
-    "message": "예",
-    "description": "SphinxText.xls, row 3099"
+    "message": "예"
   },
   "HT_Text_Menu_Decline": {
-    "message": "아니오",
-    "description": "SphinxText.xls, row 3100"
+    "message": "아니오"
   },
   "HT_Text_Menu_Pause": {
-    "message": "게임 정지",
-    "description": "SphinxText.xls, row 3101"
+    "message": "게임 정지"
   },
   "HT_Text_Menu_Empty": {
-    "message": "아무것도 아니다",
-    "description": "SphinxText.xls, row 3102"
+    "message": "아무것도 아니다"
   },
   "HT_Text_Menu_BOS": {
-    "message": "스핑크스의 서를 연다",
-    "description": "SphinxText.xls, row 3103"
+    "message": "스핑크스의 서를 연다"
   },
   "HT_Text_Menu_Inventory": {
-    "message": "재고",
-    "description": "SphinxText.xls, row 3104"
+    "message": "재고"
   },
   "HT_Text_Menu_Jump": {
-    "message": "점프",
-    "description": "SphinxText.xls, row 3105"
+    "message": "점프"
   },
   "HT_Text_Menu_Attack": {
-    "message": "공격",
-    "description": "SphinxText.xls, row 3106"
+    "message": "공격"
   },
   "HT_Text_Menu_Context": {
-    "message": "정황",
-    "description": "SphinxText.xls, row 3107"
+    "message": "정황"
   },
   "HT_Text_Menu_Shield": {
-    "message": "방패",
-    "description": "SphinxText.xls, row 3108"
+    "message": "방패"
   },
   "HT_Text_Menu_Pipe": {
-    "message": "취관",
-    "description": "SphinxText.xls, row 3109"
+    "message": "취관"
   },
   "HT_Text_Menu_Camera": {
-    "message": "카메라 조정",
-    "description": "SphinxText.xls, row 3110"
+    "message": "카메라 조정"
   },
   "HT_Text_Menu_Move": {
-    "message": "캐릭터 움직이기",
-    "description": "SphinxText.xls, row 3111"
+    "message": "캐릭터 움직이기"
   },
   "HT_Text_Menu_Start": {
-    "message": "게임 메뉴 정지",
-    "description": "SphinxText.xls, row 3112"
+    "message": "게임 메뉴 정지"
   },
   "HT_Text_Menu_PadLayout1": {
-    "message": "기본",
-    "description": "SphinxText.xls, row 3113"
+    "message": "기본"
   },
   "HT_Text_Menu_PadLayout2": {
-    "message": "왼손잡이",
-    "description": "SphinxText.xls, row 3114"
+    "message": "왼손잡이"
   },
   "HT_Text_Menu_PadLayout3": {
-    "message": "술 취한",
-    "description": "SphinxText.xls, row 3115"
+    "message": "술 취한"
   },
   "HT_Text_Menu_NoPad": {
-    "message": "컨트롤러 포트 1의\\n컨트롤러가 뽑혔습니다.\\n게임을 계속하시려면\\n컨트롤러를 다시 꽂아주십시오.",
-    "description": "SphinxText.xls, row 3116"
+    "message": "컨트롤러 포트 1의\\n컨트롤러가 뽑혔습니다.\\n게임을 계속하시려면\\n컨트롤러를 다시 꽂아주십시오."
   },
   "HT_Text_Menu_Uruk1": {
-    "message": "SPHINX=@=URUK=HILLS",
-    "description": "SphinxText.xls, row 3117"
+    "message": "SPHINX=@=URUK=HILLS"
   },
   "HT_Text_Menu_Uruk2": {
-    "message": "MUMMY=@=URUK=CASTLE",
-    "description": "SphinxText.xls, row 3118"
+    "message": "MUMMY=@=URUK=CASTLE"
   },
   "HT_Text_Menu_Making": {
-    "message": "THE=MAKING=OF=:=:=:",
-    "description": "SphinxText.xls, row 3119"
+    "message": "THE=MAKING=OF=:=:=:"
   },
   "HT_Text_Menu_Trailer": {
-    "message": "예고편",
-    "description": "SphinxText.xls, row 3120"
+    "message": "예고편"
   },
   "HT_Text_Menu_Exit": {
-    "message": "끝내기=데모",
-    "description": "SphinxText.xls, row 3121"
+    "message": "끝내기=데모"
   },
   "HT_Text_Menu_Continue": {
-    "message": "계속하기",
-    "description": "SphinxText.xls, row 3122"
+    "message": "계속하기"
   },
   "HT_Text_Menu_Rumble": {
-    "message": "진동==켜기",
-    "description": "SphinxText.xls, row 3123"
+    "message": "진동==켜기"
   },
   "HT_Text_Menu_RumbleOff": {
-    "message": "진동==끄기",
-    "description": "SphinxText.xls, row 3124"
+    "message": "진동==끄기"
   },
   "HT_Text_Menu_StartDemo": {
-    "message": "플레이=데모",
-    "description": "SphinxText.xls, row 3125"
+    "message": "플레이=데모"
   },
   "HT_Text_Menu_NewGame": {
-    "message": "새=게임",
-    "description": "SphinxText.xls, row 3126"
+    "message": "새=게임"
   },
   "HT_Text_Menu_Load": {
-    "message": "불러오기=게임",
-    "description": "SphinxText.xls, row 3127"
+    "message": "불러오기=게임"
   },
   "HT_Text_Menu_Save": {
-    "message": "저장하기=게임",
-    "description": "SphinxText.xls, row 3128"
+    "message": "저장하기=게임"
   },
   "HT_Text_Menu_Options": {
-    "message": "옵션",
-    "description": "SphinxText.xls, row 3129"
+    "message": "옵션"
   },
   "HT_Text_Menu_EndGame": {
-    "message": "끝내기=게임",
-    "description": "SphinxText.xls, row 3130"
+    "message": "끝내기=게임"
   },
   "HT_Text_Menu_Screen": {
-    "message": "화면=설정",
-    "description": "SphinxText.xls, row 3131"
+    "message": "화면=설정"
   },
   "HT_Text_Menu_Pad": {
-    "message": "컨트롤러=설정",
-    "description": "SphinxText.xls, row 3132"
+    "message": "컨트롤러=설정"
   },
   "HT_Text_Menu_Sound": {
-    "message": "소리=설정",
-    "description": "SphinxText.xls, row 3133"
+    "message": "소리=설정"
   },
   "HT_Text_Menu_ScreenAdjust": {
-    "message": "조정하기=화면",
-    "description": "SphinxText.xls, row 3134"
+    "message": "조정하기=화면"
   },
   "HT_Text_Menu_WidescreenON": {
-    "message": "와이드스크린==켜기",
-    "description": "SphinxText.xls, row 3135"
+    "message": "와이드스크린==켜기"
   },
   "HT_Text_Menu_WidescreenOFF": {
-    "message": "와이드스크린==끄기",
-    "description": "SphinxText.xls, row 3136"
+    "message": "와이드스크린==끄기"
   },
   "HT_Text_Menu_Volume": {
-    "message": "볼륨",
-    "description": "SphinxText.xls, row 3137"
+    "message": "볼륨"
   },
   "HT_Text_Menu_SoundFX": {
-    "message": "소리=효과음",
-    "description": "SphinxText.xls, row 3138"
+    "message": "소리=효과음"
   },
   "HT_Text_Menu_Music": {
-    "message": "음악",
-    "description": "SphinxText.xls, row 3139"
+    "message": "음악"
   },
   "HT_Text_Menu_SurroundON": {
-    "message": "서라운드",
-    "description": "SphinxText.xls, row 3140"
+    "message": "서라운드"
   },
   "HT_Text_Menu_SurroundOFF": {
-    "message": "스테레오",
-    "description": "SphinxText.xls, row 3141"
+    "message": "스테레오"
   },
   "HT_Text_Menu_Mono": {
-    "message": "모노",
-    "description": "SphinxText.xls, row 3142"
+    "message": "모노"
   },
   "HT_Text_Menu_Videos": {
-    "message": "영상",
-    "description": "SphinxText.xls, row 3143"
+    "message": "영상"
   },
   "HT_Text_Menu_QuitLevel": {
-    "message": "끝내기=레벨",
-    "description": "SphinxText.xls, row 3144"
+    "message": "끝내기=레벨"
   },
   "HT_Text_Menu_NTSC": {
-    "message": "프레임=레이트==60",
-    "description": "SphinxText.xls, row 3145"
+    "message": "프레임=레이트==60"
   },
   "HT_Text_Menu_PAL": {
-    "message": "프레임=레이트==50",
-    "description": "SphinxText.xls, row 3146"
+    "message": "프레임=레이트==50"
   },
   "HT_Text_Menu_QuitQuestion": {
-    "message": "게임을 끝내겠습니까? ",
-    "description": "SphinxText.xls, row 3147"
+    "message": "게임을 끝내겠습니까? "
   },
   "HT_Text_Menu_Paused": {
-    "message": "정지",
-    "description": "SphinxText.xls, row 3148"
+    "message": "정지"
   },
   "HT_Text_Menu_QuitLevQuestion": {
-    "message": "레벨을 끝내겠습니까?",
-    "description": "SphinxText.xls, row 3149"
+    "message": "레벨을 끝내겠습니까?"
   },
   "HT_Text_Menu_StartGame": {
-    "message": "게임 시작",
-    "description": "SphinxText.xls, row 3150"
+    "message": "게임 시작"
   },
   "HT_Text_Menu_SaveOver": {
-    "message": "이 게임을 덮어서 저장하기",
-    "description": "SphinxText.xls, row 3151"
+    "message": "이 게임을 덮어서 저장하기"
   },
   "HT_Text_Menu_UseSlot": {
-    "message": "이 슬롯을 사용",
-    "description": "SphinxText.xls, row 3152"
+    "message": "이 슬롯을 사용"
   },
   "HT_Text_Menu_LoadGame": {
-    "message": "이 게임을 불러오기",
-    "description": "SphinxText.xls, row 3153"
+    "message": "이 게임을 불러오기"
   },
   "HT_Text_Menu_EmptySlot": {
-    "message": "[ 비어있음 ]",
-    "description": "SphinxText.xls, row 3154"
+    "message": "[ 비어있음 ]"
   },
   "HT_Text_Menu_CorruptSlot": {
-    "message": "[ 손상됨 ]",
-    "description": "SphinxText.xls, row 3155"
+    "message": "[ 손상됨 ]"
   },
   "HT_Text_Menu_Scarabs": {
-    "message": " 스캐럽",
-    "description": "SphinxText.xls, row 3156"
+    "message": " 스캐럽"
   },
   "HT_Text_Menu_InvertON": {
-    "message": "뒤집기=카메라==켜기",
-    "description": "SphinxText.xls, row 3157"
+    "message": "뒤집기=카메라==켜기"
   },
   "HT_Text_Menu_InvertOFF": {
-    "message": "뒤집기=카메라==끄기",
-    "description": "SphinxText.xls, row 3158"
+    "message": "뒤집기=카메라==끄기"
   },
   "HT_Text_Menu_SwapXYON": {
-    "message": "바꾸기=카메라=X==켜기",
-    "description": "SphinxText.xls, row 3159"
+    "message": "바꾸기=카메라=X==켜기"
   },
   "HT_Text_Menu_SwapXYOFF": {
-    "message": "바꾸기=카메라=X==끄기",
-    "description": "SphinxText.xls, row 3160"
+    "message": "바꾸기=카메라=X==끄기"
   },
   "HT_Text_Menu_Cancel": {
-    "message": "취소",
-    "description": "SphinxText.xls, row 3161"
+    "message": "취소"
   },
   "HT_Text_Menu_Reset": {
-    "message": "초기화",
-    "description": "SphinxText.xls, row 3162"
+    "message": "초기화"
   },
   "HT_Text_Credits1": {
-    "message": "\\n\\nTHQ Nordic GmbH\n\\n\\n\n\\nProgrammer & PC Conversion:\n\\nIsmael Ferreras Morezuelas (Swyter)\n\\n\n\\nExecutive Producer:\n\\nReinhard Pollice\n\\n \n\\nLocalization Manager:\n\\nGennaro Giani\n\\n \n\\nPR & Marketing Director:   \n\\nPhilipp Brock\n\\n\n\\nPR & Marketing:\n\\nFlorian Emmerich\n\\nStephanie Harman\n\\nLina Berehi\n\\n\n\\nPublishing Director:\n\\nJan Binsmaier\n\\n\n\\nPublishing Project Management:\n\\nBarbara Kugler\n\\n\n\\nSocial Media Manager: \n\\nManuel Karl\n\\n\n\\nLead Graphic Artist:\n\\nErnst Satzinger\n\\n\n\\nGraphic Asset Assistant: \n\\nTobias Grimus\n\\nPeter Hambsch\n\\nJanet Weiss\n\\n \n\\nAge Rating Coordinator:\n\\nThomas Reisinger\n\\n\n\\nWeb Developer:\n\\nNina Trabe\n\\n\n\\nSales Director:\n\\nGeorg Klotzberg\n\\n \n\\nSales:\n\\nReinhold Schor\n\\nNik Blower\n\\nIan Warley\n\\nJeremy Soulet\n\\n \n\\nDigital Distribution:\n\\nThomas Reisinger\n\\nTim Grainer\n\\n \n\\nManufacturing:\n\\nAnton Seicarescu\n\\n \n\\nAccounting & Office Management:\n\\nMarion Mayer\n\\nAnton Seicarescu\n\\n \n\\nBusiness & Product Development Director: \n\\nReinhard Pollice\n\\n \n\\nTHQ Nordic Management:\n\\nKlemens Kreuzer\n\\nLars Wingefors\n\\n  \n\\nTHQ Nordic Inc.\n\\nAdrienne Lauer\n\\nEric Wuestmann\n\\nKlemens Kreuzer\n\\n\n\\n\\n\\nDesigned and developed by\\nEurocom Entertainment Software\n\\n\\n\\nPRODUCTION\n\\nVictor Garrido\n\\nPadraig Crowley\n\\n\n\\nGAME PROGRAMMING\n\\nMartin Hall\n\\nRichard Teather\n\\nChris Jordan\n\\nDaniel Peake\n\\nGraeme Richardson\n\\nGraham Reeves\n\\nLenny Johnson\n\\nMat Sneap\n\\n\n\\nENVIRONMENTS\n\\nJoaquin Catala Retortillo\n\\nAdrian Mannion\n\\nAlex Huguet Paredes\n\\nAna Amat Marco\n\\nColin Garrat\n\\nDavid Munoz Velazquez\n\\nLuis Gomez Guzman\n\\nStefan Scheffers\n\\nWilli Hammes\n\\n\n\\nCHARACTERS/ASSETS\n\\nJulian Romero \n\\nAbraham Meneu Oset\n\\nAmanda Barlow\n\\nBarry Lawless\n\\nJuan Solis\n\\nLars Verhoeff\n\\nPaul Harrison\n\\n\n\\nLEVEL DESIGN\n\\nMartin Kilcoyne\n\\nAndy Collins\n\\nDarren Weekes\n\\nJohn Barker\n\\nKarl Gillott\n\\nPhil Bennett\n\\nStuart Bee\n\\n\n\\nANIMATION\n\\nJose Luis Garcia Camara\n\\nAlberto Corral Arencibia\n\\nBobby Stockport\n\\nCarlos Fernandez Puertolas\n\\nDaniel Meitin Roca\n\\nEnrique Oliva\n\\nSantiago Colomo Martinez\n\\nSyd Franklin\n\\n\n\\nENGINE PROGRAMMING\n\\nChris Jackson\n\\nIan Denny\n\\nAndy Hutchings\n\\nAshley Finney\n\\nDave Looker\n\\nJL\n\\nJulian Vaughan\n\\nKev Stainwright\n\\nShane Clark\n\\nSteven Walker\n\\nTim Rogers\n\\n\n\\nTOOLS\n\\nAndy Mitchell\n\\nBob Smith\n\\nDiego Garcia Huerta\n\\nJim Makin\n\\nKev Marks\n\\nKevin Thacker\n\\n\n\\nAUDIO\n\\nSteve Duckworth\n\\nDuncan Bradshaw\n\\n\n\\nQA\n\\nMichael Robinson\n\\nLouise Sargison\n\\nAndrew Dilks\n\\nAndrew Green\n\\nChristopher Pilkington\n\\nDave Smith\n\\nDominic Hallam\n\\nDominic Hills\n\\nJamie Small\n\\nMatthew Gilchrist\n\\nOliver Madden\n\\nPeter Barrett\n\\nRichard Charles\n\\n\n\\n\n\\nSPECIAL THANKS\n\\nAndrew Dilks\n\\nBrian Riordan\n\\nChris Allen\n\\nChris Boyle\n\\nClive Stevenson\n\\nDuncan Hewitt\n\\nHelen Jones\n\\nHenk Nieborg\n\\nHugh Binns\n\\nJoe Lewis\n\\nJohn Parr\n\\nJosh Andrews\n\\nLasse Louhento\n\\nLudovic Le Camus\n\\nMark Potente\n\\nMartin McBain\n\\nMatt Dixon\n\\nMatt Farrell\n\\nMichael Hirst\n\\nPhil Dobson\n\\nPhil Hackney\n\\nRob Berry\n\\nSteve Gratton\n\\nTom Noone\n\\nUlf Dahl",
-    "description": "SphinxText.xls, row 3163"
+    "message": "\\n\\nTHQ Nordic GmbH\n\\n\\n\n\\nProgrammer & PC Conversion:\n\\nIsmael Ferreras Morezuelas (Swyter)\n\\n\n\\nExecutive Producer:\n\\nReinhard Pollice\n\\n \n\\nLocalization Manager:\n\\nGennaro Giani\n\\n \n\\nPR & Marketing Director:   \n\\nPhilipp Brock\n\\n\n\\nPR & Marketing:\n\\nFlorian Emmerich\n\\nStephanie Harman\n\\nLina Berehi\n\\n\n\\nPublishing Director:\n\\nJan Binsmaier\n\\n\n\\nPublishing Project Management:\n\\nBarbara Kugler\n\\n\n\\nSocial Media Manager: \n\\nManuel Karl\n\\n\n\\nLead Graphic Artist:\n\\nErnst Satzinger\n\\n\n\\nGraphic Asset Assistant: \n\\nTobias Grimus\n\\nPeter Hambsch\n\\nJanet Weiss\n\\n \n\\nAge Rating Coordinator:\n\\nThomas Reisinger\n\\n\n\\nWeb Developer:\n\\nNina Trabe\n\\n\n\\nSales Director:\n\\nGeorg Klotzberg\n\\n \n\\nSales:\n\\nReinhold Schor\n\\nNik Blower\n\\nIan Warley\n\\nJeremy Soulet\n\\n \n\\nDigital Distribution:\n\\nThomas Reisinger\n\\nTim Grainer\n\\n \n\\nManufacturing:\n\\nAnton Seicarescu\n\\n \n\\nAccounting & Office Management:\n\\nMarion Mayer\n\\nAnton Seicarescu\n\\n \n\\nBusiness & Product Development Director: \n\\nReinhard Pollice\n\\n \n\\nTHQ Nordic Management:\n\\nKlemens Kreuzer\n\\nLars Wingefors\n\\n  \n\\nTHQ Nordic Inc.\n\\nAdrienne Lauer\n\\nEric Wuestmann\n\\nKlemens Kreuzer\n\\n\n\\n\\n\\nDesigned and developed by\\nEurocom Entertainment Software\n\\n\\n\\nPRODUCTION\n\\nVictor Garrido\n\\nPadraig Crowley\n\\n\n\\nGAME PROGRAMMING\n\\nMartin Hall\n\\nRichard Teather\n\\nChris Jordan\n\\nDaniel Peake\n\\nGraeme Richardson\n\\nGraham Reeves\n\\nLenny Johnson\n\\nMat Sneap\n\\n\n\\nENVIRONMENTS\n\\nJoaquin Catala Retortillo\n\\nAdrian Mannion\n\\nAlex Huguet Paredes\n\\nAna Amat Marco\n\\nColin Garrat\n\\nDavid Munoz Velazquez\n\\nLuis Gomez Guzman\n\\nStefan Scheffers\n\\nWilli Hammes\n\\n\n\\nCHARACTERS/ASSETS\n\\nJulian Romero \n\\nAbraham Meneu Oset\n\\nAmanda Barlow\n\\nBarry Lawless\n\\nJuan Solis\n\\nLars Verhoeff\n\\nPaul Harrison\n\\n\n\\nLEVEL DESIGN\n\\nMartin Kilcoyne\n\\nAndy Collins\n\\nDarren Weekes\n\\nJohn Barker\n\\nKarl Gillott\n\\nPhil Bennett\n\\nStuart Bee\n\\n\n\\nANIMATION\n\\nJose Luis Garcia Camara\n\\nAlberto Corral Arencibia\n\\nBobby Stockport\n\\nCarlos Fernandez Puertolas\n\\nDaniel Meitin Roca\n\\nEnrique Oliva\n\\nSantiago Colomo Martinez\n\\nSyd Franklin\n\\n\n\\nENGINE PROGRAMMING\n\\nChris Jackson\n\\nIan Denny\n\\nAndy Hutchings\n\\nAshley Finney\n\\nDave Looker\n\\nJL\n\\nJulian Vaughan\n\\nKev Stainwright\n\\nShane Clark\n\\nSteven Walker\n\\nTim Rogers\n\\n\n\\nTOOLS\n\\nAndy Mitchell\n\\nBob Smith\n\\nDiego Garcia Huerta\n\\nJim Makin\n\\nKev Marks\n\\nKevin Thacker\n\\n\n\\nAUDIO\n\\nSteve Duckworth\n\\nDuncan Bradshaw\n\\n\n\\nQA\n\\nMichael Robinson\n\\nLouise Sargison\n\\nAndrew Dilks\n\\nAndrew Green\n\\nChristopher Pilkington\n\\nDave Smith\n\\nDominic Hallam\n\\nDominic Hills\n\\nJamie Small\n\\nMatthew Gilchrist\n\\nOliver Madden\n\\nPeter Barrett\n\\nRichard Charles\n\\n\n\\n\n\\nSPECIAL THANKS\n\\nAndrew Dilks\n\\nBrian Riordan\n\\nChris Allen\n\\nChris Boyle\n\\nClive Stevenson\n\\nDuncan Hewitt\n\\nHelen Jones\n\\nHenk Nieborg\n\\nHugh Binns\n\\nJoe Lewis\n\\nJohn Parr\n\\nJosh Andrews\n\\nLasse Louhento\n\\nLudovic Le Camus\n\\nMark Potente\n\\nMartin McBain\n\\nMatt Dixon\n\\nMatt Farrell\n\\nMichael Hirst\n\\nPhil Dobson\n\\nPhil Hackney\n\\nRob Berry\n\\nSteve Gratton\n\\nTom Noone\n\\nUlf Dahl"
   },
   "HT_Text_Credits2": {
-    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avilés \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts ",
-    "description": "SphinxText.xls, row 3164"
+    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avilés \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts "
   },
   "HT_Text_Credits3": {
-    "message": "\\n\\n\\nTHQ MARKETING \n\\n\\nDIRECTOR, GLOBAL BRAND \n\\nMANAGEMENT \n\\nAlison Quiron \n\\n  \n\\nPRODUCT MARKETING \n\\nMANAGER \n\\nMonica Guerra Robinson \n\\nDamian Garcia \n\\n  \n\\nSENIOR VICE PRESIDENT, \n\\nWORLDWIDE MARKETING \n\\nPeter Dille \n\\n  \n\\nDIRECTOR, CREATIVE \n\\nSERVICES \n\\nHoward Liebeskind \n\\n  \n\\nSENIOR MANAGER, \n\\nCREATIVE SERVICES \n\\nKathy Helgason \n\\n  \n\\nCREATIVE SERVICES MANAGER \n\\nKirk Somdal \n\\n  \n\\nINSTRUCTION MANUAL TEXT \n\\nRusel DeMaria \n\\n  \n\\nDIRECTOR, BUSINESS \n\\nDEVELOPMENT \n\\nDan Kelly \n\\n  \n\\nMANAGER, PRODUCTION \n\\nRESOURCES \n\\nJenae Pash \n\\n  \n\\nPRODUCTION RESOURCES \n\\nCOORDINATOR \n\\nHeather Leonard \n\\n  \n\\nHEAD OF BRAND MANAGEMENT \n\\nMichael Pattison\n\\n\n\\nBRAND MANAGER \n\\nMickey Torode \n\\n  \n\\nDIRECTOR OF LOCALIZATION \n\\nSusanne Dieck \n\\n  \n\\nLOCALIZATION ENGINEER \n\\nBernd Kurtz \n\\n  \n\\nSUBMISSION COORDINATOR \n\\nFlorence Kum \n\\n  \n\\nSPECIAL THANKS \n\\nBrian Farrell \n\\nJack Sorensen \n\\nTerri Schiek \n\\nGermaine Gioia \n\\nLeslie Brown \n\\nBrandy A. Carrillo \n\\nTiffany Ternan \n\\nRobert Riley \n\\nJack Suzuki \n\\nGordon Madison \n\\nRicardo Fischer \n\\nChristian Kenney \n\\nPaul Rivas \n\\nStacey Mendoza \n\\nJulian Brummitt \n\\n  \n\\n--\n\\n  \n\\nThe restored version of Sphinx would not have been possible \n\\nwithout the following open-source libraries:  \n\\n  \n\\n  \n\\nSDL 2.0 - By Sam Lantinga, Ryan C. Gordon and contributors \n\\nhttps://www.libsdl.org (zlib license) \n\\n  \n\\n  \n\\nOpenAL Soft - By Chris Robinson and contributors \n\\nhttp://kcat.strangesoft.net/openal.html (LGPL 2 license) \n\\n  \n\\n  \n\\nxxHash - By Yann Collet and contributors \n\\nhttps://github.com/Cyan4973/xxHash (BSD 2-Clause license) \n\\n  \n\\n  \n\\nstb_image - By Sean Barrett and contributors \n\\nhttps://github.com/nothings/stb (Public domain)",
-    "description": "SphinxText.xls, row 3165"
+    "message": "\\n\\n\\nTHQ MARKETING \n\\n\\nDIRECTOR, GLOBAL BRAND \n\\nMANAGEMENT \n\\nAlison Quiron \n\\n  \n\\nPRODUCT MARKETING \n\\nMANAGER \n\\nMonica Guerra Robinson \n\\nDamian Garcia \n\\n  \n\\nSENIOR VICE PRESIDENT, \n\\nWORLDWIDE MARKETING \n\\nPeter Dille \n\\n  \n\\nDIRECTOR, CREATIVE \n\\nSERVICES \n\\nHoward Liebeskind \n\\n  \n\\nSENIOR MANAGER, \n\\nCREATIVE SERVICES \n\\nKathy Helgason \n\\n  \n\\nCREATIVE SERVICES MANAGER \n\\nKirk Somdal \n\\n  \n\\nINSTRUCTION MANUAL TEXT \n\\nRusel DeMaria \n\\n  \n\\nDIRECTOR, BUSINESS \n\\nDEVELOPMENT \n\\nDan Kelly \n\\n  \n\\nMANAGER, PRODUCTION \n\\nRESOURCES \n\\nJenae Pash \n\\n  \n\\nPRODUCTION RESOURCES \n\\nCOORDINATOR \n\\nHeather Leonard \n\\n  \n\\nHEAD OF BRAND MANAGEMENT \n\\nMichael Pattison\n\\n\n\\nBRAND MANAGER \n\\nMickey Torode \n\\n  \n\\nDIRECTOR OF LOCALIZATION \n\\nSusanne Dieck \n\\n  \n\\nLOCALIZATION ENGINEER \n\\nBernd Kurtz \n\\n  \n\\nSUBMISSION COORDINATOR \n\\nFlorence Kum \n\\n  \n\\nSPECIAL THANKS \n\\nBrian Farrell \n\\nJack Sorensen \n\\nTerri Schiek \n\\nGermaine Gioia \n\\nLeslie Brown \n\\nBrandy A. Carrillo \n\\nTiffany Ternan \n\\nRobert Riley \n\\nJack Suzuki \n\\nGordon Madison \n\\nRicardo Fischer \n\\nChristian Kenney \n\\nPaul Rivas \n\\nStacey Mendoza \n\\nJulian Brummitt \n\\n  \n\\n--\n\\n  \n\\nThe restored version of Sphinx would not have been possible \n\\nwithout the following open-source libraries:  \n\\n  \n\\n  \n\\nSDL 2.0 - By Sam Lantinga, Ryan C. Gordon and contributors \n\\nhttps://www.libsdl.org (zlib license) \n\\n  \n\\n  \n\\nOpenAL Soft - By Chris Robinson and contributors \n\\nhttp://kcat.strangesoft.net/openal.html (LGPL 2 license) \n\\n  \n\\n  \n\\nxxHash - By Yann Collet and contributors \n\\nhttps://github.com/Cyan4973/xxHash (BSD 2-Clause license) \n\\n  \n\\n  \n\\nstb_image - By Sean Barrett and contributors \n\\nhttps://github.com/nothings/stb (Public domain)"
   },
   "HT_Text_FE_Menu_ToggleReverb": {
-    "message": "REVERB",
-    "description": "SphinxText.xls, row 3166"
+    "message": "REVERB"
   },
   "HT_Text_FE_Menu_FieldOfView": {
-    "message": "FIELD OF VIEW",
-    "description": "SphinxText.xls, row 3167"
+    "message": "FIELD OF VIEW"
   },
   "HT_Text_FE_Menu_Resolution": {
-    "message": "RESOLUTION",
-    "description": "SphinxText.xls, row 3168"
+    "message": "RESOLUTION"
   },
   "HT_Text_FE_Menu_ChooseScreen": {
-    "message": "CHOOSE SCREEN",
-    "description": "SphinxText.xls, row 3169"
+    "message": "CHOOSE SCREEN"
   },
   "HT_Text_FE_Menu_ToggleParticles": {
-    "message": "PARTICLES",
-    "description": "SphinxText.xls, row 3170"
+    "message": "PARTICLES"
   },
   "HT_Text_FE_Menu_ToggleParticles_Limited": {
-    "message": "LIMITED",
-    "description": "SphinxText.xls, row 3171"
+    "message": "LIMITED"
   },
   "HT_Text_FE_Menu_ToggleParticles_Soft": {
-    "message": "SOFT",
-    "description": "SphinxText.xls, row 3172"
+    "message": "SOFT"
   },
   "HT_Text_FE_Menu_Anisotropy": {
-    "message": "ANISOTROPIC FILTERING",
-    "description": "SphinxText.xls, row 3173"
+    "message": "ANISOTROPIC FILTERING"
   },
   "HT_Text_FE_Menu_MultiSampling": {
-    "message": "MULTISAMPLING",
-    "description": "SphinxText.xls, row 3174"
+    "message": "MULTISAMPLING"
   },
   "HT_Text_FE_Menu_Vsync": {
-    "message": "VERTICAL SYNC",
-    "description": "SphinxText.xls, row 3175"
+    "message": "VERTICAL SYNC"
   },
   "HT_Text_FE_Menu_VsyncAdaptive": {
-    "message": "ADAPTIVE",
-    "description": "SphinxText.xls, row 3176"
+    "message": "ADAPTIVE"
   },
   "HT_Text_FE_Menu_RestartGame": {
-    "message": "RESTART GAME",
-    "description": "SphinxText.xls, row 3177"
+    "message": "RESTART GAME"
   },
   "HT_Text_FE_ResolutionRequiresRestart": {
-    "message": "Changing the resolution requires restarting the game.",
-    "description": "SphinxText.xls, row 3178"
+    "message": "Changing the resolution requires restarting the game."
   },
   "HT_Text_FE_ResolutionBorderless": {
-    "message": "BORDERLESS",
-    "description": "SphinxText.xls, row 3179"
+    "message": "BORDERLESS"
   },
   "HT_Text_FE_ResolutionWindowed": {
-    "message": "WINDOWED",
-    "description": "SphinxText.xls, row 3180"
+    "message": "WINDOWED"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": " deg",
-    "description": "SphinxText.xls, row 3181"
+    "message": " deg"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>취관<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 강력한 도구에서 발사되는 마법의 다트는<N>재생성 되어 무한으로 공급된다.<P><ES HT_Text_ES_S_HelpText><CNTR>다트는 원거리의 목표를 맞추기 위해 사용될 수 있지만<N>폭발하는 괴물들은 상처 입힐 정도만의 위력을 가지고 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR><SB HT_PadAction_HUD_ShowRotator>를 이용하여 <FC 0,128,0>취관<END FC>을 버튼에 배당한다.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>취관<END FC>의 배당이 끝나면<N>그 버튼을 눌러 일인칭 모드로 변환한다.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_FireDart>를 눌러서 발사한다.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_Cancel>를 눌러서 <N><FC 0,128,0>취관<END FC> 모드에서 나간다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 3182"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>취관<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 강력한 도구에서 발사되는 마법의 다트는<N>재생성 되어 무한으로 공급된다.<P><ES HT_Text_ES_S_HelpText><CNTR>다트는 원거리의 목표를 맞추기 위해 사용될 수 있지만<N>폭발하는 괴물들은 상처 입힐 정도만의 위력을 가지고 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR><SB HT_PadAction_HUD_ShowRotator>를 이용하여 <FC 0,128,0>취관<END FC>을 버튼에 배당한다.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>취관<END FC>의 배당이 끝나면<N>그 버튼을 눌러 일인칭 모드로 변환한다.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_FireDart>를 눌러서 발사한다.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_Cancel>를 눌러서 <N><FC 0,128,0>취관<END FC> 모드에서 나간다.<ES HT_Text_ES_E_HelpText><E>"
   }
 }

@@ -1,34 +1,26 @@
 {
   "HT_Text_Button_NextPage": {
-    "message": "PAGINA SUCC.",
-    "description": "SphinxText.xls, row 2720"
+    "message": "PAGINA SUCC."
   },
   "HT_Text_Button_Exit": {
-    "message": "ESCI",
-    "description": "SphinxText.xls, row 2721"
+    "message": "ESCI"
   },
   "HT_Text_Button_Select": {
-    "message": "SELEZIONA OPZIONE",
-    "description": "SphinxText.xls, row 2722"
+    "message": "SELEZIONA OPZIONE"
   },
   "HT_Text_Button_SpeedUp": {
-    "message": "EFFETTO RAPIDO",
-    "description": "SphinxText.xls, row 2723"
+    "message": "EFFETTO RAPIDO"
   },
   "HT_Text_Button_Attack": {
-    "message": "ATTACCA",
-    "description": "SphinxText.xls, row 2724"
+    "message": "ATTACCA"
   },
   "HT_Text_Button_Context": {
-    "message": "CONTESTO",
-    "description": "SphinxText.xls, row 2725"
+    "message": "CONTESTO"
   },
   "HT_Text_Button_Jump": {
-    "message": "SALTA",
-    "description": "SphinxText.xls, row 2726"
+    "message": "SALTA"
   },
   "HT_Text_Button_NA": {
-    "message": "N/A",
-    "description": "SphinxText.xls, row 2727"
+    "message": "N/A"
   }
 }

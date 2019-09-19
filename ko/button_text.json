@@ -1,34 +1,26 @@
 {
   "HT_Text_Button_NextPage": {
-    "message": "다음 페이지",
-    "description": "SphinxText.xls, row 2720"
+    "message": "다음 페이지"
   },
   "HT_Text_Button_Exit": {
-    "message": "나가기",
-    "description": "SphinxText.xls, row 2721"
+    "message": "나가기"
   },
   "HT_Text_Button_Select": {
-    "message": "옵션 선택",
-    "description": "SphinxText.xls, row 2722"
+    "message": "옵션 선택"
   },
   "HT_Text_Button_SpeedUp": {
-    "message": "빠른 효과",
-    "description": "SphinxText.xls, row 2723"
+    "message": "빠른 효과"
   },
   "HT_Text_Button_Attack": {
-    "message": "공격",
-    "description": "SphinxText.xls, row 2724"
+    "message": "공격"
   },
   "HT_Text_Button_Context": {
-    "message": "내용",
-    "description": "SphinxText.xls, row 2725"
+    "message": "내용"
   },
   "HT_Text_Button_Jump": {
-    "message": "점프",
-    "description": "SphinxText.xls, row 2726"
+    "message": "점프"
   },
   "HT_Text_Button_NA": {
-    "message": "NA",
-    "description": "SphinxText.xls, row 2727"
+    "message": "NA"
   }
 }

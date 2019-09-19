@@ -1,34 +1,26 @@
 {
   "HT_Text_Button_NextPage": {
-    "message": "NÄCHSTE SEITE",
-    "description": "SphinxText.xls, row 2720"
+    "message": "NÄCHSTE SEITE"
   },
   "HT_Text_Button_Exit": {
-    "message": "ENDE",
-    "description": "SphinxText.xls, row 2721"
+    "message": "ENDE"
   },
   "HT_Text_Button_Select": {
-    "message": "OPTIONSAUSWAHL",
-    "description": "SphinxText.xls, row 2722"
+    "message": "OPTIONSAUSWAHL"
   },
   "HT_Text_Button_SpeedUp": {
-    "message": "SCHNELL",
-    "description": "SphinxText.xls, row 2723"
+    "message": "SCHNELL"
   },
   "HT_Text_Button_Attack": {
-    "message": "ANGRIFF",
-    "description": "SphinxText.xls, row 2724"
+    "message": "ANGRIFF"
   },
   "HT_Text_Button_Context": {
-    "message": "KONTEXT",
-    "description": "SphinxText.xls, row 2725"
+    "message": "KONTEXT"
   },
   "HT_Text_Button_Jump": {
-    "message": "SPRUNG",
-    "description": "SphinxText.xls, row 2726"
+    "message": "SPRUNG"
   },
   "HT_Text_Button_NA": {
-    "message": "NV",
-    "description": "SphinxText.xls, row 2727"
+    "message": "NV"
   }
 }

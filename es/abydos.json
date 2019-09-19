@@ -1,1230 +1,923 @@
 {
   "HT_Text_Aby_CouncilChambersInterior1_Coronation1a": {
-    "message": "El pueblo de <FC 128,64,0>Abydos<END FC> expresa su más sincera gratitud por las buenas acciones en beneficio de la ciudad.<E>",
-    "description": "SphinxText.xls, row 1535"
+    "message": "El pueblo de <FC 128,64,0>Abydos<END FC> expresa su más sincera gratitud por las buenas acciones en beneficio de la ciudad.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation1b": {
-    "message": "Los últimos tiempos han sido algo turbulentos en esta hermosa ciudad. Parece que un poder superior está decidido a traer desgracia y miseria a nuestras vidas.<E>",
-    "description": "SphinxText.xls, row 1536"
+    "message": "Los últimos tiempos han sido algo turbulentos en esta hermosa ciudad. Parece que un poder superior está decidido a traer desgracia y miseria a nuestras vidas.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation1c": {
-    "message": "Tu llegada y tus grandes hazañas han sido como un rayo de luz para el pueblo de <FC 128,64,0>Abydos<END FC>.<E> ",
-    "description": "SphinxText.xls, row 1537"
+    "message": "Tu llegada y tus grandes hazañas han sido como un rayo de luz para el pueblo de <FC 128,64,0>Abydos<END FC>.<E> "
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation1c1": {
-    "message": "Por ello, el Consistorio ha decidido que la <FC 0,128,0>Corona sagrada de Abydos<END FC> te sea confiada.<E>",
-    "description": "SphinxText.xls, row 1538"
+    "message": "Por ello, el Consistorio ha decidido que la <FC 0,128,0>Corona sagrada de Abydos<END FC> te sea confiada.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation1d": {
-    "message": "Con la condición de que la entregues a salvo a nuestro Señor Anubis y le expreses nuestra gratitud.<E>",
-    "description": "SphinxText.xls, row 1539"
+    "message": "Con la condición de que la entregues a salvo a nuestro Señor Anubis y le expreses nuestra gratitud.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation2a": {
-    "message": "<ST>¡¿QUÉ?!<END ST> No podéis entregarle la corona: es un impostor. Anubis nunca aprobaría la intervención de alguien como él.<E>",
-    "description": "SphinxText.xls, row 1540"
+    "message": "<ST>¡¿QUÉ?!<END ST> No podéis entregarle la corona: es un impostor. Anubis nunca aprobaría la intervención de alguien como él.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation3a": {
-    "message": "La corona es nuestra. ¡¡¡No se la vas a entregar a nadie, maldito estúpido!!! <E>",
-    "description": "SphinxText.xls, row 1542"
+    "message": "La corona es nuestra. ¡¡¡No se la vas a entregar a nadie, maldito estúpido!!! <E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation4a": {
-    "message": "La Sombra de Set caerá sobre <FC 128,64,0>Abydos<END FC> ahora que tenemos la corona. Es hora de que contemples una auténtica crisis. ¡Ja, ja! <E>",
-    "description": "SphinxText.xls, row 1543"
+    "message": "La Sombra de Set caerá sobre <FC 128,64,0>Abydos<END FC> ahora que tenemos la corona. Es hora de que contemples una auténtica crisis. ¡Ja, ja! <E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation5a": {
-    "message": "Venga, la corona es nuestra. Y a ti, Gobernador, tu ignorancia ha guiado el destino de esta ciudad y su pueblo.<E>",
-    "description": "SphinxText.xls, row 1544"
+    "message": "Venga, la corona es nuestra. Y a ti, Gobernador, tu ignorancia ha guiado el destino de esta ciudad y su pueblo.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation6a": {
-    "message": "¡Oh, Todopoderoso Ra! ¡Alguien tiene que detenerlos!<E>",
-    "description": "SphinxText.xls, row 1545"
+    "message": "¡Oh, Todopoderoso Ra! ¡Alguien tiene que detenerlos!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation7a": {
-    "message": "¡Los traidores se escapan! Sphinx, yo te imploro. ¡Recupera la corona!<E>",
-    "description": "SphinxText.xls, row 1546"
+    "message": "¡Los traidores se escapan! Sphinx, yo te imploro. ¡Recupera la corona!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD38_FriendA": {
-    "message": "<FC 128,64,64>No entiendo por qué parece tan ofendido, ¿y tú?<E>",
-    "description": "SphinxText.xls, row 1547"
+    "message": "<FC 128,64,64>No entiendo por qué parece tan ofendido, ¿y tú?<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD30_FriendA": {
-    "message": "<FC 64,64,64>...Nos hubiera hecho lo mismo a nosotros, era por el bien común... <E>",
-    "description": "SphinxText.xls, row 1548"
+    "message": "<FC 64,64,64>...Nos hubiera hecho lo mismo a nosotros, era por el bien común... <E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD38_FriendB": {
-    "message": "<FC 128,64,64>...Gente como nosotros debe evitar el peligro...<E>",
-    "description": "SphinxText.xls, row 1549"
+    "message": "<FC 128,64,64>...Gente como nosotros debe evitar el peligro...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD30_FriendB": {
-    "message": "<FC 64,64,64>...así es. No caería tan bajo como para luchar como una bestia. ¿Qué pensaría la gente?<E>",
-    "description": "SphinxText.xls, row 1550"
+    "message": "<FC 64,64,64>...así es. No caería tan bajo como para luchar como una bestia. ¿Qué pensaría la gente?<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD30_FightA": {
-    "message": "<FC 64,64,64>Según parece, el Gobernador dijo que aunque muera, no desea que estalle la guerra...<E>",
-    "description": "SphinxText.xls, row 1551"
+    "message": "<FC 64,64,64>Según parece, el Gobernador dijo que aunque muera, no desea que estalle la guerra...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD38_FightA": {
-    "message": "<FC 128,64,64>...Absurdo. La violencia es lo único que entiende el enemigo, ojo por ojo...<E>",
-    "description": "SphinxText.xls, row 1552"
+    "message": "<FC 128,64,64>...Absurdo. La violencia es lo único que entiende el enemigo, ojo por ojo...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD30_FightB": {
-    "message": "<FC 64,64,64>...Lo sé: tenemos miles de soldados. Yo digo que luchemos.<E>",
-    "description": "SphinxText.xls, row 1553"
+    "message": "<FC 64,64,64>...Lo sé: tenemos miles de soldados. Yo digo que luchemos.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD36_Friends": {
-    "message": "<FC 64,128,64>¿Cómo osan encerrarme como a un plebeyo? Sabotearé la próxima fiesta como protesta.<E>",
-    "description": "SphinxText.xls, row 1554"
+    "message": "<FC 64,128,64>¿Cómo osan encerrarme como a un plebeyo? Sabotearé la próxima fiesta como protesta.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD36_Monsters": {
-    "message": "<FC 64,128,64>Menudo susto me dieron esos monstruos. Tiemblo cada vez que pienso en ellos.<E>",
-    "description": "SphinxText.xls, row 1555"
+    "message": "<FC 64,128,64>Menudo susto me dieron esos monstruos. Tiemblo cada vez que pienso en ellos.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_CouncilHD19_GoToAkaria": {
-    "message": "<FC 0,128,128>Espero que te diviertas en tu misión. ¿Te das cuenta de que el Gobernador ha sentenciado tu destino al enviarte allí?<E>",
-    "description": "SphinxText.xls, row 1556"
+    "message": "<FC 0,128,128>Espero que te diviertas en tu misión. ¿Te das cuenta de que el Gobernador ha sentenciado tu destino al enviarte allí?<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_CouncilHD20_GoToAkaria": {
-    "message": "<FC 128,60,0>El Gobernador es sabio al enviarte a Anubis. Tan solo espero que no tenga otro accidente mientras estás fuera.<E>",
-    "description": "SphinxText.xls, row 1557"
+    "message": "<FC 128,60,0>El Gobernador es sabio al enviarte a Anubis. Tan solo espero que no tenga otro accidente mientras estás fuera.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_CouncilHD19_Aftermath": {
-    "message": "<FC 0,128,128>Sabía que el Gobernador se recuperaría sin problemas.<E>",
-    "description": "SphinxText.xls, row 1558"
+    "message": "<FC 0,128,128>Sabía que el Gobernador se recuperaría sin problemas.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_CouncilHD20_Aftermath": {
-    "message": "<FC 128,60,0>El Gobernador está entablando conversaciones con todos los frentes. Debería proponerme para solucionarlo. Soy un excelente embajador para el pueblo, ¿no crees?<E>",
-    "description": "SphinxText.xls, row 1559"
+    "message": "<FC 128,60,0>El Gobernador está entablando conversaciones con todos los frentes. Debería proponerme para solucionarlo. Soy un excelente embajador para el pueblo, ¿no crees?<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_Situation": {
-    "message": "Me temo que tenemos una crisis en el <FC 128,64,0>Consistorio<END FC>. El Gobernador padece una enfermedad misteriosa. Nunca había visto nada parecido con anterioridad.<E>",
-    "description": "SphinxText.xls, row 1560"
+    "message": "Me temo que tenemos una crisis en el <FC 128,64,0>Consistorio<END FC>. El Gobernador padece una enfermedad misteriosa. Nunca había visto nada parecido con anterioridad.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_Situation1": {
-    "message": "Necesito <FC 0,128,0>5 Hierbas medicinales<END FC> para preparar una cura, pero debo quedarme y vigilar que su estado no empeore.<E>",
-    "description": "SphinxText.xls, row 1561"
+    "message": "Necesito <FC 0,128,0>5 Hierbas medicinales<END FC> para preparar una cura, pero debo quedarme y vigilar que su estado no empeore.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_Situation2": {
-    "message": "Lleva esta nota a Kemmet el Inventor. Él puede ayudarte a encontrar las <FC 0,128,0>Hierbas medicinales<END FC>. Date prisa: al Gobernador no le queda mucho tiempo.<E>",
-    "description": "SphinxText.xls, row 1562"
+    "message": "Lleva esta nota a Kemmet el Inventor. Él puede ayudarte a encontrar las <FC 0,128,0>Hierbas medicinales<END FC>. Date prisa: al Gobernador no le queda mucho tiempo.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_NotEnough": {
-    "message": "Necesito más <FC 0,128,0>Hierbas medicinales<FC 128,128,128>. Vamos, date prisa. No tenemos mucho tiempo.<E>",
-    "description": "SphinxText.xls, row 1563"
+    "message": "Necesito más <FC 0,128,0>Hierbas medicinales<FC 128,128,128>. Vamos, date prisa. No tenemos mucho tiempo.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone": {
-    "message": "Uno, dos, tres, cuatro, cinco, ¡excelente! ¡Están todas! Si nos damos prisa, todavía podemos salvar al Gobernador.<E>",
-    "description": "SphinxText.xls, row 1564"
+    "message": "Uno, dos, tres, cuatro, cinco, ¡excelente! ¡Están todas! Si nos damos prisa, todavía podemos salvar al Gobernador.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone1": {
-    "message": "Vamos, Gobernador. Tienes que beber esto. Te sentará bien.<E>",
-    "description": "SphinxText.xls, row 1565"
+    "message": "Vamos, Gobernador. Tienes que beber esto. Te sentará bien.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone2": {
-    "message": "¡Sí! Ya parece estar mejor. Toma una pequeña recompensa como agradecimiento. Seguro que el Gobernador también te recompensa. <E>",
-    "description": "SphinxText.xls, row 1566"
+    "message": "¡Sí! Ya parece estar mejor. Toma una pequeña recompensa como agradecimiento. Seguro que el Gobernador también te recompensa. <E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone3": {
-    "message": "¡Ohhhhh! ¿Qué ha pasado? ¿Dónde estoy? Estoy tan mareado.<E>",
-    "description": "SphinxText.xls, row 1567"
+    "message": "¡Ohhhhh! ¿Qué ha pasado? ¿Dónde estoy? Estoy tan mareado.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone4": {
-    "message": "¿Quién es? ¿Qué hace aquí?<E>",
-    "description": "SphinxText.xls, row 1568"
+    "message": "¿Quién es? ¿Qué hace aquí?<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone5": {
-    "message": "Gobernador, es Sphinx. Ha encontrado los ingredientes necesarios para realizar la cura. Es un héroe: te ha salvado la vida.<E>",
-    "description": "SphinxText.xls, row 1569"
+    "message": "Gobernador, es Sphinx. Ha encontrado los ingredientes necesarios para realizar la cura. Es un héroe: te ha salvado la vida.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone6": {
-    "message": "Muchas gracias, joven caballero. En verdad tienes un aspecto extraño. ¿Qué te ha traído a esta bonita ciudad de <FC 128,64,0>Abydos<END FC>?<E>",
-    "description": "SphinxText.xls, row 1570"
+    "message": "Muchas gracias, joven caballero. En verdad tienes un aspecto extraño. ¿Qué te ha traído a esta bonita ciudad de <FC 128,64,0>Abydos<END FC>?<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone7": {
-    "message": "¿La <FC 0,128,0>Corona sagrada de Abydos<END FC> para Anubis? Sin duda es una petición importante.<E>",
-    "description": "SphinxText.xls, row 1571"
+    "message": "¿La <FC 0,128,0>Corona sagrada de Abydos<END FC> para Anubis? Sin duda es una petición importante.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone8": {
-    "message": "Miente, señor. Es el impostor que te ha envenenado. Quiere robar la corona. Anubis nunca tendría tratos con esta criatura. No debemos confiar en él.<E>",
-    "description": "SphinxText.xls, row 1572"
+    "message": "Miente, señor. Es el impostor que te ha envenenado. Quiere robar la corona. Anubis nunca tendría tratos con esta criatura. No debemos confiar en él.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone9": {
-    "message": "Silencio. Tú, matasanos, has estado buscando la corona desde que te uniste al Consistorio. Sphinx ha demostrado ser más digno de confianza que tú.<E>",
-    "description": "SphinxText.xls, row 1573"
+    "message": "Silencio. Tú, matasanos, has estado buscando la corona desde que te uniste al Consistorio. Sphinx ha demostrado ser más digno de confianza que tú.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone10": {
-    "message": "Vaya, una decisión difícil requiere deliberación.<P>¿Por qué todo el mundo está interesado en la corona últimamente? Debo pensar cuál es el mejor proceder.<E>",
-    "description": "SphinxText.xls, row 1574"
+    "message": "Vaya, una decisión difícil requiere deliberación.<P>¿Por qué todo el mundo está interesado en la corona últimamente? Debo pensar cuál es el mejor proceder.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone11": {
-    "message": "Sphinx, reúnete conmigo en la siguiente sala en unos minutos y te comunicaré mi decisión.<E>",
-    "description": "SphinxText.xls, row 1575"
+    "message": "Sphinx, reúnete conmigo en la siguiente sala en unos minutos y te comunicaré mi decisión.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone12": {
-    "message": "Necesito pensar... y estoy tan cansado... <W 90>",
-    "description": "SphinxText.xls, row 1576"
+    "message": "Necesito pensar... y estoy tan cansado... <W 90>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorSaved": {
-    "message": "Me alegro de haber salvado al Gobernador. La ciudad caería en el caos en unos días si alguno de los consejeros reclamase el poder.<E>",
-    "description": "SphinxText.xls, row 1577"
+    "message": "Me alegro de haber salvado al Gobernador. La ciudad caería en el caos en unos días si alguno de los consejeros reclamase el poder.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_Intro1": {
-    "message": "¡Menuda tragedia! ¡El Gobernador se muere! Deprisa, la ceremonia de sucesión debe celebrarse inmediatamente.<W 75><E>",
-    "description": "SphinxText.xls, row 1578"
+    "message": "¡Menuda tragedia! ¡El Gobernador se muere! Deprisa, la ceremonia de sucesión debe celebrarse inmediatamente.<W 75><E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_Intro2": {
-    "message": "Sí, hay que elegir a un sucesor enseguida y entregarle la <FC 0,128,0>Corona sagrada de Abydos<END FC>.<E>",
-    "description": "SphinxText.xls, row 1579"
+    "message": "Sí, hay que elegir a un sucesor enseguida y entregarle la <FC 0,128,0>Corona sagrada de Abydos<END FC>.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_Intro1": {
-    "message": "<FC 128,60,0>¡Un grupo de monstruos acaba de invadir la ciudad! Pobre Gobernador, debería ponerme al cargo mientras todavía está consciente. Vengaré su trágica muerte.<E>",
-    "description": "SphinxText.xls, row 1580"
+    "message": "<FC 128,60,0>¡Un grupo de monstruos acaba de invadir la ciudad! Pobre Gobernador, debería ponerme al cargo mientras todavía está consciente. Vengaré su trágica muerte.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_Intro2": {
-    "message": "<FC 128,60,0>¿El Gobernador quiere pruebas? Debe de estar delirando. ¿No es suficiente ver a monstruos surgir del fondo del océano? Quizás esté confundido para seguir al frente.<E>",
-    "description": "SphinxText.xls, row 1581"
+    "message": "<FC 128,60,0>¿El Gobernador quiere pruebas? Debe de estar delirando. ¿No es suficiente ver a monstruos surgir del fondo del océano? Quizás esté confundido para seguir al frente.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_NeedHerbs": {
-    "message": "<FC 0,128,128>Dudo que consigas reunir las hierbas a tiempo. No hay esperanzas para el Gobernador. Quizás podamos convencer al Doctor para que le suministre algo que le saque de esta desdicha.<E>",
-    "description": "SphinxText.xls, row 1582"
+    "message": "<FC 0,128,128>Dudo que consigas reunir las hierbas a tiempo. No hay esperanzas para el Gobernador. Quizás podamos convencer al Doctor para que le suministre algo que le saque de esta desdicha.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_NeedHerbs": {
-    "message": "<FC 128,60,0>Debería ser el nuevo Gobernador pronto y resolver el problema a mi manera.<E>",
-    "description": "SphinxText.xls, row 1583"
+    "message": "<FC 128,60,0>Debería ser el nuevo Gobernador pronto y resolver el problema a mi manera.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_MayorSaved": {
-    "message": "<FC 0,128,128>No dejes que se te suba a la cabeza. No se mide la importancia con los títulos honoríficos.<E>",
-    "description": "SphinxText.xls, row 1584"
+    "message": "<FC 0,128,128>No dejes que se te suba a la cabeza. No se mide la importancia con los títulos honoríficos.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_MayorSaved": {
-    "message": "<FC 128,60,0>El Gobernador está a salvo. Ejem, maravilloso. Vayamos a la sala contigua a celebrarlo.<E>",
-    "description": "SphinxText.xls, row 1585"
+    "message": "<FC 128,60,0>El Gobernador está a salvo. Ejem, maravilloso. Vayamos a la sala contigua a celebrarlo.<E>"
   },
   "HT_Text_Aby_Council_Advisor01_Talk01": {
-    "message": "No podremos reunir las <FC 0,128,0>Hierbas medicinales<END FC> a tiempo. ¡El Gobernador está condenado!<E>",
-    "description": "SphinxText.xls, row 1586"
+    "message": "No podremos reunir las <FC 0,128,0>Hierbas medicinales<END FC> a tiempo. ¡El Gobernador está condenado!<E>"
   },
   "HT_Text_Aby_Council_Advisor01_Talk02": {
-    "message": "Perdemos tiempo. Elijamos a un sucesor inmediatamente.<E>",
-    "description": "SphinxText.xls, row 1587"
+    "message": "Perdemos tiempo. Elijamos a un sucesor inmediatamente.<E>"
   },
   "HT_Text_Aby_Council_Advisor02_Talk01": {
-    "message": "El Gobernador está muy enfermo. Quizás podamos convencer al Doctor para que le dé algo que alivie su sufrimiento.<E>",
-    "description": "SphinxText.xls, row 1588"
+    "message": "El Gobernador está muy enfermo. Quizás podamos convencer al Doctor para que le dé algo que alivie su sufrimiento.<E>"
   },
   "HT_Text_Aby_Council_Advisor02_Talk02": {
-    "message": "La <FC 0,128,0>Corona sagrada de Abydos<END FC> debe entregarse al sucesor del Gobernador enseguida. Por el bien de <FC 128,64,0>Abydos<END FC>.<E>",
-    "description": "SphinxText.xls, row 1589"
+    "message": "La <FC 0,128,0>Corona sagrada de Abydos<END FC> debe entregarse al sucesor del Gobernador enseguida. Por el bien de <FC 128,64,0>Abydos<END FC>.<E>"
   },
   "HT_Text_Aby_Council_Posh01_Intro01": {
-    "message": "¡Abridme! ¿No me oís? ¡Abrid! Hay monstruos aquí fuera.<E>",
-    "description": "SphinxText.xls, row 1590"
+    "message": "¡Abridme! ¿No me oís? ¡Abrid! Hay monstruos aquí fuera.<E>"
   },
   "HT_Text_Aby_Council_Posh01_Intro02": {
-    "message": "Lo siento, amigo, pero no podemos permitir que los monstruos accedan al <FC 128,64,0>Consistorio<END FC>. Estás solo.<E>",
-    "description": "SphinxText.xls, row 1591"
+    "message": "Lo siento, amigo, pero no podemos permitir que los monstruos accedan al <FC 128,64,0>Consistorio<END FC>. Estás solo.<E>"
   },
   "HT_Text_Aby_Council_Posh01_Intro03": {
-    "message": "¿Ahora qué? Nos hemos deshecho de esas horribles Anguilas eléctricas del <FC 128,64,0>Consistorio<END FC> y ahora aparecen estos asquerosos seres.<E>",
-    "description": "SphinxText.xls, row 1592"
+    "message": "¿Ahora qué? Nos hemos deshecho de esas horribles Anguilas eléctricas del <FC 128,64,0>Consistorio<END FC> y ahora aparecen estos asquerosos seres.<E>"
   },
   "HT_Text_Aby_Council_Posh01_NoEntry": {
-    "message": "¡Largo! Escucha, no podemos dejar que entren los monstruos.<E>",
-    "description": "SphinxText.xls, row 1593"
+    "message": "¡Largo! Escucha, no podemos dejar que entren los monstruos.<E>"
   },
   "HT_Text_Aby_Council_Posh01_Done01": {
-    "message": "Esto es horrible, en serio. Me han dejado solo con esas criaturas. Tan solo piensan en su propia seguridad. ¡Qué valor!<E>",
-    "description": "SphinxText.xls, row 1594"
+    "message": "Esto es horrible, en serio. Me han dejado solo con esas criaturas. Tan solo piensan en su propia seguridad. ¡Qué valor!<E>"
   },
   "HT_Text_Aby_Council_Posh01_Done02": {
-    "message": "Soy un respetable dignatario de <FC 128,64,0>Abydos<END FC> con muchas responsabilidades. Espero que mis amigos consejeros me traten con más respeto.<E>",
-    "description": "SphinxText.xls, row 1595"
+    "message": "Soy un respetable dignatario de <FC 128,64,0>Abydos<END FC> con muchas responsabilidades. Espero que mis amigos consejeros me traten con más respeto.<E>"
   },
   "HT_Text_Aby_Council_Posh01_Done03": {
-    "message": "El estatus debería respetarse en todo momento. ¿No es cierto?<E>",
-    "description": "SphinxText.xls, row 1596"
+    "message": "El estatus debería respetarse en todo momento. ¿No es cierto?<E>"
   },
   "HT_Text_Aby_Council_Posh01_Ill01": {
-    "message": "Noticias terribles sobre el Gobernador. Sin él, la ciudad de <FC 128,64,0>Abydos<END FC> lo pagará caro.<E>",
-    "description": "SphinxText.xls, row 1597"
+    "message": "Noticias terribles sobre el Gobernador. Sin él, la ciudad de <FC 128,64,0>Abydos<END FC> lo pagará caro.<E>"
   },
   "HT_Text_Aby_Council_Posh01_Ill02": {
-    "message": "Ojalá pudiera hacer algo por el Gobernador.<E>",
-    "description": "SphinxText.xls, row 1598"
+    "message": "Ojalá pudiera hacer algo por el Gobernador.<E>"
   },
   "HT_Text_Aby_Council_Posh01_Complete01": {
-    "message": "¡Saludos! Es un honor hablar con el salvador de <FC 128,64,0>Abydos<END FC>.<E>",
-    "description": "SphinxText.xls, row 1599"
+    "message": "¡Saludos! Es un honor hablar con el salvador de <FC 128,64,0>Abydos<END FC>.<E>"
   },
   "HT_Text_Aby_Council_Posh01_Cured01": {
-    "message": "Has hecho un gran servicio por <FC 128,64,0>Abydos<END FC>, joven.<E>",
-    "description": "SphinxText.xls, row 1600"
+    "message": "Has hecho un gran servicio por <FC 128,64,0>Abydos<END FC>, joven.<E>"
   },
   "HT_Text_Aby_Council_Posh01_Cured02": {
-    "message": "Sólo espero que puedas recuperar la corona de manos de esos traidores.<E>",
-    "description": "SphinxText.xls, row 1601"
+    "message": "Sólo espero que puedas recuperar la corona de manos de esos traidores.<E>"
   },
   "HT_Text_Aby_Council_Posh01_GiveAtun": {
-    "message": "Gracias por librarnos de esos horribles monstruos y salvarme. Pensé que nuestros problemas habían terminado con el exterminio de esas Anguilas eléctricas.<P>Toma este <FC 0,128,0>Ojo de Atum<END FC> como muestra de gratitud. Insisto.<E>",
-    "description": "SphinxText.xls, row 1602"
+    "message": "Gracias por librarnos de esos horribles monstruos y salvarme. Pensé que nuestros problemas habían terminado con el exterminio de esas Anguilas eléctricas.<P>Toma este <FC 0,128,0>Ojo de Atum<END FC> como muestra de gratitud. Insisto.<E>"
   },
   "HT_Text_Aby_Council_Posh02_Talk01": {
-    "message": "Corren tiempos difíciles, a pesar de las desafortunadas circunstancias del Gobernador.<E>",
-    "description": "SphinxText.xls, row 1603"
+    "message": "Corren tiempos difíciles, a pesar de las desafortunadas circunstancias del Gobernador.<E>"
   },
   "HT_Text_Aby_Council_Posh02_Talk02": {
-    "message": "Hay que pensar primero en el bien del Gobierno. No hay tiempo para pensar en uno mismo ahora.<E>",
-    "description": "SphinxText.xls, row 1604"
+    "message": "Hay que pensar primero en el bien del Gobierno. No hay tiempo para pensar en uno mismo ahora.<E>"
   },
   "HT_Text_Aby_Council_Posh02_Ill01": {
-    "message": "Espero que el Gobernador se recupere. Dudo que sus consejeros quieran lo mejor para <FC 128,64,0>Abydos<END FC>.<E>",
-    "description": "SphinxText.xls, row 1605"
+    "message": "Espero que el Gobernador se recupere. Dudo que sus consejeros quieran lo mejor para <FC 128,64,0>Abydos<END FC>.<E>"
   },
   "HT_Text_Aby_Council_Posh02_Ill02": {
-    "message": "Si el Gobernador muere, no creo que <FC 128,64,0>Abydos<END FC> vuelva a ser la misma.<E>",
-    "description": "SphinxText.xls, row 1606"
+    "message": "Si el Gobernador muere, no creo que <FC 128,64,0>Abydos<END FC> vuelva a ser la misma.<E>"
   },
   "HT_Text_Aby_Council_Posh02_Cured01": {
-    "message": "Sabía que esos consejeros no eran de fiar.<E>",
-    "description": "SphinxText.xls, row 1607"
+    "message": "Sabía que esos consejeros no eran de fiar.<E>"
   },
   "HT_Text_Aby_Council_Posh02_Cured02": {
-    "message": "Los traidores deben ser castigados.<E>",
-    "description": "SphinxText.xls, row 1608"
+    "message": "Los traidores deben ser castigados.<E>"
   },
   "HT_Text_Aby_Council_Posh02_Complete01": {
-    "message": "Gracias por honrarnos con tu presencia, héroe de <FC 128,64,0>Abydos<END FC>.<E>",
-    "description": "SphinxText.xls, row 1609"
+    "message": "Gracias por honrarnos con tu presencia, héroe de <FC 128,64,0>Abydos<END FC>.<E>"
   },
   "HT_Text_Aby_Council_Posh03_Talk01": {
-    "message": "Piensa en lo que hubiera pasado si aquellos monstruos hubieran entrado.<E>",
-    "description": "SphinxText.xls, row 1610"
+    "message": "Piensa en lo que hubiera pasado si aquellos monstruos hubieran entrado.<E>"
   },
   "HT_Text_Aby_Council_Posh03_Talk02": {
-    "message": "No puedo dejar de pensar en esas horribles bestias. ¿Y si hubieran entrado en el <FC 128,64,0>Consistorio<END FC>?<E>",
-    "description": "SphinxText.xls, row 1611"
+    "message": "No puedo dejar de pensar en esas horribles bestias. ¿Y si hubieran entrado en el <FC 128,64,0>Consistorio<END FC>?<E>"
   },
   "HT_Text_Aby_Council_Posh03_Ill01": {
-    "message": "Seguro que con las <FC 0,128,0>Hierbas medicinales<END FC> el Gobernador recupera la salud.<E>",
-    "description": "SphinxText.xls, row 1612"
+    "message": "Seguro que con las <FC 0,128,0>Hierbas medicinales<END FC> el Gobernador recupera la salud.<E>"
   },
   "HT_Text_Aby_Council_Posh03_Ill02": {
-    "message": "Se sabe que las <FC 0,128,0>Hierbas medicinales<END FC> crecen aquí mismo, en el <FC 128,64,0>Consistorio<END FC>.<E>",
-    "description": "SphinxText.xls, row 1613"
+    "message": "Se sabe que las <FC 0,128,0>Hierbas medicinales<END FC> crecen aquí mismo, en el <FC 128,64,0>Consistorio<END FC>.<E>"
   },
   "HT_Text_Aby_Council_Posh03_Cured01": {
-    "message": "Me complace ver al Gobernador recuperado. Quizás ahora contrate a un consejero digno de confianza como yo.<E>",
-    "description": "SphinxText.xls, row 1614"
+    "message": "Me complace ver al Gobernador recuperado. Quizás ahora contrate a un consejero digno de confianza como yo.<E>"
   },
   "HT_Text_Aby_Council_Posh03_Cured02": {
-    "message": "No hay duda de que yo sería un excelente consejero para el Gobernador.<E>",
-    "description": "SphinxText.xls, row 1615"
+    "message": "No hay duda de que yo sería un excelente consejero para el Gobernador.<E>"
   },
   "HT_Text_Aby_Council_Posh03_Complete01": {
-    "message": "Saludos, héroe de <FC 128,64,0>Abydos<END FC>.<E>",
-    "description": "SphinxText.xls, row 1616"
+    "message": "Saludos, héroe de <FC 128,64,0>Abydos<END FC>.<E>"
   },
   "HT_Text_Aby_Council_Physician_Herbs01": {
-    "message": "Si no empiezas pronto a buscar las <FC 0,128,0>Hierbas medicinales<END FC>, ¡el Gobernador morirá!<E>",
-    "description": "SphinxText.xls, row 1617"
+    "message": "Si no empiezas pronto a buscar las <FC 0,128,0>Hierbas medicinales<END FC>, ¡el Gobernador morirá!<E>"
   },
   "HT_Text_Aby_Council_Physician_Herbs02": {
-    "message": "Veo que has encontrado algunas de las <FC 0,128,0>Hierbas medicinales<END FC>. Perfecto. Encuentra el resto rápidamente. Al Gobernador no le queda mucho tiempo.<E>",
-    "description": "SphinxText.xls, row 1618"
+    "message": "Veo que has encontrado algunas de las <FC 0,128,0>Hierbas medicinales<END FC>. Perfecto. Encuentra el resto rápidamente. Al Gobernador no le queda mucho tiempo.<E>"
   },
   "HT_Text_Aby_Council_Physician_Done01": {
-    "message": "La ciudad de <FC 128,64,0>Abydos<END FC> saluda a su héroe, amigo mío.<E>",
-    "description": "SphinxText.xls, row 1619"
+    "message": "La ciudad de <FC 128,64,0>Abydos<END FC> saluda a su héroe, amigo mío.<E>"
   },
   "HT_Text_Aby_Council_Guard_Greeting01": {
-    "message": "No me molestes si estoy de servicio, forastero.<E>",
-    "description": "SphinxText.xls, row 1620"
+    "message": "No me molestes si estoy de servicio, forastero.<E>"
   },
   "HT_Text_Aby_Council_Guard_Greeting02": {
-    "message": "¡Buenos días, señor!<E>",
-    "description": "SphinxText.xls, row 1621"
+    "message": "¡Buenos días, señor!<E>"
   },
   "HT_Text_Aby_Museum_Inaguration1a": {
-    "message": "En este día tan señalado celebramos la apertura de la primera sala del <FC 128,64,0>Museo de Abydos<END FC>, el orgullo de la ciudad. <E>",
-    "description": "SphinxText.xls, row 1623"
+    "message": "En este día tan señalado celebramos la apertura de la primera sala del <FC 128,64,0>Museo de Abydos<END FC>, el orgullo de la ciudad. <E>"
   },
   "HT_Text_Aby_Museum_Inaguration1b": {
-    "message": "<EFF><EPO>Este importante evento pone de manifiesto el interés del Consistorio en el desarrollo cultural de Abydos,<P>con una exposición abierta al público en la nueva <FC 128,64,0>Sala de las Joyas<END FC>, la colección de <FC 128,64,0>Abydos<END FC>.<E>",
-    "description": "SphinxText.xls, row 1624"
+    "message": "<EFF><EPO>Este importante evento pone de manifiesto el interés del Consistorio en el desarrollo cultural de Abydos,<P>con una exposición abierta al público en la nueva <FC 128,64,0>Sala de las Joyas<END FC>, la colección de <FC 128,64,0>Abydos<END FC>.<E>"
   },
   "HT_Text_Aby_Museum_Inaguration1c": {
-    "message": "Esta ilustre colección exhibe cientos de años de nuestra historia.<W 200>",
-    "description": "SphinxText.xls, row 1625"
+    "message": "Esta ilustre colección exhibe cientos de años de nuestra historia.<W 200>"
   },
   "HT_Text_Aby_Museum_Inaguration2a": {
-    "message": "¡Vaya! Me temo que tenemos que interrumpir la ceremonia.<E>",
-    "description": "SphinxText.xls, row 1626"
+    "message": "¡Vaya! Me temo que tenemos que interrumpir la ceremonia.<E>"
   },
   "HT_Text_Aby_Museum_Inaguration3a": {
-    "message": "¿Por qué? ¿Qué ha pasado?<E>",
-    "description": "SphinxText.xls, row 1627"
+    "message": "¿Por qué? ¿Qué ha pasado?<E>"
   },
   "HT_Text_Aby_Museum_Inaguration4a": {
-    "message": "La colección de joyas ha desaparecido. La han robado hace tan solo unos minutos.<E>",
-    "description": "SphinxText.xls, row 1628"
+    "message": "La colección de joyas ha desaparecido. La han robado hace tan solo unos minutos.<E>"
   },
   "HT_Text_Aby_Museum_Inaguration5b": {
-    "message": "¿Qué? ¿Quién? ¿Cómo?<W 60>",
-    "description": "SphinxText.xls, row 1629"
+    "message": "¿Qué? ¿Quién? ¿Cómo?<W 60>"
   },
   "HT_Text_Aby_Museum_Inaguration5a": {
-    "message": "¿Cuándo acabará esto? Esto es una ruina para nuestra ciudad. ¡Primero la aparición de Anguilas y ahora esto!<E>",
-    "description": "SphinxText.xls, row 1630"
+    "message": "¿Cuándo acabará esto? Esto es una ruina para nuestra ciudad. ¡Primero la aparición de Anguilas y ahora esto!<E>"
   },
   "HT_Text_Aby_Museum_Inaguration6a": {
-    "message": "Debemos tomar medidas de seguridad extremas en toda la ciudad para crear puntos de control.<E>",
-    "description": "SphinxText.xls, row 1631"
+    "message": "Debemos tomar medidas de seguridad extremas en toda la ciudad para crear puntos de control.<E>"
   },
   "HT_Text_Aby_Museum_Inaguration6b": {
-    "message": "Tan solo queda un sarcófago de toda la colección.<E>",
-    "description": "SphinxText.xls, row 1632"
+    "message": "Tan solo queda un sarcófago de toda la colección.<E>"
   },
   "HT_Text_Aby_Museum_Inaguration7a": {
-    "message": "¿Qué sarcófago? ¡La colección no incluía ningún sarcófago! <W 110>",
-    "description": "SphinxText.xls, row 1633"
+    "message": "¿Qué sarcófago? ¡La colección no incluía ningún sarcófago! <W 110>"
   },
   "HT_Text_Aby_Museum_Inaguration8a": {
-    "message": "¡Qué desastre! Volvamos al <FC 128,64,0>Consistorio<END FC> para discutir todo esto más a fondo. <E>",
-    "description": "SphinxText.xls, row 1634"
+    "message": "¡Qué desastre! Volvamos al <FC 128,64,0>Consistorio<END FC> para discutir todo esto más a fondo. <E>"
   },
   "HT_Text_Aby_Museum_Welcome": {
-    "message": "Bienvenido al <FC 128,64,0>Museo de Abydos<END FC>. Soy el especialista en Historia Natural.<P>¿Desearías donar algo? En cuyo caso, el museo se complacería en recompensar tu generosidad.<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1635"
+    "message": "Bienvenido al <FC 128,64,0>Museo de Abydos<END FC>. Soy el especialista en Historia Natural.<P>¿Desearías donar algo? En cuyo caso, el museo se complacería en recompensar tu generosidad.<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Museum_NeedStuff": {
-    "message": "No hay mucho que ver en este momento, señor.<P>No obstante, con mucho gusto aceptamos donaciones de aventureros y nos complacerá ofrecer una recompensa a cambio.<E>",
-    "description": "SphinxText.xls, row 1636"
+    "message": "No hay mucho que ver en este momento, señor.<P>No obstante, con mucho gusto aceptamos donaciones de aventureros y nos complacerá ofrecer una recompensa a cambio.<E>"
   },
   "HT_Text_Aby_Museum_ThankYou": {
-    "message": "<IS HT_Objective_MonsterNameHolder> Muchas gracias por la donación, señor. La antigua gloria del museo está empezando a renacer.<E>",
-    "description": "SphinxText.xls, row 1637"
+    "message": "<IS HT_Objective_MonsterNameHolder> Muchas gracias por la donación, señor. La antigua gloria del museo está empezando a renacer.<E>"
   },
   "HT_Text_Aby_Museum_ThankYouJewel": {
-    "message": "¡Increíble! Has recuperado la <IS HT_Objective_JewelNameHolder> robada. La ciudad nunca podrá agradecértelo suficiente.<P>Pero, como recompensa, acepta este <FC 0,128,0>trozo de Ankh de oro<END FC>.<E>",
-    "description": "SphinxText.xls, row 1638"
+    "message": "¡Increíble! Has recuperado la <IS HT_Objective_JewelNameHolder> robada. La ciudad nunca podrá agradecértelo suficiente.<P>Pero, como recompensa, acepta este <FC 0,128,0>trozo de Ankh de oro<END FC>.<E>"
   },
   "HT_Text_Aby_Museum_WelcomeBack": {
-    "message": "Nuestro generoso benefactor vuelve.<P>¿Tienes algo nuevo para nosotros, señor?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1639"
+    "message": "Nuestro generoso benefactor vuelve.<P>¿Tienes algo nuevo para nosotros, señor?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Museum_LookAround": {
-    "message": "Por favor, explora el museo con total libertad.<E>",
-    "description": "SphinxText.xls, row 1640"
+    "message": "Por favor, explora el museo con total libertad.<E>"
   },
   "HT_Text_Aby_Museum_NotGotAny": {
-    "message": "Gracias, pero no tienes nada en este momento. Gracias de todas formas.<E>",
-    "description": "SphinxText.xls, row 1641"
+    "message": "Gracias, pero no tienes nada en este momento. Gracias de todas formas.<E>"
   },
   "HT_Text_Aby_Museum_AlreadyGotSome": {
-    "message": "¡¿<IS HT_Objective_MonsterNameHolder>?! ¡Qué maravilla de espécimen!<P>Aunque ya tenemos un ejemplar en nuestra colección. Gracias por el ofrecimiento.<E>",
-    "description": "SphinxText.xls, row 1642"
+    "message": "¡¿<IS HT_Objective_MonsterNameHolder>?! ¡Qué maravilla de espécimen!<P>Aunque ya tenemos un ejemplar en nuestra colección. Gracias por el ofrecimiento.<E>"
   },
   "HT_Text_Aby_Museum_Guard_NoEntry1": {
-    "message": "Perdón, pero la <FC 128,64,0>Sala de las Joyas<END FC> no está abierta.<P>'El gobernador está celebrando la ceremonia de inauguración en la recepción. Todavía llega a tiempo.<E>",
-    "description": "SphinxText.xls, row 1643"
+    "message": "Perdón, pero la <FC 128,64,0>Sala de las Joyas<END FC> no está abierta.<P>'El gobernador está celebrando la ceremonia de inauguración en la recepción. Todavía llega a tiempo.<E>"
   },
   "HT_Text_Aby_Museum_Guard_NoEntry2": {
-    "message": "La <FC 128,64,0>Sala de las Joyas<END FC> se abrirá tras la ceremonia de inauguración.<E>",
-    "description": "SphinxText.xls, row 1644"
+    "message": "La <FC 128,64,0>Sala de las Joyas<END FC> se abrirá tras la ceremonia de inauguración.<E>"
   },
   "HT_Text_Aby_Museum_FirstWelcome": {
-    "message": "Bienvenidos al museo. Me temo que las exposiciones son escasas en estos momentos. Es muy triste.<P>Me entristece pensar que la ceremonia de inauguración de la exposición de joyas pueda quedar arruinada de esta manera tan humillante.<P>Si no te importuno, no pareces un habitante de <FC 128,64,0>Abydos<END FC>.<P>¿Eres extranjero?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1645"
+    "message": "Bienvenidos al museo. Me temo que las exposiciones son escasas en estos momentos. Es muy triste.<P>Me entristece pensar que la ceremonia de inauguración de la exposición de joyas pueda quedar arruinada de esta manera tan humillante.<P>Si no te importuno, no pareces un habitante de <FC 128,64,0>Abydos<END FC>.<P>¿Eres extranjero?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Museum_HaventSeenYou": {
-    "message": "Lo siento, no te había visto antes. Debo reconocer que últimamente no salgo casi nunca. Este museo es mi vida.<P>La sección de <FC 128,64,0>Historia Natural<END FC> está abierta, aunque no completa. Con el tiempo exhibiremos un espécimen de todos los animales del mundo.<P>Esperamos recibir contribuciones de aventureros. Los ciudadanos de Abydos también pueden contribuir.<P>¿Deseas colaborar con nuestra ciudad?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1646"
+    "message": "Lo siento, no te había visto antes. Debo reconocer que últimamente no salgo casi nunca. Este museo es mi vida.<P>La sección de <FC 128,64,0>Historia Natural<END FC> está abierta, aunque no completa. Con el tiempo exhibiremos un espécimen de todos los animales del mundo.<P>Esperamos recibir contribuciones de aventureros. Los ciudadanos de Abydos también pueden contribuir.<P>¿Deseas colaborar con nuestra ciudad?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Museum_AnAdventurer": {
-    "message": "Sí, eso pensé. Pareces un aventurero. Quizás desees contribuir con nuestra hermosa ciudad.<P>Pronto completaremos la exposición de fauna salvaje. En el futuro exhibiremos un espécimen de todos los animales del mundo.<P>Esperamos recibir contribuciones de valientes aventureros como tú.<P>¿Tienes interés en contribuir con esta magnífica ciudad?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1647"
+    "message": "Sí, eso pensé. Pareces un aventurero. Quizás desees contribuir con nuestra hermosa ciudad.<P>Pronto completaremos la exposición de fauna salvaje. En el futuro exhibiremos un espécimen de todos los animales del mundo.<P>Esperamos recibir contribuciones de valientes aventureros como tú.<P>¿Tienes interés en contribuir con esta magnífica ciudad?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Museum_NotHelping": {
-    "message": "Muy bien, avísame si cambias de opinión.<E>",
-    "description": "SphinxText.xls, row 1648"
+    "message": "Muy bien, avísame si cambias de opinión.<E>"
   },
   "HT_Text_Aby_Museum_Helping": {
-    "message": "¡Excelente! Sabía que lo harías.<P>Si capturas un animal para la exposición, ven a verme. Si por casualidad encuentras alguna de las joyas robadas durante los viajes, habla con mi socio: es experto en joyas.<P>Me temo que no podemos pagarte por las donaciones de animales; pero, como muestra de gratitud, por el primer animal donado recibirás un valioso regalo.<E>",
-    "description": "SphinxText.xls, row 1649"
+    "message": "¡Excelente! Sabía que lo harías.<P>Si capturas un animal para la exposición, ven a verme. Si por casualidad encuentras alguna de las joyas robadas durante los viajes, habla con mi socio: es experto en joyas.<P>Me temo que no podemos pagarte por las donaciones de animales; pero, como muestra de gratitud, por el primer animal donado recibirás un valioso regalo.<E>"
   },
   "HT_Text_Aby_Museum_ChangedMind": {
-    "message": "¿Has cambiado de opinión? ¿Deseas colaborar con el museo?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1650"
+    "message": "¿Has cambiado de opinión? ¿Deseas colaborar con el museo?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Museum_HaveAHook": {
-    "message": "Como recompensa por la donación de un animal al museo, me gustaría entregarte este <FC 0,128,0>Deslizador<END FC>.<P>Te permitirá utilizar el cableado instalado por toda la ciudad.<P>Es fácil utilizar el cableado: sitúate junto a un extremo de la cuerda y salta. ¡Eso es todo!<E>",
-    "description": "SphinxText.xls, row 1651"
+    "message": "Como recompensa por la donación de un animal al museo, me gustaría entregarte este <FC 0,128,0>Deslizador<END FC>.<P>Te permitirá utilizar el cableado instalado por toda la ciudad.<P>Es fácil utilizar el cableado: sitúate junto a un extremo de la cuerda y salta. ¡Eso es todo!<E>"
   },
   "HT_Text_Aby_Museum_WelcomeJewel": {
-    "message": "¡Saludos! Soy el experto en joyas del museo.<P>Como habrás oído, han robado todas las joyas de la exposición.<P>El Consejo ha ofrecido una recompensa generosa a quien pueda devolver cualquiera de las joyas robadas al museo.<P>Si tienes alguna joya y deseas que la vea, puedo estudiarla.<E>",
-    "description": "SphinxText.xls, row 1653"
+    "message": "¡Saludos! Soy el experto en joyas del museo.<P>Como habrás oído, han robado todas las joyas de la exposición.<P>El Consejo ha ofrecido una recompensa generosa a quien pueda devolver cualquiera de las joyas robadas al museo.<P>Si tienes alguna joya y deseas que la vea, puedo estudiarla.<E>"
   },
   "HT_Text_Aby_Museum_WelcomeBackJewel": {
-    "message": "¡Saludos! ¿Has recuperado otra joya?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1654"
+    "message": "¡Saludos! ¿Has recuperado otra joya?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Museum_DonateJewel": {
-    "message": "¿Tienes alguna joya para que la estudie?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1655"
+    "message": "¿Tienes alguna joya para que la estudie?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Museum_JewelsComplete": {
-    "message": "¡Maravilloso! Esta es la última. Has devuelto la dignidad de la ciudad.<P>Estas joyas son muy importantes. Nunca podremos agradecerte todo lo que has hecho.<E>",
-    "description": "SphinxText.xls, row 1656"
+    "message": "¡Maravilloso! Esta es la última. Has devuelto la dignidad de la ciudad.<P>Estas joyas son muy importantes. Nunca podremos agradecerte todo lo que has hecho.<E>"
   },
   "HT_Text_Aby_Museum_MonstersComplete": {
-    "message": "Al fin, el museo ya está completo. Gracias, en gran medida, a tus grandísimos esfuerzos. <FC 128,64,0>Abydos<END FC> vuelve a ser una ciudad con orgullo.<P>No puedo ofrecerte recompensa por tu trabajo, pero acepta este <FC 0,128,0>Título de Cazador Experto<END FC>. Que sea un recordatorio de nuestro agradecimiento.<E>",
-    "description": "SphinxText.xls, row 1657"
+    "message": "Al fin, el museo ya está completo. Gracias, en gran medida, a tus grandísimos esfuerzos. <FC 128,64,0>Abydos<END FC> vuelve a ser una ciudad con orgullo.<P>No puedo ofrecerte recompensa por tu trabajo, pero acepta este <FC 0,128,0>Título de Cazador Experto<END FC>. Que sea un recordatorio de nuestro agradecimiento.<E>"
   },
   "HT_Text_Aby_Museum_Jewel01": {
-    "message": "Esta joya fue donada por la noble Nut, conocida por celebrar la ceremonia de boda más extravagante.<P>El número de invitados superaba al número de habitantes de la ciudad en la que se celebró.<E>",
-    "description": "SphinxText.xls, row 1658"
+    "message": "Esta joya fue donada por la noble Nut, conocida por celebrar la ceremonia de boda más extravagante.<P>El número de invitados superaba al número de habitantes de la ciudad en la que se celebró.<E>"
   },
   "HT_Text_Aby_Museum_Jewel02": {
-    "message": "Tanta gente reclamaba la propiedad de esta joya que se celebró un juicio Djadjat en <FC 128,64,0>Tebas<END FC>, al que se presentaron el insólito número de 312 demandantes.<P>Tan desconcertado estaba el Gran Kenbet, responsable del caso, que confió la joya al <FC 128,64,0>Museo de Abydos<END FC>, a lo que su primo el Gobernador le está muy agradecido.<E>",
-    "description": "SphinxText.xls, row 1659"
+    "message": "Tanta gente reclamaba la propiedad de esta joya que se celebró un juicio Djadjat en <FC 128,64,0>Tebas<END FC>, al que se presentaron el insólito número de 312 demandantes.<P>Tan desconcertado estaba el Gran Kenbet, responsable del caso, que confió la joya al <FC 128,64,0>Museo de Abydos<END FC>, a lo que su primo el Gobernador le está muy agradecido.<E>"
   },
   "HT_Text_Aby_Museum_Jewel03": {
-    "message": "La leyenda dice que la joya estaba dentro de una piedra que cayó del cielo hace mucho años.<P>Aunque no hay pruebas, el cráter donde se descubrió tiene la misma forma que la propia joya.<E>",
-    "description": "SphinxText.xls, row 1660"
+    "message": "La leyenda dice que la joya estaba dentro de una piedra que cayó del cielo hace mucho años.<P>Aunque no hay pruebas, el cráter donde se descubrió tiene la misma forma que la propia joya.<E>"
   },
   "HT_Text_Aby_Museum_Jewel04": {
-    "message": "Se dice que la joya encanta a quien la posee y lo convierte en una persona honesta.<P>El legendario ladrón Siptah donó esta joya al museo antes de entregarse a las autoridades y confesó más de 200 delitos criminales.<E>",
-    "description": "SphinxText.xls, row 1661"
+    "message": "Se dice que la joya encanta a quien la posee y lo convierte en una persona honesta.<P>El legendario ladrón Siptah donó esta joya al museo antes de entregarse a las autoridades y confesó más de 200 delitos criminales.<E>"
   },
   "HT_Text_Aby_Museum_Jewel05": {
-    "message": "Esta joya con cabeza de cobra se encontró en un campo de batalla. Sobresalía del pecho de un rey derrotado.<P>Se utilizaba para dar el golpe mortal en una guerra sin supervivientes. Nada quedó de la tribu que la forjó.<E>",
-    "description": "SphinxText.xls, row 1662"
+    "message": "Esta joya con cabeza de cobra se encontró en un campo de batalla. Sobresalía del pecho de un rey derrotado.<P>Se utilizaba para dar el golpe mortal en una guerra sin supervivientes. Nada quedó de la tribu que la forjó.<E>"
   },
   "HT_Text_Aby_Museum_Jewel06": {
-    "message": "Cuando comenzaron las excavaciones hace muchos siglos, se descubrió esta joya en las entrañas del desierto.<P>Convencido de la existencia de mayores riquezas, el rey que ordenó la excavación ocasionó la muerte de miles de esclavos.<P>Tras la pérdida de vidas inocentes, decidió que ningún otro tesoro surgiera de las profundidades.<E>",
-    "description": "SphinxText.xls, row 1663"
+    "message": "Cuando comenzaron las excavaciones hace muchos siglos, se descubrió esta joya en las entrañas del desierto.<P>Convencido de la existencia de mayores riquezas, el rey que ordenó la excavación ocasionó la muerte de miles de esclavos.<P>Tras la pérdida de vidas inocentes, decidió que ningún otro tesoro surgiera de las profundidades.<E>"
   },
   "HT_Text_Aby_Museum_Sarcoph_Talk01": {
-    "message": "¿Qué quieres?<E>",
-    "description": "SphinxText.xls, row 1664"
+    "message": "¿Qué quieres?<E>"
   },
   "HT_Text_Aby_Museum_Sarcoph_Talk02": {
-    "message": "¡Déjame en paz!<E>",
-    "description": "SphinxText.xls, row 1665"
+    "message": "¡Déjame en paz!<E>"
   },
   "HT_Text_Aby_Museum_Sarcoph_Talk03": {
-    "message": "¡Largo!<E>",
-    "description": "SphinxText.xls, row 1666"
+    "message": "¡Largo!<E>"
   },
   "HT_Text_Aby_Museum_JewelsDone01": {
-    "message": "Muchas gracias por recuperar la colección de joyas.<E>",
-    "description": "SphinxText.xls, row 1667"
+    "message": "Muchas gracias por recuperar la colección de joyas.<E>"
   },
   "HT_Text_Aby_Museum_JewelsDone02": {
-    "message": "¿Crees que el ladrón saldrá impune del robo de todas las joyas?<E>",
-    "description": "SphinxText.xls, row 1668"
+    "message": "¿Crees que el ladrón saldrá impune del robo de todas las joyas?<E>"
   },
   "HT_Text_Aby_Museum_JewelsDone03": {
-    "message": "Las joyas de <FC 128,64,0>Abydos<END FC> son magníficas, ¿verdad?<E>",
-    "description": "SphinxText.xls, row 1669"
+    "message": "Las joyas de <FC 128,64,0>Abydos<END FC> son magníficas, ¿verdad?<E>"
   },
   "HT_Text_Aby_Museum_MonstersDone01": {
-    "message": "¡Qué colección tan fascinante! Y todo gracias a ti.<E>",
-    "description": "SphinxText.xls, row 1670"
+    "message": "¡Qué colección tan fascinante! Y todo gracias a ti.<E>"
   },
   "HT_Text_Aby_Museum_MonstersDone02": {
-    "message": "Los especímenes donados eran de una calidad excelente. ¡Buen trabajo!<E>",
-    "description": "SphinxText.xls, row 1671"
+    "message": "Los especímenes donados eran de una calidad excelente. ¡Buen trabajo!<E>"
   },
   "HT_Text_Aby_Museum_MonstersDone03": {
-    "message": "El museo está lleno, así que sería una buena idea preparar una nueva ala para los monstruos que adquiramos en el futuro.<E>",
-    "description": "SphinxText.xls, row 1672"
+    "message": "El museo está lleno, así que sería una buena idea preparar una nueva ala para los monstruos que adquiramos en el futuro.<E>"
   },
   "HT_Text_Aby_Museum_Sign01": {
-    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>Bienvenidos al <FC 128,64,0>Museo de Abydos<END FC>.<P><CNTR>Nuestra ciudad, conocida por ensalzar el auténtico<N>espíritu del Gran Osiris, se complace en exhibir<N>la colección más completa.<P><CNTR>Este museo enaltece la excepcional historia,<N>ciencia y cultura de <FC 128,64,0>Abydos<END FC>.<E>",
-    "description": "SphinxText.xls, row 1673"
+    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>Bienvenidos al <FC 128,64,0>Museo de Abydos<END FC>.<P><CNTR>Nuestra ciudad, conocida por ensalzar el auténtico<N>espíritu del Gran Osiris, se complace en exhibir<N>la colección más completa.<P><CNTR>Este museo enaltece la excepcional historia,<N>ciencia y cultura de <FC 128,64,0>Abydos<END FC>.<E>"
   },
   "HT_Text_Aby_Museum_Sign02": {
-    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>El museo es una muestra de la magnífica<N>arquitectura de nuestros tiempos.<P><CNTR>Aunque nuestras espléndidas tumbas y<N>templos simbolizan el respeto a difuntos y <N>dioses, el museo se erige como símbolo de vida.<E>",
-    "description": "SphinxText.xls, row 1674"
+    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>El museo es una muestra de la magnífica<N>arquitectura de nuestros tiempos.<P><CNTR>Aunque nuestras espléndidas tumbas y<N>templos simbolizan el respeto a difuntos y <N>dioses, el museo se erige como símbolo de vida.<E>"
   },
   "HT_Text_Aby_Museum_Sign03": {
-    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>El museo no sólo impone nuevos<N>valores en la educación pública.<P><CNTR>Es también una entidad ilustre en<N>investigación y desarrollo.<P><CNTR>Mientras disfrutáis de las exposiciones, nuestros estudiosos lo analizan e interpretan todo. Los hallazgos traen consigo progreso a nuestra vida diaria.<E>",
-    "description": "SphinxText.xls, row 1675"
+    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>El museo no sólo impone nuevos<N>valores en la educación pública.<P><CNTR>Es también una entidad ilustre en<N>investigación y desarrollo.<P><CNTR>Mientras disfrutáis de las exposiciones, nuestros estudiosos lo analizan e interpretan todo. Los hallazgos traen consigo progreso a nuestra vida diaria.<E>"
   },
   "HT_Text_Aby_Museum_Sign04": {
-    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>Abrimos todos los días del alba hasta la puesta de sol.<P><CNTR>La entrada es gratuita y cualquier donación es siempre bienvenida.<E>",
-    "description": "SphinxText.xls, row 1676"
+    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>Abrimos todos los días del alba hasta la puesta de sol.<P><CNTR>La entrada es gratuita y cualquier donación es siempre bienvenida.<E>"
   },
   "HT_Text_Aby_Museum_Sign05": {
-    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>Para mayor comodidad e interés, cada obra<N>tiene una placa con una breve descripción.<P><CNTR>Para obtener más información sobre cualquier<N>pieza del museo, puede consultar a los <N>empleados.<E>",
-    "description": "SphinxText.xls, row 1677"
+    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>Para mayor comodidad e interés, cada obra<N>tiene una placa con una breve descripción.<P><CNTR>Para obtener más información sobre cualquier<N>pieza del museo, puede consultar a los <N>empleados.<E>"
   },
   "HT_Text_Aby_Museum_Sign06": {
-    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>PRÓXIMAMENTE<N>Papiros en el <FC 128,64,0>Museo de Abydos<END FC>.<P><CNTR>Pronto, novedades en las exposiciones, información sobre objetos existentes, concursos y mucho más.<E>",
-    "description": "SphinxText.xls, row 1678"
+    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>PRÓXIMAMENTE<N>Papiros en el <FC 128,64,0>Museo de Abydos<END FC>.<P><CNTR>Pronto, novedades en las exposiciones, información sobre objetos existentes, concursos y mucho más.<E>"
   },
   "HT_Text_Aby_Museum_Sign07": {
-    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>Prohibido comer o beber<N>en este edificio.<P><CNTR>Mantengamos el museo, orgullo de la<N>ciudad, limpio durante la visita.<E>",
-    "description": "SphinxText.xls, row 1679"
+    "message": "<CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>Prohibido comer o beber<N>en este edificio.<P><CNTR>Mantengamos el museo, orgullo de la<N>ciudad, limpio durante la visita.<E>"
   },
   "HT_Text_Aby_Museum_Sign08": {
-    "message": "<CNTR>---[ <FC 128,64,0>Sala de las Joyas<END FC> ]---<N><CNTR>El <FC 128,64,0>Museo de Abydos<END FC> se complace en presentar la<N>mejor colección de joyas del mundo.<P><CNTR>Desde hace años se reúnen estas joyas de<N>incalculable valor, llegadas de todos los rincones<N>del mundo.<P><CNTR>Debido a su singularidad, las joyas se han colocado<N>en vitrinas de máxima seguridad.<P><CNTR>Para evitar problemas con la guardia armada,<N>se recomienda mantener la distancia.<E>",
-    "description": "SphinxText.xls, row 1680"
+    "message": "<CNTR>---[ <FC 128,64,0>Sala de las Joyas<END FC> ]---<N><CNTR>El <FC 128,64,0>Museo de Abydos<END FC> se complace en presentar la<N>mejor colección de joyas del mundo.<P><CNTR>Desde hace años se reúnen estas joyas de<N>incalculable valor, llegadas de todos los rincones<N>del mundo.<P><CNTR>Debido a su singularidad, las joyas se han colocado<N>en vitrinas de máxima seguridad.<P><CNTR>Para evitar problemas con la guardia armada,<N>se recomienda mantener la distancia.<E>"
   },
   "HT_Text_Aby_Museum_Sign09": {
-    "message": "<CNTR>---[ <FC 128,64,0>Sala de las Joyas<END FC> ]---<N><CNTR>Las joyas expuestas son algunas de las piezas<N>más maravillosas jamás encontradas.<P><CNTR>Aunque los expertos han descubierto algunos de los secretos que rodean a estas joyas, existen aún<N>numerosos misterios por resolver.<E>",
-    "description": "SphinxText.xls, row 1681"
+    "message": "<CNTR>---[ <FC 128,64,0>Sala de las Joyas<END FC> ]---<N><CNTR>Las joyas expuestas son algunas de las piezas<N>más maravillosas jamás encontradas.<P><CNTR>Aunque los expertos han descubierto algunos de los secretos que rodean a estas joyas, existen aún<N>numerosos misterios por resolver.<E>"
   },
   "HT_Text_Aby_Museum_Sign10": {
-    "message": "<CNTR>---[ <FC 128,64,0>Historia Natural<END FC> ]---<N><CNTR>Algunas especies de la sección Historia Natural muestran un comportamiento muy agresivo en estado salvaje.<P><CNTR>El museo garantiza que no suponen<N>peligro alguno para los visitantes.<P><CNTR>Se han utilizado hechizos especiales<N>para proteger todas las piezas expuestas.<P><CNTR>Sin embargo, es necesario permanecer en el lado<N>correcto de las áreas acordonadas.<E>",
-    "description": "SphinxText.xls, row 1682"
+    "message": "<CNTR>---[ <FC 128,64,0>Historia Natural<END FC> ]---<N><CNTR>Algunas especies de la sección Historia Natural muestran un comportamiento muy agresivo en estado salvaje.<P><CNTR>El museo garantiza que no suponen<N>peligro alguno para los visitantes.<P><CNTR>Se han utilizado hechizos especiales<N>para proteger todas las piezas expuestas.<P><CNTR>Sin embargo, es necesario permanecer en el lado<N>correcto de las áreas acordonadas.<E>"
   },
   "HT_Text_Aby_Museum_Sign11": {
-    "message": "<CNTR>---[ <FC 128,64,0>Historia Natural<END FC> ]---<N><CNTR>Bienvenidos a la sección<N>Historia Natural del <FC 128,64,0>Museo de Abydos<END FC>.<P><CNTR>Muchos animales de esta colección<N>no son originarios de <FC 128,64,0>Abydos<END FC>.<P><CNTR>Por ello, esta colección supone una<N>oportunidad única para verlos<N>de cerca para mucha gente.<E>",
-    "description": "SphinxText.xls, row 1683"
+    "message": "<CNTR>---[ <FC 128,64,0>Historia Natural<END FC> ]---<N><CNTR>Bienvenidos a la sección<N>Historia Natural del <FC 128,64,0>Museo de Abydos<END FC>.<P><CNTR>Muchos animales de esta colección<N>no son originarios de <FC 128,64,0>Abydos<END FC>.<P><CNTR>Por ello, esta colección supone una<N>oportunidad única para verlos<N>de cerca para mucha gente.<E>"
   },
   "HT_Text_Aby_Museum_Sign12": {
-    "message": "<CNTR>---[ <FC 128,64,0>Historia Natural<END FC> ]---<N><CNTR>Prohibido dar de comer<N>a los animales de la exposición.<P><CNTR>Muchos animales siguen una dieta específica y el consumo de alimentos inadecuados podría ser nocivo.<E>",
-    "description": "SphinxText.xls, row 1684"
+    "message": "<CNTR>---[ <FC 128,64,0>Historia Natural<END FC> ]---<N><CNTR>Prohibido dar de comer<N>a los animales de la exposición.<P><CNTR>Muchos animales siguen una dieta específica y el consumo de alimentos inadecuados podría ser nocivo.<E>"
   },
   "HT_Text_Aby_Museum_Sign13": {
-    "message": "<CNTR>---[ <FC 128,64,0>Historia Natural<END FC> ]---<N><CNTR>El <FC 128,64,0>Museo de Abydos<END FC> recibirá con agrado<N>donaciones para la sección Historia Natural.<P><CNTR>No obstante, y debido al poco espacio, tan solo podemos<N>mantener a un monstruo por especie. En recepción, el conservador le dará más información.<E>",
-    "description": "SphinxText.xls, row 1685"
+    "message": "<CNTR>---[ <FC 128,64,0>Historia Natural<END FC> ]---<N><CNTR>El <FC 128,64,0>Museo de Abydos<END FC> recibirá con agrado<N>donaciones para la sección Historia Natural.<P><CNTR>No obstante, y debido al poco espacio, tan solo podemos<N>mantener a un monstruo por especie. En recepción, el conservador le dará más información.<E>"
   },
   "HT_Text_Aby_Museum_Sign14": {
-    "message": "<CNTR>---[ <FC 128,64,0>Historia Natural<END FC> ]---<N><CNTR>Por seguridad, los conservadores del <FC 128,64,0>Museo de Abydos<END FC><N>ruegan no atacar a los animales.<P><CNTR>Se ruega a quien lleve un arma<N>que la mantenga oculta en todo momento.<E>",
-    "description": "SphinxText.xls, row 1686"
+    "message": "<CNTR>---[ <FC 128,64,0>Historia Natural<END FC> ]---<N><CNTR>Por seguridad, los conservadores del <FC 128,64,0>Museo de Abydos<END FC><N>ruegan no atacar a los animales.<P><CNTR>Se ruega a quien lleve un arma<N>que la mantenga oculta en todo momento.<E>"
   },
   "HT_Text_Aby_Museum_Sign15": {
-    "message": "<CNTR>---[ <FC 128,64,0>Historia Natural<END FC> ]---<N><CNTR>Los visitantes deberán salir<N>del museo a la hora de cierre.<P><CNTR>En caso de quedar encerrado, busca un lugar <N>adecuado para ocultarte, fuera de la vista<N>de los monstruos.<E>",
-    "description": "SphinxText.xls, row 1687"
+    "message": "<CNTR>---[ <FC 128,64,0>Historia Natural<END FC> ]---<N><CNTR>Los visitantes deberán salir<N>del museo a la hora de cierre.<P><CNTR>En caso de quedar encerrado, busca un lugar <N>adecuado para ocultarte, fuera de la vista<N>de los monstruos.<E>"
   },
   "HT_Text_Aby_Museum_HaveAParasol": {
-    "message": "¡Increíble! Has recuperado una de las joyas robadas. La ciudad nunca podrá agradecértelo suficiente.<P>Me gustaría regalarte esta <FC 0,128,0>Sombrilla<END FC> como muestra de gratitud.<P>Una vez perteneció a un famoso noble de Abydos y es muy útil para quienes buscan protegerse del sol.<E>",
-    "description": "SphinxText.xls, row 1688"
+    "message": "¡Increíble! Has recuperado una de las joyas robadas. La ciudad nunca podrá agradecértelo suficiente.<P>Me gustaría regalarte esta <FC 0,128,0>Sombrilla<END FC> como muestra de gratitud.<P>Una vez perteneció a un famoso noble de Abydos y es muy útil para quienes buscan protegerse del sol.<E>"
   },
   "HT_Text_Aby_Museum_NoDogs": {
-    "message": "Lo siento, no se permite la entrada a Chihuahuas. Debido a un desafortunado accidente del Gobernador con algunos de ellos el año pasado, están prohibidos en el museo.<E>",
-    "description": "SphinxText.xls, row 1689"
+    "message": "Lo siento, no se permite la entrada a Chihuahuas. Debido a un desafortunado accidente del Gobernador con algunos de ellos el año pasado, están prohibidos en el museo.<E>"
   },
   "HT_Text_Aby_Museum_Empty": {
-    "message": "<N><CNTR>---[ Exposición vacía ]---<E>",
-    "description": "SphinxText.xls, row 1690"
+    "message": "<N><CNTR>---[ Exposición vacía ]---<E>"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel01": {
-    "message": "¡Oh! ¡Has recuperado las <FC 0,128,0>Joyas de Abydos<END FC>! Eres un héroe.<P>Deberías saber que me han utilizado para que las robe. Pero te aseguro que todo fue en contra de mi voluntad.<P>Te prometo que nunca volverán a utilizarme para sus malvados propósitos.<P>Tu heroica acción me quitará la carga de haber participado en un asunto tan sucio. ¡Gracias!<E>",
-    "description": "SphinxText.xls, row 1691"
+    "message": "¡Oh! ¡Has recuperado las <FC 0,128,0>Joyas de Abydos<END FC>! Eres un héroe.<P>Deberías saber que me han utilizado para que las robe. Pero te aseguro que todo fue en contra de mi voluntad.<P>Te prometo que nunca volverán a utilizarme para sus malvados propósitos.<P>Tu heroica acción me quitará la carga de haber participado en un asunto tan sucio. ¡Gracias!<E>"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel02A": {
-    "message": "Eres un héroe. Estoy deseando que todas las <FC 0,128,0>Joyas de Abydos<END FC> sean devueltas.<E>",
-    "description": "SphinxText.xls, row 1692"
+    "message": "Eres un héroe. Estoy deseando que todas las <FC 0,128,0>Joyas de Abydos<END FC> sean devueltas.<E>"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel02B": {
-    "message": "¡Mil gracias por ser tan honesto y leal!<E>",
-    "description": "SphinxText.xls, row 1693"
+    "message": "¡Mil gracias por ser tan honesto y leal!<E>"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel02C": {
-    "message": "¡Nunca podré agradecértelo lo suficiente!<E>",
-    "description": "SphinxText.xls, row 1694"
+    "message": "¡Nunca podré agradecértelo lo suficiente!<E>"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel03": {
-    "message": "¡Gracias! ¡Muchísimas gracias! Ahora que todas las joyas han sido devueltas, mi conciencia es libre al fin. ¡Eres fantástico!<E>",
-    "description": "SphinxText.xls, row 1695"
+    "message": "¡Gracias! ¡Muchísimas gracias! Ahora que todas las joyas han sido devueltas, mi conciencia es libre al fin. ¡Eres fantástico!<E>"
   },
   "HT_Text_Aby_Museum_MonsterCertificate": {
-    "message": "Acabo de darme cuenta de que has donado <SO HT_Objective_Aby_Museum_MonstCount> monstruos a la colección.<P>Eres el benefactor más generoso del museo y de la vida cultural de <FC 128,64,0>Abydos<END FC>.<P>Queremos expresarte nuestra gratitud por todos tus esfuerzos con un <FC 0,128,0>Título de Cazador Experto: <IS HT_Objective_MonsterNameHolder><END FC>.<P>La ciudad desea demostrarte su reconocimiento por este invaluable trabajo. ¡Gracias!<E>",
-    "description": "SphinxText.xls, row 1696"
+    "message": "Acabo de darme cuenta de que has donado <SO HT_Objective_Aby_Museum_MonstCount> monstruos a la colección.<P>Eres el benefactor más generoso del museo y de la vida cultural de <FC 128,64,0>Abydos<END FC>.<P>Queremos expresarte nuestra gratitud por todos tus esfuerzos con un <FC 0,128,0>Título de Cazador Experto: <IS HT_Objective_MonsterNameHolder><END FC>.<P>La ciudad desea demostrarte su reconocimiento por este invaluable trabajo. ¡Gracias!<E>"
   },
   "HT_Text_Aby_Museum_MonsterClassA": {
-    "message": "Clase Oro",
-    "description": "SphinxText.xls, row 1697"
+    "message": "Clase Oro"
   },
   "HT_Text_Aby_Museum_MonsterClassB": {
-    "message": "Clase Plata",
-    "description": "SphinxText.xls, row 1698"
+    "message": "Clase Plata"
   },
   "HT_Text_Aby_Museum_MonsterClassC": {
-    "message": "Clase Bronce",
-    "description": "SphinxText.xls, row 1699"
+    "message": "Clase Bronce"
   },
   "HT_Text_Aby_Shop_ShopperCantAfford": {
-    "message": "¡Qué fastidio! Siempre quise comprar este monstruo, pero a ese precio tendremos que ahorrar una eternidad.<E>",
-    "description": "SphinxText.xls, row 1701"
+    "message": "¡Qué fastidio! Siempre quise comprar este monstruo, pero a ese precio tendremos que ahorrar una eternidad.<E>"
   },
   "HT_Text_Aby_Shop_ShopperIfOnly": {
-    "message": "Ojalá pudiera tener uno de estos.<E>",
-    "description": "SphinxText.xls, row 1702"
+    "message": "Ojalá pudiera tener uno de estos.<E>"
   },
   "HT_Text_Aby_Shop_KeeperWelcome": {
-    "message": "Bienvenido a la <FC 128,64,0>Tienda Monstruo<END FC>.<P>Si lo deseas, puedes vender tus monstruos o adquirir uno de nuestro catálogo.<P>Si deseas comprar un monstruo, puedes examinarlo y elegirlo tú mismo.<P>No obstante, no puedes dejarlo suelto por la ciudad. Está totalmente prohibido.<P>En especial tras el accidente del Gobernador el año pasado. No pudo sentarse durante semanas.<E>",
-    "description": "SphinxText.xls, row 1703"
+    "message": "Bienvenido a la <FC 128,64,0>Tienda Monstruo<END FC>.<P>Si lo deseas, puedes vender tus monstruos o adquirir uno de nuestro catálogo.<P>Si deseas comprar un monstruo, puedes examinarlo y elegirlo tú mismo.<P>No obstante, no puedes dejarlo suelto por la ciudad. Está totalmente prohibido.<P>En especial tras el accidente del Gobernador el año pasado. No pudo sentarse durante semanas.<E>"
   },
   "HT_Text_Aby_Shop_KeeperBrowse": {
-    "message": "Muy bien. Puedes echar un vistazo a nuestros monstruos de inmejorable calidad.<E>",
-    "description": "SphinxText.xls, row 1704"
+    "message": "Muy bien. Puedes echar un vistazo a nuestros monstruos de inmejorable calidad.<E>"
   },
   "HT_Text_Aby_Shop_KeeperWelcomeBack": {
-    "message": "Bienvenido a la <FC 128,64,0>Tienda Monstruo<END FC>.<P>¿En qué puedo ayudarte?<N>  <B 1> Comprar monstruos<N>  <B 2> Vender monstruos<E>",
-    "description": "SphinxText.xls, row 1705"
+    "message": "Bienvenido a la <FC 128,64,0>Tienda Monstruo<END FC>.<P>¿En qué puedo ayudarte?<N>  <B 1> Comprar monstruos<N>  <B 2> Vender monstruos<E>"
   },
   "HT_Text_Aby_Shop_KeeperNoMonsters": {
-    "message": "Pero ya no tienes más monstruos para vender.<E>",
-    "description": "SphinxText.xls, row 1706"
+    "message": "Pero ya no tienes más monstruos para vender.<E>"
   },
   "HT_Text_Aby_Shop_KeeperSellMonsters": {
-    "message": "¿Qué tienes entonces para mí? Elige el monstruo que deseas vender.<E>",
-    "description": "SphinxText.xls, row 1707"
+    "message": "¿Qué tienes entonces para mí? Elige el monstruo que deseas vender.<E>"
   },
   "HT_Text_Aby_Shop_KeeperMonsterOffer": {
-    "message": "¿<IS HT_Objective_MonsterNameHolder>? ¡Qué fantástico espécimen!<P>Te daré <FC 0,128,0><SO HT_Objective_Aby_Shop_SellMonsterPrice> skarabs<END FC>.<N>  <B 1> Vender<N>  <B 2> No vender<E>",
-    "description": "SphinxText.xls, row 1708"
+    "message": "¿<IS HT_Objective_MonsterNameHolder>? ¡Qué fantástico espécimen!<P>Te daré <FC 0,128,0><SO HT_Objective_Aby_Shop_SellMonsterPrice> skarabs<END FC>.<N>  <B 1> Vender<N>  <B 2> No vender<E>"
   },
   "HT_Text_Aby_Shop_KeeperDontSell": {
-    "message": "Lo que desees. La oferta sigue en pie si cambias de opinión.<E>",
-    "description": "SphinxText.xls, row 1709"
+    "message": "Lo que desees. La oferta sigue en pie si cambias de opinión.<E>"
   },
   "HT_Text_Aby_Shop_Keeper": {
-    "message": "¡Muchísimas gracias!<E>",
-    "description": "SphinxText.xls, row 1710"
+    "message": "¡Muchísimas gracias!<E>"
   },
   "HT_Text_Aby_Shop_NoDogs": {
-    "message": "¿Cómo? ¿Un Chihuahua? Odio a esos bichos. ¡No pienso comprar eso!<E>",
-    "description": "SphinxText.xls, row 1711"
+    "message": "¿Cómo? ¿Un Chihuahua? Odio a esos bichos. ¡No pienso comprar eso!<E>"
   },
   "HT_Text_Aby_Shop_NoLizards": {
-    "message": "Oh, un Lagarto bobo. Me temo que no puedo comprarlo. Desde lo que ocurrió la última vez...<E>",
-    "description": "SphinxText.xls, row 1712"
+    "message": "Oh, un Lagarto bobo. Me temo que no puedo comprarlo. Desde lo que ocurrió la última vez...<E>"
   },
   "HT_Text_Aby_Shop_NoPiranhas": {
-    "message": "Lo siento, pero ya no vendo Pirañas. El Gobernador me prohibió que las vendiera en la tienda tras el desafortunado accidente del año pasado.<P>No le culpo. No pudo sentarse durante semanas.<E>",
-    "description": "SphinxText.xls, row 1713"
+    "message": "Lo siento, pero ya no vendo Pirañas. El Gobernador me prohibió que las vendiera en la tienda tras el desafortunado accidente del año pasado.<P>No le culpo. No pudo sentarse durante semanas.<E>"
   },
   "HT_Text_Aby_Sewer_GateBlocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Esta puerta necesita una <FC 0,128,0>llave<END FC>.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1715"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Esta puerta necesita una <FC 0,128,0>llave<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Sewer_GotKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes una <FC 0,128,0>Llave antigua<END FC>!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1716"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes una <FC 0,128,0>Llave antigua<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_Sign_GrandCanal01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Gran canal<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 1718"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Gran canal<END FC> ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_NarrowCanal01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Pequeño canal<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 1719"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Pequeño canal<END FC> ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_AbydosPlaza01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Centro de Abydos<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 1720"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Centro de Abydos<END FC> ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_ToGrandCanal01": {
-    "message": "<N><CNTR>---[ Al <FC 128,64,0>Gran canal<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 1721"
+    "message": "<N><CNTR>---[ Al <FC 128,64,0>Gran canal<END FC> ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_ToNarrowCanal01": {
-    "message": "<N><CNTR>---[ Al <FC 128,64,0>Pequeño canal<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 1722"
+    "message": "<N><CNTR>---[ Al <FC 128,64,0>Pequeño canal<END FC> ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_ToAbydosPlaza01": {
-    "message": "<N><CNTR>---[ Al <FC 128,64,0>Centro de Abydos<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 1723"
+    "message": "<N><CNTR>---[ Al <FC 128,64,0>Centro de Abydos<END FC> ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_Museum01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>---[ Se aceptan donaciones. ]---<E>",
-    "description": "SphinxText.xls, row 1724"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Museo de Abydos<END FC> ]---<N><CNTR>---[ Se aceptan donaciones. ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_WallsMinigame01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Pasaje de los Campeones<END FC> ]---<N><CNTR>---[ Para competir, voltereta de 2 m. ]---<E>",
-    "description": "SphinxText.xls, row 1725"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Pasaje de los Campeones<END FC> ]---<N><CNTR>---[ Para competir, voltereta de 2 m. ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_Shop01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Tienda Monstruo<END FC> ]---<N><CNTR>---[ Tenemos nuevos monstruos. ]---<E>",
-    "description": "SphinxText.xls, row 1726"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Tienda Monstruo<END FC> ]---<N><CNTR>---[ Tenemos nuevos monstruos. ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_Inventor01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Kemmet el Inventor<END FC> ]---<N><CNTR>---[ Solo visitantes en citas de negocios. ]---<E>",
-    "description": "SphinxText.xls, row 1727"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Kemmet el Inventor<END FC> ]---<N><CNTR>---[ Solo visitantes en citas de negocios. ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_PairsMinigame01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Memoria visual de Paneb<END FC> ]---<N><CNTR>---[ Memoriza y gana. ]---<E>",
-    "description": "SphinxText.xls, row 1728"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Memoria visual de Paneb<END FC> ]---<N><CNTR>---[ Memoriza y gana. ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_SimonMinigame01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Secuencias de Sorkon<END FC> ]---<N><CNTR>---[ Ordena y gana <FC 0,128,0>skarabs<END FC>. ]---<E>",
-    "description": "SphinxText.xls, row 1729"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Secuencias de Sorkon<END FC> ]---<N><CNTR>---[ Ordena y gana <FC 0,128,0>skarabs<END FC>. ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_ShootingMinigame01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Taberna El Blanco de Tefnut<END FC> ]---<N><CNTR>---[ Demuestra tu habilidad y acierta. ]---<E>",
-    "description": "SphinxText.xls, row 1730"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Taberna El Blanco de Tefnut<END FC> ]---<N><CNTR>---[ Demuestra tu habilidad y acierta. ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_ElectricWater": {
-    "message": "<CNTR>---[ <FC 128,64,0>Prohibido nadar<END FC> ]---<N><CNTR>---[ Atención: todo el agua que rodea <FC 128,64,0>Abydos<END FC> está electrificada. No se acerquen al agua. ]---<E>",
-    "description": "SphinxText.xls, row 1731"
+    "message": "<CNTR>---[ <FC 128,64,0>Prohibido nadar<END FC> ]---<N><CNTR>---[ Atención: todo el agua que rodea <FC 128,64,0>Abydos<END FC> está electrificada. No se acerquen al agua. ]---<E>"
   },
   "HT_Text_Aby_Canal_BoatOwner_Intro01": {
-    "message": "Soy Khonsu, capitán del bote. Estoy seguro de que te encantan las aventuras. Mis servicios incluyen viajes de todo tipo a un precio razonable.<P>Si lo deseas, puedo llevarte a <FC 128,64,0>Heliópolis<END FC> por tan solo <FC 0,128,0>25 skarabs<END FC>.<N>  <B 2> No me interesa<N>  <B 1> Vámonos<E>",
-    "description": "SphinxText.xls, row 1732"
+    "message": "Soy Khonsu, capitán del bote. Estoy seguro de que te encantan las aventuras. Mis servicios incluyen viajes de todo tipo a un precio razonable.<P>Si lo deseas, puedo llevarte a <FC 128,64,0>Heliópolis<END FC> por tan solo <FC 0,128,0>25 skarabs<END FC>.<N>  <B 2> No me interesa<N>  <B 1> Vámonos<E>"
   },
   "HT_Text_Aby_Canal_BoatOwner_Return01": {
-    "message": "¡Hola! Me alegro de verte.<P>Si lo deseas, puedo llevarte a <FC 128,64,0>Heliópolis<END FC> por tan solo <FC 0,128,0>25 skarabs<END FC>.<N>  <B 2> No me interesa<N>  <B 1> Vámonos<E>",
-    "description": "SphinxText.xls, row 1733"
+    "message": "¡Hola! Me alegro de verte.<P>Si lo deseas, puedo llevarte a <FC 128,64,0>Heliópolis<END FC> por tan solo <FC 0,128,0>25 skarabs<END FC>.<N>  <B 2> No me interesa<N>  <B 1> Vámonos<E>"
   },
   "HT_Text_Aby_Canal_BoatOwner_ToHeliopolisConfirm": {
-    "message": "¡Próxima parada <FC 128,64,0>Heliópolis<END FC>!<E>",
-    "description": "SphinxText.xls, row 1734"
+    "message": "¡Próxima parada <FC 128,64,0>Heliópolis<END FC>!<E>"
   },
   "HT_Text_Aby_Canal_BoatOwner_ToHeliopolisDecline": {
-    "message": "Vale, avísame si cambias de opinión.<E>",
-    "description": "SphinxText.xls, row 1735"
+    "message": "Vale, avísame si cambias de opinión.<E>"
   },
   "HT_Text_Aby_Canal_BoatOwner_NotEnoughMoney": {
-    "message": "Lo siento, no tienes bastantes <FC 0,128,0>skarabs<END FC>.<E>",
-    "description": "SphinxText.xls, row 1736"
+    "message": "Lo siento, no tienes bastantes <FC 0,128,0>skarabs<END FC>.<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationIntro": {
-    "message": "Debes mostrar alguna identificación para poder pasar.<E>",
-    "description": "SphinxText.xls, row 1737"
+    "message": "Debes mostrar alguna identificación para poder pasar.<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationPrompt": {
-    "message": "Veamos, alguna identificación.<N>  <B 1> Cómo no, aquí tienes<N>  <B 2> Mmm... Parece que la he traspapelado<E>",
-    "description": "SphinxText.xls, row 1738"
+    "message": "Veamos, alguna identificación.<N>  <B 1> Cómo no, aquí tienes<N>  <B 2> Mmm... Parece que la he traspapelado<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedGood": {
-    "message": "Todo está en orden. Puedes pasar.<E>",
-    "description": "SphinxText.xls, row 1739"
+    "message": "Todo está en orden. Puedes pasar.<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedBad": {
-    "message": "¿Qué clase de identificación es esa? Necesito papeles si deseas pasar al <FC 128,64,0>Consistorio<END FC>.<P>¡No me hagas perder el tiempo!<E>",
-    "description": "SphinxText.xls, row 1740"
+    "message": "¿Qué clase de identificación es esa? Necesito papeles si deseas pasar al <FC 128,64,0>Consistorio<END FC>.<P>¡No me hagas perder el tiempo!<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationDeclined": {
-    "message": "Sí, sí, palabrerías. Sin identificación, no se pasa. No podemos permitir que todo el mundo pase al <FC 128,64,0>Consistorio<END FC>.<P> ¡Venga, fuera!<E>",
-    "description": "SphinxText.xls, row 1741"
+    "message": "Sí, sí, palabrerías. Sin identificación, no se pasa. No podemos permitir que todo el mundo pase al <FC 128,64,0>Consistorio<END FC>.<P> ¡Venga, fuera!<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_Done": {
-    "message": "Buenos días, señor.<E>",
-    "description": "SphinxText.xls, row 1742"
+    "message": "Buenos días, señor.<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_DoneWarning": {
-    "message": "Cuidado con las pequeñas bestias cerca del canal.<E>",
-    "description": "SphinxText.xls, row 1743"
+    "message": "Cuidado con las pequeñas bestias cerca del canal.<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedWarning": {
-    "message": "Bien, puedes pasar, pero ten cuidado. El canal está repleto de bestias. No lo aparentan, pero pueden ser muy agresivas.<P>Te propongo un trato. Si eliminas la plaga de bestias del canal, te daré este <FC 0,128,0>Amuleto del portal<END FC>. A mí no me sirve. No tengo ni idea de cómo utilizarlo.<E>",
-    "description": "SphinxText.xls, row 1744"
+    "message": "Bien, puedes pasar, pero ten cuidado. El canal está repleto de bestias. No lo aparentan, pero pueden ser muy agresivas.<P>Te propongo un trato. Si eliminas la plaga de bestias del canal, te daré este <FC 0,128,0>Amuleto del portal<END FC>. A mí no me sirve. No tengo ni idea de cómo utilizarlo.<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedBeasts": {
-    "message": "Todavía quedan algunos bichos. Tienes que eliminar a todas las bestias para conseguir el <FC 0,128,0>Amuleto del portal<END FC>.<E>",
-    "description": "SphinxText.xls, row 1745"
+    "message": "Todavía quedan algunos bichos. Tienes que eliminar a todas las bestias para conseguir el <FC 0,128,0>Amuleto del portal<END FC>.<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedComplete": {
-    "message": "Perfecto. Ya no queda ninguna bestia. Bien hecho, amigo mío.<P>Toma el <FC 0,128,0>Amuleto del portal<END FC> que te prometí. Espero que le encuentres más uso que yo.<E>",
-    "description": "SphinxText.xls, row 1746"
+    "message": "Perfecto. Ya no queda ninguna bestia. Bien hecho, amigo mío.<P>Toma el <FC 0,128,0>Amuleto del portal<END FC> que te prometí. Espero que le encuentres más uso que yo.<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_GiveBothPiranha": {
-    "message": "También puedes quedarte con estas Pirañas que capturé. No las quiero.<E>",
-    "description": "SphinxText.xls, row 1747"
+    "message": "También puedes quedarte con estas Pirañas que capturé. No las quiero.<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_GiveOnePiranha": {
-    "message": "También puedes quedarte con esta Piraña que capturé. No la quiero.<E>",
-    "description": "SphinxText.xls, row 1748"
+    "message": "También puedes quedarte con esta Piraña que capturé. No la quiero.<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_CouncilChambers": {
-    "message": "Este pasaje conduce al <FC 128,64,0>Consistorio de Abydos<END FC>.<E>",
-    "description": "SphinxText.xls, row 1749"
+    "message": "Este pasaje conduce al <FC 128,64,0>Consistorio de Abydos<END FC>.<E>"
   },
   "HT_Text_Aby_Canal_Beggar_MoneyPrompt": {
-    "message": "¿Tienes algunos <FC 0,128,0>skarabs<END FC>, amigo?<N>  <B 1> No<N>  <B 2> Supongo. Toma <FC 0,128,0>2 skarabs<END FC><N>  <B 3> Claro. Toma <FC 0,128,0>10 skarabs<END FC><E>",
-    "description": "SphinxText.xls, row 1750"
+    "message": "¿Tienes algunos <FC 0,128,0>skarabs<END FC>, amigo?<N>  <B 1> No<N>  <B 2> Supongo. Toma <FC 0,128,0>2 skarabs<END FC><N>  <B 3> Claro. Toma <FC 0,128,0>10 skarabs<END FC><E>"
   },
   "HT_Text_Aby_Canal_Beggar_NoMoneyPrompt": {
-    "message": "Es suficiente, amigo mío. Me sentiría culpable si cogiese más <FC 0,128,0>skarabs<END FC>.<E>",
-    "description": "SphinxText.xls, row 1751"
+    "message": "Es suficiente, amigo mío. Me sentiría culpable si cogiese más <FC 0,128,0>skarabs<END FC>.<E>"
   },
   "HT_Text_Aby_Canal_Beggar_NotEnoughMoney": {
-    "message": "No tienes suficientes <FC 0,128,0>skarabs<END FC>, amigo. Quizás deberías buscar un umbral y unirte al gremio.<E>",
-    "description": "SphinxText.xls, row 1752"
+    "message": "No tienes suficientes <FC 0,128,0>skarabs<END FC>, amigo. Quizás deberías buscar un umbral y unirte al gremio.<E>"
   },
   "HT_Text_Aby_Canal_Beggar_GivenNone": {
-    "message": "Bien. Tú no sabes lo que es ser pobre. Tienes suerte.<E>",
-    "description": "SphinxText.xls, row 1753"
+    "message": "Bien. Tú no sabes lo que es ser pobre. Tienes suerte.<E>"
   },
   "HT_Text_Aby_Canal_Beggar_GivenMinimum": {
-    "message": "¡<FC 0,128,0>2 skarabs<END FC>! Puedo venderlos y comprar la casa de mis sueños.<P>Vale, vale. Agarrado, gruñón, tacaño...<E>",
-    "description": "SphinxText.xls, row 1754"
+    "message": "¡<FC 0,128,0>2 skarabs<END FC>! Puedo venderlos y comprar la casa de mis sueños.<P>Vale, vale. Agarrado, gruñón, tacaño...<E>"
   },
   "HT_Text_Aby_Canal_Beggar_GivenMaximum": {
-    "message": "¡Gracias amigo! Eres un hombre generoso, gracias.<E>",
-    "description": "SphinxText.xls, row 1755"
+    "message": "¡Gracias amigo! Eres un hombre generoso, gracias.<E>"
   },
   "HT_Text_Aby_Canal_Beggar_GivenMaximumAgain": {
-    "message": "¡Gracias! Si todo el mundo fuera como tú, no habría problemas en el mundo. Ni siquiera estaría aquí sentado.<E>",
-    "description": "SphinxText.xls, row 1756"
+    "message": "¡Gracias! Si todo el mundo fuera como tú, no habría problemas en el mundo. Ni siquiera estaría aquí sentado.<E>"
   },
   "HT_Text_Aby_Canal_Beggar_GivenMaximumReward": {
-    "message": "Vaya. Qué buen samaritano. Eres tan generoso que me gustaría darte algo a cambio.<P>Encontré esto en una de las cloacas el otro día. Mejor no me preguntes qué hacía allí, ¡no querrías saberlo!<P>Es todo lo que tengo, pero quiero que te lo quedes.<E>",
-    "description": "SphinxText.xls, row 1757"
+    "message": "Vaya. Qué buen samaritano. Eres tan generoso que me gustaría darte algo a cambio.<P>Encontré esto en una de las cloacas el otro día. Mejor no me preguntes qué hacía allí, ¡no querrías saberlo!<P>Es todo lo que tengo, pero quiero que te lo quedes.<E>"
   },
   "HT_Text_Aby_Canal_Inventor_GoAway01": {
-    "message": "¿No sabes leer? ¡No se admiten visitantes!<E>",
-    "description": "SphinxText.xls, row 1758"
+    "message": "¿No sabes leer? ¡No se admiten visitantes!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_GoAway02": {
-    "message": "No estás en cita de negocios, así que fuera.<E>",
-    "description": "SphinxText.xls, row 1759"
+    "message": "No estás en cita de negocios, así que fuera.<E>"
   },
   "HT_Text_Aby_Canal_Inventor_GoAway03": {
-    "message": "¡Deja de llamar! ¡Únicamente visitas de negocios!<E>",
-    "description": "SphinxText.xls, row 1760"
+    "message": "¡Deja de llamar! ¡Únicamente visitas de negocios!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Prompt01": {
-    "message": "¡Al fin una persona autorizada! ¿Esa nota es para mí?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1761"
+    "message": "¡Al fin una persona autorizada! ¿Esa nota es para mí?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Prompt02": {
-    "message": "¿Esa nota es para mí?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1762"
+    "message": "¿Esa nota es para mí?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Accept01": {
-    "message": "Ah, ¡excelente! Veamos.<P>¡Por todos los dioses! ¡Qué malas noticias! ¿<FC 0,128,0>Hierbas medicinales<END FC>?<P>Crecen alrededor de <FC 128,64,0>Abydos<END FC>, pero son muy delicadas y perecen enseguida tras ser recogidas.<P>Necesitas una <FC 0,128,0>Bolsa medicinal<END FC> para conservarlas. Me temo que no tengo nada de eso en mi taller.<P>Esto es lo único que tengo en estos momentos y que podría ser de tu interés. No estoy seguro de su uso, quizás podrías ilustrarme sobre ese aspecto.<E>",
-    "description": "SphinxText.xls, row 1763"
+    "message": "Ah, ¡excelente! Veamos.<P>¡Por todos los dioses! ¡Qué malas noticias! ¿<FC 0,128,0>Hierbas medicinales<END FC>?<P>Crecen alrededor de <FC 128,64,0>Abydos<END FC>, pero son muy delicadas y perecen enseguida tras ser recogidas.<P>Necesitas una <FC 0,128,0>Bolsa medicinal<END FC> para conservarlas. Me temo que no tengo nada de eso en mi taller.<P>Esto es lo único que tengo en estos momentos y que podría ser de tu interés. No estoy seguro de su uso, quizás podrías ilustrarme sobre ese aspecto.<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Decline01": {
-    "message": "¡No! ¡Creo que estás mintiendo!<E>",
-    "description": "SphinxText.xls, row 1764"
+    "message": "¡No! ¡Creo que estás mintiendo!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_MedicineBag01": {
-    "message": "Saludos, extraño. ¿Qué es eso que tienes ahí?<P>¿Una <FC 0,128,0>Bolsa medicinal<END FC>? Muy interesante. Parece útil para conservar las <FC 0,128,0>Hierbas medicinales<END FC> que necesitas.<P>No pierdas más tiempo hablando conmigo y busca las hierbas para el Gobernador.<E>",
-    "description": "SphinxText.xls, row 1765"
+    "message": "Saludos, extraño. ¿Qué es eso que tienes ahí?<P>¿Una <FC 0,128,0>Bolsa medicinal<END FC>? Muy interesante. Parece útil para conservar las <FC 0,128,0>Hierbas medicinales<END FC> que necesitas.<P>No pierdas más tiempo hablando conmigo y busca las hierbas para el Gobernador.<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Herbs01": {
-    "message": "¿Todavía no has encontrado ninguna hierba? ¡Date prisa antes de que sea demasiado tarde!<E>",
-    "description": "SphinxText.xls, row 1766"
+    "message": "¿Todavía no has encontrado ninguna hierba? ¡Date prisa antes de que sea demasiado tarde!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Herbs02": {
-    "message": "Muy bien, has encontrado algunas hierbas. ¡Encuentra las que faltan antes de que sea tarde!<E>",
-    "description": "SphinxText.xls, row 1767"
+    "message": "Muy bien, has encontrado algunas hierbas. ¡Encuentra las que faltan antes de que sea tarde!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Herbs03": {
-    "message": "Excelente, tienes todas las hierbas. ¿Qué haces hablando conmigo? ¡Regresa al <FC 128,64,0>Consistorio<END FC> de inmediato!<E>",
-    "description": "SphinxText.xls, row 1768"
+    "message": "Excelente, tienes todas las hierbas. ¿Qué haces hablando conmigo? ¡Regresa al <FC 128,64,0>Consistorio<END FC> de inmediato!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Done01": {
-    "message": "¡Hola de nuevo! Has salvado al Gobernador, fantástico trabajo. Los ciudadanos de <FC 128,64,0>Abydos<END FC> están en deuda contigo.<E>",
-    "description": "SphinxText.xls, row 1769"
+    "message": "¡Hola de nuevo! Has salvado al Gobernador, fantástico trabajo. Los ciudadanos de <FC 128,64,0>Abydos<END FC> están en deuda contigo.<E>"
   },
   "HT_Text_Aby_Canal_Help_CanalCleared": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Esa es la última de las criaturas<N>que poblaban el <FC 128,64,0>Pequeño canal<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Ve a informar a la guardia de<N>Abydos y reclama la recompensa.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1770"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Esa es la última de las criaturas<N>que poblaban el <FC 128,64,0>Pequeño canal<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Ve a informar a la guardia de<N>Abydos y reclama la recompensa.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_Help_GotHerbGood": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes una <FC 0,128,0>Hierba medicinal<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>En la <FC 0,128,0>Bolsa medicinal<END FC> se conservará bien.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1771"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes una <FC 0,128,0>Hierba medicinal<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>En la <FC 0,128,0>Bolsa medicinal<END FC> se conservará bien.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_Help_GotHerbBad": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes una <FC 0,128,0>Hierba medicinal<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Pero se ha secado y ha muerto casi de inmediato.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1772"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes una <FC 0,128,0>Hierba medicinal<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Pero se ha secado y ha muerto casi de inmediato.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_Help_GotAnkhPiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes un <FC 0,128,0>trozo de Ankh de oro<END FC>!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 1773"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes un <FC 0,128,0>trozo de Ankh de oro<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Aby_Cana_StairsDoorLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Usa una <FC 0,128,0>Llave<END FC> para abrir esta puerta.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1774"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Usa una <FC 0,128,0>Llave<END FC> para abrir esta puerta.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Cana_Help_FoundPearl": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes una <FC 0,128,0>Perla de Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1775"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes una <FC 0,128,0>Perla de Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_Key_01": {
-    "message": "Sí, ya van tres <FC 0,128,0>Perlas de Abydos<END FC>. ¡Gracias!<P>Creo que llevaré a mi mujer a ver la colección de joyas del museo. Le encantará llevar el collar para la ocasión.<E>",
-    "description": "SphinxText.xls, row 1776"
+    "message": "Sí, ya van tres <FC 0,128,0>Perlas de Abydos<END FC>. ¡Gracias!<P>Creo que llevaré a mi mujer a ver la colección de joyas del museo. Le encantará llevar el collar para la ocasión.<E>"
   },
   "HT_Text_Aby_Canal_Key_02": {
-    "message": "Puedes utilizar esta llave para abrir la puerta de la pasarela superior.<E>",
-    "description": "SphinxText.xls, row 1777"
+    "message": "Puedes utilizar esta llave para abrir la puerta de la pasarela superior.<E>"
   },
   "HT_Text_Aby_Generic": {
-    "message": "No tengo tiempo para hablar con gente como tú.<E>",
-    "description": "SphinxText.xls, row 1778"
+    "message": "No tengo tiempo para hablar con gente como tú.<E>"
   },
   "HT_Text_Aby_Canal_WellNPC1_A": {
-    "message": "Este juglar es un genio, ¿no es cierto? Un poco loco, pero aún así un genio.<P>A mi hermana le gustaría ver esto.<E>",
-    "description": "SphinxText.xls, row 1779"
+    "message": "Este juglar es un genio, ¿no es cierto? Un poco loco, pero aún así un genio.<P>A mi hermana le gustaría ver esto.<E>"
   },
   "HT_Text_Aby_Canal_WellNPC1_B": {
-    "message": "Pareces un aventurero. Cuando era joven solían gustarme las historias de aventureros.<E>",
-    "description": "SphinxText.xls, row 1780"
+    "message": "Pareces un aventurero. Cuando era joven solían gustarme las historias de aventureros.<E>"
   },
   "HT_Text_Aby_Canal_WellNPC1_C": {
-    "message": "¿Has visitado el gran <FC 128,64,0>Museo de Abydos<END FC>? Es un lugar fascinante.<E> ",
-    "description": "SphinxText.xls, row 1781"
+    "message": "¿Has visitado el gran <FC 128,64,0>Museo de Abydos<END FC>? Es un lugar fascinante.<E> "
   },
   "HT_Text_Aby_Canal_WellNPC2_A": {
-    "message": "¿Qué pasa con todos estos monstruos y el agua electrificada? ¿Crees que nos están atacando? <FC 128,64,0>Abydos<END FC> es una ciudad tranquila.<E>",
-    "description": "SphinxText.xls, row 1782"
+    "message": "¿Qué pasa con todos estos monstruos y el agua electrificada? ¿Crees que nos están atacando? <FC 128,64,0>Abydos<END FC> es una ciudad tranquila.<E>"
   },
   "HT_Text_Aby_Canal_WellNPC2_B": {
-    "message": "¿Cuándo resolverá el Gobernador el problema de los monstruos y el agua electrificada?<E>",
-    "description": "SphinxText.xls, row 1783"
+    "message": "¿Cuándo resolverá el Gobernador el problema de los monstruos y el agua electrificada?<E>"
   },
   "HT_Text_Aby_Canal_WellNPC2_C": {
-    "message": "El negocio va algo mal estos días. La gente está muy asustada.<E>",
-    "description": "SphinxText.xls, row 1784"
+    "message": "El negocio va algo mal estos días. La gente está muy asustada.<E>"
   },
   "HT_Text_Aby_Canal_WellNPC3_A": {
-    "message": "¿Qué significará la aparición de estos monstruos y el agua electrificada?<E>",
-    "description": "SphinxText.xls, row 1785"
+    "message": "¿Qué significará la aparición de estos monstruos y el agua electrificada?<E>"
   },
   "HT_Text_Aby_Canal_WellNPC3_B": {
-    "message": "¿Tú no eres de por aquí, verdad? <FC 128,64,0>Abydos<END FC> siempre está mucho más concurrida, pero los monstruos y el agua electrificada han asustado a la gente.<E>",
-    "description": "SphinxText.xls, row 1786"
+    "message": "¿Tú no eres de por aquí, verdad? <FC 128,64,0>Abydos<END FC> siempre está mucho más concurrida, pero los monstruos y el agua electrificada han asustado a la gente.<E>"
   },
   "HT_Text_Aby_Canal_WellNPC3_C": {
-    "message": "Creo que el Gobernador debería convertir a este hombre en animador oficial. Ojalá lo viera mi hermana.<E>",
-    "description": "SphinxText.xls, row 1787"
+    "message": "Creo que el Gobernador debería convertir a este hombre en animador oficial. Ojalá lo viera mi hermana.<E>"
   },
   "HT_Text_Aby_Canal_PearlMan_A": {
-    "message": "¡Gracias de nuevo por tu ayuda! El collar es perfecto. Mi esposa no notará la diferencia.<E>",
-    "description": "SphinxText.xls, row 1788"
+    "message": "¡Gracias de nuevo por tu ayuda! El collar es perfecto. Mi esposa no notará la diferencia.<E>"
   },
   "HT_Text_Aby_Canal_PearlMan_B": {
-    "message": "Mi esposa cree que el agua electrificada es parte de una trama contra el Gobernador.<E>",
-    "description": "SphinxText.xls, row 1789"
+    "message": "Mi esposa cree que el agua electrificada es parte de una trama contra el Gobernador.<E>"
   },
   "HT_Text_Aby_Canal_PearlMan_C": {
-    "message": "¿Todavía no has visitado nuestra bella ciudad? Hay muchas cosas que puedes hacer.<E>",
-    "description": "SphinxText.xls, row 1790"
+    "message": "¿Todavía no has visitado nuestra bella ciudad? Hay muchas cosas que puedes hacer.<E>"
   },
   "HT_Text_Aby_Canal_ZipHint01": {
-    "message": "Si tuvieras un <FC 0,128,0>Deslizador<END FC>, podrías utilizar todo el cableado de <FC 128,64,0>Abydos<END FC>.<P>He oído que el museo estaba regalando uno a quien donara un monstruo a la colección.<E>",
-    "description": "SphinxText.xls, row 1791"
+    "message": "Si tuvieras un <FC 0,128,0>Deslizador<END FC>, podrías utilizar todo el cableado de <FC 128,64,0>Abydos<END FC>.<P>He oído que el museo estaba regalando uno a quien donara un monstruo a la colección.<E>"
   },
   "HT_Text_Aby_Canal_ZipHint02": {
-    "message": "Si quieres irte de <FC 128,64,0>Abydos<END FC>, necesitas un <FC 0,128,0>Deslizador<END FC> para poder llegar al barquero.<E>",
-    "description": "SphinxText.xls, row 1792"
+    "message": "Si quieres irte de <FC 128,64,0>Abydos<END FC>, necesitas un <FC 0,128,0>Deslizador<END FC> para poder llegar al barquero.<E>"
   },
   "HT_Text_Aby_Canal_ZipHint03": {
-    "message": "Entiendo que la gente que done monstruos reciba un <FC 0,128,0>Deslizador<END FC> para utilizar el cableado de <FC 128,64,0>Abydos<END FC>.<E>",
-    "description": "SphinxText.xls, row 1793"
+    "message": "Entiendo que la gente que done monstruos reciba un <FC 0,128,0>Deslizador<END FC> para utilizar el cableado de <FC 128,64,0>Abydos<END FC>.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Ramble": {
-    "message": "Compré este Lagarto bobo a un hombre llamado Jek. Dijo que era muy valioso, pero creo que mintió.<P>¡Es un inútil! He intentado adiestrarlo para coger cosas y hacer gracias, pero nada.<P>Jamás impresionaré a mi novia con esto.<P>Ojalá pudiera encontrar algo que la impresionara.<E>",
-    "description": "SphinxText.xls, row 1794"
+    "message": "Compré este Lagarto bobo a un hombre llamado Jek. Dijo que era muy valioso, pero creo que mintió.<P>¡Es un inútil! He intentado adiestrarlo para coger cosas y hacer gracias, pero nada.<P>Jamás impresionaré a mi novia con esto.<P>Ojalá pudiera encontrar algo que la impresionara.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_GotMedal": {
-    "message": "¡Eh! ¿Eso es una medalla? ¡Oh!<P>Si consigues las cuatro, te las cambio por este inút..., digo, valioso lagarto.<P>¿Qué me dices?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1795"
+    "message": "¡Eh! ¿Eso es una medalla? ¡Oh!<P>Si consigues las cuatro, te las cambio por este inút..., digo, valioso lagarto.<P>¿Qué me dices?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_GotMedals": {
-    "message": "¡Eh! ¿Eso son medallas? ¡Oh!<P>Si consigues las cuatro, te las cambio por este inút..., digo, valioso lagarto.<P>¿Qué me dices?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1796"
+    "message": "¡Eh! ¿Eso son medallas? ¡Oh!<P>Si consigues las cuatro, te las cambio por este inút..., digo, valioso lagarto.<P>¿Qué me dices?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_ItsADeal": {
-    "message": "¡Perfecto! Vuelve cuando las tengas todas.<E>",
-    "description": "SphinxText.xls, row 1797"
+    "message": "¡Perfecto! Vuelve cuando las tengas todas.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_NoDeal": {
-    "message": "¿Estás seguro? Mira lo verde y... lagartona que es esta criatura. ¿No? Bueno, la oferta sigue en pie.<E>",
-    "description": "SphinxText.xls, row 1798"
+    "message": "¿Estás seguro? Mira lo verde y... lagartona que es esta criatura. ¿No? Bueno, la oferta sigue en pie.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_AskDeal": {
-    "message": "¿Ya has cambiado de idea? ¿Deseas cambiar todas las medallas por el lagarto?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1799"
+    "message": "¿Ya has cambiado de idea? ¿Deseas cambiar todas las medallas por el lagarto?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_NotGotAll": {
-    "message": "¿Todavía no las tienes? Bien. Cuando las tengas todas, ven a verme.<E>",
-    "description": "SphinxText.xls, row 1800"
+    "message": "¿Todavía no las tienes? Bien. Cuando las tengas todas, ven a verme.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_DoDeal": {
-    "message": "¡Ya las tienes todas! ¡Oh! ¿Quieres cambiarlas ya?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1801"
+    "message": "¡Ya las tienes todas! ¡Oh! ¿Quieres cambiarlas ya?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_NotYet": {
-    "message": "¿Todavía no? Entonces, cuando estés dispuesto, vuelves y me avisas.<E>",
-    "description": "SphinxText.xls, row 1802"
+    "message": "¿Todavía no? Entonces, cuando estés dispuesto, vuelves y me avisas.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Swapped": {
-    "message": "¡Excelente! ¡Mi novia se va a quedar de piedra!<E>",
-    "description": "SphinxText.xls, row 1803"
+    "message": "¡Excelente! ¡Mi novia se va a quedar de piedra!<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished01": {
-    "message": "¡Menudas medallas! Mi novia quedará asombrada.<E>",
-    "description": "SphinxText.xls, row 1804"
+    "message": "¡Menudas medallas! Mi novia quedará asombrada.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished02": {
-    "message": "Creo que debería comprar una vitrina para las medallas.<E>",
-    "description": "SphinxText.xls, row 1805"
+    "message": "Creo que debería comprar una vitrina para las medallas.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished03": {
-    "message": "Me pregunto qué tal irá el museo tras el terrible robo.<E>",
-    "description": "SphinxText.xls, row 1806"
+    "message": "Me pregunto qué tal irá el museo tras el terrible robo.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction01": {
-    "message": "¡Vaya, vaya! ¡Un extraño! Quisiera saber cómo ha llegado hasta aquí.<E>",
-    "description": "SphinxText.xls, row 1807"
+    "message": "¡Vaya, vaya! ¡Un extraño! Quisiera saber cómo ha llegado hasta aquí.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction02": {
-    "message": "¡Cielos! No hay ningún barco en ese lado y tan solo un idiota intentaría nadar por aguas electrificadas.<E>",
-    "description": "SphinxText.xls, row 1808"
+    "message": "¡Cielos! No hay ningún barco en ese lado y tan solo un idiota intentaría nadar por aguas electrificadas.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction03": {
-    "message": "<FC 128,64,0>Abydos<END FC> era una ciudad próspera y tranquila, hasta que llegaron esas Anguilas eléctricas.<E>",
-    "description": "SphinxText.xls, row 1809"
+    "message": "<FC 128,64,0>Abydos<END FC> era una ciudad próspera y tranquila, hasta que llegaron esas Anguilas eléctricas.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction04": {
-    "message": "Nadie sabe de dónde provienen, pero sin duda alguna están hundiendo el prestigio de la ciudad.<E>",
-    "description": "SphinxText.xls, row 1810"
+    "message": "Nadie sabe de dónde provienen, pero sin duda alguna están hundiendo el prestigio de la ciudad.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Hint1": {
-    "message": "He oído que alguien ha tirado algo al pozo. Me pregunto qué será.<E>",
-    "description": "SphinxText.xls, row 1811"
+    "message": "He oído que alguien ha tirado algo al pozo. Me pregunto qué será.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Hint2": {
-    "message": "Las vasijas contienen a veces cosas interesantes.<E>",
-    "description": "SphinxText.xls, row 1812"
+    "message": "Las vasijas contienen a veces cosas interesantes.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor01": {
-    "message": "<EFF><EPO>¿Qué vamos a hacer? El Gobernador ha caído enfermo. Me pregunto qué le pasará.<P>Pronto no podrá soportar el peso de la <FC 0,128,0>Corona sagrada de Abydos<END FC>.<E>",
-    "description": "SphinxText.xls, row 1813"
+    "message": "<EFF><EPO>¿Qué vamos a hacer? El Gobernador ha caído enfermo. Me pregunto qué le pasará.<P>Pronto no podrá soportar el peso de la <FC 0,128,0>Corona sagrada de Abydos<END FC>.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor02": {
-    "message": "Monstruos, agua electrificada y ¡ahora el Gobernador! ¡Qué situación tan terrible!<E>",
-    "description": "SphinxText.xls, row 1814"
+    "message": "Monstruos, agua electrificada y ¡ahora el Gobernador! ¡Qué situación tan terrible!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor03": {
-    "message": "Si el Gobernador no se recupera pronto, ¿quién se hará cargo de la situación?<E>",
-    "description": "SphinxText.xls, row 1815"
+    "message": "Si el Gobernador no se recupera pronto, ¿quién se hará cargo de la situación?<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor04": {
-    "message": "Espero que el Doctor del Consistorio pueda ayudarle.<E>",
-    "description": "SphinxText.xls, row 1816"
+    "message": "Espero que el Doctor del Consistorio pueda ayudarle.<E>"
   },
   "HT_Text_Aby_Canal_Posh_MayorCured01": {
-    "message": "¿El Gobernador se ha recuperado? ¡Qué suerte!<E>",
-    "description": "SphinxText.xls, row 1817"
+    "message": "¿El Gobernador se ha recuperado? ¡Qué suerte!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Defeated01": {
-    "message": "¿Quién hubiera pensado que sus consejeros eran unos traidores?<E>",
-    "description": "SphinxText.xls, row 1818"
+    "message": "¿Quién hubiera pensado que sus consejeros eran unos traidores?<E>"
   },
   "HT_Text_Aby_Canal_Posh_Defeated02": {
-    "message": "Ahora que el Gobernador se ha librado de ellos, quizás limpie la ciudad.<E>",
-    "description": "SphinxText.xls, row 1819"
+    "message": "Ahora que el Gobernador se ha librado de ellos, quizás limpie la ciudad.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Defeated03": {
-    "message": "Creo que el Gobernador ha sido muy valiente.<E>",
-    "description": "SphinxText.xls, row 1820"
+    "message": "Creo que el Gobernador ha sido muy valiente.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block01": {
-    "message": "Lo siento, pero no se puede entrar al museo hasta que concluya la inauguración de la colección de joyas de <FC 128,64,0>Abydos<END FC>.<P>Volved más tarde, señor.<E>",
-    "description": "SphinxText.xls, row 1821"
+    "message": "Lo siento, pero no se puede entrar al museo hasta que concluya la inauguración de la colección de joyas de <FC 128,64,0>Abydos<END FC>.<P>Volved más tarde, señor.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block02": {
-    "message": "Lo siento, no podéis entrar al museo, señor.<E>",
-    "description": "SphinxText.xls, row 1822"
+    "message": "Lo siento, no podéis entrar al museo, señor.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block03": {
-    "message": "Señor, he dicho que no podéis entrar al museo.<P>Volved más tarde cuando se inaugure la exposición de joyas.<E>",
-    "description": "SphinxText.xls, row 1823"
+    "message": "Señor, he dicho que no podéis entrar al museo.<P>Volved más tarde cuando se inaugure la exposición de joyas.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open01": {
-    "message": "Disfrutad del museo, señor.<E>",
-    "description": "SphinxText.xls, row 1824"
+    "message": "Disfrutad del museo, señor.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open02": {
-    "message": "Pasad, señor.<E>",
-    "description": "SphinxText.xls, row 1825"
+    "message": "Pasad, señor.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open03": {
-    "message": "Que tenga un buen día.<E>",
-    "description": "SphinxText.xls, row 1826"
+    "message": "Que tenga un buen día.<E>"
   },
   "HT_Text_Aby_Canal_Juggler01": {
-    "message": "¡No me distraigas! ¡Se me han caído las bolas!<E>",
-    "description": "SphinxText.xls, row 1827"
+    "message": "¡No me distraigas! ¡Se me han caído las bolas!<E>"
   },
   "HT_Text_Aby_Canal_Juggler02": {
-    "message": "¡Deja de distraerme! ¡Siempre se me caen las bolas cuando me hablan!<E>",
-    "description": "SphinxText.xls, row 1828"
+    "message": "¡Deja de distraerme! ¡Siempre se me caen las bolas cuando me hablan!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan01": {
-    "message": "¡Mi esposa me matará si averigua que he perdido su collar de perlas! <P>Seguro que notará que al collar que le he comprado le faltan tres perlas.<P>Mira, si encuentras alguna <FC 0,128,0>Perla de Abydos<END FC>, avísame. <E>",
-    "description": "SphinxText.xls, row 1829"
+    "message": "¡Mi esposa me matará si averigua que he perdido su collar de perlas! <P>Seguro que notará que al collar que le he comprado le faltan tres perlas.<P>Mira, si encuentras alguna <FC 0,128,0>Perla de Abydos<END FC>, avísame. <E>"
   },
   "HT_Text_Aby_Canal_PearlMan02": {
-    "message": "¿Encontraste alguna <FC 0,128,0>Perla de Abydos<END FC>? ¿No? ¡Sigue buscando!<E>",
-    "description": "SphinxText.xls, row 1830"
+    "message": "¿Encontraste alguna <FC 0,128,0>Perla de Abydos<END FC>? ¿No? ¡Sigue buscando!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan03": {
-    "message": "¡Tienes una <FC 0,128,0>Perla de Abydos<END FC>! ¡Gracias! Dos más y me habré salvado.<E>",
-    "description": "SphinxText.xls, row 1831"
+    "message": "¡Tienes una <FC 0,128,0>Perla de Abydos<END FC>! ¡Gracias! Dos más y me habré salvado.<E>"
   },
   "HT_Text_Aby_Canal_PearlMan04": {
-    "message": "¿Otra <FC 0,128,0>Perla de Abydos<END FC>? ¡Muchísimas gracias! Pero necesito una más.<E>",
-    "description": "SphinxText.xls, row 1832"
+    "message": "¿Otra <FC 0,128,0>Perla de Abydos<END FC>? ¡Muchísimas gracias! Pero necesito una más.<E>"
   },
   "HT_Text_Aby_Canal_PearlMan05": {
-    "message": "¿Dos <FC 0,128,0>Perlas de Abydos<END FC>? ¡Gracias! ¡Muchas gracias! Pero todavía necesito una más.<E>",
-    "description": "SphinxText.xls, row 1833"
+    "message": "¿Dos <FC 0,128,0>Perlas de Abydos<END FC>? ¡Gracias! ¡Muchas gracias! Pero todavía necesito una más.<E>"
   },
   "HT_Text_Aby_Canal_PearlMan06": {
-    "message": "¿Has encontrado alguna otra <FC 0,128,0>Perla de Abydos<END FC>? ¿No?<E>",
-    "description": "SphinxText.xls, row 1834"
+    "message": "¿Has encontrado alguna otra <FC 0,128,0>Perla de Abydos<END FC>? ¿No?<E>"
   },
   "HT_Text_Aby_Canal_PearlMan07": {
-    "message": "Sí, ya van tres <FC 0,128,0>Perlas de Abydos<END FC>. ¡Gracias! Puedes utilizar esta llave para abrir la puerta de la pasarela superior.<P>Creo que llevaré a mi mujer a ver la colección de joyas del museo. Le encantará llevar el collar para la ocasión.<E>",
-    "description": "SphinxText.xls, row 1835"
+    "message": "Sí, ya van tres <FC 0,128,0>Perlas de Abydos<END FC>. ¡Gracias! Puedes utilizar esta llave para abrir la puerta de la pasarela superior.<P>Creo que llevaré a mi mujer a ver la colección de joyas del museo. Le encantará llevar el collar para la ocasión.<E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors1": {
-    "message": "No importa lo que sea, ¡no lo voy a comprar! <E>",
-    "description": "SphinxText.xls, row 1836"
+    "message": "No importa lo que sea, ¡no lo voy a comprar! <E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors2": {
-    "message": "Largo, ¡tengo trabajo! <E>",
-    "description": "SphinxText.xls, row 1837"
+    "message": "Largo, ¡tengo trabajo! <E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors3": {
-    "message": "Estoy cenando, ¡vuelve más tarde!.<E>",
-    "description": "SphinxText.xls, row 1838"
+    "message": "Estoy cenando, ¡vuelve más tarde!.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick1": {
-    "message": "Oooooooooh.<E>",
-    "description": "SphinxText.xls, row 1880"
+    "message": "Oooooooooh.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick2": {
-    "message": "Ahhhhhhhhh.<E>",
-    "description": "SphinxText.xls, row 1881"
+    "message": "Ahhhhhhhhh.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick3": {
-    "message": "Bluuuuurgh.<E>",
-    "description": "SphinxText.xls, row 1882"
+    "message": "Bluuuuurgh.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Recover": {
-    "message": "Me encuentro mucho mejor, gracias. Espera en las salas exteriores mientras recupero la fuerza y te recompensaré. <E>",
-    "description": "SphinxText.xls, row 1883"
+    "message": "Me encuentro mucho mejor, gracias. Espera en las salas exteriores mientras recupero la fuerza y te recompensaré. <E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved1": {
-    "message": "¡No puedo creer que mis consejeros me hayan traicionado!<E>",
-    "description": "SphinxText.xls, row 1884"
+    "message": "¡No puedo creer que mis consejeros me hayan traicionado!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved2": {
-    "message": "Resulta difícil encontrar buenos consejeros hoy en día.<E>",
-    "description": "SphinxText.xls, row 1885"
+    "message": "Resulta difícil encontrar buenos consejeros hoy en día.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted1": {
-    "message": "Es tan difícil encontrar consejeros leales.<E>",
-    "description": "SphinxText.xls, row 1889"
+    "message": "Es tan difícil encontrar consejeros leales.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted2": {
-    "message": "Ahora que la corona está a salvo y que estoy curado, podré ocuparme del problema del agua electrificada.<E>",
-    "description": "SphinxText.xls, row 1890"
+    "message": "Ahora que la corona está a salvo y que estoy curado, podré ocuparme del problema del agua electrificada.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted3": {
-    "message": "No sabía que hubiera una cueva subterránea bajo esa estatua. Quizás debamos examinar los planos de la ciudad para ver qué más oculta la ciudad.<E>",
-    "description": "SphinxText.xls, row 1891"
+    "message": "No sabía que hubiera una cueva subterránea bajo esa estatua. Quizás debamos examinar los planos de la ciudad para ver qué más oculta la ciudad.<E>"
   }
 }

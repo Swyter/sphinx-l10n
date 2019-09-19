@@ -1,58 +1,44 @@
 {
   "HT_Text_Aka_dng6_Iskha_Transform1a": {
-    "message": "J'admire ton entêtement à vouloir nous empêcher de voler la couronne.<E>",
-    "description": "SphinxText.xls, row 383"
+    "message": "J'admire ton entêtement à vouloir nous empêcher de voler la couronne.<E>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1b": {
-    "message": "Oui, nous avons électrisé l'eau, nous avons volé les bijoux du Musée et empoisonné le Maire.<E>",
-    "description": "SphinxText.xls, row 384"
+    "message": "Oui, nous avons électrisé l'eau, nous avons volé les bijoux du Musée et empoisonné le Maire.<E>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1c": {
-    "message": "Mais le jeu en valait la chandelle. Regarde ce magnifique objet que notre Seigneur obscur convoite avec tant de ferveur!<E>",
-    "description": "SphinxText.xls, row 385"
+    "message": "Mais le jeu en valait la chandelle. Regarde ce magnifique objet que notre Seigneur obscur convoite avec tant de ferveur!<E>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1d": {
-    "message": "<EFF><EPO>Anubis et ses sous-fifres comme toi sont de misérables insectes comparés à la gloire du grand dieu Seth!<P>Il a trompé la population de <FC 128,64,0>Louksor<END FC> et bientôt le <FC 128,64,0>Palais d'Uruk<END FC> jettera son ombre sur la Terre entière!<E>",
-    "description": "SphinxText.xls, row 386"
+    "message": "<EFF><EPO>Anubis et ses sous-fifres comme toi sont de misérables insectes comparés à la gloire du grand dieu Seth!<P>Il a trompé la population de <FC 128,64,0>Louksor<END FC> et bientôt le <FC 128,64,0>Palais d'Uruk<END FC> jettera son ombre sur la Terre entière!<E>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1e": {
-    "message": "Regarde son armée, si on peut appeler ça une armée! Hahaha! C'est tout ce qu'il a pu rassembler?! <E>",
-    "description": "SphinxText.xls, row 387"
+    "message": "Regarde son armée, si on peut appeler ça une armée! Hahaha! C'est tout ce qu'il a pu rassembler?! <E>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1e1": {
-    "message": "Affligeant! Hahaha!<W 90>",
-    "description": "SphinxText.xls, row 388"
+    "message": "Affligeant! Hahaha!<W 90>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1f": {
-    "message": "Misérable petite créature! Tu ne peux pas combattre l'apocalypse liée au destin de Seth! <E>",
-    "description": "SphinxText.xls, row 389"
+    "message": "Misérable petite créature! Tu ne peux pas combattre l'apocalypse liée au destin de Seth! <E>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1g": {
-    "message": "Tu ne seras pas là pour voir le pouvoir de sa couronne: tu vas mourir!<E>",
-    "description": "SphinxText.xls, row 390"
+    "message": "Tu ne seras pas là pour voir le pouvoir de sa couronne: tu vas mourir!<E>"
   },
   "HT_Text_Aka_dng6_Take_Crown_Osiris_presentation1a": {
-    "message": "Tu ne comprends pas le vrai pouvoir de la couronne.<E>",
-    "description": "SphinxText.xls, row 391"
+    "message": "Tu ne comprends pas le vrai pouvoir de la couronne.<E>"
   },
   "HT_Text_Aka_dng6_Take_Crown_Osiris_presentation1b": {
-    "message": "Tu t'es mis dans un sale pétrin en la volant.<E>",
-    "description": "SphinxText.xls, row 392"
+    "message": "Tu t'es mis dans un sale pétrin en la volant.<E>"
   },
   "HT_Text_Aka_dng6_Take_Crown_Osiris_presentation1c": {
-    "message": "Tu es soit fou, soit très courageux.<E>",
-    "description": "SphinxText.xls, row 393"
+    "message": "Tu es soit fou, soit très courageux.<E>"
   },
   "HT_Text_Aka_dng6_Take_Crown_Osiris_presentation1d": {
-    "message": "Serais-tu Celui de la Prophétie? Voyons un peu...<E>",
-    "description": "SphinxText.xls, row 394"
+    "message": "Serais-tu Celui de la Prophétie? Voyons un peu...<E>"
   },
   "HT_Text_Aka_dng6_Take_Crown_Osiris_presentation1e": {
-    "message": "Prends cet <FC 0,128,0>Ankh d'or<END FC> en signe de récompense.<P><ES HT_Text_ES_S_HelpText><CNTR>Cet artefact magique a augmenté ton capital-santé<N>de <FC 0,128,0>1 Ankh<END FC> et t'a rendu toute ta santé!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 395"
+    "message": "Prends cet <FC 0,128,0>Ankh d'or<END FC> en signe de récompense.<P><ES HT_Text_ES_S_HelpText><CNTR>Cet artefact magique a augmenté ton capital-santé<N>de <FC 0,128,0>1 Ankh<END FC> et t'a rendu toute ta santé!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aka_dng6_Iskha_Die": {
-    "message": "Tu ne peux pas maîtriser la puissance de Râ!<P>Tu... n'es... RIEN!<W 45>",
-    "description": "SphinxText.xls, row 403"
+    "message": "Tu ne peux pas maîtriser la puissance de Râ!<P>Tu... n'es... RIEN!<W 45>"
   }
 }

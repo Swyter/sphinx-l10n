@@ -1,438 +1,329 @@
 {
   "HT_Text_Mum_Test_SarcophagusLocked": {
-    "message": "<DHP><DP><ES HT_Text_ES_S_HelpText><N><CNTR>이 석관은 닫혀있다.<ES HT_Text_ES_S_HelpText><W 30>",
-    "description": "SphinxText.xls, row 422"
+    "message": "<DHP><DP><ES HT_Text_ES_S_HelpText><N><CNTR>이 석관은 닫혀있다.<ES HT_Text_ES_S_HelpText><W 30>"
   },
   "HT_Text_Mum_Eyei_UrukiteGoodbye01": {
-    "message": "이 지점을 넘어갈 수 없습니다. 너무 위험합니다. <E>",
-    "description": "SphinxText.xls, row 424"
+    "message": "이 지점을 넘어갈 수 없습니다. 너무 위험합니다. <E>"
   },
   "HT_Text_Mum_Eyei_UrukiteGoodbye02": {
-    "message": "행운을 빕니다. 저희 모두는 당신의 승리를 기대합니다.<W 90>",
-    "description": "SphinxText.xls, row 425"
+    "message": "행운을 빕니다. 저희 모두는 당신의 승리를 기대합니다.<W 90>"
   },
   "HT_Text_Mum_Eye_SetMummy_Encounter01": {
-    "message": "너! 네가 최근 나를 짜증나게 했던 놈이군!<E>",
-    "description": "SphinxText.xls, row 426"
+    "message": "너! 네가 최근 나를 짜증나게 했던 놈이군!<E>"
   },
   "HT_Text_Mum_Eye_SetMummy_Encounter02": {
-    "message": "광선을 멈출 대담함을 가지고 있다고! 네놈이 어떻게 했는지 어이가 없지만, 결말이 뻔히 보이는 군...<E>",
-    "description": "SphinxText.xls, row 427"
+    "message": "광선을 멈출 대담함을 가지고 있다고! 네놈이 어떻게 했는지 어이가 없지만, 결말이 뻔히 보이는 군...<E>"
   },
   "HT_Text_Mum_Eye_SetMummy_Encounter03": {
-    "message": "그는 이제 더 이상 문제를 일으키지 않을 것이다. 광선을 재 가동 시켜라!<E>",
-    "description": "SphinxText.xls, row 428"
+    "message": "그는 이제 더 이상 문제를 일으키지 않을 것이다. 광선을 재 가동 시켜라!<E>"
   },
   "HT_Text_Mum_Eye_SetMummy_Encounter04": {
-    "message": "주인님, 광선을 다시 가동시킬 수 있지만... 안돼! 이럴 수는 없어!<E>",
-    "description": "SphinxText.xls, row 429"
+    "message": "주인님, 광선을 다시 가동시킬 수 있지만... 안돼! 이럴 수는 없어!<E>"
   },
   "HT_Text_Mum_Eye_SetMummy_Encounter05": {
-    "message": "왕관이 사라졌다! 광선이 이전처럼 강력하지 않아!<E>",
-    "description": "SphinxText.xls, row 430"
+    "message": "왕관이 사라졌다! 광선이 이전처럼 강력하지 않아!<E>"
   },
   "HT_Text_Mum_Eye_SetMummy_Encounter06": {
-    "message": "문제 없어. 내가 해결책을 찾을 때까지 충분히 막을 것이다.<E>",
-    "description": "SphinxText.xls, row 431"
+    "message": "문제 없어. 내가 해결책을 찾을 때까지 충분히 막을 것이다.<E>"
   },
   "HT_Text_Mum_Sewr_Sarcophagus_Presentation01": {
-    "message": "나는 모든 석관의 왕이다. 나를 람세스라고 부르도록 하여라.<E>",
-    "description": "SphinxText.xls, row 433"
+    "message": "나는 모든 석관의 왕이다. 나를 람세스라고 부르도록 하여라.<E>"
   },
   "HT_Text_Mum_Sewr_Sarcophagus_Presentation02": {
-    "message": "내 주위에 있는 모든 횃불에 불을 켤 수 있으면, 고대의 유물 하나를 너에게 주도록 하겠다. <E>",
-    "description": "SphinxText.xls, row 434"
+    "message": "내 주위에 있는 모든 횃불에 불을 켤 수 있으면, 고대의 유물 하나를 너에게 주도록 하겠다. <E>"
   },
   "HT_Text_Mum_Sewr_Sarcophagus_Presentation03": {
-    "message": "하지만 조심해라, 불을 붙이기도 쉬운 것만큼 잘 꺼져버리기도 하니깐.<E>",
-    "description": "SphinxText.xls, row 435"
+    "message": "하지만 조심해라, 불을 붙이기도 쉬운 것만큼 잘 꺼져버리기도 하니깐.<E>"
   },
   "HT_Text_Mum_Sewr_Sarcophagus_Complete01": {
-    "message": "흠... 초심자에게 우연히 따르는 재수인가 보군... <E>",
-    "description": "SphinxText.xls, row 436"
+    "message": "흠... 초심자에게 우연히 따르는 재수인가 보군... <E>"
   },
   "HT_Text_Mum_Sewr_Sarcophagus_Complete02": {
-    "message": "어찌되었건, 내가 약속을 하였으니, 이것을 유용하게 쓰길 바란다! <W 90>",
-    "description": "SphinxText.xls, row 437"
+    "message": "어찌되었건, 내가 약속을 하였으니, 이것을 유용하게 쓰길 바란다! <W 90>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1a": {
-    "message": "아~~~!!!!!! 믿을 수 없어! 알지도 못하는 어린 녀석에게 당하다니! 마법 장치가 우리를 어둠의 성으로 돌려보내 버렸어!<E>",
-    "description": "SphinxText.xls, row 440"
+    "message": "아~~~!!!!!! 믿을 수 없어! 알지도 못하는 어린 녀석에게 당하다니! 마법 장치가 우리를 어둠의 성으로 돌려보내 버렸어!<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2a": {
-    "message": "흠.<E>",
-    "description": "SphinxText.xls, row 441"
+    "message": "흠.<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1b": {
-    "message": "그리고 이제 우리는 저 놈의 생명 에너지를 이용해 그의 모습으로도 변할 수도 없게 됐어요. 이제 우리에겐 더 이상 가치가 없습니다. 제 부하들을 시켜 그를 다른 시체들과 함께 썩어버리게 감옥으로 던져버리겠습니다.<E>",
-    "description": "SphinxText.xls, row 442"
+    "message": "그리고 이제 우리는 저 놈의 생명 에너지를 이용해 그의 모습으로도 변할 수도 없게 됐어요. 이제 우리에겐 더 이상 가치가 없습니다. 제 부하들을 시켜 그를 다른 시체들과 함께 썩어버리게 감옥으로 던져버리겠습니다.<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2b": {
-    "message": "그래, 안타깝게도 그로부터 <FC 0,128,0>납골단지들<END FC>을 모두 구하기 전에 의식이 중단되었다. 우리는 그를 복제하기 위해서 그의 생명 에너지를 사용할 수 없다.<E>",
-    "description": "SphinxText.xls, row 443"
+    "message": "그래, 안타깝게도 그로부터 <FC 0,128,0>납골단지들<END FC>을 모두 구하기 전에 의식이 중단되었다. 우리는 그를 복제하기 위해서 그의 생명 에너지를 사용할 수 없다.<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1c": {
-    "message": "<EFF><EPO>예기치 않았던 여행으로 인하여 워프 부적들을 분실한 것이 염려가 됩니다. 심각한 타격입니다...<P>이 부적들 없이는 우리의 목표들을 달성하기에는 예상보다 오래 걸릴 겁니다.<E>",
-    "description": "SphinxText.xls, row 444"
+    "message": "<EFF><EPO>예기치 않았던 여행으로 인하여 워프 부적들을 분실한 것이 염려가 됩니다. 심각한 타격입니다...<P>이 부적들 없이는 우리의 목표들을 달성하기에는 예상보다 오래 걸릴 겁니다.<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2c": {
-    "message": "그래 아마 일시적인 후퇴일지도, 그러나 패배라? 하! 모든 게 계획대로 진행 중이다. <E>",
-    "description": "SphinxText.xls, row 445"
+    "message": "그래 아마 일시적인 후퇴일지도, 그러나 패배라? 하! 모든 게 계획대로 진행 중이다. <E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1c1": {
-    "message": "주인님, 왜 그렇게 말씀하시는지요? <E>",
-    "description": "SphinxText.xls, row 446"
+    "message": "주인님, 왜 그렇게 말씀하시는지요? <E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2c1": {
-    "message": "<EFF><EPO>이제 그 투탕카멘이 제거되었으니, 나는 아크헨나덴의 모습으로 모두에게 투트가 사고로 죽었다고 설명할 것이다.<P>그러면 <FC 128,64,0>룩소르<END FC>에서 권력을 가지게 될 것이다. 나머지는 수월할 것이다. <E>",
-    "description": "SphinxText.xls, row 447"
+    "message": "<EFF><EPO>이제 그 투탕카멘이 제거되었으니, 나는 아크헨나덴의 모습으로 모두에게 투트가 사고로 죽었다고 설명할 것이다.<P>그러면 <FC 128,64,0>룩소르<END FC>에서 권력을 가지게 될 것이다. 나머지는 수월할 것이다. <E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1d": {
-    "message": "예! 그렇습니다! 누구도 당신이 그의 형제가 아니라고 감히 말할 수 없을 것입니다!<E>",
-    "description": "SphinxText.xls, row 448"
+    "message": "예! 그렇습니다! 누구도 당신이 그의 형제가 아니라고 감히 말할 수 없을 것입니다!<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2d": {
-    "message": "당연하지! 나의 변장술은 완벽하다.<E>",
-    "description": "SphinxText.xls, row 449"
+    "message": "당연하지! 나의 변장술은 완벽하다.<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2e": {
-    "message": "<EFF><EPO>의식을 방해한 그 어린 녀석... 누군지 알고 있다. 멍청하고 늙어빠진 마법사, 임호텝의 제자다.<P>패배로 보이는 것이 그의 미약한 정신을 더욱 혼란 시키는데 유용하겠지. 실제로 무슨 일이 벌이지고 있는 지 절대 모를 것이다. 그는 내가 거기 있었다는 것도 모르지!<E>",
-    "description": "SphinxText.xls, row 450"
+    "message": "<EFF><EPO>의식을 방해한 그 어린 녀석... 누군지 알고 있다. 멍청하고 늙어빠진 마법사, 임호텝의 제자다.<P>패배로 보이는 것이 그의 미약한 정신을 더욱 혼란 시키는데 유용하겠지. 실제로 무슨 일이 벌이지고 있는 지 절대 모를 것이다. 그는 내가 거기 있었다는 것도 모르지!<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1e": {
-    "message": "주인님, 과연 천재이십니다! <E>",
-    "description": "SphinxText.xls, row 451"
+    "message": "주인님, 과연 천재이십니다! <E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2f": {
-    "message": "우리는 당분간 조심해야 한다, 하지만 광선의 힘이 충분히 강해지면 그 누구도 우리를 막지 못할 것이고, 임호텝을 꺾는 것도 벌레를 죽이는 것만큼이나 쉬울 것이다. <E>",
-    "description": "SphinxText.xls, row 452"
+    "message": "우리는 당분간 조심해야 한다, 하지만 광선의 힘이 충분히 강해지면 그 누구도 우리를 막지 못할 것이고, 임호텝을 꺾는 것도 벌레를 죽이는 것만큼이나 쉬울 것이다. <E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2g": {
-    "message": "하하하하하! <W 90>",
-    "description": "SphinxText.xls, row 453"
+    "message": "하하하하하! <W 90>"
   },
   "HT_Text_Mum_Imp2_ShrinePromptTakeItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N>사당에서 그 물건을 가져가겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 455"
+    "message": "<ES HT_Text_ES_S_HelpText><N>사당에서 그 물건을 가져가겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>태양의 천문관 열쇠<END FC>를 구했다!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 456"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>태양의 천문관 열쇠<END FC>를 구했다!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>지구 천문관 열쇠<END FC>를 구했다!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 457"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>지구 천문관 열쇠<END FC>를 구했다!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey02a": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>지구 천문관 열쇠<END FC>를 구했다!<P><CNTR><ES HT_Text_ES_S_HelpText>이 물건은 중앙 홀안의<N>사당에 있던 것과 매우 흡사해 보인다...<E>",
-    "description": "SphinxText.xls, row 458"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>지구 천문관 열쇠<END FC>를 구했다!<P><CNTR><ES HT_Text_ES_S_HelpText>이 물건은 중앙 홀안의<N>사당에 있던 것과 매우 흡사해 보인다...<E>"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>달의 천문관 열쇠<END FC>를 구했다!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 459"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>달의 천문관 열쇠<END FC>를 구했다!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey03a": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>달의 천문관 열쇠<END FC>를 구했다!<P><CNTR><ES HT_Text_ES_S_HelpText>이 물건은 중앙 홀안의<N>사당에 있던 것과 매우 흡사해 보인다.<E>",
-    "description": "SphinxText.xls, row 460"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>달의 천문관 열쇠<END FC>를 구했다!<P><CNTR><ES HT_Text_ES_S_HelpText>이 물건은 중앙 홀안의<N>사당에 있던 것과 매우 흡사해 보인다.<E>"
   },
   "HT_Text_Mum_Imp2_Help_FoundKeyStone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>출구 열쇠<END FC>를 구했다!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 461"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>출구 열쇠<END FC>를 구했다!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_FoundImpulseKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>출구 열쇠<END FC>를 구했다!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 462"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>출구 열쇠<END FC>를 구했다!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_ElectricDevice": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이것은 일종의 전기 장치처럼 보인다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 463"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이것은 일종의 전기 장치처럼 보인다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_Furnace": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>가스 냄새가 심하게 난다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 464"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>가스 냄새가 심하게 난다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_ImpulseKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 문을 열려면<N><FC 0,128,0>열쇠<END FC>가 필요하다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 465"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 문을 열려면<N><FC 0,128,0>열쇠<END FC>가 필요하다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_SarcophagusHide": {
-    "message": "걱정말라구, 친구. 너는 나처럼 죽었다구. 전기에 다치지 않아. 유용하게 사용하려고 시도를 해보는 게 좋을 거야.<E>",
-    "description": "SphinxText.xls, row 466"
+    "message": "걱정말라구, 친구. 너는 나처럼 죽었다구. 전기에 다치지 않아. 유용하게 사용하려고 시도를 해보는 게 좋을 거야.<E>"
   },
   "HT_Text_Mum_Imp2_Help_SarcophagusHide1": {
-    "message": "하지만, 앞으로 전기를 피하고 싶으면, 내가 도와줄 수 있지. 내 근처에 있으면 <SB HT_Action_Enter>를 눌러라.<E>",
-    "description": "SphinxText.xls, row 467"
+    "message": "하지만, 앞으로 전기를 피하고 싶으면, 내가 도와줄 수 있지. 내 근처에 있으면 <SB HT_Action_Enter>를 눌러라.<E>"
   },
   "HT_Text_Mum_Imp2_Help_ElectricExpired": {
-    "message": "<ES HT_Text_ES_S_HelpText><DHP><DP><N><CNTR>미이라의 능력은 영원히 지속되지는 않는다. 화면상단의 막대에서<N>언제 그 능력이 끝나는지를 보여준다.<ES HT_Text_ES_S_HelpText><W 60>",
-    "description": "SphinxText.xls, row 468"
+    "message": "<ES HT_Text_ES_S_HelpText><DHP><DP><N><CNTR>미이라의 능력은 영원히 지속되지는 않는다. 화면상단의 막대에서<N>언제 그 능력이 끝나는지를 보여준다.<ES HT_Text_ES_S_HelpText><W 60>"
   },
   "HT_Text_Mum_Imp2_Help_ElectricLost": {
-    "message": "<ES HT_Text_ES_S_HelpText><DHP><DP><N><CNTR>전기는 물에 닿으면 없어진다.<ES HT_Text_ES_S_HelpText><W 60>",
-    "description": "SphinxText.xls, row 469"
+    "message": "<ES HT_Text_ES_S_HelpText><DHP><DP><N><CNTR>전기는 물에 닿으면 없어진다.<ES HT_Text_ES_S_HelpText><W 60>"
   },
   "HT_Text_Mum_Imp2_Help_Pushable": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이러한 원통형 물건들은 어떤 방향으로든지 밀고 당길 수 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>물건 근처에 가서 <SB HT_Action_Grab>를 눌러라...<P><ES HT_Text_ES_S_HelpText><N><CNTR>... 그리고 당기거나 밀려면 <SB HT_PadAction_PLR_MovePlr>를 사용하라.<E>",
-    "description": "SphinxText.xls, row 470"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이러한 원통형 물건들은 어떤 방향으로든지 밀고 당길 수 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>물건 근처에 가서 <SB HT_Action_Grab>를 눌러라...<P><ES HT_Text_ES_S_HelpText><N><CNTR>... 그리고 당기거나 밀려면 <SB HT_PadAction_PLR_MovePlr>를 사용하라.<E>"
   },
   "HT_Text_Mum_Imp2_Help_WallSneak": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>어떤 좁은 끝부분은 게걸음으로 건너갈 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>벽에 다가가서 <SB HT_Action_WallSneak>이 나타나면 누른다.<P><ES HT_Text_ES_S_HelpText><CNTR>벽에 기대어 서서 좌우로 움직이려면 <SB HT_PadAction_PLR_MovePlr>를 사용한다.<P><ES HT_Text_ES_S_HelpText><CNTR>벽에서 게걸음 모드에서 나오려면 <SB HT_Action_WallSneakExit>를 다시 누른다.<E>",
-    "description": "SphinxText.xls, row 471"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>어떤 좁은 끝부분은 게걸음으로 건너갈 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>벽에 다가가서 <SB HT_Action_WallSneak>이 나타나면 누른다.<P><ES HT_Text_ES_S_HelpText><CNTR>벽에 기대어 서서 좌우로 움직이려면 <SB HT_PadAction_PLR_MovePlr>를 사용한다.<P><ES HT_Text_ES_S_HelpText><CNTR>벽에서 게걸음 모드에서 나오려면 <SB HT_Action_WallSneakExit>를 다시 누른다.<E>"
   },
   "HT_Text_Mum_Imp2_Help_LowFence": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 문을 여는 다른 레버가<N>이 근처에 있음이 분명하다.<E>",
-    "description": "SphinxText.xls, row 472"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 문을 여는 다른 레버가<N>이 근처에 있음이 분명하다.<E>"
   },
   "HT_Text_Mum_Towr_Help_DoorLockedForever": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 문은 다른 쪽에서 잠겨서<N>열리지 않는다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 473"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 문은 다른 쪽에서 잠겨서<N>열리지 않는다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Towr_Help_Pushable": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이런 물건들은 앞뒤로 밀거나 당길 수 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>물건 근처에 가면 <SB HT_Action_Grab> 를 누르고...<P><ES HT_Text_ES_S_HelpText><N><CNTR>... 밀거나 당기려면 <SB HT_PadAction_PLR_MovePlr>를 사용한다.<E>",
-    "description": "SphinxText.xls, row 474"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이런 물건들은 앞뒤로 밀거나 당길 수 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR>물건 근처에 가면 <SB HT_Action_Grab> 를 누르고...<P><ES HT_Text_ES_S_HelpText><N><CNTR>... 밀거나 당기려면 <SB HT_PadAction_PLR_MovePlr>를 사용한다.<E>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation1": {
-    "message": "걱정하지마. 물지는 않을 테니까! <E>",
-    "description": "SphinxText.xls, row 476"
+    "message": "걱정하지마. 물지는 않을 테니까! <E>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation2": {
-    "message": "음... <W 60>",
-    "description": "SphinxText.xls, row 477"
+    "message": "음... <W 60>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation3": {
-    "message": "말도 제대로 못하는군! 미안하지만 너를 위한 <FC 0,128,0>납골단지<END FC>가 한 개밖에 없다. <E>",
-    "description": "SphinxText.xls, row 478"
+    "message": "말도 제대로 못하는군! 미안하지만 너를 위한 <FC 0,128,0>납골단지<END FC>가 한 개밖에 없다. <E>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation4": {
-    "message": "??? <W 60>",
-    "description": "SphinxText.xls, row 479"
+    "message": "??? <W 60>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation5": {
-    "message": "<EFF><EPO>내 소개를 하지. 나는 바스-켓이야. 가능한 모든 것을 말해주고 싶지만 시간이 별로 없어. 네가 마지막에 벌어졌던 일들을 기억하는 지 모르겠군.<P>네 생일날 일어난 반역. 네 형제가 거행했던 그 기괴하고 불길한 의식 말이야.<E>",
-    "description": "SphinxText.xls, row 480"
+    "message": "<EFF><EPO>내 소개를 하지. 나는 바스-켓이야. 가능한 모든 것을 말해주고 싶지만 시간이 별로 없어. 네가 마지막에 벌어졌던 일들을 기억하는 지 모르겠군.<P>네 생일날 일어난 반역. 네 형제가 거행했던 그 기괴하고 불길한 의식 말이야.<E>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation6": {
-    "message": "영웅 스핑크스가 의식을 중단시켰지. 그러나 단지들 중 하나만 회수할 수 있었어.<E>",
-    "description": "SphinxText.xls, row 481"
+    "message": "영웅 스핑크스가 의식을 중단시켰지. 그러나 단지들 중 하나만 회수할 수 있었어.<E>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation7": {
-    "message": "너에게 생명의 원소를 주지, 하지만 아직은 죽은 상태나 다름없어. 너를 원래 형태로 되돌려 놓으려면 나머지 <FC 0,128,0>납골단지들<END FC>이 필요할 거야.<E>",
-    "description": "SphinxText.xls, row 482"
+    "message": "너에게 생명의 원소를 주지, 하지만 아직은 죽은 상태나 다름없어. 너를 원래 형태로 되돌려 놓으려면 나머지 <FC 0,128,0>납골단지들<END FC>이 필요할 거야.<E>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation8": {
-    "message": "<EFF><EPO>너는 지금 <FC 128,64,0>우루크 성<END FC>에 있어. 자세한 내용을 설명할 시간은 없지만 나를 믿어...<P>... 이 버림받은 곳 깊숙이 있는 너의 유일한 희망은 우리를 돕는 것이고, 우리는 이 성의 비밀과 이 모든 일의 배후에 누가 있는지를 알아내야만 해.<P>너는 성을 조사해서 우리가 너를 다시 인간으로 만드는 것을 도울 수 있는 그 어떤 실마리 혹은 물건들을 찾아야만 해.<E>",
-    "description": "SphinxText.xls, row 483"
+    "message": "<EFF><EPO>너는 지금 <FC 128,64,0>우루크 성<END FC>에 있어. 자세한 내용을 설명할 시간은 없지만 나를 믿어...<P>... 이 버림받은 곳 깊숙이 있는 너의 유일한 희망은 우리를 돕는 것이고, 우리는 이 성의 비밀과 이 모든 일의 배후에 누가 있는지를 알아내야만 해.<P>너는 성을 조사해서 우리가 너를 다시 인간으로 만드는 것을 도울 수 있는 그 어떤 실마리 혹은 물건들을 찾아야만 해.<E>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation9": {
-    "message": "잘 있게나, 내 친구. 곧 다시 보게 될 거야. <W 90>",
-    "description": "SphinxText.xls, row 484"
+    "message": "잘 있게나, 내 친구. 곧 다시 보게 될 거야. <W 90>"
   },
   "HT_Text_Mum_Pala_Chap1_Menes_Assistants1": {
-    "message": "모든 함정들이 작동하고 있는지 확인하라. 이 성이 침입불가능하다는 것에 대해 조금의 의혹도 가지고 싶지 않다. 아비도스의 보석들은 보호되어야만 한다! <E>",
-    "description": "SphinxText.xls, row 485"
+    "message": "모든 함정들이 작동하고 있는지 확인하라. 이 성이 침입불가능하다는 것에 대해 조금의 의혹도 가지고 싶지 않다. 아비도스의 보석들은 보호되어야만 한다! <E>"
   },
   "HT_Text_Mum_Pala_Chap1_Menes_Assistants2": {
-    "message": "쥐 한 마리라도 성에 들어오려고 하면, 가루로 만들어 버려! <E>",
-    "description": "SphinxText.xls, row 486"
+    "message": "쥐 한 마리라도 성에 들어오려고 하면, 가루로 만들어 버려! <E>"
   },
   "HT_Text_Mum_Pala_Chap1_Menes_Assistants3": {
-    "message": "물론입니다, 주인님. <W 90>",
-    "description": "SphinxText.xls, row 487"
+    "message": "물론입니다, 주인님. <W 90>"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney1a": {
-    "message": "주인님! 성에 침입자가 있습니다! <FC 0,128,0>아비도스 보석들<END FC>의 일부가 사라졌습니다! <E>",
-    "description": "SphinxText.xls, row 488"
+    "message": "주인님! 성에 침입자가 있습니다! <FC 0,128,0>아비도스 보석들<END FC>의 일부가 사라졌습니다! <E>"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney2a": {
-    "message": "뭐라고?! 그건 불가능하다! 확실히 광선이 성을 보호하고 있지 않은가. <E>",
-    "description": "SphinxText.xls, row 489"
+    "message": "뭐라고?! 그건 불가능하다! 확실히 광선이 성을 보호하고 있지 않은가. <E>"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney1b": {
-    "message": "그래야 합니다만 그런 불가능한 일이! 어떤 자가 성으로 들어오는 길을 찾아낸 것 같습니다! <E>",
-    "description": "SphinxText.xls, row 490"
+    "message": "그래야 합니다만 그런 불가능한 일이! 어떤 자가 성으로 들어오는 길을 찾아낸 것 같습니다! <E>"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney2b": {
-    "message": "<EFF><EPO>흥, 아마도 <FC 128,64,0>우루크<END FC>의 옛 거주민이었던 우루크족의 한 명일 것이다. 염려할 것은 없겠지.<P>거의 모든 놈들을 제거했다. 하지만 놈들이 성을 어슬렁거리는 것은 막아야만 한다.<E>",
-    "description": "SphinxText.xls, row 491"
+    "message": "<EFF><EPO>흥, 아마도 <FC 128,64,0>우루크<END FC>의 옛 거주민이었던 우루크족의 한 명일 것이다. 염려할 것은 없겠지.<P>거의 모든 놈들을 제거했다. 하지만 놈들이 성을 어슬렁거리는 것은 막아야만 한다.<E>"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney1c": {
-    "message": "예, 주인님. 이미 필요한 대비를 해놓았습니다. 우루크족은 성에 있는 오래된 비밀통로를 이용하는 것 같습니다.<E>",
-    "description": "SphinxText.xls, row 492"
+    "message": "예, 주인님. 이미 필요한 대비를 해놓았습니다. 우루크족은 성에 있는 오래된 비밀통로를 이용하는 것 같습니다.<E>"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney1d": {
-    "message": "새로운 함정을 개발했습니다. 죄수들에게 시험을 해본 결과 매우 효과적이었습니다. 이 감시병과 함께 시범을 보이겠습니다.<E>",
-    "description": "SphinxText.xls, row 493"
+    "message": "새로운 함정을 개발했습니다. 죄수들에게 시험을 해본 결과 매우 효과적이었습니다. 이 감시병과 함께 시범을 보이겠습니다.<E>"
   },
   "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney2c": {
-    "message": "하하하... 훌륭하군! 메네스, 우리의 손님들을 마중하는 데 정말 정중한 방법이군. 내 기대를 저버리지 않는 군. 하하하! <E>",
-    "description": "SphinxText.xls, row 494"
+    "message": "하하하... 훌륭하군! 메네스, 우리의 손님들을 마중하는 데 정말 정중한 방법이군. 내 기대를 저버리지 않는 군. 하하하! <E>"
   },
   "HT_Text_Mum_Pala_Chap4_Menes_CadaverRoom1": {
-    "message": "흠... 여기는 아무 것도 없군. 아, 이 수백 개의 시체를 제외하고는... <E>",
-    "description": "SphinxText.xls, row 495"
+    "message": "흠... 여기는 아무 것도 없군. 아, 이 수백 개의 시체를 제외하고는... <E>"
   },
   "HT_Text_Mum_Pala_Chap4_Menes_CadaverRoom2": {
-    "message": "이 성의 모든 지역을 세밀히 점검하라. 세트님은 우리가 아직 침입자를 찾지 못하여 진노하셨다. 필요 시 우리는 쉬지 않고 추적 할 것이다! <E>",
-    "description": "SphinxText.xls, row 496"
+    "message": "이 성의 모든 지역을 세밀히 점검하라. 세트님은 우리가 아직 침입자를 찾지 못하여 진노하셨다. 필요 시 우리는 쉬지 않고 추적 할 것이다! <E>"
   },
   "HT_Text_Mum_Pala_Chap4_Menes_CadaverRoom3": {
-    "message": "시간낭비만을 하고 있다. 가자, 우리는 북측 건물로 향한다.<E>",
-    "description": "SphinxText.xls, row 497"
+    "message": "시간낭비만을 하고 있다. 가자, 우리는 북측 건물로 향한다.<E>"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_Presentation1": {
-    "message": "악!!! 괴물!!!! 굶어서 죽게 되는 줄 알았는데 훨씬 더 지독하군. 아!!<E>",
-    "description": "SphinxText.xls, row 498"
+    "message": "악!!! 괴물!!!! 굶어서 죽게 되는 줄 알았는데 훨씬 더 지독하군. 아!!<E>"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_Presentation2": {
-    "message": "물러가라, 이 괴물아!!! 세트가 나를 죽일 수 있지만 내 영혼을 갖지는 못한다!<E>",
-    "description": "SphinxText.xls, row 499"
+    "message": "물러가라, 이 괴물아!!! 세트가 나를 죽일 수 있지만 내 영혼을 갖지는 못한다!<E>"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage0": {
-    "message": "나를 내버려 두어라! 나를 죽이지 마! 아~~~!",
-    "description": "SphinxText.xls, row 500"
+    "message": "나를 내버려 두어라! 나를 죽이지 마! 아~~~!"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage1": {
-    "message": "뭐지? 나를 풀어주는 건가? 너는 누구지?<E>",
-    "description": "SphinxText.xls, row 501"
+    "message": "뭐지? 나를 풀어주는 건가? 너는 누구지?<E>"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage2": {
-    "message": "흠... 철장 밖에서는 그리 무서워 보이지 않는군... 왜 나를 돕는 거지?<E>",
-    "description": "SphinxText.xls, row 502"
+    "message": "흠... 철장 밖에서는 그리 무서워 보이지 않는군... 왜 나를 돕는 거지?<E>"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage3": {
-    "message": "내가 성의 보석들을 훔쳤다고 뒤집어 씌우고 있지만, 내가 그러지 않았다!<E>",
-    "description": "SphinxText.xls, row 503"
+    "message": "내가 성의 보석들을 훔쳤다고 뒤집어 씌우고 있지만, 내가 그러지 않았다!<E>"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage4": {
-    "message": "내 이름은 켄수다. 나는 우루크족 사람이다. 우리는 세트가 등장하기 전 이 지역의 원주민이었다. 지금의 우리는 몇 안 되는 숫자만이 남아서 이 성에서 살아가고 있다.<E>",
-    "description": "SphinxText.xls, row 504"
+    "message": "내 이름은 켄수다. 나는 우루크족 사람이다. 우리는 세트가 등장하기 전 이 지역의 원주민이었다. 지금의 우리는 몇 안 되는 숫자만이 남아서 이 성에서 살아가고 있다.<E>"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage5": {
-    "message": "지금까지는 우리가 이 지역을 잘 알기 때문에 세트와 그의 심복들을 피해왔었다. 하지만 그들의 숫자가 늘어나면서 우리의 시간도 곧 막바지에 도달할 것이다. <E>",
-    "description": "SphinxText.xls, row 505"
+    "message": "지금까지는 우리가 이 지역을 잘 알기 때문에 세트와 그의 심복들을 피해왔었다. 하지만 그들의 숫자가 늘어나면서 우리의 시간도 곧 막바지에 도달할 것이다. <E>"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage6": {
-    "message": "누군가 우리를 도와주지 않는다면, 결국에는 그가 우리를 모두 찾아낼 것이다...<E>",
-    "description": "SphinxText.xls, row 506"
+    "message": "누군가 우리를 도와주지 않는다면, 결국에는 그가 우리를 모두 찾아낼 것이다...<E>"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage7": {
-    "message": "어찌되었건 이 방에 계속 머무르면 안 된다. 세트의 파수병들은 교활하고, 언제 이곳에 나타날지 모른다.<E>",
-    "description": "SphinxText.xls, row 507"
+    "message": "어찌되었건 이 방에 계속 머무르면 안 된다. 세트의 파수병들은 교활하고, 언제 이곳에 나타날지 모른다.<E>"
   },
   "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage8": {
-    "message": "나와 같이 가자! 네가 이 방에서 탈출할 수 있도록 도와주겠다.<E>",
-    "description": "SphinxText.xls, row 508"
+    "message": "나와 같이 가자! 네가 이 방에서 탈출할 수 있도록 도와주겠다.<E>"
   },
   "HT_Text_Mum_pala_Chap2_Start_Basket01": {
-    "message": "다시 보게되서 반갑군, 친구! 약속했던 것처럼 두 번째 <FC 0,128,0>납골단지<END FC>를 가져왔어. 아주 건강해 보이는데!<E>",
-    "description": "SphinxText.xls, row 509"
+    "message": "다시 보게되서 반갑군, 친구! 약속했던 것처럼 두 번째 <FC 0,128,0>납골단지<END FC>를 가져왔어. 아주 건강해 보이는데!<E>"
   },
   "HT_Text_Mum_pala_Chap2_Start_Basket02": {
-    "message": "스핑크스가 네가 정말 관심이 있을 만한 것도 같이 보냈어...<E>",
-    "description": "SphinxText.xls, row 510"
+    "message": "스핑크스가 네가 정말 관심이 있을 만한 것도 같이 보냈어...<E>"
   },
   "HT_Text_Mum_pala_Chap2_Start_Basket03": {
-    "message": "... <FC 0,128,0>투명의 어두운 돌<END FC>. 이것은 마법의 유물로 네가 사용하면 너를 투명하게 만들지! <E>",
-    "description": "SphinxText.xls, row 511"
+    "message": "... <FC 0,128,0>투명의 어두운 돌<END FC>. 이것은 마법의 유물로 네가 사용하면 너를 투명하게 만들지! <E>"
   },
   "HT_Text_Mum_pala_Chap2_Start_Basket04": {
-    "message": "그러나, 이건 단점이 하나 있는데, 가만히 서있을 때만 사용할 수 있다. 걷기 시작하면 다시 모습이 드러나게 되지.<E>",
-    "description": "SphinxText.xls, row 512"
+    "message": "그러나, 이건 단점이 하나 있는데, 가만히 서있을 때만 사용할 수 있다. 걷기 시작하면 다시 모습이 드러나게 되지.<E>"
   },
   "HT_Text_Mum_pala_Chap2_Start_Basket05": {
-    "message": "<EFF><EPO>이 새 유물로 너는 이 악의 소굴의 더 많은 곳을 탐험하고 조사할 수 있을 거야. 우리는 가능한 빨리 이곳에서 무슨 일이 벌어지고 있는 지 알아내야 해.<P>행운을 빌어!<E>",
-    "description": "SphinxText.xls, row 513"
+    "message": "<EFF><EPO>이 새 유물로 너는 이 악의 소굴의 더 많은 곳을 탐험하고 조사할 수 있을 거야. 우리는 가능한 빨리 이곳에서 무슨 일이 벌어지고 있는 지 알아내야 해.<P>행운을 빌어!<E>"
   },
   "HT_Text_Mum_pala_Chap2_Start_Basket06": {
-    "message": "행운이 있기를! <W 90>",
-    "description": "SphinxText.xls, row 514"
+    "message": "행운이 있기를! <W 90>"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility1a": {
-    "message": "주인님, <FC 128,64,0>헬리오폴리스<END FC>에 있는 우리의 첩자가 스핑크스에 관한 보고를 위해 귀환하였습니다.<E>",
-    "description": "SphinxText.xls, row 515"
+    "message": "주인님, <FC 128,64,0>헬리오폴리스<END FC>에 있는 우리의 첩자가 스핑크스에 관한 보고를 위해 귀환하였습니다.<E>"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2a": {
-    "message": "훌륭하군! 우리의 새 동료, 호루스. 우리에게 무슨 소식을 가져왔는가?  <E>",
-    "description": "SphinxText.xls, row 516"
+    "message": "훌륭하군! 우리의 새 동료, 호루스. 우리에게 무슨 소식을 가져왔는가?  <E>"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility3a": {
-    "message": "주인님, 송구스럽습니다만 스핑크스가 아누비스와 접촉을 했다는 것을 알려드립니다.<E>",
-    "description": "SphinxText.xls, row 517"
+    "message": "주인님, 송구스럽습니다만 스핑크스가 아누비스와 접촉을 했다는 것을 알려드립니다.<E>"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2b": {
-    "message": "뭐라고? 그가 그렇게 멀리까지 가리라고는 예상하지 못했는데. 그 늙은 여우 같은 아누비스가 그에게 원하는 게 무엇인지 궁금하군...<E>",
-    "description": "SphinxText.xls, row 518"
+    "message": "뭐라고? 그가 그렇게 멀리까지 가리라고는 예상하지 못했는데. 그 늙은 여우 같은 아누비스가 그에게 원하는 게 무엇인지 궁금하군...<E>"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility1b": {
-    "message": "그러나, 상관없습니다. 그가 할 수 있는 일은 거의 없습니다. 제가 <FC 128,64,0>헬리오폴리스 지점<END FC>으로의 접근을 막기 위해 아툰의 마법 인장으로 잠궈버렸습니다.<E>",
-    "description": "SphinxText.xls, row 519"
+    "message": "그러나, 상관없습니다. 그가 할 수 있는 일은 거의 없습니다. 제가 <FC 128,64,0>헬리오폴리스 지점<END FC>으로의 접근을 막기 위해 아툰의 마법 인장으로 잠궈버렸습니다.<E>"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2c": {
-    "message": "훌륭하군! 그 인장은 파괴할 수 없다. 나의 힘으로도 충분하지 않을 것이다!<E>",
-    "description": "SphinxText.xls, row 520"
+    "message": "훌륭하군! 그 인장은 파괴할 수 없다. 나의 힘으로도 충분하지 않을 것이다!<E>"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility1c": {
-    "message": "그것을 만들기 위해 사용되었던 <FC 0,128,0>아툰 상<END FC>만이 그것을 부술 수 있고 이미 삼엄한 경비 속에 위층에 보관되어 있다.<E>",
-    "description": "SphinxText.xls, row 521"
+    "message": "그것을 만들기 위해 사용되었던 <FC 0,128,0>아툰 상<END FC>만이 그것을 부술 수 있고 이미 삼엄한 경비 속에 위층에 보관되어 있다.<E>"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility3b": {
-    "message": "인장은 필요 없을 것 같습니다. 저는 친절히 접근하는 것이 현명하다고 판단하여 그에게 작은 선물을 주었습니다. <FC 0,128,0>투명의 어두운 돌<END FC> 말 입니다.<E>",
-    "description": "SphinxText.xls, row 522"
+    "message": "인장은 필요 없을 것 같습니다. 저는 친절히 접근하는 것이 현명하다고 판단하여 그에게 작은 선물을 주었습니다. <FC 0,128,0>투명의 어두운 돌<END FC> 말 입니다.<E>"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility3c": {
-    "message": "그가 이것을 사용하면 가장 끔직하고 고통스러운 죽음을 당할 것입니다.<E>",
-    "description": "SphinxText.xls, row 523"
+    "message": "그가 이것을 사용하면 가장 끔직하고 고통스러운 죽음을 당할 것입니다.<E>"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2d": {
-    "message": "하하하하! 바보만이 그 돌을 사용할 것이야! <E>",
-    "description": "SphinxText.xls, row 524"
+    "message": "하하하하! 바보만이 그 돌을 사용할 것이야! <E>"
   },
   "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2e": {
-    "message": "호루스, 너의 간계에 내가 상을 내려주마. 아주 뛰어난 책략은 우리를 돕게 될 것이다.<E>",
-    "description": "SphinxText.xls, row 525"
+    "message": "호루스, 너의 간계에 내가 상을 내려주마. 아주 뛰어난 책략은 우리를 돕게 될 것이다.<E>"
   },
   "HT_Text_Mum_pala_Chap3_Basket1": {
-    "message": "<EFF><EPO>다시 만났군, 내 친구! 아, 그 <FC 0,128,0>납골단지<END FC>는 너의 볼에 생기를 돌게 하는 군!<P>시간을 더 낭비하지 말고, 성을 탐험하고 가능한 많이 알아내도록 해라!<P>행운을 빌어!<E> ",
-    "description": "SphinxText.xls, row 526"
+    "message": "<EFF><EPO>다시 만났군, 내 친구! 아, 그 <FC 0,128,0>납골단지<END FC>는 너의 볼에 생기를 돌게 하는 군!<P>시간을 더 낭비하지 말고, 성을 탐험하고 가능한 많이 알아내도록 해라!<P>행운을 빌어!<E> "
   },
   "HT_Text_Mum_pala_Chap4_Basket1": {
-    "message": "<EFF><EPO>오랜만이군, 내 친구! 또 다른 <FC 0,128,0>납골단지<END FC>가 안전하게 인도되었군. 얼마 안 가서 우리가 너를 옛 모습으로 돌릴 수 있다고 확신한다!<P>그때까지, 네가 우리에게 가능한 많은 유물들과 정보들을 입수해줘야만 된다.<P>지금까지 훌륭히 해오고 있고 앞으로도 잘 하기 바란다! 곧 다시 만나자!<E>",
-    "description": "SphinxText.xls, row 527"
+    "message": "<EFF><EPO>오랜만이군, 내 친구! 또 다른 <FC 0,128,0>납골단지<END FC>가 안전하게 인도되었군. 얼마 안 가서 우리가 너를 옛 모습으로 돌릴 수 있다고 확신한다!<P>그때까지, 네가 우리에게 가능한 많은 유물들과 정보들을 입수해줘야만 된다.<P>지금까지 훌륭히 해오고 있고 앞으로도 잘 하기 바란다! 곧 다시 만나자!<E>"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start01": {
-    "message": "안녕하십니까, 저는 우루크 족의 우두머리인 소베크입니다. 켄수가 당신이 그를 풀어주었다고 말해주었습니다. 대단하군요.<E>",
-    "description": "SphinxText.xls, row 528"
+    "message": "안녕하십니까, 저는 우루크 족의 우두머리인 소베크입니다. 켄수가 당신이 그를 풀어주었다고 말해주었습니다. 대단하군요.<E>"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start02": {
-    "message": "우리는 오랜 기간 동안 이 영웅이 누구인지, 누가 세트에 지속적으로 대항하고, 그의 보물들을 그의 성, 그의 면전에서 훔쳐냈는지를 알고 싶었습니다.<E>",
-    "description": "SphinxText.xls, row 529"
+    "message": "우리는 오랜 기간 동안 이 영웅이 누구인지, 누가 세트에 지속적으로 대항하고, 그의 보물들을 그의 성, 그의 면전에서 훔쳐냈는지를 알고 싶었습니다.<E>"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start03": {
-    "message": "당신은 우리 주민들의 진정한 영웅이며, 세트에게 도전할 생각을 할 수 있는 유일한 사람입니다. <E>",
-    "description": "SphinxText.xls, row 530"
+    "message": "당신은 우리 주민들의 진정한 영웅이며, 세트에게 도전할 생각을 할 수 있는 유일한 사람입니다. <E>"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start04": {
-    "message": "켄수는 또한 마법의 인물이 <FC 0,128,0>납골단지<END FC>로 당신에게 에너지를 주고 있다고 우리에게 말하였습니다. <E>",
-    "description": "SphinxText.xls, row 531"
+    "message": "켄수는 또한 마법의 인물이 <FC 0,128,0>납골단지<END FC>로 당신에게 에너지를 주고 있다고 우리에게 말하였습니다. <E>"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start05": {
-    "message": "우리는 성안의 방들 중 하나에서 이 잃어 버렸던 것을 찾았습니다. 지금까지는 이것의 용도를 이해하지 못했습니다.<E>",
-    "description": "SphinxText.xls, row 532"
+    "message": "우리는 성안의 방들 중 하나에서 이 잃어 버렸던 것을 찾았습니다. 지금까지는 이것의 용도를 이해하지 못했습니다.<E>"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start06": {
-    "message": "제발 우리를 도와주십시오. 우리 종족은 <FC 128,64,0>우루크<END FC>대륙만큼이나 오랜 역사를 가지고 있습니다. 지금은 세트가 여기에 와있고 우리는 그 야만스러운 짐승들에게 쫓기는 전리품일 뿐입니다. <E>",
-    "description": "SphinxText.xls, row 533"
+    "message": "제발 우리를 도와주십시오. 우리 종족은 <FC 128,64,0>우루크<END FC>대륙만큼이나 오랜 역사를 가지고 있습니다. 지금은 세트가 여기에 와있고 우리는 그 야만스러운 짐승들에게 쫓기는 전리품일 뿐입니다. <E>"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start07": {
-    "message": "우리는 세트의 힘의 근원을 알고 있습니다. 그는 그의 주력인 광선을 생성하기 위해 강력한 마법 장치를 사용합니다. <E>",
-    "description": "SphinxText.xls, row 534"
+    "message": "우리는 세트의 힘의 근원을 알고 있습니다. 그는 그의 주력인 광선을 생성하기 위해 강력한 마법 장치를 사용합니다. <E>"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start08": {
-    "message": "유감스럽게도, 이 일은 우루크족의 능력밖에 있지만, 당신이 그것을 비활성화 시킬 수 있다면, 세트는 그의 결정적인 강점인, 그의 주력을 잃게 될 것입니다. <E>",
-    "description": "SphinxText.xls, row 535"
+    "message": "유감스럽게도, 이 일은 우루크족의 능력밖에 있지만, 당신이 그것을 비활성화 시킬 수 있다면, 세트는 그의 결정적인 강점인, 그의 주력을 잃게 될 것입니다. <E>"
   },
   "HT_Text_Mum_pala_Chap6_Urukites_Start09": {
-    "message": "저희를 따라오시면 그곳을 보여드리겠습니다... <W 90>",
-    "description": "SphinxText.xls, row 536"
+    "message": "저희를 따라오시면 그곳을 보여드리겠습니다... <W 90>"
   }
 }

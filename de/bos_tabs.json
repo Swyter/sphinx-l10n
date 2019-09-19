@@ -1,30 +1,23 @@
 {
   "HT_Text_BOS_Tab_Artifacts": {
-    "message": "Artefakte",
-    "description": "SphinxText.xls, row 2523"
+    "message": "Artefakte"
   },
   "HT_Text_BOS_Tab_Notes": {
-    "message": "Notizen",
-    "description": "SphinxText.xls, row 2524"
+    "message": "Notizen"
   },
   "HT_Text_BOS_Tab_Monsters": {
-    "message": "Monster",
-    "description": "SphinxText.xls, row 2525"
+    "message": "Monster"
   },
   "HT_Text_BOS_Instructions": {
-    "message": "<FC 30,10,0>Mit <SB HT_PadAction_BOS_NavigateDPad> kannst du auf einer Seite navigieren,<N>mit <SB HT_PadAction_BOS_TABCycleLeft> und <SB HT_PadAction_BOS_TABCycleRight> umblättern<N>und mit <SB HT_PadAction_BOS_PageUp> durch lange Beschreibungen scrollen.",
-    "description": "SphinxText.xls, row 2526"
+    "message": "<FC 30,10,0>Mit <SB HT_PadAction_BOS_NavigateDPad> kannst du auf einer Seite navigieren,<N>mit <SB HT_PadAction_BOS_TABCycleLeft> und <SB HT_PadAction_BOS_TABCycleRight> umblättern<N>und mit <SB HT_PadAction_BOS_PageUp> durch lange Beschreibungen scrollen."
   },
   "HT_Text_BOS_NoNotes": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Im Moment hast du keine Notizen.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2527"
+    "message": "<ES HT_Text_ES_S_BOSStd>Im Moment hast du keine Notizen.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_NoAbilities": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Derzeit besitzt du keine Fähigkeiten.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2528"
+    "message": "<ES HT_Text_ES_S_BOSStd>Derzeit besitzt du keine Fähigkeiten.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_NoQuestItems": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Im Augenblick besitzt du keine Gegenstände, die für deine Aufgabe wichtig sind.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2529"
+    "message": "<ES HT_Text_ES_S_BOSStd>Im Augenblick besitzt du keine Gegenstände, die für deine Aufgabe wichtig sind.<ES HT_Text_ES_E_BOSStd>"
   }
 }

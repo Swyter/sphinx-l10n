@@ -1,18 +1,14 @@
 {
   "HT_Text_BOS_Arti_Artifacts": {
-    "message": "기술 아이템",
-    "description": "SphinxText.xls, row 2532"
+    "message": "기술 아이템"
   },
   "HT_Text_BOS_Arti_Quest": {
-    "message": "모험 아이템",
-    "description": "SphinxText.xls, row 2533"
+    "message": "모험 아이템"
   },
   "HT_Text_BOS_Arti_Monsters": {
-    "message": "괴물 아이템",
-    "description": "SphinxText.xls, row 2534"
+    "message": "괴물 아이템"
   },
   "HT_Text_BOS_Arti_GotNoItems": {
-    "message": "<ES HT_Text_ES_S_BOSStd>이 종류의 아이템들은 현재 하나도 없다.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2535"
+    "message": "<ES HT_Text_ES_S_BOSStd>이 종류의 아이템들은 현재 하나도 없다.<ES HT_Text_ES_E_BOSStd>"
   }
 }

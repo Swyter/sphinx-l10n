@@ -1,42 +1,32 @@
 {
   "HT_Text_BOS_Monster_CapturedMonsters": {
-    "message": "Monstruos",
-    "description": "SphinxText.xls, row 2622"
+    "message": "Monstruos"
   },
   "HT_Text_BOS_Monster_Moves": {
-    "message": "Movimientos",
-    "description": "SphinxText.xls, row 2623"
+    "message": "Movimientos"
   },
   "HT_Text_BOS_Monster_Health": {
-    "message": "Salud",
-    "description": "SphinxText.xls, row 2624"
+    "message": "Salud"
   },
   "HT_Text_BOS_Monster_AttackRating": {
-    "message": "Nivel de ataque",
-    "description": "SphinxText.xls, row 2625"
+    "message": "Nivel de ataque"
   },
   "HT_Text_BOS_Monster_DefenceRating": {
-    "message": "Nivel de defensa",
-    "description": "SphinxText.xls, row 2626"
+    "message": "Nivel de defensa"
   },
   "HT_Text_BOS_Monster_DR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Cuanto mejor sea el nivel de defensa del monstruo, mejor resistirá el ataque durante la batalla.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2627"
+    "message": "<ES HT_Text_ES_S_BOSStd>Cuanto mejor sea el nivel de defensa del monstruo, mejor resistirá el ataque durante la batalla.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_AR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Cuanto mejor sea el nivel de ataque del monstruo, mayor será el daño que infligirá a sus oponentes.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2628"
+    "message": "<ES HT_Text_ES_S_BOSStd>Cuanto mejor sea el nivel de ataque del monstruo, mayor será el daño que infligirá a sus oponentes.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_Health_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Esta es la salud del monstruo. Si el monstruo pierde toda su salud, no podrás liberar de nuevo un monstruo de esta especie, hasta que captures otro, ¡claro!<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2629"
+    "message": "<ES HT_Text_ES_S_BOSStd>Esta es la salud del monstruo. Si el monstruo pierde toda su salud, no podrás liberar de nuevo un monstruo de esta especie, hasta que captures otro, ¡claro!<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_NoMoves": {
-    "message": "<ES HT_Text_ES_S_BOSStd>No tienes más movimientos para seleccionar.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2630"
+    "message": "<ES HT_Text_ES_S_BOSStd>No tienes más movimientos para seleccionar.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_NoMonsters": {
-    "message": "<ES HT_Text_ES_S_BOSStd>No tienes ningún monstruo.<ES HT_Text_ES_E_BOSStd>",
-    "description": "SphinxText.xls, row 2631"
+    "message": "<ES HT_Text_ES_S_BOSStd>No tienes ningún monstruo.<ES HT_Text_ES_E_BOSStd>"
   }
 }

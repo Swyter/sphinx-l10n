@@ -1,550 +1,413 @@
 {
   "HT_Text_Lux_pyra_sacrifice_2a": {
-    "message": "Mi Señor, hay un intruso en el edificio.<E>",
-    "description": "SphinxText.xls, row 1904"
+    "message": "Mi Señor, hay un intruso en el edificio.<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_2b": {
-    "message": "¿Cómo? ¡Hay que destruírlo! No puede interrumpir la ceremonia.<E>",
-    "description": "SphinxText.xls, row 1905"
+    "message": "¿Cómo? ¡Hay que destruírlo! No puede interrumpir la ceremonia.<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_2c": {
-    "message": "Un momento. Siento algo...<W 60>",
-    "description": "SphinxText.xls, row 1906"
+    "message": "Un momento. Siento algo...<W 60>"
   },
   "HT_Text_Lux_pyra_sacrifice_2d": {
-    "message": "Espíritus solitarios del edificio, ¡despertad! Levantaos y matad al intruso.<W 120>",
-    "description": "SphinxText.xls, row 1907"
+    "message": "Espíritus solitarios del edificio, ¡despertad! Levantaos y matad al intruso.<W 120>"
   },
   "HT_Text_Lux_pyra_sacrifice_3a": {
-    "message": "<EFF><EPO>¿Qué ha pasado? ¡Maldición! Tendremos que empezar otra vez.<P>¡Mirad! Ese es el saboteador que arruinó la ceremonia.<E>",
-    "description": "SphinxText.xls, row 1908"
+    "message": "<EFF><EPO>¿Qué ha pasado? ¡Maldición! Tendremos que empezar otra vez.<P>¡Mirad! Ese es el saboteador que arruinó la ceremonia.<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_3b": {
-    "message": "¡Insensato! Desactiva el dispositivo mágico. ¿No ves que va a explotar?<W 120><E>",
-    "description": "SphinxText.xls, row 1909"
+    "message": "¡Insensato! Desactiva el dispositivo mágico. ¿No ves que va a explotar?<W 120><E>"
   },
   "HT_Text_Lux_pyra_sacrifice_3c": {
-    "message": "¡Nos arrastra! ¡No!<W 60>",
-    "description": "SphinxText.xls, row 1910"
+    "message": "¡Nos arrastra! ¡No!<W 60>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_a": {
-    "message": "¡Oh! Gracias por salvarme. Te estoy muy agradecida. Pero mi querido Tut está muerto. ¿Cómo voy a vivir sin él?<E>",
-    "description": "SphinxText.xls, row 1911"
+    "message": "¡Oh! Gracias por salvarme. Te estoy muy agradecida. Pero mi querido Tut está muerto. ¿Cómo voy a vivir sin él?<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_b": {
-    "message": "Este canope es todo lo que tengo de él. Sin duda, parte de su alma quedó dentro.<E>",
-    "description": "SphinxText.xls, row 1912"
+    "message": "Este canope es todo lo que tengo de él. Sin duda, parte de su alma quedó dentro.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_c": {
-    "message": "Quiero que lo tengas. Tu valentía me ha demostrado que eres el único capaz de traerlo de vuelta.<E>",
-    "description": "SphinxText.xls, row 1913"
+    "message": "Quiero que lo tengas. Tu valentía me ha demostrado que eres el único capaz de traerlo de vuelta.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_c1": {
-    "message": "Por favor, encuéntralo y tráelo conmigo. ¡Oh, Tut! ¿Por qué te han hecho esto?<E>",
-    "description": "SphinxText.xls, row 1914"
+    "message": "Por favor, encuéntralo y tráelo conmigo. ¡Oh, Tut! ¿Por qué te han hecho esto?<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_d": {
-    "message": "Antes de que partas, toma. Es un amuleto que Tut me regaló. Le fascinaba, pero no sé la razón. Para mí tan solo es un amuleto.<E>",
-    "description": "SphinxText.xls, row 1915"
+    "message": "Antes de que partas, toma. Es un amuleto que Tut me regaló. Le fascinaba, pero no sé la razón. Para mí tan solo es un amuleto.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_e": {
-    "message": "Sphinx, debes reunirte conmigo en <FC 128,64,0>Heliópolis<END FC> lo antes posible.<E>",
-    "description": "SphinxText.xls, row 1916"
+    "message": "Sphinx, debes reunirte conmigo en <FC 128,64,0>Heliópolis<END FC> lo antes posible.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_e1": {
-    "message": "Estos acontecimientos demuestran que algo muy trágico está a punto de ocurrir.<E>",
-    "description": "SphinxText.xls, row 1917"
+    "message": "Estos acontecimientos demuestran que algo muy trágico está a punto de ocurrir.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_f": {
-    "message": "<EFF><EPO>Me pregunto por qué la guardia se mostró tan poderosa y diabólica durante la ceremonia.<P>Debemos averiguar la fuente de su poder antes de que sea demasiado tarde.<E>",
-    "description": "SphinxText.xls, row 1918"
+    "message": "<EFF><EPO>Me pregunto por qué la guardia se mostró tan poderosa y diabólica durante la ceremonia.<P>Debemos averiguar la fuente de su poder antes de que sea demasiado tarde.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_g": {
-    "message": "Con ese <FC 0,128,0>Amuleto del portal<END FC> podrás usar el portal de la entrada y abandonar este lugar.<E>",
-    "description": "SphinxText.xls, row 1919"
+    "message": "Con ese <FC 0,128,0>Amuleto del portal<END FC> podrás usar el portal de la entrada y abandonar este lugar.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_g1": {
-    "message": "No podemos saber a qué lugar serás enviado exactamente; pero, estés donde estés, deberás regresar a Heliópolis.<E>",
-    "description": "SphinxText.xls, row 1920"
+    "message": "No podemos saber a qué lugar serás enviado exactamente; pero, estés donde estés, deberás regresar a Heliópolis.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_h": {
-    "message": "No te preocupes por Nefertiti. Intentaré ayudarla a escapar de este espantoso lugar.<E>",
-    "description": "SphinxText.xls, row 1921"
+    "message": "No te preocupes por Nefertiti. Intentaré ayudarla a escapar de este espantoso lugar.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_I": {
-    "message": "Quiero que cojas este <FC 0,128,0>Ankh de oro<END FC>. Te ayudará a enfrentarte a los retos que inevitablemente se cruzarán en tu camino.<E>",
-    "description": "SphinxText.xls, row 1922"
+    "message": "Quiero que cojas este <FC 0,128,0>Ankh de oro<END FC>. Te ayudará a enfrentarte a los retos que inevitablemente se cruzarán en tu camino.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_m": {
-    "message": "¡Suerte, Sphinx!<W 60>",
-    "description": "SphinxText.xls, row 1923"
+    "message": "¡Suerte, Sphinx!<W 60>"
   },
   "HT_Text_Lux_Pyramid_Help_GotShield": {
-    "message": "<N><CNTR>¡Tienes el <FC 0,128,0>Escudo de Osiris<END FC>!<P><CNTR>Se dice que este escudo tan antiguo fue empuñado por el mismísimo dios Osiris.<P><CNTR>Puedes utilizarlo para protegerte de muchos tipos de ataques del enemigo y otros peligros.<E>",
-    "description": "SphinxText.xls, row 1924"
+    "message": "<N><CNTR>¡Tienes el <FC 0,128,0>Escudo de Osiris<END FC>!<P><CNTR>Se dice que este escudo tan antiguo fue empuñado por el mismísimo dios Osiris.<P><CNTR>Puedes utilizarlo para protegerte de muchos tipos de ataques del enemigo y otros peligros.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_NeedAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Sin el <FC 0,128,0>Amuleto del portal<END FC>, el Dios custodio no te dejará pasar.<E>",
-    "description": "SphinxText.xls, row 1925"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Sin el <FC 0,128,0>Amuleto del portal<END FC>, el Dios custodio no te dejará pasar.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_AmuletAccepted": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>El Dios custodio reconoce tus credenciales y te transportará a <FC 128,64,0>Abydos<END FC>.<E>",
-    "description": "SphinxText.xls, row 1926"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>El Dios custodio reconoce tus credenciales y te transportará a <FC 128,64,0>Abydos<END FC>.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_UsePortal": {
-    "message": "¿Usarás el portal?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1927"
+    "message": "¿Usarás el portal?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotPortalAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes un <FC 0,128,0>Amuleto del portal<END FC>!<P><N><CNTR>Este objeto de oro se creó en honor al Dios custodio.<E>",
-    "description": "SphinxText.xls, row 1928"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes un <FC 0,128,0>Amuleto del portal<END FC>!<P><N><CNTR>Este objeto de oro se creó en honor al Dios custodio.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotCanopicVase": {
-    "message": "<N><CNTR>¡Tienes un <FC 0,128,0>Canope<END FC>!<P><N><CNTR>En su interior se guarda parte del alma de Tutankamón.<E>",
-    "description": "SphinxText.xls, row 1929"
+    "message": "<N><CNTR>¡Tienes un <FC 0,128,0>Canope<END FC>!<P><N><CNTR>En su interior se guarda parte del alma de Tutankamón.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotGoldKey": {
-    "message": "<N><CNTR>¡Una <FC 0,128,0>Llave de oro<END FC>!<E>",
-    "description": "SphinxText.xls, row 1930"
+    "message": "<N><CNTR>¡Una <FC 0,128,0>Llave de oro<END FC>!<E>"
   },
   "HT_Text_Lux_Pyramid_NefertitiHU17_KillEnemies": {
-    "message": "¡No hay tiempo para hablar! ¡Mata a esos horribles monstruos!<E>",
-    "description": "SphinxText.xls, row 1931"
+    "message": "¡No hay tiempo para hablar! ¡Mata a esos horribles monstruos!<E>"
   },
   "HT_Text_Lux_Pyramid_NefertitiHU17_Go": {
-    "message": "¡Debes irte! No puedes hacer nada aquí.<E>",
-    "description": "SphinxText.xls, row 1932"
+    "message": "¡Debes irte! No puedes hacer nada aquí.<E>"
   },
   "HT_Text_Lux_pala_Guard_a": {
-    "message": "¡Saludos y feliz cumpleaños, Majestad!<E>",
-    "description": "SphinxText.xls, row 1934"
+    "message": "¡Saludos y feliz cumpleaños, Majestad!<E>"
   },
   "HT_Text_Lux_pala_Guard_b": {
-    "message": "Nefertiti os busca. Ha dicho que es muy importante y desea que os reunáis con ella en el <FC 128,64,0>Patio<END FC> antes de ir al salón.<E>",
-    "description": "SphinxText.xls, row 1935"
+    "message": "Nefertiti os busca. Ha dicho que es muy importante y desea que os reunáis con ella en el <FC 128,64,0>Patio<END FC> antes de ir al salón.<E>"
   },
   "HT_Text_Lux_pala_Guard_c": {
-    "message": "Su Majestad, Nefertiti insiste en que os reunáis con ella en el <FC 128,64,0>Patio<END FC> antes de ir al salón. Perdone la intromisión, pero parecía importante. <E>",
-    "description": "SphinxText.xls, row 1936"
+    "message": "Su Majestad, Nefertiti insiste en que os reunáis con ella en el <FC 128,64,0>Patio<END FC> antes de ir al salón. Perdone la intromisión, pero parecía importante. <E>"
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_a": {
-    "message": "Mi Señora Nefertiti, ha llegado a mis oídos que el príncipe Tutankamón le ha pedido matrimonio. <E> ",
-    "description": "SphinxText.xls, row 1937"
+    "message": "Mi Señora Nefertiti, ha llegado a mis oídos que el príncipe Tutankamón le ha pedido matrimonio. <E> "
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_a1": {
-    "message": "Como cualquier sabio diría, la elección más lógica no es siempre la más sabia. Una boda con, digamos, su hermano Akenatón podría tener ventajas inesperadas.<E>",
-    "description": "SphinxText.xls, row 1938"
+    "message": "Como cualquier sabio diría, la elección más lógica no es siempre la más sabia. Una boda con, digamos, su hermano Akenatón podría tener ventajas inesperadas.<E>"
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_b": {
-    "message": "¿Quién sabe qué nos depara el futuro? Pensad detenidamente en estas palabras, Nefertiti. <E>",
-    "description": "SphinxText.xls, row 1939"
+    "message": "¿Quién sabe qué nos depara el futuro? Pensad detenidamente en estas palabras, Nefertiti. <E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_a": {
-    "message": "Tutankamón, ¡al fin has llegado!<E>",
-    "description": "SphinxText.xls, row 1940"
+    "message": "Tutankamón, ¡al fin has llegado!<E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_b": {
-    "message": "Hay una <FC 0,128,0>Carta<END FC> muy importante que debo leer. Tráela antes de que alguien la encuentre.<E>",
-    "description": "SphinxText.xls, row 1941"
+    "message": "Hay una <FC 0,128,0>Carta<END FC> muy importante que debo leer. Tráela antes de que alguien la encuentre.<E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_c": {
-    "message": "Intenté cogerla, pero una ráfaga se la llevó consigo. Está justo ahí, a los pies de esa estatua. <E>",
-    "description": "SphinxText.xls, row 1942"
+    "message": "Intenté cogerla, pero una ráfaga se la llevó consigo. Está justo ahí, a los pies de esa estatua. <E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_d": {
-    "message": "¡Date prisa! <W 60>",
-    "description": "SphinxText.xls, row 1943"
+    "message": "¡Date prisa! <W 60>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_a": {
-    "message": "¡Maravilloso! ¡La tienes! <W 60>",
-    "description": "SphinxText.xls, row 1944"
+    "message": "¡Maravilloso! ¡La tienes! <W 60>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_b": {
-    "message": "Tengo que hablarte de esta carta, pero no aquí. Alguien podría oírnos. Nos vemos más tarde fuera del palacio. <E>",
-    "description": "SphinxText.xls, row 1945"
+    "message": "Tengo que hablarte de esta carta, pero no aquí. Alguien podría oírnos. Nos vemos más tarde fuera del palacio. <E>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_c": {
-    "message": "Hay algunas cosas que tienes que saber. <E>",
-    "description": "SphinxText.xls, row 1946"
+    "message": "Hay algunas cosas que tienes que saber. <E>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_d": {
-    "message": "Y por favor, mi querido Tutankamón, ¡ten cuidado! <E>",
-    "description": "SphinxText.xls, row 1947"
+    "message": "Y por favor, mi querido Tutankamón, ¡ten cuidado! <E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_a": {
-    "message": "¡Mi sobrino favorito ha venido a ver a su tía favorita! ¡Felicidades! Querido, ¡qué mayor estás ya!<E>",
-    "description": "SphinxText.xls, row 1948"
+    "message": "¡Mi sobrino favorito ha venido a ver a su tía favorita! ¡Felicidades! Querido, ¡qué mayor estás ya!<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_b": {
-    "message": "Veo que has encontrado algunos <FC 0,128,0>Amuletos antiguos<END FC>. Nadie está interesado en ellos hoy en día, pero yo los buscaba desde hace tiempo.<E>",
-    "description": "SphinxText.xls, row 1949"
+    "message": "Veo que has encontrado algunos <FC 0,128,0>Amuletos antiguos<END FC>. Nadie está interesado en ellos hoy en día, pero yo los buscaba desde hace tiempo.<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_b1": {
-    "message": "¿Has visto algún amuleto como el que tengo en la mano? <E>",
-    "description": "SphinxText.xls, row 1950"
+    "message": "¿Has visto algún amuleto como el que tengo en la mano? <E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_c": {
-    "message": "La colección está repartida por todo el palacio y Akenatón me ha ordenado que la recupere. Luego desea que la guarde en la <FC 128,64,0>Cámara del tesoro<END FC>.<E>",
-    "description": "SphinxText.xls, row 1951"
+    "message": "La colección está repartida por todo el palacio y Akenatón me ha ordenado que la recupere. Luego desea que la guarde en la <FC 128,64,0>Cámara del tesoro<END FC>.<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_d": {
-    "message": "Tu hermano se está volviendo cada vez más caprichoso. ¿Puedes buscar para mí los <FC 0,128,0>Amuletos antiguos<END FC>, querido sobrino?<P>Estoy demasiado mayor para buscarlos por el palacio.<E>",
-    "description": "SphinxText.xls, row 1952"
+    "message": "Tu hermano se está volviendo cada vez más caprichoso. ¿Puedes buscar para mí los <FC 0,128,0>Amuletos antiguos<END FC>, querido sobrino?<P>Estoy demasiado mayor para buscarlos por el palacio.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_a": {
-    "message": "¡Espléndido! ¡Has recuperado todos los <FC 0,128,0>Amuletos antiguos<END FC>! Eres muy amable conmigo. <E>",
-    "description": "SphinxText.xls, row 1953"
+    "message": "¡Espléndido! ¡Has recuperado todos los <FC 0,128,0>Amuletos antiguos<END FC>! Eres muy amable conmigo. <E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_b": {
-    "message": "¿No te importaría hacerme un último favor? ¿Podrías llevarlos a la <FC 128,64,0>Cámara del tesoro<END FC>? El cansancio me impide llegar hasta allí. <E>",
-    "description": "SphinxText.xls, row 1954"
+    "message": "¿No te importaría hacerme un último favor? ¿Podrías llevarlos a la <FC 128,64,0>Cámara del tesoro<END FC>? El cansancio me impide llegar hasta allí. <E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_c": {
-    "message": "Ten la llave de la <FC 128,64,0>Cámara del tesoro<END FC>. Ya sabes dónde está la puerta: baja las escaleras de la sala contigua.<E>",
-    "description": "SphinxText.xls, row 1955"
+    "message": "Ten la llave de la <FC 128,64,0>Cámara del tesoro<END FC>. Ya sabes dónde está la puerta: baja las escaleras de la sala contigua.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_d": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡La <FC 0,128,0>Llave de la Cámara del tesoro<END FC>!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 1956"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡La <FC 0,128,0>Llave de la Cámara del tesoro<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_a": {
-    "message": "¡Que cumplas muchos más, hermano! <E>",
-    "description": "SphinxText.xls, row 1957"
+    "message": "¡Que cumplas muchos más, hermano! <E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_b": {
-    "message": "Todo el mundo prepara tu cumpleaños. Es extraño. No recuerdo tanta expectación en mi cumpleaños. <E>",
-    "description": "SphinxText.xls, row 1958"
+    "message": "Todo el mundo prepara tu cumpleaños. Es extraño. No recuerdo tanta expectación en mi cumpleaños. <E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_c": {
-    "message": "Hermano, estoy ocupado ultimando los últimos detalles de la celebración. <E>",
-    "description": "SphinxText.xls, row 1959"
+    "message": "Hermano, estoy ocupado ultimando los últimos detalles de la celebración. <E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_d": {
-    "message": "Veo que por fin te has levantado. Tarde como siempre.<E>",
-    "description": "SphinxText.xls, row 1960"
+    "message": "Veo que por fin te has levantado. Tarde como siempre.<E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_a": {
-    "message": "Akenatón, Nefertiti debe tener la carta. Yo la tenía antes de hablar con ella. <E>",
-    "description": "SphinxText.xls, row 1961"
+    "message": "Akenatón, Nefertiti debe tener la carta. Yo la tenía antes de hablar con ella. <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_b": {
-    "message": "Esto se pone peligroso: tenemos que adelantar los planes. ¿Los sarcófagos están colocados? <E>",
-    "description": "SphinxText.xls, row 1962"
+    "message": "Esto se pone peligroso: tenemos que adelantar los planes. ¿Los sarcófagos están colocados? <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_c": {
-    "message": "Sí, mi Señor, tal como estaba previsto. <W 60>",
-    "description": "SphinxText.xls, row 1963"
+    "message": "Sí, mi Señor, tal como estaba previsto. <W 60>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_d": {
-    "message": "Dejaré aquí otra <FC 0,128,0>Llave de sarcófago<END FC> de sobra por si perdemos alguna. <E>",
-    "description": "SphinxText.xls, row 1964"
+    "message": "Dejaré aquí otra <FC 0,128,0>Llave de sarcófago<END FC> de sobra por si perdemos alguna. <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_e": {
-    "message": "Mi hermano pequeño tendrá una sorpresa de cumpleaños inesperada este año. <E>",
-    "description": "SphinxText.xls, row 1965"
+    "message": "Mi hermano pequeño tendrá una sorpresa de cumpleaños inesperada este año. <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_f": {
-    "message": "¡Sí, muy inesperada, mi Señor! <E>",
-    "description": "SphinxText.xls, row 1966"
+    "message": "¡Sí, muy inesperada, mi Señor! <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_g": {
-    "message": "¡Ja, ja, ja! ¡Ja, ja, ja! ¡Esta será la mejor fiesta que nunca se haya visto en palacio! <E>",
-    "description": "SphinxText.xls, row 1967"
+    "message": "¡Ja, ja, ja! ¡Ja, ja, ja! ¡Esta será la mejor fiesta que nunca se haya visto en palacio! <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_a": {
-    "message": "Estad todos listos para entrar en el palacio en los falsos sarcófagos cuando empiece la fiesta. Así invadiremos el palacio rápidamente. <E>",
-    "description": "SphinxText.xls, row 1968"
+    "message": "Estad todos listos para entrar en el palacio en los falsos sarcófagos cuando empiece la fiesta. Así invadiremos el palacio rápidamente. <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_b": {
-    "message": "¡Esta noche el trono por fin será mío! <E>",
-    "description": "SphinxText.xls, row 1969"
+    "message": "¡Esta noche el trono por fin será mío! <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_c": {
-    "message": "Mi querido hermano, ¡qué sorpresa más agradable! ¡Yo que te he preparado una fiesta tan magnífica para esta noche! <E>",
-    "description": "SphinxText.xls, row 1970"
+    "message": "Mi querido hermano, ¡qué sorpresa más agradable! ¡Yo que te he preparado una fiesta tan magnífica para esta noche! <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_d": {
-    "message": "Sin embargo, eres tan impaciente que no puedes esperar a tu regalo. <E>",
-    "description": "SphinxText.xls, row 1971"
+    "message": "Sin embargo, eres tan impaciente que no puedes esperar a tu regalo. <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_e": {
-    "message": "¡Guardias, cogedle! <W 60>",
-    "description": "SphinxText.xls, row 1972"
+    "message": "¡Guardias, cogedle! <W 60>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_a": {
-    "message": "¡Saludos y feliz cumpleaños, Majestad! <E>",
-    "description": "SphinxText.xls, row 1973"
+    "message": "¡Saludos y feliz cumpleaños, Majestad! <E>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_b": {
-    "message": "Todos en el palacio preparan la celebración de vuestro cumpleaños.<E>",
-    "description": "SphinxText.xls, row 1974"
+    "message": "Todos en el palacio preparan la celebración de vuestro cumpleaños.<E>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_c": {
-    "message": "Majestad, hablé antes con Nefertiti. Me pidió que os reunierais con ella en el <FC 128,64,0>Patio<END FC> esta mañana.<E>",
-    "description": "SphinxText.xls, row 1975"
+    "message": "Majestad, hablé antes con Nefertiti. Me pidió que os reunierais con ella en el <FC 128,64,0>Patio<END FC> esta mañana.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant1": {
-    "message": "Majestad, estoy ocupado limpiando el armario.<E>",
-    "description": "SphinxText.xls, row 1976"
+    "message": "Majestad, estoy ocupado limpiando el armario.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant2": {
-    "message": "¡Majestad! ¡Era un florero tan bonito!<E>",
-    "description": "SphinxText.xls, row 1977"
+    "message": "¡Majestad! ¡Era un florero tan bonito!<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant3": {
-    "message": "¡Qué desastre! Por favor, id con cuidado, Majestad.<E>",
-    "description": "SphinxText.xls, row 1978"
+    "message": "¡Qué desastre! Por favor, id con cuidado, Majestad.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant4": {
-    "message": "<DHP><DP>¡Oh, no! ¡Otra vez no!<W 30>",
-    "description": "SphinxText.xls, row 1979"
+    "message": "<DHP><DP>¡Oh, no! ¡Otra vez no!<W 30>"
   },
   "HT_Text_Lux_Pala_CleaningServant5": {
-    "message": "<DHP><DP>Majestad, ¿podríais dejar de desordenar la habitación?<W 60>",
-    "description": "SphinxText.xls, row 1980"
+    "message": "<DHP><DP>Majestad, ¿podríais dejar de desordenar la habitación?<W 60>"
   },
   "HT_Text_Lux_Pala_WardrobeLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Para abrir este armario se necesita una <FC 0,128,0>llave<END FC>.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 1981"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Para abrir este armario se necesita una <FC 0,128,0>llave<END FC>.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_WardrobeBlocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Parece que el armario está cerrado.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 1982"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Parece que el armario está cerrado.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_CorriderGuard": {
-    "message": "¡Felicidades, Majestad! <E>",
-    "description": "SphinxText.xls, row 1983"
+    "message": "¡Felicidades, Majestad! <E>"
   },
   "HT_Text_Lux_Pala_CorriderGuardBlock": {
-    "message": "Su Majestad, Nefertiti insiste en que os reunáis con ella en el <FC 128,64,0>Patio<END FC>.<E>",
-    "description": "SphinxText.xls, row 1984"
+    "message": "Su Majestad, Nefertiti insiste en que os reunáis con ella en el <FC 128,64,0>Patio<END FC>.<E>"
   },
   "HT_Text_Lux_Pala_SetiPartner1": {
-    "message": "Saludos, Majestad. Tu hermano ha estado muy ocupado decorando el palacio para la ceremonia. <E>",
-    "description": "SphinxText.xls, row 1985"
+    "message": "Saludos, Majestad. Tu hermano ha estado muy ocupado decorando el palacio para la ceremonia. <E>"
   },
   "HT_Text_Lux_Pala_SetiPartner2": {
-    "message": "¡Uff! ¡Qué agujero tan asqueroso! ¡Parece un nido de ratas! <E>",
-    "description": "SphinxText.xls, row 1986"
+    "message": "¡Uff! ¡Qué agujero tan asqueroso! ¡Parece un nido de ratas! <E>"
   },
   "HT_Text_Lux_Pala_SetiPartner3": {
-    "message": "¡Pensé que se iban a ocupar de ello! Al menos este está tapado. <E>",
-    "description": "SphinxText.xls, row 1987"
+    "message": "¡Pensé que se iban a ocupar de ello! Al menos este está tapado. <E>"
   },
   "HT_Text_Lux_Pala_SetiSecret": {
-    "message": "No, querida, parece uno de los antiguos pasadizos secretos que recorren el palacio. Llevan en este palacio desde antes que yo llegara. <E>",
-    "description": "SphinxText.xls, row 1988"
+    "message": "No, querida, parece uno de los antiguos pasadizos secretos que recorren el palacio. Llevan en este palacio desde antes que yo llegara. <E>"
   },
   "HT_Text_Lux_Pala_SetiQuestion": {
-    "message": "¿Podrías buscar los amuletos para mí, querido sobrino? Estoy demasiado mayor para buscarlos por el palacio.<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1989"
+    "message": "¿Podrías buscar los amuletos para mí, querido sobrino? Estoy demasiado mayor para buscarlos por el palacio.<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionAgain": {
-    "message": "Amado sobrino, ¿has cambiado de opinión?<N>  <B 1> Sí<N>  <B 2> No<E>",
-    "description": "SphinxText.xls, row 1990"
+    "message": "Amado sobrino, ¿has cambiado de opinión?<N>  <B 1> Sí<N>  <B 2> No<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionYes": {
-    "message": "¡Bendito seas! Gracias por ayudar a tu querida tía. <E>",
-    "description": "SphinxText.xls, row 1991"
+    "message": "¡Bendito seas! Gracias por ayudar a tu querida tía. <E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionNo": {
-    "message": "Sé amable con tu tía. No sé qué voy a decir cuando tu hermano me pregunte de nuevo por ellos. <E>",
-    "description": "SphinxText.xls, row 1992"
+    "message": "Sé amable con tu tía. No sé qué voy a decir cuando tu hermano me pregunte de nuevo por ellos. <E>"
   },
   "HT_Text_Lux_Pala_SetiAccepted": {
-    "message": "Ha sido muy amable de tu parte ayudarme a encontrar los amuletos. <E>",
-    "description": "SphinxText.xls, row 1993"
+    "message": "Ha sido muy amable de tu parte ayudarme a encontrar los amuletos. <E>"
   },
   "HT_Text_Lux_Pala_Sorkon1": {
-    "message": "Majestad, he oído rumores sobre la seguridad del palacio. Solicité reforzar la guardia, pero su hermano dijo que se encargaría de ello. <E> ",
-    "description": "SphinxText.xls, row 1994"
+    "message": "Majestad, he oído rumores sobre la seguridad del palacio. Solicité reforzar la guardia, pero su hermano dijo que se encargaría de ello. <E> "
   },
   "HT_Text_Lux_Pala_Sorkon2": {
-    "message": "¿Majestad? ¡Majestad! No entréis, no es seguro. <W 60>",
-    "description": "SphinxText.xls, row 1995"
+    "message": "¿Majestad? ¡Majestad! No entréis, no es seguro. <W 60>"
   },
   "HT_Text_Lux_Pala_Sorkon3": {
-    "message": "¡Majestad, nunca me escucháis! No debéis poneros en peligro por esos peligrosos pasadizos. Son tan antiguos que podrían derrumbarse en cualquier momento. <E>",
-    "description": "SphinxText.xls, row 1996"
+    "message": "¡Majestad, nunca me escucháis! No debéis poneros en peligro por esos peligrosos pasadizos. Son tan antiguos que podrían derrumbarse en cualquier momento. <E>"
   },
   "HT_Text_Lux_Pala_Sorkon4": {
-    "message": "Majestad, ¿qué ocurre? Nunca hubiera imaginado que un lugar así ocultara una puerta secreta. ¡Me preocupa vuestra seguridad cuando recorre esos peligrosos lugares! <E>",
-    "description": "SphinxText.xls, row 1997"
+    "message": "Majestad, ¿qué ocurre? Nunca hubiera imaginado que un lugar así ocultara una puerta secreta. ¡Me preocupa vuestra seguridad cuando recorre esos peligrosos lugares! <E>"
   },
   "HT_Text_Lux_Pala_DishServant1": {
-    "message": "Estoy un poco ocupado con la distribución de las mesas, Majestad. Tendrá que divertirse solo durante un rato. <E>",
-    "description": "SphinxText.xls, row 1998"
+    "message": "Estoy un poco ocupado con la distribución de las mesas, Majestad. Tendrá que divertirse solo durante un rato. <E>"
   },
   "HT_Text_Lux_Pala_DishServant2": {
-    "message": "<DHP><DP>¡No! ¡Majestad, no caminéis sobre los platos limpios! <W 30>",
-    "description": "SphinxText.xls, row 1999"
+    "message": "<DHP><DP>¡No! ¡Majestad, no caminéis sobre los platos limpios! <W 30>"
   },
   "HT_Text_Lux_Pala_DishServant3": {
-    "message": "<DHP><DP>¡Oh! ¡Los vasos! ¡Majestad, no os subáis a la mesa! <W 30>",
-    "description": "SphinxText.xls, row 2000"
+    "message": "<DHP><DP>¡Oh! ¡Los vasos! ¡Majestad, no os subáis a la mesa! <W 30>"
   },
   "HT_Text_Lux_Pala_Dress1": {
-    "message": "<ES HT_Text_ES_S_HelpText><N>¿Queréis poneros esto?<N>  <B 1> Sí<N>  <B 2> No<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2001"
+    "message": "<ES HT_Text_ES_S_HelpText><N>¿Queréis poneros esto?<N>  <B 1> Sí<N>  <B 2> No<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_Dress2": {
-    "message": "<W 1>",
-    "description": "SphinxText.xls, row 2002"
+    "message": "<W 1>"
   },
   "HT_Text_Lux_Pala_TreasureGuard1": {
-    "message": "Quizás debería hablar con el capitán sobre ello. <E>",
-    "description": "SphinxText.xls, row 2003"
+    "message": "Quizás debería hablar con el capitán sobre ello. <E>"
   },
   "HT_Text_Lux_Pala_TreasureCaptain1": {
-    "message": "Majestad, ha ocurrido algo terrible. La guardia ha descubierto la puerta principal de la <FC 128,64,0>Cámara del tesoro<END FC> forzada y las arcas están vacías. <P>Lo único que hemos encontrado es ese extraño sarcófago en la sala. <P>No lo toquéis, no hay duda de que está relacionado con el robo. He querido informar a vuestro hermano Akenatón, pero no logro encontrarlo.<E>",
-    "description": "SphinxText.xls, row 2004"
+    "message": "Majestad, ha ocurrido algo terrible. La guardia ha descubierto la puerta principal de la <FC 128,64,0>Cámara del tesoro<END FC> forzada y las arcas están vacías. <P>Lo único que hemos encontrado es ese extraño sarcófago en la sala. <P>No lo toquéis, no hay duda de que está relacionado con el robo. He querido informar a vuestro hermano Akenatón, pero no logro encontrarlo.<E>"
   },
   "HT_Text_Lux_Pala_DressWrong": {
-    "message": "Majestad, no pensaréis abandonar la habitación sin vestiros, ¿verdad?<E>",
-    "description": "SphinxText.xls, row 2005"
+    "message": "Majestad, no pensaréis abandonar la habitación sin vestiros, ¿verdad?<E>"
   },
   "HT_Text_Lux_Pala_DressWrong2": {
-    "message": "¡Majestad! ¡Rosa no! ¡Es horrible!<E>",
-    "description": "SphinxText.xls, row 2006"
+    "message": "¡Majestad! ¡Rosa no! ¡Es horrible!<E>"
   },
   "HT_Text_Lux_Pala_Help_FoundWardrobeKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>¡Una <FC 0,128,0>Llave de armario<END FC>!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2007"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>¡Una <FC 0,128,0>Llave de armario<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_MenesCorrider1": {
-    "message": "Majestad, veo que vais espléndidamente ataviado hoy. Como siempre, tenéis un gusto exquisito. <E>",
-    "description": "SphinxText.xls, row 2008"
+    "message": "Majestad, veo que vais espléndidamente ataviado hoy. Como siempre, tenéis un gusto exquisito. <E>"
   },
   "HT_Text_Lux_Pala_MenesCorrider2": {
-    "message": "He olvidado desearos un feliz cumpleaños. Mis disculpas, Majestad. <E>",
-    "description": "SphinxText.xls, row 2009"
+    "message": "He olvidado desearos un feliz cumpleaños. Mis disculpas, Majestad. <E>"
   },
   "HT_Text_Lux_Palace_GuardHU06_NefLookingForYou": {
-    "message": "¡Saludos y feliz cumpleaños, mi Señor!<P>Mi Señora Nefertiti os busca. Ha dicho que es muy importante y desea que os reunáis con ella en el <FC 128,64,0>Patio<END FC>.<E>",
-    "description": "SphinxText.xls, row 2011"
+    "message": "¡Saludos y feliz cumpleaños, mi Señor!<P>Mi Señora Nefertiti os busca. Ha dicho que es muy importante y desea que os reunáis con ella en el <FC 128,64,0>Patio<END FC>.<E>"
   },
   "HT_Text_Lux_Palace_GuardHU06_NefFound": {
-    "message": "¡Al fin encontrasteis a Nefertiti! Quizás a su Majestad le gustaría ver cómo van los preparativos del banquete.<E>",
-    "description": "SphinxText.xls, row 2012"
+    "message": "¡Al fin encontrasteis a Nefertiti! Quizás a su Majestad le gustaría ver cómo van los preparativos del banquete.<E>"
   },
   "HT_Text_Lux_Palace_ServantHU03_SarcophagusDecor": {
-    "message": "Su hermano ha insistido mucho en decorar el palacio con estos sarcófagos.<P>Perdonad por lo que voy a deciros, Majestad, pero no me gustan. Sus ojos parecen seguir cada uno de sus movimientos.<E>",
-    "description": "SphinxText.xls, row 2013"
+    "message": "Su hermano ha insistido mucho en decorar el palacio con estos sarcófagos.<P>Perdonad por lo que voy a deciros, Majestad, pero no me gustan. Sus ojos parecen seguir cada uno de sus movimientos.<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_MeetMeOutside": {
-    "message": "¡Maravilloso! ¡La tienes! Tengo que hablarte de esta carta, pero no aquí. Alguien podría oírnos.<P>Reúnete conmigo fuera del palacio más tarde y hablaremos. Ten cuidado, Tutankamón.<E>",
-    "description": "SphinxText.xls, row 2014"
+    "message": "¡Maravilloso! ¡La tienes! Tengo que hablarte de esta carta, pero no aquí. Alguien podría oírnos.<P>Reúnete conmigo fuera del palacio más tarde y hablaremos. Ten cuidado, Tutankamón.<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItem": {
-    "message": "Tutankamón, ¡al fin has llegado! Debes coger mi <FC 0,128,0>Carta<END FC> de ahí arriba antes de que alguien la encuentre.<P>La <FC 0,128,0>Carta<END FC> contiene información muy importante. ¡Date prisa!<E>",
-    "description": "SphinxText.xls, row 2015"
+    "message": "Tutankamón, ¡al fin has llegado! Debes coger mi <FC 0,128,0>Carta<END FC> de ahí arriba antes de que alguien la encuentre.<P>La <FC 0,128,0>Carta<END FC> contiene información muy importante. ¡Date prisa!<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemNoCutscene": {
-    "message": "Tutankamón, ¡encuentra mi <FC 0,128,0>Carta<END FC>! Tiene que estar por los alrededores.<E>",
-    "description": "SphinxText.xls, row 2016"
+    "message": "Tutankamón, ¡encuentra mi <FC 0,128,0>Carta<END FC>! Tiene que estar por los alrededores.<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemAgain": {
-    "message": "¡Rápido, antes de que alguien la encuentre!<E>",
-    "description": "SphinxText.xls, row 2017"
+    "message": "¡Rápido, antes de que alguien la encuentre!<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemDone": {
-    "message": "Lo siento, pero no puedo hablar de la carta en un lugar público.<E>",
-    "description": "SphinxText.xls, row 2018"
+    "message": "Lo siento, pero no puedo hablar de la carta en un lugar público.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_EvilHappyBirthday": {
-    "message": "¡Que cumplas muchos más, hermano! Es curioso, no recuerdo tanta expectación en mi cumpleaños.<E>",
-    "description": "SphinxText.xls, row 2019"
+    "message": "¡Que cumplas muchos más, hermano! Es curioso, no recuerdo tanta expectación en mi cumpleaños.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_EvilHappyBirthdayAgain": {
-    "message": "¡Hermano! Estoy ocupado ultimando los últimos detalles de la celebración.<E>",
-    "description": "SphinxText.xls, row 2020"
+    "message": "¡Hermano! Estoy ocupado ultimando los últimos detalles de la celebración.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting01": {
-    "message": "¿Los sarcófagos mágicos están colocados?<E>",
-    "description": "SphinxText.xls, row 2021"
+    "message": "¿Los sarcófagos mágicos están colocados?<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting02": {
-    "message": "¡Excelente! Mi hermano pequeño tendrá una sorpresa de cumpleaños inesperada este año.<P>Dejaré aquí otra <FC 0,128,0>Llave de sarcófago<END FC> de sobra por si perdemos alguna.<E>",
-    "description": "SphinxText.xls, row 2022"
+    "message": "¡Excelente! Mi hermano pequeño tendrá una sorpresa de cumpleaños inesperada este año.<P>Dejaré aquí otra <FC 0,128,0>Llave de sarcófago<END FC> de sobra por si perdemos alguna.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting03": {
-    "message": "¡Muahahaha!<P>¡Muahahaha!<P>¡Esta será la mejor fiesta que nunca se haya visto en palacio!<E>",
-    "description": "SphinxText.xls, row 2023"
+    "message": "¡Muahahaha!<P>¡Muahahaha!<P>¡Esta será la mejor fiesta que nunca se haya visto en palacio!<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFound": {
-    "message": "Qué amable eres, sobrino. Pero me temo que todavía faltan<N><FC 0,128,0><SO HT_Objective_Lux_Palace_SetiQuestItemsRemaining><END FC> amuletos más.<E>",
-    "description": "SphinxText.xls, row 2035"
+    "message": "Qué amable eres, sobrino. Pero me temo que todavía faltan<N><FC 0,128,0><SO HT_Objective_Lux_Palace_SetiQuestItemsRemaining><END FC> amuletos más.<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFoundOne": {
-    "message": "¡Excelente! Tan solo queda <FC 0,128,0>1<END FC> amuleto, querido.<E>",
-    "description": "SphinxText.xls, row 2036"
+    "message": "¡Excelente! Tan solo queda <FC 0,128,0>1<END FC> amuleto, querido.<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsComplete": {
-    "message": "Gracias por tu ayuda, sobrino. Sin ayuda nunca hubiera encontrado los amuletos.<E>",
-    "description": "SphinxText.xls, row 2037"
+    "message": "Gracias por tu ayuda, sobrino. Sin ayuda nunca hubiera encontrado los amuletos.<E>"
   },
   "HT_Text_Lux_Palace_MenesHU09_Plotting01": {
-    "message": "Sí, mi Señor, todo va según lo previsto.<E>",
-    "description": "SphinxText.xls, row 2038"
+    "message": "Sí, mi Señor, todo va según lo previsto.<E>"
   },
   "HT_Text_Lux_Palace_MenesHU09_Plotting02": {
-    "message": "Buena observación, mi Señor.<E>",
-    "description": "SphinxText.xls, row 2039"
+    "message": "Buena observación, mi Señor.<E>"
   },
   "HT_Text_Lux_Pala_Read_TreasureRoom": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Cámara del tesoro<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 2045"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Cámara del tesoro<END FC> ]---<E>"
   },
   "HT_Text_Lux_Pala_Help_UseLever": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Para mover las palancas, acércate y pulsa <SB HT_Action_LeverDown><ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2046"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Para mover las palancas, acércate y pulsa <SB HT_Action_LeverDown><ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_Help_UseSarco": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Con la <FC 0,128,0>Llave de sarcófago<END FC> puedes usar un sarcófago.<N> Acércate y pulsa <SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2047"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Con la <FC 0,128,0>Llave de sarcófago<END FC> puedes usar un sarcófago.<N> Acércate y pulsa <SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Pushable": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Puedes empujar y mover objetos como este.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Pulsa <SB HT_Action_Grab> si estás cerca del objeto.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Luego usa <SB HT_PadAction_PLR_MovePlr> para empujar o tirar.<E>",
-    "description": "SphinxText.xls, row 2048"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Puedes empujar y mover objetos como este.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Pulsa <SB HT_Action_Grab> si estás cerca del objeto.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Luego usa <SB HT_PadAction_PLR_MovePlr> para empujar o tirar.<E>"
   },
   "HT_Text_Lux_Palace_Help_LedgeWalk": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Puedes atravesar algunos salientes estrechos.<P><ES HT_Text_ES_S_HelpText><CNTR>Acércate a la valla, usa <SB HT_Action_WallSneak><N>para situarte contra ella.<P><ES HT_Text_ES_S_HelpText><CNTR>Después, usa<N><SB HT_PadAction_PLR_MovePlr> para moverte a izquierda y derecha.<P><ES HT_Text_ES_S_HelpText><CNTR>Para moverte con sigilo, usa con suavidad <SB HT_PadAction_PLR_MovePlr>.<P><ES HT_Text_ES_S_HelpText><CNTR>Pulsa <SB HT_Action_WallSneakExit> para salir del<N>modo de sigilo.<E>",
-    "description": "SphinxText.xls, row 2049"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Puedes atravesar algunos salientes estrechos.<P><ES HT_Text_ES_S_HelpText><CNTR>Acércate a la valla, usa <SB HT_Action_WallSneak><N>para situarte contra ella.<P><ES HT_Text_ES_S_HelpText><CNTR>Después, usa<N><SB HT_PadAction_PLR_MovePlr> para moverte a izquierda y derecha.<P><ES HT_Text_ES_S_HelpText><CNTR>Para moverte con sigilo, usa con suavidad <SB HT_PadAction_PLR_MovePlr>.<P><ES HT_Text_ES_S_HelpText><CNTR>Pulsa <SB HT_Action_WallSneakExit> para salir del<N>modo de sigilo.<E>"
   },
   "HT_Text_Lux_Palace_Help_LedgeHang": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Puedes agarrarte a salientes de paredes.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>Aléjate y gira mientras saltas para agarrarte al saliente.<P><ES HT_Text_ES_S_HelpText><CNTR>Usa <SB HT_PadAction_PLR_MovePlr> para ir a derecha e izquierda.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 2050"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Puedes agarrarte a salientes de paredes.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>Aléjate y gira mientras saltas para agarrarte al saliente.<P><ES HT_Text_ES_S_HelpText><CNTR>Usa <SB HT_PadAction_PLR_MovePlr> para ir a derecha e izquierda.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_DoorLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Esta puerta está cerrada. Se necesita una llave.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2051"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Esta puerta está cerrada. Se necesita una llave.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_DoorLockedForever": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>La puerta está cerrada desde el otro<N>lado y no se puede abrir.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2052"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>La puerta está cerrada desde el otro<N>lado y no se puede abrir.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Crawl": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Pulsa <SB HT_Action_MummyCrawl> para pasar del modo<N>andar a gatear.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2053"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Pulsa <SB HT_Action_MummyCrawl> para pasar del modo<N>andar a gatear.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundBedroomKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Es la <FC 0,128,0>Llave del patio<END FC>!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2054"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Es la <FC 0,128,0>Llave del patio<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundNefertitiItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Es la <FC 0,128,0>Carta de Nefertiti<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>",
-    "description": "SphinxText.xls, row 2055"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Es la <FC 0,128,0>Carta de Nefertiti<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
   },
   "HT_Text_Lux_Palace_Help_FoundSarcophagusKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR><N>¡Es la <FC 0,128,0>Llave de sarcófago<END FC>!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2057"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR><N>¡Es la <FC 0,128,0>Llave de sarcófago<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Es un <FC 0,128,0>Amuleto antiguo<END FC>!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 2059"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Es un <FC 0,128,0>Amuleto antiguo<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundCourtyardKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Es la <FC 0,128,0>Llave del patio<END FC><ES HT_Text_ES_S_HelpText>!<E>",
-    "description": "SphinxText.xls, row 2060"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Es la <FC 0,128,0>Llave del patio<END FC><ES HT_Text_ES_S_HelpText>!<E>"
   }
 }

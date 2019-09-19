@@ -1,2338 +1,1754 @@
 {
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1a": {
-    "message": "으아!!! 너는 누구지? 원하는 게 머야? 내 소중한 상품들을 훔치러 온 건가?!<W 60>",
-    "description": "SphinxText.xls, row 548"
+    "message": "으아!!! 너는 누구지? 원하는 게 머야? 내 소중한 상품들을 훔치러 온 건가?!<W 60>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1b": {
-    "message": "흠, 도둑처럼 보이지는 않는군...<E>",
-    "description": "SphinxText.xls, row 549"
+    "message": "흠, 도둑처럼 보이지는 않는군...<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1c": {
-    "message": "헤헤헤, 미안. 나는 네가 벽의 저편에 있는 그 우루크 도적놈들 중 하나라고 생각했다.<E>",
-    "description": "SphinxText.xls, row 550"
+    "message": "헤헤헤, 미안. 나는 네가 벽의 저편에 있는 그 우루크 도적놈들 중 하나라고 생각했다.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1d": {
-    "message": "그들은 믿을 수가 없어. 너를 믿어야 하는지도 아직 모르겠다. 네가 <FC 0,128,0>10 오닉스 스캐럽<END FC>을 나에게 준다면 생각을 바꿔보는 것을 고려해보지.<E>",
-    "description": "SphinxText.xls, row 551"
+    "message": "그들은 믿을 수가 없어. 너를 믿어야 하는지도 아직 모르겠다. 네가 <FC 0,128,0>10 오닉스 스캐럽<END FC>을 나에게 준다면 생각을 바꿔보는 것을 고려해보지.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1e": {
-    "message": "오, 아름답군! <FC 0,128,0>오닉스 스캐럽<END FC>! 이제 내가 팔려고 하는 환상적인 상품들을 보여주지.<E>",
-    "description": "SphinxText.xls, row 552"
+    "message": "오, 아름답군! <FC 0,128,0>오닉스 스캐럽<END FC>! 이제 내가 팔려고 하는 환상적인 상품들을 보여주지.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1f": {
-    "message": "제발, 제발, 들어오라고...<W 60>",
-    "description": "SphinxText.xls, row 553"
+    "message": "제발, 제발, 들어오라고...<W 60>"
   },
   "HT_Text_Hel_Exterior_Farmer_CSFreed01": {
-    "message": "다시 만났군! 우리 형제가 같이 다시 농장에 돌아오게 되어 기뻐. 너에게 어떻게 감사해야 할 지 모르겠군.<E>",
-    "description": "SphinxText.xls, row 554"
+    "message": "다시 만났군! 우리 형제가 같이 다시 농장에 돌아오게 되어 기뻐. 너에게 어떻게 감사해야 할 지 모르겠군.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_CSFreed01": {
-    "message": "그래, 덕분에 우리 형제는 다시 농장일을 계속할 수 있게 됐어.<E>",
-    "description": "SphinxText.xls, row 555"
+    "message": "그래, 덕분에 우리 형제는 다시 농장일을 계속할 수 있게 됐어.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_CSFreed02": {
-    "message": "도와준 답례로 이것을 받아줘요. 농장일을 하다가 발견했는데 매우 가치 있어 보이더군요.<E>",
-    "description": "SphinxText.xls, row 556"
+    "message": "도와준 답례로 이것을 받아줘요. 농장일을 하다가 발견했는데 매우 가치 있어 보이더군요.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother": {
-    "message": "내 형제가 저 성의 저주에 걸러서 농장일을 할 수가 없어. 천벌을 받을 아비누스 같으니 라구! <E>",
-    "description": "SphinxText.xls, row 557"
+    "message": "내 형제가 저 성의 저주에 걸러서 농장일을 할 수가 없어. 천벌을 받을 아비누스 같으니 라구! <E>"
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother1a": {
-    "message": "<FC 128,64,0>헬리오폴리스<END FC>는 지긋지긋해. 정말 살기 좋은 곳이었는데 아누비스가 망쳐 놓았지.<E>",
-    "description": "SphinxText.xls, row 558"
+    "message": "<FC 128,64,0>헬리오폴리스<END FC>는 지긋지긋해. 정말 살기 좋은 곳이었는데 아누비스가 망쳐 놓았지.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother1b": {
-    "message": "그가 내 형제와 <FC 128,64,0>저주 받은 성<END FC>에 있는 다른 모든 이들에게 저주를 내렸어...<E>",
-    "description": "SphinxText.xls, row 559"
+    "message": "그가 내 형제와 <FC 128,64,0>저주 받은 성<END FC>에 있는 다른 모든 이들에게 저주를 내렸어...<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother1b1": {
-    "message": "그가 이 땅의 곳곳에 이 죽음의 <FC 0,128,0>라의 눈 기둥들<END FC>이 나타나게 했어...<E>",
-    "description": "SphinxText.xls, row 560"
+    "message": "그가 이 땅의 곳곳에 이 죽음의 <FC 0,128,0>라의 눈 기둥들<END FC>이 나타나게 했어...<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother1b2": {
-    "message": "땅을 불모지로 만들어버렸다. 이 농장에서 아무것도 재배할 수 없어...<E>",
-    "description": "SphinxText.xls, row 561"
+    "message": "땅을 불모지로 만들어버렸다. 이 농장에서 아무것도 재배할 수 없어...<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother1c": {
-    "message": "그래, 모두 아누비스의 짓이야. 성에 앉아서 <FC 128,64,0>헬리오폴리스<END FC>를 내려다 보며 이 모든 불행과 고통을 보면서 웃고 있는 게 분명해.<E>",
-    "description": "SphinxText.xls, row 562"
+    "message": "그래, 모두 아누비스의 짓이야. 성에 앉아서 <FC 128,64,0>헬리오폴리스<END FC>를 내려다 보며 이 모든 불행과 고통을 보면서 웃고 있는 게 분명해.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother1c1": {
-    "message": "누군가 그 놈을 찾아가서... 본 때를 보여 줘야해...<E>",
-    "description": "SphinxText.xls, row 563"
+    "message": "누군가 그 놈을 찾아가서... 본 때를 보여 줘야해...<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_Reunion01": {
-    "message": "거기 있었군! 정말 고맙다. 내 동생을 구해준 것에 대해 어떻게 감사해야 할 지 모르겠군.<E>",
-    "description": "SphinxText.xls, row 564"
+    "message": "거기 있었군! 정말 고맙다. 내 동생을 구해준 것에 대해 어떻게 감사해야 할 지 모르겠군.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_Reunion02": {
-    "message": "절망적이었지. 그를 다시는 못 볼 줄 알았거든, 하지만 덕분에 우리는 다시 뭉쳤다!<E>",
-    "description": "SphinxText.xls, row 565"
+    "message": "절망적이었지. 그를 다시는 못 볼 줄 알았거든, 하지만 덕분에 우리는 다시 뭉쳤다!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_Reunion03": {
-    "message": "우리 형제는 농장으로 다시 돌아가고 싶지만 바깥에 <FC 0,128,0>라의 눈들<END FC>이 있어서.<E>",
-    "description": "SphinxText.xls, row 566"
+    "message": "우리 형제는 농장으로 다시 돌아가고 싶지만 바깥에 <FC 0,128,0>라의 눈들<END FC>이 있어서.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_Reunion04": {
-    "message": "아직 불행이 다 없어진건 아니군.<E>",
-    "description": "SphinxText.xls, row 567"
+    "message": "아직 불행이 다 없어진건 아니군.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_ReunionGoHome01": {
-    "message": "<EFF><EPO>거기 있었군. 정말 고마워. 내 동생을 구해주신 것에 대해 어떻게 감사 해야 할 지 모르겠군.<P>나는 절망적이었어. 그를 다시는 못 볼 줄 알았거든, 하지만 덕분에 우리는 다시 만날 수  있었다!<P>더군다나 당신이 <FC 0,128,0>라의 눈 기둥들<END FC>을 모두 물리쳤기 때문에 제 형제와 제가 다시 농장으로 돌아간다는 것은 정말 근사한 일이다. 다시 한 번 감사 한다!<E>",
-    "description": "SphinxText.xls, row 568"
+    "message": "<EFF><EPO>거기 있었군. 정말 고마워. 내 동생을 구해주신 것에 대해 어떻게 감사 해야 할 지 모르겠군.<P>나는 절망적이었어. 그를 다시는 못 볼 줄 알았거든, 하지만 덕분에 우리는 다시 만날 수  있었다!<P>더군다나 당신이 <FC 0,128,0>라의 눈 기둥들<END FC>을 모두 물리쳤기 때문에 제 형제와 제가 다시 농장으로 돌아간다는 것은 정말 근사한 일이다. 다시 한 번 감사 한다!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_ReunionGoHome02": {
-    "message": "기억해둬, 친구, 농장으로 우리를 방문해줘. 도움이 되고 싶어...<E>",
-    "description": "SphinxText.xls, row 569"
+    "message": "기억해둬, 친구, 농장으로 우리를 방문해줘. 도움이 되고 싶어...<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes01": {
-    "message": "우리 형제는 농장으로 다시 돌아가고 싶지만 바깥에 그 <FC 0,128,0>라의 눈들<END FC>이 있어서.<E>",
-    "description": "SphinxText.xls, row 570"
+    "message": "우리 형제는 농장으로 다시 돌아가고 싶지만 바깥에 그 <FC 0,128,0>라의 눈들<END FC>이 있어서.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes02a": {
-    "message": "훌륭하군요! 모든 <FC 0,128,0>라의 눈들<END FC>이 파괴되었어요!<E>",
-    "description": "SphinxText.xls, row 571"
+    "message": "훌륭하군요! 모든 <FC 0,128,0>라의 눈들<END FC>이 파괴되었어요!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes02b": {
-    "message": "이제 우리 형제는 우리의 농장으로 돌아갈 수 있다. 고맙다!<E>",
-    "description": "SphinxText.xls, row 572"
+    "message": "이제 우리 형제는 우리의 농장으로 돌아갈 수 있다. 고맙다!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes02c": {
-    "message": "우리를 방문 하는 것을 잊지 마, 친구. 가능한 도움이 되고 싶다...<W 60>",
-    "description": "SphinxText.xls, row 573"
+    "message": "우리를 방문 하는 것을 잊지 마, 친구. 가능한 도움이 되고 싶다...<W 60>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes03a": {
-    "message": "아직 <FC 0,128,0><SO HT_Objective_Temp> 라의 눈들<END FC>이 남아있어, 친구!<E>",
-    "description": "SphinxText.xls, row 574"
+    "message": "아직 <FC 0,128,0><SO HT_Objective_Temp> 라의 눈들<END FC>이 남아있어, 친구!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes03b": {
-    "message": "아직 <FC 0,128,0>라의 눈 1<END FC>가 남아있어, 친구!<E>",
-    "description": "SphinxText.xls, row 575"
+    "message": "아직 <FC 0,128,0>라의 눈 1<END FC>가 남아있어, 친구!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_BrotherFreed": {
-    "message": "기적이야! 내 동생이 돌아왔어!<P>네 덕분이라고 하더군. 뭐라고 감사해야 할지.<E>",
-    "description": "SphinxText.xls, row 576"
+    "message": "기적이야! 내 동생이 돌아왔어!<P>네 덕분이라고 하더군. 뭐라고 감사해야 할지.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_PickPlot": {
-    "message": "부탁이네, 친구, 농장에서 한 지점을 선택하면 기꺼이 그곳에서 발견되는 것을 주겠다. 우리를 위해서 해 준 일에 최소한으로 보답할 수 있는 길이야.<E>",
-    "description": "SphinxText.xls, row 577"
+    "message": "부탁이네, 친구, 농장에서 한 지점을 선택하면 기꺼이 그곳에서 발견되는 것을 주겠다. 우리를 위해서 해 준 일에 최소한으로 보답할 수 있는 길이야.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_NotDoneYet": {
-    "message": "아직 끝난 게 아니야. 이 땅은 일할 수가 없을 정도야. 제발 다음에 다시 와줘.<E>",
-    "description": "SphinxText.xls, row 578"
+    "message": "아직 끝난 게 아니야. 이 땅은 일할 수가 없을 정도야. 제발 다음에 다시 와줘.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_FoundThis": {
-    "message": "다시 온 것 환영하네, 친구! 우리가 땅을 파다가 무엇을 발견하였는지를 알면 기뻐할 걸세. 제발 이것을 우리의 감사의 표시로 받아줘.<E>",
-    "description": "SphinxText.xls, row 579"
+    "message": "다시 온 것 환영하네, 친구! 우리가 땅을 파다가 무엇을 발견하였는지를 알면 기뻐할 걸세. 제발 이것을 우리의 감사의 표시로 받아줘.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_Complete": {
-    "message": "농장이 이제 준비가 되어서, 좀 쉬면서 비가 오기를 기다릴 수 있겠네. 도움 줘 고마워!<E>",
-    "description": "SphinxText.xls, row 580"
+    "message": "농장이 이제 준비가 되어서, 좀 쉬면서 비가 오기를 기다릴 수 있겠네. 도움 줘 고마워!<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_Thanks": {
-    "message": "우리 형제가 다시 합치게 되어 기쁘다. 누군가 저 <FC 0,128,0>라의 눈들<END FC>을 다 제거해버리면 우리는 농장일로 복귀할 수 있을 텐데.<E>",
-    "description": "SphinxText.xls, row 581"
+    "message": "우리 형제가 다시 합치게 되어 기쁘다. 누군가 저 <FC 0,128,0>라의 눈들<END FC>을 다 제거해버리면 우리는 농장일로 복귀할 수 있을 텐데.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_KillEyes01a": {
-    "message": "저 마지막 <FC 0,128,0><SO HT_Objective_Temp> 라의 눈들<END FC>만 파괴되면 우리는 농장으로 돌아갈 수 있어!<E>",
-    "description": "SphinxText.xls, row 582"
+    "message": "저 마지막 <FC 0,128,0><SO HT_Objective_Temp> 라의 눈들<END FC>만 파괴되면 우리는 농장으로 돌아갈 수 있어!<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_KillEyes01b": {
-    "message": "저 마지막 <FC 0,128,0>라의 눈<END FC>만 파괴되면 우리는 농장으로 돌아갈 수 있어!<E>",
-    "description": "SphinxText.xls, row 583"
+    "message": "저 마지막 <FC 0,128,0>라의 눈<END FC>만 파괴되면 우리는 농장으로 돌아갈 수 있어!<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_AskMyBrother": {
-    "message": "나의 형하고 이야기 나눠봐, 친구. 형이 농장을 관리하거든.<E>",
-    "description": "SphinxText.xls, row 584"
+    "message": "나의 형하고 이야기 나눠봐, 친구. 형이 농장을 관리하거든.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_NotDoneYet": {
-    "message": "이 땅을 경작한다는 것은 정말 힘든 일이야. 우리가 끝냈을 때 다시 돌아와.<E>",
-    "description": "SphinxText.xls, row 585"
+    "message": "이 땅을 경작한다는 것은 정말 힘든 일이야. 우리가 끝냈을 때 다시 돌아와.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_Complete": {
-    "message": "농장을 준비하는 것은 정말 힘든 일이었지만 이제 우리는 좀 쉬면서 비를 기다릴 수 있어. 도움을 주셔서 고마워, 친구!<E>",
-    "description": "SphinxText.xls, row 586"
+    "message": "농장을 준비하는 것은 정말 힘든 일이었지만 이제 우리는 좀 쉬면서 비를 기다릴 수 있어. 도움을 주셔서 고마워, 친구!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_BrotherFreed1a": {
-    "message": "기적이야! 제 형제가 돌아왔어!<E>",
-    "description": "SphinxText.xls, row 587"
+    "message": "기적이야! 제 형제가 돌아왔어!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_BrotherFreed1b": {
-    "message": "감사해야 하는데 어떻게 보답을 해야 할 지 모르겠군.<E>",
-    "description": "SphinxText.xls, row 588"
+    "message": "감사해야 하는데 어떻게 보답을 해야 할 지 모르겠군.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_Thanks1a": {
-    "message": "우리 형제가 다시 합치게 되어서 기쁘다. 우리는 이제 우리의 농장으로 다시 돌아갈 수 있어.<E>",
-    "description": "SphinxText.xls, row 589"
+    "message": "우리 형제가 다시 합치게 되어서 기쁘다. 우리는 이제 우리의 농장으로 다시 돌아갈 수 있어.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_Thanks1b": {
-    "message": "농장 일을 해야 할 시간이야... 하지만 어디서부터 시작해야 할 지 모르겠군. 어디를 파는 게 좋을 것 같아?<E>",
-    "description": "SphinxText.xls, row 590"
+    "message": "농장 일을 해야 할 시간이야... 하지만 어디서부터 시작해야 할 지 모르겠군. 어디를 파는 게 좋을 것 같아?<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_Thanks1c": {
-    "message": "어떻게 되는지 알려주지. 아마 우리를 도와줄 수 있을 지도 모르겠군. <E>",
-    "description": "SphinxText.xls, row 591"
+    "message": "어떻게 되는지 알려주지. 아마 우리를 도와줄 수 있을 지도 모르겠군. <E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_CSIntro01": {
-    "message": "도착했다, 마침내 <FC 128,64,0>헬리오폴리스<END FC>다!<E>",
-    "description": "SphinxText.xls, row 592"
+    "message": "도착했다, 마침내 <FC 128,64,0>헬리오폴리스<END FC>다!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_CSIntro01a": {
-    "message": "한 때는 위대한 왕국이었지만, 지금은 버림받은 외딴 황무지에 불과해요.<E>",
-    "description": "SphinxText.xls, row 593"
+    "message": "한 때는 위대한 왕국이었지만, 지금은 버림받은 외딴 황무지에 불과해요.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_CSIntro02": {
-    "message": "내 생각으로 너는 <FC 128,64,0>아비도스<END FC>에 머무르는 편이 좋았어. 여기는 모래와 나쁜 괴물들 외에는 별다른 것을 발견하지 못할 거야.<E>",
-    "description": "SphinxText.xls, row 594"
+    "message": "내 생각으로 너는 <FC 128,64,0>아비도스<END FC>에 머무르는 편이 좋았어. 여기는 모래와 나쁜 괴물들 외에는 별다른 것을 발견하지 못할 거야.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_CSIntro03": {
-    "message": "사실, 그게 내가 지금 당장 <FC 128,64,0>아비도스<END FC>로 돌아가는 이유지.<E> ",
-    "description": "SphinxText.xls, row 595"
+    "message": "사실, 그게 내가 지금 당장 <FC 128,64,0>아비도스<END FC>로 돌아가는 이유지.<E> "
   },
   "HT_Text_Hel_Exterior_BoatOwner_CSIntro04": {
-    "message": "며칠 후 이 지역에 다시 돌아올 거야. 그 때 볼 수도 있겠군...<W 90>",
-    "description": "SphinxText.xls, row 596"
+    "message": "며칠 후 이 지역에 다시 돌아올 거야. 그 때 볼 수도 있겠군...<W 90>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_WhereTo00": {
-    "message": "안녕! 다시 만나서 반가워요.<P>오늘은 어디로 항해하고 싶습니까?<P>  <B 1> <FC 128,64,0>아비도스<END FC><PC 1><B 7> 아무 곳도 아니다<E>",
-    "description": "SphinxText.xls, row 597"
+    "message": "안녕! 다시 만나서 반가워요.<P>오늘은 어디로 항해하고 싶습니까?<P>  <B 1> <FC 128,64,0>아비도스<END FC><PC 1><B 7> 아무 곳도 아니다<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_WhereTo01": {
-    "message": "안녕! 다시 만나서 반가워요.<P>오늘은 어디로 항해하고 싶습니까?<P>  <B 1> <FC 128,64,0>아비도스<END FC><PC 1><B 4> <FC 128,64,0>저주 받은 성<END FC><N>  <B 3> <FC 128,64,0>남쪽 해변<END FC><PC 1><B 7> 아무 곳도 아니다<E>",
-    "description": "SphinxText.xls, row 598"
+    "message": "안녕! 다시 만나서 반가워요.<P>오늘은 어디로 항해하고 싶습니까?<P>  <B 1> <FC 128,64,0>아비도스<END FC><PC 1><B 4> <FC 128,64,0>저주 받은 성<END FC><N>  <B 3> <FC 128,64,0>남쪽 해변<END FC><PC 1><B 7> 아무 곳도 아니다<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_WhereTo02": {
-    "message": "안녕! 다시 만나서 반갑습니다.<P>오늘은 어디로 항해하고 싶습니까?<P>  <B 1> <FC 128,64,0>아비도스<END FC><PC 1><B 4> <FC 128,64,0>저주 받은 성<END FC><N>  <B 3> <FC 128,64,0>남쪽 해변<END FC><PC 1><B 5> <FC 128,64,0>헬리오폴리스 지점<END FC><N>  <B 7> 아무 곳도 아니다<E>",
-    "description": "SphinxText.xls, row 599"
+    "message": "안녕! 다시 만나서 반갑습니다.<P>오늘은 어디로 항해하고 싶습니까?<P>  <B 1> <FC 128,64,0>아비도스<END FC><PC 1><B 4> <FC 128,64,0>저주 받은 성<END FC><N>  <B 3> <FC 128,64,0>남쪽 해변<END FC><PC 1><B 5> <FC 128,64,0>헬리오폴리스 지점<END FC><N>  <B 7> 아무 곳도 아니다<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_WhereTo03": {
-    "message": "안녕! 다시 만나서 반갑습니다.<P>오늘은 어디로 향해하고 싶습니까?<P>  <B 1> <FC 128,64,0>아비도스<END FC><PC 1><B 4> <FC 128,64,0>저주 받은 성<END FC><N>  <B 3> <FC 128,64,0>남쪽 해변<END FC><PC 1><B 5> <FC 128,64,0>헬리오폴리스 지점<END FC><N>  <B 6> <FC 128,64,0>베두인 변방<END FC><PC 1><B 7> 아무 곳도 아니다<E>",
-    "description": "SphinxText.xls, row 600"
+    "message": "안녕! 다시 만나서 반갑습니다.<P>오늘은 어디로 향해하고 싶습니까?<P>  <B 1> <FC 128,64,0>아비도스<END FC><PC 1><B 4> <FC 128,64,0>저주 받은 성<END FC><N>  <B 3> <FC 128,64,0>남쪽 해변<END FC><PC 1><B 5> <FC 128,64,0>헬리오폴리스 지점<END FC><N>  <B 6> <FC 128,64,0>베두인 변방<END FC><PC 1><B 7> 아무 곳도 아니다<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_Return01": {
-    "message": "본토로 돌아갈 준비가 되었습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 601"
+    "message": "본토로 돌아갈 준비가 되었습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_Return02": {
-    "message": "<FC 128,64,0>헬리오폴리스<END FC>로 돌아갈 준비가 되었습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 602"
+    "message": "<FC 128,64,0>헬리오폴리스<END FC>로 돌아갈 준비가 되었습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_GenericLetsGo": {
-    "message": "좋습니다, 갑시다!<E>",
-    "description": "SphinxText.xls, row 603"
+    "message": "좋습니다, 갑시다!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToImhotepPrice": {
-    "message": "비용은 <FC 0,128,0>10 스캐럽<END FC>입니다<N>  <B 1> 좋아<N>  <B 2> 그만 두겠어<E>",
-    "description": "SphinxText.xls, row 604"
+    "message": "비용은 <FC 0,128,0>10 스캐럽<END FC>입니다<N>  <B 1> 좋아<N>  <B 2> 그만 두겠어<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToImhotepConfirm": {
-    "message": "다음은 <FC 128,64,0>태양 성당 섬<END FC>에서 멈춥니다!<E>",
-    "description": "SphinxText.xls, row 605"
+    "message": "다음은 <FC 128,64,0>태양 성당 섬<END FC>에서 멈춥니다!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_DestinationDecline": {
-    "message": "좋습니다, 생각이 바뀌면 알려주십시오.<E>",
-    "description": "SphinxText.xls, row 606"
+    "message": "좋습니다, 생각이 바뀌면 알려주십시오.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToAbydosPrice": {
-    "message": "<FC 0,128,0>25 스캐럽<END FC>입니다<N>  <B 1> 좋아<N>  <B 2> 그만 두겠어<E>",
-    "description": "SphinxText.xls, row 607"
+    "message": "<FC 0,128,0>25 스캐럽<END FC>입니다<N>  <B 1> 좋아<N>  <B 2> 그만 두겠어<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToAbydosConfirm": {
-    "message": "다음은 <FC 128,64,0>아비도스<END FC>!<E>",
-    "description": "SphinxText.xls, row 608"
+    "message": "다음은 <FC 128,64,0>아비도스<END FC>!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToCursedPalacePrice": {
-    "message": "<FC 0,128,0>5 스캐럽<END FC>입니다<N>  <B 1> 좋아<N>  <B 2> 그만 두겠어<E>",
-    "description": "SphinxText.xls, row 609"
+    "message": "<FC 0,128,0>5 스캐럽<END FC>입니다<N>  <B 1> 좋아<N>  <B 2> 그만 두겠어<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToCursedPalaceConfirm": {
-    "message": "다음은 <FC 128,64,0>저주 받은 성<END FC>입니다!<E>",
-    "description": "SphinxText.xls, row 610"
+    "message": "다음은 <FC 128,64,0>저주 받은 성<END FC>입니다!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToBedouinOutpostPrice": {
-    "message": "<FC 0,128,0>5 스캐럽<END FC>입니다<N>  <B 1> 좋아<N>  <B 2> 그만 두겠어<E>",
-    "description": "SphinxText.xls, row 611"
+    "message": "<FC 0,128,0>5 스캐럽<END FC>입니다<N>  <B 1> 좋아<N>  <B 2> 그만 두겠어<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToBedouinOutpostConfirm": {
-    "message": "다음은 <FC 128,64,0>베두인 변방<END FC>입니다!<E>",
-    "description": "SphinxText.xls, row 612"
+    "message": "다음은 <FC 128,64,0>베두인 변방<END FC>입니다!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToHeliopolisPointPrice": {
-    "message": "<FC 0,128,0>5 스캐럽<END FC>입니다<N>  <B 1> 좋아<N>  <B 2> 그만 두겠어<E>",
-    "description": "SphinxText.xls, row 613"
+    "message": "<FC 0,128,0>5 스캐럽<END FC>입니다<N>  <B 1> 좋아<N>  <B 2> 그만 두겠어<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToHeliopolisPointConfirm": {
-    "message": "다음은 <FC 128,64,0>헬리오폴리스 지점<END FC>입니다!<E>",
-    "description": "SphinxText.xls, row 614"
+    "message": "다음은 <FC 128,64,0>헬리오폴리스 지점<END FC>입니다!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToSouthBeachPrice": {
-    "message": "<FC 0,128,0>5 스캐럽<END FC>입니다<N>  <B 1> 좋아<N>  <B 2> 그만 두겠어<E>",
-    "description": "SphinxText.xls, row 615"
+    "message": "<FC 0,128,0>5 스캐럽<END FC>입니다<N>  <B 1> 좋아<N>  <B 2> 그만 두겠어<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToSouthBeachConfirm": {
-    "message": "다음은 <FC 128,64,0>남쪽 해변<END FC>입니다!<E>",
-    "description": "SphinxText.xls, row 616"
+    "message": "다음은 <FC 128,64,0>남쪽 해변<END FC>입니다!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_AtHeliopolisPoint": {
-    "message": "여기가 정말 <FC 128,64,0>헬리오폴리스 지점<END FC>입니다! 친구, 지리에 그리 밝지 못한 것 같군요, 그렇죠?<E>",
-    "description": "SphinxText.xls, row 617"
+    "message": "여기가 정말 <FC 128,64,0>헬리오폴리스 지점<END FC>입니다! 친구, 지리에 그리 밝지 못한 것 같군요, 그렇죠?<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_AtCursedPalace": {
-    "message": "여기가 정말 <FC 128,64,0>저주 받은 성<END FC>입니다! 저쪽에 있던 큰 건물을 보지 못했나요?<E>",
-    "description": "SphinxText.xls, row 618"
+    "message": "여기가 정말 <FC 128,64,0>저주 받은 성<END FC>입니다! 저쪽에 있던 큰 건물을 보지 못했나요?<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_AtSouthBeach": {
-    "message": "여기가 정말 <FC 128,64,0>남쪽 해변<END FC>입니다! 주위를 더 유심히 살펴보셔야 하겠군요, 친구!<E>",
-    "description": "SphinxText.xls, row 619"
+    "message": "여기가 정말 <FC 128,64,0>남쪽 해변<END FC>입니다! 주위를 더 유심히 살펴보셔야 하겠군요, 친구!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_AtBedouinOutpost": {
-    "message": "여기가 정말 <FC 128,64,0>베두인 변방<END FC>입니다! 뒤에 있던 천막들을 보지 못했나요?<E>",
-    "description": "SphinxText.xls, row 620"
+    "message": "여기가 정말 <FC 128,64,0>베두인 변방<END FC>입니다! 뒤에 있던 천막들을 보지 못했나요?<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_QuestIntro": {
-    "message": "<FC 128,64,0>아비도스<END FC>로 데려다 드리겠지만 저의 <FC 0,128,0>돛<END FC>을 도둑맞았고 저라도 거기까지는 노를 저어갈 수는 없답니다.<P>만약 <FC 0,128,0>돛<END FC>을 발견한다면 무료로 기꺼이 <FC 128,64,0>아비도스<END FC>까지 데려다 드리지요.<E>",
-    "description": "SphinxText.xls, row 621"
+    "message": "<FC 128,64,0>아비도스<END FC>로 데려다 드리겠지만 저의 <FC 0,128,0>돛<END FC>을 도둑맞았고 저라도 거기까지는 노를 저어갈 수는 없답니다.<P>만약 <FC 0,128,0>돛<END FC>을 발견한다면 무료로 기꺼이 <FC 128,64,0>아비도스<END FC>까지 데려다 드리지요.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_QuestReminder": {
-    "message": "말했다시피 내 <FC 0,128,0>돛<END FC>을 찾아야만 <FC 128,64,0>아비도스<END FC>까지 모실 수 있습니다.<E>",
-    "description": "SphinxText.xls, row 622"
+    "message": "말했다시피 내 <FC 0,128,0>돛<END FC>을 찾아야만 <FC 128,64,0>아비도스<END FC>까지 모실 수 있습니다.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_QuestComplete": {
-    "message": "훌륭해요! 내 <FC 0,128,0>돛<END FC>을 찾았군요!<P>원한다면 지금 <FC 128,64,0>아비도스<END FC>로 갈 수 있습니다.<N>  <B 1> 갑시다<N>  <B 2> 아직 아니오<E>",
-    "description": "SphinxText.xls, row 623"
+    "message": "훌륭해요! 내 <FC 0,128,0>돛<END FC>을 찾았군요!<P>원한다면 지금 <FC 128,64,0>아비도스<END FC>로 갈 수 있습니다.<N>  <B 1> 갑시다<N>  <B 2> 아직 아니오<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToAbydosFree": {
-    "message": "제 돛을 찾은 것을 보니 이번에는 무료로 데려다 드리지요.<N>  <B 1> 갑시다<N>  <B 2> 아직 아니오<E>",
-    "description": "SphinxText.xls, row 624"
+    "message": "제 돛을 찾은 것을 보니 이번에는 무료로 데려다 드리지요.<N>  <B 1> 갑시다<N>  <B 2> 아직 아니오<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_NotEnoughMoney": {
-    "message": "미안합니다만 <FC 0,128,0>스캐럽<END FC>이 충분하지 않군요.<E>",
-    "description": "SphinxText.xls, row 625"
+    "message": "미안합니다만 <FC 0,128,0>스캐럽<END FC>이 충분하지 않군요.<E>"
   },
   "HT_Text_Hel_Exterior_DungeonGuard_Intro01": {
-    "message": "<CNTR>---[ <FC 128,64,0>헬리오폴리스의 잊혀진 사원<END FC> ]---<N>---[ 오직 전투에서 가치를 증명한 자들만이<N>이 성스러운 장소로의 입장이 허용될 것이다 ]---<E>",
-    "description": "SphinxText.xls, row 626"
+    "message": "<CNTR>---[ <FC 128,64,0>헬리오폴리스의 잊혀진 사원<END FC> ]---<N>---[ 오직 전투에서 가치를 증명한 자들만이<N>이 성스러운 장소로의 입장이 허용될 것이다 ]---<E>"
   },
   "HT_Text_Hel_Exterior_DungeonGuard_Defeated01": {
-    "message": "좋아 너는 <FC 128,64,0>성스러운 사원<END FC>으로 통과할 만한 가치가 있다는 것을 의심할 여지 없이 나에게 증명하였다.<P>안녕히, 젊은 용사여.<E>",
-    "description": "SphinxText.xls, row 627"
+    "message": "좋아 너는 <FC 128,64,0>성스러운 사원<END FC>으로 통과할 만한 가치가 있다는 것을 의심할 여지 없이 나에게 증명하였다.<P>안녕히, 젊은 용사여.<E>"
   },
   "HT_Text_Hel_Exterior_DungeonGuard_Defeated02": {
-    "message": "원하는 때 언제나 자유로이 <FC 128,64,0>성스러운 사원<END FC>에 입장할 수 있다, 젊은 용사여.<E>",
-    "description": "SphinxText.xls, row 628"
+    "message": "원하는 때 언제나 자유로이 <FC 128,64,0>성스러운 사원<END FC>에 입장할 수 있다, 젊은 용사여.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_Intro01": {
-    "message": "안녕하신가! 전에 이곳에서 네 얼굴을 보지 못한 것 같은데. <FC 128,64,0>헬리오폴리스<END FC>에 온 것을 환영한다.<P>이곳이 황폐해 보이기는 하지만, <FC 128,64,0>헬리오폴리스<END FC>는 많은 괴물들의 집이지.<P>오랫동안 내 취미는 이곳과 다른 세상에서 괴물의 표본을 수집하는 것이야..<E>",
-    "description": "SphinxText.xls, row 629"
+    "message": "안녕하신가! 전에 이곳에서 네 얼굴을 보지 못한 것 같은데. <FC 128,64,0>헬리오폴리스<END FC>에 온 것을 환영한다.<P>이곳이 황폐해 보이기는 하지만, <FC 128,64,0>헬리오폴리스<END FC>는 많은 괴물들의 집이지.<P>오랫동안 내 취미는 이곳과 다른 세상에서 괴물의 표본을 수집하는 것이야..<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_Intro02": {
-    "message": "<FC 0,128,0>포획 딱정벌레<END FC>가 하나도 없다면 나를 도와줄 수 없을 것 같다.<E>",
-    "description": "SphinxText.xls, row 630"
+    "message": "<FC 0,128,0>포획 딱정벌레<END FC>가 하나도 없다면 나를 도와줄 수 없을 것 같다.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_Prompt01": {
-    "message": "수중에 <FC 0,128,0>딱정벌레 주머니<END FC>가 하나 있는 게 보이는 군.<P>내 보조자가 되는 것에 관심이 있는가?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 631"
+    "message": "수중에 <FC 0,128,0>딱정벌레 주머니<END FC>가 하나 있는 게 보이는 군.<P>내 보조자가 되는 것에 관심이 있는가?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_Prompt02": {
-    "message": "내 보조자가 되는 것에 관심이 있는가?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 632"
+    "message": "내 보조자가 되는 것에 관심이 있는가?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_PromptAccept01": {
-    "message": "훌륭해! 이제, 나는 괴물 표본 수집을 더 광범위하게 늘리는데 내 보조자인 너에게 의지할 거야.<P>이 목록을 가져가라. 각 괴물을 하나씩 잡아서 나에게 가져오면 보상문제를 함께 의논해보기로 하지.<P>열심히 사냥하라구!<E>",
-    "description": "SphinxText.xls, row 633"
+    "message": "훌륭해! 이제, 나는 괴물 표본 수집을 더 광범위하게 늘리는데 내 보조자인 너에게 의지할 거야.<P>이 목록을 가져가라. 각 괴물을 하나씩 잡아서 나에게 가져오면 보상문제를 함께 의논해보기로 하지.<P>열심히 사냥하라구!<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_PromptDecline01": {
-    "message": "아, 저런, 알다시피 보조자들은 꽤 많은 돈을 벌 수 있다구.<E>",
-    "description": "SphinxText.xls, row 634"
+    "message": "아, 저런, 알다시피 보조자들은 꽤 많은 돈을 벌 수 있다구.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List01Incomplete": {
-    "message": "목록에 있는 모든 괴물들을 가지고 있지않군. 각각의 하나씩 가지게되면 돌아오라구.<E>",
-    "description": "SphinxText.xls, row 635"
+    "message": "목록에 있는 모든 괴물들을 가지고 있지않군. 각각의 하나씩 가지게되면 돌아오라구.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List01Complete": {
-    "message": "훌륭해, 목록에 있는 모든 괴물들을 사로잡았군! 아, 좋은 표본들로 보이는군. 이들은 내 수집에 훌륭한 추가물이 될꺼야.<P>이제, 너의 보상에 관해서말인데. 이 괴물들은 흔한 것들이기 때문에 잡아온 것에 대해서 <FC 0,128,0>100 스캐럽<END FC>밖에는 줄 수 없겠다.<E>",
-    "description": "SphinxText.xls, row 636"
+    "message": "훌륭해, 목록에 있는 모든 괴물들을 사로잡았군! 아, 좋은 표본들로 보이는군. 이들은 내 수집에 훌륭한 추가물이 될꺼야.<P>이제, 너의 보상에 관해서말인데. 이 괴물들은 흔한 것들이기 때문에 잡아온 것에 대해서 <FC 0,128,0>100 스캐럽<END FC>밖에는 줄 수 없겠다.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List02Presentation": {
-    "message": "너를 위해 다른 괴물들의 목록을 준비했다. 이것들은 첫 번째 목록에 있던 것들보다 더 이국적이고 나는 공평한 사람이니깐 너의 보상도 맞춰서 증가하게 될 거다.<P>목록이 여기있다. 즐겁게 사냥하라구!<E>",
-    "description": "SphinxText.xls, row 637"
+    "message": "너를 위해 다른 괴물들의 목록을 준비했다. 이것들은 첫 번째 목록에 있던 것들보다 더 이국적이고 나는 공평한 사람이니깐 너의 보상도 맞춰서 증가하게 될 거다.<P>목록이 여기있다. 즐겁게 사냥하라구!<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List02Incomplete": {
-    "message": "미안하지만 목록이 완수되지 않았군. 각 괴물 하나씩 가지고 있을 때 돌아와라.<E>",
-    "description": "SphinxText.xls, row 638"
+    "message": "미안하지만 목록이 완수되지 않았군. 각 괴물 하나씩 가지고 있을 때 돌아와라.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List02Complete": {
-    "message": "잘했어, 친구! 이렇게 빨리 목록을 끝낼 줄을 몰랐는데. 이 표본들을 내 수집에 추가하려고한다.<P>말했던 것처럼, 이 목록은 좀 더 이국적인 괴물들을 포함하고 있다. 사로잡은 대가로 <FC 0,128,0>200 스캐럽<END FC>을 줄 수 있다.<E>",
-    "description": "SphinxText.xls, row 639"
+    "message": "잘했어, 친구! 이렇게 빨리 목록을 끝낼 줄을 몰랐는데. 이 표본들을 내 수집에 추가하려고한다.<P>말했던 것처럼, 이 목록은 좀 더 이국적인 괴물들을 포함하고 있다. 사로잡은 대가로 <FC 0,128,0>200 스캐럽<END FC>을 줄 수 있다.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List03Presentation": {
-    "message": "이 목록은 내 평생 동안 소유를 꿈꿔왔던 괴물들이다.<P>머나먼 땅에는 이 괴물들이 자유로이 돌아다니지. 정말 장엄한 광경일꺼야!<P>이 목록을 완수하면 네가 나의 꿈이 현실화되는 것을 이루어줄거야. 이것을 하면 내가 너에게 나의 가장 소중한 물건으로 보상하겠다.<P>즐겁게 사냥하라구!<E>",
-    "description": "SphinxText.xls, row 640"
+    "message": "이 목록은 내 평생 동안 소유를 꿈꿔왔던 괴물들이다.<P>머나먼 땅에는 이 괴물들이 자유로이 돌아다니지. 정말 장엄한 광경일꺼야!<P>이 목록을 완수하면 네가 나의 꿈이 현실화되는 것을 이루어줄거야. 이것을 하면 내가 너에게 나의 가장 소중한 물건으로 보상하겠다.<P>즐겁게 사냥하라구!<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List03Incomplete": {
-    "message": "목록에 있는 모든 괴물들이 없다. 각 괴물을 하나씩 가지게 되면 돌아와라. 나를 그렇게 흥분하게 하다니!<E>",
-    "description": "SphinxText.xls, row 641"
+    "message": "목록에 있는 모든 괴물들이 없다. 각 괴물을 하나씩 가지게 되면 돌아와라. 나를 그렇게 흥분하게 하다니!<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List03Complete": {
-    "message": "......<P>이럴 수가! 내 목록을 완수했구나! 좋아! 훌륭한 표본들이군 - 정말 멋진 날이야!<P>너 때문에 정말 기쁘다! 여기, 이것을 가져가라, 나의 소중한 물건이다.<E>",
-    "description": "SphinxText.xls, row 642"
+    "message": "......<P>이럴 수가! 내 목록을 완수했구나! 좋아! 훌륭한 표본들이군 - 정말 멋진 날이야!<P>너 때문에 정말 기쁘다! 여기, 이것을 가져가라, 나의 소중한 물건이다.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_Complete01": {
-    "message": "덕분에 <FC 128,64,0>헬리오폴리스<END FC>에서 가장 훌륭한 괴물 수집을 가지고 있게 되었다!<E>",
-    "description": "SphinxText.xls, row 643"
+    "message": "덕분에 <FC 128,64,0>헬리오폴리스<END FC>에서 가장 훌륭한 괴물 수집을 가지고 있게 되었다!<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro01": {
-    "message": "사람들한테 그렇게 몰래 다가가면 안돼! 내 소중한 물건들을 훔쳐가려는 줄 알았잖아!<P>사실 아직 너를 믿을 수 있는지 모르겠다. <FC 0,128,0>10 오닉스 스캐럽<END FC>을 나에게 주면 생각을 바꿀지도 모르겠다.<E>",
-    "description": "SphinxText.xls, row 644"
+    "message": "사람들한테 그렇게 몰래 다가가면 안돼! 내 소중한 물건들을 훔쳐가려는 줄 알았잖아!<P>사실 아직 너를 믿을 수 있는지 모르겠다. <FC 0,128,0>10 오닉스 스캐럽<END FC>을 나에게 주면 생각을 바꿀지도 모르겠다.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro02": {
-    "message": "<FC 0,128,0>오닉스 스캐럽<END FC>은 흔했지만 요즘은 매우 희귀하고 가치가 높다.<E>",
-    "description": "SphinxText.xls, row 645"
+    "message": "<FC 0,128,0>오닉스 스캐럽<END FC>은 흔했지만 요즘은 매우 희귀하고 가치가 높다.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro03": {
-    "message": "그거야! 내가 제일 좋아하는 <FC 0,128,0>글리프<END FC>! 이제 너를 믿을 수 있을 것 같다. 내가 팔려는 멋진 물건들을 살펴보라구.<E>",
-    "description": "SphinxText.xls, row 646"
+    "message": "그거야! 내가 제일 좋아하는 <FC 0,128,0>글리프<END FC>! 이제 너를 믿을 수 있을 것 같다. 내가 팔려는 멋진 물건들을 살펴보라구.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro04": {
-    "message": "지불은 <FC 0,128,0>오닉스 스캐럽<END FC>만 받는다. 소문에 의하면 <FC 128,64,0>우루크<END FC> 깊숙이 있는 성의 어떤 신비스러운 남자가 축적해놓는다는군.<E>",
-    "description": "SphinxText.xls, row 647"
+    "message": "지불은 <FC 0,128,0>오닉스 스캐럽<END FC>만 받는다. 소문에 의하면 <FC 128,64,0>우루크<END FC> 깊숙이 있는 성의 어떤 신비스러운 남자가 축적해놓는다는군.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro05": {
-    "message": "지불은 <FC 0,128,0>오닉스 스캐럽<END FC>만 받는다.<E>",
-    "description": "SphinxText.xls, row 648"
+    "message": "지불은 <FC 0,128,0>오닉스 스캐럽<END FC>만 받는다.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Prompt01": {
-    "message": "오! <FC 0,128,0>오닉스 스캐럽 10<END FC>개를 나에게 주겠어?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 649"
+    "message": "오! <FC 0,128,0>오닉스 스캐럽 10<END FC>개를 나에게 주겠어?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Accept01": {
-    "message": "훌륭해! 이제 너를 믿을 수 있을 것 같다. 내가 팔려 하는 훌륭한 물건들을 좀 봐!<E>",
-    "description": "SphinxText.xls, row 650"
+    "message": "훌륭해! 이제 너를 믿을 수 있을 것 같다. 내가 팔려 하는 훌륭한 물건들을 좀 봐!<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Decline01": {
-    "message": "마음대로 하시지, 하지만 내가 팔려 하는 이국적인 물건들이 뭐가 있는지 절대 알 수 없을걸. 하!<E>",
-    "description": "SphinxText.xls, row 651"
+    "message": "마음대로 하시지, 하지만 내가 팔려 하는 이국적인 물건들이 뭐가 있는지 절대 알 수 없을걸. 하!<E>"
   },
   "HT_Text_Hel_Exterior_Trader_Intro01": {
-    "message": "환영하네, 젊은 여행자여! 근방에서 새 손님을 보게되서 좋군. 최근 사업이 별로야.<P>지금은 재고가 별로 없지만 관심 있는 물건을 찾을지 몰라.<E>",
-    "description": "SphinxText.xls, row 652"
+    "message": "환영하네, 젊은 여행자여! 근방에서 새 손님을 보게되서 좋군. 최근 사업이 별로야.<P>지금은 재고가 별로 없지만 관심 있는 물건을 찾을지 몰라.<E>"
   },
   "HT_Text_Hel_Exterior_Trader_General01": {
-    "message": "어딜 가도 더 좋은 가격은 찾지 못할걸!<E>",
-    "description": "SphinxText.xls, row 653"
+    "message": "어딜 가도 더 좋은 가격은 찾지 못할걸!<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Intro01": {
-    "message": "안녕! 이 지역에서 동료 운동선수를 보게되서 좋군, 비록 네 체격이 강인한 인상을 주는 내 체격근처에도 오지 못하지만 말이야.<P>뻔히 보이겠지만, 내 몸은 나무랄 데없이 작동하는 기계라구, 다년간의 고된 훈련으로 완벽히 연마되었지.<P>나는 여기서 다음 해변의 끝까지 왕복으로 <FC 0,128,0>70 초<END FC>안에 달릴 수 있다.<E>",
-    "description": "SphinxText.xls, row 654"
+    "message": "안녕! 이 지역에서 동료 운동선수를 보게되서 좋군, 비록 네 체격이 강인한 인상을 주는 내 체격근처에도 오지 못하지만 말이야.<P>뻔히 보이겠지만, 내 몸은 나무랄 데없이 작동하는 기계라구, 다년간의 고된 훈련으로 완벽히 연마되었지.<P>나는 여기서 다음 해변의 끝까지 왕복으로 <FC 0,128,0>70 초<END FC>안에 달릴 수 있다.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Prompt01": {
-    "message": "내 시간을 깰 수 있다고 생각해?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 655"
+    "message": "내 시간을 깰 수 있다고 생각해?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Prompt02": {
-    "message": "내가 규칙을 설명해줄까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 656"
+    "message": "내가 규칙을 설명해줄까?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Decline01": {
-    "message": "오, 자신의 한계를 아는 사람이군. 내 시간을 깰 수 있다고 생각하면 돌아오라구.<E>",
-    "description": "SphinxText.xls, row 657"
+    "message": "오, 자신의 한계를 아는 사람이군. 내 시간을 깰 수 있다고 생각하면 돌아오라구.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Accept01": {
-    "message": "좋았어. 행운을 빈다, 꼬마! 행운이 필요할 거야!<P><N><CNTR>제자리에...<P><N><CNTR>차려...<P><N><CNTR>출발!<W 30>",
-    "description": "SphinxText.xls, row 658"
+    "message": "좋았어. 행운을 빈다, 꼬마! 행운이 필요할 거야!<P><N><CNTR>제자리에...<P><N><CNTR>차려...<P><N><CNTR>출발!<W 30>"
   },
   "HT_Text_Hel_Exterior_Athlete_Rules01": {
-    "message": "여기서 다음 해변의 끝에 있는 암벽에 걸려있는 흔들리는 것까지 <FC 0,128,0>70 초<END FC>안에 달려갔다가 돌아와야 해.<P>네가 속임수를 쓰지 않는다는 것을 확인하기 위해서 너는 돌아오기 전에 그 흔들리는 것을 너의 칼로 쳐야만 한다.<P>돌아와서 나에게 이야기를 하면 내가 타이머를 멈추지.<E>",
-    "description": "SphinxText.xls, row 659"
+    "message": "여기서 다음 해변의 끝에 있는 암벽에 걸려있는 흔들리는 것까지 <FC 0,128,0>70 초<END FC>안에 달려갔다가 돌아와야 해.<P>네가 속임수를 쓰지 않는다는 것을 확인하기 위해서 너는 돌아오기 전에 그 흔들리는 것을 너의 칼로 쳐야만 한다.<P>돌아와서 나에게 이야기를 하면 내가 타이머를 멈추지.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_TimeSlow01": {
-    "message": "<FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> 초<END FC>에 해냈군. 그리 나쁘지는 않아, 하지만 예상했던 것처럼 나처럼 빠르지는 않군.<E>",
-    "description": "SphinxText.xls, row 660"
+    "message": "<FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> 초<END FC>에 해냈군. 그리 나쁘지는 않아, 하지만 예상했던 것처럼 나처럼 빠르지는 않군.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_TimeSame01": {
-    "message": "우와, <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> 초<END FC>만에 해냈군. 내 최고기록과 동일하군. 상당히 인상적인걸! 하지만 나를 정말 감동시키려면 내 시간을 깨야만 해.<E>",
-    "description": "SphinxText.xls, row 661"
+    "message": "우와, <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> 초<END FC>만에 해냈군. 내 최고기록과 동일하군. 상당히 인상적인걸! 하지만 나를 정말 감동시키려면 내 시간을 깨야만 해.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_TimeFast01": {
-    "message": "머야?! 벌써 돌아왔어?! <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> 초<END FC>밖에 걸리지 않았잖아! 놀랍군!<P>네가 내 시간을 납득가게 뛰어 넘었기때문에 네가 더 훌륭한 운동선수라는 것을 인정하지. 자, 이것을 가져가라. 이것은 내가 기억할 수 있는 아주 오랫동안 나를 강하게 해 주었어.<E>",
-    "description": "SphinxText.xls, row 662"
+    "message": "머야?! 벌써 돌아왔어?! <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> 초<END FC>밖에 걸리지 않았잖아! 놀랍군!<P>네가 내 시간을 납득가게 뛰어 넘었기때문에 네가 더 훌륭한 운동선수라는 것을 인정하지. 자, 이것을 가져가라. 이것은 내가 기억할 수 있는 아주 오랫동안 나를 강하게 해 주었어.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_TimeVoid01": {
-    "message": "흔들리는 것을 네 칼로 치지 않았다면, 너의 시간을 인정할 수 없어. 미안!<E>",
-    "description": "SphinxText.xls, row 663"
+    "message": "흔들리는 것을 네 칼로 치지 않았다면, 너의 시간을 인정할 수 없어. 미안!<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_TimeVoid02": {
-    "message": "내가 장님으로 보여?! 보트 타는 것을 봤어! 도전을 정당하게 시도하지 않으려면 가버리라구!<E>",
-    "description": "SphinxText.xls, row 664"
+    "message": "내가 장님으로 보여?! 보트 타는 것을 봤어! 도전을 정당하게 시도하지 않으려면 가버리라구!<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Complete01": {
-    "message": "네 시간은 놀라웠어! 나도 그 기록을 깨려면 더 열심히 훈련해야겠군. 드디어 다른 목표가 생긴 것 같군.<E>",
-    "description": "SphinxText.xls, row 665"
+    "message": "네 시간은 놀라웠어! 나도 그 기록을 깨려면 더 열심히 훈련해야겠군. 드디어 다른 목표가 생긴 것 같군.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Prompt01": {
-    "message": "아하! 마침내, 내 장애물 경주에 시도할 수 있을 만한 건장한 사람이군!<P>다년간 훈련을 해오면서 코스를 완벽히 익혔다. 난 누구도 깰 수 없는 시간기록을 가진게 확실해.<P>나의 시간을 깨는 것이 얼마나 힘들지 알고나 있어?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 666"
+    "message": "아하! 마침내, 내 장애물 경주에 시도할 수 있을 만한 건장한 사람이군!<P>다년간 훈련을 해오면서 코스를 완벽히 익혔다. 난 누구도 깰 수 없는 시간기록을 가진게 확실해.<P>나의 시간을 깨는 것이 얼마나 힘들지 알고나 있어?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Prompt02": {
-    "message": "그래서, 네 생각엔 네가 내 시간을 깰 수 있을 것 같아?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 667"
+    "message": "그래서, 네 생각엔 네가 내 시간을 깰 수 있을 것 같아?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Prompt03": {
-    "message": "과연! 하지만 두고보자구. 규칙을 알고 싶나?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 668"
+    "message": "과연! 하지만 두고보자구. 규칙을 알고 싶나?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Prompt04": {
-    "message": "<FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> 초<END FC>보다 빨리 갈 수 있다고 생각해?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 669"
+    "message": "<FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> 초<END FC>보다 빨리 갈 수 있다고 생각해?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Decline01": {
-    "message": "현명한 사람은 자신의 패배를 인정하지. 하지만, 생각이 바뀌면 돌아오라구.<E>",
-    "description": "SphinxText.xls, row 670"
+    "message": "현명한 사람은 자신의 패배를 인정하지. 하지만, 생각이 바뀌면 돌아오라구.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Rules01": {
-    "message": "규칙은 간단해. 코스의 끝에 있는 사당에 최대한 빨리 도달해야만 해.<P>만약 코스에서 떨어져서 바다에 떨어지면, 실패한 거다.<E>",
-    "description": "SphinxText.xls, row 671"
+    "message": "규칙은 간단해. 코스의 끝에 있는 사당에 최대한 빨리 도달해야만 해.<P>만약 코스에서 떨어져서 바다에 떨어지면, 실패한 거다.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Start01": {
-    "message": "행운을 빈다, 확실히 행운이 필요할 거야!<P><N><CNTR>제자리에...<P><N><CNTR>차려...<P><N><CNTR>출발!<W 30>",
-    "description": "SphinxText.xls, row 672"
+    "message": "행운을 빈다, 확실히 행운이 필요할 거야!<P><N><CNTR>제자리에...<P><N><CNTR>차려...<P><N><CNTR>출발!<W 30>"
   },
   "HT_Text_Hel_Exterior_Obstacle_MidRace01": {
-    "message": "왜 나랑 잡답을 하지?! 시간은 흐르고 있다고...<E>",
-    "description": "SphinxText.xls, row 673"
+    "message": "왜 나랑 잡답을 하지?! 시간은 흐르고 있다고...<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeSlow01": {
-    "message": "마침내 돌아왔구만, 응? 머 이렇게 오래 걸렸지? <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> 초<END FC>는 불쌍한 기록이군, 친구.<P>나중에 연습 좀 더 한 후에 오는 게 좋겠어!<E>",
-    "description": "SphinxText.xls, row 674"
+    "message": "마침내 돌아왔구만, 응? 머 이렇게 오래 걸렸지? <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> 초<END FC>는 불쌍한 기록이군, 친구.<P>나중에 연습 좀 더 한 후에 오는 게 좋겠어!<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeSlow02": {
-    "message": "안됐지만 아직 너무 느려.<P><FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> 초<END FC>에 도착했고 네 최고기록은 <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> 초<END FC>다.<E> ",
-    "description": "SphinxText.xls, row 675"
+    "message": "안됐지만 아직 너무 느려.<P><FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> 초<END FC>에 도착했고 네 최고기록은 <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> 초<END FC>다.<E> "
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeMedium01": {
-    "message": "그리 나쁘진 않군, <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> 초<END FC>라니. 확실히 내 기록시간만큼 빠르진 못하군.<P>훈련을 더 하면 더 잘할 거라고 확신한다.<E> ",
-    "description": "SphinxText.xls, row 676"
+    "message": "그리 나쁘진 않군, <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> 초<END FC>라니. 확실히 내 기록시간만큼 빠르진 못하군.<P>훈련을 더 하면 더 잘할 거라고 확신한다.<E> "
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeMedium02": {
-    "message": "흠, 네 기록인 <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> 초<END FC>하고 같은 시간에 해냈군. 깨기 어려운 기록이 되겠군.<E>",
-    "description": "SphinxText.xls, row 677"
+    "message": "흠, 네 기록인 <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> 초<END FC>하고 같은 시간에 해냈군. 깨기 어려운 기록이 되겠군.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeFast01": {
-    "message": "어, 머야?! 어떻게 벌써 돌아왔지? 반칙했지! <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> 초<END FC>라, 정말 놀랍군!<P>보상 받을 가치가 있는 기록이야. 여기, 이것을 받아라. 이것의 네 여행에 너에게 활력을 가져다 주길 빈다.<E>",
-    "description": "SphinxText.xls, row 678"
+    "message": "어, 머야?! 어떻게 벌써 돌아왔지? 반칙했지! <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> 초<END FC>라, 정말 놀랍군!<P>보상 받을 가치가 있는 기록이야. 여기, 이것을 받아라. 이것의 네 여행에 너에게 활력을 가져다 주길 빈다.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeFast02": {
-    "message": "뛰어나군! <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> 초<END FC>는 신기록이다! 이 시간은 깨기 힘들겠군.<E>",
-    "description": "SphinxText.xls, row 679"
+    "message": "뛰어나군! <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> 초<END FC>는 신기록이다! 이 시간은 깨기 힘들겠군.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeVoid01": {
-    "message": "미안하지만, 바다로 떨어져서 내 시간을 깨는 것을 실패했다. 좀 쉬다가 원한다면 다시 시도해 보라구.<E>",
-    "description": "SphinxText.xls, row 680"
+    "message": "미안하지만, 바다로 떨어져서 내 시간을 깨는 것을 실패했다. 좀 쉬다가 원한다면 다시 시도해 보라구.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt01": {
-    "message": "어어이! 너는 육체적인 도전을 즐기는 사람처럼 보이는 군 - 이런 어둡고 위험한 시기에는 다행한 일이지.<P>나는 <FC 128,64,0>헬리오폴리스<END FC>의 최고의 수영선수다. <FC 128,64,0>아비도스<END FC>에 있는 그 숫한 애송이들 보다는 확실히 낫지.<P><FC 128,64,0>남쪽 해변<END FC>과 <FC 128,64,0>태양 성당 섬 <END FC>사이에 있는 바다의 훈련코스에서 훈련 했었지 .<P>내 훈련 코스를 완주할 수 있다고 생각해?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 681"
+    "message": "어어이! 너는 육체적인 도전을 즐기는 사람처럼 보이는 군 - 이런 어둡고 위험한 시기에는 다행한 일이지.<P>나는 <FC 128,64,0>헬리오폴리스<END FC>의 최고의 수영선수다. <FC 128,64,0>아비도스<END FC>에 있는 그 숫한 애송이들 보다는 확실히 낫지.<P><FC 128,64,0>남쪽 해변<END FC>과 <FC 128,64,0>태양 성당 섬 <END FC>사이에 있는 바다의 훈련코스에서 훈련 했었지 .<P>내 훈련 코스를 완주할 수 있다고 생각해?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt02": {
-    "message": "내 훈련 코스를 완주할 수 있다고 생각해?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 682"
+    "message": "내 훈련 코스를 완주할 수 있다고 생각해?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt03": {
-    "message": "좋아. 규칙을 듣고 싶나?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 683"
+    "message": "좋아. 규칙을 듣고 싶나?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt04": {
-    "message": "<FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> 초<END FC>보다 빨리 갈 수 있다고 생각해?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 684"
+    "message": "<FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> 초<END FC>보다 빨리 갈 수 있다고 생각해?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Decline01": {
-    "message": "망신당할 뻔 한 것을 모면했다고 생각해둬, 친구. 생각이 바뀌면 돌아오라구.<E>",
-    "description": "SphinxText.xls, row 685"
+    "message": "망신당할 뻔 한 것을 모면했다고 생각해둬, 친구. 생각이 바뀌면 돌아오라구.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Rules01": {
-    "message": "규칙은 간단해: 이 바다에 네가 헤엄쳐 통과해야만 하는 여러 개의 체크포인트가 있다.<P>체크포인트들은 제한된 시간 동안만 활성화되어있기때문에, 비활성화가 되기 전에 도달해야만 한다.<P>체크포인트를 하나 통과하면 다음 것이 활성화된다.<P>체크포인트가 비활성화 되기 전까지 도달하지 못하면 실패하는 거야.<E>",
-    "description": "SphinxText.xls, row 686"
+    "message": "규칙은 간단해: 이 바다에 네가 헤엄쳐 통과해야만 하는 여러 개의 체크포인트가 있다.<P>체크포인트들은 제한된 시간 동안만 활성화되어있기때문에, 비활성화가 되기 전에 도달해야만 한다.<P>체크포인트를 하나 통과하면 다음 것이 활성화된다.<P>체크포인트가 비활성화 되기 전까지 도달하지 못하면 실패하는 거야.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Start01": {
-    "message": "너에게 행운을 빌어봤자 쓸모 없겠지만, 어찌되었건 행운을 빈다!<P><N><CNTR>제자리에...<P><N><CNTR>준비...<P><N><CNTR>출발!<W 30>",
-    "description": "SphinxText.xls, row 687"
+    "message": "너에게 행운을 빌어봤자 쓸모 없겠지만, 어찌되었건 행운을 빈다!<P><N><CNTR>제자리에...<P><N><CNTR>준비...<P><N><CNTR>출발!<W 30>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeSlow01": {
-    "message": "이런, 정말 시간이 좀 걸렸군! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> 초<END FC>는 좀 느린 편이잖아, 친구!<P>너의 최고 시간은 아직 <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> 초<END FC>다.<E> ",
-    "description": "SphinxText.xls, row 688"
+    "message": "이런, 정말 시간이 좀 걸렸군! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> 초<END FC>는 좀 느린 편이잖아, 친구!<P>너의 최고 시간은 아직 <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> 초<END FC>다.<E> "
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeMedium01": {
-    "message": "너의 기록 시간인 <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> 초<END FC>와 동일한 시간에 해냈군. 피곤해 하는 걸 보아하니 깨기는 어렵겠군.<E>",
-    "description": "SphinxText.xls, row 689"
+    "message": "너의 기록 시간인 <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> 초<END FC>와 동일한 시간에 해냈군. 피곤해 하는 걸 보아하니 깨기는 어렵겠군.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeFast01": {
-    "message": "훌륭해! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> 초<END FC>는 새 기록이다! 이 시간은 깨기 어렵겠는걸. 요행이 분명해!<E>",
-    "description": "SphinxText.xls, row 690"
+    "message": "훌륭해! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> 초<END FC>는 새 기록이다! 이 시간은 깨기 어렵겠는걸. 요행이 분명해!<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeReward01": {
-    "message": "오, 매우 인상적인걸, 친구! 몇 안 되는 사람만이 내 훈련 코스를 완주할 능력을 소유하고 있지.<P>네가 이 코스를 <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> 초<END FC>만에 완주해냈기 때문에, 이것을 선물로 받았으면 한다.<P>아비도스의 수영선수가 오래 전 나에게 주었지. 물론 한 번도 사용하지 않았다. 나는 바보 같은 마법 장신구 같은 것 없이도 충분히 빨리 헤엄칠 수 있다구.<E>",
-    "description": "SphinxText.xls, row 691"
+    "message": "오, 매우 인상적인걸, 친구! 몇 안 되는 사람만이 내 훈련 코스를 완주할 능력을 소유하고 있지.<P>네가 이 코스를 <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> 초<END FC>만에 완주해냈기 때문에, 이것을 선물로 받았으면 한다.<P>아비도스의 수영선수가 오래 전 나에게 주었지. 물론 한 번도 사용하지 않았다. 나는 바보 같은 마법 장신구 같은 것 없이도 충분히 빨리 헤엄칠 수 있다구.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeReward02": {
-    "message": "코스를 다시 해보거나 네 시간을 깨보고 싶으면, 나한테 알려줘.<E>",
-    "description": "SphinxText.xls, row 692"
+    "message": "코스를 다시 해보거나 네 시간을 깨보고 싶으면, 나한테 알려줘.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeFailed01": {
-    "message": "하하하! 그 코스가 너한테는 너무 힘들 거라는 것을 알고 있었다니깐. 좀 더 훈련 한 후에 돌아오라고, 친구.<E>",
-    "description": "SphinxText.xls, row 693"
+    "message": "하하하! 그 코스가 너한테는 너무 힘들 거라는 것을 알고 있었다니깐. 좀 더 훈련 한 후에 돌아오라고, 친구.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_Normal01": {
-    "message": "안녕하십니까! <FC 128,64,0>헬리오폴리스<END FC>에 오신 것을 환영합니다. 저의 아름다운 아내, 케타를 소개해드리겠습니다.<E>",
-    "description": "SphinxText.xls, row 694"
+    "message": "안녕하십니까! <FC 128,64,0>헬리오폴리스<END FC>에 오신 것을 환영합니다. 저의 아름다운 아내, 케타를 소개해드리겠습니다.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_Normal02": {
-    "message": "최근 이상한 일들이 벌어지고 있어요, <FC 128,64,0>헬리오폴리스<END FC>가 예전처럼 돌아갔으면 좋겠어요.<E>",
-    "description": "SphinxText.xls, row 695"
+    "message": "최근 이상한 일들이 벌어지고 있어요, <FC 128,64,0>헬리오폴리스<END FC>가 예전처럼 돌아갔으면 좋겠어요.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01a": {
-    "message": "케타! 케타! 어디에 있어? 난 어떡하면 좋지? 내 아내가 행방불명이야!<E>",
-    "description": "SphinxText.xls, row 696"
+    "message": "케타! 케타! 어디에 있어? 난 어떡하면 좋지? 내 아내가 행방불명이야!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01b": {
-    "message": "오늘 아침 일어났더니 없어졌어! 오, 이런! 아내에게 뭔가 안 좋은 일이 일어났어! 난 느낄 수 있어!<E>",
-    "description": "SphinxText.xls, row 697"
+    "message": "오늘 아침 일어났더니 없어졌어! 오, 이런! 아내에게 뭔가 안 좋은 일이 일어났어! 난 느낄 수 있어!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01c": {
-    "message": "이 건물에서 그녀의 목소리를 들은 것 같은데, 너무 겁이 나서 들어갈 수가 없어. 이런 바보 겁쟁이 같으니!<E>",
-    "description": "SphinxText.xls, row 698"
+    "message": "이 건물에서 그녀의 목소리를 들은 것 같은데, 너무 겁이 나서 들어갈 수가 없어. 이런 바보 겁쟁이 같으니!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01d": {
-    "message": "<EFF><EPO>제발 안에 들어가서 그녀를 구해줘. 이렇게 빌겠어!<P><FC 128,64,0>헬리오폴리스<END FC>는 정말 무시무시한 곳에 되어버렸어. 괴물들이 사방천지에 있구, 사람들이 저주받아서 돌이 되어버리고 이제는 내 불쌍한 케타까지! 제발 도와줘!<E>",
-    "description": "SphinxText.xls, row 699"
+    "message": "<EFF><EPO>제발 안에 들어가서 그녀를 구해줘. 이렇게 빌겠어!<P><FC 128,64,0>헬리오폴리스<END FC>는 정말 무시무시한 곳에 되어버렸어. 괴물들이 사방천지에 있구, 사람들이 저주받아서 돌이 되어버리고 이제는 내 불쌍한 케타까지! 제발 도와줘!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone02": {
-    "message": "제발 내 아내를 찾아줘요! 당신은 비록 이방인이지만 도움을 요청할 다른 사람이 없잖아요? <E>",
-    "description": "SphinxText.xls, row 700"
+    "message": "제발 내 아내를 찾아줘요! 당신은 비록 이방인이지만 도움을 요청할 다른 사람이 없잖아요? <E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeBack01": {
-    "message": "영웅이 돌아왔다! 제 아내를 구했군요! 어떻게 보답하면 되죠?<E>",
-    "description": "SphinxText.xls, row 701"
+    "message": "영웅이 돌아왔다! 제 아내를 구했군요! 어떻게 보답하면 되죠?<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeBack02": {
-    "message": "처음 만났을 때 당신이 우리 친구인 임호텝의 제자인 것을 몰랐어요. 당신과 <FC 128,64,0>태양 성당<END FC>에서 만나 이야기하고 싶다고 하더군요.<E>",
-    "description": "SphinxText.xls, row 702"
+    "message": "처음 만났을 때 당신이 우리 친구인 임호텝의 제자인 것을 몰랐어요. 당신과 <FC 128,64,0>태양 성당<END FC>에서 만나 이야기하고 싶다고 하더군요.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeBack03": {
-    "message": "그가 이것도 전해주라고 했어요. 당신이 모험하는 동안 이것이 유용하게 될 것이라고 생각하는 것 같더군요.<E>",
-    "description": "SphinxText.xls, row 703"
+    "message": "그가 이것도 전해주라고 했어요. 당신이 모험하는 동안 이것이 유용하게 될 것이라고 생각하는 것 같더군요.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeBack04": {
-    "message": "케타가 집으로 돌아와 너무 기뻐 눈물이 날 지경이군요. 다시 한번 고맙습니다, 이방인이여, 고맙습니다!<E>",
-    "description": "SphinxText.xls, row 704"
+    "message": "케타가 집으로 돌아와 너무 기뻐 눈물이 날 지경이군요. 다시 한번 고맙습니다, 이방인이여, 고맙습니다!<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Normal01": {
-    "message": "내 남편은 <FC 128,64,0>헬리오폴리스<END FC>를 걱정하고 있어요. 그의 탓만은 아니죠. 이곳은 어둡고 가혹한 곳이 되어버렸어요.<E>",
-    "description": "SphinxText.xls, row 705"
+    "message": "내 남편은 <FC 128,64,0>헬리오폴리스<END FC>를 걱정하고 있어요. 그의 탓만은 아니죠. 이곳은 어둡고 가혹한 곳이 되어버렸어요.<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Normal02": {
-    "message": "그렇더라도 저는 <FC 128,64,0>헬리오폴리스<END FC>가 정상으로 곧 돌아올 것이라고 확신해요.<E>",
-    "description": "SphinxText.xls, row 706"
+    "message": "그렇더라도 저는 <FC 128,64,0>헬리오폴리스<END FC>가 정상으로 곧 돌아올 것이라고 확신해요.<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Trapped01": {
-    "message": "제발 나를 구해 주세요! 당신이 이 에너지장을 없앨 수 있는 방법을 찾아야만 해요!<P>저 3색의 광선들이 에너지장에 힘을 공급하는 게 확실해요. 그것들만 없앨 수 있다면, 탈출할 수 있을지도 몰라요!<E>",
-    "description": "SphinxText.xls, row 707"
+    "message": "제발 나를 구해 주세요! 당신이 이 에너지장을 없앨 수 있는 방법을 찾아야만 해요!<P>저 3색의 광선들이 에너지장에 힘을 공급하는 게 확실해요. 그것들만 없앨 수 있다면, 탈출할 수 있을지도 몰라요!<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Trapped02": {
-    "message": "제발 저 좀 도와주셔요!<E>",
-    "description": "SphinxText.xls, row 708"
+    "message": "제발 저 좀 도와주셔요!<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Back01": {
-    "message": "당신은 나의 영웅입니다, 이방인이여!<E>",
-    "description": "SphinxText.xls, row 709"
+    "message": "당신은 나의 영웅입니다, 이방인이여!<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Back02": {
-    "message": "저를 구해주신 일 절대 잊지 못할 거에요. 가슴속 깊이 간직하겠습니다.<E>",
-    "description": "SphinxText.xls, row 710"
+    "message": "저를 구해주신 일 절대 잊지 못할 거에요. 가슴속 깊이 간직하겠습니다.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Intro01": {
-    "message": "안녕하십니까! 혹시, 당신은 보물이나 그런 것들을 찾는 모험가들 중의 하나입니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 711"
+    "message": "안녕하십니까! 혹시, 당신은 보물이나 그런 것들을 찾는 모험가들 중의 하나입니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Intro01Accept": {
-    "message": "오... 그럴 거라고 생각했어요, 딱 그렇게 보이는걸요.<E>",
-    "description": "SphinxText.xls, row 712"
+    "message": "오... 그럴 거라고 생각했어요, 딱 그렇게 보이는걸요.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Intro01Decline": {
-    "message": "흠, 외형만 보고 판단할 수는 없겠죠. 나는 스쿼트 목동입니다만 절 보기만 해서는 알아차릴 수 없을 거에요.<E>",
-    "description": "SphinxText.xls, row 713"
+    "message": "흠, 외형만 보고 판단할 수는 없겠죠. 나는 스쿼트 목동입니다만 절 보기만 해서는 알아차릴 수 없을 거에요.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt01": {
-    "message": "그럼 모험가선생, 제가 제안을 하죠. 여기 댁이 좋아할 만 한 멋지고 빛나는 보물을 제가 가지고 있습니다.<P>만약 당신이 나의 스쿼트들을 여기 있는 축사로 모으는 것을 도와준다면, 이 보물을 주겠습니다.<P>저의 제안을 받아들이시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 714"
+    "message": "그럼 모험가선생, 제가 제안을 하죠. 여기 댁이 좋아할 만 한 멋지고 빛나는 보물을 제가 가지고 있습니다.<P>만약 당신이 나의 스쿼트들을 여기 있는 축사로 모으는 것을 도와준다면, 이 보물을 주겠습니다.<P>저의 제안을 받아들이시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt01Accept": {
-    "message": "좋습니다! 스쿼트들을 다 모은 후에 돌아와서 저와 대화를 하시죠.<E>",
-    "description": "SphinxText.xls, row 715"
+    "message": "좋습니다! 스쿼트들을 다 모은 후에 돌아와서 저와 대화를 하시죠.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt01Decline": {
-    "message": "오 그럼... 저의 멋진 빛나는 보물을 제가 그냥 가지고 있어야겠군요.<E>",
-    "description": "SphinxText.xls, row 716"
+    "message": "오 그럼... 저의 멋진 빛나는 보물을 제가 그냥 가지고 있어야겠군요.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt02": {
-    "message": "그러니까, 제 스쿼트들이에요. 모두 탈출해버려서 누군가 저 녀석들을 다 모아주어야 해요. 저를 도와주신다면 제가 보상을 해드리죠.<P>그럼 도와주시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 717"
+    "message": "그러니까, 제 스쿼트들이에요. 모두 탈출해버려서 누군가 저 녀석들을 다 모아주어야 해요. 저를 도와주신다면 제가 보상을 해드리죠.<P>그럼 도와주시겠습니까?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt02Accept": {
-    "message": "훌륭해요! 스쿼트들을 모으는 것을 끝낸 후 돌아와 저와 이야기합시다.<E>",
-    "description": "SphinxText.xls, row 718"
+    "message": "훌륭해요! 스쿼트들을 모으는 것을 끝낸 후 돌아와 저와 이야기합시다.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt02Decline": {
-    "message": "오 그럼... 저의 멋진 빛나는 보물을 제가 그냥 가지고 있어야겠군요.<E>",
-    "description": "SphinxText.xls, row 719"
+    "message": "오 그럼... 저의 멋진 빛나는 보물을 제가 그냥 가지고 있어야겠군요.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt03": {
-    "message": "저를 도와주시기로 결정하셨나요?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 720"
+    "message": "저를 도와주시기로 결정하셨나요?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt03Accept": {
-    "message": "좋습니다! 스쿼트들을 모으는 것을 끝낸 후 돌아와 저와 이야기합시다.<E>",
-    "description": "SphinxText.xls, row 721"
+    "message": "좋습니다! 스쿼트들을 모으는 것을 끝낸 후 돌아와 저와 이야기합시다.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt03Decline": {
-    "message": "오 그럼... 저의 멋진 빛나는 보물을 제가 그냥 가지고 있어야겠군요.<E>",
-    "description": "SphinxText.xls, row 722"
+    "message": "오 그럼... 저의 멋진 빛나는 보물을 제가 그냥 가지고 있어야겠군요.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Squirts01": {
-    "message": "<FC 0,128,0>스쿼트 <SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft><END FC>마리가 아직 밖에 남아있어요, 친구!<E>",
-    "description": "SphinxText.xls, row 723"
+    "message": "<FC 0,128,0>스쿼트 <SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft><END FC>마리가 아직 밖에 남아있어요, 친구!<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Squirts02": {
-    "message": "<FC 0,128,0>스쿼트 <SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft><END FC>마리가 아직 밖에 남아있다고요, 친구!<E>",
-    "description": "SphinxText.xls, row 724"
+    "message": "<FC 0,128,0>스쿼트 <SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft><END FC>마리가 아직 밖에 남아있다고요, 친구!<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Reward01": {
-    "message": "해냈군요! 나의 스쿼트들이 모두 축사로 안전히 돌아왔군요, 덕분입니다, 이방인이여. 이걸 받으십시오, 당연히 받으셔야 합니다.<E>",
-    "description": "SphinxText.xls, row 725"
+    "message": "해냈군요! 나의 스쿼트들이 모두 축사로 안전히 돌아왔군요, 덕분입니다, 이방인이여. 이걸 받으십시오, 당연히 받으셔야 합니다.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Done01": {
-    "message": "나의 스쿼트들은 잘 지내고 있죠, 친구! 언젠가 스쿼트 목장을 지어서 이 작은 녀석들 수백 마리를 기를 거에요.<E>",
-    "description": "SphinxText.xls, row 726"
+    "message": "나의 스쿼트들은 잘 지내고 있죠, 친구! 언젠가 스쿼트 목장을 지어서 이 작은 녀석들 수백 마리를 기를 거에요.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Done02": {
-    "message": "도움을 줘서 고마워요, 이방인. 내 스쿼트들은 잘 지내고 있죠.<E>",
-    "description": "SphinxText.xls, row 727"
+    "message": "도움을 줘서 고마워요, 이방인. 내 스쿼트들은 잘 지내고 있죠.<E>"
   },
   "HT_Text_Hel_Ext_Horus_WallEntrance1": {
-    "message": "스핑크스, 거기 있었군! 다시 만날 줄 알았다. 보다시피 <FC 128,64,0>우루크<END FC>에서 멋있게 살아남았지. 뭐, 자세한 이야기는 하지 않겠어.<E>",
-    "description": "SphinxText.xls, row 728"
+    "message": "스핑크스, 거기 있었군! 다시 만날 줄 알았다. 보다시피 <FC 128,64,0>우루크<END FC>에서 멋있게 살아남았지. 뭐, 자세한 이야기는 하지 않겠어.<E>"
   },
   "HT_Text_Hel_Ext_Horus_WallEntrance2": {
-    "message": "<FC 128,64,0>우루크<END FC>에서 운이 좋았나 보군 그리고 그 칼은 당연히 내 것이어야해! 내 도움이 없었으면 발견하지도 못했을 거라구!<E>",
-    "description": "SphinxText.xls, row 729"
+    "message": "<FC 128,64,0>우루크<END FC>에서 운이 좋았나 보군 그리고 그 칼은 당연히 내 것이어야해! 내 도움이 없었으면 발견하지도 못했을 거라구!<E>"
   },
   "HT_Text_Hel_Ext_Horus_WallEntrance3": {
-    "message": "또 자신의 가진 능력보다 뛰어나다고 자신을 치켜세우는 군. 너는 여기 올라올 수 없어. 높이 점프할 힘이 없잖아! 넌 정말 나약한 놈이라니까.<E>",
-    "description": "SphinxText.xls, row 730"
+    "message": "또 자신의 가진 능력보다 뛰어나다고 자신을 치켜세우는 군. 너는 여기 올라올 수 없어. 높이 점프할 힘이 없잖아! 넌 정말 나약한 놈이라니까.<E>"
   },
   "HT_Text_Hel_Ext_Horus_WallEntrance3a": {
-    "message": "<FC 128,64,0>태양 성당 섬<END FC>에 있는 사원에서 임호텝을 발견했다. 그 미친 늙은 바보가 너를 찾고 있다고 전해달래.<E>",
-    "description": "SphinxText.xls, row 731"
+    "message": "<FC 128,64,0>태양 성당 섬<END FC>에 있는 사원에서 임호텝을 발견했다. 그 미친 늙은 바보가 너를 찾고 있다고 전해달래.<E>"
   },
   "HT_Text_Hel_Ext_Horus_WallEntrance4": {
-    "message": "보다시피, 너는 안에 들어올 수 없어! 임호텝이 뭐라고 하건 내가 아누비스가 만든 문제들을 해결하겠다. 나중에 보자구!<E>",
-    "description": "SphinxText.xls, row 732"
+    "message": "보다시피, 너는 안에 들어올 수 없어! 임호텝이 뭐라고 하건 내가 아누비스가 만든 문제들을 해결하겠다. 나중에 보자구!<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility01": {
-    "message": "스핑크스, 듣은 바에 의하면 네가 아누비스를 설득하여 <FC 128,64,0>저주 받은 성<END FC>의 사람들의 일부를 풀어주기로 하였다지...<E>",
-    "description": "SphinxText.xls, row 733"
+    "message": "스핑크스, 듣은 바에 의하면 네가 아누비스를 설득하여 <FC 128,64,0>저주 받은 성<END FC>의 사람들의 일부를 풀어주기로 하였다지...<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility02": {
-    "message": "인정하고 싶지는 않지만 내가 너를 잘못 생각했나 보군. 너의 용기와 불쌍한 사람들에 대한 동정심에 감탄했다.<E>",
-    "description": "SphinxText.xls, row 734"
+    "message": "인정하고 싶지는 않지만 내가 너를 잘못 생각했나 보군. 너의 용기와 불쌍한 사람들에 대한 동정심에 감탄했다.<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility03": {
-    "message": "너의 능력이 나와 비슷하다는 것을 증명했군. 나의 호의를 증명하기위해 너에게 선물을 주겠다.<E>",
-    "description": "SphinxText.xls, row 735"
+    "message": "너의 능력이 나와 비슷하다는 것을 증명했군. 나의 호의를 증명하기위해 너에게 선물을 주겠다.<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility04": {
-    "message": "이것은 평범한 돌이 아니다. 이것은 <FC 0,128,0>투명의 어두운 돌<END FC>이다. 이것을 사용하면 누구라도 투명인간이 될 수 있다..<E>",
-    "description": "SphinxText.xls, row 736"
+    "message": "이것은 평범한 돌이 아니다. 이것은 <FC 0,128,0>투명의 어두운 돌<END FC>이다. 이것을 사용하면 누구라도 투명인간이 될 수 있다..<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility05": {
-    "message": "앞으로의 너의 탐험에 매우 유용할 것이다. 과거에 너에게 건방지게 굴었던 것을 용서해 주기 바란다. 내가 사과한다, 스핑크스.<E>",
-    "description": "SphinxText.xls, row 737"
+    "message": "앞으로의 너의 탐험에 매우 유용할 것이다. 과거에 너에게 건방지게 굴었던 것을 용서해 주기 바란다. 내가 사과한다, 스핑크스.<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility06": {
-    "message": "사용하지 마라! 합정이다!<E>",
-    "description": "SphinxText.xls, row 738"
+    "message": "사용하지 마라! 합정이다!<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility07": {
-    "message": "그것은 사실 <FC 0,128,0>투명의 어두운 돌<END FC>이지만 투명의 힘은 심한 부작용이 있다. 생명을 빼았는다!<E>",
-    "description": "SphinxText.xls, row 739"
+    "message": "그것은 사실 <FC 0,128,0>투명의 어두운 돌<END FC>이지만 투명의 힘은 심한 부작용이 있다. 생명을 빼았는다!<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility08": {
-    "message": "그래! 투탕카멘이라면 별 탈없이 사용할 수 있을 게다!<E>",
-    "description": "SphinxText.xls, row 740"
+    "message": "그래! 투탕카멘이라면 별 탈없이 사용할 수 있을 게다!<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility09": {
-    "message": "지금은 그 돌을 보관만 해두어라. 기회가 생기면 이것을 우리의 미이라 친구에게 보낼 것이다.<E>",
-    "description": "SphinxText.xls, row 741"
+    "message": "지금은 그 돌을 보관만 해두어라. 기회가 생기면 이것을 우리의 미이라 친구에게 보낼 것이다.<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility10": {
-    "message": "호루스를 더 이상 믿지말아야 할 것 같다. 너의 업적에 대한 질투심이 확실히 그의 판단력을 흐리게 했어. 그의 진의가 무엇인지 누가 알겠어?<E>",
-    "description": "SphinxText.xls, row 742"
+    "message": "호루스를 더 이상 믿지말아야 할 것 같다. 너의 업적에 대한 질투심이 확실히 그의 판단력을 흐리게 했어. 그의 진의가 무엇인지 누가 알겠어?<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility11": {
-    "message": "<FC 128,64,0>우루크<END FC>에서 그가 살아남은 것이 아마 단순한 행운이었던 것만 같지는 않구나...<E>",
-    "description": "SphinxText.xls, row 743"
+    "message": "<FC 128,64,0>우루크<END FC>에서 그가 살아남은 것이 아마 단순한 행운이었던 것만 같지는 않구나...<E>"
   },
   "HT_Text_Hel_Exterior_DuckBeliever_FirstVisit": {
-    "message": "<FT HT_Font_Symbol>decadceabde ca bec deabca a becd edbeca dbace<END FT><E>",
-    "description": "SphinxText.xls, row 744"
+    "message": "<FT HT_Font_Symbol>decadceabde ca bec deabca a becd edbeca dbace<END FT><E>"
   },
   "HT_Text_Hel_Exterior_SlyBeliever_FirstVisit": {
-    "message": "<FT HT_Font_Symbol>abdecca cabeddec ab ac dece bedac deb cbdbeba dbdba<END FT><E>",
-    "description": "SphinxText.xls, row 745"
+    "message": "<FT HT_Font_Symbol>abdecca cabeddec ab ac dece bedac deb cbdbeba dbdba<END FT><E>"
   },
   "HT_Text_Hel_Exterior_ToothyBeliever_FirstVisit": {
-    "message": "<FT HT_Font_Symbol>edebec bec debba acbeda deb bedab<END FT><E>",
-    "description": "SphinxText.xls, row 746"
+    "message": "<FT HT_Font_Symbol>edebec bec debba acbeda deb bedab<END FT><E>"
   },
   "HT_Text_Hel_Exterior_SquashBeliever_FirstVisit": {
-    "message": "<FT HT_Font_Symbol>dceab dceabde ca be bebdba dacade cedaccbcba<END FT> ]---<E>",
-    "description": "SphinxText.xls, row 747"
+    "message": "<FT HT_Font_Symbol>dceab dceabde ca be bebdba dacade cedaccbcba<END FT> ]---<E>"
   },
   "HT_Text_Hel_Exterior_DuckBeliever_SecondVisit": {
-    "message": "예언의 그 사람만이 위대한 오벨리스크의 비밀을 풀 수 있을 것이다.<E>",
-    "description": "SphinxText.xls, row 748"
+    "message": "예언의 그 사람만이 위대한 오벨리스크의 비밀을 풀 수 있을 것이다.<E>"
   },
   "HT_Text_Hel_Exterior_SlyBeliever_SecondVisit": {
-    "message": "위대한 오벨리스크는 자신의 비밀을 예언의 그에게만 밝힐 것이다.<E>",
-    "description": "SphinxText.xls, row 749"
+    "message": "위대한 오벨리스크는 자신의 비밀을 예언의 그에게만 밝힐 것이다.<E>"
   },
   "HT_Text_Hel_Exterior_ToothyBeliever_SecondVisit": {
-    "message": "위대한 오벨리스크의 안에는 예언의 그에게 매우 중대한 아이템이 있다.<E>",
-    "description": "SphinxText.xls, row 750"
+    "message": "위대한 오벨리스크의 안에는 예언의 그에게 매우 중대한 아이템이 있다.<E>"
   },
   "HT_Text_Hel_Exterior_SquashBeliever_SecondVisit": {
-    "message": "예언의 그는 <FC 128,64,0>헬리오폴리스의 잊혀진 사원<END FC>을 정복할 것이며, 고대인들의 문장을 번역할 것이다. 그리고 위대한 오벨리스크의 비밀을 발견할 것이다.<E>",
-    "description": "SphinxText.xls, row 751"
+    "message": "예언의 그는 <FC 128,64,0>헬리오폴리스의 잊혀진 사원<END FC>을 정복할 것이며, 고대인들의 문장을 번역할 것이다. 그리고 위대한 오벨리스크의 비밀을 발견할 것이다.<E>"
   },
   "HT_Text_HT_Text_Hel_Exterior_DuckBeliever_ObeliskOpened": {
-    "message": "당신은 오벨리스크의 고대 문장을 독해했습니다. 독해가 가능한 오벨리스크들이 더 있습니까?<E>",
-    "description": "SphinxText.xls, row 760"
+    "message": "당신은 오벨리스크의 고대 문장을 독해했습니다. 독해가 가능한 오벨리스크들이 더 있습니까?<E>"
   },
   "HT_Text_HT_Text_Hel_Exterior_SlyBeliever_ObeliskOpened": {
-    "message": "진실이군요! 당신이 바로 선택된 자입니다. 만나게 되어서 영광입니다.<E>",
-    "description": "SphinxText.xls, row 761"
+    "message": "진실이군요! 당신이 바로 선택된 자입니다. 만나게 되어서 영광입니다.<E>"
   },
   "HT_Text_HT_Text_Hel_Exterior_ToothyBeliever_ObeliskOpened": {
-    "message": "<FC 128,64,0>헬리오폴리스<END FC>와 구 왕국을 구원하기 위해서 온 그 임이 분명해요!<E>",
-    "description": "SphinxText.xls, row 762"
+    "message": "<FC 128,64,0>헬리오폴리스<END FC>와 구 왕국을 구원하기 위해서 온 그 임이 분명해요!<E>"
   },
   "HT_Text_Hel_Exterior_SquashBeliever_ObeliskOpened": {
-    "message": "신들이 사자를 보냈다! 당신을 위한 기도를 올리겠습니다, 선택 받으신 분이여.<E>",
-    "description": "SphinxText.xls, row 763"
+    "message": "신들이 사자를 보냈다! 당신을 위한 기도를 올리겠습니다, 선택 받으신 분이여.<E>"
   },
   "HT_Text_Hel_Exterior_Basket_Obelisk": {
-    "message": "다시 만났군, 스핑크스! 임호텝으로부터 중요한 정보를 조금 받았다.<P>그는 너의 진행상태와 내가 여기 가지고 있는 유물인 <FC 0,128,0>아문의 손<END FC>에 만족하고 있다. 그는 네가 <FC 0,128,0>우루크의 성스러운 왕관<END FC>을 찾기를 시작할 준비가 되어있다고 보고 있다.<P>그는 왕관이 <FC 128,64,0>우루크 섬들<END FC>에 있고 그곳에 가려면 <FC 128,64,0>성벽 입구 III<END FC>으로 들어가야 한다고 믿고있다.<E>",
-    "description": "SphinxText.xls, row 764"
+    "message": "다시 만났군, 스핑크스! 임호텝으로부터 중요한 정보를 조금 받았다.<P>그는 너의 진행상태와 내가 여기 가지고 있는 유물인 <FC 0,128,0>아문의 손<END FC>에 만족하고 있다. 그는 네가 <FC 0,128,0>우루크의 성스러운 왕관<END FC>을 찾기를 시작할 준비가 되어있다고 보고 있다.<P>그는 왕관이 <FC 128,64,0>우루크 섬들<END FC>에 있고 그곳에 가려면 <FC 128,64,0>성벽 입구 III<END FC>으로 들어가야 한다고 믿고있다.<E>"
   },
   "HT_Text_Hel_Exterior_Sign_CursedPalace01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>저주 받은 성<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 765"
+    "message": "<N><CNTR>---[ <FC 128,64,0>저주 받은 성<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_BedouinOutpost01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>베두인 변방<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 766"
+    "message": "<N><CNTR>---[ <FC 128,64,0>베두인 변방<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_WallEntrance01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>성벽 입구 I<END FC> - <FC 128,64,0>아누비스 탑<END FC>으로 향함 ]---<E>",
-    "description": "SphinxText.xls, row 767"
+    "message": "<N><CNTR>---[ <FC 128,64,0>성벽 입구 I<END FC> - <FC 128,64,0>아누비스 탑<END FC>으로 향함 ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_WallEntrance02": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>성벽 입구 II<END FC> - <FC 128,64,0>우루크 협곡<END FC>으로 향함 ]---<E>",
-    "description": "SphinxText.xls, row 768"
+    "message": "<N><CNTR>---[ <FC 128,64,0>성벽 입구 II<END FC> - <FC 128,64,0>우루크 협곡<END FC>으로 향함 ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_WallEntrance03": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>성벽 입구 III<END FC> - <FC 128,64,0>우루크 섬<END FC>으로 향함 ]---<E>",
-    "description": "SphinxText.xls, row 769"
+    "message": "<N><CNTR>---[ <FC 128,64,0>성벽 입구 III<END FC> - <FC 128,64,0>우루크 섬<END FC>으로 향함 ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToHeliopolisPoint01": {
-    "message": "<CNTR>---[ <FC 128,64,0>헬리오폴리스 지점<END FC>, <FC 128,64,0>성벽 입구 III<END FC> ]---<N>---[ 과 <FC 128,64,0>남쪽 사막<END FC> 입구 ]---<E>",
-    "description": "SphinxText.xls, row 770"
+    "message": "<CNTR>---[ <FC 128,64,0>헬리오폴리스 지점<END FC>, <FC 128,64,0>성벽 입구 III<END FC> ]---<N>---[ 과 <FC 128,64,0>남쪽 사막<END FC> 입구 ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToHeliopolisPoint02": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>헬리오폴리스 지점<END FC> 및 <FC 128,64,0>성벽 입구 III<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 771"
+    "message": "<N><CNTR>---[ <FC 128,64,0>헬리오폴리스 지점<END FC> 및 <FC 128,64,0>성벽 입구 III<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToBedouinOutpost01": {
-    "message": "<CNTR>---[ <FC 128,64,0>베두인 변방<END FC> ]---<N>---[ 경고! 수영 선수만 허용! ]---<E>",
-    "description": "SphinxText.xls, row 772"
+    "message": "<CNTR>---[ <FC 128,64,0>베두인 변방<END FC> ]---<N>---[ 경고! 수영 선수만 허용! ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToBedouinOutpost02": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>베두인 변방<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 773"
+    "message": "<N><CNTR>---[ <FC 128,64,0>베두인 변방<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToSouthDesert01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>남쪽 사막<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 774"
+    "message": "<N><CNTR>---[ <FC 128,64,0>남쪽 사막<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToCursedPalace01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>성벽 입구 II<END FC>, <FC 128,64,0>저주 받은 성<END FC> ]---<N>---[ 및 <FC 128,64,0>성벽 입구 I<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 775"
+    "message": "<N><CNTR>---[ <FC 128,64,0>성벽 입구 II<END FC>, <FC 128,64,0>저주 받은 성<END FC> ]---<N>---[ 및 <FC 128,64,0>성벽 입구 I<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToCursedPalace02": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>저주 받은 성<END FC> 및 <FC 128,64,0>성벽 입구 I<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 776"
+    "message": "<N><CNTR>---[ <FC 128,64,0>저주 받은 성<END FC> 및 <FC 128,64,0>성벽 입구 I<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToGreatObelisk01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>위대한 오벨리스크<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 777"
+    "message": "<N><CNTR>---[ <FC 128,64,0>위대한 오벨리스크<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToSunShrine01": {
-    "message": "<CNTR>---[ <FC 128,64,0>태양 성당 섬<END FC> ]---<N>---[ 척추물고기 주의! ]---<E>",
-    "description": "SphinxText.xls, row 778"
+    "message": "<CNTR>---[ <FC 128,64,0>태양 성당 섬<END FC> ]---<N>---[ 척추물고기 주의! ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SunShrine01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>태양 성당 섬<END FC>에 오신 것을 환영합니다! - 임호텝 - ]---<E>",
-    "description": "SphinxText.xls, row 779"
+    "message": "<N><CNTR>---[ <FC 128,64,0>태양 성당 섬<END FC>에 오신 것을 환영합니다! - 임호텝 - ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_HeliopolisPoint01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>헬리오폴리스 지점<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 780"
+    "message": "<N><CNTR>---[ <FC 128,64,0>헬리오폴리스 지점<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SouthBeach01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>남쪽 해변<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 781"
+    "message": "<N><CNTR>---[ <FC 128,64,0>남쪽 해변<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Cave01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>남쪽 해변<END FC> 및 <FC 128,64,0>태양 성당 섬<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 782"
+    "message": "<N><CNTR>---[ <FC 128,64,0>남쪽 해변<END FC> 및 <FC 128,64,0>태양 성당 섬<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Cave02": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>저주 받은 성<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 783"
+    "message": "<N><CNTR>---[ <FC 128,64,0>저주 받은 성<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Cave03": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>헬리오폴리스 지점<END FC> 및 <FC 128,64,0>성벽 입구 III<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 784"
+    "message": "<N><CNTR>---[ <FC 128,64,0>헬리오폴리스 지점<END FC> 및 <FC 128,64,0>성벽 입구 III<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Cave04": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>남쪽 해변<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 785"
+    "message": "<N><CNTR>---[ <FC 128,64,0>남쪽 해변<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SquirtHerd01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>세크메트의 스쿼트 우리<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 786"
+    "message": "<N><CNTR>---[ <FC 128,64,0>세크메트의 스쿼트 우리<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Trader01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>벤-벤의  시장<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 787"
+    "message": "<N><CNTR>---[ <FC 128,64,0>벤-벤의  시장<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_GlyphShop01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>게벨의 글리프 가게<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 788"
+    "message": "<N><CNTR>---[ <FC 128,64,0>게벨의 글리프 가게<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Farm01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>강변 농장<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 789"
+    "message": "<N><CNTR>---[ <FC 128,64,0>강변 농장<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_BeetleShop01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>쿠푸의 포획 딱정벌레 가게<END FC> ]---<E>",
-    "description": "SphinxText.xls, row 790"
+    "message": "<N><CNTR>---[ <FC 128,64,0>쿠푸의 포획 딱정벌레 가게<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_BeetleShopClosed01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>쿠푸의 포획 딱정벌레 가게<END FC> ]---<N><CNTR>---[ 내부수리 중, 다시 찾아주십시오 ]---<E>",
-    "description": "SphinxText.xls, row 791"
+    "message": "<N><CNTR>---[ <FC 128,64,0>쿠푸의 포획 딱정벌레 가게<END FC> ]---<N><CNTR>---[ 내부수리 중, 다시 찾아주십시오 ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Healer01": {
-    "message": "<CNTR>---[ <FC 128,64,0>치료사 쉐타<END FC> ]---<N>---[ 치료 및 <FC 0,128,0>앙크 조각<END FC> 제사 ]---<E>",
-    "description": "SphinxText.xls, row 792"
+    "message": "<CNTR>---[ <FC 128,64,0>치료사 쉐타<END FC> ]---<N>---[ 치료 및 <FC 0,128,0>앙크 조각<END FC> 제사 ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ArcheologistAway01": {
-    "message": "<N><CNTR>---[ 원정 출가, 몇 달 후 귀환. ]---<N><CNTR>---[ 고고학자 우르베인 ]---<E>",
-    "description": "SphinxText.xls, row 793"
+    "message": "<N><CNTR>---[ 원정 출가, 몇 달 후 귀환. ]---<N><CNTR>---[ 고고학자 우르베인 ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ArcheologistBack01": {
-    "message": "<N><CNTR>---[ 세계적 명성의 고고학자 우르베인 ]---<N><CNTR>---[ 유명한 <FC 0,128,0>로제타석 조각들<END FC>의 발견자! ]---<E>",
-    "description": "SphinxText.xls, row 794"
+    "message": "<N><CNTR>---[ 세계적 명성의 고고학자 우르베인 ]---<N><CNTR>---[ 유명한 <FC 0,128,0>로제타석 조각들<END FC>의 발견자! ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_GreatObelisk01": {
-    "message": "<N><CNTR><FT HT_Font_Symbol>ade beda cdeabc ade decabde cabedacb a bedac<END FT> <E>",
-    "description": "SphinxText.xls, row 795"
+    "message": "<N><CNTR><FT HT_Font_Symbol>ade beda cdeabc ade decabde cabedacb a bedac<END FT> <E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk01": {
-    "message": "<N><CNTR><FT HT_Font_Symbol>decabde cabedacb a bedac...<END FT><E>",
-    "description": "SphinxText.xls, row 797"
+    "message": "<N><CNTR><FT HT_Font_Symbol>decabde cabedacb a bedac...<END FT><E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk02": {
-    "message": "<N><CNTR><FT HT_Font_Symbol>...decadceabde ca bec deabca...<END FT><E>",
-    "description": "SphinxText.xls, row 798"
+    "message": "<N><CNTR><FT HT_Font_Symbol>...decadceabde ca bec deabca...<END FT><E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk03": {
-    "message": "<N><CNTR><FT HT_Font_Symbol>...abdecca cabeddec ab ac dece...<END FT><E>",
-    "description": "SphinxText.xls, row 799"
+    "message": "<N><CNTR><FT HT_Font_Symbol>...abdecca cabeddec ab ac dece...<END FT><E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk04": {
-    "message": "<N><CNTR><FT HT_Font_Symbol>...edebec bec debba acbeda deb...<END FT><E>",
-    "description": "SphinxText.xls, row 800"
+    "message": "<N><CNTR><FT HT_Font_Symbol>...edebec bec debba acbeda deb...<END FT><E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk05": {
-    "message": "<N><CNTR><FT HT_Font_Symbol>...dceab dceabde ca be...<END FT><E>",
-    "description": "SphinxText.xls, row 801"
+    "message": "<N><CNTR><FT HT_Font_Symbol>...dceab dceabde ca be...<END FT><E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk01Translated": {
-    "message": "<N><CNTR>---[ 오시리스의 시대가 종말을 고할 때... ]---<E>",
-    "description": "SphinxText.xls, row 802"
+    "message": "<N><CNTR>---[ 오시리스의 시대가 종말을 고할 때... ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk02Translated": {
-    "message": "<N><CNTR>---[ ...세트의 그림자가 우리에게 내려올 것이다... ]---<E>",
-    "description": "SphinxText.xls, row 803"
+    "message": "<N><CNTR>---[ ...세트의 그림자가 우리에게 내려올 것이다... ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk03Translated": {
-    "message": "<N><CNTR>---[ ...그러나 스핑크스라는 이름의 위대한 투사가... ]---<E>",
-    "description": "SphinxText.xls, row 804"
+    "message": "<N><CNTR>---[ ...그러나 스핑크스라는 이름의 위대한 투사가... ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk04Translated": {
-    "message": "<N><CNTR>---[ ...선택 받은 자로서 부상하여... ]---<E>",
-    "description": "SphinxText.xls, row 805"
+    "message": "<N><CNTR>---[ ...선택 받은 자로서 부상하여... ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk05Translated": {
-    "message": "<N><CNTR>---[ ...라의 영원의 눈을 보호할 것이다. ]---<E>",
-    "description": "SphinxText.xls, row 806"
+    "message": "<N><CNTR>---[ ...라의 영원의 눈을 보호할 것이다. ]---<E>"
   },
   "HT_Text_Hel_Exterior_Help_SmallObeliskTranslated": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>번역된 고대의 문구가<N>기록에 추가되었다!<E>",
-    "description": "SphinxText.xls, row 807"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>번역된 고대의 문구가<N>기록에 추가되었다!<E>"
   },
   "HT_Text_Hel_Exterior_Help_DoorLocked01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 문은 다른 쪽에서 잠겨있다.<E><ES HT_Text_ES_E_HelpText>",
-    "description": "SphinxText.xls, row 809"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 문은 다른 쪽에서 잠겨있다.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_CrackedRock01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 둥근 돌들은 금이 가서 잘 부서질 것 같다.<E><ES HT_Text_ES_E_HelpText>",
-    "description": "SphinxText.xls, row 810"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 둥근 돌들은 금이 가서 잘 부서질 것 같다.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_SlamAttack01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이런 스위치들에게는 <FC 0,128,0>슬램<END FC> 공격을<N>해야만 활성화 된다.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>슬램<END FC>공격을 하려면 <FC 0,128,0>공중제비<END FC>를 하고<N>공중에 떠 있을 때 <SB HT_Action_Attack>를 누른다.<P><ES HT_Text_ES_S_HelpText><CNTR> <FC 0,128,0>슬램<END FC> 공격은 또한 <N>적들을 공격하기 위해서 사용될 수 있다.<E><ES HT_Text_ES_E_HelpText>",
-    "description": "SphinxText.xls, row 811"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이런 스위치들에게는 <FC 0,128,0>슬램<END FC> 공격을<N>해야만 활성화 된다.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>슬램<END FC>공격을 하려면 <FC 0,128,0>공중제비<END FC>를 하고<N>공중에 떠 있을 때 <SB HT_Action_Attack>를 누른다.<P><ES HT_Text_ES_S_HelpText><CNTR> <FC 0,128,0>슬램<END FC> 공격은 또한 <N>적들을 공격하기 위해서 사용될 수 있다.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_EyePost01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 치명적인 <FC 0,128,0>라의 눈의 기둥<END FC>은 <N>금이 간 돌로 만들어졌다. 무엇인가 폭발하면<N>산산조각 날 것 같다.<E><ES HT_Text_ES_E_HelpText>",
-    "description": "SphinxText.xls, row 812"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>이 치명적인 <FC 0,128,0>라의 눈의 기둥<END FC>은 <N>금이 간 돌로 만들어졌다. 무엇인가 폭발하면<N>산산조각 날 것 같다.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_AtunShrine01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 받침대는 이 위에 작은 상이 들어맞을 것 같다.<E><ES HT_Text_ES_E_HelpText>",
-    "description": "SphinxText.xls, row 813"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 받침대는 이 위에 작은 상이 들어맞을 것 같다.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_BurnBox01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 나무 상자는 불을 가까이 대면<N>타버릴 것 같다.<E><ES HT_Text_ES_E_HelpText>",
-    "description": "SphinxText.xls, row 814"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이 나무 상자는 불을 가까이 대면<N>타버릴 것 같다.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>50 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 815"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>50 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>청동 앙크<END FC>하나를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>너의 체력은 <FC 0,128,0>1 앙크<END FC>만큼 채워졌다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 816"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>청동 앙크<END FC>하나를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>너의 체력은 <FC 0,128,0>1 앙크<END FC>만큼 채워졌다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>200 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 817"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>200 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 앙크 조각<END FC>을 하나 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것들을 네 개 모으면<N>적당한 능력을 가진 사람이 너의 체력 최대값을 증가시켜줄 수 있을 것이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 818"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 앙크 조각<END FC>을 하나 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것들을 네 개 모으면<N>적당한 능력을 가진 사람이 너의 체력 최대값을 증가시켜줄 수 있을 것이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot05": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>은 앙크<END FC>를 하나 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>너의 체력은 <FC 0,128,0>5 앙크들<END FC>만큼 채워졌다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 819"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>은 앙크<END FC>를 하나 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>너의 체력은 <FC 0,128,0>5 앙크들<END FC>만큼 채워졌다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot06": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>400 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 820"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>400 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot07": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>10 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 821"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>10 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot08": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>100 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 822"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>100 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot09": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>20 포획 딱정벌레들<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 823"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>20 포획 딱정벌레들<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot10": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>600 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 824"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>600 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot11": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>20 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 825"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>20 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot12": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>은 앙크<END FC>를 하나 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>너의 체력은 <FC 0,128,0>5 앙크들<END FC>만큼 채워졌다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 826"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>은 앙크<END FC>를 하나 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>너의 체력은 <FC 0,128,0>5 앙크들<END FC>만큼 채워졌다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot13": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>200 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 827"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>200 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot14": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>10 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 828"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>10 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot15": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 앙크 조각<END FC> 하나를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것들을 네 개 모으면<N>적당한 능력을 가진 자가 너의 체력 최대값을 증가시켜줄 수 있을 것이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 829"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>황금 앙크 조각<END FC> 하나를 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이것들을 네 개 모으면<N>적당한 능력을 가진 자가 너의 체력 최대값을 증가시켜줄 수 있을 것이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot16": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>500 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 830"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>500 스캐럽<END FC>을 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotCreatureList01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>괴물 목록<END FC>을 하나 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 목록에는 네 개의 괴물들이 있다. 스핑크스의 서에서 이 아이템을 선택한 후 목록을 살펴보아라.<E>",
-    "description": "SphinxText.xls, row 831"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>괴물 목록<END FC>을 하나 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 목록에는 네 개의 괴물들이 있다. 스핑크스의 서에서 이 아이템을 선택한 후 목록을 살펴보아라.<E>"
   },
   "HT_Text_Hel_Exterior_Help_GotCreatureList02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>괴물 목록<END FC>을 하나 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 목록에는 네 개의 고물이 있다. 스핑크스의 서에서 이 아이템을 선택한 후 목록을 살펴보아라.<E>",
-    "description": "SphinxText.xls, row 832"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>괴물 목록<END FC>을 하나 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 목록에는 네 개의 고물이 있다. 스핑크스의 서에서 이 아이템을 선택한 후 목록을 살펴보아라.<E>"
   },
   "HT_Text_Hel_Exterior_Help_GotCreatureList03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>괴물 목록<END FC>을 하나 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 목록에는 네 개의 고물이 있다. 스핑크스의 서에서 이 아이템을 선택한 후 목록을 살펴보아라.<E>",
-    "description": "SphinxText.xls, row 833"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>괴물 목록<END FC>을 하나 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 목록에는 네 개의 고물이 있다. 스핑크스의 서에서 이 아이템을 선택한 후 목록을 살펴보아라.<E>"
   },
   "HT_Text_Hel_Exterior_Help_GotAbydosID": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아비도스 통행증<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 공식 문서는 <FC 128,64,0>아비도스<END FC>시에<N>자유 출입을 허락해준다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 835"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>아비도스 통행증<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 공식 문서는 <FC 128,64,0>아비도스<END FC>시에<N>자유 출입을 허락해준다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02a": {
-    "message": "네가 해냈다! <FC 0,128,0>헬리오폴리스의 5개의 황금 오벨리스크들<END FC>을 번역해냈다!<E>",
-    "description": "SphinxText.xls, row 838"
+    "message": "네가 해냈다! <FC 0,128,0>헬리오폴리스의 5개의 황금 오벨리스크들<END FC>을 번역해냈다!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02b": {
-    "message": "이 메시지는 놀라운 것이다!  고대인들은 어두움이 우리에게 내려올 것을 예견하였고 <FC 0,128,0>라의 고대의 예언<END FC>을 오벨리스크들 위에 새겨두었다...<E>",
-    "description": "SphinxText.xls, row 839"
+    "message": "이 메시지는 놀라운 것이다!  고대인들은 어두움이 우리에게 내려올 것을 예견하였고 <FC 0,128,0>라의 고대의 예언<END FC>을 오벨리스크들 위에 새겨두었다...<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02c": {
-    "message": "<EFF><EPO><FC 0,128,0>오시리스의 시대가 종말을 고하면, 세트의 그림자가 우리 위로 떨어질 것이다...<END FC><P><FC 0,128,0>그러나 스핑크스라는 이름의 위대한 투사가 선택 받은 자로써 부상하여 라의 영원의 눈을 보호할 것이다.<END FC> <E>",
-    "description": "SphinxText.xls, row 840"
+    "message": "<EFF><EPO><FC 0,128,0>오시리스의 시대가 종말을 고하면, 세트의 그림자가 우리 위로 떨어질 것이다...<END FC><P><FC 0,128,0>그러나 스핑크스라는 이름의 위대한 투사가 선택 받은 자로써 부상하여 라의 영원의 눈을 보호할 것이다.<END FC> <E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02d": {
-    "message": "바로 너야! 네가 선택 받은 자라구! 뭐라고 말을 해야 할 지.<E>",
-    "description": "SphinxText.xls, row 841"
+    "message": "바로 너야! 네가 선택 받은 자라구! 뭐라고 말을 해야 할 지.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02e": {
-    "message": "<EFF><EPO>이것을 받아 너의 탐험에 도움이 될 거야. 이것은 마법의 상으로 <FC 128,64,0>남쪽 해변<END FC>위의 절벽에 있는 <FC 0,128,0>위대한 오벨리스크<END FC>를 연다고 알려져 있지.<P>너의 탐험을 성공해야만 해. 모든 이의 운명이 너의 손에 달려있다. 행운을 빈다, 위대한 투사여! <E>",
-    "description": "SphinxText.xls, row 842"
+    "message": "<EFF><EPO>이것을 받아 너의 탐험에 도움이 될 거야. 이것은 마법의 상으로 <FC 128,64,0>남쪽 해변<END FC>위의 절벽에 있는 <FC 0,128,0>위대한 오벨리스크<END FC>를 연다고 알려져 있지.<P>너의 탐험을 성공해야만 해. 모든 이의 운명이 너의 손에 달려있다. 행운을 빈다, 위대한 투사여! <E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Obelisks01": {
-    "message": "고대인들의 말이 <FC 128,64,0>헬리오폴리스<END FC>에 퍼져있는 <FC 0,128,0>황금 오벨리스크들<END FC>에 새겨있다. 나는 우리의 선조들이 그 문구에 무엇을 기록해놓았는지 항상 궁금했지.<E>",
-    "description": "SphinxText.xls, row 843"
+    "message": "고대인들의 말이 <FC 128,64,0>헬리오폴리스<END FC>에 퍼져있는 <FC 0,128,0>황금 오벨리스크들<END FC>에 새겨있다. 나는 우리의 선조들이 그 문구에 무엇을 기록해놓았는지 항상 궁금했지.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Obelisks02": {
-    "message": "오, 네가 <FC 0,128,0>황금 오벨리스크들<END FC>의 일부를 번역했군!<P>흠... 이것은 매우 예언적인 메시지 같아 보이는 군. 오벨리스크들의 나머지를 번역해서 고대인들이 뭐라고 했는지 알아내는 게 좋겠다.<E>",
-    "description": "SphinxText.xls, row 844"
+    "message": "오, 네가 <FC 0,128,0>황금 오벨리스크들<END FC>의 일부를 번역했군!<P>흠... 이것은 매우 예언적인 메시지 같아 보이는 군. 오벨리스크들의 나머지를 번역해서 고대인들이 뭐라고 했는지 알아내는 게 좋겠다.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Done01": {
-    "message": "너는 탐험을 성공해야만 한다. 우리의 운명은 네 손에 달려있다!<E>",
-    "description": "SphinxText.xls, row 845"
+    "message": "너는 탐험을 성공해야만 한다. 우리의 운명은 네 손에 달려있다!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_Intro01": {
-    "message": "환영한다, 이방인이여! 당신이 만약 훌륭한 <FC 0,128,0>포획 딱정벌레<END FC>의 감식가라면, 아주 잘 오신 것입니다!<P>훈련된 딱정벌레들 중 최고만을 들여놓고 이들은 당신이 가고 싶은 곳 어디든지 간다고 보장합니다.<P>마음껏 제 물건들을 둘러보세요.<E>",
-    "description": "SphinxText.xls, row 846"
+    "message": "환영한다, 이방인이여! 당신이 만약 훌륭한 <FC 0,128,0>포획 딱정벌레<END FC>의 감식가라면, 아주 잘 오신 것입니다!<P>훈련된 딱정벌레들 중 최고만을 들여놓고 이들은 당신이 가고 싶은 곳 어디든지 간다고 보장합니다.<P>마음껏 제 물건들을 둘러보세요.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIntro01": {
-    "message": "비록 지금 재고가 많이 있지만, 곧 상황이 바뀔지도 모르겠군요.<P>이것은 저의 특별한 <FC 0,128,0>딱정벌레 교배 항아리<END FC>입니다, 그런데 며칠 전 분실하였습니다.<P>만약 빨리 회수하지 못하면, 저는 더 이상 딱정벌레들을 교배시킬 수 없을 것입니다. 저는 망해버릴 겁니다!<P>여행을 많이 하시는 것처럼 보이는 군요, 그럼 만약 저의 <FC 0,128,0>딱정벌레 교배 항아리<END FC>를 발견하시면 저에게 가져다 주시기 바랍니다.<E>",
-    "description": "SphinxText.xls, row 847"
+    "message": "비록 지금 재고가 많이 있지만, 곧 상황이 바뀔지도 모르겠군요.<P>이것은 저의 특별한 <FC 0,128,0>딱정벌레 교배 항아리<END FC>입니다, 그런데 며칠 전 분실하였습니다.<P>만약 빨리 회수하지 못하면, 저는 더 이상 딱정벌레들을 교배시킬 수 없을 것입니다. 저는 망해버릴 겁니다!<P>여행을 많이 하시는 것처럼 보이는 군요, 그럼 만약 저의 <FC 0,128,0>딱정벌레 교배 항아리<END FC>를 발견하시면 저에게 가져다 주시기 바랍니다.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIncomplete01": {
-    "message": "선반을 채우기에는 아직 충분한 재고가 있지만 그리 오래가지는 않을 겁니다.<E>",
-    "description": "SphinxText.xls, row 848"
+    "message": "선반을 채우기에는 아직 충분한 재고가 있지만 그리 오래가지는 않을 겁니다.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestComplete01": {
-    "message": "나의 <FC 0,128,0>딱정벌레 교배 항아리<END FC>! 이것을 찾으셨다니 믿을 수 없군요!<P>이제 다시 제 재고를 바쁘게 채워 넣어야겠군요! 감히 어떻게 보답을 해야 할지?<P>이 <FC 0,128,0>고객 카드<END FC>를 받으십시오, 이것은 제 가게를 찾으실 때마다 반 가격에 딱정벌레들을 구입하실 수 있도록 할 것입니다.<P>다시 감사 드립니다, 이방인이여!<E>",
-    "description": "SphinxText.xls, row 849"
+    "message": "나의 <FC 0,128,0>딱정벌레 교배 항아리<END FC>! 이것을 찾으셨다니 믿을 수 없군요!<P>이제 다시 제 재고를 바쁘게 채워 넣어야겠군요! 감히 어떻게 보답을 해야 할지?<P>이 <FC 0,128,0>고객 카드<END FC>를 받으십시오, 이것은 제 가게를 찾으실 때마다 반 가격에 딱정벌레들을 구입하실 수 있도록 할 것입니다.<P>다시 감사 드립니다, 이방인이여!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestComplete02": {
-    "message": "다시 오신 것을 환영합니다, 단골손님. 기억하시나요, 가지고 계신 <FC 0,128,0>고객 카드<END FC>로 모든 딱정벌레에 50% 할인을 해드립니다!<E>",
-    "description": "SphinxText.xls, row 850"
+    "message": "다시 오신 것을 환영합니다, 단골손님. 기억하시나요, 가지고 계신 <FC 0,128,0>고객 카드<END FC>로 모든 딱정벌레에 50% 할인을 해드립니다!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_Intro01": {
-    "message": "안녕하세요! 여기서 새 얼굴을 보는 것은 항상 좋은 일이지요. 방문객이 거의 없거든요.<P>저는 쉐타라고 합니다, <FC 128,64,0>베두인 변방<END FC>의 치료사이지요. 저는 고대의 치료주문과 의식을 상당히 잘합니다.<E>",
-    "description": "SphinxText.xls, row 851"
+    "message": "안녕하세요! 여기서 새 얼굴을 보는 것은 항상 좋은 일이지요. 방문객이 거의 없거든요.<P>저는 쉐타라고 합니다, <FC 128,64,0>베두인 변방<END FC>의 치료사이지요. 저는 고대의 치료주문과 의식을 상당히 잘합니다.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_Prompt01": {
-    "message": "변방에는 왜 온 거지요?<N>  <B 1> 치료<N>  <B 2> <FC 0,128,0>앙크 조각 <END FC>의식<N>  <B 3> 특별한 일은 아니다<E>",
-    "description": "SphinxText.xls, row 852"
+    "message": "변방에는 왜 온 거지요?<N>  <B 1> 치료<N>  <B 2> <FC 0,128,0>앙크 조각 <END FC>의식<N>  <B 3> 특별한 일은 아니다<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingPrompt01": {
-    "message": "<FC 0,128,0>50 스캐럽<END FC>이면 당신의 체력을 가득 채운 상태로 되돌려 줄 수 있어요.<N>  <B 1> 치료해주세요<N>  <B 2> 그만 두겠소<E>",
-    "description": "SphinxText.xls, row 853"
+    "message": "<FC 0,128,0>50 스캐럽<END FC>이면 당신의 체력을 가득 채운 상태로 되돌려 줄 수 있어요.<N>  <B 1> 치료해주세요<N>  <B 2> 그만 두겠소<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingAccept01": {
-    "message": "좋아! 자 가만히 서있어요.<E>",
-    "description": "SphinxText.xls, row 854"
+    "message": "좋아! 자 가만히 서있어요.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingComplete01": {
-    "message": "당신의 체력이 회복되었습니다! 당신의 몸을 통하여 생명의 활기가 요동치는 것을 느낄 수 있겠지요!<E>",
-    "description": "SphinxText.xls, row 855"
+    "message": "당신의 체력이 회복되었습니다! 당신의 몸을 통하여 생명의 활기가 요동치는 것을 느낄 수 있겠지요!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingFull01": {
-    "message": "저의 힘이 없이도 당신은 충분히 건강한 상태입니다!<E>",
-    "description": "SphinxText.xls, row 856"
+    "message": "저의 힘이 없이도 당신은 충분히 건강한 상태입니다!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_AnkhPrompt01": {
-    "message": "의식을 행하려면 <FC 0,128,0>4 황금 앙크 조각들<END FC>이 필요합니다.<N>  <B 1> 좋다<N>  <B 2> 그건 안돼<E>",
-    "description": "SphinxText.xls, row 857"
+    "message": "의식을 행하려면 <FC 0,128,0>4 황금 앙크 조각들<END FC>이 필요합니다.<N>  <B 1> 좋다<N>  <B 2> 그건 안돼<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_AnkhPrompt02": {
-    "message": "의식의 비용은 <FC 0,128,0>200 스캐럽<END FC>입니다<N>  <B 1> 좋다<N>  <B 2> 말도 안돼<E>",
-    "description": "SphinxText.xls, row 858"
+    "message": "의식의 비용은 <FC 0,128,0>200 스캐럽<END FC>입니다<N>  <B 1> 좋다<N>  <B 2> 말도 안돼<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_AnkhAccept01": {
-    "message": "좋아! 자, 가만히 서있어요.<E>",
-    "description": "SphinxText.xls, row 859"
+    "message": "좋아! 자, 가만히 서있어요.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_AnkhComplete01": {
-    "message": "당신의 <FC 0,128,0>황금 앙크 조각들<END FC>이 재구성되었습니다!<E>",
-    "description": "SphinxText.xls, row 860"
+    "message": "당신의 <FC 0,128,0>황금 앙크 조각들<END FC>이 재구성되었습니다!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_AnkhNotEnough01": {
-    "message": "미안합니다만, <FC 0,128,0>앙크 조각<END FC>의식을 행하려면 <FC 0,128,0>4 황금 앙크 조각들<END FC>이 필요합니다.<E>",
-    "description": "SphinxText.xls, row 861"
+    "message": "미안합니다만, <FC 0,128,0>앙크 조각<END FC>의식을 행하려면 <FC 0,128,0>4 황금 앙크 조각들<END FC>이 필요합니다.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_GenericDecline01": {
-    "message": "생각이 바뀌면 돌아와요.<E>",
-    "description": "SphinxText.xls, row 862"
+    "message": "생각이 바뀌면 돌아와요.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_NotEnoughScarabs": {
-    "message": "미안하지만 당신은 <FC 0,128,0>스캐럽<END FC>이 충분치 않군요.<E>",
-    "description": "SphinxText.xls, row 863"
+    "message": "미안하지만 당신은 <FC 0,128,0>스캐럽<END FC>이 충분치 않군요.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_MyLife": {
-    "message": "안녕! 여기서 만나게 될 줄은 몰랐는걸. 너는 여행을 좋아하는 것 같군, 나도 마찬가지야.<P>이 <FC 128,64,0>헬리오폴리스<END FC> 종종 오는 것을 좋아하지, 그냥 해변에서 휴식 좀 취하기 위해서 말이야.<P>문제는 지금은 저기 밖에서 누워있기에는 너무 덥고 햇볕이 강하다는 거지.<E>",
-    "description": "SphinxText.xls, row 864"
+    "message": "안녕! 여기서 만나게 될 줄은 몰랐는걸. 너는 여행을 좋아하는 것 같군, 나도 마찬가지야.<P>이 <FC 128,64,0>헬리오폴리스<END FC> 종종 오는 것을 좋아하지, 그냥 해변에서 휴식 좀 취하기 위해서 말이야.<P>문제는 지금은 저기 밖에서 누워있기에는 너무 덥고 햇볕이 강하다는 거지.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_ItemPrompt": {
-    "message": "어이! <FC 0,128,0>양산<END FC>이군! 내가 햇볕 좀 가리게 가져도 될까?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 865"
+    "message": "어이! <FC 0,128,0>양산<END FC>이군! 내가 햇볕 좀 가리게 가져도 될까?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_ItemDecline": {
-    "message": "오, 이런! 날 실망시키는데!<E>",
-    "description": "SphinxText.xls, row 866"
+    "message": "오, 이런! 날 실망시키는데!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_ThanksAgain": {
-    "message": "이봐, 또 고마운걸!<E>",
-    "description": "SphinxText.xls, row 867"
+    "message": "이봐, 또 고마운걸!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_TooSunny": {
-    "message": "오! 아직 해변에서 쉬기에는 너무 햇볕이 강한걸.<E>",
-    "description": "SphinxText.xls, row 868"
+    "message": "오! 아직 해변에서 쉬기에는 너무 햇볕이 강한걸.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_Thanks1b": {
-    "message": "보답으로 원한다면 이 <FC 0,128,0>스캐럽 가방<END FC>을 가져가라구. 난 이게 쓸모가 없거든.<E>",
-    "description": "SphinxText.xls, row 873"
+    "message": "보답으로 원한다면 이 <FC 0,128,0>스캐럽 가방<END FC>을 가져가라구. 난 이게 쓸모가 없거든.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_AnkhIncrease": {
-    "message": "<N><CNTR><FC 0,128,0>황금 앙크 조각<END FC> 하나를 구했다!<P><CNTR>너의 체력 최대값을 더 증가하려면 <FC 0,128,0>황금 앙크 조각들<END FC>을 더 구해라.<E>",
-    "description": "SphinxText.xls, row 874"
+    "message": "<N><CNTR><FC 0,128,0>황금 앙크 조각<END FC> 하나를 구했다!<P><CNTR>너의 체력 최대값을 더 증가하려면 <FC 0,128,0>황금 앙크 조각들<END FC>을 더 구해라.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_GotLoyaltyCard": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>고객 카드<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 카드의 소지자는 <FC 128,64,0>베두인 변방<END FC>의 가계에서 딱정벌레를 반 가격에 구입할 수 있다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 875"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>고객 카드<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 카드의 소지자는 <FC 128,64,0>베두인 변방<END FC>의 가계에서 딱정벌레를 반 가격에 구입할 수 있다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Hel_BedouinOutpost_Complete1a": {
-    "message": "오, 하느님! 믿을 수가 없군! 내가 <FC 0,128,0>로제타 석<END FC>을 해독했어!<E>",
-    "description": "SphinxText.xls, row 880"
+    "message": "오, 하느님! 믿을 수가 없군! 내가 <FC 0,128,0>로제타 석<END FC>을 해독했어!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Complete1b": {
-    "message": "내가 해냈다구, 친구! 마침내, 이 기나긴 시간이 지나고 나의 꿈을 이루었다! 너의 도움이 없이는 해내지 못했을 거야! 네가 이 늙은이를 매우 기쁘게 해주었다.<E>",
-    "description": "SphinxText.xls, row 881"
+    "message": "내가 해냈다구, 친구! 마침내, 이 기나긴 시간이 지나고 나의 꿈을 이루었다! 너의 도움이 없이는 해내지 못했을 거야! 네가 이 늙은이를 매우 기쁘게 해주었다.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Complete1c": {
-    "message": "<EFF><EPO>부탁이네, 선물로 이 새로 맞춰진 돌을 가져가게. 이것을 사용하여 <FC 0,128,0>헬리오폴리스의 5개의 황금 오벨리스크들<END FC>을 해독할 수 있어!<END FC><P>5개의 오벨리스크들을 해독한 후 반드시 돌아와 발견한 것을 내게 알려주어야만 하네.<P>내가 직접 찾기엔 난 너무 늙었어, 하지만 네가 무엇을 발견하는 가에 대해선 매우 관심이 있네!<P>잊지 말게, 너의 기록에 네가 발견한 것들을 기억해둘 수 있어. 행운을 비네!<E>",
-    "description": "SphinxText.xls, row 882"
+    "message": "<EFF><EPO>부탁이네, 선물로 이 새로 맞춰진 돌을 가져가게. 이것을 사용하여 <FC 0,128,0>헬리오폴리스의 5개의 황금 오벨리스크들<END FC>을 해독할 수 있어!<END FC><P>5개의 오벨리스크들을 해독한 후 반드시 돌아와 발견한 것을 내게 알려주어야만 하네.<P>내가 직접 찾기엔 난 너무 늙었어, 하지만 네가 무엇을 발견하는 가에 대해선 매우 관심이 있네!<P>잊지 말게, 너의 기록에 네가 발견한 것들을 기억해둘 수 있어. 행운을 비네!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Wait1a": {
-    "message": "조각들을 맞출 시간이 더 필요하네. <E>",
-    "description": "SphinxText.xls, row 883"
+    "message": "조각들을 맞출 시간이 더 필요하네. <E>"
   },
   "HT_Text_Hel_BedouinOutpost_Wait1b": {
-    "message": "나가있게, 집중을 해야 하네! <W 25>",
-    "description": "SphinxText.xls, row 884"
+    "message": "나가있게, 집중을 해야 하네! <W 25>"
   },
   "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1a": {
-    "message": "안녕하십니까, 여행자여! 우리의 초라한 <FC 128,64,0>베두인 변방<END FC>에 오신 것을 환영합니다.<E>",
-    "description": "SphinxText.xls, row 885"
+    "message": "안녕하십니까, 여행자여! 우리의 초라한 <FC 128,64,0>베두인 변방<END FC>에 오신 것을 환영합니다.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1b": {
-    "message": "만약 당신이 훌륭한 <FC 0,128,0>포획 딱정벌레<END FC>의 감정가시라면 제대로 찾아오신 것입니다.<E>",
-    "description": "SphinxText.xls, row 886"
+    "message": "만약 당신이 훌륭한 <FC 0,128,0>포획 딱정벌레<END FC>의 감정가시라면 제대로 찾아오신 것입니다.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1c": {
-    "message": "지금 저의 재고들을 둘러보십시오. 만약 저의 <FC 0,128,0>딱정벌레 교배 항아리<END FC>를 빨리 찾지 못한다면 더 이상 구매할 수 있는 딱정벌레가 남지 않을 것입니다!<E>",
-    "description": "SphinxText.xls, row 887"
+    "message": "지금 저의 재고들을 둘러보십시오. 만약 저의 <FC 0,128,0>딱정벌레 교배 항아리<END FC>를 빨리 찾지 못한다면 더 이상 구매할 수 있는 딱정벌레가 남지 않을 것입니다!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime": {
-    "message": "몇 년 전, 저는 이상한 포털에 빠져서 이 세상에 머무르게 되었죠. 그렇다고 싫은 것은 아니에요.<P>이제 딱정벌레들을 모으고 교배하는 저의 취미에 집중할 수 있으니까요.<P>예전에는 희귀종인 원격 제어 폭발 종축 딱정벌레의 수집을 가지고 있었는데 몇 주전 모래바람이 불어와서 다 날려버렸죠, 나의 여분의 <FC 0,128,0>딱정벌레 작은 가방<END FC>들과 함께 말이에요. 오, 쩝쩝, 인생은 들쑥날쑥한다니깐!<E>",
-    "description": "SphinxText.xls, row 888"
+    "message": "몇 년 전, 저는 이상한 포털에 빠져서 이 세상에 머무르게 되었죠. 그렇다고 싫은 것은 아니에요.<P>이제 딱정벌레들을 모으고 교배하는 저의 취미에 집중할 수 있으니까요.<P>예전에는 희귀종인 원격 제어 폭발 종축 딱정벌레의 수집을 가지고 있었는데 몇 주전 모래바람이 불어와서 다 날려버렸죠, 나의 여분의 <FC 0,128,0>딱정벌레 작은 가방<END FC>들과 함께 말이에요. 오, 쩝쩝, 인생은 들쑥날쑥한다니깐!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_GotBeetleBreederItem": {
-    "message": "<N><CNTR><FC 0,128,0>딱정벌레 교배 항아리<END FC>를 발견했다!<P><CNTR><FC 128,64,0>베두인 변방<END FC>에 있는 딱정벌레 양육자가 이것을 보면 매우 기뻐할 것이다.<E>",
-    "description": "SphinxText.xls, row 917"
+    "message": "<N><CNTR><FC 0,128,0>딱정벌레 교배 항아리<END FC>를 발견했다!<P><CNTR><FC 128,64,0>베두인 변방<END FC>에 있는 딱정벌레 양육자가 이것을 보면 매우 기뻐할 것이다.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_GotRosettaStone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>로제타 석<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 고대의 석판은 고대인들의<N><CNTR>문구를 해독할 수 있도록 해준다!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 918"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>로제타 석<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 고대의 석판은 고대인들의<N><CNTR>문구를 해독할 수 있도록 해준다!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_Done01": {
-    "message": "들어가시오.  파라오가 당신을 기다리고 있습니다.<E>",
-    "description": "SphinxText.xls, row 1053"
+    "message": "들어가시오.  파라오가 당신을 기다리고 있습니다.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_Done01": {
-    "message": "파라오를 기다리게 하지 마시오.<E>",
-    "description": "SphinxText.xls, row 1054"
+    "message": "파라오를 기다리게 하지 마시오.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_Done02": {
-    "message": "그 배신자에게 내가 속다니, 믿을 수 없군!<E>",
-    "description": "SphinxText.xls, row 1055"
+    "message": "그 배신자에게 내가 속다니, 믿을 수 없군!<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_Done02": {
-    "message": "그 놈이 가짜였다면 우리의 진짜 파라오께서는 어떻게 된 거지?<E>",
-    "description": "SphinxText.xls, row 1056"
+    "message": "그 놈이 가짜였다면 우리의 진짜 파라오께서는 어떻게 된 거지?<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_Prompt01": {
-    "message": "네가 내 손바닥에 <FC 0,128,0>30 스캐럽<END FC>을 뿌려놓을 것이라고 나는 예언한다<N>  <B 1> 좋아<N>  <B 2> 그럴 수는 없다<E>",
-    "description": "SphinxText.xls, row 924"
+    "message": "네가 내 손바닥에 <FC 0,128,0>30 스캐럽<END FC>을 뿌려놓을 것이라고 나는 예언한다<N>  <B 1> 좋아<N>  <B 2> 그럴 수는 없다<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_Accept01": {
-    "message": "좋아, 이제 아주 오랜 기간 분실되었던 <FC 0,128,0>황금 앙크 조각<END FC>의 위치를 맞춰볼 것이다...<E>",
-    "description": "SphinxText.xls, row 925"
+    "message": "좋아, 이제 아주 오랜 기간 분실되었던 <FC 0,128,0>황금 앙크 조각<END FC>의 위치를 맞춰볼 것이다...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_Decline01": {
-    "message": "이상하군... 나의 예지력이 오늘은 조금 부정확한 것 같군.<E>",
-    "description": "SphinxText.xls, row 926"
+    "message": "이상하군... 나의 예지력이 오늘은 조금 부정확한 것 같군.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_NotEnoughScarabs": {
-    "message": "미안하지만, 너는 <FC 0,128,0>스캐럽<END FC>이 충분하지 않다.<E>",
-    "description": "SphinxText.xls, row 927"
+    "message": "미안하지만, 너는 <FC 0,128,0>스캐럽<END FC>이 충분하지 않다.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue01": {
-    "message": "앙크 조각 단서 1",
-    "description": "SphinxText.xls, row 928"
+    "message": "앙크 조각 단서 1"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue02": {
-    "message": "앙크 조각 단서 2",
-    "description": "SphinxText.xls, row 929"
+    "message": "앙크 조각 단서 2"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue03": {
-    "message": "앙크 조각 단서 3",
-    "description": "SphinxText.xls, row 930"
+    "message": "앙크 조각 단서 3"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue04": {
-    "message": "앙크 조각 단서 4",
-    "description": "SphinxText.xls, row 931"
+    "message": "앙크 조각 단서 4"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue05": {
-    "message": "앙크 조각 단서 5",
-    "description": "SphinxText.xls, row 932"
+    "message": "앙크 조각 단서 5"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue06": {
-    "message": "앙크 조각 단서 6",
-    "description": "SphinxText.xls, row 933"
+    "message": "앙크 조각 단서 6"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue07": {
-    "message": "앙크 조각 단서 7",
-    "description": "SphinxText.xls, row 934"
+    "message": "앙크 조각 단서 7"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue08": {
-    "message": "앙크 조각 단서 8",
-    "description": "SphinxText.xls, row 935"
+    "message": "앙크 조각 단서 8"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue09": {
-    "message": "앙크 조각 단서 9",
-    "description": "SphinxText.xls, row 936"
+    "message": "앙크 조각 단서 9"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue10": {
-    "message": "앙크 조각 단서 10",
-    "description": "SphinxText.xls, row 937"
+    "message": "앙크 조각 단서 10"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue11": {
-    "message": "앙크 조각 단서 11",
-    "description": "SphinxText.xls, row 938"
+    "message": "앙크 조각 단서 11"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue12": {
-    "message": "앙크 조각 단서 12",
-    "description": "SphinxText.xls, row 939"
+    "message": "앙크 조각 단서 12"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue13": {
-    "message": "앙크 조각 단서 13",
-    "description": "SphinxText.xls, row 940"
+    "message": "앙크 조각 단서 13"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue14": {
-    "message": "앙크 조각 단서 14",
-    "description": "SphinxText.xls, row 941"
+    "message": "앙크 조각 단서 14"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue15": {
-    "message": "앙크 조각 단서 15",
-    "description": "SphinxText.xls, row 942"
+    "message": "앙크 조각 단서 15"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue16": {
-    "message": "앙크 조각 단서 16",
-    "description": "SphinxText.xls, row 943"
+    "message": "앙크 조각 단서 16"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue17": {
-    "message": "앙크 조각 단서 17",
-    "description": "SphinxText.xls, row 944"
+    "message": "앙크 조각 단서 17"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue18": {
-    "message": "앙크 조각 단서 18",
-    "description": "SphinxText.xls, row 945"
+    "message": "앙크 조각 단서 18"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue19": {
-    "message": "앙크 조각 단서 19",
-    "description": "SphinxText.xls, row 946"
+    "message": "앙크 조각 단서 19"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue20": {
-    "message": "앙크 조각 단서 20",
-    "description": "SphinxText.xls, row 947"
+    "message": "앙크 조각 단서 20"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPiecesNoneValid": {
-    "message": "전망이 맑지는 않군... 안타깝지만 지금은 내가 더 이상 <FC 0,128,0>황금 앙크 조각들<END FC>의 위치를 내다볼 수 없는 것 같다. 나중에 다시 들르면 도와 줄 수 있을 지도 모른다.<E>",
-    "description": "SphinxText.xls, row 948"
+    "message": "전망이 맑지는 않군... 안타깝지만 지금은 내가 더 이상 <FC 0,128,0>황금 앙크 조각들<END FC>의 위치를 내다볼 수 없는 것 같다. 나중에 다시 들르면 도와 줄 수 있을 지도 모른다.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPiecesComplete": {
-    "message": "나의 능력이 나를 속이고 있지 않다면, 네가 고대의 <FC 0,128,0>황금 앙크 조각들<END FC>을 전부 찾았다고 믿는다! 정말 대단하군!<E>",
-    "description": "SphinxText.xls, row 949"
+    "message": "나의 능력이 나를 속이고 있지 않다면, 네가 고대의 <FC 0,128,0>황금 앙크 조각들<END FC>을 전부 찾았다고 믿는다! 정말 대단하군!<E>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1a": {
-    "message": "머야...? 이 이상한 장소는 어디지?<W 30>",
-    "description": "SphinxText.xls, row 950"
+    "message": "머야...? 이 이상한 장소는 어디지?<W 30>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1b": {
-    "message": "앗! 날 놀라게 하는군, 이방인!<W 30>",
-    "description": "SphinxText.xls, row 951"
+    "message": "앗! 날 놀라게 하는군, 이방인!<W 30>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1c": {
-    "message": "<FC 128,64,0>아비도스<END FC>에서 파라오의 자서전을 집필하기 위해서 소환되었는데 졸음이 쏟아졌어. 그리고 정신차리니 여기에 너와 함께 있네.<E>",
-    "description": "SphinxText.xls, row 952"
+    "message": "<FC 128,64,0>아비도스<END FC>에서 파라오의 자서전을 집필하기 위해서 소환되었는데 졸음이 쏟아졌어. 그리고 정신차리니 여기에 너와 함께 있네.<E>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1d": {
-    "message": "이 이상한 사건들은 독자들을 사로잡을 새 책의 위대한 아이디어를 주었어! 나는 즉시 <FC 128,64,0>아비도스<END FC>로 돌아가서 집필을 시작할 거야.<E>",
-    "description": "SphinxText.xls, row 953"
+    "message": "이 이상한 사건들은 독자들을 사로잡을 새 책의 위대한 아이디어를 주었어! 나는 즉시 <FC 128,64,0>아비도스<END FC>로 돌아가서 집필을 시작할 거야.<E>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1e": {
-    "message": "도와줘서 고맙다, 이방인, 나의 책을 선물로 가져가라. <FC 128,64,0>아비도스<END FC>오면, 꼭 한번 들러서 이야기를 나누자. 살펴가시게나!<E>",
-    "description": "SphinxText.xls, row 954"
+    "message": "도와줘서 고맙다, 이방인, 나의 책을 선물로 가져가라. <FC 128,64,0>아비도스<END FC>오면, 꼭 한번 들러서 이야기를 나누자. 살펴가시게나!<E>"
   },
   "HT_Text_Hel_CursedPalace_Help_GotBookOfTheDead": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>사자의 서<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 고대의 책 한 권으로 바스-켓을 소환하여<N><CNTR><FC 0,128,0>납골단지들<END FC>을 미이라에게 보낼 수 있다!<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 968"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>사자의 서<END FC>를 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>이 고대의 책 한 권으로 바스-켓을 소환하여<N><CNTR><FC 0,128,0>납골단지들<END FC>을 미이라에게 보낼 수 있다!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp": {
-    "message": "어떻게 된 거지? 오! 나의 소중한 강아지들이 사라졌어!<P>부탁입니다, 선생님, 저를 좀 도와주세요! 제가 기억하는 마지막은 저의 개들이 이상하게 변해서 저를 공격했어요! 왜 그랬을까요?!<P>지금은 다들 달아난 것 같은데, 저에게 그들을 찾아주신다면 정말 감사 드리겠습니다. 개들은, 제가 마지막으로 보았을 때, 흔히 말하는 것처럼,  성질을 부리고 있었다고나 할까요...<E>",
-    "description": "SphinxText.xls, row 972"
+    "message": "어떻게 된 거지? 오! 나의 소중한 강아지들이 사라졌어!<P>부탁입니다, 선생님, 저를 좀 도와주세요! 제가 기억하는 마지막은 저의 개들이 이상하게 변해서 저를 공격했어요! 왜 그랬을까요?!<P>지금은 다들 달아난 것 같은데, 저에게 그들을 찾아주신다면 정말 감사 드리겠습니다. 개들은, 제가 마지막으로 보았을 때, 흔히 말하는 것처럼,  성질을 부리고 있었다고나 할까요...<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsAllStillMissing": {
-    "message": "만약 저의 개들을 찾으시면 저에게 다시 보내주십시오, 저는 너무 걱정이 되요.<E>",
-    "description": "SphinxText.xls, row 973"
+    "message": "만약 저의 개들을 찾으시면 저에게 다시 보내주십시오, 저는 너무 걱정이 되요.<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsStillMissing": {
-    "message": "저의 소중한 강아지들 중 일부는 돌아왔지만 <FC 0,128,0><SO HT_Objective_Hel_CursedPalace_MotherNumChihuahuasLeft><END FC> 마리는 아직 행방불명이에요. 오, 제발 괜찮아야 할 텐데!<E>",
-    "description": "SphinxText.xls, row 974"
+    "message": "저의 소중한 강아지들 중 일부는 돌아왔지만 <FC 0,128,0><SO HT_Objective_Hel_CursedPalace_MotherNumChihuahuasLeft><END FC> 마리는 아직 행방불명이에요. 오, 제발 괜찮아야 할 텐데!<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsOneStillMissing": {
-    "message": "저의 소중한 강아지들 중 일부는 돌아왔지만 <FC 0,128,0>1<END FC> 마리는 아직 행방불명이에요. 오, 제발 괜찮아야 할 텐데!<E>",
-    "description": "SphinxText.xls, row 975"
+    "message": "저의 소중한 강아지들 중 일부는 돌아왔지만 <FC 0,128,0>1<END FC> 마리는 아직 행방불명이에요. 오, 제발 괜찮아야 할 텐데!<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsAllFound": {
-    "message": "정말 너무 감사합니다! 저의 개들이 모두 돌아와서 이제 그만 걱정해도 될 것 같아요.<P>제발, 이걸 받아주세요. 사육장을 운영하셔도 좋을 것 같네요!<E>",
-    "description": "SphinxText.xls, row 976"
+    "message": "정말 너무 감사합니다! 저의 개들이 모두 돌아와서 이제 그만 걱정해도 될 것 같아요.<P>제발, 이걸 받아주세요. 사육장을 운영하셔도 좋을 것 같네요!<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_ThanksAgain": {
-    "message": "저의 불쌍하고 귀여운 강아지들을 구해주셔서 다시 한 번 감사 드립니다. 누가 이 순진한 동물들에게 그런 짓을 했을까요?<E>",
-    "description": "SphinxText.xls, row 977"
+    "message": "저의 불쌍하고 귀여운 강아지들을 구해주셔서 다시 한 번 감사 드립니다. 누가 이 순진한 동물들에게 그런 짓을 했을까요?<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp": {
-    "message": "오, 이런! 갈피를 못 잡겠군!<P>내가 마지막으로 기억하는 것은 내 남편 파라오가 정말 이상한 행동을 하는 거에요.<P>그는 <FC 128,64,0>성벽<END FC>뒤에 탑을 쌓는 것에 사로잡혀있었죠.<P>그의 성격이 불 같아지고 공격적이 되어버렸어요. 지금은 좀 괜찮아졌기를 정말 바래요.<E>",
-    "description": "SphinxText.xls, row 978"
+    "message": "오, 이런! 갈피를 못 잡겠군!<P>내가 마지막으로 기억하는 것은 내 남편 파라오가 정말 이상한 행동을 하는 거에요.<P>그는 <FC 128,64,0>성벽<END FC>뒤에 탑을 쌓는 것에 사로잡혀있었죠.<P>그의 성격이 불 같아지고 공격적이 되어버렸어요. 지금은 좀 괜찮아졌기를 정말 바래요.<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_StillWorried": {
-    "message": "나의 사랑스러운 파라오! 그가 건강하게 있기를 애원하고 있어요.<E>",
-    "description": "SphinxText.xls, row 979"
+    "message": "나의 사랑스러운 파라오! 그가 건강하게 있기를 애원하고 있어요.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp": {
-    "message": "으으으! 그게 무슨 악마의 소행이람?<P>마지막으로 기억하는 것은 파라오가 보안문제에 예민해졌다는 거에요. 그가 그렇게 조심해야 할 이유가 충분했던 것처럼 보이는군요.<E>",
-    "description": "SphinxText.xls, row 980"
+    "message": "으으으! 그게 무슨 악마의 소행이람?<P>마지막으로 기억하는 것은 파라오가 보안문제에 예민해졌다는 거에요. 그가 그렇게 조심해야 할 이유가 충분했던 것처럼 보이는군요.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_GoAway": {
-    "message": "<FC 0,128,0>초청장<END FC>없이는 파라오를 뵐 수 없다.<E>",
-    "description": "SphinxText.xls, row 981"
+    "message": "<FC 0,128,0>초청장<END FC>없이는 파라오를 뵐 수 없다.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_OpenDoor": {
-    "message": "<FC 0,128,0>초청장<END FC>을 가지고 있군.  파라오께서는 기꺼이 당신을 만나실 것이다.<E>",
-    "description": "SphinxText.xls, row 982"
+    "message": "<FC 0,128,0>초청장<END FC>을 가지고 있군.  파라오께서는 기꺼이 당신을 만나실 것이다.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp": {
-    "message": "저주 받을! 라의 명으로 도대체 그것은 무엇이었지?<P>궁전의 경비를 강화를 주장했던 파라오가 옳았던 것 같군.<E>",
-    "description": "SphinxText.xls, row 983"
+    "message": "저주 받을! 라의 명으로 도대체 그것은 무엇이었지?<P>궁전의 경비를 강화를 주장했던 파라오가 옳았던 것 같군.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_GoAway": {
-    "message": "<FC 0,128,0>초청장<END FC>없는 방문객은 절대 입장 불가.<E>",
-    "description": "SphinxText.xls, row 984"
+    "message": "<FC 0,128,0>초청장<END FC>없는 방문객은 절대 입장 불가.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_OpenDoor": {
-    "message": "예, 당신의 <FC 0,128,0>초청장<END FC>은 정식인 것 같군요, 들어가시지요.<E>",
-    "description": "SphinxText.xls, row 985"
+    "message": "예, 당신의 <FC 0,128,0>초청장<END FC>은 정식인 것 같군요, 들어가시지요.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp": {
-    "message": "아니! 너 때문에 나의 주인님의 계획들이 더뎌지게 할 수 없다!<P>방해하면 벌레 같은 네놈을 박멸시켜버리겠다!<E>",
-    "description": "SphinxText.xls, row 986"
+    "message": "아니! 너 때문에 나의 주인님의 계획들이 더뎌지게 할 수 없다!<P>방해하면 벌레 같은 네놈을 박멸시켜버리겠다!<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_Thanks": {
-    "message": "엉? 오! 저주를 풀어주셔서 감사합니다!<P>지금 가봐야겠네요. <E>",
-    "description": "SphinxText.xls, row 987"
+    "message": "엉? 오! 저주를 풀어주셔서 감사합니다!<P>지금 가봐야겠네요. <E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1a": {
-    "message": "아~~! 꼬마녀석한테 당하다니!<P>지금은 패배했지만 너는 오늘 큰 실수를 한 거다. 너는 전지전능하신 세트님의 계획을 감히 방해했다.<E>",
-    "description": "SphinxText.xls, row 988"
+    "message": "아~~! 꼬마녀석한테 당하다니!<P>지금은 패배했지만 너는 오늘 큰 실수를 한 거다. 너는 전지전능하신 세트님의 계획을 감히 방해했다.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1b": {
-    "message": "그의 분노로 지구가 흔들리고 하늘이 붉게 타오르고 모든 생물의 심장이 공포로 움츠려 들 것이다.<E>",
-    "description": "SphinxText.xls, row 989"
+    "message": "그의 분노로 지구가 흔들리고 하늘이 붉게 타오르고 모든 생물의 심장이 공포로 움츠려 들 것이다.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1c": {
-    "message": "내 생의 이 마지막 순간에 너에게 닥쳐올 고통에 기쁨을 느낀다. 그 고통은 서서히 진행되며 극심한 고통을 맛볼 것이다.<E>",
-    "description": "SphinxText.xls, row 990"
+    "message": "내 생의 이 마지막 순간에 너에게 닥쳐올 고통에 기쁨을 느낀다. 그 고통은 서서히 진행되며 극심한 고통을 맛볼 것이다.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1d": {
-    "message": "<END TT><TT 2>세트님이... 너를... 죽이실 거다... <W 5><P><END TT><TT 6>스핑크스...<W 1>",
-    "description": "SphinxText.xls, row 991"
+    "message": "<END TT><TT 2>세트님이... 너를... 죽이실 거다... <W 5><P><END TT><TT 6>스핑크스...<W 1>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a": {
-    "message": "쩝, 인정할 건 해야겠군, 너는 끈질긴 놈이다. 그러나, 그 끈기로는 이 왕관을 구하지 못할 것이다.<E>",
-    "description": "SphinxText.xls, row 992"
+    "message": "쩝, 인정할 건 해야겠군, 너는 끈질긴 놈이다. 그러나, 그 끈기로는 이 왕관을 구하지 못할 것이다.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a11": {
-    "message": "<EFF><EPO>이것을 너처럼 무식한 놈이 가지게 두지는 않을 것이다. 너는 이것의 힘을 절대로 이해하지 못할 것이다!<P>아누비스가 나에게서 왕관을 뺏으려고 시도하였으나 실패했다. 그는 나를 평생 동안 돌로 만들어야만 했지.<E>",
-    "description": "SphinxText.xls, row 993"
+    "message": "<EFF><EPO>이것을 너처럼 무식한 놈이 가지게 두지는 않을 것이다. 너는 이것의 힘을 절대로 이해하지 못할 것이다!<P>아누비스가 나에게서 왕관을 뺏으려고 시도하였으나 실패했다. 그는 나를 평생 동안 돌로 만들어야만 했지.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a1": {
-    "message": "<EFF><EPO>나를 멈추기 위해서 그가 할 수 있는 것이 그게 전부였다. 이제 그가 이것을 나에게로 뺏기 위해서 자신의 작은 인형인 너를 보내는 군.<P>그 놈은 늙고 노쇠한 것이 틀림없군, 그 성에서 썩어가면서말야. 음화하하하핫!!<E>",
-    "description": "SphinxText.xls, row 994"
+    "message": "<EFF><EPO>나를 멈추기 위해서 그가 할 수 있는 것이 그게 전부였다. 이제 그가 이것을 나에게로 뺏기 위해서 자신의 작은 인형인 너를 보내는 군.<P>그 놈은 늙고 노쇠한 것이 틀림없군, 그 성에서 썩어가면서말야. 음화하하하핫!!<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a2": {
-    "message": "이 왕관을 나의 군주이신 세트님께 돌려드릴 것이다...<E>",
-    "description": "SphinxText.xls, row 995"
+    "message": "이 왕관을 나의 군주이신 세트님께 돌려드릴 것이다...<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a3": {
-    "message": "...하지만 그전에 너를 뭉개주지!<E>",
-    "description": "SphinxText.xls, row 996"
+    "message": "...하지만 그전에 너를 뭉개주지!<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1b": {
-    "message": "나를 죽이는 것만이 네가 이 왕관을 차지할 수 있는 유일한 방법이다!<E>",
-    "description": "SphinxText.xls, row 997"
+    "message": "나를 죽이는 것만이 네가 이 왕관을 차지할 수 있는 유일한 방법이다!<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1a": {
-    "message": "어라! 어? 무슨 일이 벌어졌지? 여기가 어디야?<P>",
-    "description": "SphinxText.xls, row 998"
+    "message": "어라! 어? 무슨 일이 벌어졌지? 여기가 어디야?<P>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1b": {
-    "message": "잠깐만, 여기는 <FC 128,64,0>파라오의 궁전<END FC>이잖아. 내가 어떻게 이곳에 오게 되었지?<E>",
-    "description": "SphinxText.xls, row 999"
+    "message": "잠깐만, 여기는 <FC 128,64,0>파라오의 궁전<END FC>이잖아. 내가 어떻게 이곳에 오게 되었지?<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1c": {
-    "message": "<EFF><EPO>그렇지! 궁전 정원에서 일하라고 호출 되었지! 하지만 이 다른 사람들은 누구지...<P>파라오가 모든 방문객들을 금지시킨 것으로 알았는데... 이 돌로 된 사람들을 보면 그가 뭐라고 할지 궁금하군.<E>",
-    "description": "SphinxText.xls, row 1000"
+    "message": "<EFF><EPO>그렇지! 궁전 정원에서 일하라고 호출 되었지! 하지만 이 다른 사람들은 누구지...<P>파라오가 모든 방문객들을 금지시킨 것으로 알았는데... 이 돌로 된 사람들을 보면 그가 뭐라고 할지 궁금하군.<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1d": {
-    "message": "어쨌든, 농장으로 돌아가서 내 형제를 찾아야겠군, 나를 많이 걱정하고 있을 거야. 날 풀어줘서 고마워, 친구.<E>",
-    "description": "SphinxText.xls, row 1001"
+    "message": "어쨌든, 농장으로 돌아가서 내 형제를 찾아야겠군, 나를 많이 걱정하고 있을 거야. 날 풀어줘서 고마워, 친구.<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1e": {
-    "message": "농장에 한 번 들리게, 이곳의 바깥 언덕 바로 위에 있어. 들르면 우리가 가능한 도와주지.<E> ",
-    "description": "SphinxText.xls, row 1002"
+    "message": "농장에 한 번 들리게, 이곳의 바깥 언덕 바로 위에 있어. 들르면 우리가 가능한 도와주지.<E> "
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1a": {
-    "message": "뭐? 어디? 오, 안녕 젊은이. 나를 저주로부터 자유롭게 해줄 사람이 너라는 것을 예지했었지.<E>",
-    "description": "SphinxText.xls, row 1003"
+    "message": "뭐? 어디? 오, 안녕 젊은이. 나를 저주로부터 자유롭게 해줄 사람이 너라는 것을 예지했었지.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1b": {
-    "message": "나의 예지 능력은 <FC 128,64,0>아비도스<END FC>를 통해 널리 알려져 있지만 나조차도 나를 여기에 가둔 저주의 접근을 볼 수는 없었다.<E>",
-    "description": "SphinxText.xls, row 1004"
+    "message": "나의 예지 능력은 <FC 128,64,0>아비도스<END FC>를 통해 널리 알려져 있지만 나조차도 나를 여기에 가둔 저주의 접근을 볼 수는 없었다.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1c": {
-    "message": "파라오의 부인이 예언을 하라고 소환했는데 ... 잠깐만. 오, 뭔가 보인다...<E>",
-    "description": "SphinxText.xls, row 1005"
+    "message": "파라오의 부인이 예언을 하라고 소환했는데 ... 잠깐만. 오, 뭔가 보인다...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1d": {
-    "message": "<FC 128,64,0>헬리오폴리스<END FC>는 한 때 밝고 평화로운 장소였다...<E>",
-    "description": "SphinxText.xls, row 1006"
+    "message": "<FC 128,64,0>헬리오폴리스<END FC>는 한 때 밝고 평화로운 장소였다...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1e": {
-    "message": "...그러나 변화가 일어나서 낮이 짧아지고 밤이 길어졌다...<E>",
-    "description": "SphinxText.xls, row 1007"
+    "message": "...그러나 변화가 일어나서 낮이 짧아지고 밤이 길어졌다...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1f": {
-    "message": "...이상한 괴물들이 멀리 북쪽에 있는 언덕들에 나타나기 시작했다...<E>",
-    "description": "SphinxText.xls, row 1008"
+    "message": "...이상한 괴물들이 멀리 북쪽에 있는 언덕들에 나타나기 시작했다...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1g": {
-    "message": "...기후가 변했다. 산중의 화산들이 동요하기 시작했고 땅이 갈리면서 밑에서 용암을 뱉어내기 시작했다...<E>",
-    "description": "SphinxText.xls, row 1009"
+    "message": "...기후가 변했다. 산중의 화산들이 동요하기 시작했고 땅이 갈리면서 밑에서 용암을 뱉어내기 시작했다...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1h": {
-    "message": "<EFF><EPO>...하지만 정말 신기한 일이 벌어졌다.<P>동이 트고 <FC 128,64,0>헬리오폴리스<END FC>의 사람들이 하루를 맞이하려고 할 때, 사람들은 믿을 수 없는 무엇인가를 보았다...<E>",
-    "description": "SphinxText.xls, row 1010"
+    "message": "<EFF><EPO>...하지만 정말 신기한 일이 벌어졌다.<P>동이 트고 <FC 128,64,0>헬리오폴리스<END FC>의 사람들이 하루를 맞이하려고 할 때, 사람들은 믿을 수 없는 무엇인가를 보았다...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1i": {
-    "message": "<EFF><EPO>...<FC 128,64,0>헬리오폴리스<END FC>의 전체를 가로지르는 엄청난 벽이 생겨난 거야.<P>사람들은 벽의 출현으로 놀라기도 했지만 고마워하기도 했지. 이 벽은 북으로부터의 소란에서 그들을 보호하기 위하여 지어진 것으로 보였으니깐.<E>",
-    "description": "SphinxText.xls, row 1011"
+    "message": "<EFF><EPO>...<FC 128,64,0>헬리오폴리스<END FC>의 전체를 가로지르는 엄청난 벽이 생겨난 거야.<P>사람들은 벽의 출현으로 놀라기도 했지만 고마워하기도 했지. 이 벽은 북으로부터의 소란에서 그들을 보호하기 위하여 지어진 것으로 보였으니깐.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1j": {
-    "message": "아아, 이 이야기는 뒤틀려 있어. 벽은 세워졌지만 <FC 128,64,0>파라오의 궁전<END FC>의 사람들은 저주 받고 돌이 되어버렸다.<E>",
-    "description": "SphinxText.xls, row 1012"
+    "message": "아아, 이 이야기는 뒤틀려 있어. 벽은 세워졌지만 <FC 128,64,0>파라오의 궁전<END FC>의 사람들은 저주 받고 돌이 되어버렸다.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1j1": {
-    "message": "벽의 보호를 받는 대가로는 너무 비싼 댓가였지.<E>",
-    "description": "SphinxText.xls, row 1013"
+    "message": "벽의 보호를 받는 대가로는 너무 비싼 댓가였지.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k": {
-    "message": "그때부터, 이 곳은 <FC 128,64,0>저주 받은 성<END FC>으로 알려져 있다.<E>",
-    "description": "SphinxText.xls, row 1014"
+    "message": "그때부터, 이 곳은 <FC 128,64,0>저주 받은 성<END FC>으로 알려져 있다.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k1": {
-    "message": "<EFF><EPO>아아, 너의 미래에 많은 흥미로운 것들도 보이는 군... <P>너는 분실된 성스러운 왕관을 찾고 있군... <E>",
-    "description": "SphinxText.xls, row 1015"
+    "message": "<EFF><EPO>아아, 너의 미래에 많은 흥미로운 것들도 보이는 군... <P>너는 분실된 성스러운 왕관을 찾고 있군... <E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k2": {
-    "message": "...고대의 잊혀진 사원이 보인다, 넓은 사막의 모래 사이에 숨겨져 있군...<E>",
-    "description": "SphinxText.xls, row 1016"
+    "message": "...고대의 잊혀진 사원이 보인다, 넓은 사막의 모래 사이에 숨겨져 있군...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k3": {
-    "message": "...비밀이 숨겨져 있는 <FC 0,128,0>황금 오벨리스크들<END FC>이 보인다... <E>",
-    "description": "SphinxText.xls, row 1017"
+    "message": "...비밀이 숨겨져 있는 <FC 0,128,0>황금 오벨리스크들<END FC>이 보인다... <E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k4": {
-    "message": "...그리고 위대한 힘의 위업이 보인다. <E>",
-    "description": "SphinxText.xls, row 1018"
+    "message": "...그리고 위대한 힘의 위업이 보인다. <E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1l": {
-    "message": "현재 볼 수 있는 것은 그것이 전부다, 어린 친구. 이제 나는 <FC 128,64,0>아비도스<END FC>의 집으로 돌아가야 한다. 나는 먼 미래에 우리가 다시 만날 것이라는 것을 예지한다. 잘 있게.<E>",
-    "description": "SphinxText.xls, row 1019"
+    "message": "현재 볼 수 있는 것은 그것이 전부다, 어린 친구. 이제 나는 <FC 128,64,0>아비도스<END FC>의 집으로 돌아가야 한다. 나는 먼 미래에 우리가 다시 만날 것이라는 것을 예지한다. 잘 있게.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp1a": {
-    "message": "아! 이 무슨 악마의 소행이지?! 무슨 일이 벌어지고 있는 거야?<E>",
-    "description": "SphinxText.xls, row 1020"
+    "message": "아! 이 무슨 악마의 소행이지?! 무슨 일이 벌어지고 있는 거야?<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp1b": {
-    "message": "나를 자유롭게 해주어서 고마워. 하지만 미안하게도 파라오를 만날 수 있게 해줄 수는 없을 것 같군.<E>",
-    "description": "SphinxText.xls, row 1021"
+    "message": "나를 자유롭게 해주어서 고마워. 하지만 미안하게도 파라오를 만날 수 있게 해줄 수는 없을 것 같군.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp1c": {
-    "message": "엄한 명령을 받았다. <FC 0,128,0>초청장<END FC>이 없는 방문객은 들어갈 수 없다.<E>",
-    "description": "SphinxText.xls, row 1022"
+    "message": "엄한 명령을 받았다. <FC 0,128,0>초청장<END FC>이 없는 방문객은 들어갈 수 없다.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp1a": {
-    "message": "으으으! 아아악! 이 무슨 악마의 소행이야?... 너, 여기서 뭐 하는 거지?! 이 궁전에서 나가는 게 좋을 걸! <E>",
-    "description": "SphinxText.xls, row 1023"
+    "message": "으으으! 아아악! 이 무슨 악마의 소행이야?... 너, 여기서 뭐 하는 거지?! 이 궁전에서 나가는 게 좋을 걸! <E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp1b": {
-    "message": "궁전에 매우 기묘한 일들이 벌어졌다... 하지만 이것에 대해 말할 수 없다. 너에게 위험한 일이 벌어지기 전에 떠나는 게 좋을 거다! <E>",
-    "description": "SphinxText.xls, row 1024"
+    "message": "궁전에 매우 기묘한 일들이 벌어졌다... 하지만 이것에 대해 말할 수 없다. 너에게 위험한 일이 벌어지기 전에 떠나는 게 좋을 거다! <E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp1c": {
-    "message": "여기에 더 이상 머무르는 것은 너에게 위험하다! <E>",
-    "description": "SphinxText.xls, row 1025"
+    "message": "여기에 더 이상 머무르는 것은 너에게 위험하다! <E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_OpenDoor1a": {
-    "message": "좋아, 통과시켜주지... 하지만 X를 가져와야만 한다 <E>",
-    "description": "SphinxText.xls, row 1026"
+    "message": "좋아, 통과시켜주지... 하지만 X를 가져와야만 한다 <E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_OpenDoor1b": {
-    "message": "파라오님께서 지금 너를 자비롭게도 만나주실 준비가 되었다!  <E>",
-    "description": "SphinxText.xls, row 1027"
+    "message": "파라오님께서 지금 너를 자비롭게도 만나주실 준비가 되었다!  <E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_1stcaptured1a": {
-    "message": "하나님 맙소사, 그를 잡았군요! 정말 친절하신 신사분이시군요.<W 50>",
-    "description": "SphinxText.xls, row 1028"
+    "message": "하나님 맙소사, 그를 잡았군요! 정말 친절하신 신사분이시군요.<W 50>"
   },
   "HT_Text_Hel_CursedPalace_Mother_1stcaptured1b": {
-    "message": "안타깝지만 아직 <FC 0,128,0><SO HT_Objective_Hel_CursedPalace_MotherNumChihuahuasLeft> 강아지들<END FC>이 남았어요.<E>",
-    "description": "SphinxText.xls, row 1029"
+    "message": "안타깝지만 아직 <FC 0,128,0><SO HT_Objective_Hel_CursedPalace_MotherNumChihuahuasLeft> 강아지들<END FC>이 남았어요.<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_1stcaptured1c": {
-    "message": "그들이 이 건물 안 어딘가에 있는 게 확실해요.<E> ",
-    "description": "SphinxText.xls, row 1030"
+    "message": "그들이 이 건물 안 어딘가에 있는 게 확실해요.<E> "
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp1a": {
-    "message": "오, 여보세요! 무슨 일이 벌어진 거지? 이 이상한 곳은 어디지?<W 50>",
-    "description": "SphinxText.xls, row 1031"
+    "message": "오, 여보세요! 무슨 일이 벌어진 거지? 이 이상한 곳은 어디지?<W 50>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp1b": {
-    "message": "내 개들! 내 소중한 개들이 어디로 가버렸지?! 오, 하나님! 난 어쩌면 좋지?<E>",
-    "description": "SphinxText.xls, row 1032"
+    "message": "내 개들! 내 소중한 개들이 어디로 가버렸지?! 오, 하나님! 난 어쩌면 좋지?<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp1c": {
-    "message": "제발, 선생님! 절 도와주세요! 저의 소중한 개들이 없이는 <FC 128,64,0>아비도스<END FC>에 있는 제 집의 자매에게 돌아갈 수 없답니다!<E> ",
-    "description": "SphinxText.xls, row 1033"
+    "message": "제발, 선생님! 절 도와주세요! 저의 소중한 개들이 없이는 <FC 128,64,0>아비도스<END FC>에 있는 제 집의 자매에게 돌아갈 수 없답니다!<E> "
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp1d": {
-    "message": "강아지들은 분명히 근처에 있어요. 자기들끼리 그렇게 멀리 떠돌아다니지는 않을 것이 분명해요. 그들에게 무슨 일이라도 벌어진다면 난 어떻게 하죠!<E>",
-    "description": "SphinxText.xls, row 1034"
+    "message": "강아지들은 분명히 근처에 있어요. 자기들끼리 그렇게 멀리 떠돌아다니지는 않을 것이 분명해요. 그들에게 무슨 일이라도 벌어진다면 난 어떻게 하죠!<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp1e": {
-    "message": "보세요! 저기요! 저의 개들 중 한 마리에요, 바둑아!<E>",
-    "description": "SphinxText.xls, row 1035"
+    "message": "보세요! 저기요! 저의 개들 중 한 마리에요, 바둑아!<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp1f": {
-    "message": "제발, 선생님, 잡아서 저에게 가져다 주세요.<E>",
-    "description": "SphinxText.xls, row 1036"
+    "message": "제발, 선생님, 잡아서 저에게 가져다 주세요.<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsAllFound1a": {
-    "message": "오 하나님! 정말 감사합니다. 저의 개들을 모두 찾아주셨군요! 마침내, 이들을 집으로 데려갈 수 있겠군요.<E>",
-    "description": "SphinxText.xls, row 1037"
+    "message": "오 하나님! 정말 감사합니다. 저의 개들을 모두 찾아주셨군요! 마침내, 이들을 집으로 데려갈 수 있겠군요.<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsAllFound1b": {
-    "message": "저의 감사의 표시로 이것을 받아주세요.<E>",
-    "description": "SphinxText.xls, row 1038"
+    "message": "저의 감사의 표시로 이것을 받아주세요.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1a": {
-    "message": "이 비참한 저주의 종말을 위해 너를 아주 오랫동안 기다려 왔다!<E>",
-    "description": "SphinxText.xls, row 1039"
+    "message": "이 비참한 저주의 종말을 위해 너를 아주 오랫동안 기다려 왔다!<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1b": {
-    "message": "아누비스의 부도덕한 마법으로부터 나를 해방시켜준 것에 대해서 너에게 감사해야 할 것 같군...<E>",
-    "description": "SphinxText.xls, row 1040"
+    "message": "아누비스의 부도덕한 마법으로부터 나를 해방시켜준 것에 대해서 너에게 감사해야 할 것 같군...<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1c": {
-    "message": "아누비스는 생각했던 것보다 똑똑했어, 내가 나의 일을 끝내기 전에 나를 멈추다니.  <E>",
-    "description": "SphinxText.xls, row 1041"
+    "message": "아누비스는 생각했던 것보다 똑똑했어, 내가 나의 일을 끝내기 전에 나를 멈추다니.  <E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1d": {
-    "message": "어쩌면, 아누비스가 찾는 것이... 이 왕관?!<E>",
-    "description": "SphinxText.xls, row 1042"
+    "message": "어쩌면, 아누비스가 찾는 것이... 이 왕관?!<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1e": {
-    "message": "네가 원한다면 나를 먼저 잡아야 할 것이다! <W 60>",
-    "description": "SphinxText.xls, row 1043"
+    "message": "네가 원한다면 나를 먼저 잡아야 할 것이다! <W 60>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1f": {
-    "message": "하, 하, 하! 잡을 수 있으면 잡아봐!<W 60>",
-    "description": "SphinxText.xls, row 1044"
+    "message": "하, 하, 하! 잡을 수 있으면 잡아봐!<W 60>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_HusbandDead1a": {
-    "message": "내 남편이 조금 이상하다 했어요, 그런데 남편이 아니었어요! 어떻게 나를 그리 긴 시간 동안 속일 수 있었죠?<E>",
-    "description": "SphinxText.xls, row 1045"
+    "message": "내 남편이 조금 이상하다 했어요, 그런데 남편이 아니었어요! 어떻게 나를 그리 긴 시간 동안 속일 수 있었죠?<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_HusbandDead1b": {
-    "message": "그런데 만약 그가 내 남편이 아니라면, 제 남편은 어디에 있죠? 제발 무사하기만 빌어요.<E>",
-    "description": "SphinxText.xls, row 1046"
+    "message": "그런데 만약 그가 내 남편이 아니라면, 제 남편은 어디에 있죠? 제발 무사하기만 빌어요.<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_HusbandDead1c": {
-    "message": "그 이를 찾게 되면, 제게 다시 보내주세요. 그 이가 없으면 제가 무엇을 할 수 있을 지 모르겠어요.<E>",
-    "description": "SphinxText.xls, row 1047"
+    "message": "그 이를 찾게 되면, 제게 다시 보내주세요. 그 이가 없으면 제가 무엇을 할 수 있을 지 모르겠어요.<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1a": {
-    "message": "오 이런! 혼란스럽군. 여기가 어디지? 오, 안녕하세요, 처음 뵙는 것 같군요.<E>",
-    "description": "SphinxText.xls, row 1048"
+    "message": "오 이런! 혼란스럽군. 여기가 어디지? 오, 안녕하세요, 처음 뵙는 것 같군요.<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1b": {
-    "message": "오~ 라 신이시여! 무슨 일이 벌어진 거죠? 세상에, 이 상들이 여기서 뭘 하고 있는 거죠?<E>",
-    "description": "SphinxText.xls, row 1049"
+    "message": "오~ 라 신이시여! 무슨 일이 벌어진 거죠? 세상에, 이 상들이 여기서 뭘 하고 있는 거죠?<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1c": {
-    "message": "<EFF><EPO>제 남편이 괜찮기를 바래요. 마지막으로 보았을 때 아주 이상하게 행동하고 있었어요.<P>그는 <FC 128,64,0>헬리오폴리스의 잊혀진 사원<END FC>이라는 것에 관해 사로잡혀 있었어요. 전에는 그런 모습을 보지 못했어요.<E>",
-    "description": "SphinxText.xls, row 1050"
+    "message": "<EFF><EPO>제 남편이 괜찮기를 바래요. 마지막으로 보았을 때 아주 이상하게 행동하고 있었어요.<P>그는 <FC 128,64,0>헬리오폴리스의 잊혀진 사원<END FC>이라는 것에 관해 사로잡혀 있었어요. 전에는 그런 모습을 보지 못했어요.<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1d": {
-    "message": "그는 <FC 128,64,0>헬리오폴리스의 남쪽 사막<END FC>에 그 사원이 숨겨져 있고 중요한 고대의 유물이 보관되어있다고 말했어요.<E>",
-    "description": "SphinxText.xls, row 1051"
+    "message": "그는 <FC 128,64,0>헬리오폴리스의 남쪽 사막<END FC>에 그 사원이 숨겨져 있고 중요한 고대의 유물이 보관되어있다고 말했어요.<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1e": {
-    "message": "<EFF><EPO>그는 저에게 이 열쇠를 안전하게 보관하라고 부탁했어요, 이것은 <FC 128,64,0>남쪽 사막<END FC>으로의 관문을 열어요.<P>이것을 받아주세요. 당신은 믿을만한 사람이라는 것을 저에게 증명하였어요. 도움을 주셔서 고맙습니다, 이방인.<E>",
-    "description": "SphinxText.xls, row 1052"
+    "message": "<EFF><EPO>그는 저에게 이 열쇠를 안전하게 보관하라고 부탁했어요, 이것은 <FC 128,64,0>남쪽 사막<END FC>으로의 관문을 열어요.<P>이것을 받아주세요. 당신은 믿을만한 사람이라는 것을 저에게 증명하였어요. 도움을 주셔서 고맙습니다, 이방인.<E>"
   },
   "HT_Text_Hel_CursedPalace_TakeCrown1": {
-    "message": "오... 훌륭해! 이 세 번째 왕관으로 너는 이들의 힘을 곧 이해하게 될 것이다.<E>",
-    "description": "SphinxText.xls, row 1057"
+    "message": "오... 훌륭해! 이 세 번째 왕관으로 너는 이들의 힘을 곧 이해하게 될 것이다.<E>"
   },
   "HT_Text_Hel_CursedPalace_TakeCrown2": {
-    "message": "하지만 아직 닥쳐올 위험이 많이 있다.<E>",
-    "description": "SphinxText.xls, row 1058"
+    "message": "하지만 아직 닥쳐올 위험이 많이 있다.<E>"
   },
   "HT_Text_Hel_CursedPalace_TakeCrown3": {
-    "message": "너의 운명의 실현이 가까워졌다...<E>",
-    "description": "SphinxText.xls, row 1059"
+    "message": "너의 운명의 실현이 가까워졌다...<E>"
   },
   "HT_Text_Hel_CursedPalace_TakeCrown4": {
-    "message": "예언의 결말이 가까이 왔다.<E>",
-    "description": "SphinxText.xls, row 1060"
+    "message": "예언의 결말이 가까이 왔다.<E>"
   },
   "HT_Text_Hel_CursedPalace_TakeCrown5": {
-    "message": "이 <FC 0,128,0>황금 앙크<END FC>를 너의 업적의 보상으로 받아라.<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 유물은 너의 체력 최대값을<N><FC 0,128,0>1 앙크<END FC>만큼 증가시켰고 너의 체력을 완전히 보충했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1061"
+    "message": "이 <FC 0,128,0>황금 앙크<END FC>를 너의 업적의 보상으로 받아라.<P><ES HT_Text_ES_S_HelpText><CNTR>이 마법의 유물은 너의 체력 최대값을<N><FC 0,128,0>1 앙크<END FC>만큼 증가시켰고 너의 체력을 완전히 보충했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_CursedPalace_Help_GotHelianCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>헬리오폴리스의 성스러운 왕관<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>아누비스는 이 고대의 유물을 매우 보고 싶어할 것이다.<ES HT_Text_ES_S_HelpText><E>",
-    "description": "SphinxText.xls, row 1062"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>헬리오폴리스의 성스러운 왕관<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><N><CNTR>아누비스는 이 고대의 유물을 매우 보고 싶어할 것이다.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Hel_CursedPalace_Help_GotRoyalInvite": {
-    "message": "<N><CNTR><FC 0,128,0>왕실의 초대장<END FC>을 구했다!<P><CNTR>이 공식 문서는 <FC 128,64,0>헬리오폴리스<END FC>의 파라오와 만남에 초청하는 것이다.<E>",
-    "description": "SphinxText.xls, row 1063"
+    "message": "<N><CNTR><FC 0,128,0>왕실의 초대장<END FC>을 구했다!<P><CNTR>이 공식 문서는 <FC 128,64,0>헬리오폴리스<END FC>의 파라오와 만남에 초청하는 것이다.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Intro02": {
-    "message": "너는 성공해야만 한다! <FC 0,128,0>로제타석<END FC>의 비밀을 배우는 것은 나의 평생의 꿈이었다.<E>",
-    "description": "SphinxText.xls, row 1065"
+    "message": "너는 성공해야만 한다! <FC 0,128,0>로제타석<END FC>의 비밀을 배우는 것은 나의 평생의 꿈이었다.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePiece01": {
-    "message": "다시 만났군, 소년. 잠깐만... 그것은? 설마? 신이시여, 그렇군! <FC 0,128,0>로제타석 조각들<END FC>중 하나를 찾았군!<P>잘했다, 소년아! 만약 네가 나머지 <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> 조각들<END FC>을 찾을 수 있다면 로제타석을 복원하여 안에 담겨있는 비밀을 풀 수 있을 지도 모른다!<E>",
-    "description": "SphinxText.xls, row 1066"
+    "message": "다시 만났군, 소년. 잠깐만... 그것은? 설마? 신이시여, 그렇군! <FC 0,128,0>로제타석 조각들<END FC>중 하나를 찾았군!<P>잘했다, 소년아! 만약 네가 나머지 <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> 조각들<END FC>을 찾을 수 있다면 로제타석을 복원하여 안에 담겨있는 비밀을 풀 수 있을 지도 모른다!<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePiece02": {
-    "message": "너는 <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> 조각들<END FC>만 더 찾으면 된다. 그러면 우리는 로제타석의 비밀에 도전하여 배울 수 있다!<E>",
-    "description": "SphinxText.xls, row 1067"
+    "message": "너는 <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> 조각들<END FC>만 더 찾으면 된다. 그러면 우리는 로제타석의 비밀에 도전하여 배울 수 있다!<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePiece03": {
-    "message": "너는 <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> 조각<END FC>만 필요하다 그러면 우리는 로제타석의 비밀에 도전하여 배울 수 있다!<E>",
-    "description": "SphinxText.xls, row 1068"
+    "message": "너는 <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> 조각<END FC>만 필요하다 그러면 우리는 로제타석의 비밀에 도전하여 배울 수 있다!<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePiece04": {
-    "message": "그거야! 해냈군! 네가 <FC 0,128,0>로제타석 조각들<END FC>을 모두 찾았다!<P>이제 이 전설의 <FC 0,128,0>로제타석<END FC>의 조각들을 재조합 하여 이것의 비밀을 이해하려고 해봐야만 한다.<E>",
-    "description": "SphinxText.xls, row 1069"
+    "message": "그거야! 해냈군! 네가 <FC 0,128,0>로제타석 조각들<END FC>을 모두 찾았다!<P>이제 이 전설의 <FC 0,128,0>로제타석<END FC>의 조각들을 재조합 하여 이것의 비밀을 이해하려고 해봐야만 한다.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePiecePrompt01": {
-    "message": "내가 이 <FC 0,128,0>로제타석 조각들<END FC>을 가져가도 되겠는가?<N>  <B 1> 예<N>  <B 2> 아니오<E>",
-    "description": "SphinxText.xls, row 1070"
+    "message": "내가 이 <FC 0,128,0>로제타석 조각들<END FC>을 가져가도 되겠는가?<N>  <B 1> 예<N>  <B 2> 아니오<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePieceDecline": {
-    "message": "아아, 너의 것이지만 그 돌의 비밀을 배우는 것에 관하여 나보다 더 능력 있는 사람을 찾지는 못할 것이다. 너에게는 쓸모 없는 것들일 뿐이다.<E>",
-    "description": "SphinxText.xls, row 1071"
+    "message": "아아, 너의 것이지만 그 돌의 비밀을 배우는 것에 관하여 나보다 더 능력 있는 사람을 찾지는 못할 것이다. 너에게는 쓸모 없는 것들일 뿐이다.<E>"
   },
   "HT_Text_Hel_Dungeon_Help_DoorChains": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>무거운 사슬들이 네가 이 문을<N>여는 것을 막고 있다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1072"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>무거운 사슬들이 네가 이 문을<N>여는 것을 막고 있다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Help_SkeletonClue": {
-    "message": "<CNTR>---[ <FC 0,128,0>언데드의 뼈들<END FC>은 머리부터 발끝까지 좌측에서 우측의 순서로 제공되어야만 한다 ]---<E>",
-    "description": "SphinxText.xls, row 1073"
+    "message": "<CNTR>---[ <FC 0,128,0>언데드의 뼈들<END FC>은 머리부터 발끝까지 좌측에서 우측의 순서로 제공되어야만 한다 ]---<E>"
   },
   "HT_Text_Hel_Dungeon_Help_GotBone01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>해골의 두개골<END FC> 하나를 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1074"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>해골의 두개골<END FC> 하나를 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Help_GotBone02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>해골의 골반<END FC> 하나를 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1075"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>해골의 골반<END FC> 하나를 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Help_GotBone03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>해골의 팔<END FC> 하나를 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1076"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>해골의 팔<END FC> 하나를 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Help_GotBone04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>해골의 다리<END FC>를 하나 구했다!<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1077"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>해골의 다리<END FC>를 하나 구했다!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Help_ShrinePromptTakeItem": {
-    "message": "<ES HT_Text_ES_S_HelpText>사당에서 이 아이템을 가져갈까?<N>  <B 1> 예<N>  <B 2> 아니오<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1078"
+    "message": "<ES HT_Text_ES_S_HelpText>사당에서 이 아이템을 가져갈까?<N>  <B 1> 예<N>  <B 2> 아니오<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Help_ShrineNoItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이것은 어떤 아이템을 위한 사당이다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1079"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이것은 어떤 아이템을 위한 사당이다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_a": {
-    "message": "안녕, 젊은이. 나는 고고학자 우르베인이다. <E>",
-    "description": "SphinxText.xls, row 1089"
+    "message": "안녕, 젊은이. 나는 고고학자 우르베인이다. <E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_b": {
-    "message": "나는 내 삶의 대부분을 <FC 0,128,0>로제타석<END FC>을 찾으며 보냈다. 물론 나의 어린 시절은 제외하고.<E>",
-    "description": "SphinxText.xls, row 1090"
+    "message": "나는 내 삶의 대부분을 <FC 0,128,0>로제타석<END FC>을 찾으며 보냈다. 물론 나의 어린 시절은 제외하고.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_c": {
-    "message": "여기까지 왔지만 이 일은 불가능하다. 나는 이제 <FC 0,128,0>로제타석<END FC>의 비밀을 절대 발견하지 못할 것이다. <E>",
-    "description": "SphinxText.xls, row 1091"
+    "message": "여기까지 왔지만 이 일은 불가능하다. 나는 이제 <FC 0,128,0>로제타석<END FC>의 비밀을 절대 발견하지 못할 것이다. <E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_c1": {
-    "message": "나를 따라와라. 매우 흥미 있는 것을 보여주지. <E>",
-    "description": "SphinxText.xls, row 1092"
+    "message": "나를 따라와라. 매우 흥미 있는 것을 보여주지. <E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_d": {
-    "message": "<EFF><EPO>그 벽에 있는 고대의 문구에 의하면 돌이 여섯 조각들로 부셔졌다고 한다, 그리고 그 조각들은 이 사원에 숨겨졌다고 한다.<P>그러나, 그 조각들은 난폭한 맹수들에 의해 보호된다고 적혀있다. <E>",
-    "description": "SphinxText.xls, row 1093"
+    "message": "<EFF><EPO>그 벽에 있는 고대의 문구에 의하면 돌이 여섯 조각들로 부셔졌다고 한다, 그리고 그 조각들은 이 사원에 숨겨졌다고 한다.<P>그러나, 그 조각들은 난폭한 맹수들에 의해 보호된다고 적혀있다. <E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_e": {
-    "message": "나는 위험을 무릅쓰고 사원 안으로 들어가기엔 너무 늙었고 허약해. 아아, 나는 나의 꿈을 실현하지 못하고 죽을 것이다.<E>",
-    "description": "SphinxText.xls, row 1094"
+    "message": "나는 위험을 무릅쓰고 사원 안으로 들어가기엔 너무 늙었고 허약해. 아아, 나는 나의 꿈을 실현하지 못하고 죽을 것이다.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_f": {
-    "message": "하지만, 잠깐! 너는 젊고 강하다, 내가 한 때 그랬던 것처럼! 사원으로 향해라, 만약 네가 모험을 할 용기가 있다면.<E>",
-    "description": "SphinxText.xls, row 1095"
+    "message": "하지만, 잠깐! 너는 젊고 강하다, 내가 한 때 그랬던 것처럼! 사원으로 향해라, 만약 네가 모험을 할 용기가 있다면.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_g": {
-    "message": "<FC 0,128,0>로제타석 조각들<END FC>을 찾게 되면, 그것들을 나에게 가져다 주어서 이 늙은이를 기쁘게 해주어라.<E>",
-    "description": "SphinxText.xls, row 1096"
+    "message": "<FC 0,128,0>로제타석 조각들<END FC>을 찾게 되면, 그것들을 나에게 가져다 주어서 이 늙은이를 기쁘게 해주어라.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_a": {
-    "message": "<EFF><EPO>훌륭하다, 소년! 훌륭해! 이제 <FC 128,64,0>베두인 변방<END FC>에 있는 나의 천막으로 돌아가서 일을 해야만 한다.<P>꼭 나를 방문하여서 내가 발견한 것을 확인하여라. <FC 128,64,0>베두인 변방<END FC>은 <FC 128,64,0>저주 받은 성<END FC>의 수중 통로를 통해 접근하면 찾기 쉽다.<E>",
-    "description": "SphinxText.xls, row 1100"
+    "message": "<EFF><EPO>훌륭하다, 소년! 훌륭해! 이제 <FC 128,64,0>베두인 변방<END FC>에 있는 나의 천막으로 돌아가서 일을 해야만 한다.<P>꼭 나를 방문하여서 내가 발견한 것을 확인하여라. <FC 128,64,0>베두인 변방<END FC>은 <FC 128,64,0>저주 받은 성<END FC>의 수중 통로를 통해 접근하면 찾기 쉽다.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_b": {
-    "message": "가기 전에, 네가 이 <FC 0,128,0>수중 발사체<END FC>를 가졌으면 한다. 이것은 <FC 128,64,0>베두인 변방<END FC>으로 돌아오는 너의 여행에 유용한 도구가 될 것이다.<E>",
-    "description": "SphinxText.xls, row 1101"
+    "message": "가기 전에, 네가 이 <FC 0,128,0>수중 발사체<END FC>를 가졌으면 한다. 이것은 <FC 128,64,0>베두인 변방<END FC>으로 돌아오는 너의 여행에 유용한 도구가 될 것이다.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_c": {
-    "message": "내가 발견한 것을 확인하기 위해 날 방문하는 것을 잊어서는 안돼! 빨리 다시 만났으면 좋겠다, 젊은 친구!<E>",
-    "description": "SphinxText.xls, row 1102"
+    "message": "내가 발견한 것을 확인하기 위해 날 방문하는 것을 잊어서는 안돼! 빨리 다시 만났으면 좋겠다, 젊은 친구!<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Complete_no": {
-    "message": "아아, 네가 원한다면 네가 가져도 될 너의 것이지만 그 돌의 비밀을 밝히는 것에 관하여 나보다 더 능력 있는 사람을 찾지는 못할 것이다. 너에게는 쓸모 없는 것들일 뿐이다.<E>",
-    "description": "SphinxText.xls, row 1103"
+    "message": "아아, 네가 원한다면 네가 가져도 될 너의 것이지만 그 돌의 비밀을 밝히는 것에 관하여 나보다 더 능력 있는 사람을 찾지는 못할 것이다. 너에게는 쓸모 없는 것들일 뿐이다.<E>"
   },
   "HT_Text_Hel_WallSection1_Help_BlowpipeTargets": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이런 과녁들은 <FC 0,128,0>취관<END FC>으로 맞출 수 있다.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1105"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이런 과녁들은 <FC 0,128,0>취관<END FC>으로 맞출 수 있다.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_WallSection2_Help_KaAnkh01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이것은 <FC 0,128,0>카 앙크 발사 지점<END FC>이다.<P><ES HT_Text_ES_S_HelpText><CNTR>이들은 너를 근처의 <FC 0,128,0>카 앙크<END FC>로<N>마법적으로 전송하기 위하여 사용될 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>일인칭 시점으로 바꾸려면 발사지점에 서서<N><SB HT_Action_KaTile>를 눌러라...<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1107"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이것은 <FC 0,128,0>카 앙크 발사 지점<END FC>이다.<P><ES HT_Text_ES_S_HelpText><CNTR>이들은 너를 근처의 <FC 0,128,0>카 앙크<END FC>로<N>마법적으로 전송하기 위하여 사용될 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>일인칭 시점으로 바꾸려면 발사지점에 서서<N><SB HT_Action_KaTile>를 눌러라...<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_WallSection2_Help_KaAnkh02": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>근방의 <FC 0,128,0>카 앙크<END FC>의 빛나는 상단부분을 조준해서 쏘면<N>마법으로 그 지점으로 이동될 것이다.<E><ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1108"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>근방의 <FC 0,128,0>카 앙크<END FC>의 빛나는 상단부분을 조준해서 쏘면<N>마법으로 그 지점으로 이동될 것이다.<E><ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1a": {
-    "message": "그래, 네가 스핑크스군. 실망인걸. 훨씬 대단한 놈을 기대하구 있었는데.<E>",
-    "description": "SphinxText.xls, row 1111"
+    "message": "그래, 네가 스핑크스군. 실망인걸. 훨씬 대단한 놈을 기대하구 있었는데.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1a1": {
-    "message": "<EFF><EPO>네가 여기 왜 왔는지 알고 있다. 너는 이전의 많은 이들이 실패한 것을 시도하고 싶은 게지.<P>네가 <FC 128,64,0>저주 받은 성<END FC>의 사람들을 자유롭게 하고 싶다면 네 자신의 가치를 나에게 입증하여야만 한다. 너의 첫 번째 시험은 용기와 신념에 관한 것이다...<E>",
-    "description": "SphinxText.xls, row 1112"
+    "message": "<EFF><EPO>네가 여기 왜 왔는지 알고 있다. 너는 이전의 많은 이들이 실패한 것을 시도하고 싶은 게지.<P>네가 <FC 128,64,0>저주 받은 성<END FC>의 사람들을 자유롭게 하고 싶다면 네 자신의 가치를 나에게 입증하여야만 한다. 너의 첫 번째 시험은 용기와 신념에 관한 것이다...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1b": {
-    "message": "와라, 스핑크스. 나에게 가까이 다가와라. 땅이 갈라진 곳에서 나오는 용암에 너무 겁먹지 말고.<E>",
-    "description": "SphinxText.xls, row 1113"
+    "message": "와라, 스핑크스. 나에게 가까이 다가와라. 땅이 갈라진 곳에서 나오는 용암에 너무 겁먹지 말고.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1c": {
-    "message": "하하! 그것은 내가 가진 힘에 비교하면 단순한 장난에 불과하다. 너의 두 번째 시험은 능력과 기술에 관한 것이다...<E>",
-    "description": "SphinxText.xls, row 1114"
+    "message": "하하! 그것은 내가 가진 힘에 비교하면 단순한 장난에 불과하다. 너의 두 번째 시험은 능력과 기술에 관한 것이다...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1d": {
-    "message": "너는 네가 방금 통과한 곳으로 가서 <FC 0,128,0>3마리의 화염 아르마딜로들<END FC>을 포획하여야만 한다. 이 <FC 0,128,0>포획 딱정벌레들<END FC>을 가져가라. 네가 필요한 도구들이다. 현명하게 사용하도록.<E>",
-    "description": "SphinxText.xls, row 1115"
+    "message": "너는 네가 방금 통과한 곳으로 가서 <FC 0,128,0>3마리의 화염 아르마딜로들<END FC>을 포획하여야만 한다. 이 <FC 0,128,0>포획 딱정벌레들<END FC>을 가져가라. 네가 필요한 도구들이다. 현명하게 사용하도록.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1e": {
-    "message": "너의 능력을 내게 증명하면 내가 <FC 128,64,0>저주 받은 성<END FC>의 원주민들의 일부에게 자유를 허락하겠다.<E>",
-    "description": "SphinxText.xls, row 1116"
+    "message": "너의 능력을 내게 증명하면 내가 <FC 128,64,0>저주 받은 성<END FC>의 원주민들의 일부에게 자유를 허락하겠다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1a": {
-    "message": "오, 성공했군! 네 친구 호루스같이 실패할 것이라 예상했는데. 더 강인한 놈 같군.<E>",
-    "description": "SphinxText.xls, row 1117"
+    "message": "오, 성공했군! 네 친구 호루스같이 실패할 것이라 예상했는데. 더 강인한 놈 같군.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1b": {
-    "message": "좋아! 이 <FC 0,128,0>저주의 돌들<END FC>은 <FC 128,64,0>저주 받은 성<END FC>의 주민 중 두 명을 풀어줄 것이다.<E>",
-    "description": "SphinxText.xls, row 1118"
+    "message": "좋아! 이 <FC 0,128,0>저주의 돌들<END FC>은 <FC 128,64,0>저주 받은 성<END FC>의 주민 중 두 명을 풀어줄 것이다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1c": {
-    "message": "<EFF><EPO>이제 너는 어떤 적이라도 포획할 수 있을 뿐만 아니라 <FC 0,128,0>화염 아르마딜로들<END FC>과 <FC 0,128,0>슬림 버블들<END FC>을 풀어놓을 수 있다.<P>이 괴물들은 너의 탐험을 도와줄 강력한 도구다. 현명하게 사용해라.<P>미래에 다시 너를 부를 것이다, 스핑크스...<E>",
-    "description": "SphinxText.xls, row 1119"
+    "message": "<EFF><EPO>이제 너는 어떤 적이라도 포획할 수 있을 뿐만 아니라 <FC 0,128,0>화염 아르마딜로들<END FC>과 <FC 0,128,0>슬림 버블들<END FC>을 풀어놓을 수 있다.<P>이 괴물들은 너의 탐험을 도와줄 강력한 도구다. 현명하게 사용해라.<P>미래에 다시 너를 부를 것이다, 스핑크스...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1c1": {
-    "message": "마침내 돌아왔군! 네게 맡겨질 훨씬 더 위험한 모험이 있다. 네가 만약 <FC 128,64,0>저주 받은 성<END FC>의 주민들을 더 자유롭게 해주고 싶다면 말이지.<E>",
-    "description": "SphinxText.xls, row 1120"
+    "message": "마침내 돌아왔군! 네게 맡겨질 훨씬 더 위험한 모험이 있다. 네가 만약 <FC 128,64,0>저주 받은 성<END FC>의 주민들을 더 자유롭게 해주고 싶다면 말이지.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1d": {
-    "message": "<FC 128,64,0>아비도스<END FC>의 섬 도시에는 신성한 유물이 있는데 내가 오래 전 그 도시의 시장에게 맡겨두었다. 그것은 <FC 0,128,0>아비도스의 성스러운 관<END FC>이다.<E>",
-    "description": "SphinxText.xls, row 1121"
+    "message": "<FC 128,64,0>아비도스<END FC>의 섬 도시에는 신성한 유물이 있는데 내가 오래 전 그 도시의 시장에게 맡겨두었다. 그것은 <FC 0,128,0>아비도스의 성스러운 관<END FC>이다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1e": {
-    "message": "<EFF><EPO> 시장은 도시의 <FC 128,64,0>의회실<END FC>에 있다. 그 왕관을 나에게 돌려달라고 그를 설득하면 내가 네가 원하는 <FC 0,128,0>저주의 돌<END FC>을 주겠다.<P>네가 만약 <FC 128,64,0>아비도스 포털 부적<END FC>을 가지고 있다면 네 뒤에 있는 관문이 너를 <FC 128,64,0>아비도스<END FC>로 데려다 줄 것이다. 잘 가게나, 스핑크스.<E>",
-    "description": "SphinxText.xls, row 1122"
+    "message": "<EFF><EPO> 시장은 도시의 <FC 128,64,0>의회실<END FC>에 있다. 그 왕관을 나에게 돌려달라고 그를 설득하면 내가 네가 원하는 <FC 0,128,0>저주의 돌<END FC>을 주겠다.<P>네가 만약 <FC 128,64,0>아비도스 포털 부적<END FC>을 가지고 있다면 네 뒤에 있는 관문이 너를 <FC 128,64,0>아비도스<END FC>로 데려다 줄 것이다. 잘 가게나, 스핑크스.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1a": {
-    "message": "오... 돌아왔군! 도전이 너의 능력범위를 넘는 것이라 생각하고 있었는데, 나의 물건을 가져왔나?<E>",
-    "description": "SphinxText.xls, row 1124"
+    "message": "오... 돌아왔군! 도전이 너의 능력범위를 넘는 것이라 생각하고 있었는데, 나의 물건을 가져왔나?<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1b": {
-    "message": "왕관이 악마의 손에 있었다고? 흠... 정말 불길한 징조군.<E>",
-    "description": "SphinxText.xls, row 1125"
+    "message": "왕관이 악마의 손에 있었다고? 흠... 정말 불길한 징조군.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1c": {
-    "message": "만약 세트가 <FC 0,128,0>아비도스의 성스러운 관<END FC>을 훔치려고 했다면, 그는 <FC 0,128,0>우루크의 성스러운 왕관<END FC>도 찾고 있는 것이 분명하다.<E>",
-    "description": "SphinxText.xls, row 1126"
+    "message": "만약 세트가 <FC 0,128,0>아비도스의 성스러운 관<END FC>을 훔치려고 했다면, 그는 <FC 0,128,0>우루크의 성스러운 왕관<END FC>도 찾고 있는 것이 분명하다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1d": {
-    "message": "내가 한 말은 지킨다. 이 <FC 0,128,0>저주의 돌<END FC>은 <FC 128,64,0>저주 받은 성<END FC>의 더 많은 주민들을 자유롭게 할 것이다.<E>",
-    "description": "SphinxText.xls, row 1127"
+    "message": "내가 한 말은 지킨다. 이 <FC 0,128,0>저주의 돌<END FC>은 <FC 128,64,0>저주 받은 성<END FC>의 더 많은 주민들을 자유롭게 할 것이다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1e": {
-    "message": "그런데, 너는 <FC 0,128,0>우루크의 성스러운 왕관<END FC>을 세트가 손대기 전에 먼저 찾아서 나에게 가져와야만 한다.<E>",
-    "description": "SphinxText.xls, row 1128"
+    "message": "그런데, 너는 <FC 0,128,0>우루크의 성스러운 왕관<END FC>을 세트가 손대기 전에 먼저 찾아서 나에게 가져와야만 한다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1f": {
-    "message": "이 <FC 0,128,0>염산 다트<END FC>는 왕관을 찾기 위한 모험에 도움이 될 것이다.<E>",
-    "description": "SphinxText.xls, row 1129"
+    "message": "이 <FC 0,128,0>염산 다트<END FC>는 왕관을 찾기 위한 모험에 도움이 될 것이다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1g": {
-    "message": "너의 새 모험에 행운을 빈다! 너는 운이 필요할 것이다!<W 90>",
-    "description": "SphinxText.xls, row 1130"
+    "message": "너의 새 모험에 행운을 빈다! 너는 운이 필요할 것이다!<W 90>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1a": {
-    "message": "훌륭하군! <FC 0,128,0>우루크의 성스러운 왕관<END FC>을 가져왔군! 너는 진정한 영웅이라는 것을 증명하고 있다!<E>",
-    "description": "SphinxText.xls, row 1131"
+    "message": "훌륭하군! <FC 0,128,0>우루크의 성스러운 왕관<END FC>을 가져왔군! 너는 진정한 영웅이라는 것을 증명하고 있다!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1b": {
-    "message": "하지만 너는 아직 세트를 무찌를 만큼은 강하지 못하다! 네가 <FC 128,64,0>우루크<END FC>에서 그와 대결하지 않았다니 다행이군. 그는 손쉽게 너를 해치웠을 것이다.<E>",
-    "description": "SphinxText.xls, row 1132"
+    "message": "하지만 너는 아직 세트를 무찌를 만큼은 강하지 못하다! 네가 <FC 128,64,0>우루크<END FC>에서 그와 대결하지 않았다니 다행이군. 그는 손쉽게 너를 해치웠을 것이다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1c": {
-    "message": "아아, 시간이 없다! 세트는 그의 형제 오시리스를 파괴한다는 그의 궁극의 목표에 근접해있다!<E>",
-    "description": "SphinxText.xls, row 1133"
+    "message": "아아, 시간이 없다! 세트는 그의 형제 오시리스를 파괴한다는 그의 궁극의 목표에 근접해있다!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1d": {
-    "message": "유일신만이 우리를 통치하시던 시절이 있었다. 그 신의 이름은... 라.<E>",
-    "description": "SphinxText.xls, row 1134"
+    "message": "유일신만이 우리를 통치하시던 시절이 있었다. 그 신의 이름은... 라.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1d1": {
-    "message": "그는 선과 악을 둘 다 상징한다 - 어둠과 밝음이 함께한다!<E>",
-    "description": "SphinxText.xls, row 1135"
+    "message": "그는 선과 악을 둘 다 상징한다 - 어둠과 밝음이 함께한다!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1e": {
-    "message": "오시리스는 빛이었고 세트는 어둠이었다. 그들은 조화롭게 통치를 했다. 평화의 시절이었지.<E>",
-    "description": "SphinxText.xls, row 1136"
+    "message": "오시리스는 빛이었고 세트는 어둠이었다. 그들은 조화롭게 통치를 했다. 평화의 시절이었지.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1f": {
-    "message": "하지만 세트는 욕심이 났다 - 악의 본성이 그러한 것처럼 - 그리고 오시리스에 등을 돌렸다.<E> ",
-    "description": "SphinxText.xls, row 1137"
+    "message": "하지만 세트는 욕심이 났다 - 악의 본성이 그러한 것처럼 - 그리고 오시리스에 등을 돌렸다.<E> "
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1f1": {
-    "message": "그는 자신의 형제를 공격했다, 우주의 유일한 힘이 되고자... 악의 힘!<E>",
-    "description": "SphinxText.xls, row 1138"
+    "message": "그는 자신의 형제를 공격했다, 우주의 유일한 힘이 되고자... 악의 힘!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1f2": {
-    "message": "만약 세트가 그 눈을 제어하는 모든 왕관을 모으고 오시리스를 파괴한다면, 악의 그림자가 우리 위에 영원토록 깔리게 될 것이다!<E>",
-    "description": "SphinxText.xls, row 1139"
+    "message": "만약 세트가 그 눈을 제어하는 모든 왕관을 모으고 오시리스를 파괴한다면, 악의 그림자가 우리 위에 영원토록 깔리게 될 것이다!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1g": {
-    "message": "세트는 오시리스가 죽음의 문턱에 서서 약해진 동안 힘을 모으고 있다.<P>세트가 악의 그림자를 퍼지게 하기 위해 사용했던 의식을 네가 멈출 수 있었다는 것이 아마 우리가 아직 살아있는 이유일 게다.<E>",
-    "description": "SphinxText.xls, row 1140"
+    "message": "세트는 오시리스가 죽음의 문턱에 서서 약해진 동안 힘을 모으고 있다.<P>세트가 악의 그림자를 퍼지게 하기 위해 사용했던 의식을 네가 멈출 수 있었다는 것이 아마 우리가 아직 살아있는 이유일 게다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1h": {
-    "message": "이제 너는 <FC 128,64,0>저주 받은 성<END FC>으로 가서 <FC 0,128,0>헬리오폴리스의 성스러운 왕관<END FC>을 회수해야만 한다.<E>",
-    "description": "SphinxText.xls, row 1141"
+    "message": "이제 너는 <FC 128,64,0>저주 받은 성<END FC>으로 가서 <FC 0,128,0>헬리오폴리스의 성스러운 왕관<END FC>을 회수해야만 한다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1i": {
-    "message": "이 <FC 0,128,0>저주의 돌<END FC>은 네가 파라오를 자유롭게 하는 것을 도울 것이다. 그는 너를 보면 매우 기뻐할 것이라고 확신한다! 음화하!<E>",
-    "description": "SphinxText.xls, row 1142"
+    "message": "이 <FC 0,128,0>저주의 돌<END FC>은 네가 파라오를 자유롭게 하는 것을 도울 것이다. 그는 너를 보면 매우 기뻐할 것이라고 확신한다! 음화하!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1a": {
-    "message": "<FC 0,128,0>헬리오폴리스의 성스러운 왕관<END FC>을 가져왔구나! 네가 성공할 줄 알고 있었다!<E>",
-    "description": "SphinxText.xls, row 1143"
+    "message": "<FC 0,128,0>헬리오폴리스의 성스러운 왕관<END FC>을 가져왔구나! 네가 성공할 줄 알고 있었다!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1c": {
-    "message": "흠, 그리고 바로 그 세트의 왕관도 가져왔군. <E>",
-    "description": "SphinxText.xls, row 1144"
+    "message": "흠, 그리고 바로 그 세트의 왕관도 가져왔군. <E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1b": {
-    "message": "축하한다, 스핑크스. 이는 빛나는 업적으로 오시리스가 마침내 다시 한 번 나타날 수 있는 충분한 힘을 주게 될 것이다! <E>",
-    "description": "SphinxText.xls, row 1145"
+    "message": "축하한다, 스핑크스. 이는 빛나는 업적으로 오시리스가 마침내 다시 한 번 나타날 수 있는 충분한 힘을 주게 될 것이다! <E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1b1": {
-    "message": "그의 위대한 힘과 영광을 보라! <E>",
-    "description": "SphinxText.xls, row 1146"
+    "message": "그의 위대한 힘과 영광을 보라! <E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2a": {
-    "message": "나는 선과 결백함의 보호자이시며 그림자의 적이시며 <FC 0,128,0>라의 고대 예언<END FC>의 창시자인 라의 빛이다. 그 예언이 종말을 향해 치닫고 있다.<E>",
-    "description": "SphinxText.xls, row 1147"
+    "message": "나는 선과 결백함의 보호자이시며 그림자의 적이시며 <FC 0,128,0>라의 고대 예언<END FC>의 창시자인 라의 빛이다. 그 예언이 종말을 향해 치닫고 있다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2b": {
-    "message": "나는 이 벽을 영겁의 세월 전에 나의 형제 세트의 손으로부터 내 자신의 파괴를 막기 위하여 이 벽을 세웠다. 이 모든 시간 동안 나의 수호자 아누비스가 벽을 세트의 맹공격으로부터 보호해왔다.<E>",
-    "description": "SphinxText.xls, row 1148"
+    "message": "나는 이 벽을 영겁의 세월 전에 나의 형제 세트의 손으로부터 내 자신의 파괴를 막기 위하여 이 벽을 세웠다. 이 모든 시간 동안 나의 수호자 아누비스가 벽을 세트의 맹공격으로부터 보호해왔다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2c": {
-    "message": "궁전을 저주하는 것은 <FC 128,64,0>헬리오폴리스<END FC>를 보호하기 위해 어쩔 수 없는 것이었지만 이제 주민들은 자유롭고 악마들은 파괴되었다.<E>",
-    "description": "SphinxText.xls, row 1149"
+    "message": "궁전을 저주하는 것은 <FC 128,64,0>헬리오폴리스<END FC>를 보호하기 위해 어쩔 수 없는 것이었지만 이제 주민들은 자유롭고 악마들은 파괴되었다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2d": {
-    "message": "너는 고대의 예언을 충족시킬 선택 받은 자이다, 그러나 너의 영웅적 행동의 궁극의 결과는 불확실하다...<E>",
-    "description": "SphinxText.xls, row 1150"
+    "message": "너는 고대의 예언을 충족시킬 선택 받은 자이다, 그러나 너의 영웅적 행동의 궁극의 결과는 불확실하다...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4a": {
-    "message": "스핑크스, 네가 <FC 0,128,0>라의 고대의 예언<END FC>을 진정으로 성취하기 전에 맡아야만 하는 마지막 모험이 있다...<E>",
-    "description": "SphinxText.xls, row 1152"
+    "message": "스핑크스, 네가 <FC 0,128,0>라의 고대의 예언<END FC>을 진정으로 성취하기 전에 맡아야만 하는 마지막 모험이 있다...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4b": {
-    "message": "너는 반드시 <FC 128,64,0>우루크의 성<END FC>으로 여행을 가서 세트를 왕관을 위한 마지막 전투에서 싸워야만 한다! 아누비스는 남아서 벽을 수호해야만 한다! 너만이 우리의 유일한 희망이다!<E>",
-    "description": "SphinxText.xls, row 1153"
+    "message": "너는 반드시 <FC 128,64,0>우루크의 성<END FC>으로 여행을 가서 세트를 왕관을 위한 마지막 전투에서 싸워야만 한다! 아누비스는 남아서 벽을 수호해야만 한다! 너만이 우리의 유일한 희망이다!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4c": {
-    "message": "너를 <FC 128,64,0>우루크<END FC>로 보내주마... 하지만 용암으로 뛰어들어야만 한다!<E>",
-    "description": "SphinxText.xls, row 1154"
+    "message": "너를 <FC 128,64,0>우루크<END FC>로 보내주마... 하지만 용암으로 뛰어들어야만 한다!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free5a": {
-    "message": "선생님! 세트의 영묘한 운하를 이용해서 그를 그 성으로 보낸다고요?! 말도 안 되요! 너무 위험합니다!<E>",
-    "description": "SphinxText.xls, row 1155"
+    "message": "선생님! 세트의 영묘한 운하를 이용해서 그를 그 성으로 보낸다고요?! 말도 안 되요! 너무 위험합니다!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free6a": {
-    "message": "선택의 여지가 없다! 세트는 매 순간 강해지고 있다! 지금, 스핑크스... 지금!!!<E>",
-    "description": "SphinxText.xls, row 1156"
+    "message": "선택의 여지가 없다! 세트는 매 순간 강해지고 있다! 지금, 스핑크스... 지금!!!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Incomplete": {
-    "message": "그리 연약하여 <FC 0,128,0>3마리의 화염 아르마딜로들<END FC>조차 포획할 수 없다는 건가?<E>",
-    "description": "SphinxText.xls, row 1161"
+    "message": "그리 연약하여 <FC 0,128,0>3마리의 화염 아르마딜로들<END FC>조차 포획할 수 없다는 건가?<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_NoBeetles": {
-    "message": "<FC 0,128,0>포획 딱정벌레<END FC>를 현명하게 사용하라고 경고했건만 다 낭비해버렸군.<P>20개를 더 주겠지만 <FC 0,128,0>3마리의 화염 아르마딜로들<END FC>을 포획하는데 사용하지 않는다면 나는 정말 실망할 것이다.<E>",
-    "description": "SphinxText.xls, row 1162"
+    "message": "<FC 0,128,0>포획 딱정벌레<END FC>를 현명하게 사용하라고 경고했건만 다 낭비해버렸군.<P>20개를 더 주겠지만 <FC 0,128,0>3마리의 화염 아르마딜로들<END FC>을 포획하는데 사용하지 않는다면 나는 정말 실망할 것이다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GenericMeetAgain": {
-    "message": "운명이 미래에 너를 나에게 다시 데려올 것이라 확신하지만 지금은 너에게 줄 것이 없다.<E>",
-    "description": "SphinxText.xls, row 1165"
+    "message": "운명이 미래에 너를 나에게 다시 데려올 것이라 확신하지만 지금은 너에게 줄 것이 없다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_AbydosCrown_NotFound": {
-    "message": "지체하지 말아야 한다. 다른 음흉한 세력들 또한 <FC 0,128,0>아비도스의 성스러운 관<END FC>을 찾고 있다.<E>",
-    "description": "SphinxText.xls, row 1166"
+    "message": "지체하지 말아야 한다. 다른 음흉한 세력들 또한 <FC 0,128,0>아비도스의 성스러운 관<END FC>을 찾고 있다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_AbydosCrown_Found": {
-    "message": "마침내, 왕관을 가지고 돌아왔군! 축하한다 젊은 영웅, 너는 나의 예측을 훨씬 뛰어넘었다.<P>내가 한 말을 지켜 <FC 128,64,0>저주 받은 성<END FC>의 주민들을 더 풀어주겠다.<P>그리고, 왕관을 찾기 위해 내가 너를 보낸 내막의 진실을 밝힐 때가 된 것 같다.<P>다른 세상에는 다른 왕관들이 있고 악의 신 세트는 그 자신이 그것들을 회수하려고 한다.<P>그렇게 내버려둬서는 안돼! 그가 찾기 전에 왕관들을 회수하지 않으면 그 결과는 치명적일 것이다.<P><FC 128,64,0>사카라<END FC>의 밀림세상에서 너는  고대의 <FC 0,128,0>사카리안 왕관<END FC>을 찾을 수 있을 것이다.<P>지금 떠나야만 한다. 행운을 빈다.<E>",
-    "description": "SphinxText.xls, row 1167"
+    "message": "마침내, 왕관을 가지고 돌아왔군! 축하한다 젊은 영웅, 너는 나의 예측을 훨씬 뛰어넘었다.<P>내가 한 말을 지켜 <FC 128,64,0>저주 받은 성<END FC>의 주민들을 더 풀어주겠다.<P>그리고, 왕관을 찾기 위해 내가 너를 보낸 내막의 진실을 밝힐 때가 된 것 같다.<P>다른 세상에는 다른 왕관들이 있고 악의 신 세트는 그 자신이 그것들을 회수하려고 한다.<P>그렇게 내버려둬서는 안돼! 그가 찾기 전에 왕관들을 회수하지 않으면 그 결과는 치명적일 것이다.<P><FC 128,64,0>사카라<END FC>의 밀림세상에서 너는  고대의 <FC 0,128,0>사카리안 왕관<END FC>을 찾을 수 있을 것이다.<P>지금 떠나야만 한다. 행운을 빈다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_SakkaraCrown_NotFound": {
-    "message": "지체하지 마라! 만약 세트가 <FC 0,128,0>우루크의 왕관<END FC>을 먼저 찾는다면 무슨 일이 생길지 아무도 모른다!<E>",
-    "description": "SphinxText.xls, row 1168"
+    "message": "지체하지 마라! 만약 세트가 <FC 0,128,0>우루크의 왕관<END FC>을 먼저 찾는다면 무슨 일이 생길지 아무도 모른다!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_SakkaraCrown_Found": {
-    "message": "마침내, 왕관과 함께 돌아왔구나! 네가 실패하지 않으리라는 것을 알고 있었다.<P>약속했던 바대로 <FC 128,64,0>저주 받은 성<END FC>의 나머지 주민들을 풀어줄 것이다.<P> <FC 0,128,0>헬리오폴리스의 성스러운 왕관<END FC>은 궁전 내에 있다, 하지만 조심해야만 한다. 파라오께서는 다루기 쉬운 사람이 아니다.<E>",
-    "description": "SphinxText.xls, row 1169"
+    "message": "마침내, 왕관과 함께 돌아왔구나! 네가 실패하지 않으리라는 것을 알고 있었다.<P>약속했던 바대로 <FC 128,64,0>저주 받은 성<END FC>의 나머지 주민들을 풀어줄 것이다.<P> <FC 0,128,0>헬리오폴리스의 성스러운 왕관<END FC>은 궁전 내에 있다, 하지만 조심해야만 한다. 파라오께서는 다루기 쉬운 사람이 아니다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_NotFound": {
-    "message": "지체하지 마라.  파라오와 그의 왕관이 <FC 128,64,0>저주 받은 성<END FC>에서 기다린다.<E>",
-    "description": "SphinxText.xls, row 1170"
+    "message": "지체하지 마라.  파라오와 그의 왕관이 <FC 128,64,0>저주 받은 성<END FC>에서 기다린다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Found": {
-    "message": "위대한 용기와 힘으로 수행해냈다, 영웅이여, 그러나 이제 너는 가장 힘든 도전에 맞서야만 한다.<P>세트는 이미 황폐된 세상, <FC 128,64,0>우루크<END FC>,의 <FC 0,128,0>우루크의 성스러운 왕관<END FC>을 소지하고 있다.<P>그를 멈출 수 있는 유일한 방법은 <FC 128,64,0>우루크<END FC>로 가서 그를 한 번에 처치하는 것이다.<P>너는 앞에 놓여진 이 고된 여행에 준비를 해야 한다, <FC 01,128,0>포",
-    "description": "SphinxText.xls, row 1171"
+    "message": "위대한 용기와 힘으로 수행해냈다, 영웅이여, 그러나 이제 너는 가장 힘든 도전에 맞서야만 한다.<P>세트는 이미 황폐된 세상, <FC 128,64,0>우루크<END FC>,의 <FC 0,128,0>우루크의 성스러운 왕관<END FC>을 소지하고 있다.<P>그를 멈출 수 있는 유일한 방법은 <FC 128,64,0>우루크<END FC>로 가서 그를 한 번에 처치하는 것이다.<P>너는 앞에 놓여진 이 고된 여행에 준비를 해야 한다, <FC 01,128,0>포"
   },
   "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_NotFound": {
-    "message": "주저하면 할 수록, 세트는 더욱 강해진다. 더 이상 지체하는 것은 현명하지 못하다.<E>",
-    "description": "SphinxText.xls, row 1172"
+    "message": "주저하면 할 수록, 세트는 더욱 강해진다. 더 이상 지체하는 것은 현명하지 못하다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_Accept": {
-    "message": "좋다, 관문이 열려있다. 행운을 빈다.<E>",
-    "description": "SphinxText.xls, row 1173"
+    "message": "좋다, 관문이 열려있다. 행운을 빈다.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_Decline": {
-    "message": "주저하면 할 수록, 세트는 더욱 강해진다. 더 이상 지체하는 것은 현명하지 못하다.<E>",
-    "description": "SphinxText.xls, row 1174"
+    "message": "주저하면 할 수록, 세트는 더욱 강해진다. 더 이상 지체하는 것은 현명하지 못하다.<E>"
   },
   "HT_Text_Hel_DarkArea2_Help_KaAnkh01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이것은 <FC 0,128,0>카 앙크 발사 지점<END FC>의 한 곳이다.<P><ES HT_Text_ES_S_HelpText><CNTR>이것들은 너를 근방의 <FC 0,128,0>카 앙크<END FC>로<N>마법으로 전송하기 위해 사용될 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>일인칭 모드로 들어가려면<N>발사지점에 서서 <SB HT_Action_KaTile>를 누른다...<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1237"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>이것은 <FC 0,128,0>카 앙크 발사 지점<END FC>의 한 곳이다.<P><ES HT_Text_ES_S_HelpText><CNTR>이것들은 너를 근방의 <FC 0,128,0>카 앙크<END FC>로<N>마법으로 전송하기 위해 사용될 수 있다.<P><ES HT_Text_ES_S_HelpText><CNTR>일인칭 모드로 들어가려면<N>발사지점에 서서 <SB HT_Action_KaTile>를 누른다...<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_DarkArea2_Help_KaAnkh02": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>근방의 <FC 0,128,0>카 앙크<END FC>의 빛나는 꼭대기를 행해 조준하고 발사하면<N>그 위치로 마법으로 전송될 것이다.<E><ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 1238"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>근방의 <FC 0,128,0>카 앙크<END FC>의 빛나는 꼭대기를 행해 조준하고 발사하면<N>그 위치로 마법으로 전송될 것이다.<E><ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_DarkArea3_Teleport_Prompt01": {
-    "message": "<ES HT_Text_ES_S_HelpText>마법의 전송장치를 사용하겠습니까?<N>  <B 2> 아니오<N>  <B 1> 예<E>",
-    "description": "SphinxText.xls, row 1268"
+    "message": "<ES HT_Text_ES_S_HelpText>마법의 전송장치를 사용하겠습니까?<N>  <B 2> 아니오<N>  <B 1> 예<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1a": {
-    "message": "마침내 도착했군! 돌아올 수 있을지 궁금해 하고 있었다!<E>",
-    "description": "SphinxText.xls, row 1270"
+    "message": "마침내 도착했군! 돌아올 수 있을지 궁금해 하고 있었다!<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1b": {
-    "message": "<FC 128,64,0>아비도스<END FC>에서의 그러한 상황은 예상하지 못했다. 어둠의 힘이 내가 생각했던 것보다 빨리 움직이는 것처럼 보인다.<E>",
-    "description": "SphinxText.xls, row 1271"
+    "message": "<FC 128,64,0>아비도스<END FC>에서의 그러한 상황은 예상하지 못했다. 어둠의 힘이 내가 생각했던 것보다 빨리 움직이는 것처럼 보인다.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1c": {
-    "message": "네가 막지 못했다면, <FC 128,64,0>아비도스<END FC>도 결국에는 <FC 128,64,0>헬리오폴리스<END FC>와 같은  운명을 겪었을 것이라고 나는 확신한다.<E>",
-    "description": "SphinxText.xls, row 1272"
+    "message": "네가 막지 못했다면, <FC 128,64,0>아비도스<END FC>도 결국에는 <FC 128,64,0>헬리오폴리스<END FC>와 같은  운명을 겪었을 것이라고 나는 확신한다.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1d": {
-    "message": "이제 네가 그의 계획을 방해했으니 적은 너의 진행을 방해하기 위해 애를 쓸 것이다.<E>",
-    "description": "SphinxText.xls, row 1273"
+    "message": "이제 네가 그의 계획을 방해했으니 적은 너의 진행을 방해하기 위해 애를 쓸 것이다.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1e": {
-    "message": "너는 앞에 놓여있는 더 힘들고 위험한 여행을 위한 준비를 해야만 한다. 나는 네가 직면하게 될 도전들을 잘 이겨낼 것이라고 믿는다.<E>",
-    "description": "SphinxText.xls, row 1274"
+    "message": "너는 앞에 놓여있는 더 힘들고 위험한 여행을 위한 준비를 해야만 한다. 나는 네가 직면하게 될 도전들을 잘 이겨낼 것이라고 믿는다.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1f": {
-    "message": "너는 지금 아누비스로 가야 한다. 그는 내가 필요로 하는 적에 대한 정보를 가지고 있을 지도 모른다. 너의 <FC 0,128,0>포털 부적<END FC>을 사용하여 그의 성으로 빨리 가도록 해라.<E>",
-    "description": "SphinxText.xls, row 1275"
+    "message": "너는 지금 아누비스로 가야 한다. 그는 내가 필요로 하는 적에 대한 정보를 가지고 있을 지도 모른다. 너의 <FC 0,128,0>포털 부적<END FC>을 사용하여 그의 성으로 빨리 가도록 해라.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1g": {
-    "message": "너는 지금 아누비스로 가야 한다. 그는 내가 부족한 적에 대한 정보를 가지고 있을 지도 모른다. 너의 <FC 0,128,0>포털 부적<END FC>을 사용하여 그의 성으로 더 빨리 가도록 해라.<E>",
-    "description": "SphinxText.xls, row 1276"
+    "message": "너는 지금 아누비스로 가야 한다. 그는 내가 부족한 적에 대한 정보를 가지고 있을 지도 모른다. 너의 <FC 0,128,0>포털 부적<END FC>을 사용하여 그의 성으로 더 빨리 가도록 해라.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1a": {
-    "message": "<EFF><EPO>스핑크스! 다시 보게 되어 반갑구나, 나의 동지여! 너는 많은 죽음의 위험과 도전들을 이겨 왔고, 더 이상 네가 미숙한 견습생이 아니라는 것을 나에게 확신시켜주었다.<P>오... <FC 0,128,0>오시리스의 방패<END FC>를 가지고 있는 것이 보이는군. <FC 0,128,0>오시리스의 검<END FC>에 어울리는 완벽한 쌍이지.<E>",
-    "description": "SphinxText.xls, row 1277"
+    "message": "<EFF><EPO>스핑크스! 다시 보게 되어 반갑구나, 나의 동지여! 너는 많은 죽음의 위험과 도전들을 이겨 왔고, 더 이상 네가 미숙한 견습생이 아니라는 것을 나에게 확신시켜주었다.<P>오... <FC 0,128,0>오시리스의 방패<END FC>를 가지고 있는 것이 보이는군. <FC 0,128,0>오시리스의 검<END FC>에 어울리는 완벽한 쌍이지.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1a1": {
-    "message": "<EFF><EPO>이것들을 얻었다는 것은 정말 대단한 일이다, 이것들은 다가오는 모험에서 너에게 큰 도움이 될 것이다.<P>호루스는 이미 여기 왔었지만 너를 기다리지 않았다. 그의 조급함만큼이나 너의 의지는 강하구나.<E>",
-    "description": "SphinxText.xls, row 1278"
+    "message": "<EFF><EPO>이것들을 얻었다는 것은 정말 대단한 일이다, 이것들은 다가오는 모험에서 너에게 큰 도움이 될 것이다.<P>호루스는 이미 여기 왔었지만 너를 기다리지 않았다. 그의 조급함만큼이나 너의 의지는 강하구나.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1b": {
-    "message": "꽤나 힘든 여행이었던것 같군. 그 <FC 0,128,0>납골단지<END FC>가 아주 흥미롭군.<E>",
-    "description": "SphinxText.xls, row 1279"
+    "message": "꽤나 힘든 여행이었던것 같군. 그 <FC 0,128,0>납골단지<END FC>가 아주 흥미롭군.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1c": {
-    "message": "내가 이런 것을 본 지도 많은 세월이 지났다... 하지만 이 안에 갇혀있는 영혼을 풀어주는 데 도와줄 수 있을지도 모르겠다... <E>",
-    "description": "SphinxText.xls, row 1280"
+    "message": "내가 이런 것을 본 지도 많은 세월이 지났다... 하지만 이 안에 갇혀있는 영혼을 풀어주는 데 도와줄 수 있을지도 모르겠다... <E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1d": {
-    "message": "먼 북쪽의 장소가 보인다, 지옥 같은 땅의 성의 안에. <FC 128,64,0>우루크<END FC>의 땅... 아하! <FC 128,64,0>룩소르<END FC>의 왕자가 보인다... 투탕카멘.<E>",
-    "description": "SphinxText.xls, row 1281"
+    "message": "먼 북쪽의 장소가 보인다, 지옥 같은 땅의 성의 안에. <FC 128,64,0>우루크<END FC>의 땅... 아하! <FC 128,64,0>룩소르<END FC>의 왕자가 보인다... 투탕카멘.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1d1a": {
-    "message": "이 영혼을 <FC 0,128,0>납골단지<END FC>에서 풀어주어 원 주인에게 보내도록 하겠다...<E>",
-    "description": "SphinxText.xls, row 1282"
+    "message": "이 영혼을 <FC 0,128,0>납골단지<END FC>에서 풀어주어 원 주인에게 보내도록 하겠다...<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1d1b": {
-    "message": "그의 몸은 <FC 128,64,0>우루크의 성<END FC> 안에 놓여있다! 회생시키면 네게 큰 도움이 될 것이다. 아무도 그 안에 들어가 본 적이 없어. 왠지 불길한 느낌이 드는군…<E>",
-    "description": "SphinxText.xls, row 1283"
+    "message": "그의 몸은 <FC 128,64,0>우루크의 성<END FC> 안에 놓여있다! 회생시키면 네게 큰 도움이 될 것이다. 아무도 그 안에 들어가 본 적이 없어. 왠지 불길한 느낌이 드는군…<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1e": {
-    "message": "그래, 이제 그가 보인다. 그는 투탕카멘, <FC 128,64,0>룩소르<END FC>의 왕자다. 미이라가 되었지만 후세로 아직 건너가지 못했다. 투탕카멘, 깨어나라! 깨어나라!<E>",
-    "description": "SphinxText.xls, row 1284"
+    "message": "그래, 이제 그가 보인다. 그는 투탕카멘, <FC 128,64,0>룩소르<END FC>의 왕자다. 미이라가 되었지만 후세로 아직 건너가지 못했다. 투탕카멘, 깨어나라! 깨어나라!<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1f": {
-    "message": "살아있는 어떤 것도 그 성의 삼엄한 경비를 넘어 갈 수 없다. 우리는 마법의 존재를 보낼 필요가 있을 것이다...<E>",
-    "description": "SphinxText.xls, row 1285"
+    "message": "살아있는 어떤 것도 그 성의 삼엄한 경비를 넘어 갈 수 없다. 우리는 마법의 존재를 보낼 필요가 있을 것이다...<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1g": {
-    "message": "이 바구니는 완벽하군. 아무도 의심하지 않을 것이다.<E>",
-    "description": "SphinxText.xls, row 1286"
+    "message": "이 바구니는 완벽하군. 아무도 의심하지 않을 것이다.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1h": {
-    "message": "오시리스의 힘으로, 이 바구니에 생명의 환영이 스며들게 하라!<E>",
-    "description": "SphinxText.xls, row 1287"
+    "message": "오시리스의 힘으로, 이 바구니에 생명의 환영이 스며들게 하라!<E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a": {
-    "message": "이게 뭐지? <E>",
-    "description": "SphinxText.xls, row 1288"
+    "message": "이게 뭐지? <E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a1": {
-    "message": "<FC 128,64,0>아비도스<END FC>의 도난 당한 보석들 중 하나군! <E>",
-    "description": "SphinxText.xls, row 1289"
+    "message": "<FC 128,64,0>아비도스<END FC>의 도난 당한 보석들 중 하나군! <E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a2": {
-    "message": "뭔가 의심스러운 일이 벌어지고 있는 것 같다. 우리는 무슨 반역행위가 진행 중인지 확실하게 알아내야만 한다...<E>",
-    "description": "SphinxText.xls, row 1290"
+    "message": "뭔가 의심스러운 일이 벌어지고 있는 것 같다. 우리는 무슨 반역행위가 진행 중인지 확실하게 알아내야만 한다...<E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1b": {
-    "message": "오, 매우 흥미롭군... 왕자가 그 성안에서 잃어버린 <FC 0,128,0>이비스의 날개<END FC>을 찾아냈군.<E>",
-    "description": "SphinxText.xls, row 1291"
+    "message": "오, 매우 흥미롭군... 왕자가 그 성안에서 잃어버린 <FC 0,128,0>이비스의 날개<END FC>을 찾아냈군.<E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1c": {
-    "message": "이것은 고대의 마법의 유물로 오랜 시간 전에 도난 당했었다. 이것은 소유하는 자에게 새의 민첩함을 부여하여 더 높고 멀리 뛸 수 있도록 해준다.<E>",
-    "description": "SphinxText.xls, row 1292"
+    "message": "이것은 고대의 마법의 유물로 오랜 시간 전에 도난 당했었다. 이것은 소유하는 자에게 새의 민첩함을 부여하여 더 높고 멀리 뛸 수 있도록 해준다.<E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Basket1a": {
-    "message": "이 아이템들과 함께 당분간 바스-켓을 데리고 있거라. 너의 탐험에 매우 유용하게 쓰일 것이다.<E>",
-    "description": "SphinxText.xls, row 1293"
+    "message": "이 아이템들과 함께 당분간 바스-켓을 데리고 있거라. 너의 탐험에 매우 유용하게 쓰일 것이다.<E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1d": {
-    "message": "<FC 0,128,0>사자의 서<END FC>를 가지고 있으면, <FC 0,128,0>납골단지<END FC>를 발견했을 때 바스-켓을 투탕카멘에게 보낼 수 있다.<P>그 책은 <FC 128,64,0>저주 받은 성<END FC> 어딘가에 있을 것이다. 그러니 너는 아마도 아누비스에게 가서 궁전의 불행한 주민들에 관하여 이야기하는 것이 좋겠다.<P>호루스는 이미 그를 방문하기 위해 떠났다. 하지만 너와 그의 운명이 이제 갈라지는 것이 보이는구나.<E>",
-    "description": "SphinxText.xls, row 1294"
+    "message": "<FC 0,128,0>사자의 서<END FC>를 가지고 있으면, <FC 0,128,0>납골단지<END FC>를 발견했을 때 바스-켓을 투탕카멘에게 보낼 수 있다.<P>그 책은 <FC 128,64,0>저주 받은 성<END FC> 어딘가에 있을 것이다. 그러니 너는 아마도 아누비스에게 가서 궁전의 불행한 주민들에 관하여 이야기하는 것이 좋겠다.<P>호루스는 이미 그를 방문하기 위해 떠났다. 하지만 너와 그의 운명이 이제 갈라지는 것이 보이는구나.<E>"
   },
   "HT_Text_Hel_Imhotep_Basket1a": {
-    "message": "훌륭하군, 스핑크스! 너는 마지막 두 개의 성스러운 왕관들을 가지고 있군!<E>",
-    "description": "SphinxText.xls, row 1312"
+    "message": "훌륭하군, 스핑크스! 너는 마지막 두 개의 성스러운 왕관들을 가지고 있군!<E>"
   },
   "HT_Text_Hel_Imhotep_Basket1b": {
-    "message": "그것들을 아누비스에게 가지고 가야 한다 하지만 조심해야 한다...<E>",
-    "description": "SphinxText.xls, row 1313"
+    "message": "그것들을 아누비스에게 가지고 가야 한다 하지만 조심해야 한다...<E>"
   },
   "HT_Text_Hel_Imhotep_Basket1c": {
-    "message": "너의 탐험이 결말로 치닫고 있다는 것을 느낀다. 그리고, 마지막 전투를 위해서 떠나면 돌아올 수 없다.<E>",
-    "description": "SphinxText.xls, row 1314"
+    "message": "너의 탐험이 결말로 치닫고 있다는 것을 느낀다. 그리고, 마지막 전투를 위해서 떠나면 돌아올 수 없다.<E>"
   },
   "HT_Text_Hel_Imhotep_Basket1d": {
-    "message": "마무리 짓지 못한 일이 있으면 아누비스를 방문하기 전에 해결해두는 것이 좋다. 행운을 빈다 스핑크스.<E>",
-    "description": "SphinxText.xls, row 1315"
+    "message": "마무리 짓지 못한 일이 있으면 아누비스를 방문하기 전에 해결해두는 것이 좋다. 행운을 빈다 스핑크스.<E>"
   },
   "HT_Text_Hel_Imhotep_Sakkara1a": {
-    "message": "스핑크스! 잘 돌아왔다! <FC 128,64,0>우루크 섬<END FC>의 상태가 정말 긴박했다.<E>",
-    "description": "SphinxText.xls, row 1316"
+    "message": "스핑크스! 잘 돌아왔다! <FC 128,64,0>우루크 섬<END FC>의 상태가 정말 긴박했다.<E>"
   },
   "HT_Text_Hel_Imhotep_Sakkara1c": {
-    "message": "세트 자신이 의식에 참석 했었다는 것을 안다. 이것은 불안한 새로운 사실이군.<E>",
-    "description": "SphinxText.xls, row 1319"
+    "message": "세트 자신이 의식에 참석 했었다는 것을 안다. 이것은 불안한 새로운 사실이군.<E>"
   },
   "HT_Text_Hel_Imhotep_Sakkara1d": {
-    "message": "그가 너의 존재를 알았다면 그가 너를 파괴했었을 것이라는 것을 확신한다. 그는 매 순간이 지날 수록 더욱 강해지고 있다.<E> ",
-    "description": "SphinxText.xls, row 1320"
+    "message": "그가 너의 존재를 알았다면 그가 너를 파괴했었을 것이라는 것을 확신한다. 그는 매 순간이 지날 수록 더욱 강해지고 있다.<E> "
   },
   "HT_Text_Hel_Imhotep_Sakkara1e": {
-    "message": "그러한 역경에도 불구하고 너는 극복해냈고 세트가 <FC 128,64,0>우루크<END FC>의 지배를 완료하는 것을 막아냈다. 너는 진정으로 최고의 견습생이라는 것을 증명하고 있다.<E> ",
-    "description": "SphinxText.xls, row 1321"
+    "message": "그러한 역경에도 불구하고 너는 극복해냈고 세트가 <FC 128,64,0>우루크<END FC>의 지배를 완료하는 것을 막아냈다. 너는 진정으로 최고의 견습생이라는 것을 증명하고 있다.<E> "
   },
   "HT_Text_Hel_Imhotep_Sakkara1h": {
-    "message": "아누비스에게 세트의 음모를 알려주어야 한다. 그는 그의 인과 응보의 존재가 정복의 계획을 다시 움직이고 있다는 것을 알게 되면 매우 관심이 있을 것이다.<E>",
-    "description": "SphinxText.xls, row 1323"
+    "message": "아누비스에게 세트의 음모를 알려주어야 한다. 그는 그의 인과 응보의 존재가 정복의 계획을 다시 움직이고 있다는 것을 알게 되면 매우 관심이 있을 것이다.<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep01": {
-    "message": "스핑크스! 너는 <FC 128,64,0>성벽 입구 I<END FC>을 통과하여 아누비스를 방문해야 한다. 그가 <FC 128,64,0>저주 받은 성<END FC>의 불쌍한 사람들에게 무슨 일이 벌어졌는 가에 대한 답을 가지고 있을 지도 모른다.<E>",
-    "description": "SphinxText.xls, row 1324"
+    "message": "스핑크스! 너는 <FC 128,64,0>성벽 입구 I<END FC>을 통과하여 아누비스를 방문해야 한다. 그가 <FC 128,64,0>저주 받은 성<END FC>의 불쌍한 사람들에게 무슨 일이 벌어졌는 가에 대한 답을 가지고 있을 지도 모른다.<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep02": {
-    "message": "아누비스를 기다리게 하지 말아야 한다, 스핑크스! 그의 탐험을 끝내면 그가 중요한 정보를 가지고 있을지도 모른다!<E>",
-    "description": "SphinxText.xls, row 1325"
+    "message": "아누비스를 기다리게 하지 말아야 한다, 스핑크스! 그의 탐험을 끝내면 그가 중요한 정보를 가지고 있을지도 모른다!<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep03": {
-    "message": "스핑크스! 그래서, 아누비스는 <FC 0,128,0>아비도스의 성스러운 관<END FC>을 찾고 있다고. 그 고대의 유물로 무엇을 하려고 하는지 궁금하군?<E>",
-    "description": "SphinxText.xls, row 1326"
+    "message": "스핑크스! 그래서, 아누비스는 <FC 0,128,0>아비도스의 성스러운 관<END FC>을 찾고 있다고. 그 고대의 유물로 무엇을 하려고 하는지 궁금하군?<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep04": {
-    "message": "스핑크스, <FC 0,128,0>아비도스의 성스러운 관<END FC>을 아누비스에게 지체하지 말고 가져가야 한다!<E>",
-    "description": "SphinxText.xls, row 1327"
+    "message": "스핑크스, <FC 0,128,0>아비도스의 성스러운 관<END FC>을 아누비스에게 지체하지 말고 가져가야 한다!<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep05": {
-    "message": "이제, 아누비스가 찾는 것이 그 <FC 0,128,0>우루크의 성스러운 왕관<END FC>이라고? 성스러운 왕관들에 대한 강박관념이 나를 좀 불편하게 하는구먼. 조심해라, 스핑크스.<E>",
-    "description": "SphinxText.xls, row 1328"
+    "message": "이제, 아누비스가 찾는 것이 그 <FC 0,128,0>우루크의 성스러운 왕관<END FC>이라고? 성스러운 왕관들에 대한 강박관념이 나를 좀 불편하게 하는구먼. 조심해라, 스핑크스.<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep06": {
-    "message": "스핑크스, 너는 <FC 0,128,0>우루크의 성스러운 왕관<END FC>을 아누비스에게 지체하지 말고 가져가야 한다!<E>",
-    "description": "SphinxText.xls, row 1329"
+    "message": "스핑크스, 너는 <FC 0,128,0>우루크의 성스러운 왕관<END FC>을 아누비스에게 지체하지 말고 가져가야 한다!<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep07": {
-    "message": "스핑크스! 아누비스는 모든 왕관들을 소유할 때까지는 만족하지 않을 것 같다. <FC 0,128,0>헬리오폴리스의 성스러운 왕관<END FC>으로 그의 수집이 거의 채워질 것이다.<E>",
-    "description": "SphinxText.xls, row 1330"
+    "message": "스핑크스! 아누비스는 모든 왕관들을 소유할 때까지는 만족하지 않을 것 같다. <FC 0,128,0>헬리오폴리스의 성스러운 왕관<END FC>으로 그의 수집이 거의 채워질 것이다.<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep08": {
-    "message": "스핑크스, 아누비스를 기다리게 하지 마라! 그가 그의 성으로 너를 호출했다.<E>",
-    "description": "SphinxText.xls, row 1331"
+    "message": "스핑크스, 아누비스를 기다리게 하지 마라! 그가 그의 성으로 너를 호출했다.<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep09": {
-    "message": "스핑크스! 궁전의 주민들에게 저주를 내린 것은 아누비스였다, 헬리안들이 명했던 것과 일치하다. 그런 과격한 행동을 하게 된 동기가 무엇인지 궁금하군?<E>",
-    "description": "SphinxText.xls, row 1332"
+    "message": "스핑크스! 궁전의 주민들에게 저주를 내린 것은 아누비스였다, 헬리안들이 명했던 것과 일치하다. 그런 과격한 행동을 하게 된 동기가 무엇인지 궁금하군?<E>"
   },
   "HT_Text_Hel_SunShrine_ImhotepCandles01": {
-    "message": "정말, 스핑크스, 내 생각에는 초들을 부수는 것보다 해야 할 훨씬 중요한 일들이 많이 있는 것 같은데!<E>",
-    "description": "SphinxText.xls, row 1333"
+    "message": "정말, 스핑크스, 내 생각에는 초들을 부수는 것보다 해야 할 훨씬 중요한 일들이 많이 있는 것 같은데!<E>"
   },
   "HT_Text_Hel_SunShrine_ImhotepCandles02": {
-    "message": "모든 초들을 부셔서 행복한가? 호루스한테선 그런 철없는 짓을 예상했지만 스핑크스 너마저. <E> ",
-    "description": "SphinxText.xls, row 1334"
+    "message": "모든 초들을 부셔서 행복한가? 호루스한테선 그런 철없는 짓을 예상했지만 스핑크스 너마저. <E> "
   },
   "HT_Text_Hel_SunShrine_ImhotepCandles03": {
-    "message": "일의 우선권을 제대로 파악한 것을 보니 좋군. 초들을 부수는 것이 너의 탐험에 정말 도움이 될 것이라 확신한다.<E>",
-    "description": "SphinxText.xls, row 1335"
+    "message": "일의 우선권을 제대로 파악한 것을 보니 좋군. 초들을 부수는 것이 너의 탐험에 정말 도움이 될 것이라 확신한다.<E>"
   },
   "HT_Text_Hel_Imhotep_PortalAmulet01": {
-    "message": "스핑크스! 매우 흥미 있는 소식이 있다. 아누비스가 그의 성에서 너를 보고 싶다고 내게 알려왔다.<E>",
-    "description": "SphinxText.xls, row 1336"
+    "message": "스핑크스! 매우 흥미 있는 소식이 있다. 아누비스가 그의 성에서 너를 보고 싶다고 내게 알려왔다.<E>"
   },
   "HT_Text_Hel_Imhotep_PortalAmulet02": {
-    "message": "이 <FC 0,128,0>포털 부적<END FC>을 가져가라, 이것은 내 뒤에 있는 관문을 이용하여 <FC 128,64,0>아누비스 탑<END FC>으로 직접 여행할 수 있도록 해준다.<E>",
-    "description": "SphinxText.xls, row 1337"
+    "message": "이 <FC 0,128,0>포털 부적<END FC>을 가져가라, 이것은 내 뒤에 있는 관문을 이용하여 <FC 128,64,0>아누비스 탑<END FC>으로 직접 여행할 수 있도록 해준다.<E>"
   },
   "HT_Text_Hel_Imhotep_PortalAmulet03": {
-    "message": "행운을 빈다, 나의 동지여.<W 70>",
-    "description": "SphinxText.xls, row 1338"
+    "message": "행운을 빈다, 나의 동지여.<W 70>"
   }
 }

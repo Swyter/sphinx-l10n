@@ -1,766 +1,575 @@
 {
   "HT_Text_FE_Menu_NewGame": {
-    "message": "NEW GAME",
-    "description": "SphinxText.xls, row 2981"
+    "message": "NEW GAME"
   },
   "HT_Text_FE_Menu_LoadGame": {
-    "message": "LOAD GAME",
-    "description": "SphinxText.xls, row 2982"
+    "message": "LOAD GAME"
   },
   "HT_Text_FE_Menu_BonusMaterial": {
-    "message": "BONUS",
-    "description": "SphinxText.xls, row 2983"
+    "message": "BONUS"
   },
   "HT_Text_FE_Menu_Options": {
-    "message": "OPTIONS",
-    "description": "SphinxText.xls, row 2984"
+    "message": "OPTIONS"
   },
   "HT_Text_FE_Menu_OptionsSubControl": {
-    "message": "CONTROL SETTINGS",
-    "description": "SphinxText.xls, row 2985"
+    "message": "CONTROL SETTINGS"
   },
   "HT_Text_FE_Menu_OptionsSubScreen": {
-    "message": "SCREEN SETTINGS",
-    "description": "SphinxText.xls, row 2986"
+    "message": "SCREEN SETTINGS"
   },
   "HT_Text_FE_Menu_OptionsSubSound": {
-    "message": "SOUND SETTINGS",
-    "description": "SphinxText.xls, row 2987"
+    "message": "SOUND SETTINGS"
   },
   "HT_Text_FE_Menu_MusicVolume": {
-    "message": "MUSIC VOLUME",
-    "description": "SphinxText.xls, row 2988"
+    "message": "MUSIC VOLUME"
   },
   "HT_Text_FE_Menu_SoundVolume": {
-    "message": "SOUND VOLUME",
-    "description": "SphinxText.xls, row 2989"
+    "message": "SOUND VOLUME"
   },
   "HT_Text_FE_Menu_PadRumbleGC": {
-    "message": "RUMBLE",
-    "description": "SphinxText.xls, row 2990"
+    "message": "RUMBLE"
   },
   "HT_Text_FE_Menu_PadRumbleXB": {
-    "message": "VIBRATION",
-    "description": "SphinxText.xls, row 2991"
+    "message": "VIBRATION"
   },
   "HT_Text_FE_Menu_PadRumblePS2": {
-    "message": "VIBRATION",
-    "description": "SphinxText.xls, row 2992"
+    "message": "VIBRATION"
   },
   "HT_Text_FE_Menu_ScreenAdjust": {
-    "message": "SCREEN ADJUST",
-    "description": "SphinxText.xls, row 2993"
+    "message": "SCREEN ADJUST"
   },
   "HT_Text_FE_Menu_Widescreen": {
-    "message": "WIDESCREEN",
-    "description": "SphinxText.xls, row 2994"
+    "message": "WIDESCREEN"
   },
   "HT_Text_FE_Menu_Subtitles": {
-    "message": "SUBTITLES",
-    "description": "SphinxText.xls, row 2995"
+    "message": "SUBTITLES"
   },
   "HT_Text_FE_Menu_InvertThirdPersonVert": {
-    "message": "3RD PERSON INVERT VERTICAL",
-    "description": "SphinxText.xls, row 2996"
+    "message": "3RD PERSON INVERT VERTICAL"
   },
   "HT_Text_FE_Menu_InvertThirdPersonHorz": {
-    "message": "3RD PERSON INVERT HORIZONTAL",
-    "description": "SphinxText.xls, row 2997"
+    "message": "3RD PERSON INVERT HORIZONTAL"
   },
   "HT_Text_FE_Menu_InvertFirstPersonVert": {
-    "message": "1ST PERSON INVERT VERTICAL",
-    "description": "SphinxText.xls, row 2998"
+    "message": "1ST PERSON INVERT VERTICAL"
   },
   "HT_Text_FE_Menu_OK": {
-    "message": "OK",
-    "description": "SphinxText.xls, row 2999"
+    "message": "OK"
   },
   "HT_Text_FE_Menu_Cancel": {
-    "message": "CANCEL",
-    "description": "SphinxText.xls, row 3000"
+    "message": "CANCEL"
   },
   "HT_Text_FE_Menu_ConfirmQuit": {
-    "message": "Are you sure you want to quit?",
-    "description": "SphinxText.xls, row 3001"
+    "message": "Are you sure you want to quit?"
   },
   "HT_Text_FE_Menu_ConfirmQuit_XB": {
-    "message": "Are you sure you want to quit?\\nAll unsaved progress will be lost.",
-    "description": "SphinxText.xls, row 3002"
+    "message": "Are you sure you want to quit?\\nAll unsaved progress will be lost."
   },
   "HT_Text_FE_Menu_SoundStereo": {
-    "message": "STEREO",
-    "description": "SphinxText.xls, row 3004"
+    "message": "STEREO"
   },
   "HT_Text_FE_Menu_SoundMono": {
-    "message": "MONO",
-    "description": "SphinxText.xls, row 3005"
+    "message": "MONO"
   },
   "HT_Text_FE_Menu_SoundSurround": {
-    "message": "SURROUND",
-    "description": "SphinxText.xls, row 3006"
+    "message": "SURROUND"
   },
   "HT_Text_FE_Menu_SoundStereoSurround": {
-    "message": "STEREO/\\nSURROUND",
-    "description": "SphinxText.xls, row 3007"
+    "message": "STEREO/\\nSURROUND"
   },
   "HT_Text_FE_Menu_SoundModeOption": {
-    "message": "SOUND MODE",
-    "description": "SphinxText.xls, row 3008"
+    "message": "SOUND MODE"
   },
   "HT_Text_FE_Menu_On": {
-    "message": "ON",
-    "description": "SphinxText.xls, row 3009"
+    "message": "ON"
   },
   "HT_Text_FE_Menu_Off": {
-    "message": "OFF",
-    "description": "SphinxText.xls, row 3010"
+    "message": "OFF"
   },
   "HT_Text_OptionsMenu_Back": {
-    "message": "BACK",
-    "description": "SphinxText.xls, row 3011"
+    "message": "BACK"
   },
   "HT_Text_OptionsMenu_Select": {
-    "message": "SELECT",
-    "description": "SphinxText.xls, row 3012"
+    "message": "SELECT"
   },
   "HT_Text_FE_Menu_ThirdPerson": {
-    "message": "3RD PERSON:",
-    "description": "SphinxText.xls, row 3013"
+    "message": "3RD PERSON:"
   },
   "HT_Text_FE_Menu_FirstPerson": {
-    "message": "1ST PERSON:",
-    "description": "SphinxText.xls, row 3014"
+    "message": "1ST PERSON:"
   },
   "HT_Text_FE_Menu_InvertHorz": {
-    "message": "INVERT HORIZONTAL",
-    "description": "SphinxText.xls, row 3015"
+    "message": "INVERT HORIZONTAL"
   },
   "HT_Text_FE_Menu_InvertVert": {
-    "message": "INVERT VERTICAL",
-    "description": "SphinxText.xls, row 3016"
+    "message": "INVERT VERTICAL"
   },
   "HT_Text_FE_MenuPause_Continue": {
-    "message": "CONTINUE",
-    "description": "SphinxText.xls, row 3017"
+    "message": "CONTINUE"
   },
   "HT_Text_FE_MenuPause_Options": {
-    "message": "OPTIONS",
-    "description": "SphinxText.xls, row 3018"
+    "message": "OPTIONS"
   },
   "HT_Text_FE_MenuPause_QuitGame": {
-    "message": "QUIT GAME",
-    "description": "SphinxText.xls, row 3019"
+    "message": "QUIT GAME"
   },
   "HT_Text_FE_PressStart_PS2": {
-    "message": "PRESS START BUTTON",
-    "description": "SphinxText.xls, row 3020"
+    "message": "PRESS START BUTTON"
   },
   "HT_Text_FE_PressStart_XB": {
-    "message": "PRESS START",
-    "description": "SphinxText.xls, row 3021"
+    "message": "PRESS START"
   },
   "HT_Text_FE_PressStart_GC": {
-    "message": "Press START",
-    "description": "SphinxText.xls, row 3022"
+    "message": "Press START"
   },
   "HT_Text_FE_PressStart_PC": {
-    "message": "PRESS ANY BUTTON TO START",
-    "description": "SphinxText.xls, row 3023"
+    "message": "PRESS ANY BUTTON TO START"
   },
   "HT_Text_FE_Bonus1_Title": {
-    "message": "The Making of Sphinx",
-    "description": "SphinxText.xls, row 3025"
+    "message": "The Making of Sphinx"
   },
   "HT_Text_FE_Bonus1_Description": {
-    "message": "Go behind the scenes of the making of Sphinx and the Cursed Mummy",
-    "description": "SphinxText.xls, row 3026"
+    "message": "Go behind the scenes of the making of Sphinx and the Cursed Mummy"
   },
   "HT_Text_FE_Bonus2_Title": {
-    "message": "Sphinx Trailer",
-    "description": "SphinxText.xls, row 3027"
+    "message": "Sphinx Trailer"
   },
   "HT_Text_FE_Bonus2_Description": {
-    "message": "Trailer for Sphinx and the Cursed Mummy",
-    "description": "SphinxText.xls, row 3028"
+    "message": "Trailer for Sphinx and the Cursed Mummy"
   },
   "HT_Text_FE_Menu_SaveSlotA": {
-    "message": "SPHINX A",
-    "description": "SphinxText.xls, row 3030"
+    "message": "SPHINX A"
   },
   "HT_Text_FE_Menu_SaveSlotB": {
-    "message": "SPHINX B",
-    "description": "SphinxText.xls, row 3031"
+    "message": "SPHINX B"
   },
   "HT_Text_FE_Menu_SaveSlotC": {
-    "message": "SPHINX C",
-    "description": "SphinxText.xls, row 3032"
+    "message": "SPHINX C"
   },
   "HT_Text_FE_Menu_SaveSlotA_XB": {
-    "message": "SPHINX A",
-    "description": "SphinxText.xls, row 3033"
+    "message": "SPHINX A"
   },
   "HT_Text_FE_Menu_SaveSlotB_XB": {
-    "message": "SPHINX B",
-    "description": "SphinxText.xls, row 3034"
+    "message": "SPHINX B"
   },
   "HT_Text_FE_Menu_SaveSlotC_XB": {
-    "message": "SPHINX C",
-    "description": "SphinxText.xls, row 3035"
+    "message": "SPHINX C"
   },
   "HT_Text_FE_Menu_SaveSlotNone": {
-    "message": "Continue Without Saving",
-    "description": "SphinxText.xls, row 3036"
+    "message": "Continue Without Saving"
   },
   "HT_Text_FE_Menu_SaveSlotEmpty": {
-    "message": "Empty",
-    "description": "SphinxText.xls, row 3037"
+    "message": "Empty"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
-    "message": "DAMAGED",
-    "description": "SphinxText.xls, row 3039"
+    "message": "DAMAGED"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
-    "message": "CORRUPT",
-    "description": "SphinxText.xls, row 3040"
+    "message": "CORRUPT"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_GC": {
-    "message": "EMPTY",
-    "description": "SphinxText.xls, row 3041"
+    "message": "EMPTY"
   },
   "HT_Text_MemCard_PromptSlotA": {
-    "message": "SPHINX A",
-    "description": "SphinxText.xls, row 3043"
+    "message": "SPHINX A"
   },
   "HT_Text_MemCard_PromptSlotB": {
-    "message": "SPHINX B",
-    "description": "SphinxText.xls, row 3044"
+    "message": "SPHINX B"
   },
   "HT_Text_MemCard_PromptSlotC": {
-    "message": "SPHINX C",
-    "description": "SphinxText.xls, row 3045"
+    "message": "SPHINX C"
   },
   "HT_Text_MemCard_PromptNo": {
-    "message": "NO",
-    "description": "SphinxText.xls, row 3047"
+    "message": "NO"
   },
   "HT_Text_MemCard_PromptYes": {
-    "message": "YES",
-    "description": "SphinxText.xls, row 3048"
+    "message": "YES"
   },
   "HT_Text_MemCard_PromptOK": {
-    "message": "OK",
-    "description": "SphinxText.xls, row 3049"
+    "message": "OK"
   },
   "HT_Text_MemCard_PromptRetry": {
-    "message": "RETRY",
-    "description": "SphinxText.xls, row 3050"
+    "message": "RETRY"
   },
   "HT_Text_MemCard_PromptCancel": {
-    "message": "CANCEL",
-    "description": "SphinxText.xls, row 3051"
+    "message": "CANCEL"
   },
   "HT_Text_MemCard_PromptHaventSaved_XB": {
-    "message": "Are you sure you want to continue without saving?",
-    "description": "SphinxText.xls, row 3053"
+    "message": "Are you sure you want to continue without saving?"
   },
   "HT_Text_MemCard_GameName": {
-    "message": "SPHINX",
-    "description": "SphinxText.xls, row 3054"
+    "message": "SPHINX"
   },
   "HT_Text_Paused_PS2": {
-    "message": "Paused",
-    "description": "SphinxText.xls, row 3056"
+    "message": "Paused"
   },
   "HT_Text_Paused_XB": {
-    "message": "Press START to continue.",
-    "description": "SphinxText.xls, row 3057"
+    "message": "Press START to continue."
   },
   "HT_Text_Paused_GC": {
-    "message": "Paused",
-    "description": "SphinxText.xls, row 3058"
+    "message": "Paused"
   },
   "HT_Text_ReplacePadPrompt_PS2_PAL": {
-    "message": "No controller inserted into controller port (MISSINGPAD). Please reinsert an analog controller (DUALSHOCK®) or analog controller (DUALSHOCK®2) to continue.",
-    "description": "SphinxText.xls, row 3060"
+    "message": "No controller inserted into controller port (MISSINGPAD). Please reinsert an analog controller (DUALSHOCK®) or analog controller (DUALSHOCK®2) to continue."
   },
   "HT_Text_ReplacePadPrompt_PS2_NTSC": {
-    "message": "No controller inserted into controller port (MISSINGPAD). Please reinsert a DUALSHOCK® analog controller or DUALSHOCK®2 analog controller to continue.",
-    "description": "SphinxText.xls, row 3061"
+    "message": "No controller inserted into controller port (MISSINGPAD). Please reinsert a DUALSHOCK® analog controller or DUALSHOCK®2 analog controller to continue."
   },
   "HT_Text_ReplacePadPrompt_XB_Start": {
-    "message": "Please reconnect the controller to port (MISSINGPAD) and press START to continue.",
-    "description": "SphinxText.xls, row 3062"
+    "message": "Please reconnect the controller to port (MISSINGPAD) and press START to continue."
   },
   "HT_Text_ReplacePadPrompt_XB": {
-    "message": "Please reconnect the controller to port (MISSINGPAD).",
-    "description": "SphinxText.xls, row 3063"
+    "message": "Please reconnect the controller to port (MISSINGPAD)."
   },
   "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
-    "message": "You will be unable to save your progress or options at any point in the game. Are you sure you wish to continue?",
-    "description": "SphinxText.xls, row 3065"
+    "message": "You will be unable to save your progress or options at any point in the game. Are you sure you wish to continue?"
   },
   "HT_Text_DeathScreen_Continue": {
-    "message": "CONTINUE",
-    "description": "SphinxText.xls, row 3066"
+    "message": "CONTINUE"
   },
   "HT_Text_DeathScreen_QuitGame": {
-    "message": "QUIT GAME",
-    "description": "SphinxText.xls, row 3067"
+    "message": "QUIT GAME"
   },
   "HT_Text_DeathScreen_Text": {
-    "message": "GAME OVER",
-    "description": "SphinxText.xls, row 3068"
+    "message": "GAME OVER"
   },
   "HT_Text_OptionsMenu_Reset": {
-    "message": "RESET",
-    "description": "SphinxText.xls, row 3070"
+    "message": "RESET"
   },
   "HT_Text_ScreenAdjustText_PS2": {
-    "message": "Adjust the screen with\\nthe directional buttons.",
-    "description": "SphinxText.xls, row 3071"
+    "message": "Adjust the screen with\\nthe directional buttons."
   },
   "HT_Text_ScreenAdjustText_GC": {
-    "message": "Adjust the screen with the +Control Pad.",
-    "description": "SphinxText.xls, row 3072"
+    "message": "Adjust the screen with the +Control Pad."
   },
   "HT_Text_ScreenAdjustText_XB": {
-    "message": "Adjust the screen with the directional pad.",
-    "description": "SphinxText.xls, row 3073"
+    "message": "Adjust the screen with the directional pad."
   },
   "HT_Text_Memcard_Test": {
-    "message": "This is a memory card help window test.\\nWith new lines.\\nAnd exclamations!",
-    "description": "SphinxText.xls, row 3074"
+    "message": "This is a memory card help window test.\\nWith new lines.\\nAnd exclamations!"
   },
   "HT_Text_Memcard_SaveConfirm": {
-    "message": "Are you sure you want to\\nsave to this slot?",
-    "description": "SphinxText.xls, row 3075"
+    "message": "Are you sure you want to\\nsave to this slot?"
   },
   "HT_Text_Memcard_LoadConfirm": {
-    "message": "Are you sure you want to\\nload this game?",
-    "description": "SphinxText.xls, row 3076"
+    "message": "Are you sure you want to\\nload this game?"
   },
   "HT_Text_Memcard_OverwriteConfirm": {
-    "message": "Save game already exists.\\n\\nDo you want to overwrite the\\nprevious game?",
-    "description": "SphinxText.xls, row 3077"
+    "message": "Save game already exists.\\n\\nDo you want to overwrite the\\nprevious game?"
   },
   "HT_Text_Memcard_NoFormat": {
-    "message": "Memory card (PS2) in MEMORY\\nCARD slot 1 is unformatted.\\n\\nFormat memory card (PS2)?",
-    "description": "SphinxText.xls, row 3078"
+    "message": "Memory card (PS2) in MEMORY\\nCARD slot 1 is unformatted.\\n\\nFormat memory card (PS2)?"
   },
   "HT_Text_Memcard_NoFormat_Boot": {
-    "message": "Memory card (PS2) in MEMORY\\nCARD slot 1 is unformatted.\\nFormat memory card (PS2)?",
-    "description": "SphinxText.xls, row 3079"
+    "message": "Memory card (PS2) in MEMORY\\nCARD slot 1 is unformatted.\\nFormat memory card (PS2)?"
   },
   "HT_Text_Memcard_NoDirectory": {
-    "message": "Memory card (PS2) in MEMORY\\nCARD slot 1 does not contain\\na Sphinx folder.\\nCreate a Sphinx folder now?",
-    "description": "SphinxText.xls, row 3080"
+    "message": "Memory card (PS2) in MEMORY\\nCARD slot 1 does not contain\\na Sphinx folder.\\nCreate a Sphinx folder now?"
   },
   "HT_Text_Memcard_FormatComplete": {
-    "message": "Format successful.",
-    "description": "SphinxText.xls, row 3081"
+    "message": "Format successful."
   },
   "HT_Text_Memcard_SaveFailed": {
-    "message": "Failed to save game.",
-    "description": "SphinxText.xls, row 3082"
+    "message": "Failed to save game."
   },
   "HT_Text_Memcard_SaveSuccess": {
-    "message": "Save game successful.",
-    "description": "SphinxText.xls, row 3083"
+    "message": "Save game successful."
   },
   "HT_Text_Memcard_LoadFail": {
-    "message": "Failed to load game.",
-    "description": "SphinxText.xls, row 3084"
+    "message": "Failed to load game."
   },
   "HT_Text_Memcard_NoCard": {
-    "message": "Caution! Sphinx uses an Autosave feature.\\nInsertion of a memory card (PS2) beyond\\nthis point may cause data to be\\noverwritten. However if you wish to save\\nyour game data, insert a memory card (PS2)\\nwith at least xKB free space.\\n\\nPress START BUTTON to continue\\nwithout saves.",
-    "description": "SphinxText.xls, row 3085"
+    "message": "Caution! Sphinx uses an Autosave feature.\\nInsertion of a memory card (PS2) beyond\\nthis point may cause data to be\\noverwritten. However if you wish to save\\nyour game data, insert a memory card (PS2)\\nwith at least xKB free space.\\n\\nPress START BUTTON to continue\\nwithout saves."
   },
   "HT_Text_Memcard_NoCard1": {
-    "message": "No memory card(8MB)(for PlayStation®2)\\n inserted in memory card slot 1.",
-    "description": "SphinxText.xls, row 3086"
+    "message": "No memory card(8MB)(for PlayStation®2)\\n inserted in memory card slot 1."
   },
   "HT_Text_Memcard_NoSpace_Boot": {
-    "message": "Insufficient space on memory card (PS2). Insert a\\nmemory card (PS2) with at least xKB free space,\\nor create some space using the console's internal browser.",
-    "description": "SphinxText.xls, row 3087"
+    "message": "Insufficient space on memory card (PS2). Insert a\\nmemory card (PS2) with at least xKB free space,\\nor create some space using the console's internal browser."
   },
   "HT_Text_Memcard_NoSpace_Save": {
-    "message": "Insufficient space on memory card (PS2) in MEMORY CARD\\n slot 1. Sphinx requires xKB free space to save data.",
-    "description": "SphinxText.xls, row 3088"
+    "message": "Insufficient space on memory card (PS2) in MEMORY CARD\\n slot 1. Sphinx requires xKB free space to save data."
   },
   "HT_Text_Memcard_PressKey": {
-    "message": "PRESS START TO CONTINUE WITHOUT SAVES",
-    "description": "SphinxText.xls, row 3089"
+    "message": "PRESS START TO CONTINUE WITHOUT SAVES"
   },
   "HT_Text_Memcard_Loading": {
-    "message": "Loading...",
-    "description": "SphinxText.xls, row 3090"
+    "message": "Loading..."
   },
   "HT_Text_Memcard_Saving": {
-    "message": "Saving data. Do not remove memory card (PS2) in\\nMEMORY CARD slot 1, reset, or switch off the console.",
-    "description": "SphinxText.xls, row 3091"
+    "message": "Saving data. Do not remove memory card (PS2) in\\nMEMORY CARD slot 1, reset, or switch off the console."
   },
   "HT_Text_Memcard_Formatting": {
-    "message": "Formatting...\\n\\n\\nFormatting memory card (PS2) in MEMORY CARD slot 1.\\nDo not remove memory card (PS2),\\nreset, or switch off the console.",
-    "description": "SphinxText.xls, row 3092"
+    "message": "Formatting...\\n\\n\\nFormatting memory card (PS2) in MEMORY CARD slot 1.\\nDo not remove memory card (PS2),\\nreset, or switch off the console."
   },
   "HT_Text_Memcard_YesNo": {
-    "message": "<B 1>Yes<N><B 2>No<E>",
-    "description": "SphinxText.xls, row 3093"
+    "message": "<B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Menu_Cross": {
-    "message": "select",
-    "description": "SphinxText.xls, row 3094"
+    "message": "select"
   },
   "HT_Text_Menu_Triangle": {
-    "message": "BACK",
-    "description": "SphinxText.xls, row 3095"
+    "message": "BACK"
   },
   "HT_Text_Menu_Square": {
-    "message": "Centre screen",
-    "description": "SphinxText.xls, row 3096"
+    "message": "Centre screen"
   },
   "HT_Text_Menu_StartPause": {
-    "message": "Continue game",
-    "description": "SphinxText.xls, row 3097"
+    "message": "Continue game"
   },
   "HT_Text_Menu_AdjustScreen": {
-    "message": "Use the left analog\\nstick or directional button to\\nadjust the screen position",
-    "description": "SphinxText.xls, row 3098"
+    "message": "Use the left analog\\nstick or directional button to\\nadjust the screen position"
   },
   "HT_Text_Menu_Accept": {
-    "message": "Yes",
-    "description": "SphinxText.xls, row 3099"
+    "message": "Yes"
   },
   "HT_Text_Menu_Decline": {
-    "message": "No",
-    "description": "SphinxText.xls, row 3100"
+    "message": "No"
   },
   "HT_Text_Menu_Pause": {
-    "message": "Pause game",
-    "description": "SphinxText.xls, row 3101"
+    "message": "Pause game"
   },
   "HT_Text_Menu_Empty": {
-    "message": "Nothing",
-    "description": "SphinxText.xls, row 3102"
+    "message": "Nothing"
   },
   "HT_Text_Menu_BOS": {
-    "message": "Open Book of Sphinx",
-    "description": "SphinxText.xls, row 3103"
+    "message": "Open Book of Sphinx"
   },
   "HT_Text_Menu_Inventory": {
-    "message": "Inventory",
-    "description": "SphinxText.xls, row 3104"
+    "message": "Inventory"
   },
   "HT_Text_Menu_Jump": {
-    "message": "Jump",
-    "description": "SphinxText.xls, row 3105"
+    "message": "Jump"
   },
   "HT_Text_Menu_Attack": {
-    "message": "Attack",
-    "description": "SphinxText.xls, row 3106"
+    "message": "Attack"
   },
   "HT_Text_Menu_Context": {
-    "message": "Context",
-    "description": "SphinxText.xls, row 3107"
+    "message": "Context"
   },
   "HT_Text_Menu_Shield": {
-    "message": "Shield",
-    "description": "SphinxText.xls, row 3108"
+    "message": "Shield"
   },
   "HT_Text_Menu_Pipe": {
-    "message": "Blow pipe",
-    "description": "SphinxText.xls, row 3109"
+    "message": "Blow pipe"
   },
   "HT_Text_Menu_Camera": {
-    "message": "Camera control",
-    "description": "SphinxText.xls, row 3110"
+    "message": "Camera control"
   },
   "HT_Text_Menu_Move": {
-    "message": "Move character",
-    "description": "SphinxText.xls, row 3111"
+    "message": "Move character"
   },
   "HT_Text_Menu_Start": {
-    "message": "Pause game menu",
-    "description": "SphinxText.xls, row 3112"
+    "message": "Pause game menu"
   },
   "HT_Text_Menu_PadLayout1": {
-    "message": "DEFAULT",
-    "description": "SphinxText.xls, row 3113"
+    "message": "DEFAULT"
   },
   "HT_Text_Menu_PadLayout2": {
-    "message": "LEFT=HANDED",
-    "description": "SphinxText.xls, row 3114"
+    "message": "LEFT=HANDED"
   },
   "HT_Text_Menu_PadLayout3": {
-    "message": "DRUNKEN",
-    "description": "SphinxText.xls, row 3115"
+    "message": "DRUNKEN"
   },
   "HT_Text_Menu_NoPad": {
-    "message": "The controller in controller\\nport 1 has been removed.\\nReinsert the controller to\\ncontinue with the game.",
-    "description": "SphinxText.xls, row 3116"
+    "message": "The controller in controller\\nport 1 has been removed.\\nReinsert the controller to\\ncontinue with the game."
   },
   "HT_Text_Menu_Uruk1": {
-    "message": "SPHINX=@=URUK=HILLS",
-    "description": "SphinxText.xls, row 3117"
+    "message": "SPHINX=@=URUK=HILLS"
   },
   "HT_Text_Menu_Uruk2": {
-    "message": "MUMMY=@=URUK=CASTLE",
-    "description": "SphinxText.xls, row 3118"
+    "message": "MUMMY=@=URUK=CASTLE"
   },
   "HT_Text_Menu_Making": {
-    "message": "THE=MAKING=OF=:=:=:",
-    "description": "SphinxText.xls, row 3119"
+    "message": "THE=MAKING=OF=:=:=:"
   },
   "HT_Text_Menu_Trailer": {
-    "message": "TRAILER",
-    "description": "SphinxText.xls, row 3120"
+    "message": "TRAILER"
   },
   "HT_Text_Menu_Exit": {
-    "message": "QUIT=DEMO",
-    "description": "SphinxText.xls, row 3121"
+    "message": "QUIT=DEMO"
   },
   "HT_Text_Menu_Continue": {
-    "message": "CONTINUE",
-    "description": "SphinxText.xls, row 3122"
+    "message": "CONTINUE"
   },
   "HT_Text_Menu_Rumble": {
-    "message": "VIBRATION==ON",
-    "description": "SphinxText.xls, row 3123"
+    "message": "VIBRATION==ON"
   },
   "HT_Text_Menu_RumbleOff": {
-    "message": "VIBRATION==OFF",
-    "description": "SphinxText.xls, row 3124"
+    "message": "VIBRATION==OFF"
   },
   "HT_Text_Menu_StartDemo": {
-    "message": "PLAY=DEMO",
-    "description": "SphinxText.xls, row 3125"
+    "message": "PLAY=DEMO"
   },
   "HT_Text_Menu_NewGame": {
-    "message": "NEW=GAME",
-    "description": "SphinxText.xls, row 3126"
+    "message": "NEW=GAME"
   },
   "HT_Text_Menu_Load": {
-    "message": "LOAD=GAME",
-    "description": "SphinxText.xls, row 3127"
+    "message": "LOAD=GAME"
   },
   "HT_Text_Menu_Save": {
-    "message": "SAVE=GAME",
-    "description": "SphinxText.xls, row 3128"
+    "message": "SAVE=GAME"
   },
   "HT_Text_Menu_Options": {
-    "message": "OPTIONS",
-    "description": "SphinxText.xls, row 3129"
+    "message": "OPTIONS"
   },
   "HT_Text_Menu_EndGame": {
-    "message": "END=GAME",
-    "description": "SphinxText.xls, row 3130"
+    "message": "END=GAME"
   },
   "HT_Text_Menu_Screen": {
-    "message": "SCREEN=SETTINGS",
-    "description": "SphinxText.xls, row 3131"
+    "message": "SCREEN=SETTINGS"
   },
   "HT_Text_Menu_Pad": {
-    "message": "CONTROLLER=SETTINGS",
-    "description": "SphinxText.xls, row 3132"
+    "message": "CONTROLLER=SETTINGS"
   },
   "HT_Text_Menu_Sound": {
-    "message": "SOUND=SETTINGS",
-    "description": "SphinxText.xls, row 3133"
+    "message": "SOUND=SETTINGS"
   },
   "HT_Text_Menu_ScreenAdjust": {
-    "message": "ADJUST=SCREEN",
-    "description": "SphinxText.xls, row 3134"
+    "message": "ADJUST=SCREEN"
   },
   "HT_Text_Menu_WidescreenON": {
-    "message": "WIDESCREEN==ON",
-    "description": "SphinxText.xls, row 3135"
+    "message": "WIDESCREEN==ON"
   },
   "HT_Text_Menu_WidescreenOFF": {
-    "message": "WIDESCREEN==OFF",
-    "description": "SphinxText.xls, row 3136"
+    "message": "WIDESCREEN==OFF"
   },
   "HT_Text_Menu_Volume": {
-    "message": "VOLUME",
-    "description": "SphinxText.xls, row 3137"
+    "message": "VOLUME"
   },
   "HT_Text_Menu_SoundFX": {
-    "message": "SOUND=FX",
-    "description": "SphinxText.xls, row 3138"
+    "message": "SOUND=FX"
   },
   "HT_Text_Menu_Music": {
-    "message": "MUSIC",
-    "description": "SphinxText.xls, row 3139"
+    "message": "MUSIC"
   },
   "HT_Text_Menu_SurroundON": {
-    "message": "SURROUND",
-    "description": "SphinxText.xls, row 3140"
+    "message": "SURROUND"
   },
   "HT_Text_Menu_SurroundOFF": {
-    "message": "STEREO",
-    "description": "SphinxText.xls, row 3141"
+    "message": "STEREO"
   },
   "HT_Text_Menu_Mono": {
-    "message": "MONO",
-    "description": "SphinxText.xls, row 3142"
+    "message": "MONO"
   },
   "HT_Text_Menu_Videos": {
-    "message": "VIDEOS",
-    "description": "SphinxText.xls, row 3143"
+    "message": "VIDEOS"
   },
   "HT_Text_Menu_QuitLevel": {
-    "message": "QUIT=LEVEL",
-    "description": "SphinxText.xls, row 3144"
+    "message": "QUIT=LEVEL"
   },
   "HT_Text_Menu_NTSC": {
-    "message": "FRAME=RATE==60",
-    "description": "SphinxText.xls, row 3145"
+    "message": "FRAME=RATE==60"
   },
   "HT_Text_Menu_PAL": {
-    "message": "FRAME=RATE==50",
-    "description": "SphinxText.xls, row 3146"
+    "message": "FRAME=RATE==50"
   },
   "HT_Text_Menu_QuitQuestion": {
-    "message": "Quit game? ",
-    "description": "SphinxText.xls, row 3147"
+    "message": "Quit game? "
   },
   "HT_Text_Menu_Paused": {
-    "message": "PAUSE",
-    "description": "SphinxText.xls, row 3148"
+    "message": "PAUSE"
   },
   "HT_Text_Menu_QuitLevQuestion": {
-    "message": "Quit level?",
-    "description": "SphinxText.xls, row 3149"
+    "message": "Quit level?"
   },
   "HT_Text_Menu_StartGame": {
-    "message": "Start Game",
-    "description": "SphinxText.xls, row 3150"
+    "message": "Start Game"
   },
   "HT_Text_Menu_SaveOver": {
-    "message": "Save over this game",
-    "description": "SphinxText.xls, row 3151"
+    "message": "Save over this game"
   },
   "HT_Text_Menu_UseSlot": {
-    "message": "Use this slot",
-    "description": "SphinxText.xls, row 3152"
+    "message": "Use this slot"
   },
   "HT_Text_Menu_LoadGame": {
-    "message": "Load this game",
-    "description": "SphinxText.xls, row 3153"
+    "message": "Load this game"
   },
   "HT_Text_Menu_EmptySlot": {
-    "message": "[ empty ]",
-    "description": "SphinxText.xls, row 3154"
+    "message": "[ empty ]"
   },
   "HT_Text_Menu_CorruptSlot": {
-    "message": "[ corrupt ]",
-    "description": "SphinxText.xls, row 3155"
+    "message": "[ corrupt ]"
   },
   "HT_Text_Menu_Scarabs": {
-    "message": " Scarabs",
-    "description": "SphinxText.xls, row 3156"
+    "message": " Scarabs"
   },
   "HT_Text_Menu_InvertON": {
-    "message": "INVERT=CAMERA==ON",
-    "description": "SphinxText.xls, row 3157"
+    "message": "INVERT=CAMERA==ON"
   },
   "HT_Text_Menu_InvertOFF": {
-    "message": "INVERT=CAMERA==OFF",
-    "description": "SphinxText.xls, row 3158"
+    "message": "INVERT=CAMERA==OFF"
   },
   "HT_Text_Menu_SwapXYON": {
-    "message": "SWAP=CAMERA=X==ON",
-    "description": "SphinxText.xls, row 3159"
+    "message": "SWAP=CAMERA=X==ON"
   },
   "HT_Text_Menu_SwapXYOFF": {
-    "message": "SWAP=CAMERA=X==OFF",
-    "description": "SphinxText.xls, row 3160"
+    "message": "SWAP=CAMERA=X==OFF"
   },
   "HT_Text_Menu_Cancel": {
-    "message": "CANCEL",
-    "description": "SphinxText.xls, row 3161"
+    "message": "CANCEL"
   },
   "HT_Text_Menu_Reset": {
-    "message": "RESET",
-    "description": "SphinxText.xls, row 3162"
+    "message": "RESET"
   },
   "HT_Text_Credits1": {
-    "message": "\\n\\nTHQ Nordic GmbH\n\\n\\n\n\\nProgrammer & PC Conversion:\n\\nIsmael Ferreras Morezuelas (Swyter)\n\\n\n\\nExecutive Producer:\n\\nReinhard Pollice\n\\n \n\\nLocalization Manager:\n\\nGennaro Giani\n\\n \n\\nPR & Marketing Director:   \n\\nPhilipp Brock\n\\n\n\\nPR & Marketing:\n\\nFlorian Emmerich\n\\nStephanie Harman\n\\nLina Berehi\n\\n\n\\nPublishing Director:\n\\nJan Binsmaier\n\\n\n\\nPublishing Project Management:\n\\nBarbara Kugler\n\\n\n\\nSocial Media Manager: \n\\nManuel Karl\n\\n\n\\nLead Graphic Artist:\n\\nErnst Satzinger\n\\n\n\\nGraphic Asset Assistant: \n\\nTobias Grimus\n\\nPeter Hambsch\n\\nJanet Weiss\n\\n \n\\nAge Rating Coordinator:\n\\nThomas Reisinger\n\\n\n\\nWeb Developer:\n\\nNina Trabe\n\\n\n\\nSales Director:\n\\nGeorg Klotzberg\n\\n \n\\nSales:\n\\nReinhold Schor\n\\nNik Blower\n\\nIan Warley\n\\nJeremy Soulet\n\\n \n\\nDigital Distribution:\n\\nThomas Reisinger\n\\nTim Grainer\n\\n \n\\nManufacturing:\n\\nAnton Seicarescu\n\\n \n\\nAccounting & Office Management:\n\\nMarion Mayer\n\\nAnton Seicarescu\n\\n \n\\nBusiness & Product Development Director: \n\\nReinhard Pollice\n\\n \n\\nTHQ Nordic Management:\n\\nKlemens Kreuzer\n\\nLars Wingefors\n\\n  \n\\nTHQ Nordic Inc.\n\\nAdrienne Lauer\n\\nEric Wuestmann\n\\nKlemens Kreuzer\n\\n\n\\n\\n\\nDesigned and developed by\\nEurocom Entertainment Software\n\\n\\n\\nPRODUCTION\n\\nVictor Garrido\n\\nPadraig Crowley\n\\n\n\\nGAME PROGRAMMING\n\\nMartin Hall\n\\nRichard Teather\n\\nChris Jordan\n\\nDaniel Peake\n\\nGraeme Richardson\n\\nGraham Reeves\n\\nLenny Johnson\n\\nMat Sneap\n\\n\n\\nENVIRONMENTS\n\\nJoaquin Catala Retortillo\n\\nAdrian Mannion\n\\nAlex Huguet Paredes\n\\nAna Amat Marco\n\\nColin Garrat\n\\nDavid Munoz Velazquez\n\\nLuis Gomez Guzman\n\\nStefan Scheffers\n\\nWilli Hammes\n\\n\n\\nCHARACTERS/ASSETS\n\\nJulian Romero \n\\nAbraham Meneu Oset\n\\nAmanda Barlow\n\\nBarry Lawless\n\\nJuan Solis\n\\nLars Verhoeff\n\\nPaul Harrison\n\\n\n\\nLEVEL DESIGN\n\\nMartin Kilcoyne\n\\nAndy Collins\n\\nDarren Weekes\n\\nJohn Barker\n\\nKarl Gillott\n\\nPhil Bennett\n\\nStuart Bee\n\\n\n\\nANIMATION\n\\nJose Luis Garcia Camara\n\\nAlberto Corral Arencibia\n\\nBobby Stockport\n\\nCarlos Fernandez Puertolas\n\\nDaniel Meitin Roca\n\\nEnrique Oliva\n\\nSantiago Colomo Martinez\n\\nSyd Franklin\n\\n\n\\nENGINE PROGRAMMING\n\\nChris Jackson\n\\nIan Denny\n\\nAndy Hutchings\n\\nAshley Finney\n\\nDave Looker\n\\nJL\n\\nJulian Vaughan\n\\nKev Stainwright\n\\nShane Clark\n\\nSteven Walker\n\\nTim Rogers\n\\n\n\\nTOOLS\n\\nAndy Mitchell\n\\nBob Smith\n\\nDiego Garcia Huerta\n\\nJim Makin\n\\nKev Marks\n\\nKevin Thacker\n\\n\n\\nAUDIO\n\\nSteve Duckworth\n\\nDuncan Bradshaw\n\\n\n\\nQA\n\\nMichael Robinson\n\\nLouise Sargison\n\\nAndrew Dilks\n\\nAndrew Green\n\\nChristopher Pilkington\n\\nDave Smith\n\\nDominic Hallam\n\\nDominic Hills\n\\nJamie Small\n\\nMatthew Gilchrist\n\\nOliver Madden\n\\nPeter Barrett\n\\nRichard Charles\n\\n\n\\n\n\\nSPECIAL THANKS\n\\nAndrew Dilks\n\\nBrian Riordan\n\\nChris Allen\n\\nChris Boyle\n\\nClive Stevenson\n\\nDuncan Hewitt\n\\nHelen Jones\n\\nHenk Nieborg\n\\nHugh Binns\n\\nJoe Lewis\n\\nJohn Parr\n\\nJosh Andrews\n\\nLasse Louhento\n\\nLudovic Le Camus\n\\nMark Potente\n\\nMartin McBain\n\\nMatt Dixon\n\\nMatt Farrell\n\\nMichael Hirst\n\\nPhil Dobson\n\\nPhil Hackney\n\\nRichard Foster\n\\nRob Berry\n\\nSteve Gratton\n\\nTom Noone\n\\nUlf Dahl",
-    "description": "SphinxText.xls, row 3163"
+    "message": "\\n\\nTHQ Nordic GmbH\n\\n\\n\n\\nProgrammer & PC Conversion:\n\\nIsmael Ferreras Morezuelas (Swyter)\n\\n\n\\nExecutive Producer:\n\\nReinhard Pollice\n\\n \n\\nLocalization Manager:\n\\nGennaro Giani\n\\n \n\\nPR & Marketing Director:   \n\\nPhilipp Brock\n\\n\n\\nPR & Marketing:\n\\nFlorian Emmerich\n\\nStephanie Harman\n\\nLina Berehi\n\\n\n\\nPublishing Director:\n\\nJan Binsmaier\n\\n\n\\nPublishing Project Management:\n\\nBarbara Kugler\n\\n\n\\nSocial Media Manager: \n\\nManuel Karl\n\\n\n\\nLead Graphic Artist:\n\\nErnst Satzinger\n\\n\n\\nGraphic Asset Assistant: \n\\nTobias Grimus\n\\nPeter Hambsch\n\\nJanet Weiss\n\\n \n\\nAge Rating Coordinator:\n\\nThomas Reisinger\n\\n\n\\nWeb Developer:\n\\nNina Trabe\n\\n\n\\nSales Director:\n\\nGeorg Klotzberg\n\\n \n\\nSales:\n\\nReinhold Schor\n\\nNik Blower\n\\nIan Warley\n\\nJeremy Soulet\n\\n \n\\nDigital Distribution:\n\\nThomas Reisinger\n\\nTim Grainer\n\\n \n\\nManufacturing:\n\\nAnton Seicarescu\n\\n \n\\nAccounting & Office Management:\n\\nMarion Mayer\n\\nAnton Seicarescu\n\\n \n\\nBusiness & Product Development Director: \n\\nReinhard Pollice\n\\n \n\\nTHQ Nordic Management:\n\\nKlemens Kreuzer\n\\nLars Wingefors\n\\n  \n\\nTHQ Nordic Inc.\n\\nAdrienne Lauer\n\\nEric Wuestmann\n\\nKlemens Kreuzer\n\\n\n\\n\\n\\nDesigned and developed by\\nEurocom Entertainment Software\n\\n\\n\\nPRODUCTION\n\\nVictor Garrido\n\\nPadraig Crowley\n\\n\n\\nGAME PROGRAMMING\n\\nMartin Hall\n\\nRichard Teather\n\\nChris Jordan\n\\nDaniel Peake\n\\nGraeme Richardson\n\\nGraham Reeves\n\\nLenny Johnson\n\\nMat Sneap\n\\n\n\\nENVIRONMENTS\n\\nJoaquin Catala Retortillo\n\\nAdrian Mannion\n\\nAlex Huguet Paredes\n\\nAna Amat Marco\n\\nColin Garrat\n\\nDavid Munoz Velazquez\n\\nLuis Gomez Guzman\n\\nStefan Scheffers\n\\nWilli Hammes\n\\n\n\\nCHARACTERS/ASSETS\n\\nJulian Romero \n\\nAbraham Meneu Oset\n\\nAmanda Barlow\n\\nBarry Lawless\n\\nJuan Solis\n\\nLars Verhoeff\n\\nPaul Harrison\n\\n\n\\nLEVEL DESIGN\n\\nMartin Kilcoyne\n\\nAndy Collins\n\\nDarren Weekes\n\\nJohn Barker\n\\nKarl Gillott\n\\nPhil Bennett\n\\nStuart Bee\n\\n\n\\nANIMATION\n\\nJose Luis Garcia Camara\n\\nAlberto Corral Arencibia\n\\nBobby Stockport\n\\nCarlos Fernandez Puertolas\n\\nDaniel Meitin Roca\n\\nEnrique Oliva\n\\nSantiago Colomo Martinez\n\\nSyd Franklin\n\\n\n\\nENGINE PROGRAMMING\n\\nChris Jackson\n\\nIan Denny\n\\nAndy Hutchings\n\\nAshley Finney\n\\nDave Looker\n\\nJL\n\\nJulian Vaughan\n\\nKev Stainwright\n\\nShane Clark\n\\nSteven Walker\n\\nTim Rogers\n\\n\n\\nTOOLS\n\\nAndy Mitchell\n\\nBob Smith\n\\nDiego Garcia Huerta\n\\nJim Makin\n\\nKev Marks\n\\nKevin Thacker\n\\n\n\\nAUDIO\n\\nSteve Duckworth\n\\nDuncan Bradshaw\n\\n\n\\nQA\n\\nMichael Robinson\n\\nLouise Sargison\n\\nAndrew Dilks\n\\nAndrew Green\n\\nChristopher Pilkington\n\\nDave Smith\n\\nDominic Hallam\n\\nDominic Hills\n\\nJamie Small\n\\nMatthew Gilchrist\n\\nOliver Madden\n\\nPeter Barrett\n\\nRichard Charles\n\\n\n\\n\n\\nSPECIAL THANKS\n\\nAndrew Dilks\n\\nBrian Riordan\n\\nChris Allen\n\\nChris Boyle\n\\nClive Stevenson\n\\nDuncan Hewitt\n\\nHelen Jones\n\\nHenk Nieborg\n\\nHugh Binns\n\\nJoe Lewis\n\\nJohn Parr\n\\nJosh Andrews\n\\nLasse Louhento\n\\nLudovic Le Camus\n\\nMark Potente\n\\nMartin McBain\n\\nMatt Dixon\n\\nMatt Farrell\n\\nMichael Hirst\n\\nPhil Dobson\n\\nPhil Hackney\n\\nRichard Foster\n\\nRob Berry\n\\nSteve Gratton\n\\nTom Noone\n\\nUlf Dahl"
   },
   "HT_Text_Credits2": {
-    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avilés \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts ",
-    "description": "SphinxText.xls, row 3164"
+    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avilés \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts "
   },
   "HT_Text_Credits3": {
-    "message": "\\n\\n\\nTHQ MARKETING \n\\n\\nDIRECTOR, GLOBAL BRAND \n\\nMANAGEMENT \n\\nAlison Quiron \n\\n  \n\\nPRODUCT MARKETING \n\\nMANAGER \n\\nMonica Guerra Robinson \n\\nDamian Garcia \n\\n  \n\\nSENIOR VICE PRESIDENT, \n\\nWORLDWIDE MARKETING \n\\nPeter Dille \n\\n  \n\\nDIRECTOR, CREATIVE \n\\nSERVICES \n\\nHoward Liebeskind \n\\n  \n\\nSENIOR MANAGER, \n\\nCREATIVE SERVICES \n\\nKathy Helgason \n\\n  \n\\nCREATIVE SERVICES MANAGER \n\\nKirk Somdal \n\\n  \n\\nINSTRUCTION MANUAL TEXT \n\\nRusel DeMaria \n\\n  \n\\nDIRECTOR, BUSINESS \n\\nDEVELOPMENT \n\\nDan Kelly \n\\n  \n\\nMANAGER, PRODUCTION \n\\nRESOURCES \n\\nJenae Pash \n\\n  \n\\nPRODUCTION RESOURCES \n\\nCOORDINATOR \n\\nHeather Leonard \n\\n  \n\\nHEAD OF BRAND MANAGEMENT \n\\nMichael Pattison\n\\n\n\\nBRAND MANAGER \n\\nMickey Torode \n\\n  \n\\nDIRECTOR OF LOCALIZATION \n\\nSusanne Dieck \n\\n  \n\\nLOCALIZATION ENGINEER \n\\nBernd Kurtz \n\\n  \n\\nSUBMISSION COORDINATOR \n\\nFlorence Kum \n\\n  \n\\nSPECIAL THANKS \n\\nBrian Farrell \n\\nJack Sorensen \n\\nTerri Schiek \n\\nGermaine Gioia \n\\nLeslie Brown \n\\nBrandy A. Carrillo \n\\nTiffany Ternan \n\\nRobert Riley \n\\nJack Suzuki \n\\nGordon Madison \n\\nRicardo Fischer \n\\nChristian Kenney \n\\nPaul Rivas \n\\nStacey Mendoza \n\\nJulian Brummitt \n\\n  \n\\n--\n\\n  \n\\nThe restored version of Sphinx would not have been possible \n\\nwithout the following open-source libraries:  \n\\n  \n\\n  \n\\nSDL 2.0 - By Sam Lantinga, Ryan C. Gordon and contributors \n\\nhttps://www.libsdl.org (zlib license) \n\\n  \n\\n  \n\\nOpenAL Soft - By Chris Robinson and contributors \n\\nhttp://kcat.strangesoft.net/openal.html (LGPL 2 license) \n\\n  \n\\n  \n\\nxxHash - By Yann Collet and contributors \n\\nhttps://github.com/Cyan4973/xxHash (BSD 2-Clause license) \n\\n  \n\\n  \n\\nstb_image - By Sean Barrett and contributors \n\\nhttps://github.com/nothings/stb (Public domain)",
-    "description": "SphinxText.xls, row 3165"
+    "message": "\\n\\n\\nTHQ MARKETING \n\\n\\nDIRECTOR, GLOBAL BRAND \n\\nMANAGEMENT \n\\nAlison Quiron \n\\n  \n\\nPRODUCT MARKETING \n\\nMANAGER \n\\nMonica Guerra Robinson \n\\nDamian Garcia \n\\n  \n\\nSENIOR VICE PRESIDENT, \n\\nWORLDWIDE MARKETING \n\\nPeter Dille \n\\n  \n\\nDIRECTOR, CREATIVE \n\\nSERVICES \n\\nHoward Liebeskind \n\\n  \n\\nSENIOR MANAGER, \n\\nCREATIVE SERVICES \n\\nKathy Helgason \n\\n  \n\\nCREATIVE SERVICES MANAGER \n\\nKirk Somdal \n\\n  \n\\nINSTRUCTION MANUAL TEXT \n\\nRusel DeMaria \n\\n  \n\\nDIRECTOR, BUSINESS \n\\nDEVELOPMENT \n\\nDan Kelly \n\\n  \n\\nMANAGER, PRODUCTION \n\\nRESOURCES \n\\nJenae Pash \n\\n  \n\\nPRODUCTION RESOURCES \n\\nCOORDINATOR \n\\nHeather Leonard \n\\n  \n\\nHEAD OF BRAND MANAGEMENT \n\\nMichael Pattison\n\\n\n\\nBRAND MANAGER \n\\nMickey Torode \n\\n  \n\\nDIRECTOR OF LOCALIZATION \n\\nSusanne Dieck \n\\n  \n\\nLOCALIZATION ENGINEER \n\\nBernd Kurtz \n\\n  \n\\nSUBMISSION COORDINATOR \n\\nFlorence Kum \n\\n  \n\\nSPECIAL THANKS \n\\nBrian Farrell \n\\nJack Sorensen \n\\nTerri Schiek \n\\nGermaine Gioia \n\\nLeslie Brown \n\\nBrandy A. Carrillo \n\\nTiffany Ternan \n\\nRobert Riley \n\\nJack Suzuki \n\\nGordon Madison \n\\nRicardo Fischer \n\\nChristian Kenney \n\\nPaul Rivas \n\\nStacey Mendoza \n\\nJulian Brummitt \n\\n  \n\\n--\n\\n  \n\\nThe restored version of Sphinx would not have been possible \n\\nwithout the following open-source libraries:  \n\\n  \n\\n  \n\\nSDL 2.0 - By Sam Lantinga, Ryan C. Gordon and contributors \n\\nhttps://www.libsdl.org (zlib license) \n\\n  \n\\n  \n\\nOpenAL Soft - By Chris Robinson and contributors \n\\nhttp://kcat.strangesoft.net/openal.html (LGPL 2 license) \n\\n  \n\\n  \n\\nxxHash - By Yann Collet and contributors \n\\nhttps://github.com/Cyan4973/xxHash (BSD 2-Clause license) \n\\n  \n\\n  \n\\nstb_image - By Sean Barrett and contributors \n\\nhttps://github.com/nothings/stb (Public domain)"
   },
   "HT_Text_FE_Menu_ToggleReverb": {
-    "message": "REVERB",
-    "description": "SphinxText.xls, row 3166"
+    "message": "REVERB"
   },
   "HT_Text_FE_Menu_FieldOfView": {
-    "message": "FIELD OF VIEW",
-    "description": "SphinxText.xls, row 3167"
+    "message": "FIELD OF VIEW"
   },
   "HT_Text_FE_Menu_Resolution": {
-    "message": "RESOLUTION",
-    "description": "SphinxText.xls, row 3168"
+    "message": "RESOLUTION"
   },
   "HT_Text_FE_Menu_ChooseScreen": {
-    "message": "CHOOSE SCREEN",
-    "description": "SphinxText.xls, row 3169"
+    "message": "CHOOSE SCREEN"
   },
   "HT_Text_FE_Menu_ToggleParticles": {
-    "message": "PARTICLES",
-    "description": "SphinxText.xls, row 3170"
+    "message": "PARTICLES"
   },
   "HT_Text_FE_Menu_ToggleParticles_Limited": {
-    "message": "LIMITED",
-    "description": "SphinxText.xls, row 3171"
+    "message": "LIMITED"
   },
   "HT_Text_FE_Menu_ToggleParticles_Soft": {
-    "message": "SOFT",
-    "description": "SphinxText.xls, row 3172"
+    "message": "SOFT"
   },
   "HT_Text_FE_Menu_Anisotropy": {
-    "message": "ANISOTROPIC FILTERING",
-    "description": "SphinxText.xls, row 3173"
+    "message": "ANISOTROPIC FILTERING"
   },
   "HT_Text_FE_Menu_MultiSampling": {
-    "message": "MULTISAMPLING",
-    "description": "SphinxText.xls, row 3174"
+    "message": "MULTISAMPLING"
   },
   "HT_Text_FE_Menu_Vsync": {
-    "message": "VERTICAL SYNC",
-    "description": "SphinxText.xls, row 3175"
+    "message": "VERTICAL SYNC"
   },
   "HT_Text_FE_Menu_VsyncAdaptive": {
-    "message": "ADAPTIVE",
-    "description": "SphinxText.xls, row 3176"
+    "message": "ADAPTIVE"
   },
   "HT_Text_FE_Menu_RestartGame": {
-    "message": "RESTART GAME",
-    "description": "SphinxText.xls, row 3177"
+    "message": "RESTART GAME"
   },
   "HT_Text_FE_ResolutionRequiresRestart": {
-    "message": "Changing the resolution requires restarting the game.",
-    "description": "SphinxText.xls, row 3178"
+    "message": "Changing the resolution requires restarting the game."
   },
   "HT_Text_FE_ResolutionBorderless": {
-    "message": "BORDERLESS",
-    "description": "SphinxText.xls, row 3179"
+    "message": "BORDERLESS"
   },
   "HT_Text_FE_ResolutionWindowed": {
-    "message": "WINDOWED",
-    "description": "SphinxText.xls, row 3180"
+    "message": "WINDOWED"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": " deg",
-    "description": "SphinxText.xls, row 3181"
+    "message": " deg"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The magical darts fired from this powerful tool,<N>regenerate giving you an infinite supply.<P><ES HT_Text_ES_S_HelpText><CNTR>The darts can be used to hit remote targets but they<N>are only powerful enough to damage explosive monsters.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> to assign the <FC 0,128,0>Blowpipe<END FC> to a button.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the <FC 0,128,0>Blowpipe<END FC> is assigned, press<N>the button to enter first person mode.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_FireDart> to fire.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Cancel> to exit<N>from <FC 0,128,0>Blowpipe<END FC> mode.<ES HT_Text_ES_E_HelpText><E>",
-    "description": "SphinxText.xls, row 3182"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The magical darts fired from this powerful tool,<N>regenerate giving you an infinite supply.<P><ES HT_Text_ES_S_HelpText><CNTR>The darts can be used to hit remote targets but they<N>are only powerful enough to damage explosive monsters.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> to assign the <FC 0,128,0>Blowpipe<END FC> to a button.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the <FC 0,128,0>Blowpipe<END FC> is assigned, press<N>the button to enter first person mode.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_FireDart> to fire.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Cancel> to exit<N>from <FC 0,128,0>Blowpipe<END FC> mode.<ES HT_Text_ES_E_HelpText><E>"
   }
 }

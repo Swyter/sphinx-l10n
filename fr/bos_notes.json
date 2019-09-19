@@ -1,322 +1,242 @@
 {
   "HT_Text_NoteTitle_FindBlade01": {
-    "message": "Trouve l'Épée d'Osiris",
-    "description": "SphinxText.xls, row 2538"
+    "message": "Trouve l'Épée d'Osiris"
   },
   "HT_Text_NoteTitle_GetLetter01": {
-    "message": "Trouve la Lettre de Néfertiti",
-    "description": "SphinxText.xls, row 2539"
+    "message": "Trouve la Lettre de Néfertiti"
   },
   "HT_Text_NoteTitle_CollectAmulets01": {
-    "message": "Ramasse les Vieilles Amulettes",
-    "description": "SphinxText.xls, row 2540"
+    "message": "Ramasse les Vieilles Amulettes"
   },
   "HT_Text_NoteTitle_GetToHeliopolis01": {
-    "message": "Rends-toi à Héliopolis",
-    "description": "SphinxText.xls, row 2541"
+    "message": "Rends-toi à Héliopolis"
   },
   "HT_Text_NoteTitle_FindPearls01": {
-    "message": "Trouve 3 Perles d'Abydos",
-    "description": "SphinxText.xls, row 2542"
+    "message": "Trouve 3 Perles d'Abydos"
   },
   "HT_Text_NoteTitle_DonateMuseum01": {
-    "message": "Fais une donation au Musée d'Abydos",
-    "description": "SphinxText.xls, row 2543"
+    "message": "Fais une donation au Musée d'Abydos"
   },
   "HT_Text_NoteTitle_GetAbydosPasscard01": {
-    "message": "Accès réservé Abydos ",
-    "description": "SphinxText.xls, row 2544"
+    "message": "Accès réservé Abydos "
   },
   "HT_Text_NoteTitle_FindImhotep01": {
-    "message": "Trouve Imhotep sur l'Île du Temple solaire",
-    "description": "SphinxText.xls, row 2545"
+    "message": "Trouve Imhotep sur l'Île du Temple solaire"
   },
   "HT_Text_NoteTitle_GetBookOfTheDead01": {
-    "message": "Trouve le Livre des Morts",
-    "description": "SphinxText.xls, row 2546"
+    "message": "Trouve le Livre des Morts"
   },
   "HT_Text_NoteTitle_VisitAnubis01": {
-    "message": "Rejoins Anubis à l'Entrée I du Mur",
-    "description": "SphinxText.xls, row 2547"
+    "message": "Rejoins Anubis à l'Entrée I du Mur"
   },
   "HT_Text_NoteTitle_AnubisQuest01": {
-    "message": "Donne 3 Tatous de feu à Anubis",
-    "description": "SphinxText.xls, row 2548"
+    "message": "Donne 3 Tatous de feu à Anubis"
   },
   "HT_Text_NoteTitle_VisitFarmers01": {
-    "message": "Va à la ferme d'Héliopolis",
-    "description": "SphinxText.xls, row 2549"
+    "message": "Va à la ferme d'Héliopolis"
   },
   "HT_Text_NoteTitle_SaveNomadWife01": {
-    "message": "Sauve l'Épouse du Nomade",
-    "description": "SphinxText.xls, row 2550"
+    "message": "Sauve l'Épouse du Nomade"
   },
   "HT_Text_NoteTitle_DeactivateBeams01": {
-    "message": "Désactive le champ de force retenant l'Épouse du Nomade",
-    "description": "SphinxText.xls, row 2551"
+    "message": "Désactive le champ de force retenant l'Épouse du Nomade"
   },
   "HT_Text_NoteTitle_VisitImhotep01": {
-    "message": "Rejoins Imhotep au Temple solaire",
-    "description": "SphinxText.xls, row 2552"
+    "message": "Rejoins Imhotep au Temple solaire"
   },
   "HT_Text_NoteTitle_CrownQuest01": {
-    "message": "Trouve la Couronne sacrée d'Abydos",
-    "description": "SphinxText.xls, row 2553"
+    "message": "Trouve la Couronne sacrée d'Abydos"
   },
   "HT_Text_NoteTitle_MayorIll01": {
-    "message": "Maladie du Maire",
-    "description": "SphinxText.xls, row 2554"
+    "message": "Maladie du Maire"
   },
   "HT_Text_NoteTitle_SmallCanalCreatures01": {
-    "message": "Tue les monstres du Petit Canal",
-    "description": "SphinxText.xls, row 2555"
+    "message": "Tue les monstres du Petit Canal"
   },
   "HT_Text_NoteTitle_CureMayor01": {
-    "message": "Soigne le Maire d'Abydos",
-    "description": "SphinxText.xls, row 2556"
+    "message": "Soigne le Maire d'Abydos"
   },
   "HT_Text_NoteTitle_VisitKemmet01": {
-    "message": "Donne le message du Médecin à Kemmet",
-    "description": "SphinxText.xls, row 2557"
+    "message": "Donne le message du Médecin à Kemmet"
   },
   "HT_Text_NoteTitle_FindPoliticians01": {
-    "message": "Trouve les Traîtres",
-    "description": "SphinxText.xls, row 2558"
+    "message": "Trouve les Traîtres"
   },
   "HT_Text_NoteTitle_CrownQuest02": {
-    "message": "Trouve la Couronne sacrée d'Uruk",
-    "description": "SphinxText.xls, row 2559"
+    "message": "Trouve la Couronne sacrée d'Uruk"
   },
   "HT_Text_NoteTitle_FindHeliopolisDungeon01": {
-    "message": "Trouve le Temple perdu d'Héliopolis",
-    "description": "SphinxText.xls, row 2560"
+    "message": "Trouve le Temple perdu d'Héliopolis"
   },
   "HT_Text_NoteTitle_CollectRosettaPieces01": {
-    "message": "Récupère les Bouts de Pierre de Rosette",
-    "description": "SphinxText.xls, row 2561"
+    "message": "Récupère les Bouts de Pierre de Rosette"
   },
   "HT_Text_NoteTitle_MeetArchaeologist01": {
-    "message": "Rejoins l'Archéologue au Camp bédouin",
-    "description": "SphinxText.xls, row 2562"
+    "message": "Rejoins l'Archéologue au Camp bédouin"
   },
   "HT_Text_NoteTitle_TranslateObelisks01": {
-    "message": "Traduis les Obélisques d'or d'Héliopolis",
-    "description": "SphinxText.xls, row 2563"
+    "message": "Traduis les Obélisques d'or d'Héliopolis"
   },
   "HT_Text_NoteTitle_SmallObelisk01": {
-    "message": "Ancien Texte traduit",
-    "description": "SphinxText.xls, row 2564"
+    "message": "Ancien Texte traduit"
   },
   "HT_Text_NoteTitle_SmallObelisk02": {
-    "message": "Ancien Texte traduit",
-    "description": "SphinxText.xls, row 2565"
+    "message": "Ancien Texte traduit"
   },
   "HT_Text_NoteTitle_SmallObelisk03": {
-    "message": "Ancien Texte traduit",
-    "description": "SphinxText.xls, row 2566"
+    "message": "Ancien Texte traduit"
   },
   "HT_Text_NoteTitle_SmallObelisk04": {
-    "message": "Ancien Texte traduit",
-    "description": "SphinxText.xls, row 2567"
+    "message": "Ancien Texte traduit"
   },
   "HT_Text_NoteTitle_SmallObelisk05": {
-    "message": "Ancien Texte traduit",
-    "description": "SphinxText.xls, row 2568"
+    "message": "Ancien Texte traduit"
   },
   "HT_Text_NoteTitle_Prophecy": {
-    "message": "L'Ancienne Prophétie de Râ",
-    "description": "SphinxText.xls, row 2569"
+    "message": "L'Ancienne Prophétie de Râ"
   },
   "HT_Text_NoteTitle_TempleTest01": {
-    "message": "Fais le test du Temple d'Uruk",
-    "description": "SphinxText.xls, row 2570"
+    "message": "Fais le test du Temple d'Uruk"
   },
   "HT_Text_NoteTitle_CrownQuest03": {
-    "message": "Trouve la Couronne sacrée d'Héliopolis",
-    "description": "SphinxText.xls, row 2571"
+    "message": "Trouve la Couronne sacrée d'Héliopolis"
   },
   "HT_Text_NoteTitle_MotherQuest01": {
-    "message": "Attrape les Chiens manquants",
-    "description": "SphinxText.xls, row 2572"
+    "message": "Attrape les Chiens manquants"
   },
   "HT_Text_NoteTitle_DefeatSeth01": {
-    "message": "Écrase Seth à Uruk",
-    "description": "SphinxText.xls, row 2573"
+    "message": "Écrase Seth à Uruk"
   },
   "HT_Text_Note_FindBlade01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ta première quête consiste à trouver l'Épée d'Osiris, une arme puissante perdue depuis la nuit des temps dans les environs inhospitaliers du Palais d'Uruk.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2575"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ta première quête consiste à trouver l'Épée d'Osiris, une arme puissante perdue depuis la nuit des temps dans les environs inhospitaliers du Palais d'Uruk.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetLetter01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Récupère la Lettre de Néfertiti et rends-la lui.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2576"
+    "message": "<ES HT_Text_ES_S_BOSStd>Récupère la Lettre de Néfertiti et rends-la lui.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CollectAmulets01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ramasse 8 Vieilles Amulettes et rends-les à ta Tante Séti.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2577"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ramasse 8 Vieilles Amulettes et rends-les à ta Tante Séti.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetToHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>L'Amulette d'Abydos utilisée, Imhotep te demande de te rendre à Héliopolis pour le rejoindre au plus vite.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2578"
+    "message": "<ES HT_Text_ES_S_BOSStd>L'Amulette d'Abydos utilisée, Imhotep te demande de te rendre à Héliopolis pour le rejoindre au plus vite.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindPearls01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Trouve 3 Perles et donne-les à l'Abydosien.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2579"
+    "message": "<ES HT_Text_ES_S_BOSStd>Trouve 3 Perles et donne-les à l'Abydosien.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_DonateMuseum01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Le Conservateur du Musée d'Abydos te fait un cadeau à la première donation.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2580"
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Conservateur du Musée d'Abydos te fait un cadeau à la première donation.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetAbydosPasscard01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Les Gardes du Canal d'Abydos interdisent l'accès à la Salle du Conseil. Tu devrais revenir plus tard, dans ta quête, lorsque tu auras l'autorisation requise.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2581"
+    "message": "<ES HT_Text_ES_S_BOSStd>Les Gardes du Canal d'Abydos interdisent l'accès à la Salle du Conseil. Tu devrais revenir plus tard, dans ta quête, lorsque tu auras l'autorisation requise.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindImhotep01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep se trouve sur l'Île du Temple solaire. Va le voir, il a des informations pour toi.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2582"
+    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep se trouve sur l'Île du Temple solaire. Va le voir, il a des informations pour toi.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetBookOfTheDead01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Cherche le Livre des Morts pour invoquer Khorb-Èye quand tu trouves un Vase canope. Imhotep pense qu'il est dans le Palais maudit.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2583"
+    "message": "<ES HT_Text_ES_S_BOSStd>Cherche le Livre des Morts pour invoquer Khorb-Èye quand tu trouves un Vase canope. Imhotep pense qu'il est dans le Palais maudit.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitAnubis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Anubis a maudit les habitants du Palais maudit. Avec les Ailes d'Ibis, tu peux passer par l'Entrée I du Mur pour rendre visite à Anubis.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2584"
+    "message": "<ES HT_Text_ES_S_BOSStd>Anubis a maudit les habitants du Palais maudit. Avec les Ailes d'Ibis, tu peux passer par l'Entrée I du Mur pour rendre visite à Anubis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_AnubisQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Capture 3 Tatous de feu avec des Insectes chasseurs. Apporte-les à Anubis.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2585"
+    "message": "<ES HT_Text_ES_S_BOSStd>Capture 3 Tatous de feu avec des Insectes chasseurs. Apporte-les à Anubis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitFarmers01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Le Frère du Fermier t'a invité à passer à la ferme d'Héliopolis.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2586"
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Frère du Fermier t'a invité à passer à la ferme d'Héliopolis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SaveNomadWife01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Retrouve l'Épouse du Nomade et sauve-la.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2587"
+    "message": "<ES HT_Text_ES_S_BOSStd>Retrouve l'Épouse du Nomade et sauve-la.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_DeactivateBeams01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Le champ de force retenant l'Épouse du Nomade est alimenté par trois rayons de couleur. Désactive-les.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2588"
+    "message": "<ES HT_Text_ES_S_BOSStd>Le champ de force retenant l'Épouse du Nomade est alimenté par trois rayons de couleur. Désactive-les.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitImhotep01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep te demande de te rendre au Temple solaire, il veut te parler.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2589"
+    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep te demande de te rendre au Temple solaire, il veut te parler.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CrownQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Retrouve la Couronne sacrée d'Abydos et apporte-la à Anubis, à Héliopolis.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2590"
+    "message": "<ES HT_Text_ES_S_BOSStd>Retrouve la Couronne sacrée d'Abydos et apporte-la à Anubis, à Héliopolis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MayorIll01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Le Maire a l'air très malade. Le Conseil d'Abydos pourrait avoir besoin de ton aide.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2591"
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Maire a l'air très malade. Le Conseil d'Abydos pourrait avoir besoin de ton aide.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallCanalCreatures01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Le Garde de l'entrée du Petit Canal t'offre une Amulette de Portail si tu débarrasses le Canal de ses monstres.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2592"
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Garde de l'entrée du Petit Canal t'offre une Amulette de Portail si tu débarrasses le Canal de ses monstres.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CureMayor01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Trouve 5 Plantes médicinales et apporte-les au Médecin du Conseil d'Abydos.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Avec ces plantes, le Médecin préparera un remède pour soigner le Maire.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2593"
+    "message": "<ES HT_Text_ES_S_BOSStd>Trouve 5 Plantes médicinales et apporte-les au Médecin du Conseil d'Abydos.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Avec ces plantes, le Médecin préparera un remède pour soigner le Maire.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitKemmet01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Tu dois donner le message du Médecin à Kemmet, qui habite près du Grand Canal. Il pourra t'aider à trouver les Plantes médicinales.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2594"
+    "message": "<ES HT_Text_ES_S_BOSStd>Tu dois donner le message du Médecin à Kemmet, qui habite près du Grand Canal. Il pourra t'aider à trouver les Plantes médicinales.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindPoliticians01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Trouve les Traîtres qui ont volé la Couronne sacrée d'Abydos et récupère ce qui te revient de droit.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2595"
+    "message": "<ES HT_Text_ES_S_BOSStd>Trouve les Traîtres qui ont volé la Couronne sacrée d'Abydos et récupère ce qui te revient de droit.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CrownQuest02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Retrouve la Couronne sacrée d'Uruk et apporte-la à Anubis, à Héliopolis.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2596"
+    "message": "<ES HT_Text_ES_S_BOSStd>Retrouve la Couronne sacrée d'Uruk et apporte-la à Anubis, à Héliopolis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindHeliopolisDungeon01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Trouve l'entrée du Temple perdu d'Héliopolis. L'Épouse du Pharaon pense qu'elle se trouve dans le Désert Sud d'Héliopolis.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2597"
+    "message": "<ES HT_Text_ES_S_BOSStd>Trouve l'entrée du Temple perdu d'Héliopolis. L'Épouse du Pharaon pense qu'elle se trouve dans le Désert Sud d'Héliopolis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CollectRosettaPieces01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Trouve les 6 Bouts de Pierre de Rosette cachés dans le Temple perdu d'Héliopolis et donne-les à l'Archéologue.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2598"
+    "message": "<ES HT_Text_ES_S_BOSStd>Trouve les 6 Bouts de Pierre de Rosette cachés dans le Temple perdu d'Héliopolis et donne-les à l'Archéologue.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MeetArchaeologist01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Jette un œil aux découvertes de l'Archéologue du Camp bédouin. Tu peux y accéder par le passage sous l'eau, depuis le Palais maudit.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2599"
+    "message": "<ES HT_Text_ES_S_BOSStd>Jette un œil aux découvertes de l'Archéologue du Camp bédouin. Tu peux y accéder par le passage sous l'eau, depuis le Palais maudit.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_TranslateObelisks01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Traduis les 5 Obélisques d'or d'Héliopolis à l'aide de la Pierre de Rosette et dévoile tes découvertes à l'Archéologue du Camp bédouin.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2600"
+    "message": "<ES HT_Text_ES_S_BOSStd>Traduis les 5 Obélisques d'or d'Héliopolis à l'aide de la Pierre de Rosette et dévoile tes découvertes à l'Archéologue du Camp bédouin.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Lorsque l'ère d'Osiris expirera...<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2601"
+    "message": "<ES HT_Text_ES_S_BOSStd>Lorsque l'ère d'Osiris expirera...<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk02": {
-    "message": "<ES HT_Text_ES_S_BOSStd> ...l'ombre de Seth s'étendra sur nous...<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2602"
+    "message": "<ES HT_Text_ES_S_BOSStd> ...l'ombre de Seth s'étendra sur nous...<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...mais un grand guerrier nommé Sphinx,...<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2603"
+    "message": "<ES HT_Text_ES_S_BOSStd>...mais un grand guerrier nommé Sphinx,...<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...l'Élu, surgira pour...<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2604"
+    "message": "<ES HT_Text_ES_S_BOSStd>...l'Élu, surgira pour...<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk05": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...protéger l'Œil éternel de Râ.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2605"
+    "message": "<ES HT_Text_ES_S_BOSStd>...protéger l'Œil éternel de Râ.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_Prophecy": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Lorsque l'ère d'Osiris expirera, l'ombre de Seth s'étendra sur nous, mais un grand guerrier nommé Sphinx, l'Élu, surgira pour protéger l'Œil éternel de Râ.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2606"
+    "message": "<ES HT_Text_ES_S_BOSStd>Lorsque l'ère d'Osiris expirera, l'ombre de Seth s'étendra sur nous, mais un grand guerrier nommé Sphinx, l'Élu, surgira pour protéger l'Œil éternel de Râ.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_TempleTest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Fais le test du Temple d'Uruk et apporte tes trouvailles à l'Urukien.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2607"
+    "message": "<ES HT_Text_ES_S_BOSStd>Fais le test du Temple d'Uruk et apporte tes trouvailles à l'Urukien.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CrownQuest03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Retrouve la Couronne sacrée d'Héliopolis et apporte-la à Anubis.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2608"
+    "message": "<ES HT_Text_ES_S_BOSStd>Retrouve la Couronne sacrée d'Héliopolis et apporte-la à Anubis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MotherQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Attrape les chiens du Palais maudit d'Héliopolis. Remets-les à leur maître.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2609"
+    "message": "<ES HT_Text_ES_S_BOSStd>Attrape les chiens du Palais maudit d'Héliopolis. Remets-les à leur maître.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_DefeatSeth01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ta destinée est d'affronter Seth dans le monde dévasté d'Uruk.<ES HT_Text_ES_E_BOSStd><E>",
-    "description": "SphinxText.xls, row 2610"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ta destinée est d'affronter Seth dans le monde dévasté d'Uruk.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Notes_Test_T1": {
-    "message": "Titre de quête",
-    "description": "SphinxText.xls, row 2612"
+    "message": "Titre de quête"
   },
   "HT_Text_Notes_Test_D1": {
-    "message": "<FC 100,100,60> Description de quête",
-    "description": "SphinxText.xls, row 2613"
+    "message": "<FC 100,100,60> Description de quête"
   },
   "HT_Text_Notes_Test_T2": {
-    "message": "Trouve le Palais de Seth",
-    "description": "SphinxText.xls, row 2614"
+    "message": "Trouve le Palais de Seth"
   },
   "HT_Text_Notes_Test_D2": {
-    "message": "<FC 100,100,60>Seth se cache dans son Palais secret pour orchestrer la destruction d'Héliopolis...<END FC><P><FC 100,100,60>Repère sa tanière et met un terme à ses plans...<END FC><P><FC 100,100,60>Pour trouver son repère, parle à l'Ancien du village hittite. Apporte-lui du bon whisky pour lui délier la langue.<END FC>",
-    "description": "SphinxText.xls, row 2615"
+    "message": "<FC 100,100,60>Seth se cache dans son Palais secret pour orchestrer la destruction d'Héliopolis...<END FC><P><FC 100,100,60>Repère sa tanière et met un terme à ses plans...<END FC><P><FC 100,100,60>Pour trouver son repère, parle à l'Ancien du village hittite. Apporte-lui du bon whisky pour lui délier la langue.<END FC>"
   },
   "HT_Text_Notes_Test_T3": {
-    "message": "Passe le message du Roi Sobek d'Akaria.",
-    "description": "SphinxText.xls, row 2616"
+    "message": "Passe le message du Roi Sobek d'Akaria."
   },
   "HT_Text_Notes_Test_D3": {
-    "message": "<FC 100,100,60> Après avoir découvert les intentions d'Ishka qui encourage la guerre entre Abydos et Akaria...<END FC><P><FC 100,100,60>le roi Sobek te charge de donner un avis de trêve au Maire d'Abydos.<END FC>",
-    "description": "SphinxText.xls, row 2617"
+    "message": "<FC 100,100,60> Après avoir découvert les intentions d'Ishka qui encourage la guerre entre Abydos et Akaria...<END FC><P><FC 100,100,60>le roi Sobek te charge de donner un avis de trêve au Maire d'Abydos.<END FC>"
   },
   "HT_Text_Notes_Test_T4": {
-    "message": "Trouve un remède pour le Maire.",
-    "description": "SphinxText.xls, row 2618"
+    "message": "Trouve un remède pour le Maire."
   },
   "HT_Text_Notes_Test_D4": {
-    "message": "<FC 100,100,60>Le Maire d'Abydos est malade. Va voir le Médecin et tâche de trouver un remède...<END FC><P><FC 100,100,60>Le Médecin vit près du Canal traversant Abydos d'Est en Ouest.<END FC>",
-    "description": "SphinxText.xls, row 2619"
+    "message": "<FC 100,100,60>Le Maire d'Abydos est malade. Va voir le Médecin et tâche de trouver un remède...<END FC><P><FC 100,100,60>Le Médecin vit près du Canal traversant Abydos d'Est en Ouest.<END FC>"
   }
 }
