@@ -8,7 +8,7 @@ DEAD_TEXT_COLUMN = 3 - 1 # swy: this is hardcoded for the column in SphinxText.x
 
 lang = {
     'MARKER_ENGLISH_US': 'en',
-    'MARKER_ENGLISH_UK': 'en-UK',
+    'MARKER_ENGLISH_UK': 'en-GB',
     'MARKER_GERMAN':     'de',
     'MARKER_FRENCH':     'fr',
     'MARKER_SPANISH':    'es',
@@ -80,7 +80,7 @@ for cur in lang:
 
             if out: # swy: don't sort the files so that they appear in the correct section order, simplify the marker format instead
                 with open("%s/%s.json" % (lang[cur], cur_section.replace("M_", "").lower()), 'w') as outfile:
-                    json.dump(out, outfile, indent=2)
+                    json.dump(out, outfile, indent=2, ensure_ascii=False)
 
             cur_section_count = cur_section_count + 1
             cur_section = row[0];

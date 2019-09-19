@@ -1,6 +1,6 @@
 [main]
 host = https://www.transifex.com
-lang_map = pt_BR: pt-BR, en_US: en-US, en_UK: en-UK
+lang_map = pt_BR: pt-BR, en_US: en-US, en_GB: en-GB
 
 [sphinx-l10n.abydos]
 file_filter = <lang>/abydos.json
