@@ -22,11 +22,12 @@ ignored_section_markers = [ 'M_STATIC_TEXT' ]
 
 data_read = []
 
+# swy: parse the SphinxText.csv and load it as a row-major list
 with open('SphinxText.csv', 'r') as f:
     reader = csv.reader(f, delimiter=',', quotechar='"')
     data_read = [row for row in reader]
-    #print(data_read[35])
 
+# swy: verify that it's the real thing; it can also be SHEET_TYPE_DATA
 if (data_read[0][0] != "SHEET_TYPE_TEXT"):
     print("error: this needs to be a EuroLand text spreadsheet dump.")
     exit(-1)
@@ -46,12 +47,14 @@ MARKER_LANGUAGE_END_COLUMN   = data_read[HEADER_ROW].index("MARKER_LANGUAGE_END"
 
 for cur in lang:
     # swy: get the column index for the current language
-    cur_col_idx = data_read[HEADER_ROW].index(cur)
-    print(cur, lang[cur], "INDEX THING", cur_col_idx)
+    CUR_LANG_COLUMN = data_read[HEADER_ROW].index(cur)
+    print(cur, lang[cur], "INDEX THING", CUR_LANG_COLUMN)
 
+    # swy: create a folder with the language code if it's not already there
     if not os.path.exists(lang[cur]):
         os.mkdir(lang[cur])
 
+    # swy: reset the section and output data; once per language in the loop
     cur_section = ""
     cur_section_count = 0
     out = collections.OrderedDict()
@@ -89,7 +92,7 @@ for cur in lang:
             print(">> cur_section", cur_section)
             continue
 
-        # swy: skip empty cells (again, check for hashcodes)
+        # swy: skip empty cells (again, but only check for hashcodes)
         if not row[MARKER_HASHCODE_COLUMN]:
             continue
 
@@ -105,12 +108,12 @@ for cur in lang:
         #      https://docs.transifex.com/formats/chrome-json
         out[row[MARKER_HASHCODE_COLUMN]] = collections.OrderedDict()
 
-        out[row[MARKER_HASHCODE_COLUMN]]["message"]     = row[cur_col_idx]
+        out[row[MARKER_HASHCODE_COLUMN]]["message"]     = row[CUR_LANG_COLUMN]
         #out[row[MARKER_HASHCODE_COLUMN]]["description"] = "SphinxText.xls, row %u" % (i + 1) # swy: starts at zero
 
         #print("--", row[MARKER_HASHCODE_COLUMN])
 
-        #print(row[MARKER_HASHCODE_COLUMN], row[cur_col_idx],  len(row))
+        #print(row[MARKER_HASHCODE_COLUMN], row[CUR_LANG_COLUMN],  len(row))
 
 #print(out)
 
