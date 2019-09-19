@@ -1,0 +1,530 @@
+{
+  "HT_Text_Urk_3beams_Women_Freed1a": {
+    "message": "\uac10\uc0ac\ud569\ub2c8\ub2e4 \uc120\uc0dd\ub2d8, \uc800\ub97c \uad6c\ud574\uc8fc\uc154\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4. \uc5ec\uae30\ub294 \ub108\ubb34 \ub054\ucc0d\ud588\uc5b4\uc694!<E>",
+    "description": "SphinxText.xls, row 2064"
+  },
+  "HT_Text_Urk_3beams_Women_Freed1b": {
+    "message": "\ub0a8\ud3b8\uc5d0\uac8c \ucd5c\ub300\ud55c \ube68\ub9ac \ub3cc\uc544\uac00\uc57c\ub9cc \ud574\uc694. \uc81c \uac71\uc815\uc73c\ub85c \uc815\uc2e0\uc774 \ub098\uac00\ubc84\ub838\uc744 \uac70\uc5d0\uc694!<E>",
+    "description": "SphinxText.xls, row 2065"
+  },
+  "HT_Text_Urk_3beams_Women_Freed1c": {
+    "message": "\ubd80\ub514, \uc800\uc640 \ud568\uaed8 \ub3cc\uc544\uac00\uc694. \uc81c \ub0a8\ud3b8\uc774 \uc0ac\ub791\ud558\ub294 \uc544\ub0b4\ub97c \uad6c\ud574\uc900 \uc601\uc6c5\uc5d0\uac8c \uac10\uc0ac \ub4dc\ub9ac\uace0 \uc2f6\uc5b4\ud560 \uac70\uc5d0\uc694!<E>",
+    "description": "SphinxText.xls, row 2066"
+  },
+  "HT_Text_Uruk_Intro_Entrance1a": {
+    "message": "<EFF><EPO>\ubcf4\uc544\ub77c, \uc800\uac83\uc774 \uadf8 \uc545\uba85 \ub192\uc740 <FC 128,64,0>\uc6b0\ub8e8\ud06c\uc758 \uc131<END FC>\uc774\ub2e4... <P>\uc800 \uc131 \uc548\uc5d0\uc11c \ubb34\uc2a8 \uc77c\uc774 \ubc8c\uc5b4\uc9c0\ub294 \uc9c0\ub294 \uc544\ubb34\ub3c4 \ubaa8\ub978\ub2e4... \uc800 \uae30\uad34\ud55c \uc131\uc73c\ub85c \ub4e4\uc5b4\uac00\uc11c \ub418\ub3cc\uc544\uc628 \uc790\uac00 \uc544\ubb34\ub3c4 \uc5c6\uc73c\ub2c8!<E>",
+    "description": "SphinxText.xls, row 2068"
+  },
+  "HT_Text_Uruk_Intro_Entrance1b": {
+    "message": "\uc800\uae30\ub97c \ubcf4\uc544\ub77c! \uc800\ucc98\ub7fc \uc19f\uad6c\uce58\ub294 \ud654\uc5fc \uad11\uc120\uc774 \uc791\ub3d9 \uc911\uc774\ub2e4. \ub9e4\uc6b0 \uac71\uc815\uc2a4\ub7fd\uad6c\ub098. <E>",
+    "description": "SphinxText.xls, row 2069"
+  },
+  "HT_Text_Uruk_Intro_Entrance1b1": {
+    "message": "<EFF><EPO>\uc804\uc124\uc5d0 \uc758\ud558\uba74 \uc800\uac83\uc740 <FC 128,64,0>\uc6b0\ub8e8\ud06c<END FC>\uc640 \uadf8 \uc678\uacfd\uc744 \uac15\ub825\ud55c \ud798\uc73c\ub85c \ubcf4\ud638\ud55c\ub2e4\uace0 \ud55c\ub2e4.<P>\uc774 \uc9c0\uc5ed\uc740 \ub36b\uacfc \uc7a5\uc560\ubb3c\ub4e4\ub85c \uac00\ub4dd\ud558\uc9c0. \ud558\uc9c0\ub9cc \uc800 \uad11\uc120\ucc98\ub7fc \uc9c0\ub3c5\ud55c \uac83\uc740 \uc5c6\ub2e4. <E>",
+    "description": "SphinxText.xls, row 2070"
+  },
+  "HT_Text_Uruk_Intro_Entrance1c": {
+    "message": "\uc5ec\uae30\ubd80\ud130\ub294 \ub3c4\uc6b8 \uc218 \uc5c6\uc744 \uac83 \uac19\uad6c\ub098... \uc548\ud0c0\uae5d\uc9c0\ub9cc \ub354 \uc774\uc0c1 \ub3d9\ud589\ud558\uc9c0 \ubabb\ud560 \uac83 \uac19\ub2e4... <E>",
+    "description": "SphinxText.xls, row 2071"
+  },
+  "HT_Text_Uruk_Intro_Entrance1c1": {
+    "message": "\uc774\uc81c \ub108\ud76c \ub458\uc740 \ub9c8\ubc95\uc758 <FC 0,128,0>\uc624\uc2dc\ub9ac\uc2a4\uc758 \uac80<END FC>\uc744 \ucc3e\uc544\ub0b4\uc57c\ub9cc \ud55c\ub2e4. \ub458\uc774 \ud611\ub825\ud574\uc57c\ub9cc \uadf8\uac83\uc744 \ucc3e\uc744 \uc218\uac00 \uc788\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2072"
+  },
+  "HT_Text_Uruk_Intro_Entrance1c2THQ": {
+    "message": "\uc774\uc81c, \ub108\ud76c \ub458\uc740 \uc774 \uc9c0\uc810\uc5d0\uc11c \uac08\ub77c\uc838\uc57c \ud560 \ud544\uc694\uac00 \uc788\ub2e4. \ud638\ub8e8\uc2a4\ub294 <FC 128,64,0>\uc6b0\ub8e8\ud06c<END FC>\uc758 \uc5b8\ub355\ub4e4\uc744 \uc9c0\ub098 \uacc4\uc18d \uac00\uc57c \ud558\uace0, \uc2a4\ud551\ud06c\uc2a4, \ub108\ub294 \uc774 \ud3ec\ud138\uc744 \ud1b5\uacfc\ud558\uc5ec\uc57c\ub9cc \ud55c\ub2e4. <E>",
+    "description": "SphinxText.xls, row 2073"
+  },
+  "HT_Text_Uruk_Intro_Entrance1d": {
+    "message": "\ub108\ud76c\ub4e4\uc758 \ubaa8\ud5d8\uc5d0 \ud589\uc6b4\uc744 \ube48\ub2e4, \ub098\uc758 \uc6a9\uac10\ud558\uace0 \uc80a\uc740 \ubaa8\ud5d8\uac00\ub4e4\uc774\uc5ec!<W 60>",
+    "description": "SphinxText.xls, row 2074"
+  },
+  "HT_Text_Uruk_Intro_Entrance2a": {
+    "message": "\uc800\uae30 \ub3cc\ub85c \ub41c \uac74\ubb3c\uc5d0 \ubb34\uc5c7\uc778\uac00 \uc7ac\ubbf8\uc788\ub294\uac8c \uc788\uc744 \uac83 \uac19\uc544. \uac00\uc11c \uc870\uc0ac\ud574 \ubcfc \ud14c\ub2c8 \ub108\ub294 \uc774 \uc9c0\uc5ed\uc744 \uc870\uc0ac\ud574\uc918.<E>",
+    "description": "SphinxText.xls, row 2075"
+  },
+  "HT_Text_Uruk_Intro_Entrance2a1THQ": {
+    "message": "\uc88b\uc544. \ud589\ub3d9 \uc2dc\uac04\uc774\uad70. \ub9d0\uc774 \ub108\ubb34 \uae38\uc5b4\uc838\uc11c \uc9c0\uaca8\uc6cc\uc9c0\uace0 \uc788\ub294 \ucc38\uc778\ub370. \uc800\uacf3\uc5d0 \ub0b4\ub824\uac00\uc11c \ubb58 \ucc3e\uc744 \uc218 \uc788\ub294\uc9c0 \ubd10\uc57c\uaca0\ub2e4. \uadf8 \ubb38\uc744 \ud1b5\ud574\uac00\ub77c. <FC 128,64,0>\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4<END FC>\uc5d0\uc11c \ub9cc\ub098\uc790.<E>",
+    "description": "SphinxText.xls, row 2076"
+  },
+  "HT_Text_Uruk_intro_01a_Horus_TooHigh": {
+    "message": "\uc5b4\uc774, \uc2a4\ud551\ud06c\uc2a4! \uc5ec\uae30 \uc6a9\uc554\ud3ed\ud3ec \ucabd\uc5d0 \uc788\ub2e4. \uc774\ub9ac \uac74\ub108\uc640, \ubcf4\uc5ec\uc904 \uac8c \uc788\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2077"
+  },
+  "HT_Text_Uruk_intro_01_Horus_CallingUpHere1": {
+    "message": "\ud760, \ub108\ud55c\ud14c\ub294 \ub108\ubb34 \ub192\uc544, \uadf8\ub807\uc9c0? \uc65c \uc2a4\uc2b9\ub2d8\uc774 \ub108\uc640 \ud568\uaed8 \uac00\ub77c\uace0 \uace0\uc9d1\uc744 \ud53c\uc6b0\uc2dc\ub294 \uc9c0 \ubaa8\ub974\uaca0\uad70. \ub108 \ub54c\ubb38\uc5d0 \ub2a6\uc5b4\uc9c0\uace0 \uc788\uc796\uc544!<E> ",
+    "description": "SphinxText.xls, row 2078"
+  },
+  "HT_Text_Uruk_intro_01_Horus_CallingUpHere2": {
+    "message": "\uc5ec\uae30 \uc704\ucabd\uc73c\ub85c \uc624\ub294 \ub2e4\ub978 \uae38\uc744 \ucc3e\uc544\ubd10\ub77c. \ud765\ubbf8 \uc788\ub294 \uac83\uc744 \ucc3e\uc558\ub294\ub370 \ub108\uc5d0\uac8c \uc5b4\ub5bb\uac8c \uc791\ub3d9\ud558\ub294 \uc9c0 \ubcf4\uc5ec\uc904 \ud544\uc694\uac00 \uc788\ub2e4.<E> ",
+    "description": "SphinxText.xls, row 2079"
+  },
+  "HT_Text_Uruk_intro_01_Horus_CallingUpHere3": {
+    "message": "\ub124 \ub3c4\uc6c0 \uc5c6\uc774\ub3c4 \ub098\ub294 \uadf8 \uac80\uc744 \ucc3e\uc744 \uc218 \uc788\ub294 \ucda9\ubd84\ud55c \ub2a5\ub825\uc774 \uc788\uc5b4. \uc774 \uc704\ub85c \uc5b4\ub5bb\uac8c \uc62c\ub77c \uc62c \uac74\uc9c0\ub294 \uc2a4\uc2a4\ub85c \uc54c\uc544\ub0b4.<E>",
+    "description": "SphinxText.xls, row 2080"
+  },
+  "HT_Text_Uruk_intro_02_Sphinx_TalkToad1": {
+    "message": "\ud264! \ub108\ub294 \ub108\ubb34 \ub9d0\ub790\uad70!<E>",
+    "description": "SphinxText.xls, row 2081"
+  },
+  "HT_Text_Uruk_intro_02_Sphinx_TalkToad2": {
+    "message": "\ubc30\ub294 \uace0\ud504\uc9c0\ub9cc \ub108 \uac19\uc740 \ub188\uc744 \uc7a1\uc544 \uba39\uc744 \uc815\ub3c4\ub85c \uad76\uc740 \uac74 \uc544\ub2c8\uc57c...<E>",
+    "description": "SphinxText.xls, row 2082"
+  },
+  "HT_Text_Uruk_intro_02_Sphinx_TalkToad3": {
+    "message": "<FC 0,128,0>\ucf54\ucf54\ub11b<END FC> \uba87 \uac1c\ub9cc \uba39\uc5c8\uc73c\uba74... <FC 0,128,0>\ucf54\ucf54\ub11b<END FC> \uba39\uc5b4\ubcf8 \uc9c0 \uc815\ub9d0 \uc624\ub798\ub418\uc5c8\ub2e4. \uc74c... \uc0dd\uac01\ub9cc \ud574\ub3c4...<E>",
+    "description": "SphinxText.xls, row 2083"
+  },
+  "HT_Text_Uruk_Intro_03_Horus_BloodPresentation1": {
+    "message": "\uc624, \uc774\uc81c\uc57c \uc62c\ub77c\uc654\uad70! \ubabb \uc62c\ub77c\uc62c \uc904 \uc54c\uc558\ub294\ub370. <E> ",
+    "description": "SphinxText.xls, row 2084"
+  },
+  "HT_Text_Uruk_Intro_03_Horus_BloodPresentation2": {
+    "message": "<EFF><EPO>\ub124\uac00 \uad7c\ubcb5\uc774\ucc98\ub7fc \ub290\ub824\uc11c \uc6b0\ub9ac\uc758 \uc18c\uc911\ud55c \uc2dc\uac04\uc744 \ud5c8\ube44\ud588\uc5b4! \uc5b4\ucc0c\ub418\uc5c8\uac74, \ub0b4\uac00 \ub77c\uc758 \ud53c\ub97c \ucc3e\uc558\ub2e4...<P>\uc784\ud638\ud15d \uc2a4\uc2b9\ub2d8\uaed8\uc11c \uc774\uac83\uc740 \ud750\ub974\ub294 \uc6a9\uc554\uacfc \uac04\ud5d0\ucc9c \uc99d\uae30 \uc704\ub85c \uac78\uc744 \uc218 \uc788\uac8c \ud55c\ub2e4\uace0 \ud558\uc168\ub2e4...<E>",
+    "description": "SphinxText.xls, row 2085"
+  },
+  "HT_Text_Uruk_Intro_03_Horus_BloodPresentation3": {
+    "message": "...\ud558\uc9c0\ub9cc \ub2e4\uac00\uac00\ub294 \uac8c \ubd88\uac00\ub2a5\ud574. \ub2e4\ub978 \ud574\uacb0\ucc45\uc744 \ucc3e\uc544\ubd10\uc57c\uaca0\uc5b4.<E>",
+    "description": "SphinxText.xls, row 2086"
+  },
+  "HT_Text_Uruk_Intro_04_Horus_Blood_Shower1": {
+    "message": "\ub0b4\uac00 \uc65c \uadf8 \ubc29\ubc95\uc744 \uc0dd\uac01 \ubabb\ud588\uc9c0.<E>",
+    "description": "SphinxText.xls, row 2087"
+  },
+  "HT_Text_Uruk_Intro_04_Horus_Blood_Shower2": {
+    "message": "\ub108\ub294 \uadf8\ub0e5 \uc6b4\uc774 \uc88b\uc558\uc5b4... \ub77c\uae30 \ubcf4\ub2e8, \uc2e4\uc740 \ub098\ub3c4 \uadf8 \ubc29\ubc95\uc744 \uc54c\uace0 \uc788\uc5c8\ub294\ub370 \uadf8\ub0e5 \ub108\ub791 \uc7a5\ub09c \uc880 \ucce4\ub2e4\uace0!<E>",
+    "description": "SphinxText.xls, row 2088"
+  },
+  "HT_Text_Uruk_Intro_04_Horus_Blood_Shower3": {
+    "message": "\uc5b4\ucc0c\ub418\uc5c8\uac74, \uba3c\uc800 \ucd9c\ubc1c\ud55c\ub2e4. \ub108\ub97c \uae30\ub2e4\ub9ac\ub2e4\uac00 \uc9c0\uccd0\ubc84\ub9ac\uaca0\ub2e4.<W 60>",
+    "description": "SphinxText.xls, row 2089"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Climb01": {
+    "message": "<EFF><EPO>\uc774\ubd10 \uc2a4\ud551\ud06c\uc2a4! \uc5ec\uae30 \uc704\ub2e4! \uc5b4\uc11c\uc5b4\uc11c, \uc11c\ub458\ub7ec!<P> \uc5ec\uae30 \uc704\ucabd\uc5d0\uc11c \ub124 \ub3c4\uc6c0\uc774 \ud544\uc694\ud574.<E>",
+    "description": "SphinxText.xls, row 2090"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Climb02": {
+    "message": "<EFF><EPO>\ubcbd\uc744 \ud5a5\ud574 \ub6f4 \ud6c4 <SB HT_PadAction_PLR_MovePlr>\ub97c \uc0ac\uc6a9\ud574\uc11c \uc0c1\ud558\uc88c\uc6b0\ub85c \uae30\uc5b4\uc640.<P>\ucc9c\ucc9c\ud788 \uae30\uc5b4\uac00\ub824\uba74 <SB HT_PadAction_PLR_MovePlr>\ub97c \uac00\ubccd\uac8c \ub20c\ub7ec.<E>",
+    "description": "SphinxText.xls, row 2091"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Climb03": {
+    "message": "\ud558\uc9c0\ub9cc \uadf8 \uac70\ubbf8\ub4e4\uc744 \uc870\uc2ec\ud574. \uc2ec\ud558\uac8c \ubb3c\ub9b4 \uc218 \uc788\ub2e4!<E>",
+    "description": "SphinxText.xls, row 2092"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_LedgeHang01": {
+    "message": "\uc774\ucabd\uc774\ub2e4! \ud611\uace1\uc744 \uac74\ub108\uc624\ub824\uba74 \ub09c\uac04\uc744 \uc774\uc6a9\ud574.<E> ",
+    "description": "SphinxText.xls, row 2093"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
+    "message": "<EFF><EPO>\ub6f0\uc5b4\uc11c \ub09c\uac04\uc744 \uc7a1\uc544, \uadf8\ub9ac\uace0 <SB HT_PadAction_PLR_MovePlr>\uc744 \uc774\uc6a9\ud574\uc11c \uc88c\uc6b0\ub85c \uc6c0\uc9c1\uc5ec\ub77c.<P>\ucc9c\ucc9c\ud788 \uc6c0\uc9c1\uc774\ub824\uba74 <SB HT_PadAction_PLR_MovePlr>\ub97c \uac00\ubccd\uac8c \ub20c\ub7ec.<E>",
+    "description": "SphinxText.xls, row 2094"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
+    "message": "\ub09c\uac04\uc5d0\uc11c \uc190\uc744 \ub193\uc73c\ub824\uba74 <SB HT_Action_Drop>\ub97c \ub204\ub974\uba74 \ub41c\ub2e4, \ud558\uc9c0\ub9cc \ud611\uace1\uc744 \uc548\uc804\ud558\uac8c \uac74\ub11c\ub2e4\ub294 \uac83\uc744 \uba3c\uc800 \ud655\uc778\ud558\uc5ec\ub77c!<E>",
+    "description": "SphinxText.xls, row 2095"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_UseRock01": {
+    "message": "\uc2a4\ud551\ud06c\uc2a4!! \uc774\ucabd\uc774\ub2e4! \uacb0\uad6d\uc5d0\ub294 \ub108\uc758 \ub3c4\uc6c0\uc774 \ud544\uc694\ud560 \uac83 \uac19\ub2e4...<W 60>",
+    "description": "SphinxText.xls, row 2096"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_UseRock02": {
+    "message": "\uc800\uae38 \ubd10, \uc800 \ub3d9\ubb3c \uad74\uc5d0 \ub3cc\uc744 \ub358\uc9c0\uba74 \ubb54\uac00 \uc720\uc6a9\ud55c \uac83\uc744 \uc5bb\uc744\uc9c0\ub3c4 \ubaa8\ub978\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2097"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_UseSlimBurble01": {
+    "message": "\uc870\uc2ec\ud574\ub77c \uc2a4\ud551\ud06c\uc2a4, \uc774 \uad34\ubb3c\ub4e4\uc740 \ud574\ub86d\uc9c0 \uc54a\uc544 \ubcf4\uc774\uc9c0\ub9cc \ud3ed\ubc1c\ub825\uc774 \uac15\ud558\ub2e4!<E>",
+    "description": "SphinxText.xls, row 2098"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_UseSlimBurble02": {
+    "message": "<EFF><EPO>\uc800\ub4e4\uc740 \ud654\uac00 \ub098\uba74 \ube68\uac1b\uac8c \ubc88\uca4d\uc774\uba74\uc11c \uc801\ub4e4\uc5d0\uac8c \ub3cc\uc9c4\ud558\uc5ec \uc811\ucd09\ud558\ub294 \uc21c\uac04 \ud3ed\ubc1c\ud55c\ub2e4.<P>\ube68\ub9ac \ub2ec\ub9b4 \uc218 \uc788\uc73c\uba74 \uc800\ub4e4\uc744 \uc801\ub2f9\ud55c \ubb3c\uac74 \ucabd\uc73c\ub85c \uc720\uc778\ud558\uc5ec \uc720\ub9ac\ud558\uac8c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2099"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Blade01": {
+    "message": "\ub4dc\ub514\uc5b4 \ub0b4\uac00 \ucc3e\uc558\ub2e4! \uace0\ub300\uc758 <FC 0,128,0>\uc624\uc2dc\ub9ac\uc2a4\uc758 \uac80<END FC>\uc774\ub2e4. \ubd10\ub77c, \uc800\uae30 \ub3cc \uc81c\ub2e8 \uc704\uc5d0 \uc788\ub2e4. \ud558\uc9c0\ub9cc \uc5b4\ub5bb\uac8c \uc62c\ub77c\uac00\uc9c0?<E> ",
+    "description": "SphinxText.xls, row 2100"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Blade01a": {
+    "message": "\ubd10\ub77c, \uc800\uae30 \ub3cc \uc81c\ub2e8 \uc704\uc5d0 \uc788\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2101"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Blade02": {
+    "message": "<FC 0,128,0>\uc624\uc2dc\ub9ac\uc2a4\uc758 \uac80<END FC>\uc774 \uc774\uc81c \ubcf4\uc774\uc9c0\ub9cc \ub2e4\uac00\uac08 \ubc29\ubc95\uc744 \ub3c4\uc800\ud788 \ubaa8\ub974\uaca0\uad70!<E>",
+    "description": "SphinxText.xls, row 2102"
+  },
+  "HT_Text_Urk_Intro_Help_LongJump": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\ub354 \uba40\ub9ac \ub6f0\ub824\uba74 <SB HT_Action_Jump>\ub97c \ub354 \uc624\ub7ab\ub3d9\uc548 \ub204\ub974\uba74 \ub41c\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2103"
+  },
+  "HT_Text_Urk_Intro_Help_ZipLine": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\uc774\uac83\uc740 \ub3c4\ub974\ub798 \uc904\uc774\ub2e4. \uc0ac\uc6a9\ud558\uace0 \uc2f6\uc73c\uba74 \ub6f0\uc5b4\uc11c<N>\uc190\uc7a1\uc774\ub97c \uc7a1\uc544\ub77c.<E>",
+    "description": "SphinxText.xls, row 2104"
+  },
+  "HT_Text_Urk_Intro_Help_SavePoint": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\uc774 \uc131\uc2a4\ub7ec\uc6b4 \uc11d\uc0c1\ub4e4\uc740 \uc9c4\ud589\uc744 \uc800\uc7a5\ud558\uac8c \ud574\uc900\ub2e4.<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \uc9c0\uc810\uae4c\uc9c0 \ud0d0\ud5d8\uc758 \uae30\ub85d\uc744 \ub0a8\uae30\ub824\uba74 \uac00\uae4c\uc774 \uac78\uc5b4\uac00\uc11c <SB HT_Action_SavePoint>\ub97c \ub204\ub978\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 2105"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade01": {
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\uc624\uc2dc\ub9ac\uc2a4\uc758 \uac80<END FC>\uc744 \uad6c\ud588\ub2e4!<E> ",
+    "description": "SphinxText.xls, row 2106"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade02": {
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>\uc704\ub300\ud55c \uc2e0 \uc624\uc2dc\ub9ac\uc2a4\uac00 <N>\uc0ac\uc6a9\ud588\ub358 \uac15\ub825\ud55c \ubb34\uae30\uc774\ub2e4!<E>",
+    "description": "SphinxText.xls, row 2107"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade03": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\ubc31\ud578\ub4dc \uce7c \ubca0\uae30\ub97c \ud558\ub824\uba74 <SB HT_Action_Attack>\ub97c \ub204\ub974\uace0 \uc788\uc5b4\ub77c.<P><ES HT_Text_ES_S_HelpText><CNTR>\uace0\uacf5 \uce7c \ubca0\uae30\ub97c \ud558\ub824\uba74 <SB HT_Action_Jump>\ub97c \ub204\ub974\uace0<N>\uacf5\uc911\uc5d0\uc11c <SB HT_Action_Attack>\ub97c \ub20c\ub7ec\ub77c.<P><ES HT_Text_ES_S_HelpText><CNTR>\uace0\uacf5 \uce7c \ubca0\uae30\ub294 \ub9e4\ub2ec\ub9b0 \ub7a8\ud504 \uac19\uc740 <N>\uacfc\ub141\uc744 \uce58\ub294\ub370 \uc720\uc6a9\ud558\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2108"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade04": {
+    "message": "<FC 0,128,0>\uc624\uc2dc\ub9ac\uc2a4\uc758 \uac80<END FC>\uc744 \ucc3e\uc558\uc9c0\ub9cc <FC 128,64,0>\uc6b0\ub8e8\ud06c\uc758 \uc131<END FC>\uc758 \ubb34\ub9ac\ub4e4\uc5d0\uac8c \ub4e4\ucf1c\ubc84\ub838\ub2e4!<E>",
+    "description": "SphinxText.xls, row 2109"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade05": {
+    "message": "\uc800 \ub3d9\uad74\ub4e4\uc744 \uc9c0\ub098\uba74 \ub9c8\ubc95 \ud3ec\ud138\uc774 \ud558\ub098 \uc788\ub2e4 - \uace0\ub300\uc758 \uc7a5\uce58\ub85c \uc608\uc804\uc5d0\ub294 \uc2e0\ub4e4\uc774 \uc138\uc0c1 \uc0ac\uc774\ub97c \uc5ec\ud589\ud558\ub294\ub370 \uc0ac\uc6a9\ud588\ub358 \uac83\uc774\ub2e4. <E>",
+    "description": "SphinxText.xls, row 2110"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade06": {
+    "message": "\uc624\ub798 \uc804 \ub0b4\uac00 \ud3ec\ud138 \ubc29\uc758 \ubc14\uae65 \ucabd\uc5d0 \uc788\ub294 \ub192\uc740 \uc554\ubcbd\uc5d0 <FC 0,128,0>\ud3ec\ud138 \ubd80\uc801<END FC>\uc744 \ud558\ub098 \uc228\uaca8 \ub193\uc558\ub2e4. <E>",
+    "description": "SphinxText.xls, row 2111"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade07": {
+    "message": "\uadf8 \ubd80\uc801\uc744 \uc774\uc6a9\ud558\uba74 \uc6b0\ub9ac\uc758 \uc0ac\uc6d0\uc73c\ub85c \uc2e0\uc18d\ud558\uace0 \uc548\uc804\ud558\uac8c \ub3cc\uc544\uc62c \uc218 \uc788\ub2e4. <E>",
+    "description": "SphinxText.xls, row 2112"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade08": {
+    "message": "\ud558\uc9c0\ub9cc \uc11c\ub458\ub7ec\uc57c \ud55c\ub2e4, \uc2a4\ud551\ud06c\uc2a4, \ud638\ub8e8\uc2a4\uc640 \uac19\uc740 \uc6b4\uba85\uc73c\ub85c \uace0\ud1b5 \ubc1b\uae30 \uc804\uc5d0!<E>",
+    "description": "SphinxText.xls, row 2113"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed01": {
+    "message": "\ub108\ub294 \uc9c0\uae08 \ud3ec\ud138 \ubc29\uc5d0 \uac07\ud600 \ubc84\ub838\uace0 \uc801\ub2f9\ud55c <FC 0,128,0>\ud3ec\ud138 \ubd80\uc801<END FC>\ub3c4 \uac00\uc9c0\uace0 \uc788\uc9c0 \uc54a\uad6c\ub098. <E>",
+    "description": "SphinxText.xls, row 2114"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed02": {
+    "message": "\ud558\uc9c0\ub9cc \ub124\uac00 \uc544\uc9c1 \uc0b4\uc544\uc788\ub2e4\ub294 \uac83\uc5d0 \uac10\uc0ac\ud574\ub77c. \ubd88\ud589\ud558\uac8c\ub3c4 \uadf8 \uc131\uc758 \ubc29\uc5b4\uac00 \uc6b0\ub9ac\uc5d0\uac8c\ub294 \ub108\ubb34\ub098 \uac15\ub825\ud558\ub2e4. <E>",
+    "description": "SphinxText.xls, row 2115"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed03": {
+    "message": "\uc9d1\uc73c\ub85c \ub3cc\uc544\uac00\uac8c \ud574 \uc904 \ubd80\uc801 \ubaa8\uc73c\ub294 \uac83\uc744 \uc2e4\ud328\ud588\uc9c0\ub9cc \ub2e4\ub978 <FC 0,128,0>\ubbf8\uc9c0\uc758 \ubd80\uc801<END FC>\uc744 \ucc3e\uc740 \uac83 \uac19\uad70.<E>",
+    "description": "SphinxText.xls, row 2116"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed04": {
+    "message": "\uc774\uac83\uc774 \uc5b4\ub514\ub85c \ub108\ub97c \ub370\ub824\ub2e4 \uc904\uc9c0\ub294 \ubaa8\ub974\uaca0\uc9c0\ub9cc \ub108\ub294 \uc9c0\uae08 \uc120\ud0dd\uc758 \uc5ec\uc9c0\uac00 \uc5c6\ub2e4. \ud3ec\ud138 \uc2e0 \uc55e\uc5d0 \uc788\ub294 \ub9c8\ubc95\uc758 \uc6d0\uc73c\ub85c \uac78\uc5b4\uac00\uc11c \uadf8 \ubd80\uc801\uc744 \uc0ac\uc6a9\ud558\uc5ec\ub77c.<E>",
+    "description": "SphinxText.xls, row 2117"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed05": {
+    "message": "\ud3ec\ud138 \uc55e\uc5d0 \uc788\ub294 \ub9c8\ubc95\uc758 \uc6d0\uc73c\ub85c \ub2e4\uac00\uac00\uc11c \uadf8 \ubd80\uc801\uc744 \uc0ac\uc6a9\ud558\uc5ec\ub77c.<E>",
+    "description": "SphinxText.xls, row 2118"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed06": {
+    "message": "\uc2a4\ud551\ud06c\uc2a4, \uc774\uac83\uc774 \ub108\ub97c \uc548\uc804\ud55c \uacf3\uc73c\ub85c \ub370\ub824\ub2e4 \uc8fc\uae38 \ubc14\ub784 \ubfd0\uc774\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2119"
+  },
+  "HT_Text_Urk_Intro_Help_GotPortalAmulet": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ud3ec\ud138 \ubd80\uc801<END FC>\uc744 \ud558\ub098 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\uc774 \ud669\uae08 \uc720\ubb3c\uc740 \ud3ec\ud138 \uc2e0\uc744 \uae30\ub9ac\uae30 \uc704\ud558\uc5ec \ub9cc\ub4e4\uc5b4 \uc84c\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2120"
+  },
+  "HT_Text_Urk_Intro_Help_AmuletAccepted": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ud3ec\ud138 \uc2e0\uc740 \ub108\uc758 \uc81c\ubb3c\uc744 \ubc1b\uc544\ub4e4\uc5ec \ub108\ub97c<FC 128,64,0>\ub8e9\uc18c\ub974<END FC>\ub85c \uc804\uc1a1\ud560 \uac83\uc774\ub2e4...<E>",
+    "description": "SphinxText.xls, row 2121"
+  },
+  "HT_Text_urk_intr_HorusNeedtoShowU": {
+    "message": "\uc624, \uae5c\ube61 \ud588\uad70... \ub108\ub294 \uc544\uc9c1 \uae30\uc220\ub4e4\uc744 \ubc30\uc6b0\ub294 \uc911\uc774\uc9c0... \ub108\uc5d0\uac8c\ub294 \ub108\ubb34 \ub192\uaca0\uad70.<P> \uc5ec\uae30 \uc704\ucabd\uc73c\ub85c \uc624\ub294 \ub2e4\ub978 \uae38\uc744 \ucc3e\uc544\ubd10\ub77c, \ub108\uc5d0\uac8c \uc774\uac83\uc774 \uc5b4\ub5bb\uac8c \uc791\ub3d9\ud558\ub294 \uc9c0 \ubcf4\uc5ec\uc8fc\uc5b4\uc57c\ub9cc \ud55c\ub2e4.<P> \ub124\uac00 \uc544\ub798\uc5d0 \uc788\uc73c\uba74 \ub0b4\uac00 \uadf8\ub7f4 \uc218\uac00 \uc5c6\uc796\uc544?<E>",
+    "description": "SphinxText.xls, row 2122"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_Hungry ": {
+    "message": "\ud06c\uc5b5! \ub108\ubb34 \uc9c8\uaca8!<P>\uad76\uc5b4 \uc8fd\ub354\ub77c\ub3c4 \uc637\uc744 \uac78\uce58\uace0 \uc788\ub294 \uac83\uc740 \ub098\uc5d0\uac90 \ubb34\ub9ac\uc57c! \uc12c\uc720\uac00 \ub108\ubb34 \ub9ce\uc544...<N><FC 0,128,0>\ucf54\ucf54\ub11b\ub4e4<END FC> \uba87 \uac1c\ub9cc \uc788\uc5c8\uc73c\uba74... \uc815\ub9d0 \uc624\ub7ab\ub3d9\uc548 <FC 0,128,0>\ucf54\ucf54\ub11b<END FC>\uc744 \uba39\uc5b4\ubcf4\uc9c0 \ubabb\ud588\uc5b4. \uc74c... \uc0dd\uac01\ub9cc \ud574\ub3c4...<E>",
+    "description": "SphinxText.xls, row 2123"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryShort": {
+    "message": "\uc73c~ \ub108\ubb34 \ubc30\uace0\ud30c... \uc774 \uadfc\ucc98 \uc5b4\ub514\uc5d0 \ubd84\uba85\ud788 <FC 0,128,0>\ucf54\ucf54\ub11b<END FC> \ub098\ubb34\ub4e4\uc774 \uc788\uc744 \ud150\ub370.<E>",
+    "description": "SphinxText.xls, row 2124"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_Hungry1": {
+    "message": "\uc774\ubd10, \ub108, \uc5bc\uad74\uc5d0 \ud654\uc7a5\ud55c \ub108 \ub9d0\uc774\uc57c! \ub108\ud55c\ud14c \ubb34\uc2a8 \ub0c4\uc0c8\uc9c0? \uc124\ub9c8... \uadf8\ub798! <FC 0,128,0>\ucf54\ucf54\ub11b<END FC>\uc774\uad70!<P>\ub098 \uc880 \uc8fc\uaca0\uc5b4?<N>  <B 1> \ubb3c\ub860, \ub9c8\uc74c\ub300\ub85c \uba39\uc5b4!<N>  <B 2> \uc544\ub2c8! \ub124 \uac83\uc740 \ub124\uac00 \ucc3e\uc544!<E>",
+    "description": "SphinxText.xls, row 2125"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryYes": {
+    "message": "\ub9db\uc788\uad70! \uace0\ub9c8\uc6cc!<P>\uc870\uae08 \ub354 \uc788\uc5c8\uc73c\uba74 \uc88b\uaca0\ub294\ub370. \uc870\uae08 \ub354 \uac14\ub2e4 \uc8fc\uba74, \ub110 \ub3c4\uc640\uc904 \uc218\ub3c4 \uc788\uc744 \uac83 \uac19\uc740\ub370... <E> ",
+    "description": "SphinxText.xls, row 2126"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryNo": {
+    "message": "\uadf8\ub7fc \uc800\ub9ac \uac00\ubc84\ub824 \ub0a0 \uc57d \uc62c\ub9ac\uc9c0 \ub9d0\uace0!<E>",
+    "description": "SphinxText.xls, row 2127"
+  },
+  "HT_Text_urk_intr_HorusTalk_01": {
+    "message": "\uc800\uae30 \ud53c\uac00 \ub5a8\uc5b4\uc9c0\ub294 \ud615\uc0c1\uc774 \ubcf4\uc774\uc9c0? \uadf8\uac74 \ub77c\ub2d8\uc758 \ud53c\ub77c\uace0 \uc804\ud574\uc9c4\ub2e4.<P>\ud53c \ubc11\uc5d0 \uc11c\uc788\uc73c\uba74 \ubcf4\ud638\ub9c9\uc5d0 \uc313\uc5ec \ub053\ub294 \ub728\uac70\uc6b4 \uc6a9\uc554\uc704\ub85c \ub2e4\uce58\uc9c0 \uc54a\uace0 \uac78\uc744 \uc218 \uc788\ub2e4\uace0 \ud55c\ub2e4.<P>\uadf8\ub7f0\ub370, \uadf8 \ubcf4\ud638\ub9c9\uc740 \uc9e7\uc740 \uc2dc\uac04\ub9cc \uc720\uc9c0\ub41c \ud6c4 \uc5c6\uc5b4\uc9c4\ub2e4\uace0 \ud55c\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2128"
+  },
+  "HT_Text_urk_intr_HorusTalk_StoneNear": {
+    "message": "\uc2a4\ud551\ud06c\uc2a4! \uadf8 \ub354\ub7ec\uc6b4 \ub3cc\uc744 \uc800\ub9ac \uce58\uc6cc! <E>",
+    "description": "SphinxText.xls, row 2129"
+  },
+  "HT_Text_urk_intr_HorusTalk_StoneThrown": {
+    "message": "\uc57c! \uadf8\uac78\ub85c \ub9de\uc73c\uba74 \ub208\uc774 \ud280\uc5b4\ub098\uc624\uaca0\ub2e4! <E>",
+    "description": "SphinxText.xls, row 2130"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryYes1": {
+    "message": "\ub450 \uac1c\ub9cc \ub354 \uba39\uc73c\uba74 \ubc30\uac00 \ubd80\ub97c\uaebc \uac19\uc740\ub370.<E>",
+    "description": "SphinxText.xls, row 2131"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryYes2": {
+    "message": "\uc815\ub9d0 \ub9db\uc788\ub2e4. \ud558\ub098\ub9cc \ub354 \uc788\uc73c\uba74 \ub420 \uac83 \uac19\ub2e4.<E> ",
+    "description": "SphinxText.xls, row 2132"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryYes3": {
+    "message": "\uc624, \uace0\ub9d9\ub2e4! \uae30\ubd84\uc774 \uc815\ub9d0 \uc88b\uc544\uc84c\ub294\ub370!<P>\ub0b4 \ud600 \uc704\ub85c \uc62c\ub77c\uc624\uba74 \ub124\uac00 \uac00\uace0 \uc2f6\uc740 \uacf3\uc73c\ub85c \uac00\uac8c \ub3c4\uc640\uc904 \uc218 \uc788\uc5b4.<P>\uba3c\uc800 \uac00\ub85c \ubc29\ud5a5\uc744 \uc120\ud0dd\ud55c \ud6c4\uc5d0 \uc138\ub85c \ubc29\ud5a5\uc744 \uc120\ud0dd\ud558\uba74 \ub124\uac00 \uc120\ud0dd\ud55c \uacf3\uc73c\ub85c \ub108\ub97c \ubc49\uc5b4\uc8fc\uc9c0.<P>\ud558\uc9c0\ub9cc \uc870\uc2ec\ud574\uc11c \uc120\ud0dd\ud558\ub77c\uad6c. \uc6a9\uc554\uc73c\ub85c \ubc49\uc5b4\ub2ec\ub77c\uace0 \ud558\uba74 \uadf8\ub300\ub85c \ud574\uc904 \ud14c\ub2c8\uae4c!<E> ",
+    "description": "SphinxText.xls, row 2133"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_NotEnough": {
+    "message": "\uc544\uc9c1 \ubc30\uace0\ud504\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2134"
+  },
+  "HT_Text_urk_intr_PickupCocoon": {
+    "message": "\uace0\uce58\ub97c \ud558\ub098 \uad6c\ud588\ub2e4.<E>  ",
+    "description": "SphinxText.xls, row 2135"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall01": {
+    "message": "\ud760... \uc815\ub9d0 \uace0\ub9d9\ub2e4, \uc2a4\ud551\ud06c\uc2a4. \uc0dd\uac01\ud588\ub358 \uac83 \ubcf4\ub2e4 \ud6e8\uc52c \ub3c4\uc6c0\uc774 \ub418\uc5c8\ub294 \uac78. \uc774\uc81c <FC 0,128,0>\uc624\uc2dc\ub9ac\uc2a4\uc758 \uac80<END FC>\uc73c\ub85c \ub2e4\uac00\uac08 \uc218 \uc788\uaca0\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2136"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall02": {
+    "message": "\ubb34\uc2a8 \uc77c\uc774\uc57c? \ub2e4 \ud754\ub4e4\ub9ac\uace0 \uc788\uc5b4... <W 60>",
+    "description": "SphinxText.xls, row 2137"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall03": {
+    "message": "\uc800\uae30! \uad11\uc120\uc774... \uc5d0\ub108\uc9c0\ub97c \ubaa8\uc73c\uace0 \uc788\uc5b4!!!  <W 60>",
+    "description": "SphinxText.xls, row 2138"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall03a": {
+    "message": "\uc88b\uc9c0 \uc54a\uc740\ub370... <W 60>",
+    "description": "SphinxText.xls, row 2139"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall04": {
+    "message": "\uc2a4\ud551\ud06c\uc2a4, \uc548 \uc88b\uc740 \uc9d5\uc870\uc57c!!<W 60>",
+    "description": "SphinxText.xls, row 2140"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall05": {
+    "message": "\uc6b0\uc640! \uc6b4\uc774 \uc88b\uc558\uad70. \uc624 \uc774\ub7f0... \uc774\uac8c \uc5b4\ub514\ub85c \ud5a5\ud558\uc9c0? \uc2a4\ud551\ud06c\uc2a4?! \uc2a4\ud551\ud06c\uc2a4!!<E>",
+    "description": "SphinxText.xls, row 2141"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation01": {
+    "message": "<EFF><EPO>\ub0b4\uac00 \uc6b0\ub824\ud588\ub358 \uc2dc\uac04\uc774 \uc654\ub2e4. \uc608\uc5b8\uc758 \uc5b4\ub450\uc6c0\uc774 \uace7 \uc6b0\ub9ac\uc5d0\uac8c \ub0b4\ub824\uc62c \uac83\uc774\ub2e4... \uc6b0\ub9ac\ub294 \uc900\ube44\ub97c \ud558\uc5ec\uc57c\ub9cc \ud55c\ub2e4.<P>\ub0b4\uac00 \ub108\ud76c \ub458\uc744 \uc120\ud0dd\ud55c \uc774\uc720\ub294 \ub108\ud76c\uac00 \ub098\uc758 \uac00\uc7a5 \ud6cc\ub96d\ud55c \uc81c\uc790\ub4e4\uc774\ub77c\ub294 \uac83\uc744 \uc774\ubbf8 \uc99d\uba85\ud588\uae30 \ub54c\ubb38\uc774\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2142"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation01a": {
+    "message": "\ub108\ud76c\ub4e4\uc774 \uace7 \ub9e1\uac8c \ub420 \uc784\ubb34\ub294 \ub108\ud76c\uc758 \ud798\uacfc \ub2a5\ub825\uc744 \uc2dc\ud5d8\ud558\uac8c \ub420 \uac83\uc774\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2143"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation02": {
+    "message": "\uc900\ube44\ub97c \ud558\uac70\ub77c. \ub098\uc544\uac08 \uae38\uc740 \ub9e4\uc6b0 \uc704\ud5d8\ud558\ub2e4. \ub108\ud76c\uc5d0\uac8c \uc548\uc804\ud55c \ud1b5\ub85c\ub098 \uc0b4\uc544\uc11c \ub3cc\uc544\uc62c \uac83\uc774\ub77c\ub294 \uac83\uc744 \ubcf4\uc7a5\ud560 \uc218 \uc5c6\uad6c\ub098. <E>",
+    "description": "SphinxText.xls, row 2144"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation02a": {
+    "message": "\ud558\uc9c0\ub9cc \uac01\uc790 \ud0dd\ud55c \uae38\uc744 \uac00\uc57c\ub9cc \ud558\uaca0\uc9c0. \uc6d0\ud55c\ub2e4\uba74 \uc9c0\uae08 \ud3ec\uae30\ud558\uace0 \ub0b4\ub824\uac00\ub3c4 \uc88b\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2145"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation03": {
+    "message": "\uc54c\uaca0\ub2e4. \ub108\ud76c \ub458 \ub2e4 \uc774 \uacfc\uc5c5\uc744 \ubc1b\uc544\ub4e4\uc600\uc73c\ubbc0\ub85c \ub0b4\uac00 \ub108\ud76c\ub4e4\uc744 \uc5b4\ub460\uc758 \ub545\uc778 <FC 128,64,0>\uc6b0\ub8e8\ud06c<END FC>\ub85c \uc804\uc1a1\ud558\uaca0\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2146"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation04": {
+    "message": "\uadf8 \uacf3\uc5d0\uc11c <FC 128,64,0>\uc6b0\ub8e8\ud06c<END FC>\uc758 \uc545\ub9c8\ub4e4\uc774 \uc9c0\ud0a4\uace0 \uc788\ub294 \ud0dc\uace0\ub85c \ubd80\ud130 \uc804\ud574\uc9c0\ub294 \uc704\ub300\ud55c <FC 0,128,0>\uc624\uc2dc\ub9ac\uc2a4\uc758 \uac80<END FC>\uc744 \ucc3e\uc544\uc57c\ub9cc \ud55c\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2147"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation05": {
+    "message": "\uc5ec\ud589\uc744 \uc704\ud55c \uc900\ube44\ub97c \ud558\uac70\ub77c...<W 90>",
+    "description": "SphinxText.xls, row 2148"
+  },
+  "HT_Text_Urk_Intro_Geyser_Off": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\uc774 \uac04\ud5d0\ucc9c\uc740 \ud65c\ub3d9 \uc911\uc774 \uc544\ub2c8\ub2e4. \ubd84\ucd9c\uc2dc\ud0a4\ub824\uba74<N>\uc6a9\uc554\uc744 \ucd94\uac00\ub85c \ud758\ub824 \ubcf4\ub0b4\uc57c \ud560 \uac83 \uac19\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2149"
+  },
+  "HT_Text_Urk_Intro_Pickup_Stone": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\uc5b4\ub5a4 \ubb3c\uac74\uc774\ub098 \uc544\uc774\ud15c \uadfc\ucc98\ub85c \uac00\uba74<N>\ud654\uba74 \uc0c1\ub2e8 \uc6b0\uce21\uc758 <SB HT_Action_PickupObject>\uac00 \ubc14\ub00c\ub294 \uac83\uc744 \uc8fc\ubaa9\ud558\ub77c.<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774\ub7f0 \ub3cc \uac19\uc740 \uac83\uc744 \ub4e4\uc5b4 \uc62c\ub9ac\ub824\uba74 \ub2e4\uac00\uac00\uc11c <SB HT_Action_PickupObject>\ub97c \ub204\ub978\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2150"
+  },
+  "HT_Text_Urk_Intro_Pushable_Stone": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\ubb3c\uac74\ub4e4\uc744 \uc7a1\uc73c\ub824\uba74 <SB HT_Action_Grab>\ub97c \ub20c\ub7ec\ub77c...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...\uadf8\ub9ac\uace0 <SB HT_PadAction_PLR_MovePlr>\ub97c \uc0ac\uc6a9\ud558\uc5ec \ubc00\uac70\ub098 \ub2f9\uae34\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2151"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1a": {
+    "message": "<EFF><EPO><FC 128,64,0>\uc6b0\ub8e8\ud06c \uc12c<END FC>\uc5d0 \uc628 \uac83\uc744 \ud658\uc601\ud55c\ub2e4 \uc2a4\ud551\ud06c\uc2a4! \ub0b4 \uce5c\uad6c \uc784\ud638\ud15d\uc774 \ub124\uac00 \uc62c \uac83\uc774\ub77c\uace0 \ub9d0\ud574\uc8fc\uc5c8\ub2e4.<P><FC 0,128,0>\uc6b0\ub8e8\ud06c\uc758 \uc131\uc2a4\ub7ec\uc6b4 \uc655\uad00<END FC>\uc744 \ucc3e\uace0 \uc788\ub2e4\ub294 \uac83\uc744 \uc548\ub2e4. \uadf8\uac83\uc740 \uacf5\ud3ec\uc758 \uac9d \uc5ec\uc655\uc774 \ubcf4\uad00\ud558\uace0 \uc788\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2153"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1b": {
+    "message": "\ud558\uc9c0\ub9cc \uba3c\uc800 \uc9c0\ud61c\uc640 \ub2a5\ub825, \uc989, \uc815\uc2e0\uacfc \uc721\uccb4\uc758 \uc2dc\ud5d8\uc744 \uadf9\ubcf5\ud574\uc57c\ub9cc \ud55c\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2154"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1c": {
+    "message": "\uc131\uacf5\ud558\uba74 \uac9d \uc5ec\uc655\uc758 \uac15\ub825\ud55c \ud798\uc744 \uadf9\ubcf5\ud560 \uc900\ube44\uac00 \ub418\uc5c8\ub2e4\ub294 \uac83\uc744 \uc99d\uba85\ud560 \uac83\uc774\ub2e4...<E>",
+    "description": "SphinxText.xls, row 2155"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1d": {
+    "message": "...\ud558\uc9c0\ub9cc \uc2e4\ud328\ud558\uba74, \uc774 \ubb38\ub4e4\uc758 \ub4a4\uc5d0 \uc788\ub294 \uc0ac\uc6d0\uc758 \uc794\uc778\ud55c \uc6b4\uba85\uc774 \ub108\ub97c \uae30\ub2e4\ub9ac\uac8c \ub41c\ub2e4...<E>",
+    "description": "SphinxText.xls, row 2156"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1e": {
+    "message": "\uadf8\ub798, \uc774 \uc2dc\ud5d8\uc744 \ubc1b\uc544\ub4e4\uc774\uaca0\ub294\uac00?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "description": "SphinxText.xls, row 2157"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fAccept": {
+    "message": "\uc88b\uc544, \uadf8\ub7ec\uba74, \uc0ac\uc6d0\uc73c\ub85c \ub4e4\uc5b4\uac00\uac70\ub77c. \ud0c8\ucd9c \ud560 \uc218 \uc788\uc73c\uba74 \ucc3e\uc740 \uac83\uc744 \ub0b4\uac8c \uac00\uc838\uc624\uac70\ub77c.<E>",
+    "description": "SphinxText.xls, row 2158"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fReject": {
+    "message": "\uc0dd\uac01\ud588\ub358 \uac83\ucc98\ub7fc \ub108\ub294 \uac81\uc7c1\uc774\uad70!<E>",
+    "description": "SphinxText.xls, row 2159"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestPrompt": {
+    "message": "\uc774 \uc2dc\ud5d8\uc5d0 \ub3c4\uc804\ud558\uae30\ub85c \uacb0\uc815\ud588\ub294\uac00?<N>  <B 1> \uc608<N>  <B 2> \uc544\ub2c8\uc624<E>",
+    "description": "SphinxText.xls, row 2160"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestAccepted": {
+    "message": "\uc88b\ub2e4, \uc0ac\uc6d0\uc73c\ub85c \ub4e4\uc5b4\uac00\uc11c \ud0c8\ucd9c\ud560 \uc218 \uc788\ub2e4\uba74 \ub124\uac00 \ucc3e\uc740 \uac83\uc744 \ub0b4\uac8c \uac00\uc838\uc624\uac70\ub77c.<E>",
+    "description": "SphinxText.xls, row 2161"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestRejected": {
+    "message": "\uc0dd\uac01\ud588\ub358 \ubc14\ub300\ub85c \ub108\ub294 \uac81\uc7c1\uc774\uad70!<E>",
+    "description": "SphinxText.xls, row 2162"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestPromptAgain": {
+    "message": "\uc0dd\uac01\uc744 \ubc14\uafb8\uae30\uc5d4 \ub108\ubb34 \ub2a6\uc5c8\ub2e4. \uc0ac\uc6d0\uc774 \uae30\ub2e4\ub9ac\uace0 \uc788\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2163"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestAlmostComplete": {
+    "message": "\uc544\ubb34 \uac83\ub3c4 \ucc3e\uc9c0 \ubabb\ud588\ub2e4\uba74 \uc2dc\ud5d8\uc5d0 \uc2e4\ud328\ud55c \uac83\uc774\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2164"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestComplete": {
+    "message": "<EFF><EPO>\uc624, \ub3cc\uc544\uc654\uad70! \ucd95\ud558\ud55c\ub2e4, \uc2a4\ud551\ud06c\uc2a4! \uc131\uacf5\ud560 \uc904 \uc54c\uc558\ub2e4.<P>\uba87 \uc548 \ub418\ub294 \uc0ac\ub78c\ub4e4\ub9cc\uc774 \uc0ac\uc6d0\uc758 \uc2dc\ud5d8\uc5d0\uc11c \uc0b4\uc544\ub0a8\uc744 \uc218 \uc788\uc5c8\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2165"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestComplete1": {
+    "message": "<EFF><EPO>\ub124\uac00 \uad6c\ud55c \uc720\ubb3c\uc740 \uc774 <FC 0,128,0>\uce74 \uc559\ud06c \ubc1c\uc0ac\uc9c0\uc810<END FC>\uc744 \uc791\ub3d9\uc2dc\ud0a4\uae30 \uc704\ud558\uc5ec \uc0ac\uc6a9\ub420 \uc218 \uc788\ub2e4.<P>\ub124\uac00 \uacbd\ud5d8\uc744 \uac00\uc9c4 \ud0d0\ud5d8\uac00\ub77c\uba74, \uce74 \uc559\ud06c\uc758 \uc2e0\ube44\ud55c \ud798\uc5d0 \uad00\ud558\uc5ec \uc798 \uc54c\uace0 \uc788\uc744 \uac70\uc57c.<E>",
+    "description": "SphinxText.xls, row 2166"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestComplete2": {
+    "message": "<EFF><EPO>\ub5a0\ub098\uae30 \uc804\uc5d0 \ucda9\uace0 \ud55c \ub9c8\ub514. \uac9d \uc5ec\uc655\uc740 \ubb34\uc11c\uc6b4 \uc801\uc774\ub2e4. \ub124 \uc790\uc2e0\ub9cc\uc758 \ud798\uc73c\ub85c \ubb34\ucc0c\ub97c \uac83\uc774\ub77c\uace0\ub294 \uc0dd\uac01\ud558\uc9c0 \uc54a\ub294\ub2e4.<P>\uc804\ud22c\uac00 \uaca9\ub82c\ud574\uc9c0\ub354\ub77c\ub3c4 \ub2e4\ub978 \uc0dd\ubb3c\ub4e4\uc774 \ub124\uac00 \uadf8 \uc5ec\uc655\uc744 \ubb34\ucc0c\ub974\uae30 \uc704\ud574 \ud544\uc694\ud55c \uae30\ud68c\ub97c \uc81c\uacf5\ud560 \uc218 \uc788\ub2e4\ub294 \uac83\uc744 \uc78a\uc73c\uba74 \uc548 \ub41c\ub2e4...<P>\uc798 \uac00\ub77c \uc2a4\ud551\ud06c\uc2a4, \uadf8\ub9ac\uace0 \ud589\uc6b4\uc744 \ube48\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2167"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestCompleteAgain": {
+    "message": "\uc798 \ud588\ub2e4 \uc2a4\ud551\ud06c\uc2a4, \ud558\uc9c0\ub9cc \ub354 \uc774\uc0c1 \ub3c4\uc640\uc904 \uc218 \uc5c6\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2168"
+  },
+  "HT_Text_Urk_4pat_Help_FoundBounce": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>\ud280\ub294 \ub2e4\ud2b8\ub4e4<END FC>\uc744 \uad6c\ud588\ub2e4!<P><ES HT_Text_ES_S_HelpText><CNTR>\uc774 \ub9c8\ubc95\uc758 \ub2e4\ud2b8\ub4e4\uc740 \uc815\uba74\uc5d0 \uc788\uc9c0 \uc54a\uc740<N>\uacfc\ub141\uc744 \ub9de\ucd94\uae30 \uc704\ud574 \uc0ac\uc6a9\ub420 \uc218 \uc788\ub2e4.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 2172"
+  },
+  "HT_Text_Urk_4pat_Help_FoundBeetles": {
+    "message": "<N><CNTR><FC 0,128,0>\ud3ed\ubc1c \ub531\uc815\ubc8c\ub808\ub4e4<END FC>\uc744 \uad6c\ud588\ub2e4!<P>\uc774\uac83\ub4e4\uc744 <FC 0,128,0>\ucde8\uad00<END FC>\uc5d0 \ud588\ub358 \uac83\ucc98\ub7fc <FC 0,128,0>\ubc29\ud5a5\ud0a4<END FC>\uc5d0 \uc7a5\ucc29\uc2dc\ud0a8\ub2e4. \ubc1c\uc0ac \ud6c4\uc5d0 \ub531\uc815\ubc8c\ub808\ub97c <SB HT_PadAction_PLR_MoveBeetle>\ub97c \uc774\uc6a9\ud558\uc5ec \uc870\uc885\ud55c\ub2e4.<P>\uc774\uac83\ub4e4\uc740 \uad34\ubb3c\ub4e4\uacfc \ubcbd\uc5d0 \ubd80\ub52a\ud788\uba74 \ud3ed\ubc1c\ud55c\ub2e4 \uadf8\ub7ec\ub098 <FC 0,128,0>\ud68c\uc218<END FC> \ud639\uc740 <FC 0,128,0>\ud3ed\ubc1c<END FC> \uc2dc\ud0ac \uc218\ub3c4 \uc788\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2173"
+  },
+  "HT_Text_Urk_4pat_Help_DoubleJump": {
+    "message": "<DHP><DP>\ub354 \ub192\uc774 \ub6f0\ub824\uba74 <FC 0,128,0>\uc810\ud504<END FC> \ubc84\ud2bc\uc744 \ub204\ub974\uace0 \uc788\ub294\ub2e4. \uacf5\uc911\uc81c\ube44\ub294 <FC 0,128,0>\uc810\ud504<END FC> \ubc84\ud2bc\uc744 \ub450 \ubc88 \ub204\ub978\ub2e4. <W 120>",
+    "description": "SphinxText.xls, row 2174"
+  },
+  "HT_Text_Urk_4pat_WomanHelp1": {
+    "message": "\ub3c4\uc640\uc918!... \ub3c4\uc640\uc918!... \uc800\ub97c \ub3c4\uc640\uc8fc\uc138\uc694, \uc120\uc0dd\ub2d8...<W 60>",
+    "description": "SphinxText.xls, row 2175"
+  },
+  "HT_Text_Urk_4pat_WomanHelp2": {
+    "message": "\uc120\uc0dd\ub2d8, \uc545\ub9c8\uc758 \uc601\ud63c\uc774 \ub098\uc758 \uc791\uc740 \ud615\uc81c\ub4e4\uacfc \uc800\ub97c \ub0a9\uce58\ud588\uc5b4\uc694. \uc81c\ubc1c, \uc774 \uc545\ub9c8\uc758 \uc0ac\uc6d0\uc5d0\uc11c \ub098\uac00\uac8c \ub3c4\uc640\uc8fc\uc138\uc694!<E>",
+    "description": "SphinxText.xls, row 2176"
+  },
+  "HT_Text_Urk_4pat_WomanHelp3": {
+    "message": "\uc81c\ubc1c, \uc120\uc0dd\ub2d8, \uc800\ud76c\uac00 \uc5ec\uae30\uc11c \ub098\uac00\uac8c \ub3c4\uc640\uc8fc\uc138\uc694!<E>",
+    "description": "SphinxText.xls, row 2177"
+  },
+  "HT_Text_Urk_4pat_WomanHelp4": {
+    "message": "\uc120\uc0dd\ub2d8, \ub2f9\uc2e0\uc758 \uace0\uadc0\ud658 \ud589\ub3d9\uc5d0 \uac10\uc0ac \ub4dc\ub9bd\ub2c8\ub2e4...<W 60>",
+    "description": "SphinxText.xls, row 2178"
+  },
+  "HT_Text_Urk_4pat_WomanHelp5": {
+    "message": "\ub098\uc758 \uc791\uc740 \ud615\uc81c\ub4e4\uacfc \ub098\ub294 \ub2f9\uc2e0\uc758 \ub178\uace0\uc5d0 \ubcf4\uc0c1\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4...<W 60>",
+    "description": "SphinxText.xls, row 2179"
+  },
+  "HT_Text_Urk_Set_Presenation1": {
+    "message": "\ub108\ub97c \uae30\ub2e4\ub9ac\uace0 \uc788\uc5c8\ub2e4 \uc2a4\ud551\ud06c\uc2a4, \uc608\uc5b8\uc758 \uadf8 \uc790\uc5ec.<E>",
+    "description": "SphinxText.xls, row 2181"
+  },
+  "HT_Text_Urk_Set_Presenation2": {
+    "message": "\ub0b4 \ud615\uc81c \uc624\uc2dc\ub9ac\uc2a4\uac00 \ub098\ub97c \ub300\uba74\ud558\uae30 \uc704\ud574 \uc774\uacf3\uc5d0 \uc624\uc9c0 \uc54a\uc558\ub2e8 \ub9d0\uc774\uc9c0. \uadf8\ub294 \uadf8\ub7f0 \ub300\uacb0\uc5d0\ub294 \ub108\ubb34 \uc57d\ud558\ub2e4\ub2c8\uae50.<E>",
+    "description": "SphinxText.xls, row 2182"
+  },
+  "HT_Text_Urk_Set_Presenation3": {
+    "message": "\uc544\ub2c8\uba74 \ub098\uc5d0 \ub300\ud56d\ud558\uae30\uc5d0\ub294 \ub108\ubb34 \uac81\uc7c1\uc774\uc77c\uc9c0\ub3c4. \ud558\ud558\ud558!! <E>",
+    "description": "SphinxText.xls, row 2183"
+  },
+  "HT_Text_Urk_Set_Presenation4": {
+    "message": "\uc9c0\uae08\uae4c\uc9c0 \ub098\uc758 \uacc4\ud68d\uc744 \uc798\ub3c4 \ubc29\ud574\ud574\uc654\ub2e4. \ud558\uc9c0\ub9cc \uacb0\uad6d\uc5d0\ub294 \ub0b4\uac00 \ub77c\uc758 \ub208\uc758 \ud798\uc744 \uc870\uc885\ud560 \uac83\uc774\ub2e4. <E>",
+    "description": "SphinxText.xls, row 2184"
+  },
+  "HT_Text_Urk_Set_Presenation5": {
+    "message": "\ub108\uc640 \ub108\uc758 \ubbf8\uc774\ub77c \ub3d9\ub8cc\ub294 \uc9c0\uae08\uae4c\uc9c0 \uc608\uc5b8\uc744 \uc774\ud589\ud558\uc5ec \uc654\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2185"
+  },
+  "HT_Text_Urk_Set_Presenation6": {
+    "message": "\ud558\uc9c0\ub9cc \ub108\uc758 \uc8fd\uc74c\uacfc \ub0b4\uac00 \uc624\uc2dc\ub9ac\uc2a4\ub97c \ud30c\uba78\uc2dc\ucf1c\uc11c \uadf8 \uc608\uc5b8\uc744 \ub05d\uc7a5\ub0b4\ubc84\ub9ac\uaca0\ub2e4...<E>",
+    "description": "SphinxText.xls, row 2186"
+  },
+  "HT_Text_Urk_Set_Presenation6a": {
+    "message": "\uc601\uc6d0\ud788!!!!! <W 60>",
+    "description": "SphinxText.xls, row 2187"
+  },
+  "HT_Text_Urk_Set_Presenation7": {
+    "message": "\ubd88\uc30d\ud55c \ub188, \uc624\uc2dc\ub9ac\uc2a4\uac00 \ub098\uc758 \uc9c4\uc815\ud55c \ubaa8\uc2b5\uc5d0 \uad00\ud558\uc5ec \uc774\uc57c\uae30\ud558\uc9c0 \uc54a\uc558\uad70! \ud558\ud558\ud558\ud558\ud558!!!!! <E>",
+    "description": "SphinxText.xls, row 2188"
+  },
+  "HT_Text_Urk_Set_Presenation8": {
+    "message": "\uc774\uc81c \ub124\uac00 \uc8fd\uc744 \uc2dc\uac04\uc774 \uc654\ub2e4. <W 60>",
+    "description": "SphinxText.xls, row 2189"
+  },
+  "HT_Text_Urk_Set_BossDead1": {
+    "message": "\ud6cc\ub96d\ud558\uad70, \uc2a4\ud551\ud06c\uc2a4! \ub124\uac00 \ubbf8\uc774\ub77c\ub97c \uc138\ud2b8\uc758 \uc190\uae38\uc5d0\uc11c \uad6c\ud588\ub2e4. \uc138\ud2b8\ub294 \uc544\uc8fc \uc57d\ud574\uc84c\ub2e4, \ud558\uc9c0\ub9cc \ud30c\uba78\ub418\ub294 \uac83\uc740 \uadf8\uc758 \uc6b4\uba85\uc774 \uc544\ub2c8\ub2e4.<E>",
+    "description": "SphinxText.xls, row 2190"
+  },
+  "HT_Text_Urk_Set_BossDead2": {
+    "message": "\uc138\uc0c1\uc740 \uc545\uc774 \uc5c6\uc774\ub294 \uc874\uc7ac\ud560 \uc218 \uc5c6\ub2e4. \ub0ae\uc758 \ube5b\uacfc \ubc24\uc758 \uc5b4\ub460\uc774 \uc870\ud654\ub97c \uc774\ub8e8\uae30 \uc704\ud574 \ud544\uc694\ud55c \uac83\ucc98\ub7fc.... <E>",
+    "description": "SphinxText.xls, row 2191"
+  },
+  "HT_Text_Urk_Set_BossDead3": {
+    "message": "\uc138\ud2b8\uac00 \uc57d\ud574\uc84c\uc73c\ubbc0\ub85c \uadf8\ub294 \uadf8\uc758 \ud615\uc81c \uc624\uc2dc\ub9ac\uc2a4\uc640 \uacb0\ud569\ud558\uc5ec\uc57c \ud558\ub294 \uadf8\uc758 \uc9c4\uc815\ud55c \uc6b4\uba85\uc5d0 \ub9de\uc11c \uc2f8\uc6b8 \uc218 \uc5c6\uc744 \uac83\uc774\ub2e4. \uc774\uac83\uc740 \uc774 \uc2e0\uc131\ud55c \uc655\uad6d\uc5d0 \uc870\ud654\ub97c \ub2e4\uc2dc \ubcf5\uad6c\ud560 \uac83\uc774\ub2e4. <E>",
+    "description": "SphinxText.xls, row 2192"
+  },
+  "HT_Text_Urk_Set_BossDead3a": {
+    "message": "\ubcf4\ub77c! \uc804\ub2a5\ud558\uc2e0 \uc624\uc2dc\ub9ac\uc2a4\uaed8\uc11c \ub3c4\ucc29\ud558\uc168\ub2e4! <E>",
+    "description": "SphinxText.xls, row 2193"
+  },
+  "HT_Text_Urk_Set_BossDead4": {
+    "message": "\ub9c8\uce68\ub0b4 <FC 0,128,0>\ub77c\uc758 \uace0\ub300\uc758 \uc608\uc5b8<END FC>\uc774 \uc644\uc218\ub418\uc5c8\ub2e4. \ube5b\uacfc \uc5b4\ub460\uc774 \ud568\uaed8 \ud558\ub098\uac00 \ub418\uc5c8\ub2e4. \uc6b0\ub9ac\ub294 \ub2e4\uc2dc \uc870\ud654 \uc18d\uc5d0\uc11c \uc0b4 \uc218 \uc788\uc744 \uac83\uc774\ub2e4. <E>",
+    "description": "SphinxText.xls, row 2194"
+  },
+  "HT_Text_Urk_Set_BossDead5": {
+    "message": "\uc2a4\ud551\ud06c\uc2a4\uc640 \ud22c\ud0d5\uce74\uba58, \ub108\ud76c \ub458\uc740 \uc6a9\uac10\ud558\uac8c\ub3c4 \uc774 \uc704\ud5d8\ucc9c\ub9cc\ud55c \uc804\uc124\uc758 \uacb0\ub9d0\uc744 \ub0b4\ub838\ub2e4. <E>",
+    "description": "SphinxText.xls, row 2195"
+  },
+  "HT_Text_Urk_Set_BossDead6": {
+    "message": "\uc2a4\ud551\ud06c\uc2a4, \ub108\uc758 \ud589\ub3d9\uacfc \uc6a9\uae30\ub85c, \ub108\uc758 \uc774\ub984\uc740 \uc5ed\uc0ac\uc5d0 \uae38\uc774 \ub0a8\uc544 \uc601\uc6d0\ud788 \uae30\uc5b5\ub418\ub9ac\ub77c. <E>",
+    "description": "SphinxText.xls, row 2196"
+  },
+  "HT_Text_Urk_Set_BossDead7": {
+    "message": "\ud22c\ud0d5\uce74\uba58, \ub108\uc5d0\uac8c \ub9c8\uc9c0\ub9c9 <FC 0,128,0>\ub0a9\uace8\ub2e8\uc9c0<END FC>\ub97c \uc8fc\uc5b4 \ub108\ub97c \uc778\uac04\uc758 \ubaa8\uc591\uc73c\ub85c \ub418\ub3cc\uc544\uac00\uac8c \ud558\uace0 \ub108\uc758 \uc655\uad6d\uc73c\ub85c \ub3cc\ub824\ubcf4\ub0b4\uc8fc\ub9c8.<E>",
+    "description": "SphinxText.xls, row 2197"
+  },
+  "HT_Text_Urk_Set_BossDead7a": {
+    "message": "<EFF><EPO>\ub108\ud76c \ub458 \ub355\ubd84\uc5d0 \uc55e\uc73c\ub85c \uc62c \ub9ce\uc740 \uc138\ub300\ub294 \uc870\ud654\ub97c \uc774\ub8e8\uba70 \uc0b4\uc544\uac08 \uac83\uc774\ub2e4.<P>\ub354 \uc704\ud5d8\ucc9c\ub9cc\uc758 \ud0d0\ud5d8\ub4e4\uc774 \ub108\ud76c \ub458\uc5d0\uac8c \uc62c \uac83\uc774\ub2e4. \ud558\uc9c0\ub9cc \uc9c0\uae08\uc740 \ud734\uc2dd\uc744 \ucde8\ud558\uace0 \ub108\ud76c\uc758 \uc2b9\ub9ac\ub97c \uc990\uaca8\ub77c.<P>\ud22c\ud0d5\uce74\uba58, \ub108\uc5d0\uac8c \ub9c8\uc9c0\ub9c9 <FC 0,128,0>\ub0a9\uace8\ub2e8\uc9c0<END FC>\ub97c \ub0b4 \uac10\uc0ac\uc640 \ud568\uaed8 \uc900\ub2e4. <E>",
+    "description": "SphinxText.xls, row 2198"
+  },
+  "HT_Text_Urk_Set_BossDead8": {
+    "message": "\uac71\uc815\ud558\uc9c0 \ub9c8\ub77c \ud22c\ud0d5\uce74\uba58. \ub108\ub97c \ubc14\uafc0 \uc218 \uc788\ub294 \ub2e4\ub978 \ubc29\ubc95\uc774 \ubd84\uba85\ud788 \uc788\uc744 \uac8c\ub2e4. \uc544\ub9c8 \ub2e4\ub978 \uc138\uc0c1\uc774 \ub124 \uad6c\uc6d0\uc758 \uc5f4\uc1e0\ub97c \uac00\uc9c0\uace0 \uc788\uc744\uc9c0\ub3c4.... <E>",
+    "description": "SphinxText.xls, row 2199"
+  },
+  "HT_Text_Urk_Set_BossDead9": {
+    "message": "\uc6b0\ub9ac\uac00 \uadf8 \ub2f5\uc744 \ucc3e\ub294 \uac83\uc744 \ub3c4\uc640\uc904 \uac83\uc774\ub2e4...<W 180>",
+    "description": "SphinxText.xls, row 2200"
+  },
+  "HT_Text_Urk_2key_Help_FoundGlyphValuable01": {
+    "message": "<N><CNTR>\ud76c\uadc0\ud55c <FC 0,128,0>\ud669\uae08 \uae00\ub9ac\ud504<END FC>\ub97c \ucc3e\uc558\ub2e4!<E>",
+    "description": "SphinxText.xls, row 2201"
+  }
+}

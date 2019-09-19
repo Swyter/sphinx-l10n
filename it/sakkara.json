@@ -1,0 +1,54 @@
+{
+  "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1a": {
+    "message": "Set, Signore, i Geb ti sono eternamente grati per aver portato la <FC 0,128,0>Sacra corona di Uruk<END FC>. La corona sar\u00e0 al sicuro nelle nostre mani.<E>",
+    "description": "SphinxText.xls, row 1481"
+  },
+  "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1b": {
+    "message": "Sono certo che tu dica la verit\u00e0. Altrimenti, le conseguenze per te sarebbero davvero terribili.<E>",
+    "description": "SphinxText.xls, row 1482"
+  },
+  "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1c": {
+    "message": "Non preoccuparti Set, mio Signore. Nessuno \u00e8 riuscito a vincere il potere della Regina Geb...<E>",
+    "description": "SphinxText.xls, row 1483"
+  },
+  "HT_Text_Sakk_5_Boss_Fight_Gebqueen1a": {
+    "message": "Come osi entrare nel palazzo della Regina Geb?!<E>",
+    "description": "SphinxText.xls, row 1485"
+  },
+  "HT_Text_Sakk_5_Boss_Fight_Gebqueen1b": {
+    "message": "Pagherai il prezzo pi\u00f9 alto per la tua insolenza. Preparati a morire!<E>",
+    "description": "SphinxText.xls, row 1486"
+  },
+  "HT_Text_Sakk_5_Boss_Death_Gebqueen1a": {
+    "message": "Puoi aver sconfitto me, ma Set ti annienter\u00e0.<P>I tuoi sforzi sono stati vani... \u00e8 troppo tardi... non lo batterai mai...<E>",
+    "description": "SphinxText.xls, row 1487"
+  },
+  "HT_Text_Sakk_5_Boss_Death_Gebqueen1b": {
+    "message": "Aaaaaaiiiiiiiiiiiiee!!!! <E>",
+    "description": "SphinxText.xls, row 1488"
+  },
+  "HT_Text_Sakk_5_Boss_Death_Gebqueen1c": {
+    "message": "Aaaaaaiiiiiiiiiiiiee!!!! <E>",
+    "description": "SphinxText.xls, row 1489"
+  },
+  "HT_Text_Sakk_5_TakeCrown1a": {
+    "message": "Un'altra corona di cui non comprendi i poteri.<E>",
+    "description": "SphinxText.xls, row 1528"
+  },
+  "HT_Text_Sakk_5_TakeCrown1b": {
+    "message": "La via che hai scelto \u00e8 irta di pericoli...<E>",
+    "description": "SphinxText.xls, row 1529"
+  },
+  "HT_Text_Sakk_5_TakeCrown1c": {
+    "message": "Solo gli eroi pi\u00f9 determinati riusciranno a superarla.<E>",
+    "description": "SphinxText.xls, row 1530"
+  },
+  "HT_Text_Sakk_5_TakeCrown1d": {
+    "message": "La Profezia sta finalmente cominciando a realizzarsi... Ma sarai tu a compierla fino in fondo?<E>",
+    "description": "SphinxText.xls, row 1531"
+  },
+  "HT_Text_Sakk_5_TakeCrown1e": {
+    "message": "Prendi questo <FC 0,128,0>Ankh d'oro<END FC> in premio per il tuo successo.<P><ES HT_Text_ES_S_HelpText><CNTR>Questo manufatto magico ha aumentato la capacit\u00e0 della <N>salute di <FC 0,128,0>1 Ankh<END FC> e l'ha ricaricata completamente!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1532"
+  }
+}

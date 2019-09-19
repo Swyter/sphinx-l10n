@@ -1,0 +1,42 @@
+{
+  "HT_Text_BOS_Monster_CapturedMonsters": {
+    "message": "Mostri",
+    "description": "SphinxText.xls, row 2622"
+  },
+  "HT_Text_BOS_Monster_Moves": {
+    "message": "Mosse",
+    "description": "SphinxText.xls, row 2623"
+  },
+  "HT_Text_BOS_Monster_Health": {
+    "message": "Salute",
+    "description": "SphinxText.xls, row 2624"
+  },
+  "HT_Text_BOS_Monster_AttackRating": {
+    "message": "Forza di attacco",
+    "description": "SphinxText.xls, row 2625"
+  },
+  "HT_Text_BOS_Monster_DefenceRating": {
+    "message": "Forza di difesa",
+    "description": "SphinxText.xls, row 2626"
+  },
+  "HT_Text_BOS_Monster_DR_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Maggiore \u00e8 la forza di difesa del tuo mostro, pi\u00f9 danni pu\u00f2 subire in combattimento.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2627"
+  },
+  "HT_Text_BOS_Monster_AR_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Maggiore \u00e8 la forza di attacco del tuo mostro, pi\u00f9 danni pu\u00f2 infliggere agli avversari.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2628"
+  },
+  "HT_Text_BOS_Monster_Health_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Questa \u00e8 la salute del tuo mostro. Se si esaurisce, non potrai pi\u00f9 utilizzare un mostro di quel tipo fino a quando non ne avrai catturato un altro.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2629"
+  },
+  "HT_Text_BOS_Monster_NoMoves": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Al momento, non esistono mosse che puoi selezionare.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2630"
+  },
+  "HT_Text_BOS_Monster_NoMonsters": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Al momento non possiedi alcun mostro.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2631"
+  }
+}

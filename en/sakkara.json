@@ -1,0 +1,54 @@
+{
+  "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1a": {
+    "message": "Lord Set, the Gebs are eternally grateful to you for bringing the <FC 0,128,0>Sacred Crown of Uruk<END FC>. The Crown will be totally secure in our hands.<E>",
+    "description": "SphinxText.xls, row 1481"
+  },
+  "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1b": {
+    "message": "I am sure that you speak the truth. If not, the consequences for you will be terrible indeed.<E>",
+    "description": "SphinxText.xls, row 1482"
+  },
+  "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1c": {
+    "message": "Do not worry, my Lord Set. Nobody has ever been able to overcome the power of the Geb Queen...<E>",
+    "description": "SphinxText.xls, row 1483"
+  },
+  "HT_Text_Sakk_5_Boss_Fight_Gebqueen1a": {
+    "message": "How dare you enter into the palace of the Geb Queen?!<E>",
+    "description": "SphinxText.xls, row 1485"
+  },
+  "HT_Text_Sakk_5_Boss_Fight_Gebqueen1b": {
+    "message": "You will pay the ultimate price for your insolence. Prepare to die!<E>",
+    "description": "SphinxText.xls, row 1486"
+  },
+  "HT_Text_Sakk_5_Boss_Death_Gebqueen1a": {
+    "message": "You may have defeated me, but Set will annihilate you.<P>Your efforts were all for nothing... it's too late... you will never defeat him...<E>",
+    "description": "SphinxText.xls, row 1487"
+  },
+  "HT_Text_Sakk_5_Boss_Death_Gebqueen1b": {
+    "message": "Aaaaaaiiiiiiiiiiiiee!!!! <E>",
+    "description": "SphinxText.xls, row 1488"
+  },
+  "HT_Text_Sakk_5_Boss_Death_Gebqueen1c": {
+    "message": "Aaaaaaiiiiiiiiiiiiee!!!! <E>",
+    "description": "SphinxText.xls, row 1489"
+  },
+  "HT_Text_Sakk_5_TakeCrown1a": {
+    "message": "Another crown whose power you do not understand.<E>",
+    "description": "SphinxText.xls, row 1528"
+  },
+  "HT_Text_Sakk_5_TakeCrown1b": {
+    "message": "The path that you choose is one of grave danger...<E>",
+    "description": "SphinxText.xls, row 1529"
+  },
+  "HT_Text_Sakk_5_TakeCrown1c": {
+    "message": "Only the most determined of heroes will succeed.<E>",
+    "description": "SphinxText.xls, row 1530"
+  },
+  "HT_Text_Sakk_5_TakeCrown1d": {
+    "message": "The Prophecy is beginning to be realized at last... But will you be the one to bring about its conclusion?<E>",
+    "description": "SphinxText.xls, row 1531"
+  },
+  "HT_Text_Sakk_5_TakeCrown1e": {
+    "message": "Take this <FC 0,128,0>Gold Ankh<END FC> as a reward for your achievement.<P><ES HT_Text_ES_S_HelpText><CNTR>This magic artifact has increased your health capacity<N>by <FC 0,128,0>1 Ankh<END FC> and has fully replenished your health!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1532"
+  }
+}

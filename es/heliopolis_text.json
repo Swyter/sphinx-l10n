@@ -1,0 +1,2338 @@
+{
+  "HT_Text_Hel_Exterior_GlyphCollector_InitialText1a": {
+    "message": "\u00a1Aaahh! \u00bfQui\u00e9n eres? \u00bfQu\u00e9 quieres? \u00bfHas venido a robar mi preciada mercanc\u00eda?<W 60>",
+    "description": "SphinxText.xls, row 548"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_InitialText1b": {
+    "message": "Eh, no pareces un ladr\u00f3n.<E>",
+    "description": "SphinxText.xls, row 549"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_InitialText1c": {
+    "message": "Je, je, perd\u00f3n. Pens\u00e9 que eras uno de esos ladrones urukitas del otro lado de la muralla.<E>",
+    "description": "SphinxText.xls, row 550"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_InitialText1d": {
+    "message": "No son de fiar. Y a\u00fan no conf\u00edo en que t\u00fa lo seas. Si me das <FC 0,128,0>10 skarabs de \u00f3nice<END FC>, puede que cambie de opini\u00f3n.<E>",
+    "description": "SphinxText.xls, row 551"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_InitialText1e": {
+    "message": "\u00a1Ah, muy bien! \u00a1<FC 0,128,0>Skarabs de \u00f3nice<END FC>! D\u00e9jame que te ense\u00f1e la magn\u00edfica mercanc\u00eda que tengo a la venta.<E>",
+    "description": "SphinxText.xls, row 552"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_InitialText1f": {
+    "message": "Por favor, entra.<W 60>",
+    "description": "SphinxText.xls, row 553"
+  },
+  "HT_Text_Hel_Exterior_Farmer_CSFreed01": {
+    "message": "\u00a1Hola de nuevo! Es genial volver a la granja con mi hermano. No creo que pueda agradecerte suficiente tu ayuda.<E>",
+    "description": "SphinxText.xls, row 554"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_CSFreed01": {
+    "message": "Gracias a ti, mi hermano y yo podemos volver al trabajo de la granja.<E>",
+    "description": "SphinxText.xls, row 555"
+  },
+  "HT_Text_Hel_Exterior_Farmer_CSFreed02": {
+    "message": "Nos gustar\u00eda darte esto por tu ayuda. Nos lo encontramos en el campo, pero parece valioso.<E>",
+    "description": "SphinxText.xls, row 556"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother": {
+    "message": "No puedo volver a la granja mientras mi hermano est\u00e9 en ese palacio. \u00a1Maldito sea Anubis por el sufrimiento que ha causado! <E>",
+    "description": "SphinxText.xls, row 557"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother1a": {
+    "message": "Me he cansado de <FC 128,64,0>Heli\u00f3polis<END FC>. Sol\u00eda ser un buen lugar para vivir, hasta que Anubis decidi\u00f3 meterse.<E>",
+    "description": "SphinxText.xls, row 558"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother1b": {
+    "message": "Maldijo a mi hermano y a todos los que est\u00e1n en ese <FC 128,64,0>Palacio Maldito<END FC> de all\u00ed.<E>",
+    "description": "SphinxText.xls, row 559"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother1b1": {
+    "message": "Hizo aparecer esos <FC 0,128,0>postes del Ojo de Ra<END FC> por todos sitios.<E>",
+    "description": "SphinxText.xls, row 560"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother1b2": {
+    "message": "Convirti\u00f3 la tierra en \u00e1rida; ya no puedo cultivar nada en la granja.<E>",
+    "description": "SphinxText.xls, row 561"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother1c": {
+    "message": "S\u00ed, toda la culpa es de Anubis. Seguro que est\u00e1 sentado en su torre observando <FC 128,64,0>Heli\u00f3polis<END FC> y ri\u00e9ndose de tantas desgracias y sufrimiento.<E>",
+    "description": "SphinxText.xls, row 562"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother1c1": {
+    "message": "Alguien deber\u00eda hacerle una visita y darle una lecci\u00f3n.<E>",
+    "description": "SphinxText.xls, row 563"
+  },
+  "HT_Text_Hel_Exterior_Farmer_Reunion01": {
+    "message": "\u00a1Aqu\u00ed est\u00e1s! Muchas gracias. No s\u00e9 c\u00f3mo agradecerte que hayas liberado a mi hermano.<E>",
+    "description": "SphinxText.xls, row 564"
+  },
+  "HT_Text_Hel_Exterior_Farmer_Reunion02": {
+    "message": "Estaba desesperado. Pens\u00e9 que jam\u00e1s le volver\u00eda a ver, pero gracias a ti, volvemos a estar juntos.<E>",
+    "description": "SphinxText.xls, row 565"
+  },
+  "HT_Text_Hel_Exterior_Farmer_Reunion03": {
+    "message": "A mi hermano y a m\u00ed nos encantar\u00eda volver a la granja, pero no mientras esos <FC 0,128,0>Ojos de Ra<END FC> sigan ah\u00ed.<E>",
+    "description": "SphinxText.xls, row 566"
+  },
+  "HT_Text_Hel_Exterior_Farmer_Reunion04": {
+    "message": "Parece que la mala suerte nunca nos va a abandonar.<E>",
+    "description": "SphinxText.xls, row 567"
+  },
+  "HT_Text_Hel_Exterior_Farmer_ReunionGoHome01": {
+    "message": "<EFF><EPO>\u00a1Aqu\u00ed est\u00e1s! Muchas gracias. No s\u00e9 c\u00f3mo agradecerte que hayas liberado a mi hermano.<P>Estaba desesperado. Pens\u00e9 que jam\u00e1s le volver\u00eda a ver, pero gracias a ti, volvemos a estar juntos.<P>Mi hermano y yo estamos muy contentos de volver a la granja, sobre todo ahora que has destruido esos <FC 0,128,0>postes del Ojo de Ra<END FC>. \u00a1Gracias de nuevo!<E>",
+    "description": "SphinxText.xls, row 568"
+  },
+  "HT_Text_Hel_Exterior_Farmer_ReunionGoHome02": {
+    "message": "No te olvides de visitarnos en nuestra granja. Te ayudaremos en lo que podamos.<E>",
+    "description": "SphinxText.xls, row 569"
+  },
+  "HT_Text_Hel_Exterior_Farmer_KillEyes01": {
+    "message": "A mi hermano y a m\u00ed nos encantar\u00eda volver a la granja, pero no mientras esos <FC 0,128,0>Ojos de Ra<END FC> sigan ah\u00ed.<E>",
+    "description": "SphinxText.xls, row 570"
+  },
+  "HT_Text_Hel_Exterior_Farmer_KillEyes02a": {
+    "message": "\u00a1Excelente! \u00a1Has destruido todos los <FC 0,128,0>Ojos de Ra<END FC>!<E>",
+    "description": "SphinxText.xls, row 571"
+  },
+  "HT_Text_Hel_Exterior_Farmer_KillEyes02b": {
+    "message": "Ahora mi hermano y yo podemos volver a la granja. \u00a1Gracias!<E>",
+    "description": "SphinxText.xls, row 572"
+  },
+  "HT_Text_Hel_Exterior_Farmer_KillEyes02c": {
+    "message": "No te olvides de venir a visitarnos, amigo. Te ayudaremos en lo que podamos.<W 60>",
+    "description": "SphinxText.xls, row 573"
+  },
+  "HT_Text_Hel_Exterior_Farmer_KillEyes03a": {
+    "message": "\u00a1Todav\u00eda quedan <FC 0,128,0><SO HT_Objective_Temp> Ojos de Ra<END FC>, amigo!<E>",
+    "description": "SphinxText.xls, row 574"
+  },
+  "HT_Text_Hel_Exterior_Farmer_KillEyes03b": {
+    "message": "\u00a1Todav\u00eda queda <FC 0,128,0>1 Ojo de Ra<END FC>, amigo!<E>",
+    "description": "SphinxText.xls, row 575"
+  },
+  "HT_Text_Hel_Exterior_Farmer_BrotherFreed": {
+    "message": "\u00a1Es un milagro! \u00a1Mi hermano ha vuelto!<P>Me ha dicho que ha sido gracias a ti. No s\u00e9 c\u00f3mo agradec\u00e9rtelo.<E>",
+    "description": "SphinxText.xls, row 576"
+  },
+  "HT_Text_Hel_Exterior_Farmer_PickPlot": {
+    "message": "Si te pasas por la granja, amigo, te daremos con gusto lo que encontremos all\u00ed. Es lo menos que podemos hacer para agradecerte tu ayuda.<E>",
+    "description": "SphinxText.xls, row 577"
+  },
+  "HT_Text_Hel_Exterior_Farmer_NotDoneYet": {
+    "message": "Todav\u00eda no hemos acabado; la tierra est\u00e1 casi yerma. Por favor, vuelve m\u00e1s tarde.<E>",
+    "description": "SphinxText.xls, row 578"
+  },
+  "HT_Text_Hel_Exterior_Farmer_FoundThis": {
+    "message": "\u00a1Hola de nuevo, amigo! Te alegrar\u00e1 saber que hemos encontrado esto mientras excav\u00e1bamos. Ac\u00e9ptalo en muestra de nuestro aprecio.<E>",
+    "description": "SphinxText.xls, row 579"
+  },
+  "HT_Text_Hel_Exterior_Farmer_Complete": {
+    "message": "Ahora que la granja est\u00e1 preparada, podemos descansar y esperar a las lluvias. \u00a1Gracias por tu ayuda!<E>",
+    "description": "SphinxText.xls, row 580"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_Thanks": {
+    "message": "Es genial volver a estar con mi hermano. Cuando alguien se deshaga de esos <FC 0,128,0>Ojos de Ra<END FC>, podremos volver al trabajo de la granja.<E>",
+    "description": "SphinxText.xls, row 581"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_KillEyes01a": {
+    "message": "Cuando desaparezcan esos \u00faltimos <FC 0,128,0><SO HT_Objective_Temp> Ojos de Ra<END FC>, volveremos a la granja.<E>",
+    "description": "SphinxText.xls, row 582"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_KillEyes01b": {
+    "message": "Cuando desaparezca el \u00faltimo <FC 0,128,0>Ojo de Ra<END FC>, volveremos a la granja.<E>",
+    "description": "SphinxText.xls, row 583"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_AskMyBrother": {
+    "message": "Deber\u00edas hablar con mi hermano, amigo. \u00c9l se encarga de la granja.<E>",
+    "description": "SphinxText.xls, row 584"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_NotDoneYet": {
+    "message": "Labrar esta tierra es un trabajo muy duro. Vuelve m\u00e1s tarde cuando hayamos terminado.<E>",
+    "description": "SphinxText.xls, row 585"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_Complete": {
+    "message": "Nos ha costado mucho preparar la granja, pero ya podemos descansar y esperar a las lluvias. \u00a1Gracias por tu ayuda, amigo!<E>",
+    "description": "SphinxText.xls, row 586"
+  },
+  "HT_Text_Hel_Exterior_Farmer_BrotherFreed1a": {
+    "message": "\u00a1Es un milagro! \u00a1Mi hermano ha vuelto!<E>",
+    "description": "SphinxText.xls, row 587"
+  },
+  "HT_Text_Hel_Exterior_Farmer_BrotherFreed1b": {
+    "message": "Tengo mucho que agradecerte, pero no s\u00e9 c\u00f3mo compensarte.<E>",
+    "description": "SphinxText.xls, row 588"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_Thanks1a": {
+    "message": "Es genial volver a estar con mi hermano. Ahora podemos volver a nuestra granja.<E>",
+    "description": "SphinxText.xls, row 589"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_Thanks1b": {
+    "message": "Es hora de trabajar en la granja, pero no sabemos por d\u00f3nde empezar. \u00bfD\u00f3nde crees que debemos excavar?<E>",
+    "description": "SphinxText.xls, row 590"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_Thanks1c": {
+    "message": "Te explicar\u00e9 c\u00f3mo funciona. Quiz\u00e1 puedas ayudarnos. <E>",
+    "description": "SphinxText.xls, row 591"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_CSIntro01": {
+    "message": "Llegamos. \u00a1Por fin en <FC 128,64,0>Heli\u00f3polis<END FC>!<E>",
+    "description": "SphinxText.xls, row 592"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_CSIntro01a": {
+    "message": "Una vez fue un gran reino. Ahora no es m\u00e1s que un desierto olvidado.<E>",
+    "description": "SphinxText.xls, row 593"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_CSIntro02": {
+    "message": "Personalmente, creo que deber\u00edamos habernos quedado en <FC 128,64,0>Abydos<END FC>. Aqu\u00ed no hay mucho m\u00e1s que arena y horribles monstruos.<E>",
+    "description": "SphinxText.xls, row 594"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_CSIntro03": {
+    "message": "De hecho, esa es la raz\u00f3n por la que ahora mismo me vuelvo a <FC 128,64,0>Abydos<END FC>.<E> ",
+    "description": "SphinxText.xls, row 595"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_CSIntro04": {
+    "message": "Volver\u00e9 por aqu\u00ed dentro de unos d\u00edas. Nos veremos entonces.<W 90>",
+    "description": "SphinxText.xls, row 596"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_WhereTo00": {
+    "message": "\u00a1Hola! Me alegro de verte.<P>\u00bfAd\u00f3nde te gustar\u00eda navegar hoy?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 7> Ning\u00fan sitio<E>",
+    "description": "SphinxText.xls, row 597"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_WhereTo01": {
+    "message": "\u00a1Hola! Me alegro de verte.<P>\u00bfAd\u00f3nde te gustar\u00eda navegar hoy?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 4> <FC 128,64,0>Palacio Maldito<END FC><N>  <B 3> <FC 128,64,0>Playa Sur<END FC><PC 1><B 7> Ning\u00fan sitio<E>",
+    "description": "SphinxText.xls, row 598"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_WhereTo02": {
+    "message": "\u00a1Hola! Me alegro de verte.<P>\u00bfAd\u00f3nde te gustar\u00eda navegar hoy?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 4> <FC 128,64,0>Palacio Maldito<END FC><N>  <B 3> <FC 128,64,0>Playa Sur<END FC><PC 1><B 5> <FC 128,64,0>L\u00edmite de Heli\u00f3polis<END FC><N>  <B 7> Ning\u00fan sitio<E>",
+    "description": "SphinxText.xls, row 599"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_WhereTo03": {
+    "message": "\u00a1Hola! Me alegro de verte.<P>\u00bfAd\u00f3nde te gustar\u00eda navegar hoy?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 4> <FC 128,64,0>Palacio Maldito<END FC><N>  <B 3> <FC 128,64,0>Playa Sur<END FC><PC 1><B 5> <FC 128,64,0>L\u00edmite de Heli\u00f3polis<END FC><N>  <B 6> <FC 128,64,0>Poblado beduino<END FC><PC 1><B 7> Ning\u00fan sitio<E>",
+    "description": "SphinxText.xls, row 600"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_Return01": {
+    "message": "\u00bfEst\u00e1s listo para volver al continente?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 601"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_Return02": {
+    "message": "\u00bfEst\u00e1s listo para volver a <FC 128,64,0>Heli\u00f3polis<END FC>?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 602"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_GenericLetsGo": {
+    "message": "Pues entonces, \u00a1vamos!<E>",
+    "description": "SphinxText.xls, row 603"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToImhotepPrice": {
+    "message": "Te costar\u00e1 <FC 0,128,0>10 skarabs<END FC><N>  <B 1> Vale<N>  <B 2> Olv\u00eddalo<E>",
+    "description": "SphinxText.xls, row 604"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToImhotepConfirm": {
+    "message": "\u00a1Destino: <FC 128,64,0>Isla del Santuario Solar<END FC>!<E>",
+    "description": "SphinxText.xls, row 605"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_DestinationDecline": {
+    "message": "Vale, av\u00edsame si cambias de opini\u00f3n.<E>",
+    "description": "SphinxText.xls, row 606"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToAbydosPrice": {
+    "message": "Te costar\u00e1 <FC 0,128,0>25 skarabs<END FC><N>  <B 1> Vale<N>  <B 2> Olv\u00eddalo<E>",
+    "description": "SphinxText.xls, row 607"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToAbydosConfirm": {
+    "message": "\u00a1Destino: <FC 128,64,0>Abydos<END FC>!<E>",
+    "description": "SphinxText.xls, row 608"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToCursedPalacePrice": {
+    "message": "Te costar\u00e1 <FC 0,128,0>5 skarabs<END FC><N>  <B 1> Vale<N>  <B 2> Olv\u00eddalo<E>",
+    "description": "SphinxText.xls, row 609"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToCursedPalaceConfirm": {
+    "message": "\u00a1Pr\u00f3xima parada <FC 128,64,0>Palacio Maldito<END FC>!<E>",
+    "description": "SphinxText.xls, row 610"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToBedouinOutpostPrice": {
+    "message": "Te costar\u00e1 <FC 0,128,0>5 skarabs<END FC><N>  <B 1> Vale<N>  <B 2> Olv\u00eddalo<E>",
+    "description": "SphinxText.xls, row 611"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToBedouinOutpostConfirm": {
+    "message": "\u00a1Pr\u00f3xima parada <FC 128,64,0>Poblado beduino<END FC>!<E>",
+    "description": "SphinxText.xls, row 612"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToHeliopolisPointPrice": {
+    "message": "Te costar\u00e1 <FC 0,128,0>5 skarabs<END FC><N>  <B 1> Vale<N>  <B 2> Olv\u00eddalo<E>",
+    "description": "SphinxText.xls, row 613"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToHeliopolisPointConfirm": {
+    "message": "\u00a1Pr\u00f3xima parada <FC 128,64,0>L\u00edmite de Heli\u00f3polis<END FC>!<E>",
+    "description": "SphinxText.xls, row 614"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToSouthBeachPrice": {
+    "message": "Te costar\u00e1 <FC 0,128,0>5 skarabs<END FC><N>  <B 1> Vale<N>  <B 2> Olv\u00eddalo<E>",
+    "description": "SphinxText.xls, row 615"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToSouthBeachConfirm": {
+    "message": "\u00a1Pr\u00f3xima parada <FC 128,64,0>Playa Sur<END FC>!<E>",
+    "description": "SphinxText.xls, row 616"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_AtHeliopolisPoint": {
+    "message": "\u00a1Ya est\u00e1s en el <FC 128,64,0>L\u00edmite de Heli\u00f3polis<END FC>! Amigo m\u00edo, no se te da muy bien la geograf\u00eda, \u00bfverdad?<E>",
+    "description": "SphinxText.xls, row 617"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_AtCursedPalace": {
+    "message": "\u00a1Ya est\u00e1s en el <FC 128,64,0>Palacio Maldito<END FC>! \u00bfAcaso no ves ese enorme edificio de all\u00ed?<E>",
+    "description": "SphinxText.xls, row 618"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_AtSouthBeach": {
+    "message": "\u00a1Ya est\u00e1s en la <FC 128,64,0>Playa Sur<END FC>! \u00a1Deber\u00edas fijarte m\u00e1s en lo que te rodea, amigo!<E>",
+    "description": "SphinxText.xls, row 619"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_AtBedouinOutpost": {
+    "message": "\u00a1Ya est\u00e1s en el <FC 128,64,0>Poblado beduino<END FC>! \u00bfNo has visto todas esas tiendas detr\u00e1s de ti?<E>",
+    "description": "SphinxText.xls, row 620"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_QuestIntro": {
+    "message": "Te llevar\u00eda a <FC 128,64,0>Abydos<END FC>, pero me han robado la <FC 0,128,0>Vela<END FC> y no puedo remar tanta distancia.<P>Si encuentras la <FC 0,128,0>Vela<END FC>, estar\u00e9 encantado de llevarte a <FC 128,64,0>Abydos<END FC> gratis.<E>",
+    "description": "SphinxText.xls, row 621"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_QuestReminder": {
+    "message": "Te dije que s\u00f3lo puedo llevarte a <FC 128,64,0>Abydos<END FC> si encuentras mi <FC 0,128,0>Vela<END FC>.<E>",
+    "description": "SphinxText.xls, row 622"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_QuestComplete": {
+    "message": "\u00a1Bien! \u00a1Has encontrado mi <FC 0,128,0>Vela<END FC>!<P>Podemos irnos a <FC 128,64,0>Abydos<END FC> en cuanto quieras.<N>  <B 1> V\u00e1monos<N>  <B 2> Todav\u00eda no<E>",
+    "description": "SphinxText.xls, row 623"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToAbydosFree": {
+    "message": "Como has encontrado la vela, esta vez te llevar\u00e9 gratis.<N>  <B 1> V\u00e1monos<N>  <B 2> Todav\u00eda no<E>",
+    "description": "SphinxText.xls, row 624"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_NotEnoughMoney": {
+    "message": "Lo siento, no tienes bastantes <FC 0,128,0>skarabs<END FC>.<E>",
+    "description": "SphinxText.xls, row 625"
+  },
+  "HT_Text_Hel_Exterior_DungeonGuard_Intro01": {
+    "message": "<CNTR>---[ <FC 128,64,0>Templo Perdido de Heli\u00f3polis<END FC> ]---<N>---[ Tan solo quienes demuestren su val\u00eda en el combate<N>podr\u00e1n entrar a este lugar sagrado ]---<E>",
+    "description": "SphinxText.xls, row 626"
+  },
+  "HT_Text_Hel_Exterior_DungeonGuard_Defeated01": {
+    "message": "Muy bien, has demostrado ser digno merecedor de entrar en el <FC 128,64,0>Templo sagrado<END FC>.<P>Adi\u00f3s, joven guerrero.<E>",
+    "description": "SphinxText.xls, row 627"
+  },
+  "HT_Text_Hel_Exterior_DungeonGuard_Defeated02": {
+    "message": "Eres libre de entrar en el <FC 128,64,0>Templo sagrado<END FC> siempre que quieras, joven guerrero.<E>",
+    "description": "SphinxText.xls, row 628"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_Intro01": {
+    "message": "\u00a1Hola! No recuerdo haber visto tu cara antes por aqu\u00ed. Te doy la bienvenida a <FC 128,64,0>Heli\u00f3polis<END FC>.<P>Aunque parece un lugar inh\u00f3spito, en <FC 128,64,0>Heli\u00f3polis<END FC> viven muchos tipos de monstruos.<P>Uno de mis pasatiempos es recoger espec\u00edmenes de monstruos de este y otros mundos.<E>",
+    "description": "SphinxText.xls, row 629"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_Intro02": {
+    "message": "Si no tienes ning\u00fan <FC 0,128,0>Escarabajo de captura<END FC>, me temo que no vas a poder ayudarme.<E>",
+    "description": "SphinxText.xls, row 630"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_Prompt01": {
+    "message": "Veo que tienes un <FC 0,128,0>Saquito de escarabajos<END FC>.<P>\u00bfTe interesar\u00eda ser mi ayudante?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 631"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_Prompt02": {
+    "message": "\u00bfTe interesar\u00eda ser mi ayudante?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 632"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_PromptAccept01": {
+    "message": "\u00a1Genial! Ahora, como mi ayudante, conf\u00edo en que me ayudes a ampliar mi colecci\u00f3n de espec\u00edmenes de monstruos.<P>Toma esta lista. Cuando hayas capturado un monstruo de cada tipo, tr\u00e1emelos y hablaremos de los honorarios.<P>\u00a1Que te diviertas!<E>",
+    "description": "SphinxText.xls, row 633"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_PromptDecline01": {
+    "message": "Bueno, t\u00fa ver\u00e1s. Los ayudantes pueden vivir con bastantes comodidades.<E>",
+    "description": "SphinxText.xls, row 634"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List01Incomplete": {
+    "message": "No tienes todos los monstruos de la lista. Vuelve cuando tengas uno de cada tipo.<E>",
+    "description": "SphinxText.xls, row 635"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List01Complete": {
+    "message": "Muy bien. Has capturado todos los monstruos de la lista. Ah, veo que son espec\u00edmenes muy buenos. Quedar\u00e1n perfectos en mi colecci\u00f3n.<P>Y ahora, tus honorarios. Estos monstruos son bastante comunes, tan solo te puedo dar <FC 0,128,0>100 skarabs<END FC> por ellos.<E>",
+    "description": "SphinxText.xls, row 636"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List02Presentation": {
+    "message": "Te he preparado otra lista de monstruos. Son m\u00e1s ex\u00f3ticos que los de la primera lista pero, como soy un hombre justo, se te reconocer\u00e1 en los honorarios.<P>Aqu\u00ed tienes la lista. \u00a1Que te diviertas!<E>",
+    "description": "SphinxText.xls, row 637"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List02Incomplete": {
+    "message": "Lo siento, la lista est\u00e1 incompleta. Vuelve cuando tengas un monstruo de cada tipo.<E>",
+    "description": "SphinxText.xls, row 638"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List02Complete": {
+    "message": "\u00a1Buen trabajo, amigo! No esperaba que completaras la lista tan pronto. Estoy ansioso por a\u00f1adir estos espec\u00edmenes a mi colecci\u00f3n.<P>Como te dije, la lista conten\u00eda monstruos m\u00e1s ex\u00f3ticos. Te puedo ofrecer <FC 0,128,0>200 skarabs<END FC> por ellos.<E>",
+    "description": "SphinxText.xls, row 639"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List03Presentation": {
+    "message": "En esta lista hay monstruos de que he so\u00f1ado tener toda mi vida.<P>Esos monstruos viven en tierras muy lejanas. \u00a1Tienen que ser lugares maravillosos!<P>Si puedes completar la lista, habr\u00e1s hecho realidad a mis sue\u00f1os. Cons\u00edguela y te recompensar\u00e9 con mi posesi\u00f3n m\u00e1s preciada.<P>\u00a1Que te diviertas!<E>",
+    "description": "SphinxText.xls, row 640"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List03Incomplete": {
+    "message": "No tienes todos los monstruos de la lista. Vuelve cuando tengas uno de cada tipo. \u00a1Mira que darme esperanzas para nada!<E>",
+    "description": "SphinxText.xls, row 641"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List03Complete": {
+    "message": "......<P>\u00a1No puede ser! \u00a1Has completado la lista! \u00a1S\u00ed! \u00a1Que especimenes m\u00e1s maravillosos! \u00a1Es mi d\u00eda de suerte!<P>\u00a1Me has convertido en el hombre m\u00e1s feliz! Toma mi posesi\u00f3n m\u00e1s preciada.<E>",
+    "description": "SphinxText.xls, row 642"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_Complete01": {
+    "message": "Gracias a ti, tengo la mejor colecci\u00f3n de monstruos de toda <FC 128,64,0>Heli\u00f3polis<END FC>.<E>",
+    "description": "SphinxText.xls, row 643"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Intro01": {
+    "message": "\u00a1No deber\u00edas acercarte as\u00ed a la gente! Pens\u00e9 que quer\u00edas robar mi preciada mercanc\u00eda.<P>De hecho, a\u00fan no estoy seguro de si eres de fiar. Si me das <FC 0,128,0>10 skarabs de \u00f3nice<END FC>, puede que cambie de opini\u00f3n.<E>",
+    "description": "SphinxText.xls, row 644"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Intro02": {
+    "message": "Antes sol\u00eda haber muchos <FC 0,128,0>skarabs de \u00f3nice<END FC>, pero ahora son muy raros y valiosos.<E>",
+    "description": "SphinxText.xls, row 645"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Intro03": {
+    "message": "\u00a1\u00bfQu\u00e9 traes?! \u00a1Mi <FC 0,128,0>jerogl\u00edfico<END FC> favorito! Ya me f\u00edo de ti. Por favor, observa la fant\u00e1stica mercanc\u00eda que vendo.<E>",
+    "description": "SphinxText.xls, row 646"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Intro04": {
+    "message": "\u00danicamente acepto <FC 0,128,0>skarabs de \u00f3nice<END FC>. Se dice que un hombre misterioso los acapara en las profundidades de <FC 128,64,0>Uruk<END FC>.<E>",
+    "description": "SphinxText.xls, row 647"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Intro05": {
+    "message": "\u00danicamente acepto <FC 0,128,0>skarabs de \u00f3nice<END FC>.<E>",
+    "description": "SphinxText.xls, row 648"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Prompt01": {
+    "message": "\u00a1Aj\u00e1! \u00bfMe das los <FC 0,128,0>10 skarabs de \u00f3nice<END FC>?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 649"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Accept01": {
+    "message": "\u00a1Excelente! Ahora ya me puedo fiar de ti. Contempla la fant\u00e1stica mercanc\u00eda que tengo a la venta.<E>",
+    "description": "SphinxText.xls, row 650"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Decline01": {
+    "message": "Haz lo que quieras, pero nunca conocer\u00e1s la ex\u00f3tica mercanc\u00eda que vendo. \u00a1Ja!<E>",
+    "description": "SphinxText.xls, row 651"
+  },
+  "HT_Text_Hel_Exterior_Trader_Intro01": {
+    "message": "\u00a1Bienvenido, viajero! Me alegra ver a un nuevo cliente por aqu\u00ed. El negocio no va muy bien \u00faltimamente.<P>No tengo muchas cosas en stock en este momento, pero podr\u00eda haber algo que te interese.<E>",
+    "description": "SphinxText.xls, row 652"
+  },
+  "HT_Text_Hel_Exterior_Trader_General01": {
+    "message": "\u00a1No encontrar\u00e1s estas gangas en ning\u00fan sitio!<E>",
+    "description": "SphinxText.xls, row 653"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Intro01": {
+    "message": "\u00a1Saludos! Me alegra ver a un joven atleta por aqu\u00ed, aunque hay que admitir que tu f\u00edsico no es ni la mitad de impresionante que el m\u00edo.<P>Como puedes ver, mi cuerpo es una m\u00e1quina perfecta, puesta a punto hasta la perfecci\u00f3n durante muchos a\u00f1os de duro entrenamiento.<P>Puedo ir corriendo desde aqu\u00ed hasta el final de la siguiente playa en menos de <FC 0,128,0>70 segundos<END FC>.<E>",
+    "description": "SphinxText.xls, row 654"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Prompt01": {
+    "message": "\u00bfCrees que puedes mejorar mi tiempo?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 655"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Prompt02": {
+    "message": "\u00bfQuieres que te explique las reglas?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 656"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Decline01": {
+    "message": "Ah, eres consciente de tus limitaciones. Vuelve si crees que puedes mejorar mi tiempo.<E>",
+    "description": "SphinxText.xls, row 657"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Accept01": {
+    "message": "Muy bien. \u00a1Buena suerte! \u00a1Vas a necesitarla!<P><N><CNTR>\u00a1Preparado!<P><N><CNTR>\u00a1Listo!<P><N><CNTR>\u00a1Ya!<W 30>",
+    "description": "SphinxText.xls, row 658"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Rules01": {
+    "message": "Corre desde aqu\u00ed hasta el colgante, que est\u00e1 suspendido en una cornisa al final de la siguiente playa, y vuelve en menos de <FC 0,128,0>70 segundos<END FC>.<P>Para asegurarme de que no haces trampas, debes golpear el colgante con la espada antes de volver.<P>Cuando vuelvas, h\u00e1blame y detendr\u00e9 el cron\u00f3metro.<E>",
+    "description": "SphinxText.xls, row 659"
+  },
+  "HT_Text_Hel_Exterior_Athlete_TimeSlow01": {
+    "message": "Has tardado <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> segundos<END FC>. No est\u00e1 mal. Pero, como supuse, no eres tan r\u00e1pido como yo.<E>",
+    "description": "SphinxText.xls, row 660"
+  },
+  "HT_Text_Hel_Exterior_Athlete_TimeSame01": {
+    "message": "\u00a1Guau! Has tardado <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> segundos<END FC>. Has igualado mi mejor tiempo. \u00a1Impresionante! Pero para impresionarme de verdad, tendr\u00e1s que superarme.<E>",
+    "description": "SphinxText.xls, row 661"
+  },
+  "HT_Text_Hel_Exterior_Athlete_TimeFast01": {
+    "message": "\u00bfC\u00f3mo? \u00bfYa est\u00e1s de vuelta? \u00a1S\u00f3lo has tardado <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> segundos<END FC>! \u00a1Incre\u00edble!<P>En vista de que me has superado con creces, admito que eres el mejor atleta. Acepta esto. Me ha mantenido en forma, fuerte y sano desde que recuerdo.<E>",
+    "description": "SphinxText.xls, row 662"
+  },
+  "HT_Text_Hel_Exterior_Athlete_TimeVoid01": {
+    "message": "Si no has golpeado el colgante con la espada, no puedo aceptar el tiempo. \u00a1Lo siento!<E>",
+    "description": "SphinxText.xls, row 663"
+  },
+  "HT_Text_Hel_Exterior_Athlete_TimeVoid02": {
+    "message": "\u00bfTe crees que estoy ciego? \u00a1Te he visto usar el bote! \u00a1Si no te vas a tomar en serio el reto, entonces vete!<E>",
+    "description": "SphinxText.xls, row 664"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Complete01": {
+    "message": "\u00a1Tu tiempo es incre\u00edble! Supongo que tendr\u00e9 que entrenarme m\u00e1s para mejorarlo. Al menos ya tengo un nuevo objetivo.<E>",
+    "description": "SphinxText.xls, row 665"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Prompt01": {
+    "message": "\u00a1Aj\u00e1! \u00a1Al fin alguien en buena forma para correr en mi circuito de obst\u00e1culos!<P>Llevo muchos a\u00f1os entren\u00e1ndome y perfeccionando mi carrera en el circuito. No tengo dudas de que mi r\u00e9cord es insuperable.<P>\u00bfEst\u00e1s preparado para mejorar mi tiempo?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 666"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Prompt02": {
+    "message": "As\u00ed que crees que est\u00e1s preparado para mejorar mi tiempo.<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 667"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Prompt03": {
+    "message": "Improbable, pero veremos. \u00bfQuieres o\u00edr las reglas?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 668"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Prompt04": {
+    "message": "\u00bfCrees que puedes tardar menos de <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> segundos<END FC>?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 669"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Decline01": {
+    "message": "Es de sabios reconocer la derrota. Pero vuelve si cambias de opini\u00f3n.<E>",
+    "description": "SphinxText.xls, row 670"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Rules01": {
+    "message": "Las reglas son sencillas: debes llegar al santuario al final del circuito lo m\u00e1s r\u00e1pido que puedas.<P>Si te sales del circuito y te caes al agua, habr\u00e1s perdido.<E>",
+    "description": "SphinxText.xls, row 671"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Start01": {
+    "message": "\u00a1Buena suerte! \u00a1Sin duda la necesitar\u00e1s!<P><N><CNTR>\u00a1Preparado!<P><N><CNTR>\u00a1Listo!<P><N><CNTR>\u00a1Ya!<W 30>",
+    "description": "SphinxText.xls, row 672"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_MidRace01": {
+    "message": "\u00bfPor qu\u00e9 est\u00e1s hablando conmigo? El tiempo pasa.<E>",
+    "description": "SphinxText.xls, row 673"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeSlow01": {
+    "message": "Ya has vuelto, \u00bfeh? \u00bfPor qu\u00e9 has tardado tanto? <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> segundos<END FC> es un tiempo pat\u00e9tico, amigo m\u00edo.<P>\u00a1Deber\u00edas volver cuando te hayas entrenado un poco m\u00e1s!<E>",
+    "description": "SphinxText.xls, row 674"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeSlow02": {
+    "message": "No lo bastante r\u00e1pido, me temo.<P>Has tardado <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> segundos<END FC> y tu mejor tiempo es <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> segundos<END FC>.<E> ",
+    "description": "SphinxText.xls, row 675"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeMedium01": {
+    "message": "No est\u00e1 mal, <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> segundos<END FC>. Obviamente no has superado mi mejor tiempo.<P>Si te entrenas m\u00e1s, seguro que mejorar\u00e1s.<E> ",
+    "description": "SphinxText.xls, row 676"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeMedium02": {
+    "message": "Has conseguido igualar tu mejor tiempo de <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> segundos<END FC>. Va a ser dif\u00edcil superarlo.<E>",
+    "description": "SphinxText.xls, row 677"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeFast01": {
+    "message": "\u00bfEh? \u00bfC\u00f3mo? \u00bfC\u00f3mo puedes estar ya de vuelta? \u00a1Has hecho trampas! <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> segundos<END FC> es un tiempo incre\u00edble.<P>Te mereces una recompensa. Acepta esto, te dar\u00e1 buena salud durante el viaje.<E>",
+    "description": "SphinxText.xls, row 678"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeFast02": {
+    "message": "\u00a1Excelente! <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> segundos<END FC> es un nuevo r\u00e9cord. Va a ser dif\u00edcil superar ese tiempo.<E>",
+    "description": "SphinxText.xls, row 679"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeVoid01": {
+    "message": "Lo siento, pero te has ca\u00eddo al mar, as\u00ed que no lo has conseguido. S\u00e9cate y vuelve a intentarlo si quieres.<E>",
+    "description": "SphinxText.xls, row 680"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Prompt01": {
+    "message": "\u00a1Hola! Tienes pinta de ser una persona a la que le gustan los retos f\u00edsicos, toda una virtud en estos tiempos tan oscuros.<P>Soy el mejor nadador de <FC 128,64,0>Heli\u00f3polis<END FC>, mucho mejor que esos flojuchos de <FC 128,64,0>Abydos<END FC>.<P>He perfeccionado mi t\u00e9cnica en un circuito de entrenamiento en el mar, entre la <FC 128,64,0>Playa Sur<END FC> y la <FC 128,64,0>Isla del Santuario Solar<END FC>.<P>\u00bfCrees que puedes completar mi circuito de entrenamiento?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 681"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Prompt02": {
+    "message": "\u00bfCrees que puedes con mi circuito de entrenamiento?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 682"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Prompt03": {
+    "message": "Muy bien. \u00bfTe gustar\u00eda o\u00edr las reglas?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 683"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Prompt04": {
+    "message": "\u00bfCrees que puedes tardar menos de <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> segundos<END FC>?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 684"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Decline01": {
+    "message": "Probablemente has evitado hacer el rid\u00edculo, amigo m\u00edo. Vuelve si cambias de opini\u00f3n.<E>",
+    "description": "SphinxText.xls, row 685"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Rules01": {
+    "message": "Las reglas son sencillas: hay una serie de puntos en el mar por los que debes pasar.<P>Esos puntos tan solo est\u00e1n activos durante un tiempo, as\u00ed que debes llegar a ellos antes de que se desactiven.<P>Cuando pases por un punto, se activar\u00e1 el siguiente.<P>Si no llegas a un punto antes de que se desactive, habr\u00e1s fallado.<E>",
+    "description": "SphinxText.xls, row 686"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Start01": {
+    "message": "\u00a1La suerte no te servir\u00e1, pero te la deseo igualmente!<P><N><CNTR>\u00a1Preparado!<P><N><CNTR>\u00a1Listo!<P><N><CNTR>\u00a1Ya!<W 30>",
+    "description": "SphinxText.xls, row 687"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_TimeSlow01": {
+    "message": "\u00a1Has tardado mucho! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> segundos<END FC> es mucho tiempo, amigo.<P>Tu mejor tiempo sigue siendo <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> segundos<END FC>.<E> ",
+    "description": "SphinxText.xls, row 688"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_TimeMedium01": {
+    "message": "Has conseguido igualar tu mejor tiempo de <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> segundos<END FC>. En vista de lo cansado que est\u00e1s, te va a costar superarlo.<E>",
+    "description": "SphinxText.xls, row 689"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_TimeFast01": {
+    "message": "\u00a1Excelente! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> segundos<END FC> es un nuevo r\u00e9cord. Va a ser dif\u00edcil superar ese tiempo. \u00a1Menuda chiripa!<E>",
+    "description": "SphinxText.xls, row 690"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_TimeReward01": {
+    "message": "\u00a1Impresionante, amigo m\u00edo! Pocas personas est\u00e1n preparadas para mi circuito de entrenamiento.<P>Puesto que has conseguido completarlo en tan solo <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> segundos<END FC>, quiero hacerte este regalo.<P>Me lo dio hace tiempo un nadador de Abydos. Obviamente, yo nunca lo uso. Puedo nadar lo bastante r\u00e1pido sin la ayuda de artilugios m\u00e1gicos.<E>",
+    "description": "SphinxText.xls, row 691"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_TimeReward02": {
+    "message": "Si quieres volver a probar el circuito y mejorar tu tiempo, d\u00edmelo.<E>",
+    "description": "SphinxText.xls, row 692"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_TimeFailed01": {
+    "message": "\u00a1Ja, ja, ja! Sab\u00eda que mi circuito era demasiado para ti. Vuelve cuando te hayas entrenado m\u00e1s, amigo m\u00edo.<E>",
+    "description": "SphinxText.xls, row 693"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_Normal01": {
+    "message": "\u00a1Saludos! Bienvenido a <FC 128,64,0>Heli\u00f3polis<END FC>. Perm\u00edteme presentarte a mi bella esposa, Ketta.<E>",
+    "description": "SphinxText.xls, row 694"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_Normal02": {
+    "message": "\u00daltimamente pasan cosas extra\u00f1as. Me gustar\u00eda que <FC 128,64,0>Heli\u00f3polis<END FC> volviera a ser como antes.<E>",
+    "description": "SphinxText.xls, row 695"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeGone01a": {
+    "message": "\u00a1Ketta! \u00a1Ketta! \u00bfD\u00f3nde est\u00e1s? \u00bfQu\u00e9 voy a hacer? \u00a1Mi mujer ha desaparecido!<E>",
+    "description": "SphinxText.xls, row 696"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeGone01b": {
+    "message": "Cuando me levant\u00e9 esta ma\u00f1ana, no estaba. \u00a1Dios m\u00edo! \u00a1Le ha ocurrido algo malo! \u00a1Lo presiento!<E>",
+    "description": "SphinxText.xls, row 697"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeGone01c": {
+    "message": "Creo que he o\u00eddo su voz en este edificio, pero entrar me da demasiado pavor. \u00a1Maldita sea mi cobard\u00eda!<E>",
+    "description": "SphinxText.xls, row 698"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeGone01d": {
+    "message": "<EFF><EPO>Por favor, entra a rescatarla. \u00a1Te lo ruego!<P><FC 128,64,0>Heli\u00f3polis<END FC> se ha convertido en un lugar horrible. Hay monstruos y gente maldita y petrificada por todos sitios. \u00a1Y ahora Ketta! \u00a1Por favor, ay\u00fadame!<E>",
+    "description": "SphinxText.xls, row 699"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeGone02": {
+    "message": "\u00a1Encuentra a mi esposa! No te conozco, pero \u00bfa qui\u00e9n m\u00e1s puedo recurrir? <E>",
+    "description": "SphinxText.xls, row 700"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeBack01": {
+    "message": "\u00a1El h\u00e9roe ha vuelto! \u00a1Rescataste a mi mujer! \u00bfC\u00f3mo te lo podr\u00eda agradecer?<E>",
+    "description": "SphinxText.xls, row 701"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeBack02": {
+    "message": "Cuando nos conocimos, no me di cuenta de que eras un aprendiz de nuestro amigo Imhotep. Dice que quiere hablar contigo en el <FC 128,64,0>Santuario Solar<END FC>.<E>",
+    "description": "SphinxText.xls, row 702"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeBack03": {
+    "message": "Tambi\u00e9n me pidi\u00f3 que te diera esto. Al parecer cree que te resultar\u00e1 \u00fatil en tu aventura.<E>",
+    "description": "SphinxText.xls, row 703"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeBack04": {
+    "message": "\u00a1Qu\u00e9 alegr\u00eda volver a ver a Ketta de nuevo en casa! \u00a1Gracias de nuevo! \u00a1Gracias!<E>",
+    "description": "SphinxText.xls, row 704"
+  },
+  "HT_Text_Hel_Exterior_NomadWife_Normal01": {
+    "message": "A mi marido le preocupa <FC 128,64,0>Heli\u00f3polis<END FC>. Y lo entiendo. Se ha convertido en un lugar opresivo.<E>",
+    "description": "SphinxText.xls, row 705"
+  },
+  "HT_Text_Hel_Exterior_NomadWife_Normal02": {
+    "message": "Pero estoy segura de que <FC 128,64,0>Heli\u00f3polis<END FC> volver\u00e1 a ser como antes.<E>",
+    "description": "SphinxText.xls, row 706"
+  },
+  "HT_Text_Hel_Exterior_NomadWife_Trapped01": {
+    "message": "\u00a1Por fin alguien viene a rescatarme! \u00a1Debes encontrar la manera de desactivar este campo de fuerza!<P>Seguro que esos tres rayos de colores lo hacen funcionar. Si descubres c\u00f3mo desactivarlos, podr\u00eda escapar.<E>",
+    "description": "SphinxText.xls, row 707"
+  },
+  "HT_Text_Hel_Exterior_NomadWife_Trapped02": {
+    "message": "\u00a1Por favor, debes ayudarme!<E>",
+    "description": "SphinxText.xls, row 708"
+  },
+  "HT_Text_Hel_Exterior_NomadWife_Back01": {
+    "message": "\u00a1Eres mi h\u00e9roe, extranjero!<E>",
+    "description": "SphinxText.xls, row 709"
+  },
+  "HT_Text_Hel_Exterior_NomadWife_Back02": {
+    "message": "Nunca olvidar\u00e9 lo que has hecho por m\u00ed, extranjero. Tienes un lugar en mi coraz\u00f3n.<E>",
+    "description": "SphinxText.xls, row 710"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Intro01": {
+    "message": "\u00a1Hola! \u00bfEres uno de esos aventureros que busca tesoros y ese tipo de cosas?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 711"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Intro01Accept": {
+    "message": "Ahh... Pues la verdad es que lo pareces.<E>",
+    "description": "SphinxText.xls, row 712"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Intro01Decline": {
+    "message": "Bueno, supongo que las apariencias enga\u00f1an. Yo soy pastor de Mequetrefes, pero nadie lo dir\u00eda por mi aspecto.<E>",
+    "description": "SphinxText.xls, row 713"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt01": {
+    "message": "As\u00ed que, Sr. Aventurero, te har\u00e9 una oferta. Tengo aqu\u00ed un precioso tesoro que estoy seguro de que te va a parecer muy interesante.<P>Si puedes ayudarme a meter a mis Mequetrefes de nuevo en este redil, te dar\u00e9 este trozo de tesoro.<P>\u00bfAceptas mi oferta?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 714"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt01Accept": {
+    "message": "\u00a1Excelente! Re\u00fane a los animales y ven a buscarme cuando hayas terminado.<E>",
+    "description": "SphinxText.xls, row 715"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt01Decline": {
+    "message": "Ah, bien. Supongo que tendr\u00e9 que quedarme con el precioso trozo del tesoro.<E>",
+    "description": "SphinxText.xls, row 716"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt02": {
+    "message": "Son mis Mequetrefes. Se han escapado todos y necesito que alguien los re\u00fana. Si pudieras ayudarme, te recompensar\u00eda.<P>\u00bfMe vas a ayudar?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 717"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt02Accept": {
+    "message": "\u00a1Excelente! Re\u00fane a los animales y ven a buscarme cuando hayas terminado.<E>",
+    "description": "SphinxText.xls, row 718"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt02Decline": {
+    "message": "Ah, bien. Supongo que tendr\u00e9 que quedarme con el precioso trozo del tesoro.<E>",
+    "description": "SphinxText.xls, row 719"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt03": {
+    "message": "\u00bfHas decidido ayudarme?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 720"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt03Accept": {
+    "message": "\u00a1Excelente! Re\u00fane a los animales y ven a buscarme cuando hayas terminado.<E>",
+    "description": "SphinxText.xls, row 721"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt03Decline": {
+    "message": "Ah, bien. Supongo que tendr\u00e9 que quedarme con el precioso trozo del tesoro.<E>",
+    "description": "SphinxText.xls, row 722"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Squirts01": {
+    "message": "\u00a1Todav\u00eda faltan <FC 0,128,0><SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft> Mequetrefes<END FC>, amigo!<E>",
+    "description": "SphinxText.xls, row 723"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Squirts02": {
+    "message": "\u00a1Todav\u00eda falta <FC 0,128,0><SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft> Mequetrefe<END FC>, amigo!<E>",
+    "description": "SphinxText.xls, row 724"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Reward01": {
+    "message": "\u00a1Lo lograste! Mis Mequetrefes vuelven a estar en el redil, gracias a ti. Acepta esto, te lo mereces.<E>",
+    "description": "SphinxText.xls, row 725"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Done01": {
+    "message": "\u00a1Mis Mequetrefes est\u00e1n muy bien! Un d\u00eda voy a construir un rancho de Mequetrefes en el que pueda criar a cientos de ellos.<E>",
+    "description": "SphinxText.xls, row 726"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Done02": {
+    "message": "\u00a1Gracias por tu ayuda! Mis Mequetrefes est\u00e1n muy bien.<E>",
+    "description": "SphinxText.xls, row 727"
+  },
+  "HT_Text_Hel_Ext_Horus_WallEntrance1": {
+    "message": "\u00a1Ah\u00ed est\u00e1s, Sphinx! Sab\u00eda que nos volver\u00edamos a ver. Como puedes comprobar, consegu\u00ed sobrevivir estoicamente en <FC 128,64,0>Uruk<END FC>. En fin, no te aburrir\u00e9 con los detalles.<E>",
+    "description": "SphinxText.xls, row 728"
+  },
+  "HT_Text_Hel_Ext_Horus_WallEntrance2": {
+    "message": "\u00a1Tuviste suerte en <FC 128,64,0>Uruk<END FC>, pero esa espada me pertenece! \u00a1Nunca la hubieras encontrado sin mi ayuda!<E>",
+    "description": "SphinxText.xls, row 729"
+  },
+  "HT_Text_Hel_Ext_Horus_WallEntrance3": {
+    "message": "Una vez m\u00e1s, te crees que eres mejor de lo que eres. No puedes llegar hasta ah\u00ed. \u00a1No tienes la capacidad de saltar tan alto! Tu debilidad es pat\u00e9tica.<E>",
+    "description": "SphinxText.xls, row 730"
+  },
+  "HT_Text_Hel_Ext_Horus_WallEntrance3a": {
+    "message": "Vi a Imhotep en el templo de la <FC 128,64,0>Isla del Santuario Solar<END FC>. Ese viejo chalado me dijo que estaba busc\u00e1ndote.<E>",
+    "description": "SphinxText.xls, row 731"
+  },
+  "HT_Text_Hel_Ext_Horus_WallEntrance4": {
+    "message": "\u00a1Como ves, ni siquiera puedes entrar! Resolver\u00e9 yo solito el problema de Anubis, a pesar de lo que diga Imhotep. \u00a1Hasta pronto!<E>",
+    "description": "SphinxText.xls, row 732"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility01": {
+    "message": "Sphinx, he o\u00eddo que has convencido a Anubis para que libere a algunas personas del <FC 128,64,0>Palacio Maldito<END FC>.<E>",
+    "description": "SphinxText.xls, row 733"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility02": {
+    "message": "Odio admitirlo, pero me equivoqu\u00e9 contigo. Admiro tu valor y tu compasi\u00f3n con esa pobre gente.<E>",
+    "description": "SphinxText.xls, row 734"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility03": {
+    "message": "Has demostrado ser mi igual. Como muestra de mi buena voluntad, he decidido hacerte un regalo.<E>",
+    "description": "SphinxText.xls, row 735"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility04": {
+    "message": "No es un regalo normal. Es la <FC 0,128,0>Piedra oscura de Invisibilidad<END FC>. Da el poder de la invisibilidad a la persona que la use.<E>",
+    "description": "SphinxText.xls, row 736"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility05": {
+    "message": "Estoy seguro de que te ser\u00e1 muy \u00fatil en tus aventuras. Espero que perdones la arrogancia con la que te he tratado. Te pido disculpas, Sphinx.<E>",
+    "description": "SphinxText.xls, row 737"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility06": {
+    "message": "\u00a1No la uses! \u00a1Es una trampa!<E>",
+    "description": "SphinxText.xls, row 738"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility07": {
+    "message": "S\u00ed, es la <FC 0,128,0>Piedra oscura de Invisibilidad<END FC>, pero el poder de la invisibilidad tiene un efecto horrible: causa la muerte instant\u00e1nea.<E>",
+    "description": "SphinxText.xls, row 739"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility08": {
+    "message": "\u00a1Claro! \u00a1Tutankam\u00f3n puede usarla sin ning\u00fan tipo de riesgo!<E>",
+    "description": "SphinxText.xls, row 740"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility09": {
+    "message": "Guarda la piedra. Se la enviaremos a nuestro amigo la Momia cuando tengamos la ocasi\u00f3n.<E>",
+    "description": "SphinxText.xls, row 741"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility10": {
+    "message": "Me temo que no deber\u00edas volver a fiarte de Horus. Est\u00e1 claro que la envidia le ha nublado el juicio. \u00bfQui\u00e9n sabe qu\u00e9 pretende?<E>",
+    "description": "SphinxText.xls, row 742"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility11": {
+    "message": "Quiz\u00e1 su supervivencia en <FC 128,64,0>Uruk<END FC> no fue una cuesti\u00f3n de mera suerte.<E>",
+    "description": "SphinxText.xls, row 743"
+  },
+  "HT_Text_Hel_Exterior_DuckBeliever_FirstVisit": {
+    "message": "<FT HT_Font_Symbol>decadceabde ca bec deabca a becd edbeca dbace<END FT><E>",
+    "description": "SphinxText.xls, row 744"
+  },
+  "HT_Text_Hel_Exterior_SlyBeliever_FirstVisit": {
+    "message": "<FT HT_Font_Symbol>abdecca cabeddec ab ac dece bedac deb cbdbeba dbdba<END FT><E>",
+    "description": "SphinxText.xls, row 745"
+  },
+  "HT_Text_Hel_Exterior_ToothyBeliever_FirstVisit": {
+    "message": "<FT HT_Font_Symbol>edebec bec debba acbeda deb bedab<END FT><E>",
+    "description": "SphinxText.xls, row 746"
+  },
+  "HT_Text_Hel_Exterior_SquashBeliever_FirstVisit": {
+    "message": "<FT HT_Font_Symbol>dceab dceabde ca be bebdba dacade cedaccbcba<END FT> ]---<E>",
+    "description": "SphinxText.xls, row 747"
+  },
+  "HT_Text_Hel_Exterior_DuckBeliever_SecondVisit": {
+    "message": "S\u00f3lo el Elegido del que habla la profec\u00eda puede descubrir el secreto del Gran Obelisco.<E>",
+    "description": "SphinxText.xls, row 748"
+  },
+  "HT_Text_Hel_Exterior_SlyBeliever_SecondVisit": {
+    "message": "El Gran Obelisco s\u00f3lo revelar\u00e1 su secreto al Elegido del que habla la profec\u00eda.<E>",
+    "description": "SphinxText.xls, row 749"
+  },
+  "HT_Text_Hel_Exterior_ToothyBeliever_SecondVisit": {
+    "message": "Dentro del Gran Obelisco hay un objeto muy importante para el Elegido de la profec\u00eda.<E>",
+    "description": "SphinxText.xls, row 750"
+  },
+  "HT_Text_Hel_Exterior_SquashBeliever_SecondVisit": {
+    "message": "El Elegido del que habla la profec\u00eda conquistar\u00e1 el <FC 128,64,0>Templo Perdido de Heli\u00f3polis<END FC>, traducir\u00e1 el texto antiguo y descubrir\u00e1 el secreto del Gran Obelisco.<E>",
+    "description": "SphinxText.xls, row 751"
+  },
+  "HT_Text_HT_Text_Hel_Exterior_DuckBeliever_ObeliskOpened": {
+    "message": "Has descifrado los antiguos textos del Obelisco. \u00bfHay m\u00e1s Obeliscos que descifrar?<E>",
+    "description": "SphinxText.xls, row 760"
+  },
+  "HT_Text_HT_Text_Hel_Exterior_SlyBeliever_ObeliskOpened": {
+    "message": "\u00a1Es verdad! Eres el Elegido. Es un verdadero honor estar en tu presencia.<E>",
+    "description": "SphinxText.xls, row 761"
+  },
+  "HT_Text_HT_Text_Hel_Exterior_ToothyBeliever_ObeliskOpened": {
+    "message": "\u00a1Debes de ser la persona que ha venido a salvar <FC 128,64,0>Heli\u00f3polis<END FC> y los antiguos reinos!<E>",
+    "description": "SphinxText.xls, row 762"
+  },
+  "HT_Text_Hel_Exterior_SquashBeliever_ObeliskOpened": {
+    "message": "\u00a1Los dioses han enviado un mensajero! Rezaremos por ti, Elegido.<E>",
+    "description": "SphinxText.xls, row 763"
+  },
+  "HT_Text_Hel_Exterior_Basket_Obelisk": {
+    "message": "\u00a1Hola de nuevo, Sphinx! Tengo informaci\u00f3n importante de Imhotep.<P>Est\u00e1 contento de tus progresos y del artefacto que tengo aqu\u00ed, las <FC 0,128,0>Manos de Amun<END FC>. Ha visto que est\u00e1s preparado para empezar la b\u00fasqueda de la <FC 0,128,0>Corona sagrada de Uruk<END FC>.<P>Cree que la corona puede estar en las <FC 128,64,0>Islas Uruk<END FC> y que tendr\u00e1s que abrir la <FC 128,64,0>Puerta del Gran Muro III<END FC> para llegar all\u00ed.<E>",
+    "description": "SphinxText.xls, row 764"
+  },
+  "HT_Text_Hel_Exterior_Sign_CursedPalace01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Palacio Maldito<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 765"
+  },
+  "HT_Text_Hel_Exterior_Sign_BedouinOutpost01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Poblado Beduino<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 766"
+  },
+  "HT_Text_Hel_Exterior_Sign_WallEntrance01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Puerta del Gran Muro I<END FC> :<N>conduce a la <FC 128,64,0>Torre de Anubis<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 767"
+  },
+  "HT_Text_Hel_Exterior_Sign_WallEntrance02": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Puerta del Gran Muro II<END FC> :<N>conduce al <FC 128,64,0>Ca\u00f1\u00f3n de Uruk<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 768"
+  },
+  "HT_Text_Hel_Exterior_Sign_WallEntrance03": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Puerta del Gran Muro III<END FC> : conduce a las <FC 128,64,0>Islas Uruk<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 769"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToHeliopolisPoint01": {
+    "message": "<CNTR>---[ A <FC 128,64,0>L\u00edmite de Heli\u00f3polis<END FC>, <FC 128,64,0>Puerta del Gran Muro III<END FC> ]---<N>---[ y acceso al <FC 128,64,0>Desierto Sur<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 770"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToHeliopolisPoint02": {
+    "message": "<N><CNTR>--[ A <FC 128,64,0>L\u00edmite de Heli\u00f3polis<END FC> y la <FC 128,64,0>Puerta del Gran Muro III<END FC> ]--<E>",
+    "description": "SphinxText.xls, row 771"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToBedouinOutpost01": {
+    "message": "<CNTR>---[ A <FC 128,64,0>Poblado Beduino<END FC> ]---<N>---[ \u00a1Aviso! \u00a1S\u00f3lo buenos nadadores! ]---<E>",
+    "description": "SphinxText.xls, row 772"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToBedouinOutpost02": {
+    "message": "<N><CNTR>---[ A <FC 128,64,0>Poblado Beduino<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 773"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToSouthDesert01": {
+    "message": "<N><CNTR>---[ A <FC 128,64,0>Desierto Sur<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 774"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToCursedPalace01": {
+    "message": "<N><CNTR>---[ A <FC 128,64,0>Puerta del Gran Muro II<END FC>, <FC 128,64,0>Palacio Maldito<END FC> ]---<N>---[ y <FC 128,64,0>Puerta del Gran Muro I<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 775"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToCursedPalace02": {
+    "message": "<N><CNTR>---[ A <FC 128,64,0>Palacio Maldito<END FC> y <FC 128,64,0>Puerta del Gran Muro I<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 776"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToGreatObelisk01": {
+    "message": "<N><CNTR>---[ Al <FC 128,64,0>Gran Obelisco<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 777"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToSunShrine01": {
+    "message": "<CNTR>---[ A <FC 128,64,0>Isla del Santuario Solar<END FC> ]---<N>---[ \u00a1Hay peces p\u00faa! ]---<E>",
+    "description": "SphinxText.xls, row 778"
+  },
+  "HT_Text_Hel_Exterior_Sign_SunShrine01": {
+    "message": "<N><CNTR>---[ Bienvenido a la <FC 128,64,0>Isla del Santuario Solar<END FC>. ]---<E>",
+    "description": "SphinxText.xls, row 779"
+  },
+  "HT_Text_Hel_Exterior_Sign_HeliopolisPoint01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>L\u00edmite de Heli\u00f3polis<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 780"
+  },
+  "HT_Text_Hel_Exterior_Sign_SouthBeach01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Playa Sur<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 781"
+  },
+  "HT_Text_Hel_Exterior_Sign_Cave01": {
+    "message": "<N><CNTR>---[ A <FC 128,64,0>Playa Sur<END FC> e <FC 128,64,0>Isla del Santuario Solar<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 782"
+  },
+  "HT_Text_Hel_Exterior_Sign_Cave02": {
+    "message": "<N><CNTR>---[ A <FC 128,64,0>Palacio Maldito<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 783"
+  },
+  "HT_Text_Hel_Exterior_Sign_Cave03": {
+    "message": "<N><CNTR>---[ A <FC 128,64,0>L\u00edmite de Heli\u00f3polis<END FC> y la<N><FC 128,64,0>Puerta del Gran Muro III<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 784"
+  },
+  "HT_Text_Hel_Exterior_Sign_Cave04": {
+    "message": "<N><CNTR>---[ A <FC 128,64,0>Playa Sur<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 785"
+  },
+  "HT_Text_Hel_Exterior_Sign_SquirtHerd01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Redil de Sekhmet<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 786"
+  },
+  "HT_Text_Hel_Exterior_Sign_Trader01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Bazar de Ben-Ben<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 787"
+  },
+  "HT_Text_Hel_Exterior_Sign_GlyphShop01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Jerogl\u00edficos Gebel<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 788"
+  },
+  "HT_Text_Hel_Exterior_Sign_Farm01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Granja ribere\u00f1a<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 789"
+  },
+  "HT_Text_Hel_Exterior_Sign_BeetleShop01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Escarabajos de captura Khufu<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 790"
+  },
+  "HT_Text_Hel_Exterior_Sign_BeetleShopClosed01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Escarabajos de captura Khufu<END FC> ]---<N><CNTR>---[ Cerrado por reformas. Vuelve m\u00e1s tarde ]---<E>",
+    "description": "SphinxText.xls, row 791"
+  },
+  "HT_Text_Hel_Exterior_Sign_Healer01": {
+    "message": "<CNTR>---[ <FC 128,64,0>Shetta, la Sanadora<END FC> ]---<N>---[ Curaciones y rituales con <FC 0,128,0>trozos de Ankh<END FC> ]---<E>",
+    "description": "SphinxText.xls, row 792"
+  },
+  "HT_Text_Hel_Exterior_Sign_ArcheologistAway01": {
+    "message": "<N><CNTR>---[ En expedici\u00f3n. Vuelvo dentro de unos meses. ]---<N><CNTR>---[ Urbano, el Arque\u00f3logo. ]---<E>",
+    "description": "SphinxText.xls, row 793"
+  },
+  "HT_Text_Hel_Exterior_Sign_ArcheologistBack01": {
+    "message": "<N><CNTR>---[ El archifamoso Urbano, el Arque\u00f3logo ]---<N><CNTR>---[ \u00a1Descubridor de los famosos <FC 0,128,0>trozos de Piedra Rosetta<END FC>! ]---<E>",
+    "description": "SphinxText.xls, row 794"
+  },
+  "HT_Text_Hel_Exterior_Sign_GreatObelisk01": {
+    "message": "<N><CNTR><FT HT_Font_Symbol>ade beda cdeabc ade decabde cabedacb a bedac<END FT> <E>",
+    "description": "SphinxText.xls, row 795"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk01": {
+    "message": "<N><CNTR><FT HT_Font_Symbol>decabde cabedacb a bedac...<END FT><E>",
+    "description": "SphinxText.xls, row 797"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk02": {
+    "message": "<N><CNTR><FT HT_Font_Symbol>...decadceabde ca bec deabca...<END FT><E>",
+    "description": "SphinxText.xls, row 798"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk03": {
+    "message": "<N><CNTR><FT HT_Font_Symbol>...abdecca cabeddec ab ac dece...<END FT><E>",
+    "description": "SphinxText.xls, row 799"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk04": {
+    "message": "<N><CNTR><FT HT_Font_Symbol>...edebec bec debba acbeda deb...<END FT><E>",
+    "description": "SphinxText.xls, row 800"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk05": {
+    "message": "<N><CNTR><FT HT_Font_Symbol>...dceab dceabde ca be...<END FT><E>",
+    "description": "SphinxText.xls, row 801"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk01Translated": {
+    "message": "<N><CNTR>---[ Cuando la Era de Osiris llegue a su fin... ]---<E>",
+    "description": "SphinxText.xls, row 802"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk02Translated": {
+    "message": "<N><CNTR>---[ ...la Sombra de Set descender\u00e1 sobre nosotros... ]---<E>",
+    "description": "SphinxText.xls, row 803"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk03Translated": {
+    "message": "<N><CNTR>---[ ...pero un gran guerrero de nombre Sphinx... ]---<E>",
+    "description": "SphinxText.xls, row 804"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk04Translated": {
+    "message": "<N><CNTR>---[ ...se revelar\u00e1 como el Elegido... ]---<E>",
+    "description": "SphinxText.xls, row 805"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk05Translated": {
+    "message": "<N><CNTR>---[ ...para defender el Ojo eterno de Ra. ]---<E>",
+    "description": "SphinxText.xls, row 806"
+  },
+  "HT_Text_Hel_Exterior_Help_SmallObeliskTranslated": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>\u00a1Este antiguo texto traducido<N>se ha a\u00f1adido a tus notas!<E>",
+    "description": "SphinxText.xls, row 807"
+  },
+  "HT_Text_Hel_Exterior_Help_DoorLocked01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>La puerta est\u00e1 cerrada desde el otro lado.<E><ES HT_Text_ES_E_HelpText>",
+    "description": "SphinxText.xls, row 809"
+  },
+  "HT_Text_Hel_Exterior_Help_CrackedRock01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Estas rocas parecen fr\u00e1giles y agrietadas.<E><ES HT_Text_ES_E_HelpText>",
+    "description": "SphinxText.xls, row 810"
+  },
+  "HT_Text_Hel_Exterior_Help_SlamAttack01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Estos interruptores s\u00f3lo se pueden activar<N>d\u00e1ndoles un <FC 0,128,0>GOLPE<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Realiza una <FC 0,128,0>VOLTERETA<END FC> y luego pulsa <SB HT_Action_Attack><N>en el aire para dar un <FC 0,128,0>GOLPE<END FC> y atacar.<P><ES HT_Text_ES_S_HelpText><CNTR>El <FC 0,128,0>GOLPE<END FC> tambi\u00e9n se puede<N>usar contra enemigos.<E><ES HT_Text_ES_E_HelpText>",
+    "description": "SphinxText.xls, row 811"
+  },
+  "HT_Text_Hel_Exterior_Help_EyePost01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Este <FC 0,128,0>poste del Ojo de Ra<END FC> est\u00e1 hecho de<N>piedras agrietadas. Es como si hubiera sufrido<N>alg\u00fan tipo de explosi\u00f3n.<E><ES HT_Text_ES_E_HelpText>",
+    "description": "SphinxText.xls, row 812"
+  },
+  "HT_Text_Hel_Exterior_Help_AtunShrine01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Parece que este pedestal es para una peque\u00f1a estatua.<E><ES HT_Text_ES_E_HelpText>",
+    "description": "SphinxText.xls, row 813"
+  },
+  "HT_Text_Hel_Exterior_Help_BurnBox01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Esta caja de madera podr\u00eda arder si se<N>le acerca lo suficiente una llama.<E><ES HT_Text_ES_E_HelpText>",
+    "description": "SphinxText.xls, row 814"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes <FC 0,128,0>50 skarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 815"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot02": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes un <FC 0,128,0>Ankh de bronce<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Tu salud se ha recuperado <FC 0,128,0>1 Ankh<END FC>.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 816"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot03": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes <FC 0,128,0>200 skarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 817"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot04": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes un <FC 0,128,0>trozo de Ankh de oro<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Recoge cuatro y busca a alguien con la habilidad<N>para aumentar la capacidad de tu salud.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 818"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot05": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes un <FC 0,128,0>Ankh de plata<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Tu salud se ha recuperado <FC 0,128,0>5 Ankh<END FC>.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 819"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot06": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes <FC 0,128,0>400 skarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 820"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot07": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes <FC 0,128,0>10 skarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 821"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot08": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes <FC 0,128,0>100 skarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 822"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot09": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes <FC 0,128,0>20 Escarabajos de captura<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 823"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot10": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes <FC 0,128,0>600 skarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 824"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot11": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes <FC 0,128,0>20 skarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 825"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot12": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes un <FC 0,128,0>Ankh de plata<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Tu salud se ha recuperado <FC 0,128,0>5 Ankh<END FC>.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 826"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot13": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes <FC 0,128,0>200 skarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 827"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot14": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes <FC 0,128,0>10 skarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 828"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot15": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes un <FC 0,128,0>trozo de Ankh de oro<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Recoge cuatro y busca a alguien con la habilidad<N>para aumentar la capacidad de tu salud.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 829"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot16": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes <FC 0,128,0>500 skarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 830"
+  },
+  "HT_Text_Hel_Exterior_Help_GotCreatureList01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes una <FC 0,128,0>Lista de monstruos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Hay cuatro monstruos en la lista. Para verla, selecci\u00f3nala en el Libro de Sphinx.<E>",
+    "description": "SphinxText.xls, row 831"
+  },
+  "HT_Text_Hel_Exterior_Help_GotCreatureList02": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes una <FC 0,128,0>Lista de monstruos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Hay cuatro monstruos en la lista. Para verla, selecci\u00f3nala en el Libro de Sphinx.<E>",
+    "description": "SphinxText.xls, row 832"
+  },
+  "HT_Text_Hel_Exterior_Help_GotCreatureList03": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes una <FC 0,128,0>Lista de monstruos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Hay cuatro monstruos en la lista. Para verla, selecci\u00f3nala en el Libro de Sphinx.<E>",
+    "description": "SphinxText.xls, row 833"
+  },
+  "HT_Text_Hel_Exterior_Help_GotAbydosID": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes un <FC 0,128,0>Pase de Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Este documento oficial te da acceso<N>a la ciudad de <FC 128,64,0>Abydos<END FC>.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 835"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02a": {
+    "message": "\u00a1Lo lograste! \u00a1Has traducido los <FC 0,128,0>5 Obeliscos dorados de Heli\u00f3polis<END FC>!<E>",
+    "description": "SphinxText.xls, row 838"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02b": {
+    "message": "\u00a1Este mensaje es incre\u00edble! En la Antig\u00fcedad predijeron que la oscuridad caer\u00eda sobre nosotros e inscribieron la <FC 0,128,0>Antigua profec\u00eda de Ra<END FC> en los Obeliscos.<E>",
+    "description": "SphinxText.xls, row 839"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02c": {
+    "message": "<EFF><EPO><FC 0,128,0>Cuando la Era de Osiris llegue a su fin, la Sombra de Set descender\u00e1 sobre nosotros,<END FC><P><FC 0,128,0>pero un gran guerrero de nombre Sphinx se revelar\u00e1 como el Elegido para defender el Ojo eterno de Ra.<END FC> <E>",
+    "description": "SphinxText.xls, row 840"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02d": {
+    "message": "\u00a1Eres t\u00fa! \u00a1T\u00fa eres el Elegido! No s\u00e9 qu\u00e9 decir.<E>",
+    "description": "SphinxText.xls, row 841"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02e": {
+    "message": "<EFF><EPO>Acepta esto para que te ayude en tu aventura. Es una estatua m\u00e1gica; dicen que abre el <FC 0,128,0>Gran Obelisco<END FC> de los acantilados, sobre la <FC 128,64,0>Playa Sur<END FC>.<P>Tienes que conseguirlo. El destino de todos est\u00e1 en tus manos. \u00a1Buena suerte, guerrero! <E>",
+    "description": "SphinxText.xls, row 842"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Obelisks01": {
+    "message": "El texto antiguo est\u00e1 inscrito en los <FC 0,128,0>Obeliscos dorados<END FC> que hay por toda <FC 128,64,0>Heli\u00f3polis<END FC>. Siempre me he preguntado qu\u00e9 dicen nuestros ancestros en esos textos.<E>",
+    "description": "SphinxText.xls, row 843"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Obelisks02": {
+    "message": "\u00a1Ah, veo que has traducido algunos de los <FC 0,128,0>Obeliscos dorados<END FC>!<P>Umm, parece que puede tratarse de un mensaje prof\u00e9tico. Debes traducir el resto de los Obeliscos para descubrir qu\u00e9 nos quieren decir.<E>",
+    "description": "SphinxText.xls, row 844"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Done01": {
+    "message": "Tienes que conseguirlo. \u00a1Nuestro destino est\u00e1 en tus manos!<E>",
+    "description": "SphinxText.xls, row 845"
+  },
+  "HT_Text_Hel_BedouinOutpost_BeetleBreeder_Intro01": {
+    "message": "\u00a1Bienvenido, extranjero! Si buscas los mejores <FC 0,128,0>Escarabajos de captura<END FC>, \u00a1has venido al lugar correcto!<P>Tengo los mejores escarabajos entrenados. Con garant\u00eda de movimiento bajo tus \u00f3rdenes.<P>Echa un vistazo a las existencias.<E>",
+    "description": "SphinxText.xls, row 846"
+  },
+  "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIntro01": {
+    "message": "Aunque ahora tengo bastantes existencias, me temo que eso puede cambiar dentro de poco.<P>Pues mira, hace unos cuantos d\u00edas perd\u00ed mi <FC 0,128,0>Criadora de escarabajos<END FC> especial.<P>Si no la encuentro pronto, no podr\u00e9 criar m\u00e1s escarabajos. \u00a1Tendr\u00eda que cerrar el negocio!<P>Tienes pinta de viajar mucho. Si, por casualidad, encuentras mi <FC 0,128,0>Criadora de escarabajos<END FC>, te ruego que me la devuelvas.<E>",
+    "description": "SphinxText.xls, row 847"
+  },
+  "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIncomplete01": {
+    "message": "Tengo existencias suficientes para llenar todas las estanter\u00edas, pero no durar\u00e1 mucho.<E>",
+    "description": "SphinxText.xls, row 848"
+  },
+  "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestComplete01": {
+    "message": "\u00a1Mi <FC 0,128,0>Criadora de escarabajos<END FC>! \u00a1La has encontrado!<P>\u00a1Ahora voy a estar muy ocupado ampliando mis existencias! \u00bfC\u00f3mo te lo podr\u00eda agradecer?<P>Toma esta <FC 0,128,0>Tarjeta de fidelidad<END FC>, con la que tendr\u00e1s un descuento del 50 por ciento en mi tienda.<P>\u00a1Gracias de nuevo!<E>",
+    "description": "SphinxText.xls, row 849"
+  },
+  "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestComplete02": {
+    "message": "Bienvenido, estimado cliente. Con tu <FC 0,128,0>Tarjeta de fidelidad<END FC> tienes un 50% de descuento en escarabajos.<E>",
+    "description": "SphinxText.xls, row 850"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_Intro01": {
+    "message": "\u00a1Saludos! Siempre es bueno ver una cara nueva por aqu\u00ed. No solemos recibir visitas.<P>Soy Shetta, la sanadora del <FC 128,64,0>Poblado beduino<END FC>. Conozco los rituales y los encantamientos de curaci\u00f3n antiguos.<E>",
+    "description": "SphinxText.xls, row 851"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_Prompt01": {
+    "message": "\u00bfQu\u00e9 te trae hoy por nuestro poblado?<N>  <B 1> Curarme<N>  <B 2> <FC 0,128,0>Trozo de Ankh<END FC> Ritual<N>  <B 3> Nada en especial<E>",
+    "description": "SphinxText.xls, row 852"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_HealingPrompt01": {
+    "message": "Puedo recuperar toda tu salud por <FC 0,128,0>50 skarabs<END FC>.<N>  <B 1> C\u00farame<N>  <B 2> D\u00e9jalo<E>",
+    "description": "SphinxText.xls, row 853"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_HealingAccept01": {
+    "message": "\u00a1Excelente! Ahora qu\u00e9date muy quieto.<E>",
+    "description": "SphinxText.xls, row 854"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_HealingComplete01": {
+    "message": "\u00a1Ya! \u00a1Te has revitalizado! \u00a1Seguro que notas c\u00f3mo la fuerza de la vida recorre tu cuerpo!<E>",
+    "description": "SphinxText.xls, row 855"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_HealingFull01": {
+    "message": "\u00a1Tienes la salud suficiente sin mis poderes!<E>",
+    "description": "SphinxText.xls, row 856"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_AnkhPrompt01": {
+    "message": "Cobro <FC 0,128,0>4 trozos de Ankh de oro<END FC> por el ritual.<N>  <B 1> Vale<N>  <B 2> Ni hablar<E>",
+    "description": "SphinxText.xls, row 857"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_AnkhPrompt02": {
+    "message": "El ritual cuesta <FC 0,128,0>200 skarabs<END FC><N>  <B 1> Vale<N>  <B 2> Ni hablar<E>",
+    "description": "SphinxText.xls, row 858"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_AnkhAccept01": {
+    "message": "\u00a1Excelente! Ahora qu\u00e9date muy quieto.<E>",
+    "description": "SphinxText.xls, row 859"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_AnkhComplete01": {
+    "message": "\u00a1Ya! \u00a1Tus <FC 0,128,0>trozos de Ankh de oro<END FC> se han transformado!<E>",
+    "description": "SphinxText.xls, row 860"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_AnkhNotEnough01": {
+    "message": "Lo siento, necesito <FC 0,128,0>4 trozos de Ankh de oro<END FC> para el ritual de <FC 0,128,0>trozos de Ankh<END FC>.<E>",
+    "description": "SphinxText.xls, row 861"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_GenericDecline01": {
+    "message": "Como desees. Vuelve si cambias de opini\u00f3n.<E>",
+    "description": "SphinxText.xls, row 862"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_NotEnoughScarabs": {
+    "message": "Lo siento, no tienes bastantes <FC 0,128,0>skarabs<END FC>.<E>",
+    "description": "SphinxText.xls, row 863"
+  },
+  "HT_Text_Hel_BedouinOutpost_Hippy_MyLife": {
+    "message": "\u00a1Hola! No esperaba verte por este lugar. Supongo que te gusta mucho viajar, como a m\u00ed.<P>Me gusta venir a <FC 128,64,0>Heli\u00f3polis<END FC> de vez en cuando para relajarme en la playa.<P>El \u00fanico problema es que ahora hace demasiado calor para tumbarse all\u00ed.<E>",
+    "description": "SphinxText.xls, row 864"
+  },
+  "HT_Text_Hel_BedouinOutpost_Hippy_ItemPrompt": {
+    "message": "\u00a1Eh! \u00a1Una <FC 0,128,0>Sombrilla<END FC>! \u00bfMe la das para protegerme del sol?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 865"
+  },
+  "HT_Text_Hel_BedouinOutpost_Hippy_ItemDecline": {
+    "message": "\u00a1Vaya! \u00a1Me haces polvo!<E>",
+    "description": "SphinxText.xls, row 866"
+  },
+  "HT_Text_Hel_BedouinOutpost_Hippy_ThanksAgain": {
+    "message": "\u00a1Muchas gracias!<E>",
+    "description": "SphinxText.xls, row 867"
+  },
+  "HT_Text_Hel_BedouinOutpost_Hippy_TooSunny": {
+    "message": "\u00a1Vaya! Sigue haciendo mucho calor para tumbarse en la playa.<E>",
+    "description": "SphinxText.xls, row 868"
+  },
+  "HT_Text_Hel_BedouinOutpost_Hippy_Thanks1b": {
+    "message": "A cambio, qu\u00e9date si quieres con este <FC 0,128,0>Bols\u00f3n de skarabs<END FC>. Ya no me sirve de nada.<E>",
+    "description": "SphinxText.xls, row 873"
+  },
+  "HT_Text_Hel_BedouinOutpost_Help_AnkhIncrease": {
+    "message": "<N><CNTR>\u00a1Tienes un <FC 0,128,0>trozo de Ankh de oro<END FC>!<P><CNTR>Consigue m\u00e1s <FC 0,128,0>trozos de Ankh de oro<END FC> para aumentar la capacidad de tu salud.<E>",
+    "description": "SphinxText.xls, row 874"
+  },
+  "HT_Text_Hel_BedouinOutpost_Help_GotLoyaltyCard": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes la <FC 0,128,0>Tarjeta de fidelidad<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Con esa tarjeta puedes comprar escarabajos a mitad de precio en el <FC 128,64,0>Poblado beduino<END FC>.<ES HT_Text_ES_S_HelpText><E>",
+    "description": "SphinxText.xls, row 875"
+  },
+  "HT_Text_Hel_BedouinOutpost_Complete1a": {
+    "message": "\u00a1Dios m\u00edo! \u00a1No puede ser! \u00a1He descifrado la <FC 0,128,0>Piedra Rosetta<END FC>!<E>",
+    "description": "SphinxText.xls, row 880"
+  },
+  "HT_Text_Hel_BedouinOutpost_Complete1b": {
+    "message": "\u00a1Lo consegu\u00ed! Por fin, despu\u00e9s de tantos a\u00f1os, he hecho realidad mi sue\u00f1o. \u00a1No habr\u00eda podido hacerlo sin ti! Has hecho muy feliz a este viejo.<E>",
+    "description": "SphinxText.xls, row 881"
+  },
+  "HT_Text_Hel_BedouinOutpost_Complete1c": {
+    "message": "<EFF><EPO>Por favor, acepta esta piedra como regalo. \u00a1Puedes usarla para descifrar los <FC 0,128,0>5 Obeliscos dorados de Heli\u00f3polis<END FC>!<END FC><P>Cuando hayas descifrado los 5 Obeliscos, debes volver para contarme qu\u00e9 has descubierto.<P>Soy demasiado viejo para hacerlo yo mismo, pero me interesa much\u00edsimo lo que descubras.<P>No te olvides de anotar todos los descubrimientos en tus notas. \u00a1Buena suerte!<E>",
+    "description": "SphinxText.xls, row 882"
+  },
+  "HT_Text_Hel_BedouinOutpost_Wait1a": {
+    "message": "Necesito tiempo para unir los trozos. <E>",
+    "description": "SphinxText.xls, row 883"
+  },
+  "HT_Text_Hel_BedouinOutpost_Wait1b": {
+    "message": "\u00a1Vete! \u00a1Tengo que concentrarme! <W 25>",
+    "description": "SphinxText.xls, row 884"
+  },
+  "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1a": {
+    "message": "\u00a1Saludos, viajero! Bienvenido a nuestro humilde <FC 128,64,0>Poblado beduino<END FC>.<E>",
+    "description": "SphinxText.xls, row 885"
+  },
+  "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1b": {
+    "message": "Si buscas los mejores <FC 0,128,0>Escarabajos de captura<END FC>, has venido al lugar correcto.<E>",
+    "description": "SphinxText.xls, row 886"
+  },
+  "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1c": {
+    "message": "Busca entre mis existencias mientras puedas. Si no encuentro mi <FC 0,128,0>Criadora de escarabajos<END FC>, pronto no quedar\u00e1 ninguno.<E>",
+    "description": "SphinxText.xls, row 887"
+  },
+  "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime": {
+    "message": "Hace a\u00f1os, me ca\u00ed en un extra\u00f1o portal y aparec\u00ed en este mundo. No es que me importe.<P>Ahora me puedo dedicar a mi afici\u00f3n de coleccionar y criar escarabajos.<P>Ten\u00eda una colecci\u00f3n de escarabajos explosivos por control remoto muy raros, pero hace unas semanas se los llev\u00f3 una tormenta de arena, junto con una <FC 0,128,0>Bolsa de escarabajos<END FC> que me sobraba. \u00a1En fin, cosas de la vida!<E>",
+    "description": "SphinxText.xls, row 888"
+  },
+  "HT_Text_Hel_BedouinOutpost_Help_GotBeetleBreederItem": {
+    "message": "<N><CNTR>\u00a1La <FC 0,128,0>Criadora de escarabajos<END FC>!<P><CNTR>El criador de escarabajos del <FC 128,64,0>Poblado beduino<END FC>se alegrar\u00e1 cuando la vea.<E>",
+    "description": "SphinxText.xls, row 917"
+  },
+  "HT_Text_Hel_BedouinOutpost_Help_GotRosettaStone": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes la <FC 0,128,0>Piedra Rosetta<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Esta antigua tabla te permitir\u00e1<N><CNTR>descifrar el texto antiguo!<ES HT_Text_ES_S_HelpText><E>",
+    "description": "SphinxText.xls, row 918"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_Done01": {
+    "message": "Entra. El Fara\u00f3n espera.<E>",
+    "description": "SphinxText.xls, row 1053"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_Done01": {
+    "message": "No hagas esperar al Fara\u00f3n.<E>",
+    "description": "SphinxText.xls, row 1054"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_Done02": {
+    "message": "\u00a1No me creo que ese traidor me haya enga\u00f1ado!<E>",
+    "description": "SphinxText.xls, row 1055"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_Done02": {
+    "message": "Si esa criatura era un impostor, \u00bfqu\u00e9 ha sido del verdadero Fara\u00f3n?<E>",
+    "description": "SphinxText.xls, row 1056"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_Prompt01": {
+    "message": "Veo en el futuro que pondr\u00e1s en mi mano <FC 0,128,0>30 skarabs<END FC><N>  <B 1> Muy bien<N>  <B 2> Ni hablar<E>",
+    "description": "SphinxText.xls, row 924"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_Accept01": {
+    "message": "Perfecto. Ahora adivinar\u00e9 el paradero del <FC 0,128,0>trozo de Ankh de oro<END FC> perdido.<E>",
+    "description": "SphinxText.xls, row 925"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_Decline01": {
+    "message": "Qu\u00e9 raro, hoy parece que mis adivinaciones no son muy precisas.<E>",
+    "description": "SphinxText.xls, row 926"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_NotEnoughScarabs": {
+    "message": "Lo siento, no tienes bastantes <FC 0,128,0>skarabs<END FC>.<E>",
+    "description": "SphinxText.xls, row 927"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue01": {
+    "message": "Pista de Ankh 1",
+    "description": "SphinxText.xls, row 928"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue02": {
+    "message": "Pista de Ankh 2",
+    "description": "SphinxText.xls, row 929"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue03": {
+    "message": "Pista de Ankh 3",
+    "description": "SphinxText.xls, row 930"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue04": {
+    "message": "Pista de Ankh 4",
+    "description": "SphinxText.xls, row 931"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue05": {
+    "message": "Pista de Ankh 5",
+    "description": "SphinxText.xls, row 932"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue06": {
+    "message": "Pista de Ankh 6",
+    "description": "SphinxText.xls, row 933"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue07": {
+    "message": "Pista de Ankh 7",
+    "description": "SphinxText.xls, row 934"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue08": {
+    "message": "Pista de Ankh 8",
+    "description": "SphinxText.xls, row 935"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue09": {
+    "message": "Pista de Ankh 9",
+    "description": "SphinxText.xls, row 936"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue10": {
+    "message": "Pista de Ankh 10",
+    "description": "SphinxText.xls, row 937"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue11": {
+    "message": "Pista de Ankh 11",
+    "description": "SphinxText.xls, row 938"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue12": {
+    "message": "Pista de Ankh 12",
+    "description": "SphinxText.xls, row 939"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue13": {
+    "message": "Pista de Ankh 13",
+    "description": "SphinxText.xls, row 940"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue14": {
+    "message": "Pista de Ankh 14",
+    "description": "SphinxText.xls, row 941"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue15": {
+    "message": "Pista de Ankh 15",
+    "description": "SphinxText.xls, row 942"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue16": {
+    "message": "Pista de Ankh 16",
+    "description": "SphinxText.xls, row 943"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue17": {
+    "message": "Pista de Ankh 17",
+    "description": "SphinxText.xls, row 944"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue18": {
+    "message": "Pista de Ankh 18",
+    "description": "SphinxText.xls, row 945"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue19": {
+    "message": "Pista de Ankh 19",
+    "description": "SphinxText.xls, row 946"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue20": {
+    "message": "Pista de Ankh 20",
+    "description": "SphinxText.xls, row 947"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPiecesNoneValid": {
+    "message": "La probabilidad es incierta. Me temo que no puedo descubrir m\u00e1s <FC 0,128,0>trozos de Ankh de oro<END FC> por el momento. Int\u00e9ntalo m\u00e1s tarde a ver si puedo ayudarte.<E>",
+    "description": "SphinxText.xls, row 948"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPiecesComplete": {
+    "message": "\u00a1A menos que mis poderes me enga\u00f1en, creo que he encontrado todos los antiguos <FC 0,128,0>trozos de Ankh de oro<END FC>! \u00a1Incre\u00edble!<E>",
+    "description": "SphinxText.xls, row 949"
+  },
+  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1a": {
+    "message": "\u00bfQu\u00e9? \u00bfQu\u00e9 extra\u00f1o lugar es este?<W 30>",
+    "description": "SphinxText.xls, row 950"
+  },
+  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1b": {
+    "message": "\u00a1Ah! \u00a1Me has sorprendido, extranjero!<W 30>",
+    "description": "SphinxText.xls, row 951"
+  },
+  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1c": {
+    "message": "Me llamaron de <FC 128,64,0>Abydos<END FC> para escribir la autobiograf\u00eda del Fara\u00f3n, pero me empez\u00f3 a entrar mucho sue\u00f1o. Lo siguiente que s\u00e9 es que estoy contigo.<E>",
+    "description": "SphinxText.xls, row 952"
+  },
+  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1d": {
+    "message": "\u00a1Estas cosas tan extra\u00f1as me han dado una idea para un nuevo libro! Voy a volver a <FC 128,64,0>Abydos<END FC> inmediatamente para empezarlo.<E>",
+    "description": "SphinxText.xls, row 953"
+  },
+  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1e": {
+    "message": "Gracias por tu ayuda, extranjero, y toma este libro m\u00edo como regalo. Cuando vayas a <FC 128,64,0>Abydos<END FC>, no dudes en pasar a verme y charlaremos. \u00a1Ciao!<E>",
+    "description": "SphinxText.xls, row 954"
+  },
+  "HT_Text_Hel_CursedPalace_Help_GotBookOfTheDead": {
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes el <FC 0,128,0>Libro de los Muertos<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Con este tomo antiguo, puedes invocar a Kan-Asta para<N><CNTR>que lleve los <FC 0,128,0>Canopes<END FC> a la Momia!<ES HT_Text_ES_S_HelpText><E>",
+    "description": "SphinxText.xls, row 968"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp": {
+    "message": "\u00bfQu\u00e9 ha pasado? \u00a1Oh! \u00a1Mis queridos perritos no est\u00e1n!<P>\u00a1Por favor, tienes que ayudarme! Lo \u00faltimo que recuerdo es que mis perritos se volvieron agresivos y me atacaron. \u00bfPor qu\u00e9 lo har\u00edan?<P>Al parecer, se han escapado, pero si los encuentras, te estar\u00eda muy agradecida.<P>Ten cuidado. Digamos que no ten\u00edan muy buen genio la \u00faltima vez que los vi.<E>",
+    "description": "SphinxText.xls, row 972"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_DogsAllStillMissing": {
+    "message": "Si encuentras mis perritos, av\u00edsame, porque estoy muy preocupada.<E>",
+    "description": "SphinxText.xls, row 973"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_DogsStillMissing": {
+    "message": "Algunos de mis perritos han vuelto, pero a\u00fan faltan <FC 0,128,0><SO HT_Objective_Hel_CursedPalace_MotherNumChihuahuasLeft><END FC>. \u00a1Espero que est\u00e9n bien!<E>",
+    "description": "SphinxText.xls, row 974"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_DogsOneStillMissing": {
+    "message": "Algunos de mis perritos han vuelto, pero a\u00fan falta <FC 0,128,0>1<END FC>. \u00a1Espero que est\u00e9 bien!<E>",
+    "description": "SphinxText.xls, row 975"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_DogsAllFound": {
+    "message": "\u00a1Muchas gracias! Ya han vuelto todos mis perritos; ya puedo estar tranquila.<P>Por favor, acepta esto. \u00a1Piensa en montar una perrera!<E>",
+    "description": "SphinxText.xls, row 976"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_ThanksAgain": {
+    "message": "Gracias de nuevo por rescatar a todos mis lindos perritos. \u00bfQui\u00e9n har\u00eda eso a unas criaturas tan inocentes?<E>",
+    "description": "SphinxText.xls, row 977"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp": {
+    "message": "\u00a1Oh! \u00a1Qu\u00e9 desorientaci\u00f3n!<P>Lo \u00faltimo que recuerdo es a mi esposo, el Fara\u00f3n, comport\u00e1ndose extra\u00f1amente.<P>Estaba obsesionado con construir una torre m\u00e1s all\u00e1 del <FC 128,64,0>Gran Muro<END FC>.<P>\u00daltimamente estaba muy irascible y agresivo. Espero que ahora se sienta mejor.<E>",
+    "description": "SphinxText.xls, row 978"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_StillWorried": {
+    "message": "\u00a1Mi querido Fara\u00f3n! Espero que os encontr\u00e9is bien.<E>",
+    "description": "SphinxText.xls, row 979"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp": {
+    "message": "\u00a1Grrr! \u00bfQu\u00e9 clase de maldad fue esa?<P>Lo \u00faltimo que recuerdo es al Fara\u00f3n muy interesado en la seguridad. Parece que ten\u00eda buenas razones para estarlo.<E>",
+    "description": "SphinxText.xls, row 980"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_GoAway": {
+    "message": "No se puede ver al Fara\u00f3n sin una <FC 0,128,0>Invitaci\u00f3n<END FC>.<E>",
+    "description": "SphinxText.xls, row 981"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_OpenDoor": {
+    "message": "Veo que tienes una <FC 0,128,0>Invitaci\u00f3n<END FC>. El Fara\u00f3n estar\u00e1 encantado de verte.<E>",
+    "description": "SphinxText.xls, row 982"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp": {
+    "message": "\u00a1Maldici\u00f3n! \u00a1Por Ra! \u00bfQu\u00e9 ha sido eso?<P>Puede que el Fara\u00f3n tuviera raz\u00f3n al querer mejorar la seguridad.<E>",
+    "description": "SphinxText.xls, row 983"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_GoAway": {
+    "message": "Prohibida la entrada de visitantes sin <FC 0,128,0>Invitaci\u00f3n<END FC>.<E>",
+    "description": "SphinxText.xls, row 984"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_OpenDoor": {
+    "message": "S\u00ed, la <FC 0,128,0>Invitaci\u00f3n<END FC> parece estar en orden, pasa.<E>",
+    "description": "SphinxText.xls, row 985"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp": {
+    "message": "\u00a1No! \u00a1No dejar\u00e9 que los planes de mi Maestro se echen a perder!<P>Si interfieres, \u00a1te aplastar\u00e9 como a un insecto!<E>",
+    "description": "SphinxText.xls, row 986"
+  },
+  "HT_Text_Hel_CursedPalace_FarmersBrother_Thanks": {
+    "message": "\u00bfEh? \u00a1Ohhh! \u00a1Gracias por acabar con la maldici\u00f3n!<P>Mejor me voy. <E>",
+    "description": "SphinxText.xls, row 987"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1a": {
+    "message": "\u00a1Arghhh! \u00a1Destruido por un ni\u00f1ato!<P>Me habr\u00e1s derrotado, pero has cometido un error muy grave: has interferido en los planes del todopoderoso Set.<E>",
+    "description": "SphinxText.xls, row 988"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1b": {
+    "message": "Su furia har\u00e1 que la tierra tiemble, que el cielo arda y el terror inunde los corazones de todos los seres vivos.<E>",
+    "description": "SphinxText.xls, row 989"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1c": {
+    "message": "En los \u00faltimos minutos de mi vida, tan solo me alegra pensar que el \u00fanico futuro que tienes es una muerte lenta y doloros\u00edsima.<E>",
+    "description": "SphinxText.xls, row 990"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1d": {
+    "message": "<END TT><TT 2>Set... te... destruir\u00e1... <W 5><P><END TT><TT 6>Sphinx...<W 1>",
+    "description": "SphinxText.xls, row 991"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a": {
+    "message": "Tengo que admitir que eres testarudo. Pero con esa insistencia no vas a conseguir esta corona.<E>",
+    "description": "SphinxText.xls, row 992"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a11": {
+    "message": "<EFF><EPO>No dejar\u00e9 que caiga en manos de un ignorante como t\u00fa. \u00a1Nunca entender\u00edas su poder!<P>Anubis ya intent\u00f3 arrebatarme la corona, pero no lo consigui\u00f3. Me tuvo que convertir en piedra para toda la eternidad.<E>",
+    "description": "SphinxText.xls, row 993"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a1": {
+    "message": "<EFF><EPO>Es todo lo que pudo hacer para detenerme. Ahora te env\u00eda a ti, su perrillo faldero, para que me la quites.<P>Tanto tiempo en esa torre debe de estar afect\u00e1ndole. \u00a1Jua, jua, jua!<E>",
+    "description": "SphinxText.xls, row 994"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a2": {
+    "message": "Devolver\u00e9 esta corona a mi Se\u00f1or Set...<E>",
+    "description": "SphinxText.xls, row 995"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a3": {
+    "message": "...pero no sin antes destruirte.<E>",
+    "description": "SphinxText.xls, row 996"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1b": {
+    "message": "Para poner las manos en esta corona, primero tendr\u00e1s que matarme.<E>",
+    "description": "SphinxText.xls, row 997"
+  },
+  "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1a": {
+    "message": "\u00a1Eh! \u00bfEh? \u00bfQu\u00e9 pasa aqu\u00ed? \u00bfD\u00f3nde estoy?<P>",
+    "description": "SphinxText.xls, row 998"
+  },
+  "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1b": {
+    "message": "Espera un momento. Es el <FC 128,64,0>Palacio del Fara\u00f3n<END FC>. \u00bfC\u00f3mo demonios he llegado aqu\u00ed?<E>",
+    "description": "SphinxText.xls, row 999"
+  },
+  "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1c": {
+    "message": "<EFF><EPO>\u00a1Claro! \u00a1Me llamaron para trabajar en los jardines! Pero no reconozco a ninguna de estas personas.<P>Pensaba que el Fara\u00f3n hab\u00eda prohibido las visitas. Me pregunto qu\u00e9 va a decir cuando vea a toda esa gente convertida en piedra.<E>",
+    "description": "SphinxText.xls, row 1000"
+  },
+  "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1d": {
+    "message": "En fin, volver\u00e9 a la granja con mi hermano, que debe de estar muy preocupado por m\u00ed. Gracias por liberarme, amigo.<E>",
+    "description": "SphinxText.xls, row 1001"
+  },
+  "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1e": {
+    "message": "Deber\u00edas pasarte por la granja. Est\u00e1 en la cima de la colina. Vis\u00edtanos y te ayudaremos en lo que podamos.<E> ",
+    "description": "SphinxText.xls, row 1002"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1a": {
+    "message": "\u00bfQu\u00e9? \u00bfD\u00f3nde? Ahh, hola jovencito. Sab\u00eda que t\u00fa ser\u00edas el que me liberar\u00eda de la maldici\u00f3n.<E>",
+    "description": "SphinxText.xls, row 1003"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1b": {
+    "message": "Mis poderes adivinatorios son famosos en toda <FC 128,64,0>Abydos<END FC>, pero ni siquiera yo pude predecir la maldici\u00f3n que me atrap\u00f3 aqu\u00ed.<E>",
+    "description": "SphinxText.xls, row 1004"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1c": {
+    "message": "La esposa del Fara\u00f3n me llam\u00f3 para que hiciera una adivinaci\u00f3n, pero... Espera un momento. Ahhh, veo algo...<E>",
+    "description": "SphinxText.xls, row 1005"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1d": {
+    "message": "<FC 128,64,0>Heli\u00f3polis<END FC> fue una vez un lugar alegre y pac\u00edfico...<E>",
+    "description": "SphinxText.xls, row 1006"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1e": {
+    "message": "...pero las cosas empezaron a cambiar, los d\u00edas se hicieron m\u00e1s cortos y las noches m\u00e1s largas...<E>",
+    "description": "SphinxText.xls, row 1007"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1f": {
+    "message": "...empezaron a aparecer extra\u00f1os monstruos en las colinas del norte...<E>",
+    "description": "SphinxText.xls, row 1008"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1g": {
+    "message": "...el clima cambi\u00f3; los volcanes comenzaron a agitarse en las monta\u00f1as; la tierra se abri\u00f3 y comenz\u00f3 a escupir lava...<E>",
+    "description": "SphinxText.xls, row 1009"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1h": {
+    "message": "<EFF><EPO>...pero entonces ocurri\u00f3 una cosa de lo m\u00e1s extra\u00f1o.<P>Al romper el alba, cuando <FC 128,64,0>Heli\u00f3polis<END FC> se levant\u00f3 con el nuevo d\u00eda, vieron algo imposible de creer o comprender...<E>",
+    "description": "SphinxText.xls, row 1010"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1i": {
+    "message": "<EFF><EPO>...hab\u00eda aparecido un muro monumental por toda <FC 128,64,0>Heli\u00f3polis<END FC>.<P>Se quedaron at\u00f3nitos, pero tambi\u00e9n se sintieron agradecidos. Aparentemente, el muro serv\u00eda para protegerles del caos del norte.<E>",
+    "description": "SphinxText.xls, row 1011"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1j": {
+    "message": "Y aqu\u00ed es donde la historia da un giro. S\u00ed, el muro se construy\u00f3, pero los habitantes del <FC 128,64,0>Palacio del Fara\u00f3n<END FC> fueron maldecidos y petrificados.<E>",
+    "description": "SphinxText.xls, row 1012"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1j1": {
+    "message": "Ese fue el terrible precio que pagaron por la protecci\u00f3n del muro.<E>",
+    "description": "SphinxText.xls, row 1013"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k": {
+    "message": "Desde entonces, este lugar se llama el <FC 128,64,0>Palacio Maldito<END FC>.<E>",
+    "description": "SphinxText.xls, row 1014"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k1": {
+    "message": "<EFF><EPO>Ahhhh, tambi\u00e9n veo cosas muy interesantes en tu futuro. <P>Veo que buscas una corona sagrada perdida... <E>",
+    "description": "SphinxText.xls, row 1015"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k2": {
+    "message": "...veo un antiguo templo perdido, oculto entre las arenas de un gran desierto...<E>",
+    "description": "SphinxText.xls, row 1016"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k3": {
+    "message": "...veo unos <FC 0,128,0>Obeliscos dorados<END FC> con un secreto en su interior... <E>",
+    "description": "SphinxText.xls, row 1017"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k4": {
+    "message": "...y veo una gran haza\u00f1a. <E>",
+    "description": "SphinxText.xls, row 1018"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1l": {
+    "message": "Eso es todo lo que veo por ahora, amigo. Ahora debo volver a mi casa de <FC 128,64,0>Abydos<END FC>. Predigo que nos volveremos a encontrar en el futuro. Adi\u00f3s.<E>",
+    "description": "SphinxText.xls, row 1019"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp1a": {
+    "message": "\u00a1Argh! \u00bfQu\u00e9 maldad es esta? \u00bfQu\u00e9 pasa aqu\u00ed?<E>",
+    "description": "SphinxText.xls, row 1020"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp1b": {
+    "message": "Extranjero, te agradezco que me hayas liberado, pero me temo que no puedes ver al Fara\u00f3n.<E>",
+    "description": "SphinxText.xls, row 1021"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp1c": {
+    "message": "He recibido \u00f3rdenes estrictas: que no entre nadie sin <FC 0,128,0>Invitaci\u00f3n<END FC>.<E>",
+    "description": "SphinxText.xls, row 1022"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp1a": {
+    "message": "\u00a1Grrr! \u00a1Aaaargh!  \u00bfQu\u00e9 clase de maldad es esta? \u00a1T\u00fa! \u00bfQu\u00e9 haces aqu\u00ed? \u00a1Sal del palacio! <E>",
+    "description": "SphinxText.xls, row 1023"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp1b": {
+    "message": "Han pasado cosas muy extra\u00f1as en el palacio, pero no se me permite hablar de ellas. \u00a1Lo mejor ser\u00e1 que te vayas antes de que te ocurra algo malo! <E>",
+    "description": "SphinxText.xls, row 1024"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp1c": {
+    "message": "\u00a1Es peligroso que te quedes m\u00e1s tiempo! <E>",
+    "description": "SphinxText.xls, row 1025"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_OpenDoor1a": {
+    "message": "Vale, te dejar\u00e9 pasar, pero s\u00f3lo si traes X <E>",
+    "description": "SphinxText.xls, row 1026"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_OpenDoor1b": {
+    "message": "\u00a1Al Fara\u00f3n le ser\u00e1 grato recibirte ahora!  <E>",
+    "description": "SphinxText.xls, row 1027"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_1stcaptured1a": {
+    "message": "\u00a1Dios m\u00edo, lo has encontrado! Eres todo un caballero.<W 50>",
+    "description": "SphinxText.xls, row 1028"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_1stcaptured1b": {
+    "message": "Me temo que a\u00fan quedan <FC 0,128,0><SO HT_Objective_Hel_CursedPalace_MotherNumChihuahuasLeft> perritos<END FC>.<E>",
+    "description": "SphinxText.xls, row 1029"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_1stcaptured1c": {
+    "message": "S\u00e9 con total seguridad que est\u00e1n en este edificio.<E> ",
+    "description": "SphinxText.xls, row 1030"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp1a": {
+    "message": "\u00a1Oh! \u00bfQu\u00e9 ha pasado? \u00bfQu\u00e9 extra\u00f1o lugar es este?<W 50>",
+    "description": "SphinxText.xls, row 1031"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp1b": {
+    "message": "\u00a1Mis perritos! \u00bfAd\u00f3nde se han ido mis perritos? \u00a1Dios m\u00edo! \u00bfQu\u00e9 voy a hacer?<E>",
+    "description": "SphinxText.xls, row 1032"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp1c": {
+    "message": "\u00a1Por favor, ayudadme! \u00a1No puedo volver a casa con mi hermana en <FC 128,64,0>Abydos<END FC> sin mis perritos!<E> ",
+    "description": "SphinxText.xls, row 1033"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp1d": {
+    "message": "Deben de estar por aqu\u00ed. Estoy segura de que no ir\u00edan muy lejos ellos solos. \u00a1Tan solo Dios sabe qu\u00e9 har\u00eda si les ocurriera algo!<E>",
+    "description": "SphinxText.xls, row 1034"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp1e": {
+    "message": "\u00a1Mira! \u00a1All\u00ed! \u00a1Es uno de mis perritos, Mut!<E>",
+    "description": "SphinxText.xls, row 1035"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp1f": {
+    "message": "Por favor, atr\u00e1palo y tr\u00e1emelo.<E>",
+    "description": "SphinxText.xls, row 1036"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_DogsAllFound1a": {
+    "message": "\u00a1Dios m\u00edo! Much\u00edsimas gracias. \u00a1Has encontrado todos mis perritos! Por fin puedo volver a casa tranquila.<E>",
+    "description": "SphinxText.xls, row 1037"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_DogsAllFound1b": {
+    "message": "Acepta esto en muestra de mi gratitud.<E>",
+    "description": "SphinxText.xls, row 1038"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1a": {
+    "message": "\u00a1He esperado mucho tiempo a que llegara el fin de esta maldici\u00f3n!<E>",
+    "description": "SphinxText.xls, row 1039"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1b": {
+    "message": "Supongo que debo darte las gracias por liberarme del encantamiento de Anubis.<E>",
+    "description": "SphinxText.xls, row 1040"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1c": {
+    "message": "Anubis es m\u00e1s listo de lo que pensaba. Me detuvo antes de que pudiera acabar mi trabajo.  <E>",
+    "description": "SphinxText.xls, row 1041"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1d": {
+    "message": "\u00bfPor casualidad Anubis busca... esta corona?<E>",
+    "description": "SphinxText.xls, row 1042"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1e": {
+    "message": "Si la quieres, \u00a1primero tendr\u00e1s que atraparme! <W 60>",
+    "description": "SphinxText.xls, row 1043"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1f": {
+    "message": "\u00a1Ja, ja, ja! \u00a1Atr\u00e1pame si puedes!<W 60>",
+    "description": "SphinxText.xls, row 1044"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_HusbandDead1a": {
+    "message": "Estaba convencida de que a mi marido le pasaba algo, pero \u00a1que no era \u00e9l! \u00bfC\u00f3mo me ha podido enga\u00f1ar tanto tiempo?<E>",
+    "description": "SphinxText.xls, row 1045"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_HusbandDead1b": {
+    "message": "Pero si ese no es mi marido, \u00bfqui\u00e9n es? Espero que est\u00e9 bien.<E>",
+    "description": "SphinxText.xls, row 1046"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_HusbandDead1c": {
+    "message": "Si por casualidad lo encuentras, te ruego que me lo traigas. No s\u00e9 qu\u00e9 har\u00eda sin \u00e9l.<E>",
+    "description": "SphinxText.xls, row 1047"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1a": {
+    "message": "\u00a1Oh! Qu\u00e9 desorientaci\u00f3n. \u00bfD\u00f3nde estoy? Ah, hola, no recuerdo haber visto tu cara antes.<E>",
+    "description": "SphinxText.xls, row 1048"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1b": {
+    "message": "\u00a1Por Ra! \u00bfQu\u00e9 ha ocurrido? \u00bfQu\u00e9 demonios hacen aqu\u00ed esas estatuas?<E>",
+    "description": "SphinxText.xls, row 1049"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1c": {
+    "message": "<EFF><EPO>Espero que mi marido est\u00e9 bien. La \u00faltima vez que lo vi se comportaba de una forma extra\u00f1a.<P>Estaba obsesionado con el <FC 128,64,0>Templo Perdido de Heli\u00f3polis<END FC>. Nunca lo hab\u00eda visto as\u00ed.<E>",
+    "description": "SphinxText.xls, row 1050"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1d": {
+    "message": "Dijo que el templo estaba oculto en el <FC 128,64,0>Desierto Sur de Heli\u00f3polis<END FC> y que en \u00e9l hab\u00eda un importante objeto antiguo.<E>",
+    "description": "SphinxText.xls, row 1051"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1e": {
+    "message": "<EFF><EPO>Me pidi\u00f3 que guardara bien esta llave que abre una puerta al <FC 128,64,0>Desierto Sur<END FC>.<P>Por favor, t\u00f3mala. Me has demostrado que puedo confiar en ti. Gracias por tu ayuda, extranjero.<E>",
+    "description": "SphinxText.xls, row 1052"
+  },
+  "HT_Text_Hel_CursedPalace_TakeCrown1": {
+    "message": "Ah, \u00a1excelente! Con esta tercera corona, pronto conocer\u00e1s su poder.<E>",
+    "description": "SphinxText.xls, row 1057"
+  },
+  "HT_Text_Hel_CursedPalace_TakeCrown2": {
+    "message": "Pero todav\u00eda quedan muchos peligros.<E>",
+    "description": "SphinxText.xls, row 1058"
+  },
+  "HT_Text_Hel_CursedPalace_TakeCrown3": {
+    "message": "Est\u00e1s cerca de tu destino.<E>",
+    "description": "SphinxText.xls, row 1059"
+  },
+  "HT_Text_Hel_CursedPalace_TakeCrown4": {
+    "message": "La profec\u00eda est\u00e1 a punto de cumplirse.<E>",
+    "description": "SphinxText.xls, row 1060"
+  },
+  "HT_Text_Hel_CursedPalace_TakeCrown5": {
+    "message": "Acepta este <FC 0,128,0>Ankh de oro<END FC> como recompensa por tus logros.<P><ES HT_Text_ES_S_HelpText><CNTR>Este objeto m\u00e1gico ha aumentado la capacidad de tu salud<N>en <FC 0,128,0>1 Ankh<END FC> y la ha restablecido por completo.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1061"
+  },
+  "HT_Text_Hel_CursedPalace_Help_GotHelianCrown": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes la <FC 0,128,0>Corona sagrada de Heli\u00f3polis<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Anubis estar\u00e1 impaciente por ver ese antiguo objeto.<ES HT_Text_ES_S_HelpText><E>",
+    "description": "SphinxText.xls, row 1062"
+  },
+  "HT_Text_Hel_CursedPalace_Help_GotRoyalInvite": {
+    "message": "<N><CNTR>\u00a1Tienes la <FC 0,128,0>Invitaci\u00f3n regia<END FC>!<P><CNTR>Este documento oficial te invita a conocer al Fara\u00f3n de <FC 128,64,0>Heli\u00f3polis<END FC>.<E>",
+    "description": "SphinxText.xls, row 1063"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Intro02": {
+    "message": "\u00a1Debes lograrlo! Toda mi vida he so\u00f1ado con descubrir el secreto de la <FC 0,128,0>Piedra Rosetta<END FC>.<E>",
+    "description": "SphinxText.xls, row 1065"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_StonePiece01": {
+    "message": "Hola de nuevo, chico. Espera, \u00bfqu\u00e9 es eso? \u00a1No puede ser! \u00a1Dios m\u00edo, s\u00ed! \u00a1Encontraste un <FC 0,128,0>trozo de Piedra Rosetta<END FC>!<P>\u00a1Bien hecho, chico! \u00a1Si encuentras el resto de los <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> trozos<END FC>, quiz\u00e1 pueda restaurar la piedra y descifrar el secreto que guarda!<E>",
+    "description": "SphinxText.xls, row 1066"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_StonePiece02": {
+    "message": "\u00a1Tan solo faltan <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> trozos<END FC> m\u00e1s para poder descifrar el secreto de la piedra!<E>",
+    "description": "SphinxText.xls, row 1067"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_StonePiece03": {
+    "message": "\u00a1Tan solo falta <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> trozo<END FC> m\u00e1s para poder descifrar el secreto de la piedra!<E>",
+    "description": "SphinxText.xls, row 1068"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_StonePiece04": {
+    "message": "\u00a1Eso es! \u00a1Lo lograste! \u00a1Encontraste todos los <FC 0,128,0>trozos de Piedra Rosetta<END FC>!<P>Ahora tengo que conseguir unir los trozos de la legendaria <FC 0,128,0>Piedra Rosetta<END FC> e intentar descubrir su secreto.<E>",
+    "description": "SphinxText.xls, row 1069"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_StonePiecePrompt01": {
+    "message": "\u00bfMe permites coger los <FC 0,128,0>trozos de Piedra Rosetta<END FC>?<N>  <B 1> S\u00ed<N>  <B 2> No<E>",
+    "description": "SphinxText.xls, row 1070"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_StonePieceDecline": {
+    "message": "Pues bueno, qu\u00e9datelos si quieres. Pero no encontrar\u00e1s a nadie mejor que yo para descubrir el secreto de la piedra. T\u00fa no puedes hacer nada con ellos.<E>",
+    "description": "SphinxText.xls, row 1071"
+  },
+  "HT_Text_Hel_Dungeon_Help_DoorChains": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hay unas pesadas cadenas que<N>te impiden abrir la puerta.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1072"
+  },
+  "HT_Text_Hel_Dungeon_Help_SkeletonClue": {
+    "message": "<CNTR>---[ Ofrece los <FC 0,128,0>huesos del muerto viviente<END FC> en orden, de la cabeza a los pies y de izquierda a derecha ]---<E>",
+    "description": "SphinxText.xls, row 1073"
+  },
+  "HT_Text_Hel_Dungeon_Help_GotBone01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes un <FC 0,128,0>Cr\u00e1neo<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1074"
+  },
+  "HT_Text_Hel_Dungeon_Help_GotBone02": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes una <FC 0,128,0>Pelvis<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1075"
+  },
+  "HT_Text_Hel_Dungeon_Help_GotBone03": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes un <FC 0,128,0>Brazo<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1076"
+  },
+  "HT_Text_Hel_Dungeon_Help_GotBone04": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>\u00a1Tienes una <FC 0,128,0>Pierna<END FC>!<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1077"
+  },
+  "HT_Text_Hel_Dungeon_Help_ShrinePromptTakeItem": {
+    "message": "<ES HT_Text_ES_S_HelpText>\u00bfCoger el objeto del santuario?<N>  <B 1> S\u00ed<N>  <B 2> No<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1078"
+  },
+  "HT_Text_Hel_Dungeon_Help_ShrineNoItem": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Es un santuario para alg\u00fan tipo de objeto.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1079"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_a": {
+    "message": "Saludos, joven. Soy Urbano, el Arque\u00f3logo. <E>",
+    "description": "SphinxText.xls, row 1089"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_b": {
+    "message": "Me he pasado casi toda la vida buscando la <FC 0,128,0>Piedra Rosetta<END FC>. No en mis a\u00f1os de estudiante, claro. <E>",
+    "description": "SphinxText.xls, row 1090"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_c": {
+    "message": "He llegado hasta aqu\u00ed, pero la misi\u00f3n es imposible. Ahora jam\u00e1s descubrir\u00e9 el secreto de la <FC 0,128,0>Piedra Rosetta<END FC>. <E>",
+    "description": "SphinxText.xls, row 1091"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_c1": {
+    "message": "Por favor, s\u00edgueme. Deja que te ense\u00f1e algo muy interesante. <E>",
+    "description": "SphinxText.xls, row 1092"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_d": {
+    "message": "<EFF><EPO>Estos antiguos escritos de la pared dicen que la piedra se parti\u00f3 en seis trozos y que esos trozos est\u00e1n escondidos en este templo.<P>Sin embargo, tambi\u00e9n dice que est\u00e1n custodiados por unas fieras. <E>",
+    "description": "SphinxText.xls, row 1093"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_e": {
+    "message": "Soy demasiado viejo y d\u00e9bil para aventurarme en el templo. Me morir\u00e9 sin ver cumplido mi sue\u00f1o.<E>",
+    "description": "SphinxText.xls, row 1094"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_f": {
+    "message": "\u00a1Espera! T\u00fa eres joven y fuerte, como yo hace tiempo. Entra en el templo si tienes esp\u00edritu aventurero.<E>",
+    "description": "SphinxText.xls, row 1095"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_g": {
+    "message": "Si encuentras los <FC 0,128,0>trozos de Piedra Rosetta<END FC> y me los devuelves, me har\u00e1s un hombre feliz.<E>",
+    "description": "SphinxText.xls, row 1096"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_a": {
+    "message": "<EFF><EPO>\u00a1Excelente, chico! \u00a1Excelente! Ahora debo volver a mi tienda del <FC 128,64,0>Poblado beduino<END FC> y ponerme a trabajar.<P>Vis\u00edtame y te pondr\u00e9 al d\u00eda de mis descubrimientos. Encontrar\u00e1s f\u00e1cilmente el <FC 128,64,0>Poblado beduino<END FC> si usas el pasadizo bajo el agua del <FC 128,64,0>Palacio Maldito<END FC>.<E>",
+    "description": "SphinxText.xls, row 1100"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_b": {
+    "message": "Antes de irte, quiero que aceptes estos <FC 0,128,0>Proyectiles acu\u00e1ticos<END FC>. Te resultar\u00e1n \u00fatiles en tu viaje de vuelta al <FC 128,64,0>Poblado beduino<END FC>.<E>",
+    "description": "SphinxText.xls, row 1101"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_c": {
+    "message": "Vis\u00edtame para ponerte al d\u00eda de mis descubrimientos. \u00a1Espero verte pronto, jovencito!<E>",
+    "description": "SphinxText.xls, row 1102"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Complete_no": {
+    "message": "Qu\u00e9datelos si quieres, pero no encontrar\u00e1s a nadie mejor yo para descubrir el secreto de la piedra.<E>",
+    "description": "SphinxText.xls, row 1103"
+  },
+  "HT_Text_Hel_WallSection1_Help_BlowpipeTargets": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Para este tipo de objetivos, se puede usar la <FC 0,128,0>Cerbatana<END FC>.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1105"
+  },
+  "HT_Text_Hel_WallSection2_Help_KaAnkh01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Es un <FC 0,128,0>punto para Ankh de Ka<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Sirve para transportarte por arte de<N>magia al <FC 0,128,0>Ankh de Ka<END FC> m\u00e1s cercano.<P><ES HT_Text_ES_S_HelpText><CNTR>Pulsa <SB HT_Action_KaTile> sobre el punto<N>para activar el modo de primera persona.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1107"
+  },
+  "HT_Text_Hel_WallSection2_Help_KaAnkh02": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Apunta y dispara a la brillante cima de un <FC 0,128,0>Ankh de Ka<END FC> cercano y aparecer\u00e1s en ese lugar por arte de magia.<E><ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1108"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_Presentation1a": {
+    "message": "As\u00ed que eres Sphinx. Qu\u00e9 decepci\u00f3n. Esperaba mucho m\u00e1s.<E>",
+    "description": "SphinxText.xls, row 1111"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_Presentation1a1": {
+    "message": "<EFF><EPO>S\u00e9 por qu\u00e9 has venido. Deseas conseguir lo que muchos antes que t\u00fa no han logrado.<P>Si quieres liberar a la gente del <FC 128,64,0>Palacio Maldito<END FC>, debes demostrarme tu val\u00eda. El primer reto pondr\u00e1 a prueba tu valor y tu fe.<E>",
+    "description": "SphinxText.xls, row 1112"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_Presentation1b": {
+    "message": "Ven, Sphinx. Ac\u00e9rcate a m\u00ed. No te dejes intimidar por este abismo de lava letal.<E>",
+    "description": "SphinxText.xls, row 1113"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_Presentation1c": {
+    "message": "\u00a1Ja, ja! Eso ha sido un truco de magia comparado con todo el poder que poseo. El segundo reto pondr\u00e1 a prueba tu destreza y tu t\u00e9cnica.<E>",
+    "description": "SphinxText.xls, row 1114"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_Presentation1d": {
+    "message": "Debes capturar <FC 0,128,0>3 Armadillos de fuego<END FC> en la zona que acabas de atravesar. Toma estos <FC 0,128,0>Escarabajos de captura<END FC>. Son la herramienta que necesitas. \u00dasalos bien.<E>",
+    "description": "SphinxText.xls, row 1115"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_Presentation1e": {
+    "message": "Demu\u00e9strame tu val\u00eda y te garantizo que liberar\u00e9 a algunos habitantes del <FC 128,64,0>Palacio Maldito<END FC>.<E>",
+    "description": "SphinxText.xls, row 1116"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1a": {
+    "message": "\u00a1Ah, lo lograste! Esperaba que fallaras como tu amigo Horus. Al parecer t\u00fa eres m\u00e1s duro.<E>",
+    "description": "SphinxText.xls, row 1117"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1b": {
+    "message": "\u00a1Muy bien! Estas <FC 0,128,0>Piedras malditas<END FC> liberar\u00e1n a dos habitantes del <FC 128,64,0>Palacio Maldito<END FC>.<E>",
+    "description": "SphinxText.xls, row 1118"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1c": {
+    "message": "<EFF><EPO>Ahora puedes capturar a cualquier enemigo y tambi\u00e9n lanzar <FC 0,128,0>Armadillos de fuego<END FC> y <FC 0,128,0>Burbujas esbeltas<END FC>.<P>Estas criaturas son poderosas herramientas que te ayudar\u00e1n en tu aventura. \u00dasalos bien.<P>Puede que te haga llamar en el futuro, Sphinx.<E>",
+    "description": "SphinxText.xls, row 1119"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1c1": {
+    "message": "\u00a1Al fin has vuelto! Tengo para ti una misi\u00f3n mucho m\u00e1s peligrosa si deseas liberar a m\u00e1s habitantes del <FC 128,64,0>Palacio Maldito<END FC>.<E>",
+    "description": "SphinxText.xls, row 1120"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1d": {
+    "message": "En la isla de <FC 128,64,0>Abydos<END FC>, hay un objeto sagrado que confi\u00e9 hace a\u00f1os al Gobernador: la <FC 0,128,0>Corona sagrada de Abydos<END FC>.<E>",
+    "description": "SphinxText.xls, row 1121"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1e": {
+    "message": "<EFF><EPO>El Gobernador vive en el <FC 128,64,0>Consistorio<END FC> de la ciudad. Conv\u00e9ncelo de que me devuelva la Corona y te dar\u00e9 las <FC 0,128,0>Piedras malditas<END FC> que deseas.<P>El portal de abajo te llevar\u00e1 a <FC 128,64,0>Abydos<END FC> si tienes el <FC 128,64,0>Amuleto del portal de Abydos<END FC>. Adi\u00f3s, Sphinx.<E>",
+    "description": "SphinxText.xls, row 1122"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1a": {
+    "message": "Ah, \u00a1has vuelto! \u00a1Empezaba a pensar que el reto estaba por encima de tus posibilidades! \u00bfTienes mi objeto?<E>",
+    "description": "SphinxText.xls, row 1124"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1b": {
+    "message": "As\u00ed que la corona estaba en poder de un demonio. Vaya, eso no presagia nada bueno.<E>",
+    "description": "SphinxText.xls, row 1125"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1c": {
+    "message": "Si Set ha intentado robar la <FC 0,128,0>Corona sagrada de Abydos<END FC>, seguro que tambi\u00e9n estar\u00e1 buscando la <FC 0,128,0>Corona sagrada de Uruk<END FC>.<E>",
+    "description": "SphinxText.xls, row 1126"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1d": {
+    "message": "Lo prometido es deuda. Estas <FC 0,128,0>Piedras malditas<END FC> liberar\u00e1n a m\u00e1s habitantes del <FC 128,64,0>Palacio Maldito<END FC>.<E>",
+    "description": "SphinxText.xls, row 1127"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1e": {
+    "message": "Sin embargo, debes encontrar la <FC 0,128,0>Corona sagrada de Uruk<END FC> y tra\u00e9rmela antes de que Set se haga con ella.<E>",
+    "description": "SphinxText.xls, row 1128"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1f": {
+    "message": "Estos <FC 0,128,0>Dardos \u00e1cidos<END FC> te ayudar\u00e1n en la b\u00fasqueda de la corona.<E>",
+    "description": "SphinxText.xls, row 1129"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1g": {
+    "message": "\u00a1Buena suerte en tu nueva aventura! \u00a1Vas a necesitarla!<W 90>",
+    "description": "SphinxText.xls, row 1130"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1a": {
+    "message": "\u00a1Excelente! \u00a1Has tra\u00eddo la <FC 0,128,0>Corona sagrada de Uruk<END FC>! \u00a1Est\u00e1s demostrando que eres todo un h\u00e9roe!<E>",
+    "description": "SphinxText.xls, row 1131"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1b": {
+    "message": "\u00a1Pero a\u00fan no eres tan fuerte como para derrotar a Set! Me alegro que no te enfrent\u00e1ste a \u00e9l en <FC 128,64,0>Uruk<END FC>. Hubiera acabado contigo sin problemas.<E>",
+    "description": "SphinxText.xls, row 1132"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1c": {
+    "message": "\u00a1Nos quedamos sin tiempo! \u00a1Set est\u00e1 a punto de conseguir su objetivo de destruir a su hermano Osiris!<E>",
+    "description": "SphinxText.xls, row 1133"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1d": {
+    "message": "Hubo un tiempo en el que s\u00f3lo hab\u00eda un Dios. Ese Dios se llamaba... Ra.<E>",
+    "description": "SphinxText.xls, row 1134"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1d1": {
+    "message": "Era la personificaci\u00f3n del Bien y del Mal, de la luz y de la oscuridad.<E>",
+    "description": "SphinxText.xls, row 1135"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1e": {
+    "message": "Osiris era la luz y Set, la oscuridad. Ambos gobernaban en armon\u00eda; eran tiempos de paz.<E>",
+    "description": "SphinxText.xls, row 1136"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1f": {
+    "message": "Pero Set se hizo codicioso, como es natural en el Mal, y se volvi\u00f3 contra Osiris.<E> ",
+    "description": "SphinxText.xls, row 1137"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1f1": {
+    "message": "\u00a1Atac\u00f3 a su hermano para intentar convertirse en la \u00fanica fuerza del universo: el poder del Mal!<E>",
+    "description": "SphinxText.xls, row 1138"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1f2": {
+    "message": "Si Set consigue todas las coronas controladas por el Ojo y acaba con Osiris, la sombra del Mal nos cubrir\u00e1 para siempre.<E>",
+    "description": "SphinxText.xls, row 1139"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1g": {
+    "message": "Set acumula fuerzas mientras que Osiris se debilita hasta la muerte.<P>Quiz\u00e1 estemos vivos gracias a que fuiste capaz de detener el ritual que estaba usando para extender la sombra del Mal.<E>",
+    "description": "SphinxText.xls, row 1140"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1h": {
+    "message": "Ahora debes ir al <FC 128,64,0>Palacio Maldito<END FC> y recuperar la <FC 0,128,0>Corona sagrada de Heli\u00f3polis<END FC>.<E>",
+    "description": "SphinxText.xls, row 1141"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1i": {
+    "message": "Con estas <FC 0,128,0>Piedras malditas<END FC>, podr\u00e1s liberar al Fara\u00f3n. \u00a1Estoy seguro de que le alegrar\u00e1 verte! \u00a1Jua, jua, jua!<E>",
+    "description": "SphinxText.xls, row 1142"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1a": {
+    "message": "\u00a1Has tra\u00eddo la <FC 0,128,0>Corona sagrada de Heli\u00f3polis<END FC>! \u00a1Sab\u00eda que lo conseguir\u00edas!<E>",
+    "description": "SphinxText.xls, row 1143"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1c": {
+    "message": "Umm, tambi\u00e9n has tra\u00eddo la mism\u00edsima corona de Set. <E>",
+    "description": "SphinxText.xls, row 1144"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1b": {
+    "message": "Felicidades, Sphinx. \u00a1Es genial poder darle por fin a Osiris suficiente poder para volver a manifestarse! <E>",
+    "description": "SphinxText.xls, row 1145"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1b1": {
+    "message": "\u00a1Contempla su poder y su esplendor! <E>",
+    "description": "SphinxText.xls, row 1146"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2a": {
+    "message": "Soy la luz de Ra, defensor del Bien y la inocencia, enemigo de las sombras y fundador de la <FC 0,128,0>Antigua profec\u00eda de Ra<END FC>. Una profec\u00eda que est\u00e1 llegando r\u00e1pidamente a su fin.<E>",
+    "description": "SphinxText.xls, row 1147"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2b": {
+    "message": "Constru\u00ed este muro hace muchos siglos para evitar mi destrucci\u00f3n a manos de mi hermano Set. Durante este tiempo, mi guardi\u00e1n Anubis ha protegido el muro de la maldad de Set.<E>",
+    "description": "SphinxText.xls, row 1148"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2c": {
+    "message": "Tuve que maldecir el palacio para proteger <FC 128,64,0>Heli\u00f3polis<END FC>, pero los habitantes ya son libres y el demonio ha desaparecido.<E>",
+    "description": "SphinxText.xls, row 1149"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2d": {
+    "message": "Eres el Elegido y has cumplido la Antigua profec\u00eda, pero el resultado de tus heroicas acciones a\u00fan es incierto.<E>",
+    "description": "SphinxText.xls, row 1150"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4a": {
+    "message": "Sphinx, hay una \u00faltima misi\u00f3n que debes realizar para que la <FC 0,128,0>Antigua profec\u00eda de Ra<END FC> se vea cumplida al completo.<E>",
+    "description": "SphinxText.xls, row 1152"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4b": {
+    "message": "Debes ir al <FC 128,64,0>Palacio de Uruk<END FC> y luchar contra Set en la batalla final por la corona. \u00a1Anubis se quedar\u00e1 para defender el muro! \u00a1Eres la \u00fanica esperanza!<E>",
+    "description": "SphinxText.xls, row 1153"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4c": {
+    "message": "Te llevar\u00e9 a <FC 128,64,0>Uruk<END FC>, pero tendr\u00e1s que saltar a la lava.<E>",
+    "description": "SphinxText.xls, row 1154"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free5a": {
+    "message": "\u00a1Mi Se\u00f1or! \u00bfUsar los canales et\u00e9reos de Set para llegar al palacio? \u00a1Es una locura! \u00a1Es demasiado peligroso!<E>",
+    "description": "SphinxText.xls, row 1155"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free6a": {
+    "message": "\u00a1No tenemos opci\u00f3n! \u00a1Set es m\u00e1s poderoso a cada segundo que pasa! Ahora, Sphinx. \u00a1AHORA!<E>",
+    "description": "SphinxText.xls, row 1156"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Incomplete": {
+    "message": "\u00bfEres tan enclenque que ni siquiera puedes capturar <FC 0,128,0>3 Armadillos de fuego<END FC>?<E>",
+    "description": "SphinxText.xls, row 1161"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_NoBeetles": {
+    "message": "Te dije que usaras bien los <FC 0,128,0>Escarabajos de captura<END FC>, pero los has malgastado.<P>Te dar\u00e9 20 m\u00e1s, pero si no los usas para capturar <FC 0,128,0>3 Armadillos de fuego<END FC>, estar\u00e9 muy decepcionado.<E>",
+    "description": "SphinxText.xls, row 1162"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GenericMeetAgain": {
+    "message": "Estoy seguro de que el destino te traer\u00e1 a m\u00ed en el futuro, pero ahora no tengo nada m\u00e1s que darte.<E>",
+    "description": "SphinxText.xls, row 1165"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_AbydosCrown_NotFound": {
+    "message": "No te retrases. Hay otras fuerzas mucho m\u00e1s siniestras que tambi\u00e9n buscan la <FC 0,128,0>Corona sagrada de Abydos<END FC>.<E>",
+    "description": "SphinxText.xls, row 1166"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_AbydosCrown_Found": {
+    "message": "\u00a1Por fin, has vuelto con la corona! Felicidades, joven h\u00e9roe, has superado todas mis expectativas.<P>Cumplir\u00e9 mi palabra y liberar\u00e9 a m\u00e1s habitantes del <FC 128,64,0>Palacio Maldito<END FC>.<P>Sin embargo, creo que es el momento de contarte por qu\u00e9 te env\u00edo en busca de la corona.<P>El malvado dios Set est\u00e1 intentando recuperar otras coronas de otros mundos.<P>\u00a1Tenemos que evitarlo! Debes encontrar las coronas antes que \u00e9l o las consecuencias pueden ser devastadoras.<P>En la jungla de <FC 128,64,0>Sakkara<END FC>, tienes que encontrar la antigua <FC 0,128,0>Corona de Sakkara<END FC>.<P>Debes irte enseguida. Buena suerte.<E>",
+    "description": "SphinxText.xls, row 1167"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_SakkaraCrown_NotFound": {
+    "message": "\u00a1No tardes! Si Set encuentra antes que t\u00fa la <FC 0,128,0>Corona de Uruk<END FC>, \u00a1no s\u00e9 qu\u00e9 podr\u00eda pasar!<E>",
+    "description": "SphinxText.xls, row 1168"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_SakkaraCrown_Found": {
+    "message": "\u00a1Por fin, has vuelto con la corona! Sab\u00eda que no me fallar\u00edas.<P>Como promet\u00ed, liberar\u00e9 a los dem\u00e1s habitantes del <FC 128,64,0>Palacio Maldito<END FC>.<P>La <FC 0,128,0>Corona sagrada de Heli\u00f3polis<END FC> est\u00e1 en el palacio, pero hay que tener cuidado. El Fara\u00f3n no es un hombre f\u00e1cil de tratar.<E>",
+    "description": "SphinxText.xls, row 1169"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_NotFound": {
+    "message": "No tardes. El Fara\u00f3n y su corona te aguardan en el <FC 128,64,0>Palacio Maldito<END FC>.<E>",
+    "description": "SphinxText.xls, row 1170"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Found": {
+    "message": "Has demostrado gran fuerza y valor, h\u00e9roe, pero ahora debes enfrentarte al m\u00e1s duro de todos los retos.<P>Set ya tiene en su poder la <FC 0,128,0>Corona sagrada de Uruk<END FC> en el devastado mundo de <FC 128,64,0>Uruk<END FC>.<P>La \u00fanica manera de detenerlo es viajar a <FC 128,64,0>Uruk<END FC> y acabar con \u00e9l de una vez por todas.<P>Deber\u00edas prepararte para el duro viaje que te espera. Cuando est\u00e9s listo, usa este <FC 01,128,0>Amuleto del portal<END FC> para viajar a <FC 128,64,0>Uruk<END FC>.<P>\u00a1Buena suerte, joven!<E>",
+    "description": "SphinxText.xls, row 1171"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_NotFound": {
+    "message": "Cuanto m\u00e1s te entretengas, m\u00e1s fuerte ser\u00e1 Set. No es conveniente tardar mucho.<E>",
+    "description": "SphinxText.xls, row 1172"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_Accept": {
+    "message": "Muy bien, el portal est\u00e1 abierto. Buena suerte.<E>",
+    "description": "SphinxText.xls, row 1173"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_Decline": {
+    "message": "Cuanto m\u00e1s te entretengas, m\u00e1s fuerte ser\u00e1 Set. No es conveniente tardar mucho.<E>",
+    "description": "SphinxText.xls, row 1174"
+  },
+  "HT_Text_Hel_DarkArea2_Help_KaAnkh01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Es un <FC 0,128,0>punto para Ankh de Ka<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Sirve para transportarte por arte de<N>magia al <FC 0,128,0>Ankh de Ka<END FC> m\u00e1s cercano.<P><ES HT_Text_ES_S_HelpText><CNTR>Pulsa <SB HT_Action_KaTile> sobre el punto<N>para activar el modo de primera persona.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1237"
+  },
+  "HT_Text_Hel_DarkArea2_Help_KaAnkh02": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Apunta y dispara a la brillante cima de un <FC 0,128,0>Ankh de Ka<END FC> cercano<N>y aparecer\u00e1s en ese lugar por arte de magia.<E><ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 1238"
+  },
+  "HT_Text_Hel_DarkArea3_Teleport_Prompt01": {
+    "message": "<ES HT_Text_ES_S_HelpText>\u00bfUsar el teletransporte m\u00e1gico?<N>  <B 2> No<N>  <B 1> S\u00ed<E>",
+    "description": "SphinxText.xls, row 1268"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1a": {
+    "message": "\u00a1Por fin has llegado! \u00a1Me preguntaba si conseguir\u00edas volver!<E>",
+    "description": "SphinxText.xls, row 1270"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1b": {
+    "message": "No esperaba tantas complicaciones en <FC 128,64,0>Abydos<END FC>. Al parecer, las fuerzas de la oscuridad se mueven m\u00e1s r\u00e1pido de lo que pensaba.<E>",
+    "description": "SphinxText.xls, row 1271"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1c": {
+    "message": "Si no hubieras intervenido, seguro que al final <FC 128,64,0>Abydos<END FC> hubiera sufrido un destino similar al de <FC 128,64,0>Heli\u00f3polis<END FC>.<E>",
+    "description": "SphinxText.xls, row 1272"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1d": {
+    "message": "Ahora que has interferido en sus planes, el enemigo te estar\u00e1 vigilando de cerca e intentar\u00e1 obstaculizar m\u00e1s tu avance.<E>",
+    "description": "SphinxText.xls, row 1273"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1e": {
+    "message": "Debes estar preparado para el dif\u00edcil y peligroso viaje que tienes por delante. Seguro que estar\u00e1s a la altura de los retos a los que te enfrentar\u00e1s.<E>",
+    "description": "SphinxText.xls, row 1274"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1f": {
+    "message": "Ahora visita a Anubis. Puede poseer informaci\u00f3n sobre el enemigo que yo no tengo. Utiliza el <FC 0,128,0>Amuleto del portal<END FC> para llegar m\u00e1s r\u00e1pido a su torre.<E>",
+    "description": "SphinxText.xls, row 1275"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1g": {
+    "message": "Ahora visita a Anubis. Puede poseer informaci\u00f3n sobre el enemigo que yo no tengo. Utiliza este <FC 0,128,0>Amuleto del portal<END FC> para llegar m\u00e1s r\u00e1pido a su torre.<E>",
+    "description": "SphinxText.xls, row 1276"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1a": {
+    "message": "<EFF><EPO>\u00a1Sphinx! \u00a1Me alegro de volver a verte, amigo! Te has enfrentado a muchos retos y peligros, y est\u00e1 claro que ya no eres un aprendiz inexperto.<P>Ahh... Veo que ya tienes el <FC 0,128,0>Escudo de Osiris<END FC>; el compa\u00f1ero perfecto de la <FC 0,128,0>Espada de Osiris<END FC>.<E>",
+    "description": "SphinxText.xls, row 1277"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1a1": {
+    "message": "<EFF><EPO>Ser portador de ellas es una gran haza\u00f1a, pues te servir\u00e1n de gran ayuda en tu pr\u00f3xima aventura.<P>Horus ya ha estado aqu\u00ed, pero no te ha esperado. Su impaciencia tan solo se equipara a tu entusiasmo.<E>",
+    "description": "SphinxText.xls, row 1278"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1b": {
+    "message": "Al parecer, has estado ocupado en tu viaje. Ese <FC 0,128,0>Canope<END FC> es un objeto de lo m\u00e1s interesante.<E>",
+    "description": "SphinxText.xls, row 1279"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1c": {
+    "message": "Han pasado muchos a\u00f1os desde la \u00faltima vez que vi uno. Pero puede que a\u00fan sea capaz de ayudarte a liberar el alma atrapada en su interior. <E> ",
+    "description": "SphinxText.xls, row 1280"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1d": {
+    "message": "Veo un lugar al norte, dentro de un palacio en la tierra del infierno; la tierra de <FC 128,64,0>Uruk<END FC>. \u00a1Aj\u00e1! Veo al Pr\u00edncipe de <FC 128,64,0>Luxor<END FC>: Tutankam\u00f3n.<E>",
+    "description": "SphinxText.xls, row 1281"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1d1a": {
+    "message": "Liberar\u00e9 el alma del <FC 0,128,0>Canope<END FC> y se la devolver\u00e9 a su propietario.<E>",
+    "description": "SphinxText.xls, row 1282"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1d1b": {
+    "message": "\u00a1Su cuerpo yace en el <FC 128,64,0>Palacio de Uruk<END FC>! Una vez vivo, podr\u00eda sernos \u00fatil; nadie ha conseguido entrar jam\u00e1s. Tengo un mal presentimiento sobre esos acontecimientos.<E>",
+    "description": "SphinxText.xls, row 1283"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1e": {
+    "message": "S\u00ed, ya le veo. Es Tutankam\u00f3n, el Pr\u00edncipe de <FC 128,64,0>Luxor<END FC>. Lo han momificado, pero todav\u00eda no ha pasado al otro mundo. \u00a1Tutankam\u00f3n, despierta! \u00a1Despierta!<E>",
+    "description": "SphinxText.xls, row 1284"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1f": {
+    "message": "Ning\u00fan ser vivo puede traspasar la fuerte protecci\u00f3n del palacio. Tendremos que enviar a una entidad m\u00e1gica.<E>",
+    "description": "SphinxText.xls, row 1285"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1g": {
+    "message": "Esta canasta es perfecta. Nadie sospechar\u00e1 nada.<E>",
+    "description": "SphinxText.xls, row 1286"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1h": {
+    "message": "\u00a1Por el poder de Osiris, da a esta canasta la ilusi\u00f3n de la vida!<E>",
+    "description": "SphinxText.xls, row 1287"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a": {
+    "message": "\u00bfQu\u00e9 tenemos aqu\u00ed? <E>",
+    "description": "SphinxText.xls, row 1288"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a1": {
+    "message": "\u00a1Es una de las joyas robadas de <FC 128,64,0>Abydos<END FC>! <E>",
+    "description": "SphinxText.xls, row 1289"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a2": {
+    "message": "Sab\u00eda que estaba pasando algo raro. Debemos descubrir qu\u00e9 se est\u00e1 tramando exactamente.<E>",
+    "description": "SphinxText.xls, row 1290"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1b": {
+    "message": "Ah, muy interesante. El Pr\u00edncipe ha conseguido encontrar las <FC 0,128,0>Alas de Ibis<END FC> perdidas en el palacio.<E>",
+    "description": "SphinxText.xls, row 1291"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1c": {
+    "message": "Es un antiguo objeto m\u00e1gico que fue robado hace mucho tiempo. Da a su propietario la agilidad de un p\u00e1jaro, lo que le permite saltar grandes alturas y largas distancias.<E>",
+    "description": "SphinxText.xls, row 1292"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Basket1a": {
+    "message": "Qu\u00e9date con Kan-Asta y con estos objetos. Estoy seguro de que te ser\u00e1n muy \u00fatiles en tu aventura.<E>",
+    "description": "SphinxText.xls, row 1293"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1d": {
+    "message": "Si tuvieras el <FC 0,128,0>Libro de los Muertos<END FC>, podr\u00edas hacer que Kan-Asta fuera a Tutankam\u00f3n cuando encuentres un <FC 0,128,0>Canope<END FC>. <P>El libro debe de estar en alg\u00fan lugar del <FC 128,64,0>Palacio Maldito<END FC>. Quiz\u00e1 deber\u00edas hablar con Anubis sobre los desafortunados habitantes del palacio.<P>Horus ya fue a visitarle, pero veo tu destino y el suyo, y no van por el mismo camino.<E>",
+    "description": "SphinxText.xls, row 1294"
+  },
+  "HT_Text_Hel_Imhotep_Basket1a": {
+    "message": "\u00a1Excelente, Sphinx! Son las dos \u00faltimas Coronas sagradas.<E>",
+    "description": "SphinxText.xls, row 1312"
+  },
+  "HT_Text_Hel_Imhotep_Basket1b": {
+    "message": "Debes llevarlas a Anubis, pero \u00a1cuidado!<E>",
+    "description": "SphinxText.xls, row 1313"
+  },
+  "HT_Text_Hel_Imhotep_Basket1c": {
+    "message": "Presiento que se acerca la \u00faltima parte de la aventura y, cuando partas a la batalla final, no habr\u00e1 vuelta atr\u00e1s.<E>",
+    "description": "SphinxText.xls, row 1314"
+  },
+  "HT_Text_Hel_Imhotep_Basket1d": {
+    "message": "Si te queda algo pendiente, ser\u00e1 mejor que lo soluciones antes de ver a Anubis. \u00a1Suerte, Sphinx!<E>",
+    "description": "SphinxText.xls, row 1315"
+  },
+  "HT_Text_Hel_Imhotep_Sakkara1a": {
+    "message": "\u00a1Sphinx! \u00a1Bienvenido! La aventura en las <FC 128,64,0>Islas Uruk<END FC> ha sido muy dura.<E>",
+    "description": "SphinxText.xls, row 1316"
+  },
+  "HT_Text_Hel_Imhotep_Sakkara1c": {
+    "message": "Vi que Set estaba presente en la ceremonia y se trata de un proceder alarmante.<E> ",
+    "description": "SphinxText.xls, row 1319"
+  },
+  "HT_Text_Hel_Imhotep_Sakkara1d": {
+    "message": "Si hubiera advertido tu presencia, estoy seguro de que te hubiera aniquilado. Se est\u00e1 volviendo cada vez m\u00e1s poderoso.<E> ",
+    "description": "SphinxText.xls, row 1320"
+  },
+  "HT_Text_Hel_Imhotep_Sakkara1e": {
+    "message": "A pesar de todo, te has sobrepuesto y has evitado que Set concluyera su dominaci\u00f3n de <FC 128,64,0>Uruk<END FC>. Est\u00e1s demostrando ser un excelente aprendiz.<E> ",
+    "description": "SphinxText.xls, row 1321"
+  },
+  "HT_Text_Hel_Imhotep_Sakkara1h": {
+    "message": "Debes informar a Anubis sobre el papel de Set. Estar\u00e1 muy interesado en saber que su n\u00e9mesis vuelve a la carga con sus planes de dominaci\u00f3n.<E>",
+    "description": "SphinxText.xls, row 1323"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep01": {
+    "message": "Sphinx, debes presentarte ante Anubis atravesando la <FC 128,64,0>Puerta del Gran Muro I<END FC>. Podr\u00eda tener respuestas sobre lo que ocurri\u00f3 con los habitantes del <FC 128,64,0>Palacio Maldito<END FC>.<E>",
+    "description": "SphinxText.xls, row 1324"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep02": {
+    "message": "\u00a1No hagas esperar a Anubis, Sphinx! Finaliza su misi\u00f3n y te dar\u00e1 informaci\u00f3n muy valiosa.<E>",
+    "description": "SphinxText.xls, row 1325"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep03": {
+    "message": "Sphinx, Anubis est\u00e1 buscando la <FC 0,128,0>Corona sagrada de Abydos<END FC>. Me pregunto qu\u00e9 querr\u00e1 hacer con esa antigualla.<E>",
+    "description": "SphinxText.xls, row 1326"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep04": {
+    "message": "Sphinx, debes llevarle la <FC 0,128,0>Corona sagrada de Abydos<END FC> a Anubis inmediatamente.<E>",
+    "description": "SphinxText.xls, row 1327"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep05": {
+    "message": "\u00bfAnubis est\u00e1 buscando la <FC 0,128,0>Corona sagrada de Uruk<END FC>? Su obsesi\u00f3n por las Coronas sagradas me preocupa. Ten cuidado, Sphinx.<E>",
+    "description": "SphinxText.xls, row 1328"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep06": {
+    "message": "Sphinx, debes llevarle la <FC 0,128,0>Corona sagrada de Uruk<END FC> a Anubis inmediatamente.<E>",
+    "description": "SphinxText.xls, row 1329"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep07": {
+    "message": "Sphinx, Anubis no estar\u00e1 satisfecho hasta que tenga todas las coronas en su poder. Con la <FC 0,128,0>Corona sagrada de Heli\u00f3polis<END FC>, casi habr\u00e1 completado su colecci\u00f3n.<E>",
+    "description": "SphinxText.xls, row 1330"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep08": {
+    "message": "\u00a1Sphinx, no hagas esperar a Anubis! Ha solicitado tu presencia en la torre.<E>",
+    "description": "SphinxText.xls, row 1331"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep09": {
+    "message": "Sphinx, Anubis fue el responsable de la maldici\u00f3n de los habitantes del palacio, tal como dijeron los heliopolitanos. \u00bfQu\u00e9 habr\u00e1 motivado una decisi\u00f3n tan dr\u00e1stica?<E>",
+    "description": "SphinxText.xls, row 1332"
+  },
+  "HT_Text_Hel_SunShrine_ImhotepCandles01": {
+    "message": "Sphinx, creo que tienes cosas m\u00e1s importantes que hacer que ir por ah\u00ed destruyendo velas.<E>",
+    "description": "SphinxText.xls, row 1333"
+  },
+  "HT_Text_Hel_SunShrine_ImhotepCandles02": {
+    "message": "\u00bfContento por haber destrozado todas las velas? Este comportamiento infantil es t\u00edpico de Horus, pero no de ti, Sphinx. <E> ",
+    "description": "SphinxText.xls, row 1334"
+  },
+  "HT_Text_Hel_SunShrine_ImhotepCandles03": {
+    "message": "Es bueno saber que tienes claras tus prioridades. \u00a1No creo que la destrucci\u00f3n de las velas te ayude en la aventura!<E>",
+    "description": "SphinxText.xls, row 1335"
+  },
+  "HT_Text_Hel_Imhotep_PortalAmulet01": {
+    "message": "Sphinx, tengo noticias muy interesantes. Anubis me ha informado de que desea verte en su torre.<E>",
+    "description": "SphinxText.xls, row 1336"
+  },
+  "HT_Text_Hel_Imhotep_PortalAmulet02": {
+    "message": "Este <FC 0,128,0>Amuleto del portal<END FC> te da acceso al portal que est\u00e1 detr\u00e1s de m\u00ed. Te llevar\u00e1 directo a la <FC 128,64,0>Torre de Anubis<END FC>.<E>",
+    "description": "SphinxText.xls, row 1337"
+  },
+  "HT_Text_Hel_Imhotep_PortalAmulet03": {
+    "message": "\u00a1Buena suerte, amigo!<W 70>",
+    "description": "SphinxText.xls, row 1338"
+  }
+}

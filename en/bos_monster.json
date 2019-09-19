@@ -1,0 +1,42 @@
+{
+  "HT_Text_BOS_Monster_CapturedMonsters": {
+    "message": "Monsters",
+    "description": "SphinxText.xls, row 2622"
+  },
+  "HT_Text_BOS_Monster_Moves": {
+    "message": "Moves",
+    "description": "SphinxText.xls, row 2623"
+  },
+  "HT_Text_BOS_Monster_Health": {
+    "message": "Health",
+    "description": "SphinxText.xls, row 2624"
+  },
+  "HT_Text_BOS_Monster_AttackRating": {
+    "message": "Attack Rating",
+    "description": "SphinxText.xls, row 2625"
+  },
+  "HT_Text_BOS_Monster_DefenceRating": {
+    "message": "Defense Rating",
+    "description": "SphinxText.xls, row 2626"
+  },
+  "HT_Text_BOS_Monster_DR_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>The higher the defense rating of your monster, the more punishment it can take during battle.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2627"
+  },
+  "HT_Text_BOS_Monster_AR_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>The higher the attack rating of your monster, the more damage it can inflict on opponents.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2628"
+  },
+  "HT_Text_BOS_Monster_Health_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>This is your monster's health. If your monster loses all of its health, you will no longer be able to release a monster of that type - until you capture another one of course!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2629"
+  },
+  "HT_Text_BOS_Monster_NoMoves": {
+    "message": "<ES HT_Text_ES_S_BOSStd>You currently have no moves that you can select.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2630"
+  },
+  "HT_Text_BOS_Monster_NoMonsters": {
+    "message": "<ES HT_Text_ES_S_BOSStd>You currently have no monsters.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2631"
+  }
+}

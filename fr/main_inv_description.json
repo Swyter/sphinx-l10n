@@ -1,0 +1,674 @@
+{
+  "HT_Text_Inv_Dsc_IceDart": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Les Fl\u00e8ches de glace figent certains monstres.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2730"
+  },
+  "HT_Text_Inv_Dsc_FireDart": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Les Fl\u00e8ches de feu incendient certains monstres.<ES HT_Text_ES_S_BOSStd>",
+    "description": "SphinxText.xls, row 2731"
+  },
+  "HT_Text_Inv_Dsc_Acid": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Les Fl\u00e8ches acides dissolvent les cha\u00eenes m\u00e9talliques et certains monstres.<ES HT_Text_ES_S_BOSStd>",
+    "description": "SphinxText.xls, row 2732"
+  },
+  "HT_Text_Inv_Dsc_BladeOfOsiris": {
+    "message": "<ES HT_Text_ES_S_BOSStd>L'\u00e9p\u00e9e brandie autrefois par le grand Osiris.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2733"
+  },
+  "HT_Text_Inv_Dsc_BronzeScarab": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Monnaie utilis\u00e9e pour acheter diff\u00e9rents types d'objets.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2734"
+  },
+  "HT_Text_Inv_Dsc_WingsOfIbis": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ancien artefact permettant d'ex\u00e9cuter un deuxi\u00e8me saut en l'air.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2737"
+  },
+  "HT_Text_Inv_Dsc_Blowpipe": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Arme puissante permettant de d\u00e9cocher des fl\u00e8ches magiques.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2738"
+  },
+  "HT_Text_Inv_Dsc_CrocodileScales": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Artefact magique permettant de nager sous l'eau \u00e0 toute vitesse.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2741"
+  },
+  "HT_Text_Inv_Dsc_UnderwaterProjectile": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ces fl\u00e8ches se r\u00e9g\u00e9n\u00e8rent \u00e0 l'infini. Elles permettent de toucher certains monstres en nageant sous l'eau.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2742"
+  },
+  "HT_Text_Inv_Dsc_HandsOfAmun": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ancien artefact te donnant la force de pousser des objets extr\u00eamement lourds.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2743"
+  },
+  "HT_Text_Inv_Dsc_ScarabPurse": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ce sac peut contenir 400 Scarab\u00e9es d'or.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2745"
+  },
+  "HT_Text_Inv_Dsc_ScarabPurse2": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ce sac peut contenir 900 Scarab\u00e9es d'or.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2746"
+  },
+  "HT_Text_Inv_Dsc_BeetlePouch": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cet \u00e9tui peut contenir 20 Insectes chasseurs et 10 Monstres de chaque esp\u00e8ce.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2747"
+  },
+  "HT_Text_Inv_Dsc_DartBelt": {
+    "message": "<ES HT_Text_ES_S_BOSStd>La Ceinture contient 50 Fl\u00e8ches de chaque type.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2748"
+  },
+  "HT_Text_Inv_Dsc_BeetleStachel": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ce Sac peut contenir 50 Insectes chasseurs et 10 Monstres de chaque esp\u00e8ce.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2750"
+  },
+  "HT_Text_Inv_Dsc_HandsOfAmunRa": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Te permet de pousser des objets encore plus gros.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2753"
+  },
+  "HT_Text_Inv_Dsc_ShieldOfOsiris": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Bouclier magique qui prot\u00e9geait le grand Osiris au combat.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2754"
+  },
+  "HT_Text_Inv_Dsc_CloakOfInvisibility": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Pierre magique donnant le pouvoir d'invisibilit\u00e9... et une mort instantan\u00e9e!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2761"
+  },
+  "HT_Text_Inv_Dsc_AnkhContainer": {
+    "message": "<ES HT_Text_ES_S_BOSStd>L'essence de la vie - chaque Ankh d'or augmente ton capital-sant\u00e9.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2763"
+  },
+  "HT_Text_Inv_Dsc_AnkhPiece": {
+    "message": "<ES HT_Text_ES_S_BOSStd>4 Bouts d'Ankh d'or peuvent \u00eatre li\u00e9s pour former un Ankh d'or par une personne comp\u00e9tente.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2764"
+  },
+  "HT_Text_Inv_Dsc_CanopicVase": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Vase sacr\u00e9 contenant un peu de l'\u00e2me de Toutankhamon.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2765"
+  },
+  "HT_Text_Inv_Dsc_Pearl": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Diamant bleu appartenant au ma\u00eetre du jeu Corridor des Champions. Rapporte-le lui pour lui prouver que tu peux relever le d\u00e9fi.<ES HT_Text_ES_S_BOSStd>",
+    "description": "SphinxText.xls, row 2770"
+  },
+  "HT_Text_Inv_Dsc_Herbs": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Plantes m\u00e9dicinales du Maire.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2772"
+  },
+  "HT_Text_Inv_Dsc_BookOfTheDead": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ce livre d'incantations peut envoyer Khorb-\u00c8ye au Palais d'Uruk avec des Vases canopes pour la Momie.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2778"
+  },
+  "HT_Text_Inv_Dsc_BronzeAnkh": {
+    "message": "N'APPARA\u00ceT PAS DANS L'INVENTAIRE",
+    "description": "SphinxText.xls, row 2784"
+  },
+  "HT_Text_Inv_Dsc_CaptureBeetle": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Insectes permettant de capturer des monstres.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2787"
+  },
+  "HT_Text_Inv_Dsc_StandardDart": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ces fl\u00e8ches se r\u00e9g\u00e9n\u00e8rent \u00e0 l'infini. Elles ne peuvent endommager que les monstres explosifs.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2788"
+  },
+  "HT_Text_Inv_Dsc_KaDart": {
+    "message": "N'APPARA\u00ceT PAS DANS L'INVENTAIRE",
+    "description": "SphinxText.xls, row 2789"
+  },
+  "HT_Text_Inv_Dsc_BounceDart": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ces fl\u00e8ches se r\u00e9g\u00e9n\u00e8rent \u00e0 l'infini. Elles rebondissent plusieurs fois avant de toucher la cible. Elles ne peuvent endommager que les monstres explosifs.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2790"
+  },
+  "HT_Text_Inv_Dsc_PossessionDart": {
+    "message": "N'APPARA\u00ceT PAS DANS L'INVENTAIRE",
+    "description": "SphinxText.xls, row 2791"
+  },
+  "HT_Text_Inv_Dsc_PhysNote": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Un message du M\u00e9decin pour Kemmet l'Inventeur.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2792"
+  },
+  "HT_Text_Inv_Dsc_BC01_Giant_Prawn": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Les guerriers de la Reine des Gebs sont aussi imposants que m\u00e9chants...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Bonne chance \u00e0 ceux qui auront \u00e0 les combattre!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2794"
+  },
+  "HT_Text_Inv_Dsc_BM09_Smiling_burble": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Un dr\u00f4le de membre de la famille des Grouilles, qui se bat \u00e0 coups de cornes...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Portant le turban depuis toujours, elles naissent maintenant avec un turban sur la t\u00eate!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2795"
+  },
+  "HT_Text_Inv_Dsc_BM10_i_Cyclops": {
+    "message": "<ES HT_Text_ES_S_BOSStd>L'\u0153il unique de ces cr\u00e9atures insaisissables \u00e9met un puissant rayon de feu. Elles pratiquent la t\u00e9l\u00e9portation sur de courtes distances...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Bless\u00e9, le Cyclope se d\u00e9double. Double danger!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2796"
+  },
+  "HT_Text_Inv_Dsc_BM12_slim_burble": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Dispose d'une tactique de d\u00e9fense suicidaire: elle cr\u00e9e une charge explosive, puis se lance sur sa cible et explose...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Pratique: pour \u00e9liminer des obstacles, il suffit de l\u00e2cher des Filigrouilles!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2797"
+  },
+  "HT_Text_Inv_Dsc_BR04_Goofy_Lizard": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Les Dingol\u00e9zards sont maladroits, distraits, mais profond\u00e9ment gentils. Ils peuvent passer des heures \u00e0 se battre contre leur ombre.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2798"
+  },
+  "HT_Text_Inv_Dsc_BR05_Dino_Oaf": {
+    "message": "\u00c0 FAIRE<E>",
+    "description": "SphinxText.xls, row 2799"
+  },
+  "HT_Text_Inv_Dsc_BR06_Half_Brute": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Le nom de Semibrutos est bien trop doux pour ces bip\u00e8des agressifs...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>S'ils ont la d\u00e9marche pesante et maladroite, ils peuvent frapper le sol si violemment qu'une onde de choc secoue tout leur environnement.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2800"
+  },
+  "HT_Text_Inv_Dsc_BU01_Mummy_Minotaur": {
+    "message": "\u00c0 FAIRE<E>",
+    "description": "SphinxText.xls, row 2801"
+  },
+  "HT_Text_Inv_Dsc_BU02_Skeletal_Axeman": {
+    "message": "<ES HT_Text_ES_S_BOSStd>M\u00e9fie-toi de ces guerriers aux coups de hache mortels...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Ils peuvent utiliser leur arme comme un boomerang et invoquer un bouclier les prot\u00e9geant jusqu'au retour de leur hache.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2802"
+  },
+  "HT_Text_Inv_Dsc_BU03_zombie_man": {
+    "message": "\u00c0 FAIRE<E>",
+    "description": "SphinxText.xls, row 2803"
+  },
+  "HT_Text_Inv_Dsc_BU05_almost_a_bull": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Pseudotoro tient son nom de ses deux cornes, bien s\u00fbr, mais \u00e9galement d'une sale manie: celle de charger les \u00eatres v\u00eatus de rouge!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2804"
+  },
+  "HT_Text_Inv_Dsc_BU06_MBird": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Morts vivants, sans doute. Tr\u00e8s m\u00e9chants, c'est s\u00fbr. Ils foncent, bec en t\u00eate, sur la moindre menace.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2805"
+  },
+  "HT_Text_Inv_Dsc_FL02_Featherless_Turkey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Dindon d\u00e9plum\u00e9, comme son nom l'indique, est totalement d\u00e9pourvu de plumage. Consid\u00e9r\u00e9 comme un mets de luxe pris\u00e9 \u00e0 la saison froide.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2806"
+  },
+  "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Unijambiste, l'A\u00e9rotruche n'en est pas moins rapide...<P><ES HT_Text_ES_S_BOSStd>Lorsqu'elle attaque, elle fend l'air telle une fl\u00e8che, rapide, pr\u00e9cise et dangereuse.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2807"
+  },
+  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat": {
+    "message": "\u00c0 FAIRE",
+    "description": "SphinxText.xls, row 2808"
+  },
+  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat_Fire": {
+    "message": "\u00c0 FAIRE",
+    "description": "SphinxText.xls, row 2809"
+  },
+  "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
+    "message": "L'Aigle momie est le plus grand des oiseaux. Mort vivant, il est plus r\u00e9sistant aux attaques que l'aigle en chair et en os.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2810"
+  },
+  "HT_Text_Inv_Dsc_FL06_Undead_Man": {
+    "message": "\u00c0 FAIRE<E>",
+    "description": "SphinxText.xls, row 2811"
+  },
+  "HT_Text_Inv_Dsc_HD02_Cat": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Fauvalame perturbe son adversaire en bondissant dans tous les sens avant de lancer une attaque plongeante ultra-rapide, toutes griffes dehors.<ES HT_Text_ES_S_BOSStd>",
+    "description": "SphinxText.xls, row 2812"
+  },
+  "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
+    "message": "\u00c0 FAIRE<E>",
+    "description": "SphinxText.xls, row 2813"
+  },
+  "HT_Text_Inv_Dsc_HD14_Crab": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Lorsqu'il se bat, le Matoucrabe agite ses pinces avec maladresse. Mais l'imprudent qui s'approche de trop pr\u00e8s risque de s'en souvenir!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2814"
+  },
+  "HT_Text_Inv_Dsc_HD15_GuardTest": {
+    "message": "\u00c0 FAIRE<E>",
+    "description": "SphinxText.xls, row 2815"
+  },
+  "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Musopik porte une \u00e9p\u00e9e dans chaque main qu'il manie avec une habilet\u00e9 et une vitesse d\u00e9concertante...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Excellant dans le combat \u00e0 la florentine, il met \u00e0 mort sa victime lentement mais s\u00fbrement.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2816"
+  },
+  "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Dot\u00e9 de son b\u00e2ton de feu, l'Adorateur de Cr\u00e2nes invoque de fantomatiques cr\u00e2nes volants \u00e0 des fins mortelles...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Lorsqu'il r\u00f4de, les forces du mal ne sont jamais tr\u00e8s loin.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2817"
+  },
+  "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Shadow": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Capable de traverser des corps solides, il se d\u00e9place subrepticement et surprend par ses attaques...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Ne gaspille pas tes projectiles, ils ne peuvent rien contre l'Adorateur obscur!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2818"
+  },
+  "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Sword": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ils ma\u00eetrisent l'art de manier l'\u00e9p\u00e9e et l\u00e2chent des cr\u00e2nes vibrant de toute la puissance du mal pour \u00e9craser leurs adversaires...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Ils peuvent se montrer tr\u00e8s r\u00e9sistants aux rafales, m\u00eame les plus violentes.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2819"
+  },
+  "HT_Text_Inv_Dsc_IN01_Green_Giant_worm": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Il surgit de son trou \u00e0 une vitesse sid\u00e9rante, exploitant sa masse imposante pour tout \u00e9craser sur son passage...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Il r\u00e9siste aux armes utilis\u00e9es contre les monstres de moindre envergure.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2820"
+  },
+  "HT_Text_Inv_Dsc_IN07_Blade_Scorpion": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Scorpiserpe court vite et attaque plus vite encore. Attention \u00e0 sa queue et aux trous dans lesquels il se r\u00e9fugie!<ES HT_Text_ES_S_BOSStd>",
+    "description": "SphinxText.xls, row 2821"
+  },
+  "HT_Text_Inv_Dsc_IN08_Tacked_Spider": {
+    "message": "<ES HT_Text_ES_S_BOSStd>La Migagile a le don d'ubiquit\u00e9...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Jette un \u0153il au plafond des sombres tunnels: elle pourrait te guetter!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2822"
+  },
+  "HT_Text_Inv_Dsc_IN09_Sak_Spike_Spider": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Elle saute sur sa proie et s'y cramponne pour la mordre violemment, puis la d\u00e9vore sans laisser une seule miette.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Si tu en rencontres une, m\u00e9fiance, elle chasse en groupe.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2823"
+  },
+  "HT_Text_Inv_Dsc_IN11_Spider": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Arthropode se d\u00e9pla\u00e7ant avec agilit\u00e9 sur les plans horizontaux et verticaux...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Si ses crochets sont dangereux, l'extr\u00e9mit\u00e9 de ses pattes - poignards aiguis\u00e9s - est \u00e9galement mortelle.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2824"
+  },
+  "HT_Text_Inv_Dsc_PI01_Piranha": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Si sa d\u00e9marche pr\u00eate \u00e0 rire, sa morsure n'a rien de dr\u00f4le. Aussi mena\u00e7ant sur terre que dans l'eau...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Son m\u00e9tabolisme unique le rend extr\u00eamement r\u00e9sistant au froid.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2825"
+  },
+  "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
+    "message": "<ES HT_Text_ES_S_BOSStd>L'Exo-Piranha est une toute nouvelle vari\u00e9t\u00e9 de Piranha. R\u00e9cemment d\u00e9couvert, il est plus fort et plus rapide que le restant de l'esp\u00e8ce.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2826"
+  },
+  "HT_Text_Inv_Dsc_PI01_Green_Piranha": {
+    "message": "\u00c0 FAIRE",
+    "description": "SphinxText.xls, row 2827"
+  },
+  "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Poisson serpentiforme \u00e9mettant des d\u00e9charges \u00e9lectriques.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Les Anguilles \u00e9lectriques sont des animaux territoriaux et agressifs qui \u00e9lectrisent leurs eaux.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2828"
+  },
+  "HT_Text_Inv_Dsc_PI03_Aka_Manta_Rays": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Gros poisson de mer comestible remarquable par la gr\u00e2ce de ses mouvements et son corps plat.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>La d\u00e9licatesse de sa chair recherch\u00e9e a rendu cette cr\u00e9ature tr\u00e8s m\u00e9fiante.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2829"
+  },
+  "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Rapide et jaloux de son territoire, le Poisson d'or est appr\u00e9ci\u00e9 par les riches qui en remplissent leurs \u00e9tangs pour \u00e9loigner les visiteurs ind\u00e9sirables.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Se d\u00e9pla\u00e7ant avec une grande facilit\u00e9, il attaque avant m\u00eame d'avoir \u00e9t\u00e9 remarqu\u00e9.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2830"
+  },
+  "HT_Text_Inv_Dsc_PI05_Aka_Turtle": {
+    "message": "\u00c0 FAIRE",
+    "description": "SphinxText.xls, row 2831"
+  },
+  "HT_Text_Inv_Dsc_PI06_Aka_Tentacle_Creature": {
+    "message": "\u00c0 FAIRE",
+    "description": "SphinxText.xls, row 2832"
+  },
+  "HT_Text_Inv_Dsc_PL01_Eye": {
+    "message": "\u00c0 FAIRE",
+    "description": "SphinxText.xls, row 2833"
+  },
+  "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
+    "message": "<ES HT_Text_ES_S_BOSStd>L'Arbre magique poss\u00e8de une aptitude magique d'une grande beaut\u00e9 - mais si tu te laisses captiver par sa phosphorescence, gare \u00e0 toi!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2834"
+  },
+  "HT_Text_Inv_Dsc_PL04_Sunflower_With_Face": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Tournesol n'est pas aussi doux qu'il en a l'air. Si tu te fais toucher par un de ses spores, tu vas passer une nuit infernale!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2835"
+  },
+  "HT_Text_Inv_Dsc_QC01_Pokemon": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Lent, timide et doux, le Coquillard n'est pas tr\u00e8s utile. Sa coquille est tr\u00e8s pris\u00e9e par les riches qui l'utilisent en d\u00e9co.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2836"
+  },
+  "HT_Text_Inv_Dsc_QR01_Cobra": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Cobra est un serpent venimeux se pr\u00e9lassant dans les arbres, entre autres v\u00e9g\u00e9taux. Ne te risque pas \u00e0 d\u00e9ranger un Cobra, car sa r\u00e9action sera instantan\u00e9e!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2837"
+  },
+  "HT_Text_Inv_Dsc_QR02_Sak_Spitting_Toad": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Malgr\u00e9 sa taille, le Crapaud cracheur est une cr\u00e9ature placide tr\u00e8s gourmande de noix de coco.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Le Crapaud cracheur est le compagnon id\u00e9al de l'aventurier, pour peu qu'il lui donne des noix de coco.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2838"
+  },
+  "HT_Text_Inv_Dsc_QR03_Sak_Small_Frog": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Petite, mais vraiment tr\u00e8s hargneuse. Originaire des marais, cette cr\u00e9ature est extr\u00eamement nocive.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2839"
+  },
+  "HT_Text_Inv_Dsc_QR04_Sak_Nose_Needler": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Poilagratter est un mammif\u00e8re fouisseur des r\u00e9gions sablonneuses. Extr\u00eamement rapide, cet animal est difficile \u00e0 atteindre.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2840"
+  },
+  "HT_Text_Inv_Dsc_QU01_Skeletal_Spider": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Il exploite sa stature unique pour assommer l'adversaire \u00e0 coups de t\u00eate. Ensuite, le Migasquelette peut d\u00e9vorer sa proie \u00e0 son aise.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2841"
+  },
+  "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo": {
+    "message": "<ES HT_Text_ES_S_BOSStd>En pr\u00e9sence d'une menace, il patine de plus en plus vite avant de foncer sur l'ennemi.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2842"
+  },
+  "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Fire": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Utilisant la m\u00eame technique d'attaque que le Tatou, le Tatou de feu \u00e9met en plus des boules de feu capables de tout br\u00fbler sur leur passage...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Captur\u00e9s, ils te seront utiles pour br\u00fbler les obstacles en bois.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2843"
+  },
+  "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Electricity": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Tatou \u00e9lectrique patine pour accumuler une charge \u00e9lectrique qu'il d\u00e9charge sur tout ce qu'il touche.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2844"
+  },
+  "HT_Text_Inv_Dsc_QU04_Mummy_Chihuahua": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ces petits chiens sont loin d'\u00eatre heureux d'avoir \u00e9t\u00e9 momifi\u00e9s, alors ne t'en approche pas! Tu risquerais de ne plus pouvoir t'asseoir pendant un moment.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2845"
+  },
+  "HT_Text_Inv_Dsc_QU05_skeletal_waspspider": {
+    "message": "<ES HT_Text_ES_S_BOSStd>La Migagu\u00eape poss\u00e8de des griffes au dard puissant avec lesquelles elle fend l'air... et ses proies !<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2846"
+  },
+  "HT_Text_Inv_Dsc_QU06_Mummy_Worm": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Fix\u00e9 au sol, il ne peut voir dans toutes les directions. Passe derri\u00e8re, tu ne risqueras rien.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2847"
+  },
+  "HT_Text_Inv_Dsc_QU09_Rat": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Petite cr\u00e9ature aga\u00e7ante qui chasse jusqu'\u00e0 ce qu'enfin, elle puisse mordre dans quelque chose. On la trouve surtout dans les zones peupl\u00e9es.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2848"
+  },
+  "HT_Text_Inv_Dsc_QU08_Normal_Chihuahua": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Un Chihuahua est un petit chien au poil doux. Si les amoureux des chiens l'adorent, le plupart des gens ne supportent pas ses jappements aga\u00e7ants.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2849"
+  },
+  "HT_Text_Inv_Dsc_HD03_BigBull": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Le Maxitoro porte bien son nom, c'est rien de le dire...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Impossible de discuter avec lui, il fait tournoyer son marteau et le lance sur tout ce qui bouge. Sauve-toi!<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2850"
+  },
+  "HT_Text_Inv_Dsc_HD09_Horned_ReptileMan": {
+    "message": "\u00c0 FAIRE",
+    "description": "SphinxText.xls, row 2851"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 de la Cour du Palais.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2852"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_NefertitiItem": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Lettre de N\u00e9fertiti.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2853"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_SarcophagusKey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 des sarcophages magiques.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2854"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_WardrobeKey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 d'une armoire.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2855"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_Amulet": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Vieilles Amulettes issues du Palais de Louksor.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2857"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_CourtyardKey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 de la Cour du Palais.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2858"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_TreasureChamberKey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 de la salle du Tr\u00e9sor du Palais.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2859"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_KeyStone": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 d'une grande Porte.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2860"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_ImpulseKey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 d'une grande Porte.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2861"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 solaire du Plan\u00e9tarium de la salle centrale.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2862"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey02": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 terrestre du Plan\u00e9tarium de la salle centrale.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2863"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey03": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 lunaire du Plan\u00e9tarium de la salle centrale.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2864"
+  },
+  "HT_Text_Inv_Dsc_Basket": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Khorb-\u00c8ye est un objet magique permettant \u00e0 Sphinx et la Momie d'\u00e9changer des objets quand tu as le Livre des Morts.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2874"
+  },
+  "HT_Text_Inv_Dsc_AbyPass": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Passe d'Abydos.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2879"
+  },
+  "HT_Text_Inv_Dsc_AbyPearls": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Perles rares qu'on ne trouve qu'\u00e0 Abydos.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2880"
+  },
+  "HT_Text_Inv_Dsc_RosettaStonePiece": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Fragments de la Pierre de Rosette.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2881"
+  },
+  "HT_Text_Inv_Dsc_RosettaStone": {
+    "message": "<ES HT_Text_ES_S_BOSStd>La Pierre de Rosette, permettant de traduire les textes anciens.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2882"
+  },
+  "HT_Text_Inv_Dsc_Sak_Crown": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Couronne sacr\u00e9e d'Uruk.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2885"
+  },
+  "HT_Text_Inv_Dsc_Aby_Crown": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Couronne sacr\u00e9e d'Abydos.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2886"
+  },
+  "HT_Text_Inv_Dsc_Hel_Crown": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Couronne sacr\u00e9e d'H\u00e9liopolis.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2887"
+  },
+  "HT_Text_Inv_Dsc_Set_Crown": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Couronne sacr\u00e9e de Seth.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2888"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Hel_PharaohInvite": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Invitation \u00e0 voir le Pharaon d'H\u00e9liopolis.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2889"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederItem": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Grand pot pour l'\u00e9levage d'insectes.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2893"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Carte de fid\u00e9lit\u00e9 offrant 50% de r\u00e9duction sur les insectes du Camp b\u00e9douin.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2894"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_CageKey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 de la Cage des Urukiens.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2896"
+  },
+  "HT_Text_Inv_Dsc_MummyMoney": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Monnaie qu'on ne trouve qu'au Palais d'Uruk.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2897"
+  },
+  "HT_Text_Inv_Dsc_Mum_OldKey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 d'une vieille cave.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2898"
+  },
+  "HT_Text_Inv_Dsc_Mum_GlyphKey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 cisel\u00e9e dor\u00e9e.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2899"
+  },
+  "HT_Text_Inv_Dsc_PalaceInvite": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Invitation \u00e0 voir le Pharaon d'H\u00e9liopolis.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2904"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_CurseStone01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Pierre magique associ\u00e9e \u00e0 la d\u00e9esse Nut levant les sortil\u00e8ges les plus puissants.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2905"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_CurseStone02": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Pierre magique d\u00e9livrant le bonheur, capable de lever de lourds sortil\u00e8ges.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2906"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_CurseStone03": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Pierre magique associ\u00e9e \u00e0 la fertilit\u00e9, capable de lever de lourds sortil\u00e8ges.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2907"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_CurseStone04": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Pierre magique plus puissante que l'\u00e9p\u00e9e, capable de lever de lourds sortil\u00e8ges.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2908"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_CurseStone05": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Pierre magique et proph\u00e9tique, capable de lever de lourds sortil\u00e8ges.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2909"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_CurseStone06": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Pierre magique de la grande maison, capable de lever de lourds sortil\u00e8ges.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2910"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_CurseStone07": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Pierre magique de protection et de vigilance, capable de lever de lourds sortil\u00e8ges.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2911"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_CurseStone08": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Pierre magique de protection et de vigilance, capable de lever de lourds sortil\u00e8ges.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2912"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Luxor01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Amulette de Portail dont les \u00e9tranges symboles indiquent un Lieu myst\u00e9rieux.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2914"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Abydos01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Amulette de Portail dont les symboles marins indiquent Abydos.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2915"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Heliopolis01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Amulette de Portail dont les symboles grav\u00e9s indiquent H\u00e9liopolis.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2917"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_DarkArea01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Amulette de Portail aux anciens symboles indiquant la Tour d'Anubis.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2920"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_GoldKey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Un cl\u00e9 en or.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2922"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_GlyphKey01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Glyphe d'or adapt\u00e9 \u00e0 certaines serrures de socles.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2923"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_GlyphKey02": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Glyphe d'or adapt\u00e9 \u00e0 certaines serrures de socles.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2924"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 d'une porte du D\u00e9sert Sud d'H\u00e9liopolis.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2925"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey02": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 d'une porte du Grand Ob\u00e9lisque d'H\u00e9liopolis.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2926"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey03": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 de la porte d'une grotte reliant le Cap d'H\u00e9liopolis \u00e0 la Plage Sud.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2927"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Bone01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cr\u00e2ne de Hachdegor.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2928"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Bone02": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Bassin de Hachdegor.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2929"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Bone03": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Bras de Hachdegor.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2930"
+  },
+  "HT_Text_Inv_Dsc_Item_Quest_Bone04": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Jambe de Hachdegor.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2931"
+  },
+  "HT_Text_Inv_Dsc_HippyItem": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cette Ombrelle abrite des rayons du soleil.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2935"
+  },
+  "HT_Text_Inv_Dsc_CreatureList01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>1. Tatou de feu<PC 1>2. Ver momie<N>3. Pseudotoro<PC 1>4. Semibrutos<E><ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2936"
+  },
+  "HT_Text_Inv_Dsc_CreatureList02": {
+    "message": "<ES HT_Text_ES_S_BOSStd>1. Adorateur obscur<PC 1>2. Migagu\u00eape<N>3. Rat<PC 1>4. Migapik<E><ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2937"
+  },
+  "HT_Text_Inv_Dsc_CreatureList03": {
+    "message": "<ES HT_Text_ES_S_BOSStd>1. Arbre magique<PC 1>2. Migasquelette<N>3. Maxitoro<PC 1>4. Adorateur de Cr\u00e2nes<E><ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2938"
+  },
+  "HT_Text_Inv_Dsc_Coconut": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Les noix de coco sont le mets favori des Crapauds cracheurs, qui rendent service aux aventuriers en \u00e9change de cette d\u00e9licate gourmandise.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2940"
+  },
+  "HT_Text_Inv_Dsc_ZipLineHook": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Poign\u00e9e portable pour emprunter les c\u00e2bles.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2941"
+  },
+  "HT_Text_Inv_Dsc_AbyWellKey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Vieille cl\u00e9<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2945"
+  },
+  "HT_Text_Inv_Dsc_DummyItem": {
+    "message": "OBJET FACTICE NE DEVANT PAS \u00caTRE AJOUT\u00c9 \u00c0 L'INVENTAIRE",
+    "description": "SphinxText.xls, row 2946"
+  },
+  "HT_Text_Inv_Dsc_AbyStairsKey": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Cl\u00e9 des escaliers du puits de la Cour, donnant acc\u00e8s aux Canaux d'Abydos.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2947"
+  },
+  "HT_Text_Inv_Dsc_MedicineBag": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Pochette con\u00e7ue pour conserver  les rem\u00e8des d\u00e9licats.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2948"
+  },
+  "HT_Text_Inv_Dsc_AtunStatue": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Statue dor\u00e9e du dieu Atun, seul moyen de briser le Sceau magique d'Atun.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2949"
+  },
+  "HT_Text_Inv_Dsc_HathorStatue": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Statue dor\u00e9e du dieu Hathor, dot\u00e9e de pouvoirs magiques.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2950"
+  },
+  "HT_Text_Inv_Dsc_Jewel01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Un des bijoux vol\u00e9s du Mus\u00e9e d'Abydos.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2951"
+  },
+  "HT_Text_Inv_Dsc_Jewel02": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Un des bijoux vol\u00e9s du Mus\u00e9e d'Abydos.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2952"
+  },
+  "HT_Text_Inv_Dsc_Jewel03": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Un des bijoux vol\u00e9s du Mus\u00e9e d'Abydos.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2953"
+  },
+  "HT_Text_Inv_Dsc_Jewel04": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Un des bijoux vol\u00e9s du Mus\u00e9e d'Abydos.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2954"
+  },
+  "HT_Text_Inv_Dsc_Jewel05": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Un des bijoux vol\u00e9s du Mus\u00e9e d'Abydos.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2955"
+  },
+  "HT_Text_Inv_Dsc_Jewel06": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Un des bijoux vol\u00e9s du Mus\u00e9e d'Abydos.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2956"
+  },
+  "HT_Text_Inv_Dsc_EagleStone": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Pierre enchant\u00e9e destin\u00e9e \u00e0 invoquer le Grand Aigle en certains endroits.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2957"
+  },
+  "HT_Text_Inv_Dsc_AtunEye": {
+    "message": "<ES HT_Text_ES_S_BOSStd>\u0152il de pierre qui semble adapt\u00e9 \u00e0 l'orbite d'une statue.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2958"
+  },
+  "HT_Text_Inv_Dsc_Medal_Shoot": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Magnifique m\u00e9daille couronnant tes aptitudes \u00e0 la Sarbacane.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2959"
+  },
+  "HT_Text_Inv_Dsc_Medal_Walls": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Magnifique m\u00e9daille illustrant ton titre de Champion des Corridors.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2960"
+  },
+  "HT_Text_Inv_Dsc_Medal_Pairs": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Magnifique m\u00e9daille gagn\u00e9e aux doublons de Paneb.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2961"
+  },
+  "HT_Text_Inv_Dsc_Medal_Simon": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Magnifique m\u00e9daille gagn\u00e9e aux suites de Sorkon.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2962"
+  },
+  "HT_Text_Inv_Dsc_Museum_Certificate": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Titre octroy\u00e9 par le Mus\u00e9e d'Abydos pour avoir compl\u00e9t\u00e9 sa collection d'Histoire naturelle.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2963"
+  },
+  "HT_Text_Inv_Dsc_Museum_HunterA": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Titre octroy\u00e9 par le Mus\u00e9e d'Abydos pour avoir rapport\u00e9 30 monstres.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2964"
+  },
+  "HT_Text_Inv_Dsc_Museum_HunterB": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Titre octroy\u00e9 par le Mus\u00e9e d'Abydos pour avoir rapport\u00e9 20 monstres.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2965"
+  },
+  "HT_Text_Inv_Dsc_Museum_HunterC": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Titre octroy\u00e9 par le Mus\u00e9e d'Abydos pour avoir rapport\u00e9 10 monstres.<ES HT_Text_ES_E_BOSStd>",
+    "description": "SphinxText.xls, row 2966"
+  }
+}

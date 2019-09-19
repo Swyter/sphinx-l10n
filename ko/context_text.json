@@ -1,0 +1,238 @@
+{
+  "HT_Text_Context_Test": {
+    "message": "\uc2dc\ud5d8 \ub0b4\uc6a9",
+    "description": "SphinxText.xls, row 2461"
+  },
+  "HT_Text_Context_UseItem": {
+    "message": "\uc544\uc774\ud15c",
+    "description": "SphinxText.xls, row 2462"
+  },
+  "HT_Text_Context_Use": {
+    "message": "\uc0ac\uc6a9",
+    "description": "SphinxText.xls, row 2463"
+  },
+  "HT_Text_Context_PushObject": {
+    "message": "\ubc00\uae30",
+    "description": "SphinxText.xls, row 2464"
+  },
+  "HT_Text_Context_PullObject": {
+    "message": "\ub2f9\uae30\uae30",
+    "description": "SphinxText.xls, row 2465"
+  },
+  "HT_Text_Context_Lever": {
+    "message": "\uc791\ub3d9",
+    "description": "SphinxText.xls, row 2466"
+  },
+  "HT_Text_Context_OpenDoor": {
+    "message": "\uc5f4\uae30",
+    "description": "SphinxText.xls, row 2467"
+  },
+  "HT_Text_Context_PickupObject": {
+    "message": "\uc90d\uae30",
+    "description": "SphinxText.xls, row 2468"
+  },
+  "HT_Text_Context_SavePoint": {
+    "message": "\uc800\uc7a5",
+    "description": "SphinxText.xls, row 2469"
+  },
+  "HT_Text_Context_NPC": {
+    "message": "\ub300\ud654",
+    "description": "SphinxText.xls, row 2470"
+  },
+  "HT_Text_Context_Grab": {
+    "message": "\uc7a1\uae30 ",
+    "description": "SphinxText.xls, row 2471"
+  },
+  "HT_Text_Context_Possession": {
+    "message": "\ubcf4\uc720",
+    "description": "SphinxText.xls, row 2472"
+  },
+  "HT_Text_Context_Unpossession": {
+    "message": "\ubc84\ub9ac\uae30",
+    "description": "SphinxText.xls, row 2473"
+  },
+  "HT_Text_Context_Release": {
+    "message": "\ub193\uae30",
+    "description": "SphinxText.xls, row 2474"
+  },
+  "HT_Text_Context_Clone": {
+    "message": "\ubcf5\uc81c ",
+    "description": "SphinxText.xls, row 2475"
+  },
+  "HT_Text_Context_Invisibility": {
+    "message": "\ud22c\uba85",
+    "description": "SphinxText.xls, row 2476"
+  },
+  "HT_Text_Context_Hide": {
+    "message": "\uc228\uae30",
+    "description": "SphinxText.xls, row 2477"
+  },
+  "HT_Text_Context_FreezeTime": {
+    "message": "\uc2dc\uac04 \uc815\uc9c0",
+    "description": "SphinxText.xls, row 2478"
+  },
+  "HT_Text_Context_KaTile": {
+    "message": "\uc0ac\uc6a9",
+    "description": "SphinxText.xls, row 2479"
+  },
+  "HT_Text_Context_Shop": {
+    "message": "\uad6c\ub9e4",
+    "description": "SphinxText.xls, row 2480"
+  },
+  "HT_Text_Context_Blank": {
+    "message": " ",
+    "description": "SphinxText.xls, row 2481"
+  },
+  "HT_Text_Context_Linear": {
+    "message": "\uc9c1\uc120",
+    "description": "SphinxText.xls, row 2482"
+  },
+  "HT_Text_Context_Recall": {
+    "message": "\ud68c\uc218",
+    "description": "SphinxText.xls, row 2483"
+  },
+  "HT_Text_Context_Directed": {
+    "message": "\uc720\ub3c4",
+    "description": "SphinxText.xls, row 2484"
+  },
+  "HT_Text_Context_Cancel": {
+    "message": "\ucde8\uc18c",
+    "description": "SphinxText.xls, row 2485"
+  },
+  "HT_Text_Context_Jump": {
+    "message": "\uc810\ud504",
+    "description": "SphinxText.xls, row 2486"
+  },
+  "HT_Text_Context_Attack": {
+    "message": "\uacf5\uaca9",
+    "description": "SphinxText.xls, row 2487"
+  },
+  "HT_Text_Context_Detonate": {
+    "message": "\ud3ed\ubc1c",
+    "description": "SphinxText.xls, row 2488"
+  },
+  "HT_Text_Context_Beetle": {
+    "message": "\ub531\uc815\ubc8c\ub808",
+    "description": "SphinxText.xls, row 2489"
+  },
+  "HT_Text_Context_Throw": {
+    "message": "\ub358\uc9c0\uae30",
+    "description": "SphinxText.xls, row 2490"
+  },
+  "HT_Text_Context_Drop": {
+    "message": "\ub193\uae30",
+    "description": "SphinxText.xls, row 2491"
+  },
+  "HT_Text_Context_FireDart": {
+    "message": "\ubc1c\uc0ac",
+    "description": "SphinxText.xls, row 2492"
+  },
+  "HT_Text_Context_FirstPerson": {
+    "message": "1\uc778\uce6d",
+    "description": "SphinxText.xls, row 2493"
+  },
+  "HT_Text_Context_Blowpipe": {
+    "message": "\ucde8\uad00",
+    "description": "SphinxText.xls, row 2494"
+  },
+  "HT_Text_Context_ThirdPerson": {
+    "message": "3\uc778\uce6d",
+    "description": "SphinxText.xls, row 2495"
+  },
+  "HT_Text_Context_Program": {
+    "message": "\ud504\ub85c\uadf8\ub7a8",
+    "description": "SphinxText.xls, row 2496"
+  },
+  "HT_Text_Context_SpittingToadV": {
+    "message": "\uc218\uc9c1",
+    "description": "SphinxText.xls, row 2497"
+  },
+  "HT_Text_Context_SpittingToadH": {
+    "message": "\uc218\ud3c9",
+    "description": "SphinxText.xls, row 2498"
+  },
+  "HT_Text_Context_Flap": {
+    "message": "\ub0a0\uac1c\uce68",
+    "description": "SphinxText.xls, row 2499"
+  },
+  "HT_Text_Context_Enter": {
+    "message": "\uc785\uc7a5",
+    "description": "SphinxText.xls, row 2500"
+  },
+  "HT_Text_Context_Grow": {
+    "message": "\uc790\ub77c\uae30",
+    "description": "SphinxText.xls, row 2501"
+  },
+  "HT_Text_Context_Exit": {
+    "message": "\ub098\uac00\uae30",
+    "description": "SphinxText.xls, row 2502"
+  },
+  "HT_Text_Context_SwapMummy": {
+    "message": "\uad50\ud658",
+    "description": "SphinxText.xls, row 2503"
+  },
+  "HT_Text_Context_MummyCrawl": {
+    "message": "\uae30\uc5b4\uac00\uae30",
+    "description": "SphinxText.xls, row 2504"
+  },
+  "HT_Text_Context_MummyStandUp": {
+    "message": "\uc11c\uae30  ",
+    "description": "SphinxText.xls, row 2505"
+  },
+  "HT_Text_Context_Dive": {
+    "message": "\uc7a0\uc218",
+    "description": "SphinxText.xls, row 2506"
+  },
+  "HT_Text_Context_Swim": {
+    "message": "\uc218\uc601",
+    "description": "SphinxText.xls, row 2507"
+  },
+  "HT_Text_Context_SwimFast": {
+    "message": "\ube60\ub984",
+    "description": "SphinxText.xls, row 2508"
+  },
+  "HT_Text_Context_WallSneakPeek": {
+    "message": "\uc0b4\ud3b4\ubcf4\uae30",
+    "description": "SphinxText.xls, row 2509"
+  },
+  "HT_Text_Context_WallSneak": {
+    "message": "\uac8c\uac78\uc74c",
+    "description": "SphinxText.xls, row 2510"
+  },
+  "HT_Text_Context_Take": {
+    "message": "\uc90d\uae30",
+    "description": "SphinxText.xls, row 2511"
+  },
+  "HT_Text_Context_DJump": {
+    "message": "\uacf5\uc911\uc81c\ube44",
+    "description": "SphinxText.xls, row 2512"
+  },
+  "HT_Text_Context_Read": {
+    "message": "\uc77d\uae30",
+    "description": "SphinxText.xls, row 2513"
+  },
+  "HT_Text_Context_Slam": {
+    "message": "\ub0b4\ub824\uce58\uae30",
+    "description": "SphinxText.xls, row 2514"
+  },
+  "HT_Text_Context_Wear": {
+    "message": "\uc785\uae30",
+    "description": "SphinxText.xls, row 2515"
+  },
+  "HT_Text_Context_UnHide": {
+    "message": "\uc228\uc9c0 \uc54a\uae30",
+    "description": "SphinxText.xls, row 2516"
+  },
+  "HT_Text_Context_Choose": {
+    "message": "\uc120\ud0dd",
+    "description": "SphinxText.xls, row 2517"
+  },
+  "HT_Text_Context_Select": {
+    "message": "\uc120\ud0dd",
+    "description": "SphinxText.xls, row 2518"
+  },
+  "HT_Text_Context_Shake": {
+    "message": "\ud754\ub4e4\uae30",
+    "description": "SphinxText.xls, row 2519"
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "HT_Text_Urk_3beams_Women_Freed1a": {
+    "message": "Merci de m'avoir lib\u00e9r\u00e9e! J'ai vraiment pass\u00e9 un sale quart d'heure! <E>",
+    "description": "SphinxText.xls, row 2064"
+  },
+  "HT_Text_Urk_3beams_Women_Freed1b": {
+    "message": "Je dois retrouver mon Mari au plus vite. Il doit \u00eatre mort d'inqui\u00e9tude!<E>",
+    "description": "SphinxText.xls, row 2065"
+  },
+  "HT_Text_Urk_3beams_Women_Freed1c": {
+    "message": "Viens avec moi! Je suis s\u00fbre que mon Mari sera ravi de remercier le sauveur de son \u00e9ternel amour!<E>",
+    "description": "SphinxText.xls, row 2066"
+  },
+  "HT_Text_Uruk_Intro_Entrance1a": {
+    "message": "<EFF><EPO>Oui, c'est le tristement c\u00e9l\u00e8bre <FC 128,64,0>Palais d'Uruk<END FC>... <P>Personne ne sait ce qui se passe derri\u00e8re ces murs... personne de vivant, du moins. Mais je sens la nature mal\u00e9fique de cet \u00e9difice!<E>",
+    "description": "SphinxText.xls, row 2068"
+  },
+  "HT_Text_Uruk_Intro_Entrance1b": {
+    "message": "Oh! Le rayon est actif, dans toute son intensit\u00e9, c'est tr\u00e8s troublant. <E>",
+    "description": "SphinxText.xls, row 2069"
+  },
+  "HT_Text_Uruk_Intro_Entrance1b1": {
+    "message": "<EFF><EPO>Selon la l\u00e9gende, il prot\u00e8ge le Palais et les environs d'<FC 128,64,0>Uruk<END FC> par son incroyable pouvoir.<P>Les lieux sont pleins de pi\u00e8ges, mais aucun n'est aussi dangereux que le rayon. <E>",
+    "description": "SphinxText.xls, row 2070"
+  },
+  "HT_Text_Uruk_Intro_Entrance1c": {
+    "message": "Au-del\u00e0, mes pouvoirs sont inefficaces... Je ne puis aller plus loin... <E>",
+    "description": "SphinxText.xls, row 2071"
+  },
+  "HT_Text_Uruk_Intro_Entrance1c1": {
+    "message": "Allez, vous deux, partez en qu\u00eate de l'<FC 0,128,0>\u00c9p\u00e9e d'Osiris<END FC>! Seul un bon travail d'\u00e9quipe vous permettra de la trouver.<E>",
+    "description": "SphinxText.xls, row 2072"
+  },
+  "HT_Text_Uruk_Intro_Entrance1c2THQ": {
+    "message": "Vous devez vous s\u00e9parer, maintenant. Horus doit traverser les collines d'<FC 128,64,0>Uruk<END FC> et toi, Sphinx, tu dois emprunter ce portail. <E>",
+    "description": "SphinxText.xls, row 2073"
+  },
+  "HT_Text_Uruk_Intro_Entrance1d": {
+    "message": "Bonne chance, courageux aventuriers!<W 60>",
+    "description": "SphinxText.xls, row 2074"
+  },
+  "HT_Text_Uruk_Intro_Entrance2a": {
+    "message": "Ces pierres cachent quelque chose d'int\u00e9ressant. Je vais regarder \u00e7a de plus pr\u00e8s. Jette un coup d'\u0153il par l\u00e0!<E>",
+    "description": "SphinxText.xls, row 2075"
+  },
+  "HT_Text_Uruk_Intro_Entrance2a1THQ": {
+    "message": "Bon! L'heure est \u00e0 l'action! Je commen\u00e7ais \u00e0 m'ennuyer, moi. Je vais jeter un \u0153il par l\u00e0. Et toi, emprunte cette porte. Nous nous retrouvons \u00e0 <FC 128,64,0>H\u00e9liopolis<END FC>. <E>",
+    "description": "SphinxText.xls, row 2076"
+  },
+  "HT_Text_Uruk_intro_01a_Horus_TooHigh": {
+    "message": "Sphinx! Je suis l\u00e0, pr\u00e8s de la coul\u00e9e de lave. Viens voir, je veux te montrer un truc!<E>",
+    "description": "SphinxText.xls, row 2077"
+  },
+  "HT_Text_Uruk_intro_01_Horus_CallingUpHere1": {
+    "message": "Hum! C'est trop haut pour toi, hein? Je ne comprends pas pourquoi le Ma\u00eetre a insist\u00e9 pour que tu m'accompagnes. Tu es un v\u00e9ritable boulet!<E> ",
+    "description": "SphinxText.xls, row 2078"
+  },
+  "HT_Text_Uruk_intro_01_Horus_CallingUpHere2": {
+    "message": "Essaie de trouver un autre passage! Je viens de trouver un truc, je veux t'expliquer comment \u00e7a marche.<E> ",
+    "description": "SphinxText.xls, row 2079"
+  },
+  "HT_Text_Uruk_intro_01_Horus_CallingUpHere3": {
+    "message": "Je n'ai pas besoin de toi pour trouver l'\u00e9p\u00e9e. D\u00e9brouille-toi tout seul et grimpe par tes propres moyens!<E>",
+    "description": "SphinxText.xls, row 2080"
+  },
+  "HT_Text_Uruk_intro_02_Sphinx_TalkToad1": {
+    "message": "Beurk, que la peau sur les os!<E>",
+    "description": "SphinxText.xls, row 2081"
+  },
+  "HT_Text_Uruk_intro_02_Sphinx_TalkToad2": {
+    "message": "J'ai la dalle, mais pas au point de te manger une c\u00f4te. Tu serais trop long \u00e0 \u00e9plucher!<E>",
+    "description": "SphinxText.xls, row 2082"
+  },
+  "HT_Text_Uruk_intro_02_Sphinx_TalkToad3": {
+    "message": "J'ai envie de <FC 0,128,0>Noix de coco<END FC>... \u00c7a fait un bail que je n'ai pas mang\u00e9 de <FC 0,128,0>Noix de coco<END FC>. Miam...<E>",
+    "description": "SphinxText.xls, row 2083"
+  },
+  "HT_Text_Uruk_Intro_03_Horus_BloodPresentation1": {
+    "message": "Ah, te voil\u00e0 enfin! Je ne pensais pas que tu y arriverais. <E> ",
+    "description": "SphinxText.xls, row 2084"
+  },
+  "HT_Text_Uruk_Intro_03_Horus_BloodPresentation2": {
+    "message": "<EFF><EPO>Quel escargot, c'est pas vrai! Mais bon, j'ai trouv\u00e9 le Sang de R\u00e2.<P>Selon Ma\u00eetre Imhotep, il permet de marcher sur la lave en fusion et de franchir les geysers.<E>",
+    "description": "SphinxText.xls, row 2085"
+  },
+  "HT_Text_Uruk_Intro_03_Horus_BloodPresentation3": {
+    "message": "Mais je n'arrive pas \u00e0 l'attraper. Il faut trouver une solution.<E>",
+    "description": "SphinxText.xls, row 2086"
+  },
+  "HT_Text_Uruk_Intro_04_Horus_Blood_Shower1": {
+    "message": "Pourquoi n'y ai-je pas pens\u00e9 plus t\u00f4t!<E>",
+    "description": "SphinxText.xls, row 2087"
+  },
+  "HT_Text_Uruk_Intro_04_Horus_Blood_Shower2": {
+    "message": "Je le savais depuis le d\u00e9but, je voulais juste voir comment tu t'en tirerais!<E>",
+    "description": "SphinxText.xls, row 2088"
+  },
+  "HT_Text_Uruk_Intro_04_Horus_Blood_Shower3": {
+    "message": "Bon, je passe devant. Je suis d\u00e9j\u00e0 fatigu\u00e9 de t'attendre!<W 60>",
+    "description": "SphinxText.xls, row 2089"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Climb01": {
+    "message": "<EFF><EPO>H\u00e9 Sphinx! Par ici. Vite!<P> Je vais avoir besoin de ton aide.<E>",
+    "description": "SphinxText.xls, row 2090"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Climb02": {
+    "message": "<EFF><EPO>Saute contre le mur. Monte, descends, va \u00e0 gauche/droite avec <SB HT_PadAction_PLR_MovePlr>.<P>Grimpe en appuyant doucement sur <SB HT_PadAction_PLR_MovePlr>.<E>",
+    "description": "SphinxText.xls, row 2091"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Climb03": {
+    "message": "M\u00e9fie-toi de ces araign\u00e9es, leur morsure est tr\u00e8s douloureuse!<E>",
+    "description": "SphinxText.xls, row 2092"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_LedgeHang01": {
+    "message": "Utilise la rampe pour franchir le vide.<E> ",
+    "description": "SphinxText.xls, row 2093"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
+    "message": "<EFF><EPO>Saute, saisis la rampe et va \u00e0 gauche/droite avec <SB HT_PadAction_PLR_MovePlr>.<P>Pour traverser lentement, orientez <SB HT_PadAction_PLR_MovePlr> leg\u00e8rement.<E>",
+    "description": "SphinxText.xls, row 2094"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
+    "message": "Une fois parvenu \u00e0 destination, appuie sur <SB HT_Action_Drop> pour sauter de la rampe.<E>",
+    "description": "SphinxText.xls, row 2095"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_UseRock01": {
+    "message": "Sphinx! Par ici! J'ai besoin de toi, finalement!<W 60>",
+    "description": "SphinxText.xls, row 2096"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_UseRock02": {
+    "message": "Jette une pierre dans ce terrier, tu d\u00e9couvriras peut-\u00eatre quelque chose d'utile.<E>",
+    "description": "SphinxText.xls, row 2097"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_UseSlimBurble01": {
+    "message": "Fais attention, Sphinx, ces monstres ont l'air inoffensif, mais ils sont explosifs!<E>",
+    "description": "SphinxText.xls, row 2098"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_UseSlimBurble02": {
+    "message": "<EFF><EPO>En col\u00e8re, ils clignotent rouge et se jettent sur l'ennemi, explosant \u00e0 leur contact.<P>Si tu es assez vif pour les esquiver \u00e0 temps, tu peux les orienter vers des objets que tu veux d\u00e9truire.<E>",
+    "description": "SphinxText.xls, row 2099"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Blade01": {
+    "message": "\u00c7a y est, je l'ai enfin trouv\u00e9e, l'ancienne <FC 0,128,0>\u00c9p\u00e9e d'Osiris<END FC>! Elle est perch\u00e9e sur ce piton rocheux. Mais comment la r\u00e9cup\u00e9rer?<E> ",
+    "description": "SphinxText.xls, row 2100"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Blade01a": {
+    "message": "Regarde, elle est sur ce piton rocheux.<E>",
+    "description": "SphinxText.xls, row 2101"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Blade02": {
+    "message": "L'<FC 0,128,0>\u00c9p\u00e9e d'Osiris<END FC> nous tend les bras, mais comment l'attraper?<E>",
+    "description": "SphinxText.xls, row 2102"
+  },
+  "HT_Text_Urk_Intro_Help_LongJump": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Appuyer longuement sur <SB HT_Action_Jump> pour sauter plus loin.<E>",
+    "description": "SphinxText.xls, row 2103"
+  },
+  "HT_Text_Urk_Intro_Help_ZipLine": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>C'est un c\u00e2ble. Saute et attrape la<N>poign\u00e9e si tu veux l'utiliser.<E>",
+    "description": "SphinxText.xls, row 2104"
+  },
+  "HT_Text_Urk_Intro_Help_SavePoint": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ces statues sacr\u00e9es sauvegardent ta progression.<P><ES HT_Text_ES_S_HelpText><CNTR>Approche-toi d'une statue et appuie sur <SB HT_Action_SavePoint> pour archiver ta qu\u00eate jusqu'\u00e0 ce point.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 2105"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade01": {
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Tu as l'<FC 0,128,0>\u00c9p\u00e9e d'Osiris<END FC>!<E> ",
+    "description": "SphinxText.xls, row 2106"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade02": {
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Cette arme appartenait au<N>grand dieu Osiris en personne!<E>",
+    "description": "SphinxText.xls, row 2107"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade03": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Maintiens <SB HT_Action_Attack> enfonc\u00e9 pour effectuer un revers d'\u00e9p\u00e9e.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_Jump>, puis sur <SB HT_Action_Attack> en l'air<N>pour effectuer un coup d'\u00e9p\u00e9e haut.<P><ES HT_Text_ES_S_HelpText><CNTR>Tr\u00e8s utile pour toucher des objets en hauteur,<N>comme les lustres.<E>",
+    "description": "SphinxText.xls, row 2108"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade04": {
+    "message": "Tu as trouv\u00e9 l'<FC 0,128,0>\u00c9p\u00e9e d'Osiris<END FC>, mais tu t'es fait rep\u00e9rer au <FC 128,64,0>Palais d'Uruk<END FC>!<E>",
+    "description": "SphinxText.xls, row 2109"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade05": {
+    "message": "Ces grottes abritent un portail magique - autrefois utilis\u00e9 par les dieux pour passer d'un monde \u00e0 l'autre. <E>",
+    "description": "SphinxText.xls, row 2110"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade06": {
+    "message": "J'ai cach\u00e9 une <FC 0,128,0>Amulette de Portail<END FC> sur un rebord du mur de la salle du portail, en hauteur. <E>",
+    "description": "SphinxText.xls, row 2111"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade07": {
+    "message": "Cette amulette va te permettre de retourner rapidement au temple. <E>",
+    "description": "SphinxText.xls, row 2112"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade08": {
+    "message": "D\u00e9p\u00eache-toi, Sphinx, avant qu'il ne t'arrive le m\u00eame sort qu'\u00e0 Horus!<E>",
+    "description": "SphinxText.xls, row 2113"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed01": {
+    "message": "A\u00efe! Tu es prisonnier dans la salle du portail et tu n'as pas la bonne <FC 0,128,0>Amulette de Portail<END FC>. <E>",
+    "description": "SphinxText.xls, row 2114"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed02": {
+    "message": "Tu es vivant, c'est d\u00e9j\u00e0 pas mal. Je crois simplement que les d\u00e9fenses du ch\u00e2teau sont plus fortes que nous! <E>",
+    "description": "SphinxText.xls, row 2115"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed03": {
+    "message": "Tu n'as pas trouv\u00e9 l'amulette destin\u00e9e \u00e0 te ramener chez toi, mais tu d\u00e9tiens une <FC 0,128,0>Amulette myst\u00e9rieuse<END FC>.<E>",
+    "description": "SphinxText.xls, row 2116"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed04": {
+    "message": "Je ne sais pas o\u00f9 elle t'emm\u00e8nera, mais tu n'as pas le choix. Place-toi sur le cercle magique, devant le Dieu du Portail et utilise l'amulette.<E>",
+    "description": "SphinxText.xls, row 2117"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed05": {
+    "message": "Approche du cercle magique devant le portail et utilise l'amulette.<E>",
+    "description": "SphinxText.xls, row 2118"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed06": {
+    "message": "J'esp\u00e8re que \u00e7a ne sera pas un endroit trop dangereux.<E>",
+    "description": "SphinxText.xls, row 2119"
+  },
+  "HT_Text_Urk_Intro_Help_GotPortalAmulet": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu as l'<FC 0,128,0>Amulette de Portail<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Cet artefact en or honore le Dieu du Portail.<E>",
+    "description": "SphinxText.xls, row 2120"
+  },
+  "HT_Text_Urk_Intro_Help_AmuletAccepted": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Le Dieu du Portail a entendu ta pri\u00e8re et te conduira \u00e0 <FC 128,64,0>Louksor<END FC>...<E>",
+    "description": "SphinxText.xls, row 2121"
+  },
+  "HT_Text_urk_intr_HorusNeedtoShowU": {
+    "message": "Ah! J'oubliais que tu t'entra\u00eenais... C'est encore trop haut pour toi.<P> Trouve un autre moyen d'y arriver, il faut que je te montre comment marche ce truc.<P> Et pour \u00e7a, faut bien que tu sois l\u00e0!<E>",
+    "description": "SphinxText.xls, row 2122"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_Hungry ": {
+    "message": "Trop gras!<P>Je cr\u00e8ve la dalle, mais pas question de manger un truc plein de v\u00eatements. J'aime pas les fibres!<N>J'ai envie de  <FC 0,128,0>Noix de coco<END FC>... \u00c7a fait un bail que je n'ai pas mang\u00e9 de <FC 0,128,0>Noix de coco<END FC> Miam...<E>",
+    "description": "SphinxText.xls, row 2123"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryShort": {
+    "message": "Ohhh, j'ai si faim... Il doit bien y avoir des <FC 0,128,0>Noix de coco<END FC> dans le coin!<E>",
+    "description": "SphinxText.xls, row 2124"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_Hungry1": {
+    "message": "H\u00e9, toi avec ton maquillage! Oui, toi! Qu'est-ce que tu sens... Mais oui! La <FC 0,128,0>Noix de coco<END FC>!<P>Tu m'en donnes?<N>  <B 1> Bien s\u00fbr, sers-toi!<N>  <B 2> Non mais tu r\u00eaves!<E>",
+    "description": "SphinxText.xls, row 2125"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryYes": {
+    "message": "D\u00e9licieux, merci!<P>J'en reprendrais bien un peu. Si tu m'en donnes encore, je te donnerai un coup de main... <E> ",
+    "description": "SphinxText.xls, row 2126"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryNo": {
+    "message": "Alors arr\u00eate de me tenter et vire!<E>",
+    "description": "SphinxText.xls, row 2127"
+  },
+  "HT_Text_urk_intr_HorusTalk_01": {
+    "message": "Tu vois cette statue suintant le sang? Il para\u00eet que c'est le Sang de R\u00e2 en personne.<P>Quiconque se place sous le sang se voit entour\u00e9 d'un bouclier protecteur lui permettant de marcher sur la lave en fusion.<P>Mais l'effet protecteur du bouclier est tr\u00e8s provisoire.<E>",
+    "description": "SphinxText.xls, row 2128"
+  },
+  "HT_Text_urk_intr_HorusTalk_StoneNear": {
+    "message": "Sphinx! D\u00e9gage ce rocher! <E>",
+    "description": "SphinxText.xls, row 2129"
+  },
+  "HT_Text_urk_intr_HorusTalk_StoneThrown": {
+    "message": "H\u00e9, mais tu vas faire des borgnes, avec \u00e7a! <E>",
+    "description": "SphinxText.xls, row 2130"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryYes1": {
+    "message": "Encore 2 et je serai repu.<E>",
+    "description": "SphinxText.xls, row 2131"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryYes2": {
+    "message": "C'est trop bon! Encore une et \u00e7a ira.<E> ",
+    "description": "SphinxText.xls, row 2132"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryYes3": {
+    "message": "Merci! \u00c7a va vraiment mieux!<P>Monte sur ma langue et je t'emm\u00e8nerai o\u00f9 tu veux.<P>Choisis d'abord une direction horizontale, puis une direction verticale et je te projetterai \u00e0 l'endroit choisi.<P>Mais attention, sois pr\u00e9cis car si tu me demandes de t'envoyer dans la lave, je le ferai!<E> ",
+    "description": "SphinxText.xls, row 2133"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_NotEnough": {
+    "message": "J'ai encore faim!<E>",
+    "description": "SphinxText.xls, row 2134"
+  },
+  "HT_Text_urk_intr_PickupCocoon": {
+    "message": "Tu as un Cocon.<E>  ",
+    "description": "SphinxText.xls, row 2135"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall01": {
+    "message": "Hum... Merci, Sphinx, tu m'as \u00e9t\u00e9 plus utile que je l'imaginais. Maintenant, je peux attraper l'<FC 0,128,0>\u00c9p\u00e9e d'Osiris<END FC>.<E>",
+    "description": "SphinxText.xls, row 2136"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall02": {
+    "message": "Que se passe-t-il? \u00c7a tremble de partout... <W 60>",
+    "description": "SphinxText.xls, row 2137"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall03": {
+    "message": "Regarde! Le rayon! Il se charge!!!  <W 60>",
+    "description": "SphinxText.xls, row 2138"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall03a": {
+    "message": "Pas cool... <W 60>",
+    "description": "SphinxText.xls, row 2139"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall04": {
+    "message": "Sphinx, c'est mauvais signe!<W 60>",
+    "description": "SphinxText.xls, row 2140"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall05": {
+    "message": "On a eu du bol! Oh non! Mais il va o\u00f9, ce truc? Sphinx?! Sphinx!!<E>",
+    "description": "SphinxText.xls, row 2141"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation01": {
+    "message": "<EFF><EPO>Le moment que je redoutais est arriv\u00e9. L'obscurit\u00e9 annonc\u00e9e plane au-dessus de nos t\u00eates... nous devons nous pr\u00e9parer.<P>Je vous ai choisi parce que vous \u00eates mes deux meilleurs apprentis.<E>",
+    "description": "SphinxText.xls, row 2142"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation01a": {
+    "message": "La mission qui est la tienne mettra \u00e0 l'\u00e9preuve ta force et tes comp\u00e9tences.<E>",
+    "description": "SphinxText.xls, row 2143"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation02": {
+    "message": "Pr\u00e9parez-vous psychologiquement car ce passage est tr\u00e8s p\u00e9rilleux. Vous n'en sortirez peut-\u00eatre pas indemne, voire pas du tout. <E>",
+    "description": "SphinxText.xls, row 2144"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation02a": {
+    "message": "Rien ne vous oblige \u00e0 partir. Il est toujours temps de renoncer.<E>",
+    "description": "SphinxText.xls, row 2145"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation03": {
+    "message": "Je vois. Puisque vous acceptez votre mission, je vous envoie \u00e0 <FC 128,64,0>Uruk<END FC>, la terre de l'ombre.<E>",
+    "description": "SphinxText.xls, row 2146"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation04": {
+    "message": "Vous y chercherez l'<FC 0,128,0>\u00c9p\u00e9e d'Osiris<END FC>, une ancienne lame tr\u00e8s puissante prot\u00e9geant contre les d\u00e9mons d'<FC 128,64,0>Uruk<END FC>.<E>",
+    "description": "SphinxText.xls, row 2147"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation05": {
+    "message": "Votre voyage va commencer...<W 90>",
+    "description": "SphinxText.xls, row 2148"
+  },
+  "HT_Text_Urk_Intro_Geyser_Off": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ce geyser est inactif. On dirait qu'il a besoin d'une autre<N> mont\u00e9e de lave pour jaillir.<E>",
+    "description": "SphinxText.xls, row 2149"
+  },
+  "HT_Text_Urk_Intro_Pickup_Stone": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>En haut \u00e0 droite, <SB HT_Action_PickupObject> change lorsque<N>tu t'approches de certains objets.<P><ES HT_Text_ES_S_HelpText><CNTR>Tu peux appuyer sur <SB HT_Action_PickupObject> pour ramasser des pierres<N>comme celle-la lorsque tu en es proche.<E>",
+    "description": "SphinxText.xls, row 2150"
+  },
+  "HT_Text_Urk_Intro_Pushable_Stone": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Appuie sur <SB HT_Action_Grab> pour attraper un objet<P><ES HT_Text_ES_S_HelpText><N><CNTR> et pousse-le ou tire-le avec <SB HT_PadAction_PLR_MovePlr>.<E>",
+    "description": "SphinxText.xls, row 2151"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1a": {
+    "message": "<EFF><EPO>Bienvenue aux <FC 128,64,0>\u00celes d'Uruk<END FC>, Sphinx! Mon ami Imhotep m'a averti de ta venue.<P>Je sais que tu cherches la <FC 0,128,0>Couronne sacr\u00e9e d'Uruk<END FC> actuellement d\u00e9tenue par la terrible Reine des Gebs.<E>",
+    "description": "SphinxText.xls, row 2153"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1b": {
+    "message": "Mais je dois d'abord tester ta sagesse et tes comp\u00e9tences physiques.<E>",
+    "description": "SphinxText.xls, row 2154"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1c": {
+    "message": "Si tu r\u00e9ussis, cela signifie que tu es en mesure de vaincre la puissante Reine des Gebs...<E>",
+    "description": "SphinxText.xls, row 2155"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1d": {
+    "message": "...mais si tu \u00e9choues, un sort atroce t'attend derri\u00e8re les portes de ce temple...<E>",
+    "description": "SphinxText.xls, row 2156"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1e": {
+    "message": "Acceptes-tu ce test?<N>  <B 1> Oui<N>  <B 2> Non<E>",
+    "description": "SphinxText.xls, row 2157"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fAccept": {
+    "message": "Entre dans le temple, puis \u00e9chappe-toi et apporte-moi ce que tu as trouv\u00e9.<E>",
+    "description": "SphinxText.xls, row 2158"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fReject": {
+    "message": "Tu es un l\u00e2che, je m'en doutais!<E>",
+    "description": "SphinxText.xls, row 2159"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestPrompt": {
+    "message": "Acceptes-tu le test?<N>  <B 1> Oui<N>  <B 2> Non<E>",
+    "description": "SphinxText.xls, row 2160"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestAccepted": {
+    "message": "Bien. P\u00e9n\u00e8tre dans le temple, sauve-toi et apporte-moi ce que tu as trouv\u00e9.<E>",
+    "description": "SphinxText.xls, row 2161"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestRejected": {
+    "message": "Tu es un l\u00e2che, je m'en doutais!<E>",
+    "description": "SphinxText.xls, row 2162"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestPromptAgain": {
+    "message": "C'est trop tard, tant pis pour toi.<E>",
+    "description": "SphinxText.xls, row 2163"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestAlmostComplete": {
+    "message": "Si tu n'as rien trouv\u00e9, tu as rat\u00e9 le test.<E>",
+    "description": "SphinxText.xls, row 2164"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestComplete": {
+    "message": "<EFF><EPO>Ah, te voil\u00e0! Bravo, Sphinx! Je savais que tu t'en sortirais.<P>Rares sont ceux qui survivent au test du temple, tu sais!<E>",
+    "description": "SphinxText.xls, row 2165"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestComplete1": {
+    "message": "<EFF><EPO>L'artefact que tu m'as apport\u00e9 permet d'activer ce <FC 0,128,0>Propulso Ankh Ka<END FC>.<P>Je suis s\u00fbr qu'un aventurier de ta trempe conna\u00eet les m\u00e9canismes mystiques des Ankhs Kas.<E>",
+    "description": "SphinxText.xls, row 2166"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestComplete2": {
+    "message": "<EFF><EPO>Avant que tu ne me quittes, un conseil. La Reine des Gebs est un terrible adversaire. J'ai bien peur que tu ne puisses pas l'\u00e9craser tout seul.<P>Dans le feu du combat, n'oublie pas que certaines cr\u00e9atures peuvent t'\u00eatre utiles pour vaincre la Reine...<P>Bon courage, Sphinx, et bonne chance!<E>",
+    "description": "SphinxText.xls, row 2167"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestCompleteAgain": {
+    "message": "Bien jou\u00e9, Sphinx, mais je ne puis t'aider davantage.<E>",
+    "description": "SphinxText.xls, row 2168"
+  },
+  "HT_Text_Urk_4pat_Help_FoundBounce": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu as les <FC 0,128,0>Fl\u00e8ches rebondissantes<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Elles te permettent de toucher<N>des cibles impossibles \u00e0 atteindre directement.<ES HT_Text_ES_E_HelpText><E>",
+    "description": "SphinxText.xls, row 2172"
+  },
+  "HT_Text_Urk_4pat_Help_FoundBeetles": {
+    "message": "<N><CNTR>Tu as les <FC 0,128,0>Insectes explosifs<END FC>!<P>\u00c9quipe-t'en \u00e0 l'aide des <FC 0,128,0>touches directionnelles<END FC> comme avec la <FC 0,128,0>Sarbacane<END FC>. Guide-les avec <SB HT_PadAction_PLR_MoveBeetle>.<P>Ils explosent au contact des monstres et des murs. Tu peux aussi les <FC 0,128,0>RAPPELER<END FC> ou les <FC 0,128,0>FAIRE EXPLOSER<END FC>.<E>",
+    "description": "SphinxText.xls, row 2173"
+  },
+  "HT_Text_Urk_4pat_Help_DoubleJump": {
+    "message": "<DHP><DP>Saute + haut: maintiens enfonc\u00e9e la touche <FC 0,128,0>SAUTER<END FC>. Double-saut: appuie 2 fois sur <FC 0,128,0>SAUTER<END FC>. <W 120>",
+    "description": "SphinxText.xls, row 2174"
+  },
+  "HT_Text_Urk_4pat_WomanHelp1": {
+    "message": "Au secours! Au secours!<W 60>",
+    "description": "SphinxText.xls, row 2175"
+  },
+  "HT_Text_Urk_4pat_WomanHelp2": {
+    "message": "Un esprit mal\u00e9fique nous a enlev\u00e9s, mes petits fr\u00e8res et moi. Il faut nous sortir de ce temple maudit!<E>",
+    "description": "SphinxText.xls, row 2176"
+  },
+  "HT_Text_Urk_4pat_WomanHelp3": {
+    "message": "Il faut nous sortir de l\u00e0!<E>",
+    "description": "SphinxText.xls, row 2177"
+  },
+  "HT_Text_Urk_4pat_WomanHelp4": {
+    "message": "Merci, merci pour tout...<W 60>",
+    "description": "SphinxText.xls, row 2178"
+  },
+  "HT_Text_Urk_4pat_WomanHelp5": {
+    "message": "Mes fr\u00e8res et moi voulons remercier notre sauveur...<W 60>",
+    "description": "SphinxText.xls, row 2179"
+  },
+  "HT_Text_Urk_Set_Presenation1": {
+    "message": "Je t'attendais, Sphinx, Celui de la Proph\u00e9tie. <E>",
+    "description": "SphinxText.xls, row 2181"
+  },
+  "HT_Text_Urk_Set_Presenation2": {
+    "message": "Je vois que mon fr\u00e8re Osiris n'est pas l\u00e0 pour m'affronter. C'est un faible...<E>",
+    "description": "SphinxText.xls, row 2182"
+  },
+  "HT_Text_Urk_Set_Presenation3": {
+    "message": "Ou il est peut-\u00eatre trop l\u00e2che pour me regarder en face. Hahaha! <E>",
+    "description": "SphinxText.xls, row 2183"
+  },
+  "HT_Text_Urk_Set_Presenation4": {
+    "message": "Tu as fait le max pour contrecarrer mes plans mais c'est moi qui contr\u00f4lerai le pouvoir de l'\u0152il de R\u00e2! <E>",
+    "description": "SphinxText.xls, row 2184"
+  },
+  "HT_Text_Urk_Set_Presenation5": {
+    "message": "Toi et ta cohorte de morts vivants accomplissez la proph\u00e9tie...<E>",
+    "description": "SphinxText.xls, row 2185"
+  },
+  "HT_Text_Urk_Set_Presenation6": {
+    "message": "Mais je veillerai \u00e0 ce qu'elle s'ach\u00e8ve sur ta mort et celle d'Osiris, de ma propre main...<E>",
+    "description": "SphinxText.xls, row 2186"
+  },
+  "HT_Text_Urk_Set_Presenation6a": {
+    "message": "\u00c0 JAMAIS! <W 60>",
+    "description": "SphinxText.xls, row 2187"
+  },
+  "HT_Text_Urk_Set_Presenation7": {
+    "message": "Mis\u00e9rable cr\u00e9ature, Osiris ne t'a pas parl\u00e9 de mon v\u00e9ritable visage! Hahaha! <E>",
+    "description": "SphinxText.xls, row 2188"
+  },
+  "HT_Text_Urk_Set_Presenation8": {
+    "message": "Ton heure est arriv\u00e9e! <W 60>",
+    "description": "SphinxText.xls, row 2189"
+  },
+  "HT_Text_Urk_Set_BossDead1": {
+    "message": "Excellent, Sphinx! Tu as sauv\u00e9 la Momie des mains de Seth. Seth est tr\u00e8s affaibli, mais la mort n'est pas son lot.<E>",
+    "description": "SphinxText.xls, row 2190"
+  },
+  "HT_Text_Urk_Set_BossDead2": {
+    "message": "Le monde ne peut exister sans le mal, comme la lumi\u00e8re ne peut se passer de l'obscurit\u00e9. <E>",
+    "description": "SphinxText.xls, row 2191"
+  },
+  "HT_Text_Urk_Set_BossDead3": {
+    "message": "Seth est affaibli, il ne pourra pas se battre contre son destin. Il s'unira \u00e0 son fr\u00e8re Osiris et le royaume divin retrouvera l'harmonie parfaite. <E>",
+    "description": "SphinxText.xls, row 2192"
+  },
+  "HT_Text_Urk_Set_BossDead3a": {
+    "message": "Le puissant Osiris vient d'arriver! <E>",
+    "description": "SphinxText.xls, row 2193"
+  },
+  "HT_Text_Urk_Set_BossDead4": {
+    "message": "L'<FC 0,128,0>Ancienne Proph\u00e9tie de R\u00e2<END FC> s'est enfin accomplie. La lumi\u00e8re et l'obscurit\u00e9 se sont retrouv\u00e9es. L'harmonie r\u00e8gne de nouveau. <E>",
+    "description": "SphinxText.xls, row 2194"
+  },
+  "HT_Text_Urk_Set_BossDead5": {
+    "message": "Sphinx et Toutankhamon, vous avez men\u00e9 \u00e0 bien cette aventure avec bravoure. <E>",
+    "description": "SphinxText.xls, row 2195"
+  },
+  "HT_Text_Urk_Set_BossDead6": {
+    "message": "Sphinx, par tes actes et ton courage, ton nom restera \u00e0 jamais grav\u00e9 dans l'histoire. <E>",
+    "description": "SphinxText.xls, row 2196"
+  },
+  "HT_Text_Urk_Set_BossDead7": {
+    "message": "Toutankhamon, je te donne le dernier <FC 0,128,0>Vase canope<END FC> qui te rendra ta forme humaine et te laissera regagner ton royaume.<E>",
+    "description": "SphinxText.xls, row 2197"
+  },
+  "HT_Text_Urk_Set_BossDead7a": {
+    "message": "<EFF><EPO>Merci \u00e0 vous deux d'avoir r\u00e9tabli l'\u00e9quilibre, pour le bonheur de toutes les g\u00e9n\u00e9rations \u00e0 venir.<P>Des aventures plus dangereuses encore vous attendent. Pour l'instant, savourez votre triomphe.<P>Toutankhamon, je t'offre le dernier <FC 0,128,0>Vase canope<END FC> en signe de gratitude. <E>",
+    "description": "SphinxText.xls, row 2198"
+  },
+  "HT_Text_Urk_Set_BossDead8": {
+    "message": "Ne t'inqui\u00e8te pas, Toutankhamon, tu vas retrouver ton aspect. D'autres mondes d\u00e9tiennent certainement la cl\u00e9 du probl\u00e8me. <E>",
+    "description": "SphinxText.xls, row 2199"
+  },
+  "HT_Text_Urk_Set_BossDead9": {
+    "message": "Nous t'aiderons \u00e0 trouver...<W 180>",
+    "description": "SphinxText.xls, row 2200"
+  },
+  "HT_Text_Urk_2key_Help_FoundGlyphValuable01": {
+    "message": "<N><CNTR>Tu as trouv\u00e9 un pr\u00e9cieux <FC 0,128,0>Glyphe d'or<END FC>!<E>",
+    "description": "SphinxText.xls, row 2201"
+  }
+}
