@@ -7,8 +7,8 @@ HEADER_ROW       = 3 - 1 # swy: the header row is usually in the third line (2 w
 DEAD_TEXT_COLUMN = 3 - 1 # swy: this is hardcoded for the column in SphinxText.xls, edit accordingly
 
 lang = {
-    'MARKER_ENGLISH_US': 'en_US',
-    'MARKER_ENGLISH_UK': 'en_UK',
+    'MARKER_ENGLISH_US': 'en',
+    'MARKER_ENGLISH_UK': 'en-UK',
     'MARKER_GERMAN':     'de',
     'MARKER_FRENCH':     'fr',
     'MARKER_SPANISH':    'es',
@@ -78,8 +78,8 @@ for cur in lang:
         if row[0] != "" and cur_section != row[0]: # and not row[0] in ignored_section_markers:
             print(">> pre_section", cur_section)
 
-            if out: # swy: sort the files so that they appear in the correct section order
-                with open("%s/%02u_%s.json" % (lang[cur], cur_section_count, cur_section), 'w') as outfile:
+            if out: # swy: don't sort the files so that they appear in the correct section order, simplify the marker format instead
+                with open("%s/%s.json" % (lang[cur], cur_section.replace("M_", "").lower()), 'w') as outfile:
                     json.dump(out, outfile, indent=2)
 
             cur_section_count = cur_section_count + 1

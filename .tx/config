@@ -1,0 +1,135 @@
+[main]
+host = https://www.transifex.com
+lang_map = pt_BR: pt-BR, en_US: en-US, en_UK: en-UK
+
+[sphinx-l10n.abydos]
+file_filter = <lang>/abydos.json
+source_file =     en/abydos.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.akaria_text]
+file_filter = <lang>/akaria_text.json
+source_file =     en/akaria_text.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.bos_artifacts]
+file_filter = <lang>/bos_artifacts.json
+source_file =     en/bos_artifacts.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.bos_effects]
+file_filter = <lang>/bos_effects.json
+source_file =     en/bos_effects.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.bos_monster]
+file_filter = <lang>/bos_monster.json
+source_file =     en/bos_monster.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.bos_notes]
+file_filter = <lang>/bos_notes.json
+source_file =     en/bos_notes.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.bos_tabs]
+file_filter = <lang>/bos_tabs.json
+source_file =     en/bos_tabs.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.button_text]
+file_filter = <lang>/button_text.json
+source_file =     en/button_text.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.context_text]
+file_filter = <lang>/context_text.json
+source_file =     en/context_text.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.front_end]
+file_filter = <lang>/front_end.json
+source_file =     en/front_end.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.heliopolis_text]
+file_filter = <lang>/heliopolis_text.json
+source_file =     en/heliopolis_text.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.luxor]
+file_filter = <lang>/luxor.json
+source_file =     en/luxor.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.main_inv]
+file_filter = <lang>/main_inv.json
+source_file =     en/main_inv.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.main_inv_description]
+file_filter = <lang>/main_inv_description.json
+source_file =     en/main_inv_description.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.misc]
+file_filter = <lang>/misc.json
+source_file =     en/misc.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.mummy_text]
+file_filter = <lang>/mummy_text.json
+source_file =     en/mummy_text.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.naming_conventions]
+file_filter = <lang>/naming_conventions.json
+source_file =     en/naming_conventions.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.pickup_text]
+file_filter = <lang>/pickup_text.json
+source_file =     en/pickup_text.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.sakkara]
+file_filter = <lang>/sakkara.json
+source_file =     en/sakkara.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.shop]
+file_filter = <lang>/shop.json
+source_file =     en/shop.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.std_phrase]
+file_filter = <lang>/std_phrase.json
+source_file =     en/std_phrase.json
+source_lang =     en
+type        = CHROME
+
+[sphinx-l10n.uruk]
+file_filter = <lang>/uruk.json
+source_file =     en/uruk.json
+source_lang =     en
+type        = CHROME
