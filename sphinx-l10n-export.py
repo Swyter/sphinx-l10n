@@ -30,13 +30,13 @@ with open('SphinxText.csv', 'r') as f:
 if (data_read[0][0] != "SHEET_TYPE_TEXT"):
     print("error: this needs to be a EuroLand text spreadsheet dump.")
     exit(-1)
-    
+
 # swy: programmatically find the correct header row index
 for i, row in enumerate(data_read):
     if len(row) > 1 and row[0] == "MARKER_FORMAT_ROW":
         HEADER_ROW = i
         break
-        
+
 print("head", HEADER_ROW)
 
 # swy: also get the correct column indexes for this spreadsheet from the header row
@@ -48,7 +48,7 @@ for cur in lang:
     # swy: get the column index for the current language
     cur_col_idx = data_read[HEADER_ROW].index(cur)
     print(cur, lang[cur], "INDEX THING", cur_col_idx)
-    
+
     if not os.path.exists(lang[cur]):
         os.mkdir(lang[cur])
 
@@ -61,42 +61,42 @@ for cur in lang:
         # swy: skip empty rows
         if len(row) < 3:
             continue
-        
+
         # swy: skip anything that goes before the actual table
         if i <= HEADER_ROW:
             continue
-           
+
         # swy: skip empty cells
         if not row[0] and not row[MARKER_HASHCODE_COLUMN]:
             continue
-        
-        # swy: stop parsing once the table ends 
+
+        # swy: stop parsing once the table ends
         if row[0] == "MARKER_LAST_MESSAGE":
             break
-        
+
         # swy: change string M_SOMETHING sections and spew the previous one if it wasn't empty
         if row[0] != "" and cur_section != row[0]: # and not row[0] in ignored_section_markers:
             print(">> pre_section", cur_section)
-            
+
             if out: # swy: sort the files so that they appear in the correct section order
                 with open("%s/%02u_%s.json" % (lang[cur], cur_section_count, cur_section), 'w') as outfile:
                     json.dump(out, outfile, indent=2)
-                    
+
             cur_section_count = cur_section_count + 1
             cur_section = row[0];
             out = collections.OrderedDict()
-            
+
             print(">> cur_section", cur_section)
             continue
-            
+
         # swy: skip empty cells (again, check for hashcodes)
         if not row[MARKER_HASHCODE_COLUMN]:
             continue
-            
+
         # swy: this string/row is marked as old/deprecated/dead/obsolete
         if row[DEAD_TEXT_COLUMN] and int(row[DEAD_TEXT_COLUMN]) == 1:
             continue
-            
+
         # swy: get rid of strings that have been changed to "REMOVED"
         if row[MARKER_LANGUAGE_START_COLUMN + 1] and row[MARKER_LANGUAGE_START_COLUMN + 1] == "REMOVED":
             continue
@@ -104,16 +104,16 @@ for cur in lang:
         # swy: export it in this 'simple' format:
         #      https://docs.transifex.com/formats/chrome-json
         out[row[MARKER_HASHCODE_COLUMN]] = collections.OrderedDict()
-        
+
         out[row[MARKER_HASHCODE_COLUMN]]["message"]     = row[cur_col_idx]
         out[row[MARKER_HASHCODE_COLUMN]]["description"] = "SphinxText.xls, row %u" % (i + 1) # swy: starts at zero
-            
+
         #print("--", row[MARKER_HASHCODE_COLUMN])
-            
+
         #print(row[MARKER_HASHCODE_COLUMN], row[cur_col_idx],  len(row))
-        
+
 #print(out)
-    
+
 # kwargs = {'newline': ''}
 # mode = 'w'
 # with open('test.csv', mode, **kwargs) as fp:
