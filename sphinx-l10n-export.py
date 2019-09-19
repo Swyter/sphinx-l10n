@@ -3,12 +3,8 @@ import os
 import json
 import collections
 
-HEADER_ROW = 3 - 1 # swy: the header row is usually in the third line (2 when indexing from zero)
-MARKER_HASHCODE       = -1
-MARKER_LANGUAGE_START = -1
-MARKER_LANGUAGE_END   = -1
-
-DEAD_TEXT_COLUMN = 3 - 1
+HEADER_ROW       = 3 - 1 # swy: the header row is usually in the third line (2 when indexing from zero)
+DEAD_TEXT_COLUMN = 3 - 1 # swy: this is hardcoded for the column in SphinxText.xls, edit accordingly
 
 lang = {
     'MARKER_ENGLISH_US': 'en_US',
@@ -35,7 +31,7 @@ if (data_read[0][0] != "SHEET_TYPE_TEXT"):
     print("error: this needs to be a EuroLand text spreadsheet dump.")
     exit(-1)
     
-# swy: programmatically find the correct indexes
+# swy: programmatically find the correct header row index
 for i, row in enumerate(data_read):
     if len(row) > 1 and row[0] == "MARKER_FORMAT_ROW":
         HEADER_ROW = i
@@ -43,9 +39,10 @@ for i, row in enumerate(data_read):
         
 print("head", HEADER_ROW)
 
-MARKER_HASHCODE       = data_read[HEADER_ROW].index("MARKER_HASHCODE")
-MARKER_LANGUAGE_START = data_read[HEADER_ROW].index("MARKER_LANGUAGE_START")
-MARKER_LANGUAGE_END   = data_read[HEADER_ROW].index("MARKER_LANGUAGE_END")
+# swy: also get the correct column indexes for this spreadsheet from the header row
+MARKER_HASHCODE_COLUMN       = data_read[HEADER_ROW].index("MARKER_HASHCODE")
+MARKER_LANGUAGE_START_COLUMN = data_read[HEADER_ROW].index("MARKER_LANGUAGE_START")
+MARKER_LANGUAGE_END_COLUMN   = data_read[HEADER_ROW].index("MARKER_LANGUAGE_END")
 
 for cur in lang:
     # swy: get the column index for the current language
@@ -70,7 +67,7 @@ for cur in lang:
             continue
            
         # swy: skip empty cells
-        if not row[0] and not row[MARKER_HASHCODE]:
+        if not row[0] and not row[MARKER_HASHCODE_COLUMN]:
             continue
         
         # swy: stop parsing once the table ends 
@@ -93,7 +90,7 @@ for cur in lang:
             continue
             
         # swy: skip empty cells (again, check for hashcodes)
-        if not row[MARKER_HASHCODE]:
+        if not row[MARKER_HASHCODE_COLUMN]:
             continue
             
         # swy: this string/row is marked as old/deprecated/dead/obsolete
@@ -101,19 +98,19 @@ for cur in lang:
             continue
             
         # swy: get rid of strings that have been changed to "REMOVED"
-        if row[MARKER_LANGUAGE_START + 1] and row[MARKER_LANGUAGE_START + 1] == "REMOVED":
+        if row[MARKER_LANGUAGE_START_COLUMN + 1] and row[MARKER_LANGUAGE_START_COLUMN + 1] == "REMOVED":
             continue
 
         # swy: export it in this 'simple' format:
         #      https://docs.transifex.com/formats/chrome-json
-        out[row[MARKER_HASHCODE]] = collections.OrderedDict()
+        out[row[MARKER_HASHCODE_COLUMN]] = collections.OrderedDict()
         
-        out[row[MARKER_HASHCODE]]["message"]     = row[cur_col_idx]
-        out[row[MARKER_HASHCODE]]["description"] = "SphinxText.xls, row %u" % (i + 1) # swy: starts at zero
+        out[row[MARKER_HASHCODE_COLUMN]]["message"]     = row[cur_col_idx]
+        out[row[MARKER_HASHCODE_COLUMN]]["description"] = "SphinxText.xls, row %u" % (i + 1) # swy: starts at zero
             
-        #print("--", row[MARKER_HASHCODE])
+        #print("--", row[MARKER_HASHCODE_COLUMN])
             
-        #print(row[MARKER_HASHCODE], row[cur_col_idx],  len(row))
+        #print(row[MARKER_HASHCODE_COLUMN], row[cur_col_idx],  len(row))
         
 #print(out)
     
