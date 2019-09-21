@@ -14,7 +14,8 @@ lang = {
     'MARKER_SPANISH':    'es',
     'MARKER_ITALIAN':    'it',
     'MARKER_KOREAN':     'ko',
-    'MARKER_JAPANESE':   'ja'
+    'MARKER_JAPANESE':   'ja',
+    'MARKER_BRAZILIAN':  'pt-BR'
 }
 
 ignored_section_markers = [ 'M_STATIC_TEXT' ]

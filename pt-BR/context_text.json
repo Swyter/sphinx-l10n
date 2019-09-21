@@ -1,0 +1,173 @@
+{
+  "HT_Text_Context_Test": {
+    "message": "TESTAR CONTEXTO"
+  },
+  "HT_Text_Context_UseItem": {
+    "message": "USAR ITEM"
+  },
+  "HT_Text_Context_Use": {
+    "message": "USAR"
+  },
+  "HT_Text_Context_PushObject": {
+    "message": "EMPURRAR"
+  },
+  "HT_Text_Context_PullObject": {
+    "message": "PUXAR"
+  },
+  "HT_Text_Context_Lever": {
+    "message": "USAR ALAVANCA"
+  },
+  "HT_Text_Context_OpenDoor": {
+    "message": "ABRIR"
+  },
+  "HT_Text_Context_PickupObject": {
+    "message": "PEGAR"
+  },
+  "HT_Text_Context_SavePoint": {
+    "message": "SALVAR"
+  },
+  "HT_Text_Context_NPC": {
+    "message": "FALAR"
+  },
+  "HT_Text_Context_Grab": {
+    "message": "AGARRAR"
+  },
+  "HT_Text_Context_Possession": {
+    "message": "POSSUIR"
+  },
+  "HT_Text_Context_Unpossession": {
+    "message": "NÃO POSSUIR"
+  },
+  "HT_Text_Context_Release": {
+    "message": "SOLTAR"
+  },
+  "HT_Text_Context_Clone": {
+    "message": "CLONAR"
+  },
+  "HT_Text_Context_Invisibility": {
+    "message": "INVISÍVEL"
+  },
+  "HT_Text_Context_Hide": {
+    "message": "ESCONDER"
+  },
+  "HT_Text_Context_FreezeTime": {
+    "message": "CONGELAR TEMPO"
+  },
+  "HT_Text_Context_KaTile": {
+    "message": "ATIRAR KA"
+  },
+  "HT_Text_Context_Shop": {
+    "message": "COMPRAR"
+  },
+  "HT_Text_Context_Blank": {
+    "message": " "
+  },
+  "HT_Text_Context_Linear": {
+    "message": "LINEAR"
+  },
+  "HT_Text_Context_Recall": {
+    "message": "RETIRAR"
+  },
+  "HT_Text_Context_Directed": {
+    "message": "DIRIGIDO"
+  },
+  "HT_Text_Context_Cancel": {
+    "message": "CANCELAR"
+  },
+  "HT_Text_Context_Jump": {
+    "message": "PULAR"
+  },
+  "HT_Text_Context_Attack": {
+    "message": "ATACAR"
+  },
+  "HT_Text_Context_Detonate": {
+    "message": "DETONAR"
+  },
+  "HT_Text_Context_Beetle": {
+    "message": "BESOURO"
+  },
+  "HT_Text_Context_Throw": {
+    "message": "ATIRAR"
+  },
+  "HT_Text_Context_Drop": {
+    "message": "SOLTAR"
+  },
+  "HT_Text_Context_FireDart": {
+    "message": "FOGO"
+  },
+  "HT_Text_Context_FirstPerson": {
+    "message": "1ª PESSOA"
+  },
+  "HT_Text_Context_Blowpipe": {
+    "message": "ZARABATANA"
+  },
+  "HT_Text_Context_ThirdPerson": {
+    "message": "3ª PESSOA"
+  },
+  "HT_Text_Context_Program": {
+    "message": "PROGRAMA"
+  },
+  "HT_Text_Context_Flap": {
+    "message": "BATER"
+  },
+  "HT_Text_Context_Enter": {
+    "message": "INTRODUZIR"
+  },
+  "HT_Text_Context_Grow": {
+    "message": "CRESCER"
+  },
+  "HT_Text_Context_Exit": {
+    "message": "SAIR"
+  },
+  "HT_Text_Context_SwapMummy": {
+    "message": "TROCAR"
+  },
+  "HT_Text_Context_MummyCrawl": {
+    "message": "RASTEJAR"
+  },
+  "HT_Text_Context_MummyStandUp": {
+    "message": "EM PÉ"
+  },
+  "HT_Text_Context_Dive": {
+    "message": "MERGULHAR"
+  },
+  "HT_Text_Context_Swim": {
+    "message": "NADAR"
+  },
+  "HT_Text_Context_SwimFast": {
+    "message": "RÁPIDO"
+  },
+  "HT_Text_Context_WallSneakPeek": {
+    "message": "ESPIAR"
+  },
+  "HT_Text_Context_WallSneak": {
+    "message": "ESGUEIRAR"
+  },
+  "HT_Text_Context_Take": {
+    "message": "LEVAR"
+  },
+  "HT_Text_Context_DJump": {
+    "message": "SALTO MORTAL"
+  },
+  "HT_Text_Context_Read": {
+    "message": "LER"
+  },
+  "HT_Text_Context_Slam": {
+    "message": "BATER"
+  },
+  "HT_Text_Context_Wear": {
+    "message": "VESTIR"
+  },
+  "HT_Text_Context_UnHide": {
+    "message": "APARECER"
+  },
+  "HT_Text_Context_Choose": {
+    "message": "ESCOLHER"
+  },
+  "HT_Text_Context_Select": {
+    "message": "SELECIONAR"
+  },
+  "HT_Text_Context_Shake": {
+    "message": "AGITAR"
+  }
+}

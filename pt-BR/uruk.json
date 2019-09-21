@@ -1,0 +1,44 @@
+{
+  "HT_Text_Urk_Intro_Temple_Presentation01": {
+    "message": "<EFF><EPO>O momento que eu temia chegou. A escuridão da profecia em breve cairá sobre nós... e devemos estar preparados.<P>Eu escolhi ambos vocês pois já demonstraram que são dignos de serem meus aprendizes.<E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation01a": {
+    "message": "A missão da qual estão prestes a embarcarem será um teste de vossa força e habilidade.<E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation02": {
+    "message": "Estejam preparados, pois o caminho à frente será altamente perigoso. Não posso lhes garantir segurança, nem que retornarão com vida. <E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation02a": {
+    "message": "Mas vocês devem decidir ir por vontade própria. Agora é o momento de desistir, se assim desejarem.<E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation03": {
+    "message": "Entendo. Como os dois aceitaram a tarefa, os transportarei até <FC 128,64,0>Uruk<END FC>, a terra da escuridão.<E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation04": {
+    "message": "Lá vocês deverão encontrar a <FC 0,128,0>Espada de Osiris<END FC>, uma antiga e poderosa espada protegida pelos demônios de <FC 128,64,0>Uruk<END FC>.<E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation05": {
+    "message": "Preparem-se para a jornada...<W 90>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fReject": {
+    "message": "Como imaginei, é um covarde!<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestPromptAgain": {
+    "message": "É tarde demais para mudar de ideia agora. O templo lhe aguarda.<E>"
+  },
+  "HT_Text_Urk_Set_Presenation6a": {
+    "message": "PARA SEMPRE! <W 60>"
+  },
+  "HT_Text_Urk_Set_Presenation7": {
+    "message": "Criatura patética, Osiris não te contou sobre minha verdadeira forma! HAHAHAHA! <E>"
+  },
+  "HT_Text_Urk_Set_Presenation8": {
+    "message": "Chegou a hora de você morrer! <W 60>"
+  },
+  "HT_Text_Urk_Set_BossDead2": {
+    "message": "O mundo não pode existir sem o mal, assim como a luz do dia precisa ser equilibrada com a escuridão da noite. <E>"
+  },
+  "HT_Text_Urk_Set_BossDead3": {
+    "message": "Com Set enfraquecido, ele não será capaz de enfrentar seu verdadeiro destino: se unir com seu irmão Osiris. Isso irá restaurar o equilíbrio ao reino dos Deuses. <E>"
+  }
+}

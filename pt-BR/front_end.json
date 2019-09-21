@@ -1,0 +1,560 @@
+{
+  "HT_Text_FE_Menu_NewGame": {
+    "message": "NOVO JOGO"
+  },
+  "HT_Text_FE_Menu_LoadGame": {
+    "message": "CARREGAR JOGO"
+  },
+  "HT_Text_FE_Menu_BonusMaterial": {
+    "message": "BÔNUS"
+  },
+  "HT_Text_FE_Menu_Options": {
+    "message": "OPÇÕES"
+  },
+  "HT_Text_FE_Menu_OptionsSubControl": {
+    "message": "CONFIGURAR CONTROLES"
+  },
+  "HT_Text_FE_Menu_OptionsSubScreen": {
+    "message": "CONFIGURAR TELA"
+  },
+  "HT_Text_FE_Menu_OptionsSubSound": {
+    "message": "CONFIGURAR SOM"
+  },
+  "HT_Text_FE_Menu_MusicVolume": {
+    "message": "VOLUME DA MÚSICA"
+  },
+  "HT_Text_FE_Menu_SoundVolume": {
+    "message": "VOLUME DO SOM"
+  },
+  "HT_Text_FE_Menu_PadRumbleGC": {
+    "message": "VIBRAÇÃO"
+  },
+  "HT_Text_FE_Menu_PadRumbleXB": {
+    "message": "VIBRAÇÃO"
+  },
+  "HT_Text_FE_Menu_PadRumblePS2": {
+    "message": "VIBRAÇÃO"
+  },
+  "HT_Text_FE_Menu_ScreenAdjust": {
+    "message": "AJUSTAR TELA"
+  },
+  "HT_Text_FE_Menu_Widescreen": {
+    "message": "WIDESCREEN"
+  },
+  "HT_Text_FE_Menu_Subtitles": {
+    "message": "LEGENDAS"
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonVert": {
+    "message": "INVERTER VERTICAL 3ª PESSOA"
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonHorz": {
+    "message": "INVERTER HORIZONTAL 3ª PESSOA"
+  },
+  "HT_Text_FE_Menu_InvertFirstPersonVert": {
+    "message": "INVERTER VERTICAL 1ª PESSOA"
+  },
+  "HT_Text_FE_Menu_OK": {
+    "message": "ACEITAR"
+  },
+  "HT_Text_FE_Menu_Cancel": {
+    "message": "CANCELAR"
+  },
+  "HT_Text_FE_Menu_ConfirmQuit": {
+    "message": "Tem certeza que deseja sair?"
+  },
+  "HT_Text_FE_Menu_ConfirmQuit_XB": {
+    "message": "Tem certeza que deseja sair?\\nTodo o progresso não salvo será perdido."
+  },
+  "HT_Text_FE_Menu_SoundStereo": {
+    "message": "ESTÉREO"
+  },
+  "HT_Text_FE_Menu_SoundMono": {
+    "message": "MONO"
+  },
+  "HT_Text_FE_Menu_SoundSurround": {
+    "message": "SURROUND"
+  },
+  "HT_Text_FE_Menu_SoundStereoSurround": {
+    "message": "ESTÉREO/\\nSURROUND"
+  },
+  "HT_Text_FE_Menu_SoundModeOption": {
+    "message": "MODO DE SOM"
+  },
+  "HT_Text_FE_Menu_On": {
+    "message": "SIM"
+  },
+  "HT_Text_FE_Menu_Off": {
+    "message": "NÃO"
+  },
+  "HT_Text_OptionsMenu_Back": {
+    "message": "VOLTAR"
+  },
+  "HT_Text_OptionsMenu_Select": {
+    "message": "SELECIONAR"
+  },
+  "HT_Text_FE_Menu_ThirdPerson": {
+    "message": "3ª PESSOA:"
+  },
+  "HT_Text_FE_Menu_FirstPerson": {
+    "message": "1ª PESSOA:"
+  },
+  "HT_Text_FE_Menu_InvertHorz": {
+    "message": "INVERTER HORIZONTAL"
+  },
+  "HT_Text_FE_Menu_InvertVert": {
+    "message": "INVERTER VERTICAL"
+  },
+  "HT_Text_FE_MenuPause_Continue": {
+    "message": "CONTINUAR"
+  },
+  "HT_Text_FE_MenuPause_Options": {
+    "message": "OPÇÕES"
+  },
+  "HT_Text_FE_MenuPause_QuitGame": {
+    "message": "SAIR DO JOGO"
+  },
+  "HT_Text_FE_PressStart_PS2": {
+    "message": "APERTE O BOTÃO START"
+  },
+  "HT_Text_FE_PressStart_XB": {
+    "message": "APERTE START"
+  },
+  "HT_Text_FE_PressStart_GC": {
+    "message": "Aperte START"
+  },
+  "HT_Text_FE_PressStart_PC": {
+    "message": "Aperte um botão para continuar"
+  },
+  "HT_Text_FE_Bonus1_Title": {
+    "message": "O Making Of de Sphinx"
+  },
+  "HT_Text_FE_Bonus1_Description": {
+    "message": "Veja por trás das cenas no Making Of de Sphinx e a Maldição da Múmia"
+  },
+  "HT_Text_FE_Bonus2_Title": {
+    "message": "Trailer de Sphinx"
+  },
+  "HT_Text_FE_Bonus2_Description": {
+    "message": "Trailer de Sphinx e a Maldição da Múmia"
+  },
+  "HT_Text_FE_Menu_SaveSlotA": {
+    "message": "SPHINX A"
+  },
+  "HT_Text_FE_Menu_SaveSlotB": {
+    "message": "SPHINX B"
+  },
+  "HT_Text_FE_Menu_SaveSlotC": {
+    "message": "SPHINX C"
+  },
+  "HT_Text_FE_Menu_SaveSlotA_XB": {
+    "message": "Sphinx A"
+  },
+  "HT_Text_FE_Menu_SaveSlotB_XB": {
+    "message": "Sphinx B"
+  },
+  "HT_Text_FE_Menu_SaveSlotC_XB": {
+    "message": "Sphinx C"
+  },
+  "HT_Text_FE_Menu_SaveSlotNone": {
+    "message": "Continuar sem salvar"
+  },
+  "HT_Text_FE_Menu_SaveSlotEmpty": {
+    "message": "Vazio"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
+    "message": "DANIFICADO"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
+    "message": "CORROMPIDO"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_GC": {
+    "message": "VAZIO"
+  },
+  "HT_Text_MemCard_PromptSlotA": {
+    "message": "SPHINX A"
+  },
+  "HT_Text_MemCard_PromptSlotB": {
+    "message": "SPHINX B"
+  },
+  "HT_Text_MemCard_PromptSlotC": {
+    "message": "SPHINX C"
+  },
+  "HT_Text_MemCard_PromptNo": {
+    "message": "NÃO"
+  },
+  "HT_Text_MemCard_PromptYes": {
+    "message": "SIM"
+  },
+  "HT_Text_MemCard_PromptOK": {
+    "message": "ACEITAR"
+  },
+  "HT_Text_MemCard_PromptRetry": {
+    "message": "TENTAR NOVAMENTE"
+  },
+  "HT_Text_MemCard_PromptCancel": {
+    "message": "CANCELAR"
+  },
+  "HT_Text_MemCard_PromptHaventSaved_XB": {
+    "message": "Você tem certeza de que quer continuar sem salvar?"
+  },
+  "HT_Text_MemCard_GameName": {
+    "message": "SPHINX"
+  },
+  "HT_Text_Paused_PS2": {
+    "message": "Pausado"
+  },
+  "HT_Text_Paused_XB": {
+    "message": "Pressione START para continuar."
+  },
+  "HT_Text_Paused_GC": {
+    "message": "Pausado"
+  },
+  "HT_Text_ReplacePadPrompt_PS2_PAL": {
+    "message": "Nenhum controle inserido na porta de controle (MISSINGPAD). Reinsira um controle analógico (DUALSHOCK®) ou um controle analógico (DUALSHOCK®2) para continuar."
+  },
+  "HT_Text_ReplacePadPrompt_PS2_NTSC": {
+    "message": "Nenhum controle inserido na porta de controle (MISSINGPAD). Reinsira um controle analógico (DUALSHOCK®) ou um controle analógico (DUALSHOCK®2) para continuar."
+  },
+  "HT_Text_ReplacePadPrompt_XB_Start": {
+    "message": "Para continuar, reconecte o controle à porta (MISSINGPAD) e pressione START."
+  },
+  "HT_Text_ReplacePadPrompt_XB": {
+    "message": "Reconecte o controle à porta (MISSINGPAD)."
+  },
+  "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
+    "message": "Você não poderá salvar seu progresso ou opções em nenhum ponto do jogo. Você tem certeza de que deseja continuar?"
+  },
+  "HT_Text_DeathScreen_Continue": {
+    "message": "CONTINUAR"
+  },
+  "HT_Text_DeathScreen_QuitGame": {
+    "message": "SAIR DO JOGO"
+  },
+  "HT_Text_DeathScreen_Text": {
+    "message": "FIM DE JOGO"
+  },
+  "HT_Text_OptionsMenu_Reset": {
+    "message": "RESTAURAR"
+  },
+  "HT_Text_ScreenAdjustText_PS2": {
+    "message": "Ajuste a tela com\\nos botões direcionais."
+  },
+  "HT_Text_ScreenAdjustText_GC": {
+    "message": "Ajuste a tela com o D-Pad do controle."
+  },
+  "HT_Text_ScreenAdjustText_XB": {
+    "message": "Ajuste a tela com os botões direcionais."
+  },
+  "HT_Text_Memcard_SaveConfirm": {
+    "message": "Tem certeza que deseja salvar neste\\nespaço?"
+  },
+  "HT_Text_Memcard_LoadConfirm": {
+    "message": "Tem certeza que deseja carregar este jogo?"
+  },
+  "HT_Text_Memcard_OverwriteConfirm": {
+    "message": "Já existe um jogo salvo.\\n\\nDeseja substituir o\\njogo anterior?"
+  },
+  "HT_Text_Memcard_NoFormat": {
+    "message": "O memory card (PS2) na porta MEMORY\\nCARD 1 não está formatado.\\n\\nFormatar o memory card (PS2)?"
+  },
+  "HT_Text_Memcard_NoFormat_Boot": {
+    "message": "O memory card (PS2) na porta MEMORY\\nCARD 1 não está formatado.\\nFormatar o memory card (PS2)?"
+  },
+  "HT_Text_Memcard_NoDirectory": {
+    "message": "O memory card (PS2) na porta\\nMEMORY CARD 1\\nnão contém uma pasta Sphinx. \\nCriar uma pasta Sphinx?"
+  },
+  "HT_Text_Memcard_FormatComplete": {
+    "message": "Formatação bem sucedida."
+  },
+  "HT_Text_Memcard_SaveFailed": {
+    "message": "Falha ao salvar o jogo."
+  },
+  "HT_Text_Memcard_SaveSuccess": {
+    "message": "Jogo salvo com sucesso."
+  },
+  "HT_Text_Memcard_LoadFail": {
+    "message": "Falha ao carregar o jogo."
+  },
+  "HT_Text_Memcard_NoCard": {
+    "message": "Atenção! Sphinx utiliza a função de autosave.\\nInserir um memory card (PS2)\\na partir deste ponto poderá\\nsubstituir dados salvos. Caso deseje salvar\\nseus dados de jogo, insira um memory card (PS2)\\ncom pelo menos xKB de espaço livre.\\n\\nAperte o botão START para\\ncontinuar sem salvar."
+  },
+  "HT_Text_Memcard_NoCard1": {
+    "message": "Nenhum memory card(8MB)(para PlayStation®2)\\n inserido na porta MEMORY CARD 1."
+  },
+  "HT_Text_Memcard_NoSpace_Boot": {
+    "message": "Espaço insuficiente no memory card (PS2). Insira um\\nmemory card (PS2) com pelo menos xKB de espaço livre,\\nou libere espaço utilizando o navegador interno do console."
+  },
+  "HT_Text_Memcard_NoSpace_Save": {
+    "message": "Espaço insuficiente no memory card (PS2) na porta MEMORY CARD\\n 1. Sphinx requer xKB de espaço livre para salvar dados."
+  },
+  "HT_Text_Memcard_PressKey": {
+    "message": "APERTE START PARA CONTINUAR SEM SALVAR"
+  },
+  "HT_Text_Memcard_Loading": {
+    "message": "Carregando..."
+  },
+  "HT_Text_Memcard_Saving": {
+    "message": "Salvando dados. Não remova o memory card (PS2)\\nda porta MEMORY CARD 1, reinicie ou desligue o console."
+  },
+  "HT_Text_Memcard_Formatting": {
+    "message": "Formatando...\\n\\n\\nFormatando o memory card (PS2) na porta MEMORY CARD 1.\\nNão remova o memory card (PS2),\\nreinicie ou desligue o console."
+  },
+  "HT_Text_Memcard_YesNo": {
+    "message": "<B 1>Sim<N><B 2>Não<E>"
+  },
+  "HT_Text_Menu_Cross": {
+    "message": "Selecionar"
+  },
+  "HT_Text_Menu_Triangle": {
+    "message": "VOLTAR"
+  },
+  "HT_Text_Menu_Square": {
+    "message": "Centralizar tela"
+  },
+  "HT_Text_Menu_StartPause": {
+    "message": "Continuar jogo"
+  },
+  "HT_Text_Menu_AdjustScreen": {
+    "message": "Utilize o joystick analógico\\nesquerdo ou os botões direcionais\\npara ajustar a posição da tela."
+  },
+  "HT_Text_Menu_Accept": {
+    "message": "Sim"
+  },
+  "HT_Text_Menu_Decline": {
+    "message": "Não"
+  },
+  "HT_Text_Menu_Pause": {
+    "message": "Pausar jogo"
+  },
+  "HT_Text_Menu_Empty": {
+    "message": "Nada"
+  },
+  "HT_Text_Menu_BOS": {
+    "message": "Abrir Livro de Sphinx"
+  },
+  "HT_Text_Menu_Inventory": {
+    "message": "Inventário"
+  },
+  "HT_Text_Menu_Jump": {
+    "message": "Pular"
+  },
+  "HT_Text_Menu_Attack": {
+    "message": "Atacar"
+  },
+  "HT_Text_Menu_Context": {
+    "message": "Contexto"
+  },
+  "HT_Text_Menu_Shield": {
+    "message": "Escudo"
+  },
+  "HT_Text_Menu_Pipe": {
+    "message": "Zarabatana"
+  },
+  "HT_Text_Menu_Camera": {
+    "message": "Controle da câmera"
+  },
+  "HT_Text_Menu_Move": {
+    "message": "Mover personagem"
+  },
+  "HT_Text_Menu_Start": {
+    "message": "Menu de pausa"
+  },
+  "HT_Text_Menu_PadLayout1": {
+    "message": "PADRÃO"
+  },
+  "HT_Text_Menu_PadLayout2": {
+    "message": "CANHOTO"
+  },
+  "HT_Text_Menu_PadLayout3": {
+    "message": "BÊBADO"
+  },
+  "HT_Text_Menu_NoPad": {
+    "message": "O controle na porta de\\ncontrole 1 foi removido.\\nReinsira o controle para\\ncontinuar o jogo."
+  },
+  "HT_Text_Menu_Making": {
+    "message": "O=MAKING=OF=:=:=:"
+  },
+  "HT_Text_Menu_Trailer": {
+    "message": "TRAILER"
+  },
+  "HT_Text_Menu_Exit": {
+    "message": "SAIR=DA=DEMO"
+  },
+  "HT_Text_Menu_Continue": {
+    "message": "CONTINUAR"
+  },
+  "HT_Text_Menu_Rumble": {
+    "message": "VIBRAÇÃO==SIM"
+  },
+  "HT_Text_Menu_RumbleOff": {
+    "message": "VIBRAÇÃO==NÃO"
+  },
+  "HT_Text_Menu_StartDemo": {
+    "message": "JOGAR=DEMO"
+  },
+  "HT_Text_Menu_NewGame": {
+    "message": "NOVO=JOGO"
+  },
+  "HT_Text_Menu_Load": {
+    "message": "CARREGAR=JOGO"
+  },
+  "HT_Text_Menu_Save": {
+    "message": "SALVAR=JOGO"
+  },
+  "HT_Text_Menu_Options": {
+    "message": "OPÇÕES"
+  },
+  "HT_Text_Menu_EndGame": {
+    "message": "SAIR=DO=JOGO"
+  },
+  "HT_Text_Menu_Screen": {
+    "message": "CONFIGURAR=TELA"
+  },
+  "HT_Text_Menu_Pad": {
+    "message": "CONFIGURAR=CONTROLES"
+  },
+  "HT_Text_Menu_Sound": {
+    "message": "CONFIGURAR=SOM"
+  },
+  "HT_Text_Menu_ScreenAdjust": {
+    "message": "AJUSTAR=TELA"
+  },
+  "HT_Text_Menu_WidescreenON": {
+    "message": "WIDESCREEN==SIM"
+  },
+  "HT_Text_Menu_WidescreenOFF": {
+    "message": "WIDESCREEN==NÃO"
+  },
+  "HT_Text_Menu_Volume": {
+    "message": "VOLUME"
+  },
+  "HT_Text_Menu_SoundFX": {
+    "message": "EFEITOS=SONOROS"
+  },
+  "HT_Text_Menu_Music": {
+    "message": "MÚSICA"
+  },
+  "HT_Text_Menu_SurroundON": {
+    "message": "SURROUND"
+  },
+  "HT_Text_Menu_SurroundOFF": {
+    "message": "ESTÉREO"
+  },
+  "HT_Text_Menu_Mono": {
+    "message": "MONO"
+  },
+  "HT_Text_Menu_Videos": {
+    "message": "VÍDEOS"
+  },
+  "HT_Text_Menu_QuitLevel": {
+    "message": "SAIR=DO=NÍVEL"
+  },
+  "HT_Text_Menu_NTSC": {
+    "message": "TAXA=DE=QUADROS==60"
+  },
+  "HT_Text_Menu_PAL": {
+    "message": "TAXA=DE=QUADROS==50"
+  },
+  "HT_Text_Menu_QuitQuestion": {
+    "message": "Sair do jogo?"
+  },
+  "HT_Text_Menu_Paused": {
+    "message": "PAUSA"
+  },
+  "HT_Text_Menu_QuitLevQuestion": {
+    "message": "Sair do nível?"
+  },
+  "HT_Text_Menu_StartGame": {
+    "message": "Começar Jogo"
+  },
+  "HT_Text_Menu_SaveOver": {
+    "message": "Substituir este jogo"
+  },
+  "HT_Text_Menu_UseSlot": {
+    "message": "Utilizar este espaço"
+  },
+  "HT_Text_Menu_LoadGame": {
+    "message": "Carregar este jogo"
+  },
+  "HT_Text_Menu_EmptySlot": {
+    "message": "[ vazio ]"
+  },
+  "HT_Text_Menu_CorruptSlot": {
+    "message": "[ corrompido ]"
+  },
+  "HT_Text_Menu_Scarabs": {
+    "message": " Escaravelhos"
+  },
+  "HT_Text_Menu_InvertON": {
+    "message": "INVERTER=CÂMERA==SIM"
+  },
+  "HT_Text_Menu_InvertOFF": {
+    "message": "INVERTER=CÂMERA==NÃO"
+  },
+  "HT_Text_Menu_SwapXYON": {
+    "message": "TROCAR=CÂMERA=X==SIM"
+  },
+  "HT_Text_Menu_SwapXYOFF": {
+    "message": "TROCAR=CÂMERA=X==NÃO"
+  },
+  "HT_Text_Menu_Cancel": {
+    "message": "CANCELAR"
+  },
+  "HT_Text_Menu_Reset": {
+    "message": "RESTAURAR"
+  },
+  "HT_Text_Credits1": {
+    "message": "\\n\\nTHQ Nordic GmbH\n\\n\\n\n\\nProgrammer & PC Conversion:\n\\nIsmael Ferreras Morezuelas (Swyter)\n\\n\n\\nExecutive Producer:\n\\nReinhard Pollice\n\\n \n\\nLocalization Manager:\n\\nGennaro Giani\n\\n \n\\nPR & Marketing Director:   \n\\nPhilipp Brock\n\\n\n\\nPR & Marketing:\n\\nFlorian Emmerich\n\\nStephanie Harman\n\\nLina Berehi\n\\n\n\\nPublishing Director:\n\\nJan Binsmaier\n\\n\n\\nPublishing Project Management:\n\\nBarbara Kugler\n\\n\n\\nSocial Media Manager: \n\\nManuel Karl\n\\n\n\\nLead Graphic Artist:\n\\nErnst Satzinger\n\\n\n\\nGraphic Asset Assistant: \n\\nTobias Grimus\n\\nPeter Hambsch\n\\nJanet Weiss\n\\n \n\\nAge Rating Coordinator:\n\\nThomas Reisinger\n\\n\n\\nWeb Developer:\n\\nNina Trabe\n\\n\n\\nSales Director:\n\\nGeorg Klotzberg\n\\n \n\\nSales:\n\\nReinhold Schor\n\\nNik Blower\n\\nIan Warley\n\\nJeremy Soulet\n\\n \n\\nDigital Distribution:\n\\nThomas Reisinger\n\\nTim Grainer\n\\n \n\\nManufacturing:\n\\nAnton Seicarescu\n\\n \n\\nAccounting & Office Management:\n\\nMarion Mayer\n\\nAnton Seicarescu\n\\n \n\\nBusiness & Product Development Director: \n\\nReinhard Pollice\n\\n \n\\nTHQ Nordic Management:\n\\nKlemens Kreuzer\n\\nLars Wingefors\n\\n  \n\\nTHQ Nordic Inc.\n\\nAdrienne Lauer\n\\nEric Wuestmann\n\\nKlemens Kreuzer\n\\n\n\\n\\n\\nDesigned and developed by\\nEurocom Entertainment Software\n\\n\\n\\nPRODUCTION\n\\nVictor Garrido\n\\nPadraig Crowley\n\\n\n\\nGAME PROGRAMMING\n\\nMartin Hall\n\\nRichard Teather\n\\nChris Jordan\n\\nDaniel Peake\n\\nGraeme Richardson\n\\nGraham Reeves\n\\nLenny Johnson\n\\nMat Sneap\n\\n\n\\nENVIRONMENTS\n\\nJoaquin Catala Retortillo\n\\nAdrian Mannion\n\\nAlex Huguet Paredes\n\\nAna Amat Marco\n\\nColin Garrat\n\\nDavid Munoz Velazquez\n\\nLuis Gomez Guzman\n\\nStefan Scheffers\n\\nWilli Hammes\n\\n\n\\nCHARACTERS/ASSETS\n\\nJulian Romero \n\\nAbraham Meneu Oset\n\\nAmanda Barlow\n\\nBarry Lawless\n\\nJuan Solis\n\\nLars Verhoeff\n\\nPaul Harrison\n\\n\n\\nLEVEL DESIGN\n\\nMartin Kilcoyne\n\\nAndy Collins\n\\nDarren Weekes\n\\nJohn Barker\n\\nKarl Gillott\n\\nPhil Bennett\n\\nStuart Bee\n\\n\n\\nANIMATION\n\\nJose Luis Garcia Camara\n\\nAlberto Corral Arencibia\n\\nBobby Stockport\n\\nCarlos Fernandez Puertolas\n\\nDaniel Meitin Roca\n\\nEnrique Oliva\n\\nSantiago Colomo Martinez\n\\nSyd Franklin\n\\n\n\\nENGINE PROGRAMMING\n\\nChris Jackson\n\\nIan Denny\n\\nAndy Hutchings\n\\nAshley Finney\n\\nDave Looker\n\\nJL\n\\nJulian Vaughan\n\\nKev Stainwright\n\\nShane Clark\n\\nSteven Walker\n\\nTim Rogers\n\\n\n\\nTOOLS\n\\nAndy Mitchell\n\\nBob Smith\n\\nDiego Garcia Huerta\n\\nJim Makin\n\\nKev Marks\n\\nKevin Thacker\n\\n\n\\nAUDIO\n\\nSteve Duckworth\n\\nDuncan Bradshaw\n\\n\n\\nQA\n\\nMichael Robinson\n\\nLouise Sargison\n\\nAndrew Dilks\n\\nAndrew Green\n\\nChristopher Pilkington\n\\nDave Smith\n\\nDominic Hallam\n\\nDominic Hills\n\\nJamie Small\n\\nMatthew Gilchrist\n\\nOliver Madden\n\\nPeter Barrett\n\\nRichard Charles\n\\n\n\\n\n\\nSPECIAL THANKS\n\\nAndrew Dilks\n\\nBrian Riordan\n\\nChris Allen\n\\nChris Boyle\n\\nClive Stevenson\n\\nDuncan Hewitt\n\\nHelen Jones\n\\nHenk Nieborg\n\\nHugh Binns\n\\nJoe Lewis\n\\nJohn Parr\n\\nJosh Andrews\n\\nLasse Louhento\n\\nLudovic Le Camus\n\\nMark Potente\n\\nMartin McBain\n\\nMatt Dixon\n\\nMatt Farrell\n\\nMichael Hirst\n\\nPhil Dobson\n\\nPhil Hackney\n\\nRob Berry\n\\nSteve Gratton\n\\nTom Noone\n\\nUlf Dahl"
+  },
+  "HT_Text_Credits2": {
+    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avilés \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts "
+  },
+  "HT_Text_Credits3": {
+    "message": "\\n\\n\\nTHQ MARKETING \n\\n\\nDIRECTOR, GLOBAL BRAND \n\\nMANAGEMENT \n\\nAlison Quiron \n\\n  \n\\nPRODUCT MARKETING \n\\nMANAGER \n\\nMonica Guerra Robinson \n\\nDamian Garcia \n\\n  \n\\nSENIOR VICE PRESIDENT, \n\\nWORLDWIDE MARKETING \n\\nPeter Dille \n\\n  \n\\nDIRECTOR, CREATIVE \n\\nSERVICES \n\\nHoward Liebeskind \n\\n  \n\\nSENIOR MANAGER, \n\\nCREATIVE SERVICES \n\\nKathy Helgason \n\\n  \n\\nCREATIVE SERVICES MANAGER \n\\nKirk Somdal \n\\n  \n\\nINSTRUCTION MANUAL TEXT \n\\nRusel DeMaria \n\\n  \n\\nDIRECTOR, BUSINESS \n\\nDEVELOPMENT \n\\nDan Kelly \n\\n  \n\\nMANAGER, PRODUCTION \n\\nRESOURCES \n\\nJenae Pash \n\\n  \n\\nPRODUCTION RESOURCES \n\\nCOORDINATOR \n\\nHeather Leonard \n\\n  \n\\nHEAD OF BRAND MANAGEMENT \n\\nMichael Pattison\n\\n\n\\nBRAND MANAGER \n\\nMickey Torode \n\\n  \n\\nDIRECTOR OF LOCALIZATION \n\\nSusanne Dieck \n\\n  \n\\nLOCALIZATION ENGINEER \n\\nBernd Kurtz \n\\n  \n\\nSUBMISSION COORDINATOR \n\\nFlorence Kum \n\\n  \n\\nSPECIAL THANKS \n\\nBrian Farrell \n\\nJack Sorensen \n\\nTerri Schiek \n\\nGermaine Gioia \n\\nLeslie Brown \n\\nBrandy A. Carrillo \n\\nTiffany Ternan \n\\nRobert Riley \n\\nJack Suzuki \n\\nGordon Madison \n\\nRicardo Fischer \n\\nChristian Kenney \n\\nPaul Rivas \n\\nStacey Mendoza \n\\nJulian Brummitt \n\\n  \n\\n--\n\\n  \n\\nThe restored version of Sphinx would not have been possible \n\\nwithout the following open-source libraries:  \n\\n  \n\\n  \n\\nSDL 2.0 - By Sam Lantinga, Ryan C. Gordon and contributors \n\\nhttps://www.libsdl.org (zlib license) \n\\n  \n\\n  \n\\nOpenAL Soft - By Chris Robinson and contributors \n\\nhttp://kcat.strangesoft.net/openal.html (LGPL 2 license) \n\\n  \n\\n  \n\\nxxHash - By Yann Collet and contributors \n\\nhttps://github.com/Cyan4973/xxHash (BSD 2-Clause license) \n\\n  \n\\n  \n\\nstb_image - By Sean Barrett and contributors \n\\nhttps://github.com/nothings/stb (Public domain)"
+  },
+  "HT_Text_FE_Menu_ToggleReverb": {
+    "message": "REVERBERAÇÃO"
+  },
+  "HT_Text_FE_Menu_FieldOfView": {
+    "message": "CAMPO DE VISÃO"
+  },
+  "HT_Text_FE_Menu_Resolution": {
+    "message": "RESOLUÇÃO"
+  },
+  "HT_Text_FE_Menu_ChooseScreen": {
+    "message": "SELECIONAR TELA"
+  },
+  "HT_Text_FE_Menu_ToggleParticles": {
+    "message": "PARTÍCULAS"
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Limited": {
+    "message": "LIMITADAS"
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Soft": {
+    "message": "SUAVES"
+  },
+  "HT_Text_FE_Menu_Anisotropy": {
+    "message": "FILTRAGEM ANISOTRÓPICA"
+  },
+  "HT_Text_FE_Menu_Vsync": {
+    "message": "SINC. VERTICAL"
+  },
+  "HT_Text_FE_Menu_VsyncAdaptive": {
+    "message": "ADAPTÁVEL"
+  },
+  "HT_Text_FE_Menu_RestartGame": {
+    "message": "REINICIAR JOGO"
+  },
+  "HT_Text_FE_ResolutionRequiresRestart": {
+    "message": "Para mudar a resolução é necessário reiniciar o jogo."
+  },
+  "HT_Text_FE_ResolutionBorderless": {
+    "message": "SEM BORDAS"
+  },
+  "HT_Text_FE_ResolutionWindowed": {
+    "message": "JANELA"
+  },
+  "HT_Text_FE_ResolutionFovDegrees": {
+    "message": "graus"
+  }
+}

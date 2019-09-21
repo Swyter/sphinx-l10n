@@ -1,0 +1,32 @@
+{
+  "HT_Text_BOS_Monster_CapturedMonsters": {
+    "message": "Monstros"
+  },
+  "HT_Text_BOS_Monster_Moves": {
+    "message": "Movimentos"
+  },
+  "HT_Text_BOS_Monster_Health": {
+    "message": "Saúde"
+  },
+  "HT_Text_BOS_Monster_AttackRating": {
+    "message": "Nível de Ataque"
+  },
+  "HT_Text_BOS_Monster_DefenceRating": {
+    "message": "Nível de Defesa"
+  },
+  "HT_Text_BOS_Monster_DR_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Quanto maior for o nível de defesa do seu monstro, maior será sua resistência à ataques durante a batalha.<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_Monster_AR_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Quanto maior for o nível de ataque do seu monstro, maior será o dano causado aos oponentes.<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_Monster_Health_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Essa é a vida do seu monstro. Se o seu monstro perder toda sua vida, você não será mais capaz de soltar um monstro desse tipo - Até que você capture outro, é claro!<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_Monster_NoMoves": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Você não tem movimentos para selecionar.<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_Monster_NoMonsters": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Você não tem nenhum monstro.<ES HT_Text_ES_E_BOSStd>"
+  }
+}
