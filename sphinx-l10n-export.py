@@ -15,7 +15,9 @@ lang = {
     'MARKER_ITALIAN':    'it',
     'MARKER_KOREAN':     'ko',
     'MARKER_JAPANESE':   'ja',
-    'MARKER_BRAZILIAN':  'pt-BR'
+    'MARKER_BRAZILIAN':  'pt-BR',
+    'MARKER_LATVIAN':    'lv',
+    'MARKER_GREEK':      'el'
 }
 
 ignored_section_markers = [ 'M_STATIC_TEXT' ]
@@ -47,6 +49,11 @@ MARKER_LANGUAGE_START_COLUMN = data_read[HEADER_ROW].index("MARKER_LANGUAGE_STAR
 MARKER_LANGUAGE_END_COLUMN   = data_read[HEADER_ROW].index("MARKER_LANGUAGE_END")
 
 for cur in lang:
+    # swy: check that this spreadsheet actually contains a column for this language, it can happen
+    if (cur not in data_read[HEADER_ROW]):
+        print("warning: doesn't seem like this spreadsheet contains a %s; skipping it..." % cur)
+        continue
+
     # swy: get the column index for the current language
     CUR_LANG_COLUMN = data_read[HEADER_ROW].index(cur)
     print(cur, lang[cur], "INDEX THING", CUR_LANG_COLUMN)
