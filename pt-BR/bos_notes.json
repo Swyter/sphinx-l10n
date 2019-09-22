@@ -1,4 +1,82 @@
 {
+  "HT_Text_NoteTitle_FindBlade01": {
+    "message": "Encontre a Espada de Osiris"
+  },
+  "HT_Text_NoteTitle_GetLetter01": {
+    "message": "Recupere a Carta de Nefertiti"
+  },
+  "HT_Text_NoteTitle_CollectAmulets01": {
+    "message": "Colete os Amuletos Antigos"
+  },
+  "HT_Text_NoteTitle_GetToHeliopolis01": {
+    "message": "Busque transporte para Heliópolis"
+  },
+  "HT_Text_NoteTitle_FindPearls01": {
+    "message": "Encontre 3 Pérolas Abydosianas"
+  },
+  "HT_Text_NoteTitle_DonateMuseum01": {
+    "message": "Faça uma doação ao Museu de Abydos"
+  },
+  "HT_Text_NoteTitle_GetAbydosPasscard01": {
+    "message": "Acesso Restrito de Abydos"
+  },
+  "HT_Text_NoteTitle_FindImhotep01": {
+    "message": "Encontre Imhotep na ilha do Santuário do Sol"
+  },
+  "HT_Text_NoteTitle_GetBookOfTheDead01": {
+    "message": "Encontre o Livro dos Mortos"
+  },
+  "HT_Text_NoteTitle_VisitAnubis01": {
+    "message": "Visite Anubis na Entrada da Parede I"
+  },
+  "HT_Text_NoteTitle_AnubisQuest01": {
+    "message": "Traga 3 Tatus de Fogo para Anubis"
+  },
+  "HT_Text_NoteTitle_VisitFarmers01": {
+    "message": "Visite a fazenda em Heliópolis"
+  },
+  "HT_Text_NoteTitle_SaveNomadWife01": {
+    "message": "Salve a esposa do Nômade"
+  },
+  "HT_Text_NoteTitle_DeactivateBeams01": {
+    "message": "Desative o campo de força imprisionando a esposa do Nômade"
+  },
+  "HT_Text_NoteTitle_VisitImhotep01": {
+    "message": "Visite Imhotep no Santuário do Sol"
+  },
+  "HT_Text_NoteTitle_CrownQuest01": {
+    "message": "Recupere a Coroa Sagrada de Abydos"
+  },
+  "HT_Text_NoteTitle_MayorIll01": {
+    "message": "A Doença do Prefeito"
+  },
+  "HT_Text_NoteTitle_SmallCanalCreatures01": {
+    "message": "Limpe o Canal Estreito de Monstros"
+  },
+  "HT_Text_NoteTitle_CureMayor01": {
+    "message": "Cure o Prefeito de Abydos"
+  },
+  "HT_Text_NoteTitle_VisitKemmet01": {
+    "message": "Entrege o bilhete do médico a Kemmet"
+  },
+  "HT_Text_NoteTitle_FindPoliticians01": {
+    "message": "Encontre os políticos traidores"
+  },
+  "HT_Text_NoteTitle_CrownQuest02": {
+    "message": "Recupere a Coroa Sagrada de Uruk"
+  },
+  "HT_Text_NoteTitle_FindHeliopolisDungeon01": {
+    "message": "Encontre o Templo Perdido de Heliópolis"
+  },
+  "HT_Text_NoteTitle_CollectRosettaPieces01": {
+    "message": "Recupere as peças da antiga Pedra de Roseta"
+  },
+  "HT_Text_NoteTitle_MeetArchaeologist01": {
+    "message": "Visite o Arqueólogo no Povoado de Bedouin"
+  },
+  "HT_Text_NoteTitle_TranslateObelisks01": {
+    "message": "Traduza os Obeliscos Dourados de Heliópolis"
+  },
   "HT_Text_NoteTitle_SmallObelisk01": {
     "message": "Texto Antigo Traduzido"
   },
@@ -14,10 +92,151 @@
   "HT_Text_NoteTitle_SmallObelisk05": {
     "message": "Texto Antigo Traduzido"
   },
+  "HT_Text_NoteTitle_Prophecy": {
+    "message": "A Profecia Antiga de Rá"
+  },
+  "HT_Text_NoteTitle_TempleTest01": {
+    "message": "Complete o desafio do Templo de Uruk"
+  },
+  "HT_Text_NoteTitle_CrownQuest03": {
+    "message": "Recupere a Coroa Sagrada de Heliópolis"
+  },
+  "HT_Text_NoteTitle_MotherQuest01": {
+    "message": "Capture os cães desaparecidos"
+  },
+  "HT_Text_NoteTitle_DefeatSeth01": {
+    "message": "Derrote Set em Uruk"
+  },
+  "HT_Text_Note_FindBlade01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Sua primeira missão é encontrar a Espada de Osiris. Essa poderosa arma desapareceu há muito tempo atrás nos arredores inóspitos do Castelo de Uruk.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_GetLetter01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Recupere a carta de Nefertiti e devolva-a para ela.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_CollectAmulets01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Colete os 8 Amuletos Antigos e os retorne para sua tia Seti.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_GetToHeliopolis01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Quando você tiver usado o Amuleto de Abydos, Imhotep quer que você busque transporte para Heliópolis e encontre com ele assim que possível.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_FindPearls01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Encontre 3 Pérolas e dê elas ao homem Abydosiano.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_DonateMuseum01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>O Curador do Museu de Abydos está oferecendo um presente quando você fizer sua primeira doação.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_GetAbydosPasscard01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Os Guardas no Canal de Abydos não permitem o acesso às Câmaras do Conselho. Talvez você deva retornar para Abydos mais tarde em sua jornada, quando possuir uma identificação adequada.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_FindImhotep01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep pode ser encontrado na ilha do Santuário do Sol. Visite-o e descubra que informação ele tem para você.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_GetBookOfTheDead01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Encontre o Livro dos Mortos para que você possa invocar Ces-To quando encontrar um Vaso Canópico. Imhotep acredita que o livro está sendo mantido no Palácio Amaldiçoado.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_VisitAnubis01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Anubis é responsável por amaldiçoar os habitantes do Palácio Amaldiçoado. Com as Asas de Ibis você pode entrar na Entrada da Grande Parede I e fazer uma visita a Anubis.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_AnubisQuest01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Capture 3 Tatus de Fogo usando Besouros de Captura e leve-os até Anubis.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_VisitFarmers01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>O irmão do Fazendeiro o convidou para visitar sua fazenda em Heliópolis.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SaveNomadWife01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Encontre onde a esposa do Nômade está sendo mantida e a resgate.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_DeactivateBeams01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>O campo de força que aprisiona a esposa do Nômade parece ser alimentado por três feixes coloridos. Encontre um meio de desativá-los.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_VisitImhotep01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep solicitou que você vá e fale com ele no Santuário do Sol.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_CrownQuest01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar a Coroa Sagrada de Abydos e retorná-la para Anubis em Heliópolis.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_MayorIll01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Aparentemente o Prefeito está seriamente doente. Talvez as pessoas no Conselho de Abydos poderiam usar sua ajuda.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SmallCanalCreatures01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>O Guarda próximo à entrada para o Canal Estreito te ofereceu um Amuleto de Portal se você limpar a área dos monstros.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_CureMayor01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar 5 Ervas Medicinais e trazê-las ao médico nas Câmaras do Conselho de Abydos.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Com as ervas o médico deverá ser capaz de preparar uma cura para a doença misteriosa do Prefeito.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_VisitKemmet01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Você deve entregar o bilhete do Médico para Kemmet, que vive próximo ao Grande Canal. Ele pode ser capaz de ajudá-lo a encontrar as Ervas Medicinais.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_FindPoliticians01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Encontre os políticos traidores que roubaram a Coroa Sagrada de Abydos e ganhe de volta o que é seu por direito.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_CrownQuest02": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar a Coroa Sagrada de Uruk e retorná-la para Anubis em Heliópolis.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_FindHeliopolisDungeon01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Encontre a entrada para o Templo Perdido de Heliópolis. A esposa do Faraó acredita que ele se encontra no Deserto Sul de Heliópolis.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_CollectRosettaPieces01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Encontre as 6 peças da Pedra de Roseta escondidas dentro do Templo Perdido de Heliópolis e traga-as para o Arqueólogo.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_MeetArchaeologist01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Check on the Archeologist's findings in the Bedouin Outpost. The outpost can be found by swimming through the underwater passage from the Cursed Palace.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_TranslateObelisks01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Use the Rosetta Stone to translate the 5 Golden Obelisks of Heliopolis and report your findings to the Archeologist in the Bedouin Outpost.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SmallObelisk01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Quando a Era de Osiris chegar ao fim...<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SmallObelisk02": {
+    "message": "<ES HT_Text_ES_S_BOSStd>...a Sombra de Set descerá sobre nós...<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SmallObelisk03": {
+    "message": "<ES HT_Text_ES_S_BOSStd>...mas um grande guerreiro pelo nome de Sphinx...<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SmallObelisk04": {
+    "message": "<ES HT_Text_ES_S_BOSStd>...irá emergir como O Escolhido...<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SmallObelisk05": {
+    "message": "<ES HT_Text_ES_S_BOSStd>...para defender o Olho Eterno de Rá.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_Prophecy": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Quando a Era de Osiris chegar ao fim, a Sombra de Set descerá sobre nós, mas um grande guerreiro pelo nome de Sphinx, irá emergir como O Escolhido, para defender o Olho Eterno de Rá.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_TempleTest01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Complete o desafio do Templo de Uruk e retorne o que você encontrar para o Urukite.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_CrownQuest03": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar a Coroa Sagrada de Heliópolis e retorná-la para Anubis.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_MotherQuest01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Capture os cães no Palácio Amaldiçoado de Heliópolis e retorne-os a sua dona.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_DefeatSeth01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Seu destino final é encarar Set no mundo devastado de Uruk.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Notes_Test_T1": {
+    "message": "Título da Jornada."
+  },
+  "HT_Text_Notes_Test_D1": {
+    "message": "<FC 100,100,60> Descrição da Jornada."
+  },
+  "HT_Text_Notes_Test_T2": {
+    "message": "Encontre o Palácio de Set."
+  },
+  "HT_Text_Notes_Test_D2": {
+    "message": "<FC 100,100,60>Set has been hiding in his secret palace while orchestrating the destruction of Heliopolis...<END FC><P><FC 100,100,60>You must find his lair and put an end to his plans...<END FC><P><FC 100,100,60>To find where his secret palace is, you will need to talk to the Hittite village elder. Bring him some whiskey to loosen his tongue.<END FC>"
+  },
   "HT_Text_Notes_Test_T3": {
     "message": "Entregue a mensagem do Rei Sobek de Akaria."
   },
+  "HT_Text_Notes_Test_D3": {
+    "message": "<FC 100,100,60> After uncovering Ishka's scheme of encouraging a war between the people of Abydos and Akaria...<END FC><P><FC 100,100,60>King Sobek needs you to deliver a notice of truce to the Mayor of Abydos.<END FC>"
+  },
   "HT_Text_Notes_Test_T4": {
     "message": "Encontre uma cura para o Prefeito."
+  },
+  "HT_Text_Notes_Test_D4": {
+    "message": "<FC 100,100,60>The Mayor of Abydos is ill. You will need to talk to the Physician about finding a cure...<END FC><P><FC 100,100,60>The Physician lives in the canal that divides the north and south of Abydos.<END FC>"
   }
 }

@@ -276,7 +276,7 @@
     "message": "We no longer have a jewel collection! It has been stolen, just a few minutes ago!<E>"
   },
   "HT_Text_Aby_Museum_Inaguration5b": {
-    "message": "O quê? Quem? Como?...<W 60>"
+    "message": "What?... Who?... How?...<W 60>"
   },
   "HT_Text_Aby_Museum_Inaguration5a": {
     "message": "Oh dear, will it ever end?! This is becoming the ruination of the city! First the appearance of the Electric Eels and now this!<E>"
@@ -456,7 +456,7 @@
     "message": "I'm sorry, but we can't accept Chihuahuas. Due to an unfortunate incident last year involving several of them and the Mayor, they have been banned from the museum.<E>"
   },
   "HT_Text_Aby_Museum_Empty": {
-    "message": "<N><CNTR>---[ Exposição Vazia ]---<E>"
+    "message": "<N><CNTR>---[ Exhibit Empty ]---<E>"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel01": {
     "message": "Ahh! You are returning the <FC 0,128,0>Abydos Jewels<END FC>! You are a real hero!<P>You should know that they have used me in order to steal them. However, I assure you it was entirely against my will.<P>I promise you they will never use me for their evil deeds again.<P>Your heroic actions will eventually free my guilt of being involved in such a sad affair. Thank you!<E>"
@@ -477,13 +477,13 @@
     "message": "I have just realized that you have now donated <SO HT_Objective_Aby_Museum_MonstCount> monsters to our collection!<P>You are a most generous benefactor to this museum and the cultural life of <FC 128,64,0>Abydos<END FC> as a whole.<P>We would like to express our gratitude and acknowledge your efforts with a <FC 0,128,0>Monster Hunter Certificate: <IS HT_Objective_MonsterNameHolder><END FC>.<P>It demonstrates the appreciation of the city for this most invaluable work. Thank you!<E>"
   },
   "HT_Text_Aby_Museum_MonsterClassA": {
-    "message": "Classe Ouro"
+    "message": "Gold Class"
   },
   "HT_Text_Aby_Museum_MonsterClassB": {
-    "message": "Classe Prata"
+    "message": "Silver Class"
   },
   "HT_Text_Aby_Museum_MonsterClassC": {
-    "message": "Classe Bronze"
+    "message": "Bronze Class"
   },
   "HT_Text_Aby_Shop_ShopperCantAfford": {
     "message": "This is so annoying! I've always wanted to buy this monster, but at these prices I'll need to save for ages before I can afford one!<E>"
@@ -849,19 +849,19 @@
     "message": "Please sir, I've already told you you're not allowed in.<P>Come back later when the grand unveiling of the jewel exhibit is ready.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open01": {
-    "message": "Aproveite o museu, senhor!<E>"
+    "message": "Enjoy the museum, sir.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open02": {
-    "message": "Prossiga, senhor.<E>"
+    "message": "Move along, sir.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open03": {
-    "message": "Tenha um ótimo dia!<E>"
+    "message": "Have a pleasant day, sir.<E>"
   },
   "HT_Text_Aby_Canal_Juggler01": {
-    "message": "Não me distraia! Você me fez derrubar as bolas!<E>"
+    "message": "Don’t distract me! You made me drop the balls!<E>"
   },
   "HT_Text_Aby_Canal_Juggler02": {
-    "message": "Pare de me distrair! Eu sempre derrubo as bolas quando alguém fala comigo!<E>"
+    "message": "Stop distracting me! I tend to drop the balls if anyone talks to me!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan01": {
     "message": "The wife is gonna kill me if she finds out I lost her pearl necklace! <P>She's bound to notice this new one I bought has three missing.<P>Say, if you come across any <FC 0,128,0>Abydosian Pearls<END FC>, let me know! <E>"
@@ -885,13 +885,13 @@
     "message": "Yes, that's three <FC 0,128,0>Abydosian Pearls<END FC>! Thanks! You can use this key to open the door to the upper walkway if you wish.<P>I think I'll take my wife to see the jewel collection in the museum. She'll love to wear the necklace for that.<E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors1": {
-    "message": "Seja o que for, não quero comprar! <E>"
+    "message": "Whatever it is, I'm not buying it! <E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors2": {
-    "message": "Vá embora, estou ocupado! <E>"
+    "message": "Go away, I'm busy! <E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors3": {
-    "message": "Estou jantando, volte mais tarde! <E>"
+    "message": "I'm having dinner, come back later! <E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick1": {
     "message": "Oooooooooh...<E>"

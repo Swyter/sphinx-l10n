@@ -1,0 +1,23 @@
+{
+  "HT_Text_BOS_Tab_Artifacts": {
+    "message": "Artifacts"
+  },
+  "HT_Text_BOS_Tab_Notes": {
+    "message": "Notes"
+  },
+  "HT_Text_BOS_Tab_Monsters": {
+    "message": "Monsters"
+  },
+  "HT_Text_BOS_Instructions": {
+    "message": "<FC 30,10,0>Navigate around the pages using <SB HT_PadAction_BOS_NavigateDPad> <N>Change pages using <SB HT_PadAction_BOS_TABCycleLeft> and <SB HT_PadAction_BOS_TABCycleRight><N>Scroll long descriptions with <SB HT_PadAction_BOS_PageUp>."
+  },
+  "HT_Text_BOS_NoNotes": {
+    "message": "<ES HT_Text_ES_S_BOSStd>You do not currently have any notes.<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_NoAbilities": {
+    "message": "<ES HT_Text_ES_S_BOSStd>You do not currently have any abilities.<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_NoQuestItems": {
+    "message": "<ES HT_Text_ES_S_BOSStd>You do not currently have any quest items.<ES HT_Text_ES_E_BOSStd>"
+  }
+}

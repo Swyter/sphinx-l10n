@@ -1,0 +1,575 @@
+{
+  "HT_Text_FE_Menu_NewGame": {
+    "message": "ΝΕΟ ΠΑΙΧΝΙΔΙ"
+  },
+  "HT_Text_FE_Menu_LoadGame": {
+    "message": "ΦΟΡΤΩΣΗ ΠΑΙΧΝΙΔΙΟΥ"
+  },
+  "HT_Text_FE_Menu_BonusMaterial": {
+    "message": "ΜΠΟΝΟΥΣ"
+  },
+  "HT_Text_FE_Menu_Options": {
+    "message": "ΕΠΙΛΟΓΕΣ"
+  },
+  "HT_Text_FE_Menu_OptionsSubControl": {
+    "message": "ΕΠΙΛΟΓΕΣ ΧΕΙΡΙΣΜΟΥ"
+  },
+  "HT_Text_FE_Menu_OptionsSubScreen": {
+    "message": "ΕΠΙΛΟΓΕΣ ΟΘΟΝΗΣ"
+  },
+  "HT_Text_FE_Menu_OptionsSubSound": {
+    "message": "ΕΠΙΛΟΓΕΣ ΗΧΟΥ"
+  },
+  "HT_Text_FE_Menu_MusicVolume": {
+    "message": "ΕΝΤΑΣΗ ΜΟΥΣΙΚΗΣ"
+  },
+  "HT_Text_FE_Menu_SoundVolume": {
+    "message": "ΕΝΤΑΣΗ ΗΧΟΥ"
+  },
+  "HT_Text_FE_Menu_PadRumbleGC": {
+    "message": "RUMBLE"
+  },
+  "HT_Text_FE_Menu_PadRumbleXB": {
+    "message": "ΔΟΝΗΣΗ"
+  },
+  "HT_Text_FE_Menu_PadRumblePS2": {
+    "message": "ΔΟΝΗΣΗ"
+  },
+  "HT_Text_FE_Menu_ScreenAdjust": {
+    "message": "ΡΥΘΜΙΣΗ ΟΘΟΝΗΣ"
+  },
+  "HT_Text_FE_Menu_Widescreen": {
+    "message": "ΕΥΡΕΙΑ ΟΘΟΝΗ"
+  },
+  "HT_Text_FE_Menu_Subtitles": {
+    "message": "ΥΠΟΤΙΤΛΟΙ"
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonVert": {
+    "message": "ΑΝΤΙΣΤΡΟΦΗ ΚΑΤΑΚΟΡΥΦΩΝ ΧΕΙΡΙΣΜΩΝ 3ου ΠΡΟΣΩΠΟΥ"
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonHorz": {
+    "message": "ΑΝΤΙΣΤΡΟΦΗ ΟΡΙΖΟΝΤΙΩΝ ΧΕΙΡΙΣΜΩΝ 3ου ΠΡΟΣΩΠΟΥ"
+  },
+  "HT_Text_FE_Menu_InvertFirstPersonVert": {
+    "message": "ΑΝΤΙΣΤΡΟΦΗ ΚΑΤΑΚΟΡΥΦΩΝ ΧΕΙΡΙΣΜΩΝ 1ου ΠΡΟΣΩΠΟΥ"
+  },
+  "HT_Text_FE_Menu_OK": {
+    "message": "ΟΚ"
+  },
+  "HT_Text_FE_Menu_Cancel": {
+    "message": "ΑΚΥΡΩΣΗ"
+  },
+  "HT_Text_FE_Menu_ConfirmQuit": {
+    "message": "Σίγουρα επιθυμείς την έξοδο από το παιχνίδι;"
+  },
+  "HT_Text_FE_Menu_ConfirmQuit_XB": {
+    "message": "Σίγουρα επιθυμείς την έξοδο από το παιχνίδι;\\nΌλη η πρόοδος που δεν έχει αποθηκευτεί θα χαθεί."
+  },
+  "HT_Text_FE_Menu_SoundStereo": {
+    "message": "STEREO"
+  },
+  "HT_Text_FE_Menu_SoundMono": {
+    "message": "MONO"
+  },
+  "HT_Text_FE_Menu_SoundSurround": {
+    "message": "SURROUND"
+  },
+  "HT_Text_FE_Menu_SoundStereoSurround": {
+    "message": "STEREO/\\nSURROUND"
+  },
+  "HT_Text_FE_Menu_SoundModeOption": {
+    "message": "ΤΡΟΠΟΣ ΛΕΙΤΟΥΡΓΙΑΣ ΗΧΟΥ"
+  },
+  "HT_Text_FE_Menu_On": {
+    "message": "ΝΑΙ"
+  },
+  "HT_Text_FE_Menu_Off": {
+    "message": "ΟΧΙ"
+  },
+  "HT_Text_OptionsMenu_Back": {
+    "message": "ΠΙΣΩ"
+  },
+  "HT_Text_OptionsMenu_Select": {
+    "message": "ΕΠΙΛΟΓΗ"
+  },
+  "HT_Text_FE_Menu_ThirdPerson": {
+    "message": "3ο ΠΡΟΣΩΠΟ"
+  },
+  "HT_Text_FE_Menu_FirstPerson": {
+    "message": "1ο ΠΡΟΣΩΠΟ"
+  },
+  "HT_Text_FE_Menu_InvertHorz": {
+    "message": "ΑΝΤΙΣΤΡΟΦΗ ΟΡΙΖΟΝΤΙΩΝ ΧΕΙΡΙΣΜΩΝ"
+  },
+  "HT_Text_FE_Menu_InvertVert": {
+    "message": "ΑΝΤΙΣΤΡΟΦΗ ΚΑΤΑΚΟΡΥΦΩΝ ΧΕΙΡΙΣΜΩΝ"
+  },
+  "HT_Text_FE_MenuPause_Continue": {
+    "message": "ΣΥΝΕΧΕΙΑ"
+  },
+  "HT_Text_FE_MenuPause_Options": {
+    "message": "ΕΠΙΛΟΓΕΣ"
+  },
+  "HT_Text_FE_MenuPause_QuitGame": {
+    "message": "ΕΞΟΔΟΣ"
+  },
+  "HT_Text_FE_PressStart_PS2": {
+    "message": "ΠΑΤΗΣΕ ΤΟ START"
+  },
+  "HT_Text_FE_PressStart_XB": {
+    "message": "ΠΑΤΗΣΕ START"
+  },
+  "HT_Text_FE_PressStart_GC": {
+    "message": "Πάτησε START"
+  },
+  "HT_Text_FE_PressStart_PC": {
+    "message": "Πάτησε οποιοδήποτε κουμπί για να συνεχίσεις"
+  },
+  "HT_Text_FE_Bonus1_Title": {
+    "message": "Το 'Making of' του Σιφγξ"
+  },
+  "HT_Text_FE_Bonus1_Description": {
+    "message": "Τα παρασκήνια της δημιουργίας του Σιφγξ και η Καταραμένη Μούμια"
+  },
+  "HT_Text_FE_Bonus2_Title": {
+    "message": "Σφιγξ τρέιλερ"
+  },
+  "HT_Text_FE_Bonus2_Description": {
+    "message": "Τρέιλερ για το Σφιγξ και η Καταραμένη Μούμια"
+  },
+  "HT_Text_FE_Menu_SaveSlotA": {
+    "message": "ΣΦΙΓΞ Α"
+  },
+  "HT_Text_FE_Menu_SaveSlotB": {
+    "message": "ΣΦΙΓΞ Β"
+  },
+  "HT_Text_FE_Menu_SaveSlotC": {
+    "message": "ΣΦΙΓΞ Γ"
+  },
+  "HT_Text_FE_Menu_SaveSlotA_XB": {
+    "message": "ΣΦΙΓΞ Α"
+  },
+  "HT_Text_FE_Menu_SaveSlotB_XB": {
+    "message": "ΣΦΙΓΞ Β"
+  },
+  "HT_Text_FE_Menu_SaveSlotC_XB": {
+    "message": "ΣΦΙΓΞ Γ"
+  },
+  "HT_Text_FE_Menu_SaveSlotNone": {
+    "message": "Συνέχεια Χωρίς Αποθήκευση"
+  },
+  "HT_Text_FE_Menu_SaveSlotEmpty": {
+    "message": "Άδειο"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
+    "message": "ΚΑΤΕΣΤΡΑΜΜΕΝΟ"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
+    "message": "ΑΛΛΟΙΩΜΕΝΟ"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_GC": {
+    "message": "ΑΔΕΙΟ"
+  },
+  "HT_Text_MemCard_PromptSlotA": {
+    "message": "ΣΦΙΓΞ Α"
+  },
+  "HT_Text_MemCard_PromptSlotB": {
+    "message": "ΣΦΙΓΞ Β"
+  },
+  "HT_Text_MemCard_PromptSlotC": {
+    "message": "ΣΦΙΓΞ Γ"
+  },
+  "HT_Text_MemCard_PromptNo": {
+    "message": "ΟΧΙ"
+  },
+  "HT_Text_MemCard_PromptYes": {
+    "message": "ΝΑΙ"
+  },
+  "HT_Text_MemCard_PromptOK": {
+    "message": "ΟΚ"
+  },
+  "HT_Text_MemCard_PromptRetry": {
+    "message": "ΠΡΟΣΠΑΘΕΙΑ ΞΑΝΑ"
+  },
+  "HT_Text_MemCard_PromptCancel": {
+    "message": "ΑΚΥΡΩΣΗ"
+  },
+  "HT_Text_MemCard_PromptHaventSaved_XB": {
+    "message": "Σίγουρα θέλεις να συνεχίσεις χωρίς αποθήκευση;"
+  },
+  "HT_Text_MemCard_GameName": {
+    "message": "ΣΦΙΓΞ"
+  },
+  "HT_Text_Paused_PS2": {
+    "message": "ΠΑΥΣΗ"
+  },
+  "HT_Text_Paused_XB": {
+    "message": "Πάτησε START για να συνεχίσεις"
+  },
+  "HT_Text_Paused_GC": {
+    "message": "Παύση"
+  },
+  "HT_Text_ReplacePadPrompt_PS2_PAL": {
+    "message": "Δεν έχει εισαχθεί χειριστήριο στη θύρα χειριστηρίου (MISSINGPAD). Παρακαλώ επανεισήγαγε ένα αναλογικό χειριστήριο (DUALSHOCK®) ή ένα αναλογικό χειριστήριο (DUALSHOCK®2) για να συνεχίσεις."
+  },
+  "HT_Text_ReplacePadPrompt_PS2_NTSC": {
+    "message": "Δεν έχει εισαχθεί χειριστήριο στη θύρα χειριστηρίου (MISSINGPAD). Παρακαλώ επανεισήγαγε ένα DUALSHOCK® αναλογικό χειριστήριο ή ένα DUALSHOCK®2 αναλογικό χειριστήριο για να συνεχίσεις."
+  },
+  "HT_Text_ReplacePadPrompt_XB_Start": {
+    "message": "Παρακαλώ επανασύνδεσε το χειριστήριο στη θύρα (MISSINGPAD) και πάτησε START για να συνεχίσεις."
+  },
+  "HT_Text_ReplacePadPrompt_XB": {
+    "message": "Παρακαλώ επανασύνδεσε το χειριστήριο στη θύρα (MISSINGPAD)."
+  },
+  "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
+    "message": "Δε θα έχεις τη δυνατότητα να αποθηκεύσεις την πρόοδο σου ή τις επιλογές σου σε οποιοδήποτε σημείο του παιχνιδιού. Σίγουρα επιθυμείς να συνεχίσεις;"
+  },
+  "HT_Text_DeathScreen_Continue": {
+    "message": "ΣΥΝΕΧΕΙΑ"
+  },
+  "HT_Text_DeathScreen_QuitGame": {
+    "message": "ΕΞΟΔΟΣ"
+  },
+  "HT_Text_DeathScreen_Text": {
+    "message": "GAME OVER"
+  },
+  "HT_Text_OptionsMenu_Reset": {
+    "message": "ΕΠΑΝΑΦΟΡΑ"
+  },
+  "HT_Text_ScreenAdjustText_PS2": {
+    "message": "Προσάρμοσε την οθόνη με\\nτα κουμπιά κατεύθυνσης."
+  },
+  "HT_Text_ScreenAdjustText_GC": {
+    "message": "Προσάρμοσε την οθόνη με τα κουμπιά κατεύθυνσης."
+  },
+  "HT_Text_ScreenAdjustText_XB": {
+    "message": "Προσάρμοσε την οθόνη με τα κουμπιά κατεύθυνσης."
+  },
+  "HT_Text_Memcard_Test": {
+    "message": "Αυτό είναι ένα βοηθητικό παράθυρο τεστ για την κάρτα μνήμης.\\nΜε αλλαγές γραμμών.\\nΚαι θαυμαστικά!"
+  },
+  "HT_Text_Memcard_SaveConfirm": {
+    "message": "Σίγουρα θέλεις να αποθηκεύσεις\\nσε αυτή τη θέση;"
+  },
+  "HT_Text_Memcard_LoadConfirm": {
+    "message": "Σίγουρα θέλεις να φορτώσεις\\nαυτό το παιχνίδι;"
+  },
+  "HT_Text_Memcard_OverwriteConfirm": {
+    "message": "Υπάρχει ήδη αποθηκευμένο παιχνίδι.\\n\\nΘέλεις να αντικαταστήσεις\\nτο προηγούμενο παιχνίδι;"
+  },
+  "HT_Text_Memcard_NoFormat": {
+    "message": "Η κάρτα μνήμης (PS2) στην MEMORY\\nCARD θύρα 1 είναι μη διαμορφωμένη.\\n\\nΝα διαμορφωθεί η κάρτα μνήμης (PS2);"
+  },
+  "HT_Text_Memcard_NoFormat_Boot": {
+    "message": "Η κάρτα μνήμης (PS2) στην MEMORY\\nCARD θύρα 1 είναι μη διαμορφωμένη.\\nΝα διαμορφωθεί η κάρτα μνήμης (PS2);"
+  },
+  "HT_Text_Memcard_NoDirectory": {
+    "message": "Η κάρτα μνήμης (PS2) στη MEMORY\\nCARD θύρα 1 δεν έχει\\nφάκελο Σφιγξ.\\nΝα δημιουργηθεί φάκελος Σφιγξ τώρα;"
+  },
+  "HT_Text_Memcard_FormatComplete": {
+    "message": "Διαμόρφωση επιτυχής."
+  },
+  "HT_Text_Memcard_SaveFailed": {
+    "message": "Αποτυχία να αποθηκευτεί το παιχνίδι."
+  },
+  "HT_Text_Memcard_SaveSuccess": {
+    "message": "Επιτυχής αποθήκευση παιχνιδιού."
+  },
+  "HT_Text_Memcard_LoadFail": {
+    "message": "Αποτυχία να φορτωθεί το παιχνίδι."
+  },
+  "HT_Text_Memcard_NoCard": {
+    "message": "Προσοχή! Το Σφιγξ χρησιμοποιεί λειτουργία αυτόματης αποθήκευσης.\\nΗ εισαγωγή κάρτας μνήμης (PS2) πέρα\\nαπό αυτό το σημείο μπορεί να προκαλέσει την αντικατάσταση\\n δεδομένων. Ωστόσο αν επιθυμείς να αποθηκεύσεις\\nτα δεδομένα παιχνιδιού σου, εισήγαγε μία κάρτα μνήμης (PS2)\\nμε τουλάχιστον xKB ελεύθερου χώρου.\\n\\nΠάτησε το START για να συνεχίσεις\\n χωρίς αποθήκευση."
+  },
+  "HT_Text_Memcard_NoCard1": {
+    "message": "Δεν έχει εισαχθεί κάρτα μνήμης (8MB)(για PlayStation®2)\\n στη θύρα 1."
+  },
+  "HT_Text_Memcard_NoSpace_Boot": {
+    "message": "Ανεπαρκής χώρος στην κάρτα μνήμης (PS2). Εισήγαγε μία\\nκάρτα μνήμης με τουλάχιστον xKB ελεύθερου χώρου,\\nή ελευθέρωσε χώρο χρησιμοποιώντας τον εσωτερικό broswer την κονσόλας."
+  },
+  "HT_Text_Memcard_NoSpace_Save": {
+    "message": "Ανεπαρκής χώρος στην κάρτα μνήμης (PS2) στην MEMORY CARD\\n θύρα 1. Το Σφιγξ απαιτεί xKB ελεύθερου χώρου για αποθήκευση δεδομένων."
+  },
+  "HT_Text_Memcard_PressKey": {
+    "message": "ΠΑΤΗΣΕ ΤΟ START ΓΙΑ ΝΑ ΣΥΝΕΧΙΣΕΙΣ ΧΩΡΙΣ ΑΠΟΘΗΚΕΥΣΗ"
+  },
+  "HT_Text_Memcard_Loading": {
+    "message": "Φορτώνει..."
+  },
+  "HT_Text_Memcard_Saving": {
+    "message": "Αποθηκεύονται δεδομένα. Μην αφαιρέσεις την κάρτα μνήμης (PS2) στη\\nMEMORY CARD θύρα 1, επανεκιννήσεις ή απενεργοποιήσεις την κονσόλα."
+  },
+  "HT_Text_Memcard_Formatting": {
+    "message": "Γίνεται διαμόρφωση...\\n\\nΓίνεται διαμόρφωση της κάρτας μνήμης (PS2) στη MEMORY CARD θύρα 1.\\nΜην αφαιρέσεις την κάρτα μνήμης (PS2),\\n επανεκκινήσεις, ή απενεργοποιήσεις την κονσόλα."
+  },
+  "HT_Text_Memcard_YesNo": {
+    "message": "<B 1>Ναι<N><B 2>Όχι<E>"
+  },
+  "HT_Text_Menu_Cross": {
+    "message": "επιλογή"
+  },
+  "HT_Text_Menu_Triangle": {
+    "message": "ΠΙΣΩ"
+  },
+  "HT_Text_Menu_Square": {
+    "message": "Κεντράρισμα οθόνης"
+  },
+  "HT_Text_Menu_StartPause": {
+    "message": "Συνέχεια παιχνιδιού"
+  },
+  "HT_Text_Menu_AdjustScreen": {
+    "message": "Χρησιμοποίησε τον αριστερό αναλογικό\\nμοχλό ή τα κουμπιά κατεύθυνσης για να\\nπροσαρμόσεις τη θέση της οθόνης."
+  },
+  "HT_Text_Menu_Accept": {
+    "message": "Ναι"
+  },
+  "HT_Text_Menu_Decline": {
+    "message": "Όχι"
+  },
+  "HT_Text_Menu_Pause": {
+    "message": "Παύση"
+  },
+  "HT_Text_Menu_Empty": {
+    "message": "Τίποτα"
+  },
+  "HT_Text_Menu_BOS": {
+    "message": "Άνοιγμα του βιβλίου του Σφιγξ"
+  },
+  "HT_Text_Menu_Inventory": {
+    "message": "Inventory"
+  },
+  "HT_Text_Menu_Jump": {
+    "message": "Άλμα"
+  },
+  "HT_Text_Menu_Attack": {
+    "message": "Επίθεση"
+  },
+  "HT_Text_Menu_Context": {
+    "message": "Συμφραζόμενα"
+  },
+  "HT_Text_Menu_Shield": {
+    "message": "Ασπίδα"
+  },
+  "HT_Text_Menu_Pipe": {
+    "message": "Φυσοκάλαμο"
+  },
+  "HT_Text_Menu_Camera": {
+    "message": "Χειρισμός κάμερας"
+  },
+  "HT_Text_Menu_Move": {
+    "message": "Μετακίνηση χαρακτήρα"
+  },
+  "HT_Text_Menu_Start": {
+    "message": "Παύση μενού"
+  },
+  "HT_Text_Menu_PadLayout1": {
+    "message": "ΠΡΟΕΠΙΛΟΓΗ"
+  },
+  "HT_Text_Menu_PadLayout2": {
+    "message": "ΑΡΙΣΤΕΡΟΧΕΙΡΑΣ"
+  },
+  "HT_Text_Menu_PadLayout3": {
+    "message": "ΜΕΘΥΣΜΕΝΟΣ"
+  },
+  "HT_Text_Menu_NoPad": {
+    "message": "Το χειριστήριο στη θύρα\\nχειριστηρίου 1 έχει αφαιρεθεί.\\nΕπανεισήγαγε το χειριστήριο για να\\nσυνεχίσεις το παιχνίδι."
+  },
+  "HT_Text_Menu_Uruk1": {
+    "message": "SPHINX=@=URUK=HILLS"
+  },
+  "HT_Text_Menu_Uruk2": {
+    "message": "MUMMY=@=URUK=CASTLE"
+  },
+  "HT_Text_Menu_Making": {
+    "message": "THE=MAKING=OF=:=:=:"
+  },
+  "HT_Text_Menu_Trailer": {
+    "message": "ΤΡΕΪΛΕΡ"
+  },
+  "HT_Text_Menu_Exit": {
+    "message": "ΕΞΟΔΟΣ=DEMO"
+  },
+  "HT_Text_Menu_Continue": {
+    "message": "ΣΥΝΕΧΕΙΑ"
+  },
+  "HT_Text_Menu_Rumble": {
+    "message": "ΔΟΝΗΣΗ==ΝΑΙ"
+  },
+  "HT_Text_Menu_RumbleOff": {
+    "message": "ΔΟΝΗΣΗ==ΟΧΙ"
+  },
+  "HT_Text_Menu_StartDemo": {
+    "message": "ΕΚΚΙΝΗΣΗ=DEMO"
+  },
+  "HT_Text_Menu_NewGame": {
+    "message": "ΝΕΟ=ΠΑΙΧΝΙΔΙ"
+  },
+  "HT_Text_Menu_Load": {
+    "message": "ΦΟΡΤΩΣΗ=ΠΑΙΧΝΙΔΙΟΥ"
+  },
+  "HT_Text_Menu_Save": {
+    "message": "ΑΠΟΘΗΚΕΥΣΗ=ΠΑΙΧΝΙΔΙΟΥ"
+  },
+  "HT_Text_Menu_Options": {
+    "message": "ΕΠΙΛΟΓΕΣ"
+  },
+  "HT_Text_Menu_EndGame": {
+    "message": "ΤΕΛΟΣ=ΠΑΙΧΝΙΔΙΟΥ"
+  },
+  "HT_Text_Menu_Screen": {
+    "message": "ΕΠΙΛΟΓΕΣ=ΟΘΟΝΗΣ"
+  },
+  "HT_Text_Menu_Pad": {
+    "message": "ΕΠΙΛΟΓΕΣ=ΧΕΙΡΙΣΤΗΡΙΟΥ"
+  },
+  "HT_Text_Menu_Sound": {
+    "message": "ΕΠΙΛΟΓΕΣ=ΗΧΟΥ"
+  },
+  "HT_Text_Menu_ScreenAdjust": {
+    "message": "ΠΡΟΣΑΡΜΟΓΗ=ΟΘΟΝΗΣ"
+  },
+  "HT_Text_Menu_WidescreenON": {
+    "message": "ΕΥΡΕΙΑ=ΟΘΟΝΗ==ΝΑΙ"
+  },
+  "HT_Text_Menu_WidescreenOFF": {
+    "message": "ΕΥΡΕΙΑ=ΟΘΟΝΗ==ΟΧΙ"
+  },
+  "HT_Text_Menu_Volume": {
+    "message": "ΕΝΤΑΣΗ"
+  },
+  "HT_Text_Menu_SoundFX": {
+    "message": "ΕΦΕ=ΗΧΟΥ"
+  },
+  "HT_Text_Menu_Music": {
+    "message": "ΜΟΥΣΙΚΗ"
+  },
+  "HT_Text_Menu_SurroundON": {
+    "message": "SURROUND"
+  },
+  "HT_Text_Menu_SurroundOFF": {
+    "message": "STEREO"
+  },
+  "HT_Text_Menu_Mono": {
+    "message": "MONO"
+  },
+  "HT_Text_Menu_Videos": {
+    "message": "ΒΙΝΤΕΟ"
+  },
+  "HT_Text_Menu_QuitLevel": {
+    "message": "ΕΞΟΔΟΣ=ΕΠΙΠΕΔΟΥ"
+  },
+  "HT_Text_Menu_NTSC": {
+    "message": "ΡΥΘΜΟΣ=ΚΑΡΕ==60"
+  },
+  "HT_Text_Menu_PAL": {
+    "message": "ΡΥΘΜΟΣ=ΚΑΡΕ==50"
+  },
+  "HT_Text_Menu_QuitQuestion": {
+    "message": "Έξοδος;"
+  },
+  "HT_Text_Menu_Paused": {
+    "message": "ΠΑΥΣΗ"
+  },
+  "HT_Text_Menu_QuitLevQuestion": {
+    "message": "Έξοδος;"
+  },
+  "HT_Text_Menu_StartGame": {
+    "message": "Έναρξη Παιχνιδιού"
+  },
+  "HT_Text_Menu_SaveOver": {
+    "message": "Αποθήκευση παιχνιδιού"
+  },
+  "HT_Text_Menu_UseSlot": {
+    "message": "Χρησιμοποίηση αυτής της θύρας"
+  },
+  "HT_Text_Menu_LoadGame": {
+    "message": "Φόρτωση αυτού του παιχνιδιού"
+  },
+  "HT_Text_Menu_EmptySlot": {
+    "message": "[ άδειο ]"
+  },
+  "HT_Text_Menu_CorruptSlot": {
+    "message": "[ αλλοιωμένο]"
+  },
+  "HT_Text_Menu_Scarabs": {
+    "message": "Σκαραβαίοι"
+  },
+  "HT_Text_Menu_InvertON": {
+    "message": "ΑΝΤΙΣΤΡΟΦΗ=ΚΑΜΕΡΑΣ==ΝΑΙ"
+  },
+  "HT_Text_Menu_InvertOFF": {
+    "message": "ΑΝΤΙΣΤΡΟΦΗ=ΚΑΜΕΡΑΣ==ΟΧΙ"
+  },
+  "HT_Text_Menu_SwapXYON": {
+    "message": "ΑΛΛΑΓΗ=ΚΑΜΕΡΑΣ=Χ==ΝΑΙ"
+  },
+  "HT_Text_Menu_SwapXYOFF": {
+    "message": "ΑΛΛΑΓΗ=ΚΑΜΕΡΑΣ=Χ==ΟΧΙ"
+  },
+  "HT_Text_Menu_Cancel": {
+    "message": "ΑΚΥΡΩΣΗ"
+  },
+  "HT_Text_Menu_Reset": {
+    "message": "ΕΠΑΝΑΦΟΡΑ"
+  },
+  "HT_Text_Credits1": {
+    "message": "\\n\\nTHQ Nordic GmbH\n\\n\\n\n\\nProgrammer & PC Conversion:\n\\nIsmael Ferreras Morezuelas (Swyter)\n\\n\n\\nExecutive Producer:\n\\nReinhard Pollice\n\\n \n\\nLocalization Manager:\n\\nGennaro Giani\n\\n \n\\nPR & Marketing Director:   \n\\nPhilipp Brock\n\\n\n\\nPR & Marketing:\n\\nFlorian Emmerich\n\\nStephanie Harman\n\\nLina Berehi\n\\n\n\\nPublishing Director:\n\\nJan Binsmaier\n\\n\n\\nPublishing Project Management:\n\\nBarbara Kugler\n\\n\n\\nSocial Media Manager: \n\\nManuel Karl\n\\n\n\\nLead Graphic Artist:\n\\nErnst Satzinger\n\\n\n\\nGraphic Asset Assistant: \n\\nTobias Grimus\n\\nPeter Hambsch\n\\nJanet Weiss\n\\n \n\\nAge Rating Coordinator:\n\\nThomas Reisinger\n\\n\n\\nWeb Developer:\n\\nNina Trabe\n\\n\n\\nSales Director:\n\\nGeorg Klotzberg\n\\n \n\\nSales:\n\\nReinhold Schor\n\\nNik Blower\n\\nIan Warley\n\\nJeremy Soulet\n\\n \n\\nDigital Distribution:\n\\nThomas Reisinger\n\\nTim Grainer\n\\n \n\\nManufacturing:\n\\nAnton Seicarescu\n\\n \n\\nAccounting & Office Management:\n\\nMarion Mayer\n\\nAnton Seicarescu\n\\n \n\\nBusiness & Product Development Director: \n\\nReinhard Pollice\n\\n \n\\nTHQ Nordic Management:\n\\nKlemens Kreuzer\n\\nLars Wingefors\n\\n  \n\\nTHQ Nordic Inc.\n\\nAdrienne Lauer\n\\nEric Wuestmann\n\\nKlemens Kreuzer\n\\n\n\\n\\n\\nDesigned and developed by\\nEurocom Entertainment Software\n\\n\\n\\nPRODUCTION\n\\nVictor Garrido\n\\nPadraig Crowley\n\\n\n\\nGAME PROGRAMMING\n\\nMartin Hall\n\\nRichard Teather\n\\nChris Jordan\n\\nDaniel Peake\n\\nGraeme Richardson\n\\nGraham Reeves\n\\nLenny Johnson\n\\nMat Sneap\n\\n\n\\nENVIRONMENTS\n\\nJoaquin Catala Retortillo\n\\nAdrian Mannion\n\\nAlex Huguet Paredes\n\\nAna Amat Marco\n\\nColin Garrat\n\\nDavid Munoz Velazquez\n\\nLuis Gomez Guzman\n\\nStefan Scheffers\n\\nWilli Hammes\n\\n\n\\nCHARACTERS/ASSETS\n\\nJulian Romero \n\\nAbraham Meneu Oset\n\\nAmanda Barlow\n\\nBarry Lawless\n\\nJuan Solis\n\\nLars Verhoeff\n\\nPaul Harrison\n\\n\n\\nLEVEL DESIGN\n\\nMartin Kilcoyne\n\\nAndy Collins\n\\nDarren Weekes\n\\nJohn Barker\n\\nKarl Gillott\n\\nPhil Bennett\n\\nStuart Bee\n\\n\n\\nANIMATION\n\\nJose Luis Garcia Camara\n\\nAlberto Corral Arencibia\n\\nBobby Stockport\n\\nCarlos Fernandez Puertolas\n\\nDaniel Meitin Roca\n\\nEnrique Oliva\n\\nSantiago Colomo Martinez\n\\nSyd Franklin\n\\n\n\\nENGINE PROGRAMMING\n\\nChris Jackson\n\\nIan Denny\n\\nAndy Hutchings\n\\nAshley Finney\n\\nDave Looker\n\\nJL\n\\nJulian Vaughan\n\\nKev Stainwright\n\\nShane Clark\n\\nSteven Walker\n\\nTim Rogers\n\\n\n\\nTOOLS\n\\nAndy Mitchell\n\\nBob Smith\n\\nDiego Garcia Huerta\n\\nJim Makin\n\\nKev Marks\n\\nKevin Thacker\n\\n\n\\nAUDIO\n\\nSteve Duckworth\n\\nDuncan Bradshaw\n\\n\n\\nQA\n\\nMichael Robinson\n\\nLouise Sargison\n\\nAndrew Dilks\n\\nAndrew Green\n\\nChristopher Pilkington\n\\nDave Smith\n\\nDominic Hallam\n\\nDominic Hills\n\\nJamie Small\n\\nMatthew Gilchrist\n\\nOliver Madden\n\\nPeter Barrett\n\\nRichard Charles\n\\n\n\\n\n\\nSPECIAL THANKS\n\\nAndrew Dilks\n\\nBrian Riordan\n\\nChris Allen\n\\nChris Boyle\n\\nClive Stevenson\n\\nDuncan Hewitt\n\\nHelen Jones\n\\nHenk Nieborg\n\\nHugh Binns\n\\nJoe Lewis\n\\nJohn Parr\n\\nJosh Andrews\n\\nLasse Louhento\n\\nLudovic Le Camus\n\\nMark Potente\n\\nMartin McBain\n\\nMatt Dixon\n\\nMatt Farrell\n\\nMichael Hirst\n\\nPhil Dobson\n\\nPhil Hackney\n\\nRichard Foster\n\\nRob Berry\n\\nSteve Gratton\n\\nTom Noone\n\\nUlf Dahl"
+  },
+  "HT_Text_Credits2": {
+    "message": "\\n\\n\\nTHQ \n\\n  \n\\nCREATIVE MANAGER \n\\nRob Loftus \n\\n  \n\\nPROJECT MANAGER \n\\nMark Morris \n\\n  \n\\nDIRECTOR, CREATIVE MANAGEMENT \n\\nJames Boone \n\\n  \n\\nTECHNICAL MANAGER \n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENT, \n\\nPRODUCT DEVELOPMENT \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIRECTOR, QUALITY ASSURANCE \n\\nMonica Vallejo \n\\n\n\\nTEST LEAD \n\\nMike Korpi \n\\n  \n\\nADDITIONAL TEST LEADS \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERS \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nFIRST PARTY SUPERVISORS\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nFIRST PARTY SPECIALISTS \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avilés \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TECHNICAL SUPERVISOR \n\\nMario Waibel \n\\n\n\\nQA TECHNICIANS \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nMASTERING LAB TECHNICIANS \n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATABASE APPLICATIONS ENGINEER \n\\nJason Roberts "
+  },
+  "HT_Text_Credits3": {
+    "message": "\\n\\n\\nTHQ MARKETING \n\\n\\nDIRECTOR, GLOBAL BRAND \n\\nMANAGEMENT \n\\nAlison Quiron \n\\n  \n\\nPRODUCT MARKETING \n\\nMANAGER \n\\nMonica Guerra Robinson \n\\nDamian Garcia \n\\n  \n\\nSENIOR VICE PRESIDENT, \n\\nWORLDWIDE MARKETING \n\\nPeter Dille \n\\n  \n\\nDIRECTOR, CREATIVE \n\\nSERVICES \n\\nHoward Liebeskind \n\\n  \n\\nSENIOR MANAGER, \n\\nCREATIVE SERVICES \n\\nKathy Helgason \n\\n  \n\\nCREATIVE SERVICES MANAGER \n\\nKirk Somdal \n\\n  \n\\nINSTRUCTION MANUAL TEXT \n\\nRusel DeMaria \n\\n  \n\\nDIRECTOR, BUSINESS \n\\nDEVELOPMENT \n\\nDan Kelly \n\\n  \n\\nMANAGER, PRODUCTION \n\\nRESOURCES \n\\nJenae Pash \n\\n  \n\\nPRODUCTION RESOURCES \n\\nCOORDINATOR \n\\nHeather Leonard \n\\n  \n\\nHEAD OF BRAND MANAGEMENT \n\\nMichael Pattison\n\\n\n\\nBRAND MANAGER \n\\nMickey Torode \n\\n  \n\\nDIRECTOR OF LOCALIZATION \n\\nSusanne Dieck \n\\n  \n\\nLOCALIZATION ENGINEER \n\\nBernd Kurtz \n\\n  \n\\nSUBMISSION COORDINATOR \n\\nFlorence Kum \n\\n  \n\\nSPECIAL THANKS \n\\nBrian Farrell \n\\nJack Sorensen \n\\nTerri Schiek \n\\nGermaine Gioia \n\\nLeslie Brown \n\\nBrandy A. Carrillo \n\\nTiffany Ternan \n\\nRobert Riley \n\\nJack Suzuki \n\\nGordon Madison \n\\nRicardo Fischer \n\\nChristian Kenney \n\\nPaul Rivas \n\\nStacey Mendoza \n\\nJulian Brummitt \n\\n  \n\\n--\n\\n  \n\\nThe restored version of Sphinx would not have been possible \n\\nwithout the following open-source libraries:  \n\\n  \n\\n  \n\\nSDL 2.0 - By Sam Lantinga, Ryan C. Gordon and contributors \n\\nhttps://www.libsdl.org (zlib license) \n\\n  \n\\n  \n\\nOpenAL Soft - By Chris Robinson and contributors \n\\nhttp://kcat.strangesoft.net/openal.html (LGPL 2 license) \n\\n  \n\\n  \n\\nxxHash - By Yann Collet and contributors \n\\nhttps://github.com/Cyan4973/xxHash (BSD 2-Clause license) \n\\n  \n\\n  \n\\nstb_image - By Sean Barrett and contributors \n\\nhttps://github.com/nothings/stb (Public domain)"
+  },
+  "HT_Text_FE_Menu_ToggleReverb": {
+    "message": "REVERB"
+  },
+  "HT_Text_FE_Menu_FieldOfView": {
+    "message": "ΟΠΤΙΚΟ ΠΕΔΙΟ (FOV)"
+  },
+  "HT_Text_FE_Menu_Resolution": {
+    "message": "ΑΝΑΛΥΣΗ"
+  },
+  "HT_Text_FE_Menu_ChooseScreen": {
+    "message": "ΕΠΙΛΟΓΗ ΟΘΟΝΗΣ"
+  },
+  "HT_Text_FE_Menu_ToggleParticles": {
+    "message": "ΣΩΜΑΤΙΔΙΑ"
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Limited": {
+    "message": "ΠΕΡΙΟΡΙΣΜΕΝΑ"
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Soft": {
+    "message": "ΑΠΑΛΑ"
+  },
+  "HT_Text_FE_Menu_Anisotropy": {
+    "message": "ANISOTROPIC FILTERING"
+  },
+  "HT_Text_FE_Menu_MultiSampling": {
+    "message": "MULTISAMPLING"
+  },
+  "HT_Text_FE_Menu_Vsync": {
+    "message": "VERTICAL SYNC"
+  },
+  "HT_Text_FE_Menu_VsyncAdaptive": {
+    "message": "ΠΡΟΣΑΡΜΟΣΤΙΚΟ"
+  },
+  "HT_Text_FE_Menu_RestartGame": {
+    "message": "ΕΠΑΝΕΚΚΙΝΗΣΗ ΠΑΙΧΝΙΔΙΟΥ"
+  },
+  "HT_Text_FE_ResolutionRequiresRestart": {
+    "message": "Η αλλαγή της ανάλυσης απαιτεί την επανεκκίνηση του παιχνιδιού."
+  },
+  "HT_Text_FE_ResolutionBorderless": {
+    "message": "ΧΩΡΙΣ ΠΕΡΙΘΩΡΙΑ"
+  },
+  "HT_Text_FE_ResolutionWindowed": {
+    "message": "ΠΑΡΑΘΥΡΟ"
+  },
+  "HT_Text_FE_ResolutionFovDegrees": {
+    "message": "μοίρες"
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Φυσοκάλαμο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα μαγικά βελάκια που απελευθερώνονται από αυτό το ισχυρό εργαλείο,<N>αναπληρώνονται δίνοντας σου απεριόριστη ποσότητα από βελάκια.<P><ES HT_Text_ES_S_HelpText><CNTR>Τα βελάκια μπορούν να χρησιμοποιηθούν για να χτυπήσουν απομακρυσμένους στόχους αλλά είναι<N>μόνο αρκετά ισχυρά ώστε να βλάψουν τέρατα που εκρύγνυνται.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Χρησιμοποίησε το <SB HT_PadAction_HUD_ShowRotator> για να αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC> σε ένα κουμπί.<P><ES HT_Text_ES_S_HelpText><CNTR>Όταν το <FC 0,128,0>Φυσοκάλαμο<END FC> ανατεθεί, πάτησε<N>το κουμπί για να μπεις σε λειτουργία πρώτου προσώπου.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_FireDart> για να ρίξεις.<P><ES HT_Text_ES_S_HelpText><CNTR>Κράτησε <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> ή <SB HT_PadAction_GYR_Right> πατημένα όσο κουνάς το αριστερό Joy-Con για να στοχεύσεις χρησιμοποιώντας τους γυρισκοπικούς χειρισμούς κίνησης.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_Cancel> για να βγεις<N>από τη λειτουργία <FC 0,128,0>Φυσοκάλαμου<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  }
+}

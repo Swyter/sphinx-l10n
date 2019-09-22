@@ -1,0 +1,575 @@
+{
+  "HT_Text_FE_Menu_NewGame": {
+    "message": "JAUNA SPĒLE"
+  },
+  "HT_Text_FE_Menu_LoadGame": {
+    "message": "IELĀDĒT SPĒLI"
+  },
+  "HT_Text_FE_Menu_BonusMaterial": {
+    "message": "BONUSS"
+  },
+  "HT_Text_FE_Menu_Options": {
+    "message": "OPCIJAS"
+  },
+  "HT_Text_FE_Menu_OptionsSubControl": {
+    "message": "VADĪBAS IESTATĪJUMI"
+  },
+  "HT_Text_FE_Menu_OptionsSubScreen": {
+    "message": "EKRĀNA IESTATĪJUMI"
+  },
+  "HT_Text_FE_Menu_OptionsSubSound": {
+    "message": "SKAŅAS IESTATĪJUMI"
+  },
+  "HT_Text_FE_Menu_MusicVolume": {
+    "message": "MŪZIKAS SKAŅA"
+  },
+  "HT_Text_FE_Menu_SoundVolume": {
+    "message": "SKAŅAS SKAŅA"
+  },
+  "HT_Text_FE_Menu_PadRumbleGC": {
+    "message": "DĀRDOŅA"
+  },
+  "HT_Text_FE_Menu_PadRumbleXB": {
+    "message": "VIBRĀCIJA"
+  },
+  "HT_Text_FE_Menu_PadRumblePS2": {
+    "message": "VIBRĀCIJA"
+  },
+  "HT_Text_FE_Menu_ScreenAdjust": {
+    "message": "EKRĀNA PIELĀGOJUMS"
+  },
+  "HT_Text_FE_Menu_Widescreen": {
+    "message": "PLATEKRĀNS"
+  },
+  "HT_Text_FE_Menu_Subtitles": {
+    "message": "SUBTITRI"
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonVert": {
+    "message": "3. PERSONĀ APGRIEZT VERTIKĀLU"
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonHorz": {
+    "message": "3. PERSONĀ APGRIEZT HORIZONTĀLU"
+  },
+  "HT_Text_FE_Menu_InvertFirstPersonVert": {
+    "message": "1. PERSONĀ APGRIEZT VERTIKĀLU"
+  },
+  "HT_Text_FE_Menu_OK": {
+    "message": "LABI"
+  },
+  "HT_Text_FE_Menu_Cancel": {
+    "message": "ATCELT"
+  },
+  "HT_Text_FE_Menu_ConfirmQuit": {
+    "message": "Vai tu esi pārliecināts ka vēlies beigt?"
+  },
+  "HT_Text_FE_Menu_ConfirmQuit_XB": {
+    "message": "Vai tu esi pārliecināts ka vēlies beigt?\\nViss nesaglabātais progress tiks pazaudēts."
+  },
+  "HT_Text_FE_Menu_SoundStereo": {
+    "message": "STEREO"
+  },
+  "HT_Text_FE_Menu_SoundMono": {
+    "message": "MONO"
+  },
+  "HT_Text_FE_Menu_SoundSurround": {
+    "message": "APKĀRTNE"
+  },
+  "HT_Text_FE_Menu_SoundStereoSurround": {
+    "message": "STEREO/\\nAPKĀRTNE"
+  },
+  "HT_Text_FE_Menu_SoundModeOption": {
+    "message": "SKAŅAS REŽĪMS"
+  },
+  "HT_Text_FE_Menu_On": {
+    "message": "IESLĒGTS"
+  },
+  "HT_Text_FE_Menu_Off": {
+    "message": "IZSLĒGTS"
+  },
+  "HT_Text_OptionsMenu_Back": {
+    "message": "ATPAKAĻ"
+  },
+  "HT_Text_OptionsMenu_Select": {
+    "message": "IZVĒLĒTIES"
+  },
+  "HT_Text_FE_Menu_ThirdPerson": {
+    "message": "3. PERSONA:"
+  },
+  "HT_Text_FE_Menu_FirstPerson": {
+    "message": "1. PERSONA:"
+  },
+  "HT_Text_FE_Menu_InvertHorz": {
+    "message": "APGRIEZT HORIZONTĀLU"
+  },
+  "HT_Text_FE_Menu_InvertVert": {
+    "message": "APGRIEZT VERTIKĀLU"
+  },
+  "HT_Text_FE_MenuPause_Continue": {
+    "message": "TURPINĀT"
+  },
+  "HT_Text_FE_MenuPause_Options": {
+    "message": "OPCIJAS"
+  },
+  "HT_Text_FE_MenuPause_QuitGame": {
+    "message": "BEIGT SPĒLI"
+  },
+  "HT_Text_FE_PressStart_PS2": {
+    "message": "NOSPIED SĀKŠANAS POGU"
+  },
+  "HT_Text_FE_PressStart_XB": {
+    "message": "NOSPIED SĀKT"
+  },
+  "HT_Text_FE_PressStart_GC": {
+    "message": "Nospied SĀKT"
+  },
+  "HT_Text_FE_PressStart_PC": {
+    "message": "Nospied jebkuru pogu lai sāktu"
+  },
+  "HT_Text_FE_Bonus1_Title": {
+    "message": "Sfinksa Veidošana"
+  },
+  "HT_Text_FE_Bonus1_Description": {
+    "message": "Dodieties Sfinksa un Noburtās Mūmijas aizkadrā "
+  },
+  "HT_Text_FE_Bonus2_Title": {
+    "message": "Sfinksa Treileris"
+  },
+  "HT_Text_FE_Bonus2_Description": {
+    "message": "Treileris priekš Sfinksa un Noburtās Mūmijas"
+  },
+  "HT_Text_FE_Menu_SaveSlotA": {
+    "message": "SFINKSS A"
+  },
+  "HT_Text_FE_Menu_SaveSlotB": {
+    "message": "SFINKSS B"
+  },
+  "HT_Text_FE_Menu_SaveSlotC": {
+    "message": "SFINKSS C"
+  },
+  "HT_Text_FE_Menu_SaveSlotA_XB": {
+    "message": "SFINKSS A"
+  },
+  "HT_Text_FE_Menu_SaveSlotB_XB": {
+    "message": "SFINKSS B"
+  },
+  "HT_Text_FE_Menu_SaveSlotC_XB": {
+    "message": "SFINKSS C"
+  },
+  "HT_Text_FE_Menu_SaveSlotNone": {
+    "message": "Turpināt Bez Saglabāšanas"
+  },
+  "HT_Text_FE_Menu_SaveSlotEmpty": {
+    "message": "Tukšs"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
+    "message": "BOJĀTS"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
+    "message": "KORRUPTĒTS"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_GC": {
+    "message": "TUKŠS"
+  },
+  "HT_Text_MemCard_PromptSlotA": {
+    "message": "SFINKSS A"
+  },
+  "HT_Text_MemCard_PromptSlotB": {
+    "message": "SFINKSS B"
+  },
+  "HT_Text_MemCard_PromptSlotC": {
+    "message": "SFINKSS C"
+  },
+  "HT_Text_MemCard_PromptNo": {
+    "message": "NĒ"
+  },
+  "HT_Text_MemCard_PromptYes": {
+    "message": "JĀ"
+  },
+  "HT_Text_MemCard_PromptOK": {
+    "message": "LABI"
+  },
+  "HT_Text_MemCard_PromptRetry": {
+    "message": "ATKĀRTOT"
+  },
+  "HT_Text_MemCard_PromptCancel": {
+    "message": "ATCELT"
+  },
+  "HT_Text_MemCard_PromptHaventSaved_XB": {
+    "message": "Vai tu esi pārliecināts ka vēlies turpināt bez saglabāšanas?"
+  },
+  "HT_Text_MemCard_GameName": {
+    "message": "SFINKSS"
+  },
+  "HT_Text_Paused_PS2": {
+    "message": "Apturēts"
+  },
+  "HT_Text_Paused_XB": {
+    "message": "Spiedi SĀKT lai turpinātu."
+  },
+  "HT_Text_Paused_GC": {
+    "message": "Apturēts"
+  },
+  "HT_Text_ReplacePadPrompt_PS2_PAL": {
+    "message": "Nav pieslēgta vadības pults, vadības pults pieslēgšanas ligzdā (MISSINGPAD). Lūdzu ielieciet pa jaunu analoga vadības pulti (DUALSHOCK®) vai analoga vadības pulti (DUALSHOCK®2) lai turpinātu."
+  },
+  "HT_Text_ReplacePadPrompt_PS2_NTSC": {
+    "message": "Nav pieslēgta vadības pults, vadības pults pieslēgšanas ligzdā (MISSINGPAD). Lūdzu atkārtoti ievietojiet DUALSHOCK® analoga vadības pulti vai  DUALSHOCK®2 analoga vadības pulti lai turpinātu."
+  },
+  "HT_Text_ReplacePadPrompt_XB_Start": {
+    "message": "Lūdzu atkārtoti ievietojiet vadības pulti, vadības pults pieslēgšanas ligzdā (MISSINGPAD) un nospiediet SĀKT lai turpinātu."
+  },
+  "HT_Text_ReplacePadPrompt_XB": {
+    "message": "Lūdzu atkārtoti ievietojiet vadības pulti, vadības pults pieslēgšanas ligzdā (MISSINGPAD)."
+  },
+  "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
+    "message": "Jūs nevarēsiet saglabāt jūsu progresu vai opcijas nevienā spēles punktā. Vai jūs vēlaties turpināt?"
+  },
+  "HT_Text_DeathScreen_Continue": {
+    "message": "TURPINĀT"
+  },
+  "HT_Text_DeathScreen_QuitGame": {
+    "message": "BEIGT SPĒLI"
+  },
+  "HT_Text_DeathScreen_Text": {
+    "message": "SPĒLE BEIGUSIES"
+  },
+  "HT_Text_OptionsMenu_Reset": {
+    "message": "RESTARTĒT"
+  },
+  "HT_Text_ScreenAdjustText_PS2": {
+    "message": "Pielāgojiet ekrānu ar\\ntvadības pogām."
+  },
+  "HT_Text_ScreenAdjustText_GC": {
+    "message": "Pielāgojiet ekrānu ar +Vadības paneli."
+  },
+  "HT_Text_ScreenAdjustText_XB": {
+    "message": "Pielāgojiet ekrānu ar virziena pogām."
+  },
+  "HT_Text_Memcard_Test": {
+    "message": "Šī ir atmiņas kartes palīdzības spoguļa tests.\\nAr jaunām līnijām.\\nUn izsaukumiem!"
+  },
+  "HT_Text_Memcard_SaveConfirm": {
+    "message": "Vai tu esi pārliecināts ka vēlies \\nsaglabāt uz šo atmiņas vietu?"
+  },
+  "HT_Text_Memcard_LoadConfirm": {
+    "message": "Vai tu esi pārliecināts ka vēlies\\nielādēt šo spēli?"
+  },
+  "HT_Text_Memcard_OverwriteConfirm": {
+    "message": "Saglabāta spēle jau pastāv.\\n\\nVai tu vēlies to pārrakstīt uz\\niepriekšējo spēli?"
+  },
+  "HT_Text_Memcard_NoFormat": {
+    "message": "Atmiņas karte (PS2) ATMIŅĀ\\nKARTES vietā 1 ir neformatēta.\\n\\nFormatēt atmiņas karti (PS2)?"
+  },
+  "HT_Text_Memcard_NoFormat_Boot": {
+    "message": "Atmiņas karte (PS2) ATMIŅĀ\\nKARTES vietā 1 ir neformatēta.\\nFormatēt atmiņas karti (PS2)?"
+  },
+  "HT_Text_Memcard_NoDirectory": {
+    "message": "Atmiņas karte (PS2) ATMIŅĀ\\nKARTES vietā 1 nepastāv\\na Sfinksa mape.\\nUztaisīt Sfinksa mapi tagad?"
+  },
+  "HT_Text_Memcard_FormatComplete": {
+    "message": "Formatēšana izdevusies."
+  },
+  "HT_Text_Memcard_SaveFailed": {
+    "message": "Neizdevās saglabāt spēli."
+  },
+  "HT_Text_Memcard_SaveSuccess": {
+    "message": "Spēles saglabāšana izdevusies."
+  },
+  "HT_Text_Memcard_LoadFail": {
+    "message": "Neizdevies ielādēt saglabāto spēli."
+  },
+  "HT_Text_Memcard_NoCard": {
+    "message": "Uzmanību! Sfinkss izmanto Autoglabāšanas funkciju.\\nIeliekot atmiņas karti (PS2) aiz\\nšī punkta varētu rast ka dati\\npārrakstīti. Bet, ja tu vēlies saglabād\\ntavus spēļu datus, ieliec atmiņas karti (PS2)\\nar vismazt xKB brīvas vietas.\\n\\nSpied SĀKUMA POGU lai turpinātu\\nbez saglabāšanas."
+  },
+  "HT_Text_Memcard_NoCard1": {
+    "message": "Nav atmiņas karte(8MB)(priekš PlayStation®2)\\n ievietota atmiņas kartes 1. ligzā."
+  },
+  "HT_Text_Memcard_NoSpace_Boot": {
+    "message": "Nepietiekama vieta uz atmiņas kartes (PS2). Ievietojiet a\\natmiņas karti (PS2) ar vismaz xKB brīvas vietas,\\nvai atbrībojiet vietu konsoles iebūvētajā meklētājā."
+  },
+  "HT_Text_Memcard_NoSpace_Save": {
+    "message": "Nepietiekama vieta uz atmiņas kartes (PS2) uz ATMIŅAS KARTES\\n 1. ligzdā Sfinksam nepieciešami xKB brīvas vietas lai saglabātu datus."
+  },
+  "HT_Text_Memcard_PressKey": {
+    "message": "NOSPIED SĀKT LAI TURPINĀTU BEZ SAGLABĀŠANAS"
+  },
+  "HT_Text_Memcard_Loading": {
+    "message": "Lādējas..."
+  },
+  "HT_Text_Memcard_Saving": {
+    "message": "Saglabā datus. Neatvieno (PS2) in\\nATMIŅAS KARTI 1. ligzdā, nerestartē, vai izslēdz konsoli."
+  },
+  "HT_Text_Memcard_Formatting": {
+    "message": "Formatē...\\n\\n\\nFormatē atmiņas karti (PS2) ATMIŅAS KARTES 1. ligzdā.\\nNeatvieno atmiņas karti (PS2),\\nrnerestartē, vai izslēdz konsoli."
+  },
+  "HT_Text_Memcard_YesNo": {
+    "message": "<B 1>Jā<N><B 2>Nē<E>"
+  },
+  "HT_Text_Menu_Cross": {
+    "message": "atlasīt"
+  },
+  "HT_Text_Menu_Triangle": {
+    "message": "ATPAKAĻ"
+  },
+  "HT_Text_Menu_Square": {
+    "message": "Centra ekrāns"
+  },
+  "HT_Text_Menu_StartPause": {
+    "message": "Turpināt spēli"
+  },
+  "HT_Text_Menu_AdjustScreen": {
+    "message": "Izmanto kreiso analoga\\nkloķi vai vadības pogas lai\\npielāgotu ekrāna pozīciju"
+  },
+  "HT_Text_Menu_Accept": {
+    "message": "Jā"
+  },
+  "HT_Text_Menu_Decline": {
+    "message": "Nē"
+  },
+  "HT_Text_Menu_Pause": {
+    "message": "Apturēt spēli"
+  },
+  "HT_Text_Menu_Empty": {
+    "message": "Nekas"
+  },
+  "HT_Text_Menu_BOS": {
+    "message": "Atvērt Sfinksa Grāmatu"
+  },
+  "HT_Text_Menu_Inventory": {
+    "message": "Krājums"
+  },
+  "HT_Text_Menu_Jump": {
+    "message": "Lekt"
+  },
+  "HT_Text_Menu_Attack": {
+    "message": "Uzbrukt"
+  },
+  "HT_Text_Menu_Context": {
+    "message": "Konteksts"
+  },
+  "HT_Text_Menu_Shield": {
+    "message": "Vairogs"
+  },
+  "HT_Text_Menu_Pipe": {
+    "message": "Šautriņu nūja"
+  },
+  "HT_Text_Menu_Camera": {
+    "message": "Kameras vadība"
+  },
+  "HT_Text_Menu_Move": {
+    "message": "Kustināt tēlu"
+  },
+  "HT_Text_Menu_Start": {
+    "message": "Pauzes spēles ekrāns"
+  },
+  "HT_Text_Menu_PadLayout1": {
+    "message": "NOKLUSĒJUMS"
+  },
+  "HT_Text_Menu_PadLayout2": {
+    "message": "KREILIS"
+  },
+  "HT_Text_Menu_PadLayout3": {
+    "message": "PIEDZĒRIES"
+  },
+  "HT_Text_Menu_NoPad": {
+    "message": "Vadības pults, vadības pults\\n1. ligzdā tika atvienota.\\nLūdzu pa jaunu iespraudiet vadības pulti lai\\nturpinātu spēlēt."
+  },
+  "HT_Text_Menu_Uruk1": {
+    "message": "SFINKSS=@=URUKAS=KALNI"
+  },
+  "HT_Text_Menu_Uruk2": {
+    "message": "MŪMIJA=@=URUKAS=CIETOKSNIS"
+  },
+  "HT_Text_Menu_Making": {
+    "message": "IZGATAVOŠANA=:=:=:"
+  },
+  "HT_Text_Menu_Trailer": {
+    "message": "TREILERIS"
+  },
+  "HT_Text_Menu_Exit": {
+    "message": "BEIGT=DEMO"
+  },
+  "HT_Text_Menu_Continue": {
+    "message": "TURPINĀT"
+  },
+  "HT_Text_Menu_Rumble": {
+    "message": "VIBRĀCIJA==IESLĒGTA"
+  },
+  "HT_Text_Menu_RumbleOff": {
+    "message": "VIBRĀCIJA==IZSLĒGTA"
+  },
+  "HT_Text_Menu_StartDemo": {
+    "message": "SPĒLĒT=DEMO"
+  },
+  "HT_Text_Menu_NewGame": {
+    "message": "JAUNA=SPĒLE"
+  },
+  "HT_Text_Menu_Load": {
+    "message": "IELĀDĒT=SPĒLI"
+  },
+  "HT_Text_Menu_Save": {
+    "message": "SAGLABĀT=SPĒLI"
+  },
+  "HT_Text_Menu_Options": {
+    "message": "OPCIJAS"
+  },
+  "HT_Text_Menu_EndGame": {
+    "message": "BEIGT=SPĒLI"
+  },
+  "HT_Text_Menu_Screen": {
+    "message": "EKRĀNA=IESTATĪJUMI"
+  },
+  "HT_Text_Menu_Pad": {
+    "message": "VADĪBAS PULTS=IESTATĪJUMI"
+  },
+  "HT_Text_Menu_Sound": {
+    "message": "SKAŅAS=IESTATĪJUMI"
+  },
+  "HT_Text_Menu_ScreenAdjust": {
+    "message": "PIELĀGOT=EKRĀNU"
+  },
+  "HT_Text_Menu_WidescreenON": {
+    "message": "PLATEKRĀNS==IESLĒGTS"
+  },
+  "HT_Text_Menu_WidescreenOFF": {
+    "message": "PLATEKRĀNS==IZSLĒGTS"
+  },
+  "HT_Text_Menu_Volume": {
+    "message": "SKAŅA"
+  },
+  "HT_Text_Menu_SoundFX": {
+    "message": "SKAŅAS=EFEKTI"
+  },
+  "HT_Text_Menu_Music": {
+    "message": "MŪZIKA"
+  },
+  "HT_Text_Menu_SurroundON": {
+    "message": "SORROUND"
+  },
+  "HT_Text_Menu_SurroundOFF": {
+    "message": "STEREO"
+  },
+  "HT_Text_Menu_Mono": {
+    "message": "MONO"
+  },
+  "HT_Text_Menu_Videos": {
+    "message": "VIDEOKLIPI"
+  },
+  "HT_Text_Menu_QuitLevel": {
+    "message": "BEIGT=LĪMENI"
+  },
+  "HT_Text_Menu_NTSC": {
+    "message": "RĀMJI=SEKUNDĒ==60"
+  },
+  "HT_Text_Menu_PAL": {
+    "message": "RĀMJI=SEKUNDĒ==50"
+  },
+  "HT_Text_Menu_QuitQuestion": {
+    "message": "Beigt spēli?"
+  },
+  "HT_Text_Menu_Paused": {
+    "message": "PAUZE"
+  },
+  "HT_Text_Menu_QuitLevQuestion": {
+    "message": "Beigt līmeni?"
+  },
+  "HT_Text_Menu_StartGame": {
+    "message": "Sākt Spēli"
+  },
+  "HT_Text_Menu_SaveOver": {
+    "message": "Saglabāt pāri šai spēlei"
+  },
+  "HT_Text_Menu_UseSlot": {
+    "message": "Izmantot šo ligzdu"
+  },
+  "HT_Text_Menu_LoadGame": {
+    "message": "Ielādēt šo spēli"
+  },
+  "HT_Text_Menu_EmptySlot": {
+    "message": "[ tukšs ]"
+  },
+  "HT_Text_Menu_CorruptSlot": {
+    "message": "[ koruptēts ]"
+  },
+  "HT_Text_Menu_Scarabs": {
+    "message": " Skarabejas"
+  },
+  "HT_Text_Menu_InvertON": {
+    "message": "APGRIEZTĀ=KAMERA==IESLĒGTA"
+  },
+  "HT_Text_Menu_InvertOFF": {
+    "message": "APGRIEZTĀ=KAMERA==IZSLĒGTA"
+  },
+  "HT_Text_Menu_SwapXYON": {
+    "message": "NOMAINĪT=KAMERU=X==IESLĒGTS"
+  },
+  "HT_Text_Menu_SwapXYOFF": {
+    "message": "NOMAINĪT=KAMERU=X==IZSLĒGTS"
+  },
+  "HT_Text_Menu_Cancel": {
+    "message": "ATCELT"
+  },
+  "HT_Text_Menu_Reset": {
+    "message": "RESTARTĒT"
+  },
+  "HT_Text_Credits1": {
+    "message": "\\n\\nTHQ Nordic GmbH\n\\n\\n\n\\nProgramētājs un PC Pārveidotājs:\n\\nIsmael Ferreras Morezuelas (Swyter)\n\\n\n\\nExecutive Producer:\n\\nReinhard Pollice\n\\n \n\\nLocalization Manager:\n\\nGennaro Giani\n\\n \n\\nPR & Marketing Director:   \n\\nPhilipp Brock\n\\n\n\\nPR & Marketing:\n\\nFlorian Emmerich\n\\nStephanie Harman\n\\nLina Berehi\n\\n\n\\nPublishing Director:\n\\nJan Binsmaier\n\\n\n\\nPublishing Project Management:\n\\nBarbara Kugler\n\\n\n\\nSocial Media Manager: \n\\nManuel Karl\n\\n\n\\nLead Graphic Artist:\n\\nErnst Satzinger\n\\n\n\\nGraphic Asset Assistant: \n\\nTobias Grimus\n\\nPeter Hambsch\n\\nJanet Weiss\n\\n \n\\nAge Rating Coordinator:\n\\nThomas Reisinger\n\\n\n\\nWeb Developer:\n\\nNina Trabe\n\\n\n\\nSales Director:\n\\nGeorg Klotzberg\n\\n \n\\nSales:\n\\nReinhold Schor\n\\nNik Blower\n\\nIan Warley\n\\nJeremy Soulet\n\\n \n\\nDigital Distribution:\n\\nThomas Reisinger\n\\nTim Grainer\n\\n \n\\nManufacturing:\n\\nAnton Seicarescu\n\\n \n\\nAccounting & Office Management:\n\\nMarion Mayer\n\\nAnton Seicarescu\n\\n \n\\nBiznesa un Produkta izaugsmes direktors: \n\\nReinhard Pollice\n\\n \n\\nTHQ Nordic Management:\n\\nKlemens Kreuzer\n\\nLars Wingefors\n\\n  \n\\nTHQ Nordic Inc.\n\\nAdrienne Lauer\n\\nEric Wuestmann\n\\nKlemens Kreuzer\n\\n\n\\n\\n\\nIzveidoja un izstrādāja\\nEurocom Entertainment Software\n\\n\\n\\nIZSTRĀDĀŠANA\n\\nVictor Garrido\n\\nPadraig Crowley\n\\n\n\\nSPĒLES PROGRAMĒŠANA\n\\nMartin Hall\n\\nRichard Teather\n\\nChris Jordan\n\\nDaniel Peake\n\\nGraeme Richardson\n\\nGraham Reeves\n\\nLenny Johnson\n\\nMat Sneap\n\\n\n\\nVIDES\n\\nJoaquin Catala Retortillo\n\\nAdrian Mannion\n\\nAlex Huguet Paredes\n\\nAna Amat Marco\n\\nColin Garrat\n\\nDavid Munoz Velazquez\n\\nLuis Gomez Guzman\n\\nStefan Scheffers\n\\nWilli Hammes\n\\n\n\\nCHARACTERS/ASSETS\n\\nJulian Romero \n\\nAbraham Meneu Oset\n\\nAmanda Barlow\n\\nBarry Lawless\n\\nJuan Solis\n\\nLars Verhoeff\n\\nPaul Harrison\n\\n\n\\nLEVEL DESIGN\n\\nMartin Kilcoyne\n\\nAndy Collins\n\\nDarren Weekes\n\\nJohn Barker\n\\nKarl Gillott\n\\nPhil Bennett\n\\nStuart Bee\n\\n\n\\nANIMĀCIJA\n\\nJose Luis Garcia Camara\n\\nAlberto Corral Arencibia\n\\nBobby Stockport\n\\nCarlos Fernandez Puertolas\n\\nDaniel Meitin Roca\n\\nEnrique Oliva\n\\nSantiago Colomo Martinez\n\\nSyd Franklin\n\\n\n\\nDZINĒJA PROGRAMMĒŠANA\n\\nChris Jackson\n\\nIan Denny\n\\nAndy Hutchings\n\\nAshley Finney\n\\nDave Looker\n\\nJL\n\\nJulian Vaughan\n\\nKev Stainwright\n\\nShane Clark\n\\nSteven Walker\n\\nTim Rogers\n\\n\n\\nTOOLS\n\\nAndy Mitchell\n\\nBob Smith\n\\nDiego Garcia Huerta\n\\nJim Makin\n\\nKev Marks\n\\nKevin Thacker\n\\n\n\\nAUDIO\n\\nSteve Duckworth\n\\nDuncan Bradshaw\n\\n\n\\nQA\n\\nMichael Robinson\n\\nLouise Sargison\n\\nAndrew Dilks\n\\nAndrew Green\n\\nChristopher Pilkington\n\\nDave Smith\n\\nDominic Hallam\n\\nDominic Hills\n\\nJamie Small\n\\nMatthew Gilchrist\n\\nOliver Madden\n\\nPeter Barrett\n\\nRichard Charles\n\\n\n\\n\n\\nĪPAŠS PALDIES\n\\nAndrew Dilks\n\\nBrian Riordan\n\\nChris Allen\n\\nChris Boyle\n\\nClive Stevenson\n\\nDuncan Hewitt\n\\nHelen Jones\n\\nHenk Nieborg\n\\nHugh Binns\n\\nJoe Lewis\n\\nJohn Parr\n\\nJosh Andrews\n\\nLasse Louhento\n\\nLudovic Le Camus\n\\nMark Potente\n\\nMartin McBain\n\\nMatt Dixon\n\\nMatt Farrell\n\\nMichael Hirst\n\\nPhil Dobson\n\\nPhil Hackney\n\\nRichard Foster\n\\nRob Berry\n\\nSteve Gratton\n\\nTom Noone\n\\nUlf Dahl"
+  },
+  "HT_Text_Credits2": {
+    "message": "\\n\\n\\nTHQ \n\\n  \n\\nRADOŠAIS MENEDŽERIS \n\\nRob Loftus \n\\n  \n\\nPROJEKTA MENEDŽERIS \n\\nMark Morris \n\\n  \n\\nDIREKTORS, RADOŠĀ VADĪBA \n\\nJames Boone \n\\n  \n\\nTEHNISKAIS MENEDŽERIS\n\\nPete Andrew \n\\n  \n\\nVICE PRESIDENTS, \n\\nPRODUKTA ATTĪSTĪBA \n\\nPhilip Holt \n\\n  \n\\nADDITIONAL CREATIVE MANAGEMENT    \n\\nAndy Abramovici  \n\\n  \n\\nDIREKTORS, KVALITĀTES NODROŠINĀŠANA \n\\nMonica Vallejo \n\\n\n\\nTESTĒŠANAS VADĪTĀJS \n\\nMike Korpi \n\\n  \n\\nPAPILDUS TESTA VADĪTĀJI \n\\nShaun Wharton \n\\nRyan Winterholler \n\\nJeremy Kilichowski \n\\nChristopher Gorski \n\\nErik Hernandez \n\\n  \n\\nTESTERI \n\\nFox English \n\\nPhilip Frantzis \n\\nTodd Thommes \n\\nRuben Gonzalez \n\\nJake Jarvi \n\\nDerek Hecht \n\\nAlessandro Cerff \n\\nKevin Connors \n\\nMatthew Filer \n\\nDavid Lee \n\\nMatt Rappaport \n\\nBennett Weisman \n\\nOnawahya Jones \n\\nSteve Doria \n\\nEric MacIntosh \n\\nDale Hayes Jr. \n\\nMatt Findley \n\\nJeremy Moseley \n\\nMarcel Farrokhi \n\\nMarcel Wilson \n\\nChuck Torres \n\\nAndy Chen \n\\nJonathan McMullen \n\\nAndrew Garrett \n\\n  \n\\nPIRMĀS PARTIJAS UZRAUDZĪTĀJI\n\\nIan Sedensky \n\\nKeith Michaelis\n\\nEvan Icenbice\n\\n\n\\nPIRMĀS PARTIJAS SPECIĀLISTI \n\\nMatt Ames\n\\nMark Aviles\n\\nLori Arrowood \n\\nRobin Scofield \n\\nJason Tani \n\\nMarc Durrant \n\\nMark Avilés \n\\nAntonio Herrera \n\\nAdam Affrunti \n\\nScott Ritchie \n\\nJoel Dagang \n\\n \n\\nQA TEHNISKIE UZRAUDZĪTĀJI \n\\nMario Waibel \n\\n\n\\nQA TEHNIĶI \n\\nJames Krenz \n\\nBrian McElroy \n\\n\n\\nIEMĀCĪŠANĀS LABORATORIJAS TEHNIĶI\n\\nCharles Batarse \n\\nGlen Peters \n\\nShawn Murakami \n\\n\n\\nDATUBĀZU APLIKĀCIJU INŽENIERIS \n\\nJason Roberts "
+  },
+  "HT_Text_Credits3": {
+    "message": "\\n\\n\\nTHQ MARKETINGS \n\\n\\nDIREKTORS, VISPASAULĒJA ZĪMOLA \n\\nVADĪBA \n\\nAlison Quiron \n\\n  \n\\nPRODUKTA MARKETINGA \n\\nMENEDŽERE \n\\nMonica Guerra Robinson \n\\nDamian Garcia \n\\n  \n\\nVECĀKAIS VICE PREZIDENTS, \n\\nVISPASAULĒJS MARKETINGS \n\\nPeter Dille \n\\n  \n\\nDIREKTORS, RADOŠU \n\\nPAKALPOJUMU \n\\nHoward Liebeskind \n\\n  \n\\nVECĀKAIS MENEDŽERIS, \n\\nRADOŠIE SERVISI \n\\nKathy Helgason \n\\n  \n\\nRADOŠO SERVISU MENEDŽERIS \n\\nKirk Somdal \n\\n  \n\\nINSTRUKCIJAS ROKAS GRĀMATAS TEKSTS \n\\nRusel DeMaria \n\\n  \n\\nDIREKTORS, BIZNESA \n\\nATTĪSTĪBA \n\\nDan Kelly \n\\n  \n\\nMENEDŽERIS, PRODUKCIJAS \n\\nRESURSI \n\\nJenae Pash \n\\n  \n\\nPRODUKCIJAS RESURSI \n\\nKOORDINATORE \n\\nHeather Leonard \n\\n  \n\\nZĪMOLA VADĪTĀJS \n\\nMichael Pattison\n\\n\n\\nZĪMOLA MENEDŽERIS \n\\nMickey Torode \n\\n  \n\\nLOKALIZĀCIJAS DIREKTORE \n\\nSusanne Dieck \n\\n  \n\\nLOKALIZĀCIJAS INŽENIERIS \n\\nBernd Kurtz \n\\n  \n\\nIESNIEGŠANAS KOORDINATORS \n\\nFlorence Kum \n\\n  \n\\nLIELS PALDIES \n\\nBrian Farrell \n\\nJack Sorensen \n\\nTerri Schiek \n\\nGermaine Gioia \n\\nLeslie Brown \n\\nBrandy A. Carrillo \n\\nTiffany Ternan \n\\nRobert Riley \n\\nJack Suzuki \n\\nGordon Madison \n\\nRicardo Fischer \n\\nChristian Kenney \n\\nPaul Rivas \n\\nStacey Mendoza \n\\nJulian Brummitt \n\\n  \n\\n--\n\\n  \n\\nRestaurētā Sfinksa versija nebūtu bijusi iespējama \n\\nbez sekojošām publiskajām bibliotēkām:  \n\\n  \n\\n  \n\\nSDL 2.0 - By Sam Lantinga, Ryan C. Gordon un ieguldītāji \n\\nhttps://www.libsdl.org (zlib license) \n\\n  \n\\n  \n\\nOpenAL Soft - No Chris Robinson un ieguldītājiem \n\\nhttp://kcat.strangesoft.net/openal.html (LGPL 2 license) \n\\n  \n\\n  \n\\nxxHash - No Yann Collet un ieguldītājiem \n\\nhttps://github.com/Cyan4973/xxHash (BSD 2-Clause license) \n\\n  \n\\n  \n\\nstb_image - No Sean Barrett un ieguldītājiem \n\\nhttps://github.com/nothings/stb (Public domain)"
+  },
+  "HT_Text_FE_Menu_ToggleReverb": {
+    "message": "ATSKAŅA"
+  },
+  "HT_Text_FE_Menu_FieldOfView": {
+    "message": "REDZES LAUKS"
+  },
+  "HT_Text_FE_Menu_Resolution": {
+    "message": "IZSĶIRTSPĒJA"
+  },
+  "HT_Text_FE_Menu_ChooseScreen": {
+    "message": "IZVĒLES EKRĀNS"
+  },
+  "HT_Text_FE_Menu_ToggleParticles": {
+    "message": "DAĻIŅAS"
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Limited": {
+    "message": "IEROBEŽOTS"
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Soft": {
+    "message": "MAIGS"
+  },
+  "HT_Text_FE_Menu_Anisotropy": {
+    "message": "ANISOTROPISKĀ FILTRĒŠANA"
+  },
+  "HT_Text_FE_Menu_MultiSampling": {
+    "message": "MULTISAMPLING"
+  },
+  "HT_Text_FE_Menu_Vsync": {
+    "message": "VERTIKĀLĀ SINHRONIZĀCIJA"
+  },
+  "HT_Text_FE_Menu_VsyncAdaptive": {
+    "message": "ADAPTĪVS"
+  },
+  "HT_Text_FE_Menu_RestartGame": {
+    "message": "RESTARTĒ SPĒLI"
+  },
+  "HT_Text_FE_ResolutionRequiresRestart": {
+    "message": "Mainot izšķirtspēju prasa restartēt spēli."
+  },
+  "HT_Text_FE_ResolutionBorderless": {
+    "message": "BORDERLESS"
+  },
+  "HT_Text_FE_ResolutionWindowed": {
+    "message": "WINDOWED"
+  },
+  "HT_Text_FE_ResolutionFovDegrees": {
+    "message": "grād."
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu ieguvi <FC 0,128,0>Šautriņu Nūju<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Kad maģiskie šautriņi tiek izšauti no šī spēcīgā rīka,<N>tie atjaunojas, nodrošinot tev bezgalīgi lielu daudzumu šautriņu.<P><ES HT_Text_ES_S_HelpText><CNTR>Šautriņi var tikt izmantoti lai trāptītu pa attāliem objektiem, bet tie ir<N>tikai tik spēcīgi, lai ievainotu sprāgstošus monstrus.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Izmanto <SB HT_PadAction_HUD_ShowRotator> lai piešķirt <FC 0,128,0>Šautriņu Nūju<END FC> uz kādu pogu.<P><ES HT_Text_ES_S_HelpText><CNTR>Kad <FC 0,128,0>Šautriņu Nūja<END FC> ir piešķirta, nospied<N>pogu lai ieiet pirmās personas režīmā.<P><ES HT_Text_ES_S_HelpText><CNTR>Nospied <SB HT_Action_FireDart> lai šautu.<P><ES HT_Text_ES_S_HelpText><CNTR>Turi <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> vai <SB HT_PadAction_GYR_Right> nospiestu kamēr kustinot kreiso Joy-konu lai nomērķēt lietojot žiroskopiskās kustības vadību.<P><ES HT_Text_ES_S_HelpText><CNTR>Nospied <SB HT_Action_Cancel> lai iziet<N>no <FC 0,128,0>Šautriņu Nūjas<END FC> režīma.<ES HT_Text_ES_E_HelpText><E>"
+  }
+}

@@ -231,25 +231,25 @@
     "message": "Wow! That was lucky. Oh no... where is this thing going? Sphinx?! Sphinx!!<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation01": {
-    "message": "<EFF><EPO>O momento que eu temia chegou. A escuridão da profecia em breve cairá sobre nós... e devemos estar preparados.<P>Eu escolhi ambos vocês pois já demonstraram que são dignos de serem meus aprendizes.<E>"
+    "message": "<EFF><EPO>The time I feared has arrived; the darkness prophesied will soon descend upon us... and we need to be prepared.<P>I have chosen you both because you have already proven you are my most worthy apprentices.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation01a": {
-    "message": "A missão da qual estão prestes a embarcarem será um teste de vossa força e habilidade.<E>"
+    "message": "The mission that you are about to embark on will be a test of your strength and abilities.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation02": {
-    "message": "Estejam preparados, pois o caminho à frente será altamente perigoso. Não posso lhes garantir segurança, nem que retornarão com vida. <E>"
+    "message": "Prepare yourselves, for the path ahead will be highly dangerous. I cannot guarantee safe passage, or that you will return alive. <E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation02a": {
-    "message": "Mas vocês devem decidir ir por vontade própria. Agora é o momento de desistir, se assim desejarem.<E>"
+    "message": "But you must go of your own choosing. Now is the time to stand down if you wish.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation03": {
-    "message": "Entendo. Como os dois aceitaram a tarefa, os transportarei até <FC 128,64,0>Uruk<END FC>, a terra da escuridão.<E>"
+    "message": "I see. Since you have both accepted the task, I will transport us to <FC 128,64,0>Uruk<END FC>, the land of darkness.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation04": {
-    "message": "Lá vocês deverão encontrar a <FC 0,128,0>Espada de Osiris<END FC>, uma antiga e poderosa espada protegida pelos demônios de <FC 128,64,0>Uruk<END FC>.<E>"
+    "message": "There you will need to find the <FC 0,128,0>Blade of Osiris<END FC>, an old and powerful sword protected by the demons of <FC 128,64,0>Uruk<END FC>.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation05": {
-    "message": "Preparem-se para a jornada...<W 90>"
+    "message": "Prepare yourselves for the journey...<W 90>"
   },
   "HT_Text_Urk_Intro_Geyser_Off": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>This geyser is inactive. It looks like it requires<N>additional lava flow in order to blow.<E>"
@@ -279,7 +279,7 @@
     "message": "Very well then, enter the temple. If you can escape, bring me what you find.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fReject": {
-    "message": "Como imaginei, é um covarde!<E>"
+    "message": "As I suspected, you're a coward!<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestPrompt": {
     "message": "Have you decided to take on the test?<N>  <B 1> Yes<N>  <B 2> No<E>"
@@ -291,7 +291,7 @@
     "message": "As I suspected, you are a coward!<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestPromptAgain": {
-    "message": "É tarde demais para mudar de ideia agora. O templo lhe aguarda.<E>"
+    "message": "It is too late to change your mind now. The temple awaits.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestAlmostComplete": {
     "message": "If you didn't find anything you have failed the test.<E>"
@@ -351,22 +351,22 @@
     "message": "But I will see to it that the prophecy ends with your death and Osiris being destroyed by me...<E>"
   },
   "HT_Text_Urk_Set_Presenation6a": {
-    "message": "PARA SEMPRE! <W 60>"
+    "message": "FOREVER!!!!! <W 60>"
   },
   "HT_Text_Urk_Set_Presenation7": {
-    "message": "Criatura patética, Osiris não te contou sobre minha verdadeira forma! HAHAHAHA! <E>"
+    "message": "Pathetic creature, Osiris didn't tell you about my true form! Hahahahaha!!!!! <E>"
   },
   "HT_Text_Urk_Set_Presenation8": {
-    "message": "Chegou a hora de você morrer! <W 60>"
+    "message": "Now the time has come for you to die. <W 60>"
   },
   "HT_Text_Urk_Set_BossDead1": {
     "message": "Excellent, Sphinx! You saved the Mummy from Set’s hands. Set has been severely weakened, but it is not his destiny to be destroyed.<E>"
   },
   "HT_Text_Urk_Set_BossDead2": {
-    "message": "O mundo não pode existir sem o mal, assim como a luz do dia precisa ser equilibrada com a escuridão da noite. <E>"
+    "message": "The world cannot exist without evil, just as the light of day needs to be balanced with the darkness of night. <E>"
   },
   "HT_Text_Urk_Set_BossDead3": {
-    "message": "Com Set enfraquecido, ele não será capaz de enfrentar seu verdadeiro destino: se unir com seu irmão Osiris. Isso irá restaurar o equilíbrio ao reino dos Deuses. <E>"
+    "message": "With Set weakened he will not be able to fight his true destiny, to unite with his brother Osiris. This will restore balance to the Godly kingdom. <E>"
   },
   "HT_Text_Urk_Set_BossDead3a": {
     "message": "Behold! The mighty Osiris has arrived! <E>"

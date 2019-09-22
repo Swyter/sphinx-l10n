@@ -245,6 +245,9 @@
   "HT_Text_ScreenAdjustText_XB": {
     "message": "Ajuste a tela com os botões direcionais."
   },
+  "HT_Text_Memcard_Test": {
+    "message": "Esta é uma tela de teste de ajuda com memory card.\\nCom novas linhas.\\nE exclamações!"
+  },
   "HT_Text_Memcard_SaveConfirm": {
     "message": "Tem certeza que deseja salvar neste\\nespaço?"
   },
@@ -370,6 +373,12 @@
   },
   "HT_Text_Menu_NoPad": {
     "message": "O controle na porta de\\ncontrole 1 foi removido.\\nReinsira o controle para\\ncontinuar o jogo."
+  },
+  "HT_Text_Menu_Uruk1": {
+    "message": "SPHINX=@=COLINAS=DE=URUK"
+  },
+  "HT_Text_Menu_Uruk2": {
+    "message": "MÚMIA=@=CASTELO=DE=URUK"
   },
   "HT_Text_Menu_Making": {
     "message": "O=MAKING=OF=:=:=:"
@@ -536,6 +545,9 @@
   "HT_Text_FE_Menu_Anisotropy": {
     "message": "FILTRAGEM ANISOTRÓPICA"
   },
+  "HT_Text_FE_Menu_MultiSampling": {
+    "message": "MULTISAMPLING"
+  },
   "HT_Text_FE_Menu_Vsync": {
     "message": "SINC. VERTICAL"
   },
@@ -556,5 +568,8 @@
   },
   "HT_Text_FE_ResolutionFovDegrees": {
     "message": "graus"
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Zarabatana<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Os dardos mágicos atirados por essa poderosa ferramenta<N>se regeneram, dando a você um estoque infinito.<P><ES HT_Text_ES_S_HelpText><CNTR>Os dardos podem ser usados para atingir alvos remotos mas eles<N>são poderosos o suficiente apenas para causar dano em monstros explosivos.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> para atribuir a <FC 0,128,0>Zarabatana<END FC> a um botão.<P><ES HT_Text_ES_S_HelpText><CNTR>Uma vez que a <FC 0,128,0>Zarabatana<END FC> for atribuída, aperte<N>o botão para entrar no modo primeira pessoa.<P><ES HT_Text_ES_S_HelpText><CNTR>Aperte <SB HT_Action_FireDart> para atirar.<P><ES HT_Text_ES_S_HelpText><CNTR>Mantenha <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> ou <SB HT_PadAction_GYR_Right> pressionado enquanto move o Joy-Con esquerdo para mirar usando os controles de movimento giroscópicos.<P><ES HT_Text_ES_S_HelpText><CNTR>Aperte <SB HT_Action_Cancel> para sair<N> do modo <FC 0,128,0>Zarabatana<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   }
 }

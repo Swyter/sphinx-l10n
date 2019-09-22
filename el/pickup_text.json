@@ -1,0 +1,14 @@
+{
+  "HT_Text_Pickup_Misc": {
+    "message": "<END TT>Misc item pickup text<DP><DHP><W 60>"
+  },
+  "HT_Text_MonsterCaptured": {
+    "message": "<ES HT_Text_ES_S_HelpText><END TT><DP><DHP><CNTR><DC 1 0 1> You have captured a monster!<W 60>"
+  },
+  "HT_Text_Pickup_Coconut": {
+    "message": "<ES HT_Text_ES_S_HelpText><DP><CNTR>You got a <FC 0, 128, 0>Coconut<END FC>!<W 100>"
+  },
+  "HT_Text_Pickup_Pickupable": {
+    "message": "<ES HT_Text_ES_S_HelpText><DP><CNTR>To pick up objects, press <SB HT_Action_PickupObject><W 100>"
+  }
+}

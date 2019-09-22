@@ -1,6 +1,6 @@
 {
   "HT_Text_DanTest": {
-    "message": "Texto de teste do Dan.<E>"
+    "message": "Dan's test text.<E>"
   },
   "HT_Text_MG_WallDodge_Start": {
     "message": "Welcome to the <FC 128,64,0>Corridor of Champions<END FC>. It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
@@ -708,46 +708,46 @@
     "message": "Light all of these torches around me and I will give you this ancient artifact. Be careful though; it's just as easy to extinguish them as it is to light them.<E>"
   },
   "HT_Text_Mum_Chapter1_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou as <FC 0,128,0>Asas de Ibis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Wings of Ibis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter2_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou a <FC 0,128,0>Estátua de Atun<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Atun Statue<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter3_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou a <FC 0,128,0>Sacola de Remédios<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Medicine Bag<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter4_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou as <FC 0,128,0>Mãos de Amun<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Hands of Amun<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter5_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou o <FC 0,128,0>Convite Real<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Royal Invitation<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter1_FoundJewel1": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou a primeira <FC 0,128,0>Joia Roubada de Abydos<END FC>!<ES HT_Text_ES_E_HelpText><W 90>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the first <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><W 90>"
   },
   "HT_Text_Mum_Chapter2_FoundJewel2": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou a segunda <FC 0,128,0>Joia Roubada de Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the second <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter3_FoundJewel3": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou a terceira <FC 0,128,0>Joia Roubada de Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the third <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter4_FoundJewel4": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou a quarta <FC 0,128,0>Joia Roubada de Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E> "
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the fourth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter5_FoundJewel5": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou a quinta <FC 0,128,0>Joia Roubada de Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the fifth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter6_FoundJewel6": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou a sexta <FC 0,128,0>Joia Roubada de Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the sixth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_GotStairsKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Chave das Escadas<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Use-a para abrir as escadas para o terraço da área do poço.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Stairs Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Use it to open the stairs to the well area balcony.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotZipHandle": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Zip Line Handle<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>You can now use the zip lines in <FC 128,64,0>Abydos<END FC><N>to get around the city.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotParasol": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Sombrinha<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ela é ótima para os dias quentes de verão.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Parasol<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It's great for those hot sunny days.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Cast_Urukite1": {
     "message": "Go away, evil creature!!! Set can kill me but he's not going to steal my soul! <E>"

@@ -1,63 +1,63 @@
 {
   "HT_Text_Context_Test": {
-    "message": "TESTAR CONTEXTO"
+    "message": "TEST CONTEXT"
   },
   "HT_Text_Context_UseItem": {
-    "message": "USAR ITEM"
+    "message": "USE ITEM"
   },
   "HT_Text_Context_Use": {
-    "message": "USAR"
+    "message": "USE"
   },
   "HT_Text_Context_PushObject": {
-    "message": "EMPURRAR"
+    "message": "PUSH"
   },
   "HT_Text_Context_PullObject": {
-    "message": "PUXAR"
+    "message": "PULL"
   },
   "HT_Text_Context_Lever": {
-    "message": "USAR ALAVANCA"
+    "message": "USE LEVER"
   },
   "HT_Text_Context_OpenDoor": {
-    "message": "ABRIR"
+    "message": "OPEN"
   },
   "HT_Text_Context_PickupObject": {
-    "message": "PEGAR"
+    "message": "PICK UP"
   },
   "HT_Text_Context_SavePoint": {
-    "message": "SALVAR"
+    "message": "SAVE"
   },
   "HT_Text_Context_NPC": {
-    "message": "FALAR"
+    "message": "TALK"
   },
   "HT_Text_Context_Grab": {
-    "message": "AGARRAR"
+    "message": "GRAB"
   },
   "HT_Text_Context_Possession": {
-    "message": "POSSUIR"
+    "message": "POSSES"
   },
   "HT_Text_Context_Unpossession": {
-    "message": "NÃO POSSUIR"
+    "message": "UNPOSSES"
   },
   "HT_Text_Context_Release": {
-    "message": "SOLTAR"
+    "message": "RELEASE"
   },
   "HT_Text_Context_Clone": {
-    "message": "CLONAR"
+    "message": "CLONE"
   },
   "HT_Text_Context_Invisibility": {
-    "message": "INVISÍVEL"
+    "message": "INVIS"
   },
   "HT_Text_Context_Hide": {
-    "message": "ESCONDER"
+    "message": "HIDE"
   },
   "HT_Text_Context_FreezeTime": {
-    "message": "CONGELAR TEMPO"
+    "message": "FREEZE TIME"
   },
   "HT_Text_Context_KaTile": {
-    "message": "ATIRAR KA"
+    "message": "SHOOT KA"
   },
   "HT_Text_Context_Shop": {
-    "message": "COMPRAR"
+    "message": "BUY"
   },
   "HT_Text_Context_Blank": {
     "message": " "
@@ -66,46 +66,46 @@
     "message": "LINEAR"
   },
   "HT_Text_Context_Recall": {
-    "message": "RETIRAR"
+    "message": "RECALL"
   },
   "HT_Text_Context_Directed": {
-    "message": "DIRIGIDO"
+    "message": "DIRECTED"
   },
   "HT_Text_Context_Cancel": {
-    "message": "CANCELAR"
+    "message": "CANCEL"
   },
   "HT_Text_Context_Jump": {
-    "message": "PULAR"
+    "message": "JUMP"
   },
   "HT_Text_Context_Attack": {
-    "message": "ATACAR"
+    "message": "ATTACK"
   },
   "HT_Text_Context_Detonate": {
-    "message": "DETONAR"
+    "message": "DETONATE"
   },
   "HT_Text_Context_Beetle": {
-    "message": "BESOURO"
+    "message": "BEETLE"
   },
   "HT_Text_Context_Throw": {
-    "message": "ATIRAR"
+    "message": "THROW"
   },
   "HT_Text_Context_Drop": {
-    "message": "SOLTAR"
+    "message": "DROP"
   },
   "HT_Text_Context_FireDart": {
-    "message": "FOGO"
+    "message": "FIRE"
   },
   "HT_Text_Context_FirstPerson": {
-    "message": "1ª PESSOA"
+    "message": "1st PERSON"
   },
   "HT_Text_Context_Blowpipe": {
-    "message": "ZARABATANA"
+    "message": "BLOW PIPE"
   },
   "HT_Text_Context_ThirdPerson": {
-    "message": "3ª PESSOA"
+    "message": "3rd PERSON"
   },
   "HT_Text_Context_Program": {
-    "message": "PROGRAMA"
+    "message": "PROGRAM"
   },
   "HT_Text_Context_SpittingToadV": {
     "message": "VERTICAL"
@@ -114,66 +114,66 @@
     "message": "HORIZONTAL"
   },
   "HT_Text_Context_Flap": {
-    "message": "BATER"
+    "message": "FLAP"
   },
   "HT_Text_Context_Enter": {
-    "message": "INTRODUZIR"
+    "message": "ENTER"
   },
   "HT_Text_Context_Grow": {
-    "message": "CRESCER"
+    "message": "GROW"
   },
   "HT_Text_Context_Exit": {
-    "message": "SAIR"
+    "message": "EXIT"
   },
   "HT_Text_Context_SwapMummy": {
-    "message": "TROCAR"
+    "message": "SWAP"
   },
   "HT_Text_Context_MummyCrawl": {
-    "message": "RASTEJAR"
+    "message": "CRAWL"
   },
   "HT_Text_Context_MummyStandUp": {
-    "message": "EM PÉ"
+    "message": "STAND"
   },
   "HT_Text_Context_Dive": {
-    "message": "MERGULHAR"
+    "message": "DIVE"
   },
   "HT_Text_Context_Swim": {
-    "message": "NADAR"
+    "message": "SWIM"
   },
   "HT_Text_Context_SwimFast": {
-    "message": "RÁPIDO"
+    "message": "FAST"
   },
   "HT_Text_Context_WallSneakPeek": {
-    "message": "ESPIAR"
+    "message": "PEEK"
   },
   "HT_Text_Context_WallSneak": {
-    "message": "ESGUEIRAR"
+    "message": "SNEAK"
   },
   "HT_Text_Context_Take": {
-    "message": "LEVAR"
+    "message": "TAKE"
   },
   "HT_Text_Context_DJump": {
-    "message": "SALTO MORTAL"
+    "message": "SOMERSAULT"
   },
   "HT_Text_Context_Read": {
-    "message": "LER"
+    "message": "READ"
   },
   "HT_Text_Context_Slam": {
-    "message": "BATER"
+    "message": "SLAM"
   },
   "HT_Text_Context_Wear": {
-    "message": "VESTIR"
+    "message": "WEAR"
   },
   "HT_Text_Context_UnHide": {
-    "message": "APARECER"
+    "message": "UNHIDE"
   },
   "HT_Text_Context_Choose": {
-    "message": "ESCOLHER"
+    "message": "CHOOSE"
   },
   "HT_Text_Context_Select": {
-    "message": "SELECIONAR"
+    "message": "SELECT"
   },
   "HT_Text_Context_Shake": {
-    "message": "AGITAR"
+    "message": "SHAKE"
   }
 }
