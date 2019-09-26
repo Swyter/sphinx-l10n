@@ -1,44 +1,44 @@
 {
   "HT_Text_Aka_dng6_Iskha_Transform1a": {
-    "message": "I must admire your persistence in jeopardizing our plans to steal the crown.<E>"
+    "message": "Θαυμάζω την επιμονή σου να θέσεις σε κίνδυνο τα σχέδια μας να κλέψουμε το στέμμα.<E>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1b": {
-    "message": "Yes, we electrified the water. Yes, we stole the museum's jewels. Yes, we poisoned that childish Mayor.<E>"
+    "message": "Ναι, εμείς ηλεκτρίσαμε το νερό. Ναι, εμείς κλέψαμε τα κοσμήματα του μουσείου. Ναι, εμείς δηλητηριάσαμε τον ανόητο δήμαρχο.<E>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1c": {
-    "message": "But everything has indeed been worthwhile. Behold this magnificent object that our lord of darkness is so intent on retrieving!<E>"
+    "message": "Αλλά όλα όσα κάναμε μέχρι στιγμής άξιζαν τον κόπο. Ιδού αυτό το υπέροχο αντικείμενο που ο αφέντης του σκότους μας είναι τόσο αποφασισμένος να ανακτήσει!<E>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1d": {
-    "message": "<EFF><EPO>Anubis and his foolish minions such as yourself, are insects in comparison to the glory of the great god Set!<P>He deceived the people of <FC 128,64,0>Luxor<END FC> with his cunning, and soon the <FC 128,64,0>Castle of Uruk<END FC> will cast its shadow over all lands!<E>"
+    "message": "<EFF><EPO>Ο Άνουβις και τα ανόητα τσιράκια του όπως εσύ, είστε έντομα σε σύγκριση με τη δόξα του πανίσχυρου θεού Σετ!<P>Εξαπάτησε το λαό του <FC 128,64,0>Λούξορ<END FC> με την πονηριά του, και σύντομα το <FC 128,64,0>Κάστρο της Ουρούκ<END FC> θα επισκιάσει όλο τον κόσμο!<E>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1e": {
-    "message": "Look at his army, if you can call it such! Hahaha! This is all he could muster to retrieve the artifact?! <E>"
+    "message": "Δες το στρατό του, αν μπορείς να τον αποκαλέσεις έτσι! Χαχαχα! Μόνο αυτό κατάφερε να μαζέψει για να ανακτήσει το στέμμα;<E>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1e1": {
-    "message": "Pathetic!!!! Hahaha!!!<W 90>"
+    "message": "Αξιολύπητο!!!! Χαχαχα!!!<W 90>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1f": {
-    "message": "Insignificant little creature! You cannot stop the apocalypse that runs parallel to Set's destiny! <E>"
+    "message": "Ασήμαντο μικροσκοπικό πλάσμα! Δεν μπορείς να σταματήσεις την αποκάλυψη που θα προκαλέσει το πεπρωμένο του Σετ!<E>"
   },
   "HT_Text_Aka_dng6_Iskha_Transform1g": {
-    "message": "You will not live to understand the power of this crown... Prepare to die!<E>"
+    "message": "Δε θα ζήσεις για να καταλάβεις τη δύναμη του στέμματος... Ετοιμάσου να πεθάνεις!<E>"
   },
   "HT_Text_Aka_dng6_Take_Crown_Osiris_presentation1a": {
-    "message": "You do not comprehend the true power of that crown.<E>"
+    "message": "Δεν κατανοείς την πραγματική δύναμη του στέμματος.<E>"
   },
   "HT_Text_Aka_dng6_Take_Crown_Osiris_presentation1b": {
-    "message": "You have placed yourself in great peril by retrieving it.<E>"
+    "message": "Έβαλες τον εαυτό σου σε μεγάλο κίνδυνο για να το ανακτήσεις.<E>"
   },
   "HT_Text_Aka_dng6_Take_Crown_Osiris_presentation1c": {
-    "message": "You are either very foolish, or very brave.<E>"
+    "message": "Είσαι είτε πολύ ανόητος είτε πολύ γενναίος.<E>"
   },
   "HT_Text_Aka_dng6_Take_Crown_Osiris_presentation1d": {
-    "message": "But are you the One of the Prophecy? We shall see...<E>"
+    "message": "Αλλά είσαι ο Ένας της Προφητείας; Θα δούμε...<E>"
   },
   "HT_Text_Aka_dng6_Take_Crown_Osiris_presentation1e": {
-    "message": "Take this <FC 0,128,0>Gold Ankh<END FC> as a reward for your achievement.<P><ES HT_Text_ES_S_HelpText><CNTR>This magic artifact has increased your health capacity<N>by <FC 0,128,0>1 Ankh<END FC> and has fully replenished your health!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "Πάρε αυτό το <FC 0,128,0>Χρυσό Ανκχ<END FC> ως ανταμοιβή για το κατόρθωμα σου.<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτό το μαγικό αντικείμενο αύξησε τη ζωή σου<N>κατά <FC 0,128,0>1 Ανκχ<END FC> και γέμισε πλήρως τη ζωή σου!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aka_dng6_Iskha_Die": {
-    "message": "You cannot control the power of Ra!<P>You... are... NOTHING!<W 45>"
+    "message": "Δεν μπορείς να ελέγξεις τη δύναμη του Ρα!<P>Είσαι... ένα... ΤΙΠΟΤΑ!<W 45>"
   }
 }

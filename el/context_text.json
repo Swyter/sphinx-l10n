@@ -1,93 +1,93 @@
 {
   "HT_Text_Context_Test": {
-    "message": "TEST CONTEXT"
+    "message": "ΔΟΚΙΜΑΣΤΙΚΟ ΓΕΝΙΚΟ ΠΛΑΙΣΙΟ"
   },
   "HT_Text_Context_UseItem": {
-    "message": "USE ITEM"
+    "message": "ΧΡΗΣΗ ΑΝΤΙΚΕΙΜΕΝΟΥ"
   },
   "HT_Text_Context_Use": {
-    "message": "USE"
+    "message": "ΧΡΗΣΗ"
   },
   "HT_Text_Context_PushObject": {
-    "message": "PUSH"
+    "message": "ΩΘΗΣΗ"
   },
   "HT_Text_Context_PullObject": {
-    "message": "PULL"
+    "message": "ΕΛΞΗ"
   },
   "HT_Text_Context_Lever": {
-    "message": "USE LEVER"
+    "message": "ΧΡΗΣΗ ΜΟΧΛΟΥ"
   },
   "HT_Text_Context_OpenDoor": {
-    "message": "OPEN"
+    "message": "ΑΝΟΙΓΜΑ"
   },
   "HT_Text_Context_PickupObject": {
-    "message": "PICK UP"
+    "message": "ΑΝΑΣΗΚΩΜΑ"
   },
   "HT_Text_Context_SavePoint": {
-    "message": "SAVE"
+    "message": "ΑΠΟΘΗΚΕΥΣΗ"
   },
   "HT_Text_Context_NPC": {
-    "message": "TALK"
+    "message": "ΟΜΙΛΙΑ"
   },
   "HT_Text_Context_Grab": {
-    "message": "GRAB"
+    "message": "ΛΑΒΗ"
   },
   "HT_Text_Context_Possession": {
-    "message": "POSSES"
+    "message": "ΕΛΕΓΧΟΣ"
   },
   "HT_Text_Context_Unpossession": {
-    "message": "UNPOSSES"
+    "message": "ΕΛΕΥΘΕΡΩΣΗ"
   },
   "HT_Text_Context_Release": {
-    "message": "RELEASE"
+    "message": "ΕΛΕΥΘΕΡΩΣΗ"
   },
   "HT_Text_Context_Clone": {
-    "message": "CLONE"
+    "message": "ΚΛΩΝΟΠΟΙΗΣΗ"
   },
   "HT_Text_Context_Invisibility": {
-    "message": "INVIS"
+    "message": "ΑΟΡΑΤΟΣ"
   },
   "HT_Text_Context_Hide": {
     "message": "HIDE"
   },
   "HT_Text_Context_FreezeTime": {
-    "message": "FREEZE TIME"
+    "message": "ΠΑΓΩΜΑ ΧΡΟΝΟΥ"
   },
   "HT_Text_Context_KaTile": {
-    "message": "SHOOT KA"
+    "message": "ΡΙΨΗ ΒΕΛΟΥΣ ΚΑ"
   },
   "HT_Text_Context_Shop": {
-    "message": "BUY"
+    "message": "ΑΓΟΡΑ"
   },
   "HT_Text_Context_Blank": {
     "message": " "
   },
   "HT_Text_Context_Linear": {
-    "message": "LINEAR"
+    "message": "ΓΡΑΜΜΙΚΟ"
   },
   "HT_Text_Context_Recall": {
-    "message": "RECALL"
+    "message": "ΑΝΑΚΛΗΣΗ"
   },
   "HT_Text_Context_Directed": {
-    "message": "DIRECTED"
+    "message": "ΚΑΤΕΥΘΥΝΟΜΕΝΟ"
   },
   "HT_Text_Context_Cancel": {
-    "message": "CANCEL"
+    "message": "ΑΚΥΡΩΣΗ"
   },
   "HT_Text_Context_Jump": {
-    "message": "JUMP"
+    "message": "ΑΛΜΑ"
   },
   "HT_Text_Context_Attack": {
-    "message": "ATTACK"
+    "message": "ΕΠΙΘΕΣΗ"
   },
   "HT_Text_Context_Detonate": {
-    "message": "DETONATE"
+    "message": "ΕΚΡΗΞΗ"
   },
   "HT_Text_Context_Beetle": {
-    "message": "BEETLE"
+    "message": "ΣΚΑΘΑΡΙ"
   },
   "HT_Text_Context_Throw": {
-    "message": "THROW"
+    "message": "ΡΙΨΗ"
   },
   "HT_Text_Context_Drop": {
     "message": "DROP"

@@ -27,7 +27,7 @@
     "message": "ΕΝΤΑΣΗ ΗΧΟΥ"
   },
   "HT_Text_FE_Menu_PadRumbleGC": {
-    "message": "RUMBLE"
+    "message": "ΘΟΡΥΒΟΣ"
   },
   "HT_Text_FE_Menu_PadRumbleXB": {
     "message": "ΔΟΝΗΣΗ"
@@ -201,7 +201,7 @@
     "message": "ΣΦΙΓΞ"
   },
   "HT_Text_Paused_PS2": {
-    "message": "ΠΑΥΣΗ"
+    "message": "Παύση"
   },
   "HT_Text_Paused_XB": {
     "message": "Πάτησε START για να συνεχίσεις"
@@ -231,7 +231,7 @@
     "message": "ΕΞΟΔΟΣ"
   },
   "HT_Text_DeathScreen_Text": {
-    "message": "GAME OVER"
+    "message": "ΤΕΛΟΣ ΠΑΙΧΝΙΔΙΟΥ"
   },
   "HT_Text_OptionsMenu_Reset": {
     "message": "ΕΠΑΝΑΦΟΡΑ"
@@ -333,19 +333,19 @@
     "message": "Τίποτα"
   },
   "HT_Text_Menu_BOS": {
-    "message": "Άνοιγμα του βιβλίου του Σφιγξ"
+    "message": "Άνοιξε το βιβλίο του Σφιγξ"
   },
   "HT_Text_Menu_Inventory": {
-    "message": "Inventory"
+    "message": "Συλλογή Αντικειμένων"
   },
   "HT_Text_Menu_Jump": {
-    "message": "Άλμα"
+    "message": "Πήδα"
   },
   "HT_Text_Menu_Attack": {
-    "message": "Επίθεση"
+    "message": "Επιθέσου"
   },
   "HT_Text_Menu_Context": {
-    "message": "Συμφραζόμενα"
+    "message": "Γενικό πλαίσιο"
   },
   "HT_Text_Menu_Shield": {
     "message": "Ασπίδα"
