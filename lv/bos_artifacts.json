@@ -1,14 +1,14 @@
 {
   "HT_Text_BOS_Arti_Artifacts": {
-    "message": "Ability Items"
+    "message": "Spēju Lietas"
   },
   "HT_Text_BOS_Arti_Quest": {
-    "message": "Quest Items"
+    "message": "Piedzīvojuma Lietas"
   },
   "HT_Text_BOS_Arti_Monsters": {
-    "message": "Monster Items"
+    "message": "Monstru Lietas"
   },
   "HT_Text_BOS_Arti_GotNoItems": {
-    "message": "<ES HT_Text_ES_S_BOSStd>You do not currently have any items of this type.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Jums pašlaik nav neviens šāda veida priekšmets.<ES HT_Text_ES_E_BOSStd>"
   }
 }

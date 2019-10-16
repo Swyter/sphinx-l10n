@@ -93,7 +93,7 @@
     "message": "Uzspied <SB HT_Action_Drop> lai atlaistu margas, bet pārliecinies, ka esi droši šķērsojis spraugu!<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_UseRock01": {
-    "message": "Sfinkss!! Šeit! Man tomēr vajadzēs tavu palīdzību...<W 60>"
+    "message": "Sfinks!! Šeit! Man tomēr vajadzēs tavu palīdzību...<W 60>"
   },
   "HT_Text_Urk_Intro_HorusHD54_UseRock02": {
     "message": "Skaties, ja tu uzmet akmeni uz to dzīvnieku alu, iespējams ka tu iegūsi kaut ko noderīgu.<E>"
@@ -216,183 +216,183 @@
     "message": "Hmm... Liels paldies tev Sfinks, tu esi bijis daudzreiz izpalīdzīgāks nekā es būtu iedomājies. Tagad es varu tikt pie <FC 0,128,0>Osīrisa Asmeņa<END FC>.<E>"
   },
   "HT_Text_Urk_Intro_Horus_Fall02": {
-    "message": "What's going on? Everything is trembling... <W 60>"
+    "message": "Kas notiek? Visa zeme zem kājām trīc... <W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall03": {
-    "message": "Look! The ray!... It's charging!!!  <W 60>"
+    "message": "Skat! Stars!... Tas lādējas!!!  <W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall03a": {
-    "message": "This is not good... <W 60>"
+    "message": "Tas nav labi... <W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall04": {
-    "message": "Sphinx, this does NOT bode well!!<W 60>"
+    "message": "Sfinks, man ir SLIKTA nojausma par šo!!<W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall05": {
-    "message": "Wow! That was lucky. Oh no... where is this thing going? Sphinx?! Sphinx!!<E>"
+    "message": "Vāu! Tā bija veiksme. Ak nē... kur šis akmens dodas? Sfinks?! Sfinks!!<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation01": {
-    "message": "<EFF><EPO>The time I feared has arrived; the darkness prophesied will soon descend upon us... and we need to be prepared.<P>I have chosen you both because you have already proven you are my most worthy apprentices.<E>"
+    "message": "<EFF><EPO>Laiks, par kuru es baidījos ir pienācis; pareģotā tumsa drīzumā apņems mūs... un mums vajag būt gataviem.<P>Esmu izvēlējies Jūs abus tāpēc, ka jūs jau esat pierādījuši, ka esat mani cienīgākie mācekļi.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation01a": {
-    "message": "The mission that you are about to embark on will be a test of your strength and abilities.<E>"
+    "message": "Uzdevums kurā jūs dosieties būs Jūsu spēka un spēju pārbaudījums.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation02": {
-    "message": "Prepare yourselves, for the path ahead will be highly dangerous. I cannot guarantee safe passage, or that you will return alive. <E>"
+    "message": "Gatavojieties, turpmākais ceļš būs ļoti bīstams. Es nevaru garantēt drošu ceļu, vai ka jūs pārnāksiet mājās dzīvi. <E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation02a": {
-    "message": "But you must go of your own choosing. Now is the time to stand down if you wish.<E>"
+    "message": "Bet Jums pašiem ir jāizvēlas. Tagad ir laiks pamest uzdevumu, ja Jūs tā vēlaties.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation03": {
-    "message": "I see. Since you have both accepted the task, I will transport us to <FC 128,64,0>Uruk<END FC>, the land of darkness.<E>"
+    "message": "Sapratu. Tā kā jūs abi esat pieņēmuši uzdevumu, es mūs transportēšu uz <FC 128,64,0>Uruku<END FC>, tumsas zemi.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation04": {
-    "message": "There you will need to find the <FC 0,128,0>Blade of Osiris<END FC>, an old and powerful sword protected by the demons of <FC 128,64,0>Uruk<END FC>.<E>"
+    "message": "Tur Jums vajadzēs atrast <FC 0,128,0>Osīrisa Asmeni<END FC>, vecu diženi spēcīgu zobenu, kuru sargā <FC 128,64,0>Urukas<END FC>dēmoni.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation05": {
-    "message": "Prepare yourselves for the journey...<W 90>"
+    "message": "Gatavojieties diženam ceļojumam...<W 90>"
   },
   "HT_Text_Urk_Intro_Geyser_Off": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This geyser is inactive. It looks like it requires<N>additional lava flow in order to blow.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Šis geizers ir neaktīvs. Izskatās ka tam ir nepieciešama<N>papildus lavas plūsma lai pūstu.<E>"
   },
   "HT_Text_Urk_Intro_Pickup_Stone": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Notice how <SB HT_Action_PickupObject> on the top right display changes<N>when you approach certain objects or items.<P><ES HT_Text_ES_S_HelpText><CNTR>You can press <SB HT_Action_PickupObject> to pick up rocks<N>like this when you are close to them.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ievēro ka <SB HT_Action_PickupObject> augšējā labajā displejā mainās<N>kad tu tuvojies noteiktiem priekšmetiem vai lietām.<P><ES HT_Text_ES_S_HelpText><CNTR>Tu vari nospiest <SB HT_Action_PickupObject> lai paceltu akmeņus<N>šādējādi kad esi tuvu tiem.<E>"
   },
   "HT_Text_Urk_Intro_Pushable_Stone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_Grab> to grab hold of objects...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...then use <SB HT_PadAction_PLR_MovePlr> to push or pull them.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Nospied <SB HT_Action_Grab> lai paceltu priekšmetus...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...tad izmanto <SB HT_PadAction_PLR_MovePlr> lai grūstu, vai vilktu tos.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1a": {
-    "message": "<EFF><EPO>Welcome to <FC 128,64,0>Uruk Islands<END FC> Sphinx! My friend Imhotep told me you would be arriving.<P>I know that you are seeking the <FC 0,128,0>Sacred Crown of Uruk<END FC> which is being held by the deadly Geb Queen.<E>"
+    "message": "<EFF><EPO>Sveicināts <FC 128,64,0>Urukas Salās<END FC> Sfinks! Mans draugs Imhoteps pabrīdināja mani ka tu ieradīsies.<P>Es zinu ko tu meklē, <FC 0,128,0>Garīgo Urukas Kroni<END FC>, kuru sargā nāvējošā Gebas Karaliene.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1b": {
-    "message": "But first you must overcome a test of mind and body; wisdom and ability.<E>"
+    "message": "Bet no sākuma tev ir jāpārnāk domu un ķermeņa; gudrības un spēju pārbaudījums.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1c": {
-    "message": "If you are successful, it will mean that you are prepared to overcome the mighty power of the Geb Queen...<E>"
+    "message": "Ja tev tas izdosies, tas nozīmēs, ka esi gatavs sastapties un pārnākt Gebas Karalienes vareno spēku...<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1d": {
-    "message": "...but should you fail, a grim fate awaits you in the temple beyond those doors...<E>"
+    "message": "...bet ja tev neizdosies, templī aiz šīm durvīm tevi gaida drūms liktenis...<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1e": {
-    "message": "So, do you accept this test?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Tātad, vai tu pieņem šo pārbaudījumu?<N>  <B 1> Jā<N>  <B 2> Nē<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fAccept": {
-    "message": "Very well then, enter the temple. If you can escape, bring me what you find.<E>"
+    "message": "Ļoti labi, ieej templī. Un ja tu spēsi izmukt, atnes man ko tu spēji atrast.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fReject": {
-    "message": "As I suspected, you're a coward!<E>"
+    "message": "Kā jau es domāju, tu esi gļēvulis!<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestPrompt": {
-    "message": "Have you decided to take on the test?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Vai tu esi izlēmis pieņemt pārbaudījumu?<N>  <B 1> Jā<N>  <B 2> Nē<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestAccepted": {
-    "message": "Very well, go into the temple and if you can escape, bring me what you find.<E>"
+    "message": "Ļoti labi, ieej templī. Un ja tu spēsi izmukt, atnes man ko tu spēji atrast.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestRejected": {
-    "message": "As I suspected, you are a coward!<E>"
+    "message": "Kā jau es domāju, tu esi gļēvulis!<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestPromptAgain": {
-    "message": "It is too late to change your mind now. The temple awaits.<E>"
+    "message": "Ir jau pārāk vēlu pārdomām. Tevi gaida templis.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestAlmostComplete": {
-    "message": "If you didn't find anything you have failed the test.<E>"
+    "message": "Ja tu neko neatrodi, šī pārbaude tev būs neizdevusies.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestComplete": {
-    "message": "<EFF><EPO>Ahh, you have returned! Congratulations, Sphinx! I knew that you would prevail.<P>Few people are able to survive the test of the temple.<E>"
+    "message": "<EFF><EPO>Ā, tu esi atgriezies! Apsveicu, Sfinks! Es zināju ka tev izdosies.<P>Daži cilvēki spēj pārnākt tempļa pārbaudījumus.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestComplete1": {
-    "message": "<EFF><EPO>The artifact you have retrieved can be used to activate this <FC 0,128,0>Ka Ankh Firing Point<END FC>.<P>I'm sure an adventurer of your experience is well aware of the mystical mechanics of Ka Ankhs.<E>"
+    "message": "<EFF><EPO>Artifakts kuru tu savāci var tikt izmantots lai aktivizētu šo <FC 0,128,0>Kā Anka Šaušanas Punktu<END FC>.<P>Esmu drošs ka ceļotājs kā tu noteikti saprot kā strādā mistiskais Kā Anks.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestComplete2": {
-    "message": "<EFF><EPO>Before you go, a word of advice. The Geb Queen is a fearsome adversary. I doubt that you will be able to defeat her all by yourself.<P>In the heat of the battle, you should not forget that other creatures may provide you with the opportunity you require to defeat the Queen...<P>Farewell Sphinx, and good luck.<E>"
+    "message": "<EFF><EPO>Pirms tu ej, neliels padoms. Gebas Karaliene ir baismīga pretiniece. Es šaubos ka tu spētu viņas viens pats pieveikt.<P>Cīņas laikā neaizmirsti, ka citi dzīvnieki tev varētu dāvāt palīdzību lai pieveiktu Gebas Karalieni...<P>Visu labu Sfinks, un vēlu veiksmi.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestCompleteAgain": {
-    "message": "You have done well Sphinx, but I cannot help you any further.<E>"
+    "message": "Tu esi paveicis labu darbu Sfinks, bet es tev nespēju tālāk palīdzēt.<E>"
   },
   "HT_Text_Urk_4pat_Help_FoundBounce": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Bouncing Darts<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>These magical darts can be used to hit<N>targets which you don't have direct access to.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu ieguvi <FC 0,128,0>Atsperīgās Šautriņas<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Šīs maģiskās šautriņas var tikt izmantotas lai trāpītu<N>pa mērķiem kuriem tev nav tieša pieeja.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Urk_4pat_Help_FoundBeetles": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Explosive Beetles<END FC>!<P>Equip them with <FC 0,128,0>directional button<END FC> like you did with the <FC 0,128,0>Blowpipe<END FC>. Once released, guide the beetle using <SB HT_PadAction_PLR_MoveBeetle>.<P>They explode on contact with monsters and walls but you can also <FC 0,128,0>RECALL<END FC> or <FC 0,128,0>DETONATE<END FC> them.<E>"
+    "message": "<N><CNTR>Tu ieguvi <FC 0,128,0>Sprāgstošās Vaboles<END FC>!<P>Ekipē tās ar <FC 0,128,0>virziena pogu<END FC> tā pat kā tu darīji ar <FC 0,128,0>Šautriņu Nūju<END FC>. Kad poga ir atlaista, novadi vaboli lietojot <SB HT_PadAction_PLR_MoveBeetle>.<P>Tās sprāgst nākot kontaktā ar monstriem un sienām bet tu arī vari <FC 0,128,0>ATSAUKT<END FC> vai <FC 0,128,0>DETONĒT<END FC> tās.<E>"
   },
   "HT_Text_Urk_4pat_Help_DoubleJump": {
-    "message": "<DHP><DP>Jump higher by holding down the <FC 0,128,0>JUMP<END FC> button. Somersault by pressing the <FC 0,128,0>JUMP<END FC> button twice. <W 120>"
+    "message": "<DHP><DP>Lec augstāk turot pogu <FC 0,128,0>LĒKT<END FC>. Lec kūlenī nospiežot pogu <FC 0,128,0>LĒKT<END FC> divreiz. <W 120>"
   },
   "HT_Text_Urk_4pat_WomanHelp1": {
-    "message": "Help!... Help!... Help me, sir...<W 60>"
+    "message": "Palīgā!... Palīgā!... Palīdziet man, kungs...<W 60>"
   },
   "HT_Text_Urk_4pat_WomanHelp2": {
-    "message": "Sir, a demonic soul has kidnapped my little brothers and I. Please, help us get out of this devilish temple!<E>"
+    "message": "Kungs, dēmoniska dvēsele ir nolaupījusi manus mazos brāļus un mani. Lūdzu, palīdzi mums tikt ārā no šī velnišķīgā tempļa!<E>"
   },
   "HT_Text_Urk_4pat_WomanHelp3": {
-    "message": "Please, sir, help us get out of here!<E>"
+    "message": "Lūdzu, kungs, palīdzi mums tikt ārā no šejienes!<E>"
   },
   "HT_Text_Urk_4pat_WomanHelp4": {
-    "message": "Thank you sir, for your noble actions...<W 60>"
+    "message": "Paldies Jums kungs, par Jūsu cēlo palīdzību...<W 60>"
   },
   "HT_Text_Urk_4pat_WomanHelp5": {
-    "message": "My little brothers and I want to reward your effort...<W 60>"
+    "message": "Mani mazie brāļi un es vēlamies Jums atlīdzēt par Jūsu piepūlēm...<W 60>"
   },
   "HT_Text_Urk_Set_Presenation1": {
-    "message": "I have been waiting for you Sphinx, the One of prophecy. <E>"
+    "message": "Es tevi gaidīju Sfinks, pareģojuma nesēj. <E>"
   },
   "HT_Text_Urk_Set_Presenation2": {
-    "message": "I see that my brother Osiris is not here to face me. He is too weak for such a confrontation.<E>"
+    "message": "Es redzu, ka mans brālis Osīris nav šeit, lai stātos man pretī. Viņš ir pārāk vājš šādai konfrontācijai.<E>"
   },
   "HT_Text_Urk_Set_Presenation3": {
-    "message": "Or perhaps he is just too cowardly to stand against me. Hahaha!! <E>"
+    "message": "Vai varbūt viņš ir pārāk gļēvs, lai nostātos man pretī aci pret aci. Hahaha!! <E>"
   },
   "HT_Text_Urk_Set_Presenation4": {
-    "message": "You have done well to thwart my plans so far, but ultimately I will control the power of the eye of Ra. <E>"
+    "message": "Tev, līdz šim, ir labi padevies jaukt manus plānus, bet galu galā, es pārvaldīšu Rā acs vareno spēku. <E>"
   },
   "HT_Text_Urk_Set_Presenation5": {
-    "message": "You and your undead cohort have fulfilled the prophecy thus far.<E>"
+    "message": "Tu ar savu nedzīvo palīgu līdz šim esi izpildījis pareģojumu.<E>"
   },
   "HT_Text_Urk_Set_Presenation6": {
-    "message": "But I will see to it that the prophecy ends with your death and Osiris being destroyed by me...<E>"
+    "message": "Bet es parūpēšos, lai pareģojums beidzas ar tavu nāvi un Osīrisa pilnīgu iznīcināšanu...<E>"
   },
   "HT_Text_Urk_Set_Presenation6a": {
-    "message": "FOREVER!!!!! <W 60>"
+    "message": "UZ MŪŽĪGIEM LAIKIEM!!!!! <W 60>"
   },
   "HT_Text_Urk_Set_Presenation7": {
-    "message": "Pathetic creature, Osiris didn't tell you about my true form! Hahahahaha!!!!! <E>"
+    "message": "Nožēlojamā būtne, Osīris nepieminēja manu patieso formu! Hahahahaha!!!!! <E>"
   },
   "HT_Text_Urk_Set_Presenation8": {
-    "message": "Now the time has come for you to die. <W 60>"
+    "message": "Tagad ir pienācis tev laiks mirt. <W 60>"
   },
   "HT_Text_Urk_Set_BossDead1": {
-    "message": "Excellent, Sphinx! You saved the Mummy from Set’s hands. Set has been severely weakened, but it is not his destiny to be destroyed.<E>"
+    "message": "Lieliski, Sfinks! Tu esi izglābis Mūmiju no Seta varas. Sets ir stipri novājināts, bet viņa liktenis nav būt iznīcinātam.<E>"
   },
   "HT_Text_Urk_Set_BossDead2": {
-    "message": "The world cannot exist without evil, just as the light of day needs to be balanced with the darkness of night. <E>"
+    "message": "Pasaule nespēj pastāvēt bez ļaunuma, tāpat kā dienas gaismai jābūt līdzsvarotai ar nakts tumsu. <E>"
   },
   "HT_Text_Urk_Set_BossDead3": {
-    "message": "With Set weakened he will not be able to fight his true destiny, to unite with his brother Osiris. This will restore balance to the Godly kingdom. <E>"
+    "message": "Novājināts Sets nespēs cīnīties pret viņa patieso likteni, viņam ir jāapvienojas ar savu brāli Osīrisu. Tas atjaunos līdzsvaru dievišķajā valstībā. <E>"
   },
   "HT_Text_Urk_Set_BossDead3a": {
-    "message": "Behold! The mighty Osiris has arrived! <E>"
+    "message": "Lūk! Ir ieradies varenais Osīris! <E>"
   },
   "HT_Text_Urk_Set_BossDead4": {
-    "message": "Finally the <FC 0,128,0>Ancient Prophecy of Ra<END FC> has been fulfilled. Light and darkness are one together. We will be able to live in harmony again. <E>"
+    "message": "Beidzot <FC 0,128,0>Senie Rā Pareģojumi<END FC> ir piepildījušies. Gaisma un tumsa ir atkal viena kopā. Mēs atkal varēsim dzīvot zili zaļi. <E>"
   },
   "HT_Text_Urk_Set_BossDead5": {
-    "message": "Sphinx and Tutankhamen, you have both been very brave to conclude this dangerous saga. <E>"
+    "message": "Sfinks un Tutanhamon, jūs abi esat bijuši ļoti drosmīgi, lai noslēgtu šo bīstamo sāgu. <E>"
   },
   "HT_Text_Urk_Set_BossDead6": {
-    "message": "Sphinx, because of your actions and bravery, your name will go down in history and be remembered forever. <E>"
+    "message": "Sfinks, tavas darbības un drosmes dēļ tavs vārds ieies vēsturē un tiks atcerēts mūžīgi mūžiem. <E>"
   },
   "HT_Text_Urk_Set_BossDead7": {
-    "message": "Tutankhamen, I can give you the last <FC 0,128,0>Canopic Vase<END FC> that will transform you back to your human shape and let you return to your kingdom.<E>"
+    "message": "Tutanhamon, es tev sniedzu pēdējo <FC 0,128,0>Kanopisko Vāzi<END FC> kura tevi pārvērtīs tavā cilvēka formā un tev ļaus atgriesties uz savu karalisti.<E>"
   },
   "HT_Text_Urk_Set_BossDead7a": {
-    "message": "<EFF><EPO>Thanks to both of you, balance will be brought to the worlds for many generations to come. <P>More dangerous adventures will come in the future for both of you. But for the moment, rest and enjoy your triumph.<P>Tutankhamen, I give you the last <FC 0,128,0>Canopic Vase<END FC> with my gratitude. <E>"
+    "message": "<EFF><EPO>Pateicoties Jums abiem, līdzsvars tiks atkal nests uz šīs pasaules priekš daudzām nākamajām paaudzēm.. <P>Nākotnē jūs piedzīvosiet bīstamākus piedzīvojumus. Bet pašlaik, atpūtieties un izbaudiet Jūsu uzvaru.<P>Tutanhamon, ar manu pateicību es tev piešķiru pēdējo <FC 0,128,0>Kanopisko Vāzi<END FC>.<E>"
   },
   "HT_Text_Urk_Set_BossDead8": {
-    "message": "Don't worry Tutankhamen, there must be another way to change you back. Perhaps other worlds will hold the key to your salvation. <E>"
+    "message": "Neuztraucies Tutanhamon, ir noteikti jābūt vēl kādam veidam kā tevi pārvērst atpakaļ. Iespējams, ka citas pasaules ietvers veidu kā nobeigt tavu izmisumu. <E>"
   },
   "HT_Text_Urk_Set_BossDead9": {
-    "message": "We will help you find the answer...<W 180>"
+    "message": "Mēs tev palīdzēsim atrast pareizo atbildi...<W 180>"
   },
   "HT_Text_Urk_2key_Help_FoundGlyphValuable01": {
-    "message": "<N><CNTR>You found a rare <FC 0,128,0>Gold Glyph<END FC>!<E>"
+    "message": "<N><CNTR>Tu atradi retu <FC 0,128,0>Zelta Glifu<END FC>!<E>"
   }
 }

@@ -1,23 +1,23 @@
 {
   "HT_Text_BOS_Tab_Artifacts": {
-    "message": "Artifacts"
+    "message": "Artefakti"
   },
   "HT_Text_BOS_Tab_Notes": {
-    "message": "Notes"
+    "message": "Piezīmes"
   },
   "HT_Text_BOS_Tab_Monsters": {
-    "message": "Monsters"
+    "message": "Monstri"
   },
   "HT_Text_BOS_Instructions": {
-    "message": "<FC 30,10,0>Navigate around the pages using <SB HT_PadAction_BOS_NavigateDPad> <N>Change pages using <SB HT_PadAction_BOS_TABCycleLeft> and <SB HT_PadAction_BOS_TABCycleRight><N>Scroll long descriptions with <SB HT_PadAction_BOS_PageUp>."
+    "message": "<FC 30,10,0>Lai pārvietoties pa lapu lieto <SB HT_PadAction_BOS_NavigateDPad> <N>lai pāršķirtu lapu lieto <SB HT_PadAction_BOS_TABCycleLeft> un <SB HT_PadAction_BOS_TABCycleRight><N>Ritiniet garus aprakstus ar <SB HT_PadAction_BOS_PageUp>."
   },
   "HT_Text_BOS_NoNotes": {
-    "message": "<ES HT_Text_ES_S_BOSStd>You do not currently have any notes.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Jums pašlaik nav piezīmju.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_NoAbilities": {
-    "message": "<ES HT_Text_ES_S_BOSStd>You do not currently have any abilities.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Jums pašlaik nav pieejama neviena spēja.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_NoQuestItems": {
-    "message": "<ES HT_Text_ES_S_BOSStd>You do not currently have any quest items.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Jums pašlaik nav pieejams neviens izziņu priekšmets.<ES HT_Text_ES_E_BOSStd>"
   }
 }
