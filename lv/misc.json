@@ -1,99 +1,99 @@
 {
   "HT_Text_DanTest": {
-    "message": "Dan's test text.<E>"
+    "message": "Dana testa teksts.<E>"
   },
   "HT_Text_MG_WallDodge_Start": {
-    "message": "Welcome to the <FC 128,64,0>Corridor of Champions<END FC>. It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
+    "message": "Esi sveicināts <FC 128,64,0>Čempionu Koridorā<END FC>. Samaksa ir <FC 0,128,0>10 Skarabejas<END FC> lai spēlētu.<P>Vai tu vēlies spēlēt?<N>  <B 1> Jā<N>  <B 2> Nē paldies<E>"
   },
   "HT_Text_MG_WallDodge_Instructions": {
-    "message": "Just dodge the moving walls, smash all the statues, then make it to the exit within the time limit.<E>"
+    "message": "Vienkārši, izvairies no kustīgajām sienām, sasiti visas statujas, tad dodies uz izeju pirms laika termiņš vēl nav beidzies.<E>"
   },
   "HT_Text_MG_WallDodge_Choose": {
-    "message": "Which gauntlet would you like to attempt?<N>  <B 1> Gauntlet 1<N>  <B 2> Gauntlet 2<E>"
+    "message": "Kuru izaicinājumu tu vēlētos izmēģināt?<N>  <B 1> 1 Izaicinājumu<N>  <B 2> 2 Izaicinājumu<E>"
   },
   "HT_Text_MG_WallDodge_Choose2": {
-    "message": "Which gauntlet would you like to attempt?<N>  <B 1> Gauntlet 1<N>  <B 2> Gauntlet 2<N>  <B 3> Gauntlet 3<E>"
+    "message": "Kuru izaicinājumu tu vēlētos izmēģināt?<N>  <B 1> 1 Izaicinājumu<N>  <B 2> 2 Izaicinājumu<E> <B 3> 3 Izaicinājumu<E>"
   },
   "HT_Text_MG_WallDodge_NotReady": {
-    "message": "You're not ready for that yet.<E>"
+    "message": "Tu vēl neesi tam gatavs.<E>"
   },
   "HT_Text_MG_WallDodge_Fail": {
-    "message": "Sorry, you failed this time. Try again.<E>"
+    "message": "Atvainojos, bet šoreiz tev neizdevās. Mēģini vēlreiz.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed": {
-    "message": "Well done! You completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>! That's a new record!<E>"
+    "message": "Labi padarīts! Tu pabeidzi izaicinājumu <FC 0,128,0><SO HT_Objective_WallDodge_Time> sekundēs<END FC>! Tas ir jauns rekords!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed1": {
-    "message": "You deserve a reward for that effort.<N>You win <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Scarabs<END FC>!<E>"
+    "message": "Tu esi pelnījis atlīdzību par saviem centieniem.<N>Tu uzvari<FC 0,128,0><SO HT_Objective_MGWalls_Prize> Skarabejas<END FC>!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed2": {
-    "message": "What an outstanding time that is!<N>Your prize money is <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Scarabs<END FC>!<E>"
+    "message": "Vau, cik ātri!<N>Tava atlīdzība ir <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Skarabejas<END FC>!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore1": {
-    "message": "Not bad - you completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>. But you could do better...<P>Your fastest time is <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> seconds<END FC>.<E>"
+    "message": "Nav slikti - tu pabeidzi izaicinājumu <FC 0,128,0><SO HT_Objective_WallDodge_Time> sekundēs<END FC>. Bet tu spēji labāk...<P>Tavs ātrākais laiks ir <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> sekundes<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore2": {
-    "message": "Not bad - you completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>. But you could do better...<P>Your fastest time is <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2> seconds<END FC>.<E>"
+    "message": "Nav slikti - tu pabeidzi izaicinājumu <FC 0,128,0><SO HT_Objective_WallDodge_Time> sekundēs<END FC>. Bet tu spēji labāk...<P>Tavs ātrākais laiks ir <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2> sekundes<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore3": {
-    "message": "That was okay - you completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>. But you could improve...<P>Your fastest time is <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> seconds<END FC>.<E>"
+    "message": "Tas bija labi - tu pabeidzi izaicinājumu <FC 0,128,0><SO HT_Objective_WallDodge_Time> sekundēs<END FC>. Bet tu vari būt labāks...<P>Tavs ātrākais laiks ir <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> sekundes<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_HighScores": {
-    "message": "<DP><DHP><END TT><CNTR>Gauntlet 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>Gauntlet 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N>Gauntlet 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>"
+    "message": "<DP><DHP><END TT><CNTR>1 Izaicinājums: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>2 Izaicinājums: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N>3 Izaicinājums: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>"
   },
   "HT_Text_MG_WallDodge_Test": {
-    "message": "Welcome to the <FC 128,64,0>Corridor of Champions<END FC>.<P>Here, true heroes can test their abilities. Do you want to pit yourself against our gauntlet?<N>  <B 1> Yes<N>  <B 2> No<E>  "
+    "message": "Esi sveicināts <FC 128,64,0>Čempionu Koridorā<END FC>.<P>Šeit īsti varoņi spēj pārbaudīt savas spējas. Vai tu vēlies stāties pretī manam izaicinājumam?<N>  <B 1> Jā<N>  <B 2> Nē<E>  "
   },
   "HT_Text_MG_WallDodge_TestYes": {
-    "message": "A brave and noble choice! However, before you can proceed, you must complete a small test.<E>"
+    "message": "Drosmīga un cēla izvēle! Bet, pirms tu vari doties uz izaicinājumu, tev vajag izpildīt mazu pārbaudījumu.<E>"
   },
   "HT_Text_MG_WallDodge_TestYesPearl": {
-    "message": "Return that <FC 0,128,0>Diamond<END FC> behind the fence to me within <FC 0,128,0>20 seconds<END FC>, and you will have proven yourself capable of the gauntlet.<E>"
+    "message": "Atnes to <FC 0,128,0>Dimantu<END FC> kas ir aiz iežogojuma <FC 0,128,0>20 sekundēs<END FC>, un tu būsi pierādījis ka esi gatavs turpmākajiem izaicinājumiem.<E>"
   },
   "HT_Text_MG_WallDodge_TestNo": {
-    "message": "Very well, the <FC 128,64,0>Corridor of Champions<END FC> is not for all.<E>"
+    "message": "Ļoti labi, <FC 128,64,0>Čempionu Koridors<END FC> nav priekš visiem.<E>"
   },
   "HT_Text_MG_WallDodge_TestComplete": {
-    "message": "Excellent, you have passed the test.<E>"
+    "message": "Lieliski, tu esi nokārtojis pārbaudījumu.<E>"
   },
   "HT_Text_MG_WallDodge_TestFail": {
-    "message": "It is quite clear that you are not ready to face the gauntlet. Return when you have gained the skill to retrieve the <FC 0,128,0>Diamond<END FC>.<E>"
+    "message": "Tas ir diezgan skaidrs, ka nēesi gatavs stāties pretī izaicinājumiem. Atgriezies kad esi ieguvis prasmi atgūt <FC 0,128,0>Dimantu<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_TestInProgress": {
-    "message": "You've only got a few seconds left!<E>"
+    "message": "Tev ir atlikušas tikai pāris sekundes!<E>"
   },
   "HT_Text_MG_WallDodge_TestGiveUp": {
-    "message": "If you cannot complete the test, you cannot attempt the gauntlet. Come back when you think you can succeed... <E>"
+    "message": "Ja tu nevari izpildīt pārbaudījumu, tu nespēsi izdarīt izaicinājumus. Nāc tad, kad domā, ka esi gatavs... <E>"
   },
   "HT_Text_MG_WallDodge_NoMoney": {
-    "message": "What are you trying to pull? You don't have 10 <FC 0,128,0>Scarabs<END FC>.<E>"
+    "message": "Ko tu te mēģini? Tev nav 10 <FC 0,128,0>Skarabejas<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_GameComplete": {
-    "message": "You mastered the gauntlet! You are a true champion!<P>Here is the <FC 0,128,0>Medal of Champions<END FC>, awarded only to those who manage to beat the gauntlet.<E>"
+    "message": "Tu esi pievarējis izaicinājumus! Tu esi īsts čempions!<P>Šeit būs tava, <FC 0,128,0>Čempionu Medaļa<END FC>, kura tiek dāvāta tikai tiem, kuri spēj iziet izaicinājumus.<E>"
   },
   "HT_Text_MG_Shooting_Start": {
-    "message": "Welcome to <FC 128,64,0>Tefnut's Target Tavern<END FC>. It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
+    "message": "Esi sveicināts <FC 128,64,0>Tefnuta Mērķu Krodziņā<END FC>. Tev jāmaksā <FC 0,128,0>10 Skarabejas<END FC> lai spēlētu.<P>Vai tu vēlies spēlēt?<N>  <B 1> Jā<N>  <B 2> Nē Paldies<E>"
   },
   "HT_Text_MG_Shooting_Instructions": {
-    "message": "Shoot the targets to earn points. Hitting the skulls causes very bad things... you will lose points and time if this happens.<E>"
+    "message": "Šauj pa mērķiem, lai pelnītu punktus. Centies netrāpīt pa miroņgalvām... tu zaudēsi punktus un laiku.<E>"
   },
   "HT_Text_MG_Shooting_Won": {
-    "message": "Not too bad. You hit a lot of the targets. <P>You've done better than <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> points<END FC> before, though.<P>As a prize for your score, here's <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Scarabs<END FC>. Feel free to try again if you think you can do better.<E>"
+    "message": "Nav slikti. Tu trāpīji pa daudziem mērķiem. <P>Bet kādu laiku atpakaļ tev izdevās labāk, šoreiz tu ieguvi <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> punkus<END FC>.<P>Še tev <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Skarabejas<END FC> kā atlīdzība par taviem centieniem. Droši vari mēģināt vēlreiz, ja tu domā, ka vari labāk.<E>"
   },
   "HT_Text_MG_Shooting_Won_HighScore": {
-    "message": "You achieved a new high score with <FC 0,128,0><SO HT_Objective_Shooting_Score1> points<END FC>! Your score will be added to the wall chart for posterity.<P>As a prize for such a great high score, here's <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Scarabs<END FC>!<E>"
+    "message": "Tu sasniedzi jaunu rekordu ar <FC 0,128,0><SO HT_Objective_Shooting_Score1> punktiem<END FC>! Tavs punktu rezultāts tiks pievienots rezultātu tabulā.<P>Kā atlīdzība par tik augstu rezultātu, še tev <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Skarabejas<END FC>!<E>"
   },
   "HT_Text_MG_Shooting_Lost": {
-    "message": "Pah! That was truly abysmal! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> points<END FC> is pathetic! Maybe you need some more practice?<E>"
+    "message": "Vai! Tas bija ļoti švaki! Tikai <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> punkti<END FC>, tas ir ļoti maz! Varbūt tev vēl ir jāmēiģina?<E>"
   },
   "HT_Text_MG_Shooting_LostSingle": {
-    "message": "Pah! That was truly abysmal! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> point<END FC> is pathetic! Maybe you need some more practice?<E>"
+    "message": "Vai! Tas bija ļoti švaki! Tikai <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> punkts<END FC>, tas ir kā nekas! Varbūt tev vēl ir jāmēiģina?<E>"
   },
   "HT_Text_MG_Shooting_HighScores": {
-    "message": "<DP><DHP><END TT>Your best score is: <FC 0,128,0><SO HT_Objective_Shooting_Score1> points<END FC>!"
+    "message": "<DP><DHP><END TT>Tavs labākais rezultāts ir: <FC 0,128,0><SO HT_Objective_Shooting_Score1> punkti<END FC>!"
   },
   "HT_Text_MG_Shooting_NoMoney": {
-    "message": "I said <FC 0,128,0>10 Scarabs<END FC>, that's not <FC 0,128,0>10 Scarabs<END FC>! You don't have enough, do you?<E>"
+    "message": "Es teicu <FC 0,128,0>10 Skarabejas<END FC>, tās nav <FC 0,128,0>10 Skarabejas<END FC>! Tev nepietiek, vai ne?<E>"
   },
   "HT_Text_MG_Shooting_GameComplete": {
     "message": "You have proven your mastery of the <FC 0,128,0>Blowpipe<END FC>! It is my pleasure to present you with the <FC 0,128,0>Marksman Medal<END FC>. Well done.<E>"

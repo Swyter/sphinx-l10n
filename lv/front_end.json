@@ -351,7 +351,7 @@
     "message": "Vairogs"
   },
   "HT_Text_Menu_Pipe": {
-    "message": "Šautriņu nūja"
+    "message": "Šautriņu truba"
   },
   "HT_Text_Menu_Camera": {
     "message": "Kameras vadība"
@@ -570,6 +570,6 @@
     "message": "grād."
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu ieguvi <FC 0,128,0>Šautriņu Nūju<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Kad maģiskie šautriņi tiek izšauti no šī spēcīgā rīka,<N>tie atjaunojas, nodrošinot tev bezgalīgi lielu daudzumu šautriņu.<P><ES HT_Text_ES_S_HelpText><CNTR>Šautriņi var tikt izmantoti lai trāptītu pa attāliem objektiem, bet tie ir<N>tikai tik spēcīgi, lai ievainotu sprāgstošus monstrus.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Izmanto <SB HT_PadAction_HUD_ShowRotator> lai piešķirt <FC 0,128,0>Šautriņu Nūju<END FC> uz kādu pogu.<P><ES HT_Text_ES_S_HelpText><CNTR>Kad <FC 0,128,0>Šautriņu Nūja<END FC> ir piešķirta, nospied<N>pogu lai ieiet pirmās personas režīmā.<P><ES HT_Text_ES_S_HelpText><CNTR>Nospied <SB HT_Action_FireDart> lai šautu.<P><ES HT_Text_ES_S_HelpText><CNTR>Turi <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> vai <SB HT_PadAction_GYR_Right> nospiestu kamēr kustinot kreiso Joy-konu lai nomērķēt lietojot žiroskopiskās kustības vadību.<P><ES HT_Text_ES_S_HelpText><CNTR>Nospied <SB HT_Action_Cancel> lai iziet<N>no <FC 0,128,0>Šautriņu Nūjas<END FC> režīma.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu ieguvi <FC 0,128,0>Šautriņu Trubu<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Kad maģiskie šautriņi tiek izšauti no šī spēcīgā rīka,<N>tie atjaunojas, nodrošinot tev bezgalīgi lielu daudzumu šautriņu.<P><ES HT_Text_ES_S_HelpText><CNTR>Šautriņi var tikt izmantoti lai trāptītu pa attāliem objektiem, bet tie ir<N>tikai tik spēcīgi, lai ievainotu sprāgstošus briesmoņus.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Izmanto <SB HT_PadAction_HUD_ShowRotator> lai piešķirt <FC 0,128,0>Šautriņu Trubu<END FC> uz kādu pogu.<P><ES HT_Text_ES_S_HelpText><CNTR>Kad <FC 0,128,0>Šautriņu Truba<END FC> ir piešķirta, nospied<N>pogu lai ieietu pirmās personas režīmā.<P><ES HT_Text_ES_S_HelpText><CNTR>Nospied <SB HT_Action_FireDart> lai šautu.<P><ES HT_Text_ES_S_HelpText><CNTR>Turi <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> vai <SB HT_PadAction_GYR_Right> nospiestu kamēr kustinot kreiso Pults Kloķi lai nomērķēt lietojot žiroskopiskās kustības vadību.<P><ES HT_Text_ES_S_HelpText><CNTR>Nospied <SB HT_Action_Cancel> lai iziet<N>no <FC 0,128,0>Šautriņu Trubas<END FC> režīma.<ES HT_Text_ES_E_HelpText><E>"
   }
 }

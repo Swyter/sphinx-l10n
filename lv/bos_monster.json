@@ -1,32 +1,32 @@
 {
   "HT_Text_BOS_Monster_CapturedMonsters": {
-    "message": "Monsters"
+    "message": "Briesmoņi"
   },
   "HT_Text_BOS_Monster_Moves": {
-    "message": "Moves"
+    "message": "Gājieni"
   },
   "HT_Text_BOS_Monster_Health": {
-    "message": "Health"
+    "message": "Veselība"
   },
   "HT_Text_BOS_Monster_AttackRating": {
-    "message": "Attack Rating"
+    "message": "Uzbrukuma Vērtējums"
   },
   "HT_Text_BOS_Monster_DefenceRating": {
-    "message": "Defense Rating"
+    "message": "Aizsardzības Vērtējums"
   },
   "HT_Text_BOS_Monster_DR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The higher the defense rating of your monster, the more punishment it can take during battle.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Jo augstāks ir tava briesemoņa aizsardzības vērtējums, jo vairāk tas var ciest cīņas laikā.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_AR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The higher the attack rating of your monster, the more damage it can inflict on opponents.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Jo augstāks ir tava briesmoņa uzbrukuma vērtējums, jo lielāku kaitējumu tas var nodarīt pretiniekiem.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_Health_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>This is your monster's health. If your monster loses all of its health, you will no longer be able to release a monster of that type - until you capture another one of course!<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Šī ir tava briesmoņa veselība. Ja tavs briesmonis zaudē visu savu veselības līmeni, tu nespēsi izmantot tāda paša tipa briesmoni - protams, līdz ko tu noķer citu!<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_NoMoves": {
-    "message": "<ES HT_Text_ES_S_BOSStd>You currently have no moves that you can select.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Pagaidām, tev nav neviens gājiens kuru tu vari atlasīt.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_NoMonsters": {
-    "message": "<ES HT_Text_ES_S_BOSStd>You currently have no monsters.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Tev pagaidām nav neviena briesmoņa.<ES HT_Text_ES_E_BOSStd>"
   }
 }

@@ -1,0 +1,776 @@
+{
+  "HT_Text_DanTest": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_Start": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_Instructions": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_Choose": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_Choose2": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_NotReady": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_Fail": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_Succeed": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_Succeed1": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_Succeed2": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_Succeed_HighScore1": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_Succeed_HighScore2": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_Succeed_HighScore3": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_HighScores": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_Test": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_TestYes": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_TestYesPearl": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_TestNo": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_TestComplete": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_TestFail": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_TestInProgress": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_TestGiveUp": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_NoMoney": {
+    "message": ""
+  },
+  "HT_Text_MG_WallDodge_GameComplete": {
+    "message": ""
+  },
+  "HT_Text_MG_Shooting_Start": {
+    "message": ""
+  },
+  "HT_Text_MG_Shooting_Instructions": {
+    "message": ""
+  },
+  "HT_Text_MG_Shooting_Won": {
+    "message": ""
+  },
+  "HT_Text_MG_Shooting_Won_HighScore": {
+    "message": ""
+  },
+  "HT_Text_MG_Shooting_Lost": {
+    "message": ""
+  },
+  "HT_Text_MG_Shooting_LostSingle": {
+    "message": ""
+  },
+  "HT_Text_MG_Shooting_HighScores": {
+    "message": ""
+  },
+  "HT_Text_MG_Shooting_NoMoney": {
+    "message": ""
+  },
+  "HT_Text_MG_Shooting_GameComplete": {
+    "message": ""
+  },
+  "HT_Text_MG_Shooting_WinInstructions": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_Start": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_StartEasy": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_Choose1": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_Choose2": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_Instructions": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_Fail": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_Succeed": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_Win": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_Restart": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_CopyLimit": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_NoMoney": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_CantLeave": {
+    "message": ""
+  },
+  "HT_Text_MG_Simon_GameComplete": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_Start": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_Scores": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_NoScores": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_Win": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_Restart": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_Instructions": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_NoBlowpipe": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_RestartPay": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_NoMoney": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_NotWon": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_WinInstructions": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_GameComplete": {
+    "message": ""
+  },
+  "HT_Text_MG_Pairs_TooLong": {
+    "message": ""
+  },
+  "HT_Text_Museum_BC01_Giant_Prawn": {
+    "message": ""
+  },
+  "HT_Text_Museum_BM09_Smiling_burble": {
+    "message": ""
+  },
+  "HT_Text_Museum_BM10_i_Cyclops": {
+    "message": ""
+  },
+  "HT_Text_Museum_BM12_slim_burble": {
+    "message": ""
+  },
+  "HT_Text_Museum_BR04_Goofy_Lizard": {
+    "message": ""
+  },
+  "HT_Text_Museum_BR05_Dino_Oaf": {
+    "message": ""
+  },
+  "HT_Text_Museum_BR06_Half_Brute": {
+    "message": ""
+  },
+  "HT_Text_Museum_BU01_Mummy_Minotaur": {
+    "message": ""
+  },
+  "HT_Text_Museum_BU02_Skeletal_Axeman": {
+    "message": ""
+  },
+  "HT_Text_Museum_BU03_zombie_man": {
+    "message": ""
+  },
+  "HT_Text_Museum_BU05_almost_a_bull": {
+    "message": ""
+  },
+  "HT_Text_Museum_BU06_MBird": {
+    "message": ""
+  },
+  "HT_Text_Museum_FL02_Featherless_Turkey": {
+    "message": ""
+  },
+  "HT_Text_Museum_FL03_shuttlecock_bird": {
+    "message": ""
+  },
+  "HT_Text_Museum_HD02_Cat": {
+    "message": ""
+  },
+  "HT_Text_Museum_HD03_BigBull": {
+    "message": ""
+  },
+  "HT_Text_Museum_HD14_Crab": {
+    "message": ""
+  },
+  "HT_Text_Museum_HD17_Sharpbeak": {
+    "message": ""
+  },
+  "HT_Text_Museum_HD43_Skull_Aka_Worshipper": {
+    "message": ""
+  },
+  "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Shadow": {
+    "message": ""
+  },
+  "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Sword": {
+    "message": ""
+  },
+  "HT_Text_Museum_IN01_Green_Giant_worm": {
+    "message": ""
+  },
+  "HT_Text_Museum_IN07_Blade_Scorpion": {
+    "message": ""
+  },
+  "HT_Text_Museum_IN09_Sak_Spike_Spider": {
+    "message": ""
+  },
+  "HT_Text_Museum_PI01_Piranha": {
+    "message": ""
+  },
+  "HT_Text_Museum_PI01_Hard_Piranha": {
+    "message": ""
+  },
+  "HT_Text_Museum_PL02_Tree_Creature": {
+    "message": ""
+  },
+  "HT_Text_Museum_PL04_Sunflower_With_Face": {
+    "message": ""
+  },
+  "HT_Text_Museum_QC01_Pokemon": {
+    "message": ""
+  },
+  "HT_Text_Museum_QR04_Sak_Nose_Needler": {
+    "message": ""
+  },
+  "HT_Text_Museum_QU01_Skeletal_Spider": {
+    "message": ""
+  },
+  "HT_Text_Museum_QU02_Skeletal_Armadillo": {
+    "message": ""
+  },
+  "HT_Text_Museum_QU04_Mummy_Chihuahua": {
+    "message": ""
+  },
+  "HT_Text_Museum_QU05_skeletal_waspspider": {
+    "message": ""
+  },
+  "HT_Text_Museum_QU06_Mummy_Worm": {
+    "message": ""
+  },
+  "HT_Text_Museum_QU09_Rat": {
+    "message": ""
+  },
+  "HT_Text_Museum_PI04_Spinefish": {
+    "message": ""
+  },
+  "HT_Text_Museum_PI02_Electric_Eel": {
+    "message": ""
+  },
+  "HT_Text_Museum_PI03_Manta_Ray": {
+    "message": ""
+  },
+  "HT_Text_Museum_FL05_Mummy_Eagle": {
+    "message": ""
+  },
+  "HT_Text_Museum_IN11_Spider": {
+    "message": ""
+  },
+  "HT_Text_Museum_QR01_Cobra": {
+    "message": ""
+  },
+  "HT_Text_Museum_QR02_Spitting_Toad": {
+    "message": ""
+  },
+  "HT_Text_Museum_QR03_Small_Frog": {
+    "message": ""
+  },
+  "HT_Text_Museum_QU08_Normal_Chihuahua": {
+    "message": ""
+  },
+  "HT_Text_Museum_PI05_Aka_Turtle": {
+    "message": ""
+  },
+  "HT_Text_Museum_BM07_Squirt": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_BM09_Smiling_burble": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_BM10_i_Cyclops": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_BM12_slim_burble": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_BR04_Goofy_Lizard": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_BR06_Half_Brute": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_BU02_Skeletal_Axeman": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_BU05_almost_a_bull": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_BU06_MBird": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_FL02_Featherless_Turkey": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_FL03_shuttlecock_bird": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_HD02_Cat": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_HD03_BigBull": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_HD14_Crab": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_HD17_Sharpbeak": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Shadow": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Sword": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_IN01_Green_Giant_worm": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_IN07_Blade_Scorpion": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_IN09_Sak_Spike_Spider": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_PI01_Piranha": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_PI01_Hard_Piranha": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_PL02_Tree_Creature": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_PL04_Sunflower_With_Face": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_QC01_Pokemon": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_QR04_Sak_Nose_Needler": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_QU01_Skeletal_Spider": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_QU04_Mummy_Chihuahua": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_QU04_Normal_Chihuahua": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_QU05_skeletal_waspspider": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_QU06_Mummy_Worm": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_QU09_Rat": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Electricity": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Fire": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_QR01_Cobra": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_QR03_Small_Frog": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_Jewel01": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_Jewel02": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_Jewel03": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_Jewel04": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_Jewel05": {
+    "message": ""
+  },
+  "HT_Text_Museum_Name_Jewel06": {
+    "message": ""
+  },
+  "HT_Text_ES_S_HelpText": {
+    "message": ""
+  },
+  "HT_Text_ES_E_HelpText": {
+    "message": ""
+  },
+  "HT_Text_ES_S_BOSItem": {
+    "message": ""
+  },
+  "HT_Text_ES_E_BOSItem": {
+    "message": ""
+  },
+  "HT_Text_ES_S_BOSLocation": {
+    "message": ""
+  },
+  "HT_Text_ES_E_BOSLocation": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotAbyCrown": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotSakCrown": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotHelCrown": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_NewNoteFirst": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_NewNote": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_NewNotes": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotChapter2Items": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotChapter3Items": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotChapter4Items": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotChapter5Items": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotChapter6Items": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_AtunDisc": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotAtunEye": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotAtunEyes04": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotDoubleJump": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotShieldOfOsiris": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotBlowpipe": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotHandsOfAmun": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotMummyCash": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotBeetlePouch": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotScarabPurseUpgrade01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotBeetleSatchel": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotDartBelt": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotAnkhPiece": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotAnkhContainer": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Got100Scarabs": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotIceDarts": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotAcidDarts": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotHippyItem": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotBeetleBreederItem": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotUnderwaterProjectile": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotFastSwim": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_FoundGoldKey": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_FoundGlyphKey": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_FoundCanopicVase": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_FoundRosettaStonePiece": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotHeliopolisGateKey01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotHeliopolisGateKey02": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotHeliopolisGateKey03": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotPhysiciansNote": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotHealingHerb": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotAtunStatue": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotHathorStatue": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotMedicineBag": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotEagleStone": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotWallSection2Key": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotWallSection3Key": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_NoBookOfDead": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_NoHandsOfAmun": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_UseItem_NoItem01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_UseItem_NoItem02": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_UseItem_NoItem03": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_UseItem_NoItem04": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_UseItem_InvalidItem01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_UseItem_InvalidItem02": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_UseItem_InvalidItem03": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotCurseStones01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotCurseStones02": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotCurseStones03": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotPortalAmuletLuxor01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotPortalAmuletAbydos01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotPortalAmuletHeliopolis01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotPortalAmuletDarkArea01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_HaveAmulet": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_NoAmulet": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AlreadyHere": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedLuxor01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedAbydos01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedAkaria01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedHeliopolis01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedSakkara01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedUruk01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea03": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletDeniedLuxor01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletDeniedAbydos01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletDeniedHeliopolis01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletDeniedDarkArea01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_Portal_AmuletDenied01": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_UseItem_NoItem05": {
+    "message": ""
+  },
+  "HT_Text_Mum_Sewer_King_Challenge1": {
+    "message": ""
+  },
+  "HT_Text_Mum_Chapter1_FoundQuestItem": {
+    "message": ""
+  },
+  "HT_Text_Mum_Chapter2_FoundQuestItem": {
+    "message": ""
+  },
+  "HT_Text_Mum_Chapter3_FoundQuestItem": {
+    "message": ""
+  },
+  "HT_Text_Mum_Chapter4_FoundQuestItem": {
+    "message": ""
+  },
+  "HT_Text_Mum_Chapter5_FoundQuestItem": {
+    "message": ""
+  },
+  "HT_Text_Mum_Chapter1_FoundJewel1": {
+    "message": ""
+  },
+  "HT_Text_Mum_Chapter2_FoundJewel2": {
+    "message": ""
+  },
+  "HT_Text_Mum_Chapter3_FoundJewel3": {
+    "message": ""
+  },
+  "HT_Text_Mum_Chapter4_FoundJewel4": {
+    "message": ""
+  },
+  "HT_Text_Mum_Chapter5_FoundJewel5": {
+    "message": ""
+  },
+  "HT_Text_Mum_Chapter6_FoundJewel6": {
+    "message": ""
+  },
+  "HT_Text_Aby_Canal_GotStairsKey": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotZipHandle": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotParasol": {
+    "message": ""
+  },
+  "HT_Text_Mum_Cast_Urukite1": {
+    "message": ""
+  },
+  "HT_Text_Mum_Cast_Urukite2": {
+    "message": ""
+  },
+  "HT_Text_Mum_Cast_Urukite3": {
+    "message": ""
+  },
+  "HT_Text_Mum_Cast_Urukite4": {
+    "message": ""
+  },
+  "HT_Text_Mum_Cast_Urukite5": {
+    "message": ""
+  },
+  "HT_Text_Mum_Cast_Urukite6": {
+    "message": ""
+  },
+  "HT_Text_Mum_Cast_CageLocked": {
+    "message": ""
+  },
+  "HT_Text_Mum_Cast_Help_FoundCageKey": {
+    "message": ""
+  }
+}

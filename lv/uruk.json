@@ -99,7 +99,7 @@
     "message": "Skaties, ja tu uzmet akmeni uz to dzīvnieku alu, iespējams ka tu iegūsi kaut ko noderīgu.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_UseSlimBurble01": {
-    "message": "Uzmanīgi Sfinks, šie monstri izliekas diez ko nekaitīgi, bet tie ir ļoti sprādzienbīstami!<E>"
+    "message": "Uzmanīgi Sfinks, šie briesmoņi izskatās diez ko nekaitīgi, bet tie ir ļoti sprādzienbīstami!<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_UseSlimBurble02": {
     "message": "<EFF><EPO>Kad tiem uznāk dusmas, tie mirgo sarkani un metās virsū pretiniekam, sprākstot uz kontakta.<P>Ja tu skrien kā vējš, tu varētu izmantot viņus savā labā, novedot tos pie piemērota objekta.<E>"
@@ -312,7 +312,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu ieguvi <FC 0,128,0>Atsperīgās Šautriņas<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Šīs maģiskās šautriņas var tikt izmantotas lai trāpītu<N>pa mērķiem kuriem tev nav tieša pieeja.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Urk_4pat_Help_FoundBeetles": {
-    "message": "<N><CNTR>Tu ieguvi <FC 0,128,0>Sprāgstošās Vaboles<END FC>!<P>Ekipē tās ar <FC 0,128,0>virziena pogu<END FC> tā pat kā tu darīji ar <FC 0,128,0>Šautriņu Nūju<END FC>. Kad poga ir atlaista, novadi vaboli lietojot <SB HT_PadAction_PLR_MoveBeetle>.<P>Tās sprāgst nākot kontaktā ar monstriem un sienām bet tu arī vari <FC 0,128,0>ATSAUKT<END FC> vai <FC 0,128,0>DETONĒT<END FC> tās.<E>"
+    "message": "<N><CNTR>Tu ieguvi <FC 0,128,0>Sprāgstošās Vaboles<END FC>!<P>Ekipē tās ar <FC 0,128,0>virziena pogu<END FC> tā pat kā tu darīji ar <FC 0,128,0>Šautriņu Trubu<END FC>. Kad poga ir atlaista, novadi vaboli lietojot <SB HT_PadAction_PLR_MoveBeetle>.<P>Tās sprāgst nākot kontaktā ar briesmoņiem un sienām bet tu arī vari <FC 0,128,0>ATSAUKT<END FC> vai <FC 0,128,0>DETONĒT<END FC> tās.<E>"
   },
   "HT_Text_Urk_4pat_Help_DoubleJump": {
     "message": "<DHP><DP>Lec augstāk turot pogu <FC 0,128,0>LĒKT<END FC>. Lec kūlenī nospiežot pogu <FC 0,128,0>LĒKT<END FC> divreiz. <W 120>"
@@ -387,7 +387,7 @@
     "message": "<EFF><EPO>Pateicoties Jums abiem, līdzsvars tiks atkal nests uz šīs pasaules priekš daudzām nākamajām paaudzēm.. <P>Nākotnē jūs piedzīvosiet bīstamākus piedzīvojumus. Bet pašlaik, atpūtieties un izbaudiet Jūsu uzvaru.<P>Tutanhamon, ar manu pateicību es tev piešķiru pēdējo <FC 0,128,0>Kanopisko Vāzi<END FC>.<E>"
   },
   "HT_Text_Urk_Set_BossDead8": {
-    "message": "Neuztraucies Tutanhamon, ir noteikti jābūt vēl kādam veidam kā tevi pārvērst atpakaļ. Iespējams, ka citas pasaules ietvers veidu kā nobeigt tavu izmisumu. <E>"
+    "message": "Neuztraucies Tutanhamon, noteikti jābūt vēl kādam veidam kā tevi pārvērst atpakaļ. Iespējams, ka citas pasaules ietvers veidu kā nobeigt tavu izmisumu. <E>"
   },
   "HT_Text_Urk_Set_BossDead9": {
     "message": "Mēs tev palīdzēsim atrast pareizo atbildi...<W 180>"

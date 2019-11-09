@@ -1,0 +1,32 @@
+{
+  "HT_Text_BOS_Monster_CapturedMonsters": {
+    "message": "モンスター"
+  },
+  "HT_Text_BOS_Monster_Moves": {
+    "message": "Moves"
+  },
+  "HT_Text_BOS_Monster_Health": {
+    "message": "体力"
+  },
+  "HT_Text_BOS_Monster_AttackRating": {
+    "message": "攻撃力"
+  },
+  "HT_Text_BOS_Monster_DefenceRating": {
+    "message": "防御力"
+  },
+  "HT_Text_BOS_Monster_DR_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>モンスターの防御力が増えれば増えるほど、対戦で敵の攻撃に耐えられるようになる。<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_Monster_AR_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>モンスターの攻撃力が増えれば増えるほど攻撃のダメージが大きくなる。<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_Monster_Health_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>モンスターの体力。モンスターの体力がなくなったら、その種類のモンスターを解放できなくなる\b。そのモンスターをまた掴むまでにね！<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_Monster_NoMoves": {
+    "message": "<ES HT_Text_ES_S_BOSStd>You currently have no moves that you can select.<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_Monster_NoMonsters": {
+    "message": "<ES HT_Text_ES_S_BOSStd>モンスターは一匹も持っていない。<ES HT_Text_ES_E_BOSStd>"
+  }
+}

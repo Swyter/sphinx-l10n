@@ -1,179 +1,179 @@
 {
   "HT_Text_Context_Test": {
-    "message": "TESTA KONTEKSTS"
+    "message": ""
   },
   "HT_Text_Context_UseItem": {
-    "message": "LIET. PRIEKŠ."
+    "message": ""
   },
   "HT_Text_Context_Use": {
-    "message": "LIETOT"
+    "message": ""
   },
   "HT_Text_Context_PushObject": {
-    "message": "GRŪST"
+    "message": ""
   },
   "HT_Text_Context_PullObject": {
-    "message": "VILKT"
+    "message": ""
   },
   "HT_Text_Context_Lever": {
-    "message": "LIETOT SVIRU"
+    "message": ""
   },
   "HT_Text_Context_OpenDoor": {
-    "message": "ATVĒRT"
+    "message": ""
   },
   "HT_Text_Context_PickupObject": {
-    "message": "PACELT"
+    "message": ""
   },
   "HT_Text_Context_SavePoint": {
-    "message": "SAGLABĀT"
+    "message": ""
   },
   "HT_Text_Context_NPC": {
-    "message": "RUNĀT"
+    "message": ""
   },
   "HT_Text_Context_Grab": {
-    "message": "GRĀBT"
+    "message": ""
   },
   "HT_Text_Context_Possession": {
-    "message": "PĀRŅEMT"
+    "message": ""
   },
   "HT_Text_Context_Unpossession": {
-    "message": "IZBEIGT PĀRŅ."
+    "message": ""
   },
   "HT_Text_Context_Release": {
-    "message": "ATLAIST"
+    "message": ""
   },
   "HT_Text_Context_Clone": {
-    "message": "KLONĒT"
+    "message": ""
   },
   "HT_Text_Context_Invisibility": {
-    "message": "NEREDZ."
+    "message": ""
   },
   "HT_Text_Context_Hide": {
-    "message": "SLĒPTIES"
+    "message": ""
   },
   "HT_Text_Context_FreezeTime": {
-    "message": "APTURĒT LAIKU"
+    "message": ""
   },
   "HT_Text_Context_KaTile": {
-    "message": "ŠAUT KĀ"
+    "message": ""
   },
   "HT_Text_Context_Shop": {
-    "message": "PIRKT"
+    "message": ""
   },
   "HT_Text_Context_Blank": {
-    "message": " "
+    "message": ""
   },
   "HT_Text_Context_Linear": {
-    "message": "LINEĀRS"
+    "message": ""
   },
   "HT_Text_Context_Recall": {
-    "message": "ATSAUKT"
+    "message": ""
   },
   "HT_Text_Context_Directed": {
-    "message": "VIRZĪTS"
+    "message": ""
   },
   "HT_Text_Context_Cancel": {
-    "message": "ATCELT"
+    "message": ""
   },
   "HT_Text_Context_Jump": {
-    "message": "LĒKT"
+    "message": ""
   },
   "HT_Text_Context_Attack": {
-    "message": "UZBRUKT"
+    "message": ""
   },
   "HT_Text_Context_Detonate": {
-    "message": "DETONĒT"
+    "message": ""
   },
   "HT_Text_Context_Beetle": {
-    "message": "VABOLE"
+    "message": ""
   },
   "HT_Text_Context_Throw": {
-    "message": "MEST"
+    "message": ""
   },
   "HT_Text_Context_Drop": {
-    "message": "IZMEST"
+    "message": ""
   },
   "HT_Text_Context_FireDart": {
-    "message": "ŠAUT"
+    "message": ""
   },
   "HT_Text_Context_FirstPerson": {
-    "message": "1. PERSONA"
+    "message": ""
   },
   "HT_Text_Context_Blowpipe": {
-    "message": "ŠAUTRIŅU TRUBA"
+    "message": ""
   },
   "HT_Text_Context_ThirdPerson": {
-    "message": "3. PERSONA"
+    "message": ""
   },
   "HT_Text_Context_Program": {
-    "message": "PROGRAMMĒT"
+    "message": ""
   },
   "HT_Text_Context_SpittingToadV": {
-    "message": "VERTIKĀLS"
+    "message": ""
   },
   "HT_Text_Context_SpittingToadH": {
-    "message": "HORIZONTĀLS"
+    "message": ""
   },
   "HT_Text_Context_Flap": {
-    "message": "VICINĀT"
+    "message": ""
   },
   "HT_Text_Context_Enter": {
-    "message": "IEIET"
+    "message": ""
   },
   "HT_Text_Context_Grow": {
-    "message": "AUGT"
+    "message": ""
   },
   "HT_Text_Context_Exit": {
-    "message": "IZIET"
+    "message": ""
   },
   "HT_Text_Context_SwapMummy": {
-    "message": "MAINĪT"
+    "message": ""
   },
   "HT_Text_Context_MummyCrawl": {
-    "message": "RĀPOT"
+    "message": ""
   },
   "HT_Text_Context_MummyStandUp": {
-    "message": "STĀVĒT"
+    "message": ""
   },
   "HT_Text_Context_Dive": {
-    "message": "NIRT"
+    "message": ""
   },
   "HT_Text_Context_Swim": {
-    "message": "PELDĒT"
+    "message": ""
   },
   "HT_Text_Context_SwimFast": {
-    "message": "ĀTRI"
+    "message": ""
   },
   "HT_Text_Context_WallSneakPeek": {
-    "message": "PALŪRĒT"
+    "message": ""
   },
   "HT_Text_Context_WallSneak": {
-    "message": "LĪST"
+    "message": ""
   },
   "HT_Text_Context_Take": {
-    "message": "ŅEMT"
+    "message": ""
   },
   "HT_Text_Context_DJump": {
-    "message": "MEST KŪLENI"
+    "message": ""
   },
   "HT_Text_Context_Read": {
-    "message": "LASĪT"
+    "message": ""
   },
   "HT_Text_Context_Slam": {
-    "message": "TRIEKT"
+    "message": ""
   },
   "HT_Text_Context_Wear": {
-    "message": "VILKT"
+    "message": ""
   },
   "HT_Text_Context_UnHide": {
-    "message": "PARĀDĪTIES"
+    "message": ""
   },
   "HT_Text_Context_Choose": {
-    "message": "IZVĒLĒTIES"
+    "message": ""
   },
   "HT_Text_Context_Select": {
-    "message": "IZVĒLĒTIES"
+    "message": ""
   },
   "HT_Text_Context_Shake": {
-    "message": "KRATĪT"
+    "message": ""
   }
 }

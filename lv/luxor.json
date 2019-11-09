@@ -1,413 +1,413 @@
 {
   "HT_Text_Lux_pyra_sacrifice_2a": {
-    "message": "Sir, there is an intruder in the building!<E>"
+    "message": "Kungs, šajā ēkā ir iebrucējs!<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_2b": {
-    "message": "What?! Destroy him! He cannot interrupt the ceremony!<E>"
+    "message": "Ko?! Iznīciniet viņu! Viņš nedrīkst pārtraukt ceremoniju!<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_2c": {
-    "message": "Wait a second... I sense something...<W 60>"
+    "message": "Pagaidiet... Es sajūtu kaut ko...<W 60>"
   },
   "HT_Text_Lux_pyra_sacrifice_2d": {
-    "message": "Forsaken spirits of this building, wake up! Arise and kill the intruder!<W 120>"
+    "message": "Šīs ēkas pamestie gari, mostieties! Celieties un nogaliniet iebrucēju!<W 120>"
   },
   "HT_Text_Lux_pyra_sacrifice_3a": {
-    "message": "<EFF><EPO>What happened? Curses! Now we will have to start again...<P>Look! There's the saboteur who ruined the ceremony...<E>"
+    "message": "<EFF><EPO>Kas notika? Velns parāvis! Mums ir atkal jāsāk no gala...<P>Skat! Tur ir sabotieris kurš izjauca ceremoniju...<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_3b": {
-    "message": "You fool! Deactivate the magical device! Can't you see it is going to explode!<W 120><E>"
+    "message": "Tu muļķi! Deaktivizējiet maģisko ierīci! Vai Jūs neredzat ka tā taisās sprāgt!<W 120><E>"
   },
   "HT_Text_Lux_pyra_sacrifice_3c": {
-    "message": "It's sucking us in! No!!!<W 60>"
+    "message": "Tā sūc mūs iekšā! Nē!!!<W 60>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_a": {
-    "message": "Oh! Thank you for saving me, I'm eternally grateful. But now my beloved Tut is dead! How can I live without him?<E>"
+    "message": "Ak! Liels paldies ka izglābāt mani, esmu mūžīgi pateicīga. Bet tagad mans mīļais Tuts ir miris! Kā gan es dzīvošu bez viņa?<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_b": {
-    "message": "This vase is all that remains of him. I'm sure that part of his soul is inside.<E>"
+    "message": "Šī vāze ir viss kas ir atlicis no viņa. Esmu pārliecināta ka daļa no viņa dvēseles mājo tajā.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_c": {
-    "message": "I want you to take it. Your heroic actions assure me that you might be the one to bring him back.<E>"
+    "message": "Es vēlos lai tu paņem to. Tavas varonīgās rīcības pārliecina mani, ka tu varētu būt tas, kurš viņu atgriezīs pie dzīves.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_c1": {
-    "message": "Please, find him and bring him back to me. Oh Tut! Why did they do this to you?<E>"
+    "message": "Lūdzu, atrodi viņu, un atgriez viņu pie manis. Ak Tut! Kādēļ viņiem tas tev bija jādara?<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_d": {
-    "message": "Before you go, take this. It's an amulet that Tut gave to me, he was fascinated by it, but I don't know why. To me it's just an amulet.<E>"
+    "message": "Pirms tu dodies, paņem šo. Tas ir amulets kuru Tuts man iedeva, viņš bija fascinēts no tā, bet es nezinu kāpēc. Priekš manīm tas ir vienkārši amulets.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_e": {
-    "message": "Sphinx, you must meet with me in <FC 128,64,0>Heliopolis<END FC> as soon as possible.<E>"
+    "message": "Sfinks, tev ir jāsatiekas ar manīm <FC 128,64,0>Heliopolisā<END FC> tik drīz cik vien iespējams.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_e1": {
-    "message": "These events are clear evidence that something extremely sinister is taking place.<E>"
+    "message": "Šie notikumi ir skaidrs pierādījums tam, ka kaut kas ārkārtīgi draudīgs risinās.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_f": {
-    "message": "<EFF><EPO>The forces at work during this ceremony were far too powerful and demonic for my liking.<P>We must find the source of this power before it grows to be a real menace.<E>"
+    "message": "<EFF><EPO>Spēki, kas piedalījās šīs ceremonijas laikā, bija pārāk spēcīgi un dēmoniski priekš manas patikas.<P>Mums jāatrod šīs enerģijas avots, pirms tas kļūst par īstu draudu.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_g": {
-    "message": "With that <FC 0,128,0>Portal Amulet<END FC> you can use the portal in the entrance to leave this place.<E>"
+    "message": "Ar šo <FC 0,128,0>Portāla Amuletu<END FC> tu vari izmantot portālu pie ieejas lai tiktu prom no šīs vietas.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_g1": {
-    "message": "Again we have no way of knowing exactly where is going to send you but wherever it may be, you must find a way to Heliopolis.<E>"
+    "message": "Atkal, mēs nespējam precīzi zināt kur tieši tas tevi nogādās, bet lai kur tas tevi nogādātu, tev ir jāatrod ceļš uz Heliopolisi.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_h": {
-    "message": "Do not worry about Nefertiti, I will find a way to help her to escape from this wretched place.<E>"
+    "message": "Neuztraucies par Nofreteti, es atradīšu veidu kā viņai palīdzēt tikt ārā no šīs nožēlojamās vietas.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_I": {
-    "message": "I want you to take this <FC 0,128,0>Gold Ankh<END FC>. It will help you to face the challenges you will inevitably face on your journey.<E>"
+    "message": "Es vēlos lai tu paņem šo <FC 0,128,0>Zelta Anku<END FC>. Tas tev palīdzēs pārvarēt izaicinājumus, ar kuriem tu neizbēgami satiksies tavā ceļojumā.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_m": {
-    "message": "Good luck, Sphinx.<W 60>"
+    "message": "Vēlu veiksmi, Sfinks.<W 60>"
   },
   "HT_Text_Lux_Pyramid_Help_GotShield": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Shield of Osiris<END FC>!<P><CNTR>This most ancient artifact was said to be wielded by the great god Osiris himself!<P><CNTR>You can use the shield to protect yourself from many types of enemy attack and other hazards.<E>"
+    "message": "<N><CNTR>Tu ieguvi <FC 0,128,0>Osīrisa Vairogu<END FC>!<P><CNTR>Ir minēts, ka šo seno artefaktu ir lietojis pats varenais Dievs Osīris!<P><CNTR>Tu vari lietot vairogu lai aizsargātu sevi no daudz un dažādiem pretinieku uzbrukumu veidiem un citiem apdraudējumiem.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_NeedAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Without a <FC 0,128,0>Portal Amulet<END FC> the Portal God will not allow you to pass.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Bez <FC 0,128,0>Portāla Amuleta<END FC> Portāla Dievs tev neļaus šķērsot.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_AmuletAccepted": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your credentials and will provide transport to <FC 128,64,0>Abydos<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Portāla Dievs pieņem Jūsu sniegto amuletu un sniegs Jums transportu uz <FC 128,64,0>Abidosu<END FC>...<E>"
   },
   "HT_Text_Lux_Pyramid_Help_UsePortal": {
-    "message": "Use the portal?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Lietot portālu?<N>  <B 1> Jā<N>  <B 2> Nē<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotPortalAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Portal Amulet<END FC>!<P><N><CNTR>This gold artifact was made to honor the Portal God.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu ieguvi <FC 0,128,0>Portāla Amuletu<END FC>!<P><N><CNTR>Šis zelta artefakts tika izveidots lai godinātu Portāla Dievu.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotCanopicVase": {
-    "message": "<N><CNTR>You got a <FC 0,128,0>Canopic Vase<END FC>!<P><N><CNTR>Part of the soul of Tutankhamen is stored inside.<E>"
+    "message": "<N><CNTR>Tu ieguvi <FC 0,128,0>Kanopisko Vāzi<END FC>!<P><N><CNTR>Daļa no Tutanhamona dvēseles tiek glabāta tajā.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotGoldKey": {
-    "message": "<N><CNTR>You found a <FC 0,128,0>Gold Key<END FC>!<E>"
+    "message": "<N><CNTR>Tu atradi <FC 0,128,0>Zelta Atslēgu<END FC>!<E>"
   },
   "HT_Text_Lux_Pyramid_NefertitiHU17_KillEnemies": {
-    "message": "There's no time to talk to me! Get rid of those awful monsters!<E>"
+    "message": "Tagad nav laika pļāpiņam! Tiec galā ar tiem šausmīgajiem briesmoņiem!<E>"
   },
   "HT_Text_Lux_Pyramid_NefertitiHU17_Go": {
-    "message": "You should go! There is nothing that can be done here.<E>"
+    "message": "Tev ir jādodas! Šeit vairāk nav ko darīt.<E>"
   },
   "HT_Text_Lux_pala_Guard_a": {
-    "message": "Good morning, Prince, and happy birthday!<E>"
+    "message": "Labrīt, un daudz laimes dzimšanas dienā, Jūsu Majestāt!<E>"
   },
   "HT_Text_Lux_pala_Guard_b": {
-    "message": "Lady Nefertiti was looking for you. She said it was very important, and wants you to meet her in the <FC 128,64,0>Courtyard<END FC> before you go to the state rooms.<E>"
+    "message": "Nofretetes Kundze Jūs meklēja. Viņa sacīja, ka ir kas svarīgs sakāms, un vēlas tevi satikt <FC 128,64,0>Pagalmā<END FC> pirms tu dodies uz citām pils telpām.<E>"
   },
   "HT_Text_Lux_pala_Guard_c": {
-    "message": "Your Majesty, Lady Nefertiti insists you meet her in the <FC 128,64,0>Courtyard<END FC> before going to the state rooms. Might I say, it appeared to be urgent... <E>"
+    "message": "Jūsu Majestāte, Nofretetes Kundze uzstāj, lai jūs viņas satiekat <FC 128,64,0>Pagalmā<END FC> pirms došanās uz citām pils telpām. Atvainojos par iejaukšanos, bet tas šķita svarīgi... <E>"
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_a": {
-    "message": "Lady Nefertiti, I am aware that Prince Tutankhamen has asked for your hand in marriage. <E> "
+    "message": "Nofretetes Kundze, esmu dzirdējis baumas, ka Princis Tutanhamons ir lūdzis jūsu roku, lai kļūtu par viņa sievu. <E> "
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_a1": {
-    "message": "As any astute man will tell you, the logical choice is not necessarily the wisest. A marriage with, say, his brother Akhenaten could have unexpected advantages...<E>"
+    "message": "Kā jebkurš zinošs cilvēks teiktu, loģiskā izvēle ne vienmēr ir visgudrākā. Laulībai, piemēram, ar viņa brāli Ehnatonu varētu būt negaidītas priekšrocības... <E>"
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_b": {
-    "message": "And who knows what the future will bring? You should think carefully about that, Nefertiti... <E>"
+    "message": "Kas zina, kāda nākotne mūs sagaida? Nofretete, rūpīgi vēl padomājiet par manis teiktajiem vārdiem... <E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_a": {
-    "message": "Tutankhamen, at last you are here!<E>"
+    "message": "Tutanhamon, beidzot tu esi klāt!<E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_b": {
-    "message": "There's an important <FC 0,128,0>Letter<END FC> here I have to read. Can you get it before someone else finds it?<E>"
+    "message": "Paklau, šeit ir ļoti svarīga <FC 0,128,0>Vēstule<END FC> kuru man ir jāizlasa. Vai tu lūdzu varētu to dabūt, pirms kāds to atrod?<E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_c": {
-    "message": "I tried to get it but a gust of wind carried it away. Now it's right up there, at the foot of that statue. <E>"
+    "message": "Es mēģināju to satvert, bet vēja brāzma to aizpūta prom. Tagad tā ir tur augšā, statujas pakājē. <E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_d": {
-    "message": "Please hurry! <W 60>"
+    "message": "Lūdzu pasteidzies! <W 60>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_a": {
-    "message": "Wonderful! You got it! <W 60>"
+    "message": "Brīnišķīgi! Tu to dabūji! <W 60>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_b": {
-    "message": "I need to talk to you about this letter, but not here. Someone might be listening. Meet me outside the palace later. <E>"
+    "message": "Man vajadzētu parunāt ar tevi par šo vēstuli, bet ne šeit. Iespējams, ka kāds mūsos klausās. Vēlāk satiec mani ārpus pils. <E>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_c": {
-    "message": "There are some things that you need to know... <E>"
+    "message": "Ir dažas lietas kas tev jāzina... <E>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_d": {
-    "message": "...and please, my dear Tutankhamen, watch your back! <E>"
+    "message": "...un lūdzu, dārgais Tutanhamon, esi piesardzīgs! <E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_a": {
-    "message": "Ahh, my favorite nephew has come to see his favorite aunt! Happy birthday! My dear, you are growing very fast!<E>"
+    "message": "Ak, mans mīļākais brāļadēls ir ieradies redzēt savu mīļāko tanti! Daudz laimes dzimšanas dienā! Manu dārgumiņ, cik ātri tu jau esi izaudzis!<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_b": {
-    "message": "Oh, I see you have found some <FC 0,128,0>Old Amulets<END FC>. Nobody really cares about them these days, but I've been searching for them lately.<E>"
+    "message": "O, es redzu ka tu esi atradis dažus <FC 0,128,0>Senos Amuletus<END FC>. Mūsdienās par viņiem neviens īsti nerūpējas, bet pēdējā laikā esmu viņus meklējusi.<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_b1": {
-    "message": "Have you seen any amulets like the one I hold in my hand? <E>"
+    "message": "Vai vēl esi redzējis tādus pašus amuletus, kuri līdzinās tam, kuru es tagad turu savās rokās? <E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_c": {
-    "message": "The whole collection is scattered throughout the palace, and Akhenaten has ordered me to collect them. He wants to store the collection in the <FC 128,64,0>Treasure Room<END FC>.<E>"
+    "message": "Visa kolekcija ir izkaisīta pa pili, un Ehnatons ir pavēlējis man tos savākt. Viņš vēlas glabāt kolekciju <FC 128,64,0>Bagātību Telpā<END FC>. <E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_d": {
-    "message": "Your brother seems to get more fickle with each passing day. Could you please find the <FC 0,128,0>Old Amulets<END FC> for me, my dear nephew?<P>I'm far too old to be hunting around the palace for them.<E>"
+    "message": "Šķiet, ka tavs brālis ar katru dienu kļūst arvien kaprīzāks. Vai tu, lūdzu, man varētu atrast <FC 0,128,0>Vecos Amuletus<END FC>, mīļais brāļadēliņ? <P> Es esmu pārāk veca, lai tos meklētu pa visu pili."
   },
   "HT_Text_Lux_pala_Seti_Complete_a": {
-    "message": "Oh, splendid! That's all the <FC 0,128,0>Old Amulets<END FC> returned! You are too kind to me. <E>"
+    "message": "Ak, lieliski! Tie ir visi <FC 0,128,0>Vecie Amuleti<END FC>! Tu esi pārāk laipns pret manīm. <E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_b": {
-    "message": "If you don't mind, my dear, one last favor. Can you leave them in the <FC 128,64,0>Treasure Room<END FC>? I'm too tired to walk there myself. <E>"
+    "message": "Ja tu neiebilsti, manu dārgumiņ, man ir vēl viens lūgums. Vai tu lūdzu varētu tos atstāt <FC 128,64,0>Bagātību Telpā<END FC>? Esmu pārāk nogurusi lai pati turp dotos. <E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_c": {
-    "message": "Here is the key to the <FC 128,64,0>Treasure Room<END FC>. You know where the door is; down the stairs in the next room.<E>"
+    "message": "Šeit ir atslēga uz <FC 128,64,0>Bagātību Telpu<END FC>. Tu jau zini kur ir durvis; lejup pa kāpnēm nākamajā telpā.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_d": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Treasure Room Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu ieguvi <FC 0,128,0>Bagātību Telpas Atslēgu<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_a": {
-    "message": "Many happy returns, my dear brother! <E>"
+    "message": "Prieks tevi redzēt, mans dārgais brāl! <E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_b": {
-    "message": "Everyone is busy preparing for your birthday. It's strange... I don't recall such excitement on my birthday. <E>"
+    "message": "Visi ir aizņemti, gatavojoties tavai dzimšanas dienai. Tas ir dīvaini... Es tādu rosību neatceros savā dzimšanas dienā. <E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_c": {
-    "message": "Please, brother, I'm busy finalizing the plans for your birthday ceremony! <E>"
+    "message": "Lūdzu netraucē, brāl, es esmu aizņemts pabeidzot tavus dzimšanas dienas svinības plānus! <E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_d": {
-    "message": "I see you're finally awake... predictably late as usual.<E>"
+    "message": "Beidzot esi nomodā... kā parasti, vēlu.<E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_a": {
-    "message": "Akhenaten, Nefertiti must have the letter. I had it before I talked to her! <E>"
+    "message": "Ehnaton, Nofretetei noteikti ir vēstule. Man tā bija pirms es runāju ar viņas! <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_b": {
-    "message": "Hmm, this is getting risky... we need to accelerate our plans. Are the sarcophagi in place? <E>"
+    "message": "Hmm, šī situācija kļūst riskanta... mums vajag paātrināt mūsu plānus. Vai sarkofāgi ir savās vietās? <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_c": {
-    "message": "Yes sir, everything is going as planned. <W 60>"
+    "message": "Jā kungs, viss norit pēc plāna. <W 60>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_d": {
-    "message": "I'm going to leave a spare <FC 0,128,0>Sarcophagus Key<END FC> here in case anything happens to the others.  <E>"
+    "message": "Es šeit atstāšu rezerves <FC 0,128,0>Sarkofāga Atslēgu<END FC>, gadījumā ja mēs pazaudējam kādu.  <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_e": {
-    "message": "My little brother is going to get an unexpected birthday surprise this year. <E>"
+    "message": "Mans mazais brālis šogad gūs negaidītu dzimšanas dienas pārsteigumu. <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_f": {
-    "message": "A very unexpected surprise, sir! <E>"
+    "message": "Ļoti negaidītu pārsteigumu, kungs! <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_g": {
-    "message": "Hahaha!!! Hahaha!!! This party is going to be the best this palace has ever seen! <E>"
+    "message": "Hahaha!!! Hahaha!!! Šī balīte būs vislabāka, kuru šī pils jebkad būs pieredzējusi! <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_a": {
-    "message": "I want you all to be ready to use the warping sarcophagi to enter the palace when the party begins. We must overrun the palace quickly. <E>"
+    "message": "Sākoties ceremonijai, esiet gatavi iekļūt pilī viltus sarkofāgos. Tādējādi mēs ātri ieņemsim pili. <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_b": {
-    "message": "Tonight the throne will finally be mine! <E>"
+    "message": "Šonakt tronis beidzot būs mans! <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_c": {
-    "message": "Ahh, my dear brother, what a pleasant surprise! And after I had prepared such a wonderful party for you tonight. <E>"
+    "message": "Ak, mans mīļais brālis! Kāds patīkams pārsteigums! Es tev šonakt biju sagatavojis tik brīnišķīgu ballīti. <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_d": {
-    "message": "However, you're obviously too impatient to wait and you want your present now. <E>"
+    "message": "Tomēr, tu acīmredzami esi tik nepacietīgs, ka vēlies savu dāvanu tagad. <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_e": {
-    "message": "Guards, seize him! <W 60>"
+    "message": "Sargi, aizturiet viņu! <W 60>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_a": {
-    "message": "Good morning Prince, and happy birthday! <E>"
+    "message": "Labrīt, un daudz laimes dzimšanas dienā, Jūsu Majestāt! <E>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_b": {
-    "message": "The entire palace is very busy preparing for your birthday ceremony.<E>"
+    "message": "Visi pils iemītnieki ir ļoti aizņemti, gatavojoties tavām dzimšanas dienas svinībām.<E>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_c": {
-    "message": "Prince, I spoke with Lady Nefertiti earlier. She requested you meet her in the <FC 128,64,0>Courtyard<END FC> this morning.<E>"
+    "message": "Jūsu Majestāt, es nesen runāju ar Nofretetes Kundzi. Viņa lūdza, lai Jūs šorīt viņas satiekat <FC 128,64,0>Pagalmā<END FC>.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant1": {
-    "message": "Prince, I'm busy cleaning this wardrobe at the moment.<E>"
+    "message": "Jūsu Majestāte, pašlaik esmu aizņemta, tīrot šo skapi.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant2": {
-    "message": "Oh, Prince! That was a nice flowerpot!<E>"
+    "message": "Ak, Jūsu Majestāt! Tas bija labs puķu pods!<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant3": {
-    "message": "What a mess! Please don't knock over any more, Prince.<E>"
+    "message": "Kāda nekārtība! Lūdzu, vairāk negāziet tos, Jūsu Majestāt.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant4": {
-    "message": "<DHP><DP>Oh no, not another one!<W 30>"
+    "message": "<DHP><DP>Ak nē! Ne atkal!<W 30>"
   },
   "HT_Text_Lux_Pala_CleaningServant5": {
-    "message": "<DHP><DP>Please, Prince, can you stop making a complete mess of the room?<W 60>"
+    "message": "<DHP><DP>Lūdzu, Jūsu Majestāte, vai jūs varētu beigt, radīt istabā nekārtību?<W 60>"
   },
   "HT_Text_Lux_Pala_WardrobeLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This wardrobe needs a <FC 0,128,0>Key<END FC> to open it.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Šim skapim ir vajadzīga <FC 0,128,0>Atslēga<END FC>, lai to atvērtu.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_WardrobeBlocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This wardrobe seems to be locked.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Šķiet, ka šis skapis ir slēgts.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_CorriderGuard": {
-    "message": "Happy birthday, Prince! <E>"
+    "message": "Daudz laimes dzimšanas dienā, Jūsu Majestāt! <E>"
   },
   "HT_Text_Lux_Pala_CorriderGuardBlock": {
-    "message": "Your Majesty, Lady Nefertiti insists you meet her in the <FC 128,64,0>Courtyard<END FC>.<E>"
+    "message": "Jūsu Majestāte, Nofretetes Kundze uzstāj, lai jūs viņas satiekat <FC 128,64,0>Pagalmā<END FC>.<E>"
   },
   "HT_Text_Lux_Pala_SetiPartner1": {
-    "message": "Good morning Prince, your brother seems very busy redecorating the palace for the ceremony. <E>"
+    "message": "Labrīt, Jūsu Majestāt. Sķiet, ka Jūsu brālis ir ļoti aizņemts, dekorējot pili svinībām. <E>"
   },
   "HT_Text_Lux_Pala_SetiPartner2": {
-    "message": "Eurrgh! What a grotty little hole. It looks like a rat's nest! <E>"
+    "message": "Fuj! Kāda riebīga, maza eja. Tā izskatās pēc žurku midzeņa! <E>"
   },
   "HT_Text_Lux_Pala_SetiPartner3": {
-    "message": "I thought they were all taken care of? At least this one has been blocked off. <E>"
+    "message": "Es domāju, ka viņi jau parūpējās par šo eju aizvēršanu. Vismaz, šī tika nobloķēta.<E>"
   },
   "HT_Text_Lux_Pala_SetiSecret": {
-    "message": "No dear, it appears to be one of the old secret corridors which riddle the palace. They've been in the palace longer than I have! <E>"
+    "message": "Nē, mīļā, šķiet, ka tas ir viens no senajiem slepenajiem koridoriem, kuri mīt pa visu pili. Tie šeit ir bijuši pilī ilgāk nekā es! <E>"
   },
   "HT_Text_Lux_Pala_SetiQuestion": {
-    "message": "Could you please find the amulets for me, my dear nephew? I'm far too old to be hunting around the palace for them.<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Vai tu lūdzu varētu atrast amuletus priekš manīm, mans mīļais brāļadēl? Es esmu pārāk veca, lai tos meklētu pa visu pili.<N> <B 1> Jā<N> <B 2> Nē<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionAgain": {
-    "message": "Dear nephew, have you changed your mind?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Mīļais brāļadēl, vai tu esi pārdomājis?<N>  <B 1> Jā<N>  <B 2> Nē<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionYes": {
-    "message": "Bless you, my dear! Thank you for helping your dear aunt. <E>"
+    "message": "Esi svētīts, manu dārgumiņ! Paldies, ka palīdzēji savai mīļajai tantei. <E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionNo": {
-    "message": "Please, be nice to your aunt. I don't know what I'm going to say when your brother asks me for them again. <E>"
+    "message": "Lūdzu, esi pieklājīgs pret savu tanti. Es neesmu pārliecināts, ko es teikšu, kad tavs brālis man atkal prasīs par tiem. <E>"
   },
   "HT_Text_Lux_Pala_SetiAccepted": {
-    "message": "It is very nice of you to offer to help me find the amulets. <E>"
+    "message": "Tas ir ļoti jauki no tavas puses, ka tu piedāvā palīdzību man atrast amuletus.<E>"
   },
   "HT_Text_Lux_Pala_Sorkon1": {
-    "message": "Prince, I have heard rumors concerning palace security. I requested strengthening the guard, but your brother said he would handle it. <E> "
+    "message": "Majestāt, esmu dzirdējis baumas par pils drošību. Es lūdzu stiprināt apsardzi, bet Jūsu brālis teica, ka viņš par to parūpēsies. <E> "
   },
   "HT_Text_Lux_Pala_Sorkon2": {
-    "message": "Prince? Prince! Don't go in there, it's not safe! <W 60>"
+    "message": "Majestāt? Majestāt! Neejiet tur, tur nav droši! <W 60>"
   },
   "HT_Text_Lux_Pala_Sorkon3": {
-    "message": "Prince, you never listen to me! You can't risk yourself wandering around those dangerous passages. They are so old that they could collapse at any moment! <E>"
+    "message": "Majestāt, Jūs nekad neklausāties manī! Jūs nevarat riskēt, dodoties pa tām bīstamajām ejām. Tās ir tik vecas, ka tās varētu jebkurā brīdī sabrukt! <E>"
   },
   "HT_Text_Lux_Pala_Sorkon4": {
-    "message": "Prince, what is going on? I never thought that there was a secret door in such a place. I'm worried about your safety wandering around those dangerous places! <E>"
+    "message": "Majestāt, kas notiek? Es nekad nedomāju, ka tādā vietā varētu būt novietotas slepenas durvis. Es uztraucos par Jūsu drošību, klejojot pa tādām bīstamām vietām! <E>"
   },
   "HT_Text_Lux_Pala_DishServant1": {
-    "message": "I'm a bit busy with the table arrangements at the moment, Prince. You'll have to entertain yourself for a while. <E>"
+    "message": "Pašlaik esmu nedaudz aizņemts kārtojot galdu, Jūsu Majestāt. Jums, kādu laiku, būs pašam jāatrod ar ko nodarboties. <E>"
   },
   "HT_Text_Lux_Pala_DishServant2": {
-    "message": "<DHP><DP>Ack! Prince, please don't walk on my nice clean plates! <W 30>"
+    "message": "<DHP><DP>Nē! Majestāt, lūdzu nestaigājiet pa maniem tīrajiem šķīvjiem! <W 30>"
   },
   "HT_Text_Lux_Pala_DishServant3": {
-    "message": "<DHP><DP>Ahh! The vases! Please don't stand on the table, Prince! <W 30>"
+    "message": "<DHP><DP>Ak nē! Vāzes! Jūsu Majestāt, lūdzu nestāviet uz galda! <W 30>"
   },
   "HT_Text_Lux_Pala_Dress1": {
-    "message": "<ES HT_Text_ES_S_HelpText><N>Do you want to wear this?<N>  <B 1> Yes<N>  <B 2> No<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N>Vai tu vēlies šo uzvilkt?<N>  <B 1> Jā<N>  <B 2> Nē<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_Dress2": {
     "message": "<W 1>"
   },
   "HT_Text_Lux_Pala_TreasureGuard1": {
-    "message": "Perhaps you should talk to the captain about this. <E>"
+    "message": "Varbūt tev par šo vajadzētu parunāt ar kapteini. <E>"
   },
   "HT_Text_Lux_Pala_TreasureCaptain1": {
-    "message": "Prince, something terrible has happened. The guards have found the main door to the <FC 128,64,0>Treasure Room<END FC> broken down and all of the arks are empty. <P>The only thing that we found is that odd sarcophagus in the room. <P>Please don't touch it, it is obviously something related to the robbery. I have tried to inform your brother Akhenaten, but I can't find him anywhere.<E>"
+    "message": "Majestāt, kaut kas neticams ir noticis. Sargi ir atklājuši, ka galvenās durvis uz <FC 128,64,0>Bagātību Telpu<END FC> ir pilnībā salauztas, un visas amforas ir iztukšotas. <P>Vienīgais, ko mēs telpā atradām, ir dīvains sarkofāgs <P>Lūdzu neaiztieciet to, tas noteikti ir saistīts ar zādzību. Es centos informēt tavu brāli Ehnatonu, bet es nekur nespēju viņu atrast.<E>"
   },
   "HT_Text_Lux_Pala_DressWrong": {
-    "message": "Oh, Prince, you're not planning on leaving your bedroom without dressing, are you?<E>"
+    "message": "Ak, Majestāt, Jūs taču nedomājat atstāt istabu pirms pārģērbjaties, vai ne tā?<E>"
   },
   "HT_Text_Lux_Pala_DressWrong2": {
-    "message": "Please, Prince! Not the pink one! It's really ugly!<E>"
+    "message": "Lūdzu, Majestāt! Ne rozā drēbes! Tās Jums nepiestāv!<E>"
   },
   "HT_Text_Lux_Pala_Help_FoundWardrobeKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>You found a <FC 0,128,0>Wardrobe Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Tu atradi <FC 0,128,0>Skapja Atslēgu<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_MenesCorrider1": {
-    "message": "Ah, Prince, I see you are very nicely attired today. As always, your taste is impeccable! <E>"
+    "message": "Ak, majestāt, es redzu ka Jūs šodien esat ļoti skaisti apģērbies. Jūsu apģērba gaume, kā vienmēr, ir nevainojama! <E>"
   },
   "HT_Text_Lux_Pala_MenesCorrider2": {
-    "message": "Ah, I neglected to wish you a happy birthday. My apologies, Prince. <E>"
+    "message": "Ak, es aizmirsu novēlēt jums laimīgu dzimšanas dienu. Atvainojos, Majestāt. <E>"
   },
   "HT_Text_Lux_Palace_GuardHU06_NefLookingForYou": {
-    "message": "Good morning sir and happy birthday!<P>Lady Nefertiti was looking for you. She said it was very important, and would like you to meet her in the <FC 128,64,0>Courtyard<END FC>.<E>"
+    "message": "Labrīt, kungs, un daudz laimes dzimšanas dienā!<P>Nofretetes Kundze Jūs meklēja. Viņa sacīja, ka ir kas svarīgs sakāms, un vēlas tevi satikt <FC 128,64,0>Pagalmā<END FC>.<E>"
   },
   "HT_Text_Lux_Palace_GuardHU06_NefFound": {
-    "message": "You found Lady Nefertiti then! Perhaps my Prince would care to see how the preparations for the banquet are going?<E>"
+    "message": "Tātad, Jūs jau atradāt Nofretetes Kundzi! Iespējams, ka Jūs vēlētos redzēt kā notiek gatavošanās goda mielestam?<E>"
   },
   "HT_Text_Lux_Palace_ServantHU03_SarcophagusDecor": {
-    "message": "Your brother has been most insistent on decorating the palace with these sarcophagi.<P>Forgive me for saying this, Prince, but I don't really like them. Their eyes seem to follow your every move...<E>"
+    "message": "Jūsu brālis mūs rosināja dekorēt pili ar šiem sarkofāgiem.<P>Majestāt, atvainojos par maniem vārdiem, bet man patiesi tie nepatīk. Viņu acis, škiet, seko katrai sīkai kustībai...<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_MeetMeOutside": {
-    "message": "Wonderful! You got it! I need to talk to you about this letter, but not here. Someone might be listening.<P>Meet me outside the palace later and we can talk about it. Watch your back, Tutankhamen.<E>"
+    "message": "Brīnišķīgi! Man vajadzētu parunāt ar tevi par šo vēstuli, bet ne šeit. Iespējams, ka kāds mūsos klausās.<P>Vēlāk satiec mani ārpus pils, un mēs par to varam parunāt. Esi piesardzīgs, Tutanhamon.<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItem": {
-    "message": "Tutankhamen, at last you are here! Please, you must get my <FC 0,128,0>Letter<END FC> from up there before someone else finds it.<P>The <FC 0,128,0>Letter<END FC> contains very important information - please hurry!<E>"
+    "message": "Tutanhamon, beidzot tu esi klāt! Lūdzu, tev ir jāatgūst manu<FC 0,128,0>Vēstuli<END FC>, kura atrodas augšā statujas piekājē, pirms kāds cits to atrod.<P>Tā<FC 0,128,0>Vēstule<END FC> satur ļoti svarīgu informāciju - lūdzu pasteidzies!<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemNoCutscene": {
-    "message": "Tutankhamen, please find my <FC 0,128,0>Letter<END FC>! It's around here somewhere.<E>"
+    "message": "Tutanhamon, lūdzu atrodi manu <FC 0,128,0>Vēstuli<END FC>! Tai jābūt šeit tuvumā.<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemAgain": {
-    "message": "Please hurry, before someone else finds it!<E>"
+    "message": "Lūdzu pasteidzies, pirms kāds cits to atrod!<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemDone": {
-    "message": "Sorry, but I can't talk about the letter in such a public place.<E>"
+    "message": "Atvainojos, bet pašlaik es nevaru par to runāt tik publiskā vietā.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_EvilHappyBirthday": {
-    "message": "Many happy returns, my dear brother! It's strange that I don't remember such excitement on my birthday.<E>"
+    "message": "Prieks tevi redzēt, mans dārgais brāl! Tas ir dīvaini, ka es tādu rosību neatceros savā dzimšanas dienā. <E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_EvilHappyBirthdayAgain": {
-    "message": "Please, brother! I am busy finalizing the plans for your birthday celebrations.<E>"
+    "message": "Lūdzu netraucē, brāl! Es esmu aizņemts pabeidzot tavus dzimšanas dienas svinības plānus! <E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting01": {
-    "message": "Are all the magical sarcophagi in place?<E>"
+    "message": "Vai visi maģiskie sarkofāgi ir pa vietām?<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting02": {
-    "message": "Excellent! My spoilt little brother is going to get an unexpected birthday surprise this year.<P>I'm going to leave a spare <FC 0,128,0>Sarcophagus Key<END FC> here in case anything happens to the others.<E>"
+    "message": "Brīnišķīgi! Mans mazais, izlutinātais brālis šogad gūs negaidītu dzimšanas dienas pārsteigumu.<P>Es šeit atstāšu rezerves <FC 0,128,0>Sarkofāga Atslēgu<END FC>, gadījumā ja mēs pazaudējam kādu.  <E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting03": {
-    "message": "Muahahaha!!!<P>Muahahaha!!!<P>This party is going to be the best this palace has ever seen!<E>"
+    "message": "Muahahaha!!!<P>Muahahaha!!!<P>Šī balīte būs vislabāka, kuru šī pils jebkad būs pieredzējusi! <E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFound": {
-    "message": "Oh, you are so kind, nephew. But I'm afraid there are still<N><FC 0,128,0><SO HT_Objective_Lux_Palace_SetiQuestItemsRemaining><END FC> more amulets missing.<E>"
+    "message": "Ak, tu esi tik labestīgs, brāļadēliņ. Bet diemžēl vēl trūkst<N><FC 0,128,0><SO HT_Objective_Lux_Palace_SetiQuestItemsRemaining><END FC> amuleti.<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFoundOne": {
-    "message": "Excellent! There is only <FC 0,128,0>1<END FC> amulet left, dear nephew.<E>"
+    "message": "Lieliski! Ir vēl atlicis tikai <FC 0,128,0>1<END FC> amulets, mīļais brāļadēliņ.<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsComplete": {
-    "message": "Thank you for your help, nephew. I'm sure I would never have found the amulets on my own.<E>"
+    "message": "Paldies par tavu palīdzību, brāļadēliņ. Esmu pārliecināta, ka es pati nekad nebūtu atradusi amuletus bez tavas palīdzības.<E>"
   },
   "HT_Text_Lux_Palace_MenesHU09_Plotting01": {
-    "message": "Yes, sir, everything is going as planned.<E>"
+    "message": "Jā, kungs, viss norit pēc plāna.<E>"
   },
   "HT_Text_Lux_Palace_MenesHU09_Plotting02": {
-    "message": "A very wise precaution, sir.<E>"
+    "message": "Labs novērojums, mans kungs.<E>"
   },
   "HT_Text_Lux_Pala_Read_TreasureRoom": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Treasure Room<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Bagātību Telpa<END FC> ]---<E>"
   },
   "HT_Text_Lux_Pala_Help_UseLever": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>To operate levers, stand close and press <SB HT_Action_LeverDown><ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Lai darbinātu sviras, stāviet tuvu un nospiediet <SB HT_Action_LeverDown><ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_Help_UseSarco": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>With the <FC 0,128,0>Sarcophagus Key<END FC> you can use a sarcophagus<N>by standing close and pressing <SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ar <FC 0,128,0>Sarkofāga Atslēgu<END FC> tu spēj lietot sarkofāgu<N>stāvot tam tuvumā un nospiežot<SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Pushable": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Objects like this can be pushed and pulled.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_Grab> when close to the object...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...then use <SB HT_PadAction_PLR_MovePlr> to push or pull.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Šādus objektus var grūst un vilkt.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Nospied <SB HT_Action_Grab> kad esi tuvumā pie objekta...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...tad izmanto <SB HT_PadAction_PLR_MovePlr> lai grūstu vai vilktu.<E>"
   },
   "HT_Text_Lux_Palace_Help_LedgeWalk": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You can sneak across some narrow ledges.<P><ES HT_Text_ES_S_HelpText><CNTR>Approach the fence and press <SB HT_Action_WallSneak><N>to move against it.<P><ES HT_Text_ES_S_HelpText><CNTR>Once against the fence use<N><SB HT_PadAction_PLR_MovePlr> to move left and right.<P><ES HT_Text_ES_S_HelpText><CNTR>To sneak slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_WallSneakExit> when you wish to<N>come out of sneak mode.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu vari pārvietoties pa dažām šaurām malām.<P><ES HT_Text_ES_S_HelpText><CNTR>Pietuvojies žogam un nospied <SB HT_Action_WallSneak><N>lai kustētos pret to.<P><ES HT_Text_ES_S_HelpText><CNTR>Kad esi pret žogu izmanto<N><SB HT_PadAction_PLR_MovePlr> lai kustētos pa kreisi un pa labi.<P><ES HT_Text_ES_S_HelpText><CNTR>Lai pārvietoties lēnām, viegli pakustini <SB HT_PadAction_PLR_MovePlr>. <P><ES HT_Text_ES_S_HelpText><CNTR>Nospied <SB HT_Action_WallSneakExit> kad tu vēlies<N>iznākt no līšanas režīma.<E>"
   },
   "HT_Text_Lux_Palace_Help_LedgeHang": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Some ledges on walls can be grabbed.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>Walk off and turn around whilst falling to grab the ledge.<P><ES HT_Text_ES_S_HelpText><CNTR>Then use <SB HT_PadAction_PLR_MovePlr> to move left and right.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Dažas malas uz sienām var tikt satvertas.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>Noej nost no malas un kad krīti pagriezies pret malu, lai satvertu to.<P><ES HT_Text_ES_S_HelpText><CNTR>Tad izmanto <SB HT_PadAction_PLR_MovePlr>, lai kustētos pa kreisi un pa labi.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_DoorLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This door is locked and will require a key to open.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Šīs durvis ir slēgtas, un tām ir nepieciešama atslēga, lai tās atslēgtu.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_DoorLockedForever": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This door is locked from the other<N>side and cannot be opened.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Šīs durvis ir aizslēgtas no otras<N>puses un tās nevar atvērt.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Crawl": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_MummyCrawl> to toggle between<N>walking and crawling.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Nospied <SB HT_Action_MummyCrawl> lai pārslēgties starp<N>staigāšanu un rāpošanu.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundBedroomKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Courtyard Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu atradi <FC 0,128,0>Pagalma Atslēgu<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundNefertitiItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found <FC 0,128,0>Nefertiti's Letter<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu atradi <FC 0,128,0>Nofretetes Vēstuli<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
   },
   "HT_Text_Lux_Palace_Help_FoundSarcophagusKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR><N>You found the <FC 0,128,0>Sarcophagus Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR><N>Tu atradi <FC 0,128,0>Sarkofāgu Atslēgu<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found an <FC 0,128,0>Old Amulet<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu atradi <FC 0,128,0>Senu Amuletu<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundCourtyardKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Courtyard Key<END FC><ES HT_Text_ES_S_HelpText>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu atradi <FC 0,128,0>Pagalma Atslēgu<END FC><ES HT_Text_ES_S_HelpText>!<E>"
   }
 }

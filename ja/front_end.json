@@ -1,0 +1,575 @@
+{
+  "HT_Text_FE_Menu_NewGame": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_LoadGame": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_BonusMaterial": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_Options": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_OptionsSubControl": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_OptionsSubScreen": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_OptionsSubSound": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_MusicVolume": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SoundVolume": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_PadRumbleGC": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_PadRumbleXB": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_PadRumblePS2": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_ScreenAdjust": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_Widescreen": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_Subtitles": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonVert": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonHorz": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_InvertFirstPersonVert": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_OK": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_Cancel": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_ConfirmQuit": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_ConfirmQuit_XB": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SoundStereo": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SoundMono": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SoundSurround": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SoundStereoSurround": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SoundModeOption": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_On": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_Off": {
+    "message": ""
+  },
+  "HT_Text_OptionsMenu_Back": {
+    "message": ""
+  },
+  "HT_Text_OptionsMenu_Select": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_ThirdPerson": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_FirstPerson": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_InvertHorz": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_InvertVert": {
+    "message": ""
+  },
+  "HT_Text_FE_MenuPause_Continue": {
+    "message": ""
+  },
+  "HT_Text_FE_MenuPause_Options": {
+    "message": ""
+  },
+  "HT_Text_FE_MenuPause_QuitGame": {
+    "message": ""
+  },
+  "HT_Text_FE_PressStart_PS2": {
+    "message": ""
+  },
+  "HT_Text_FE_PressStart_XB": {
+    "message": ""
+  },
+  "HT_Text_FE_PressStart_GC": {
+    "message": ""
+  },
+  "HT_Text_FE_PressStart_PC": {
+    "message": ""
+  },
+  "HT_Text_FE_Bonus1_Title": {
+    "message": ""
+  },
+  "HT_Text_FE_Bonus1_Description": {
+    "message": ""
+  },
+  "HT_Text_FE_Bonus2_Title": {
+    "message": ""
+  },
+  "HT_Text_FE_Bonus2_Description": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SaveSlotA": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SaveSlotB": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SaveSlotC": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SaveSlotA_XB": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SaveSlotB_XB": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SaveSlotC_XB": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SaveSlotNone": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SaveSlotEmpty": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_GC": {
+    "message": ""
+  },
+  "HT_Text_MemCard_PromptSlotA": {
+    "message": ""
+  },
+  "HT_Text_MemCard_PromptSlotB": {
+    "message": ""
+  },
+  "HT_Text_MemCard_PromptSlotC": {
+    "message": ""
+  },
+  "HT_Text_MemCard_PromptNo": {
+    "message": ""
+  },
+  "HT_Text_MemCard_PromptYes": {
+    "message": ""
+  },
+  "HT_Text_MemCard_PromptOK": {
+    "message": ""
+  },
+  "HT_Text_MemCard_PromptRetry": {
+    "message": ""
+  },
+  "HT_Text_MemCard_PromptCancel": {
+    "message": ""
+  },
+  "HT_Text_MemCard_PromptHaventSaved_XB": {
+    "message": ""
+  },
+  "HT_Text_MemCard_GameName": {
+    "message": ""
+  },
+  "HT_Text_Paused_PS2": {
+    "message": ""
+  },
+  "HT_Text_Paused_XB": {
+    "message": ""
+  },
+  "HT_Text_Paused_GC": {
+    "message": ""
+  },
+  "HT_Text_ReplacePadPrompt_PS2_PAL": {
+    "message": ""
+  },
+  "HT_Text_ReplacePadPrompt_PS2_NTSC": {
+    "message": ""
+  },
+  "HT_Text_ReplacePadPrompt_XB_Start": {
+    "message": ""
+  },
+  "HT_Text_ReplacePadPrompt_XB": {
+    "message": ""
+  },
+  "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
+    "message": ""
+  },
+  "HT_Text_DeathScreen_Continue": {
+    "message": ""
+  },
+  "HT_Text_DeathScreen_QuitGame": {
+    "message": ""
+  },
+  "HT_Text_DeathScreen_Text": {
+    "message": ""
+  },
+  "HT_Text_OptionsMenu_Reset": {
+    "message": ""
+  },
+  "HT_Text_ScreenAdjustText_PS2": {
+    "message": ""
+  },
+  "HT_Text_ScreenAdjustText_GC": {
+    "message": ""
+  },
+  "HT_Text_ScreenAdjustText_XB": {
+    "message": ""
+  },
+  "HT_Text_Memcard_Test": {
+    "message": ""
+  },
+  "HT_Text_Memcard_SaveConfirm": {
+    "message": ""
+  },
+  "HT_Text_Memcard_LoadConfirm": {
+    "message": ""
+  },
+  "HT_Text_Memcard_OverwriteConfirm": {
+    "message": ""
+  },
+  "HT_Text_Memcard_NoFormat": {
+    "message": ""
+  },
+  "HT_Text_Memcard_NoFormat_Boot": {
+    "message": ""
+  },
+  "HT_Text_Memcard_NoDirectory": {
+    "message": ""
+  },
+  "HT_Text_Memcard_FormatComplete": {
+    "message": ""
+  },
+  "HT_Text_Memcard_SaveFailed": {
+    "message": ""
+  },
+  "HT_Text_Memcard_SaveSuccess": {
+    "message": ""
+  },
+  "HT_Text_Memcard_LoadFail": {
+    "message": ""
+  },
+  "HT_Text_Memcard_NoCard": {
+    "message": ""
+  },
+  "HT_Text_Memcard_NoCard1": {
+    "message": ""
+  },
+  "HT_Text_Memcard_NoSpace_Boot": {
+    "message": ""
+  },
+  "HT_Text_Memcard_NoSpace_Save": {
+    "message": ""
+  },
+  "HT_Text_Memcard_PressKey": {
+    "message": ""
+  },
+  "HT_Text_Memcard_Loading": {
+    "message": ""
+  },
+  "HT_Text_Memcard_Saving": {
+    "message": ""
+  },
+  "HT_Text_Memcard_Formatting": {
+    "message": ""
+  },
+  "HT_Text_Memcard_YesNo": {
+    "message": ""
+  },
+  "HT_Text_Menu_Cross": {
+    "message": ""
+  },
+  "HT_Text_Menu_Triangle": {
+    "message": ""
+  },
+  "HT_Text_Menu_Square": {
+    "message": ""
+  },
+  "HT_Text_Menu_StartPause": {
+    "message": ""
+  },
+  "HT_Text_Menu_AdjustScreen": {
+    "message": ""
+  },
+  "HT_Text_Menu_Accept": {
+    "message": ""
+  },
+  "HT_Text_Menu_Decline": {
+    "message": ""
+  },
+  "HT_Text_Menu_Pause": {
+    "message": ""
+  },
+  "HT_Text_Menu_Empty": {
+    "message": ""
+  },
+  "HT_Text_Menu_BOS": {
+    "message": ""
+  },
+  "HT_Text_Menu_Inventory": {
+    "message": ""
+  },
+  "HT_Text_Menu_Jump": {
+    "message": ""
+  },
+  "HT_Text_Menu_Attack": {
+    "message": ""
+  },
+  "HT_Text_Menu_Context": {
+    "message": ""
+  },
+  "HT_Text_Menu_Shield": {
+    "message": ""
+  },
+  "HT_Text_Menu_Pipe": {
+    "message": ""
+  },
+  "HT_Text_Menu_Camera": {
+    "message": ""
+  },
+  "HT_Text_Menu_Move": {
+    "message": ""
+  },
+  "HT_Text_Menu_Start": {
+    "message": ""
+  },
+  "HT_Text_Menu_PadLayout1": {
+    "message": ""
+  },
+  "HT_Text_Menu_PadLayout2": {
+    "message": ""
+  },
+  "HT_Text_Menu_PadLayout3": {
+    "message": ""
+  },
+  "HT_Text_Menu_NoPad": {
+    "message": ""
+  },
+  "HT_Text_Menu_Uruk1": {
+    "message": ""
+  },
+  "HT_Text_Menu_Uruk2": {
+    "message": ""
+  },
+  "HT_Text_Menu_Making": {
+    "message": ""
+  },
+  "HT_Text_Menu_Trailer": {
+    "message": ""
+  },
+  "HT_Text_Menu_Exit": {
+    "message": ""
+  },
+  "HT_Text_Menu_Continue": {
+    "message": ""
+  },
+  "HT_Text_Menu_Rumble": {
+    "message": ""
+  },
+  "HT_Text_Menu_RumbleOff": {
+    "message": ""
+  },
+  "HT_Text_Menu_StartDemo": {
+    "message": ""
+  },
+  "HT_Text_Menu_NewGame": {
+    "message": ""
+  },
+  "HT_Text_Menu_Load": {
+    "message": ""
+  },
+  "HT_Text_Menu_Save": {
+    "message": ""
+  },
+  "HT_Text_Menu_Options": {
+    "message": ""
+  },
+  "HT_Text_Menu_EndGame": {
+    "message": ""
+  },
+  "HT_Text_Menu_Screen": {
+    "message": ""
+  },
+  "HT_Text_Menu_Pad": {
+    "message": ""
+  },
+  "HT_Text_Menu_Sound": {
+    "message": ""
+  },
+  "HT_Text_Menu_ScreenAdjust": {
+    "message": ""
+  },
+  "HT_Text_Menu_WidescreenON": {
+    "message": ""
+  },
+  "HT_Text_Menu_WidescreenOFF": {
+    "message": ""
+  },
+  "HT_Text_Menu_Volume": {
+    "message": ""
+  },
+  "HT_Text_Menu_SoundFX": {
+    "message": ""
+  },
+  "HT_Text_Menu_Music": {
+    "message": ""
+  },
+  "HT_Text_Menu_SurroundON": {
+    "message": ""
+  },
+  "HT_Text_Menu_SurroundOFF": {
+    "message": ""
+  },
+  "HT_Text_Menu_Mono": {
+    "message": ""
+  },
+  "HT_Text_Menu_Videos": {
+    "message": ""
+  },
+  "HT_Text_Menu_QuitLevel": {
+    "message": ""
+  },
+  "HT_Text_Menu_NTSC": {
+    "message": ""
+  },
+  "HT_Text_Menu_PAL": {
+    "message": ""
+  },
+  "HT_Text_Menu_QuitQuestion": {
+    "message": ""
+  },
+  "HT_Text_Menu_Paused": {
+    "message": ""
+  },
+  "HT_Text_Menu_QuitLevQuestion": {
+    "message": ""
+  },
+  "HT_Text_Menu_StartGame": {
+    "message": ""
+  },
+  "HT_Text_Menu_SaveOver": {
+    "message": ""
+  },
+  "HT_Text_Menu_UseSlot": {
+    "message": ""
+  },
+  "HT_Text_Menu_LoadGame": {
+    "message": ""
+  },
+  "HT_Text_Menu_EmptySlot": {
+    "message": ""
+  },
+  "HT_Text_Menu_CorruptSlot": {
+    "message": ""
+  },
+  "HT_Text_Menu_Scarabs": {
+    "message": ""
+  },
+  "HT_Text_Menu_InvertON": {
+    "message": ""
+  },
+  "HT_Text_Menu_InvertOFF": {
+    "message": ""
+  },
+  "HT_Text_Menu_SwapXYON": {
+    "message": ""
+  },
+  "HT_Text_Menu_SwapXYOFF": {
+    "message": ""
+  },
+  "HT_Text_Menu_Cancel": {
+    "message": ""
+  },
+  "HT_Text_Menu_Reset": {
+    "message": ""
+  },
+  "HT_Text_Credits1": {
+    "message": ""
+  },
+  "HT_Text_Credits2": {
+    "message": ""
+  },
+  "HT_Text_Credits3": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_ToggleReverb": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_FieldOfView": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_Resolution": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_ChooseScreen": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_ToggleParticles": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Limited": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Soft": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_Anisotropy": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_MultiSampling": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_Vsync": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_VsyncAdaptive": {
+    "message": ""
+  },
+  "HT_Text_FE_Menu_RestartGame": {
+    "message": ""
+  },
+  "HT_Text_FE_ResolutionRequiresRestart": {
+    "message": ""
+  },
+  "HT_Text_FE_ResolutionBorderless": {
+    "message": ""
+  },
+  "HT_Text_FE_ResolutionWindowed": {
+    "message": ""
+  },
+  "HT_Text_FE_ResolutionFovDegrees": {
+    "message": ""
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
+    "message": ""
+  }
+}
