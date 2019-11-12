@@ -1,23 +1,23 @@
 {
   "HT_Text_BOS_Tab_Artifacts": {
-    "message": ""
+    "message": "アーティファクト"
   },
   "HT_Text_BOS_Tab_Notes": {
-    "message": ""
+    "message": "ノート"
   },
   "HT_Text_BOS_Tab_Monsters": {
-    "message": ""
+    "message": "モンスター"
   },
   "HT_Text_BOS_Instructions": {
-    "message": ""
+    "message": "<FC 30,10,0><SB HT_PadAction_BOS_NavigateDPad> <N>を使用してページをナビゲートして、<SB HT_PadAction_BOS_TABCycleLeft> と <SB HT_PadAction_BOS_TABCycleRight><N>を使用してページを変わって、<SB HT_PadAction_BOS_PageUp>を使用してスクロールする。"
   },
   "HT_Text_BOS_NoNotes": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>ノートは何もない<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_NoAbilities": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>能力は何もない<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_NoQuestItems": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>クエストアイテムは何もない<ES HT_Text_ES_E_BOSStd>"
   }
 }
