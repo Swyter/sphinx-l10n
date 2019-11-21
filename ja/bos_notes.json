@@ -6,7 +6,7 @@
     "message": "ネフェルティティの手紙を取り戻す"
   },
   "HT_Text_NoteTitle_CollectAmulets01": {
-    "message": "古代のお守りを集める"
+    "message": "古いお守りを集める"
   },
   "HT_Text_NoteTitle_GetToHeliopolis01": {
     "message": "ヘリオポリスへ行く方法を探す"
@@ -30,16 +30,16 @@
     "message": "壁の入口１でアヌビスに会う"
   },
   "HT_Text_NoteTitle_AnubisQuest01": {
-    "message": "アヌビスに炎のアルマジロを3匹渡す"
+    "message": "アヌビスに炎のアルマジロを3匹届ける"
   },
   "HT_Text_NoteTitle_VisitFarmers01": {
     "message": "ヘリオポリスのファームに行く"
   },
   "HT_Text_NoteTitle_SaveNomadWife01": {
-    "message": "旅人の奥さんを救う"
+    "message": "旅人の奥さんを助ける"
   },
   "HT_Text_NoteTitle_DeactivateBeams01": {
-    "message": "旅人の奥さんを閉じ込めるフォースフィールドを消す"
+    "message": "旅人の奥さんを閉じ込めているフォースフィールドを消す"
   },
   "HT_Text_NoteTitle_VisitImhotep01": {
     "message": "太陽宮でイムホテプに会う"
@@ -66,7 +66,7 @@
     "message": "ウルクの聖なるクラウンを取り戻す"
   },
   "HT_Text_NoteTitle_FindHeliopolisDungeon01": {
-    "message": "失ったヘリオポリスの神殿を見つける"
+    "message": "失われたヘリオポリスの神殿を見つける"
   },
   "HT_Text_NoteTitle_CollectRosettaPieces01": {
     "message": "古代ロゼッタストーンを取り出す"
@@ -75,7 +75,7 @@
     "message": "ベドウイン前哨の考古学者に会う"
   },
   "HT_Text_NoteTitle_TranslateObelisks01": {
-    "message": "ヘリオポリスの金オベリスクを全部翻訳する"
+    "message": "ヘリオポリスの金色なオベリスクを全部翻訳する"
   },
   "HT_Text_NoteTitle_SmallObelisk01": {
     "message": "翻訳した古代作文"
@@ -96,7 +96,7 @@
     "message": "ラーの古代予言"
   },
   "HT_Text_NoteTitle_TempleTest01": {
-    "message": "ウルク神殿の試しを合格する"
+    "message": "ウルクの神殿の試しを合格する"
   },
   "HT_Text_NoteTitle_CrownQuest03": {
     "message": "ヘリオポリスの聖なるクラウンを取り戻す"
@@ -108,19 +108,19 @@
     "message": "ウルクでセトを倒す"
   },
   "HT_Text_Note_FindBlade01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>最初のクエストは昔に失ったオシリスの剣を見つけること。この強い武器は、大昔ウルク城の不毛な周りに無くなった。<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>最初のクエストは昔に失われたオシリスの剣を見つけること。この強い武器は、大昔ウルク城の不毛な周りに無くなった。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetLetter01": {
-    "message": "ネフェルティティの手紙を取り出して返せ。"
+    "message": "<ES HT_Text_ES_S_BOSStd>ネフェルティティの手紙を取り出して返す。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CollectAmulets01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>古いお守りを8つ集めて、セティ叔母さんに返せ。<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>古いお守りを8つ集めて、セティ叔母さんに返す。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetToHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>アビドスのお守りを使ったら、急いでヘリオポリスへの行く方法を探した法がいい。イムホテプはスフィンクスにまた会いたい。<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>アビドスのお守りを使った後、急いでヘリオポリスへの行く方法を探す。イムホテプはスフィンクスにまた会いたい。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindPearls01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>真珠を3つ集めてあの彼に渡せ。<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>真珠を3つ集めてアビドスの男に届ける。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_DonateMuseum01": {
     "message": "<ES HT_Text_ES_S_BOSStd>アビドス博物館に初めて寄付をすると、アビドス博物館のキュレーターは贈り物をする。<ES HT_Text_ES_E_BOSStd><E>"
@@ -129,16 +129,16 @@
     "message": "<ES HT_Text_ES_S_BOSStd>アビドス運河の警備員は会議室に入らせてくれない。クエスト中で適当な身分証明書を手に入れる時、アビドスに帰ったほうがいい。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindImhotep01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>イムホテプは太陽宮島にいる。そこに行って、イムホテプに相談したほうがいい。<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>イムホテプは太陽宮島にいる。そこに行って、イムホテプに相談する。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetBookOfTheDead01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>カノポス壺を見つけた時にバス・ケトを召喚できる為に、死者の書を探したほうがいい。イムホテプは死者の書が呪った宮殿にあると思っている。<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>カノポス壺を見つけた時にバス・ケトを召喚できる為に、死者の書を探さなければならない。イムホテプによると死者の書は呪われた宮殿にある。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitAnubis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>呪った宮殿の住民を呪ったのはアヌビスのせいだ。アイビスの翼を使えば長城入口1に入ってアヌビスに訪問できる。<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>呪われた宮殿の住民を呪ったのはアヌビスだ。アイビスの翼を使えば長城入口1に入ってアヌビスに訪問できる。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_AnubisQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>掴みビートルを使用して炎のアルマジロを3匹掴み、アヌビスに渡せ。<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>掴みビートルを使用して炎のアルマジロを3匹掴み、アヌビスに届ける。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitFarmers01": {
     "message": "<ES HT_Text_ES_S_BOSStd>農家のお兄さんは彼らのヘリオポリスにあるファームに招待した。<ES HT_Text_ES_E_BOSStd><E>"
@@ -147,7 +147,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>旅人の奥さんを見つけて助ける。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_DeactivateBeams01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>旅人の奥さんを閉じ込めるフォースフィールドは三色の光線によって供給されている。消す方法を探せ。<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>旅人の奥さんを閉じ込めるフォースフィールドは三色の光線によって供給されている。消す方法を探す。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitImhotep01": {
     "message": "<ES HT_Text_ES_S_BOSStd>イムホテプは太陽宮に行って、彼と話すことを頼んだ<ES HT_Text_ES_E_BOSStd><E>"
@@ -174,69 +174,69 @@
     "message": "<ES HT_Text_ES_S_BOSStd>ウルクの聖なるクラウンを見つけて、アヌビスに返さなければいけない。（アヌビスはヘリオポリスにいる）<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindHeliopolisDungeon01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>失ったヘリオポリスの神殿の入口を見つけたほうがいい。南砂漠にあるって、ファラオの奥さんが言った。<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>失われたヘリオポリスの神殿の入口を見つける。ファラオの奥さんによると南の砂漠にある。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CollectRosettaPieces01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Find the 6 Rosetta Stone Pieces hidden inside the Lost Temple of Heliopolis and bring them to the Archeologist.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>失われたヘリオポリスの神殿の中に隠されているロゼッタストーンのかけらを6つ集めて考古学者に届ける。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MeetArchaeologist01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Check on the Archeologist's findings in the Bedouin Outpost. The outpost can be found by swimming through the underwater passage from the Cursed Palace.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>ベドウイン前哨にいる考古学者の研究結果を調べに行く。ベドウイン前哨は呪われた宮殿の周りにある水中通路の向こうにある<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_TranslateObelisks01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Use the Rosetta Stone to translate the 5 Golden Obelisks of Heliopolis and report your findings to the Archeologist in the Bedouin Outpost.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>ロゼッタストーンを使ってヘリオポリスの5つの金色なオベリスクを翻訳して、そしてその情報をベドウイン前哨にいる考古学者に伝える。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>When the Age of Osiris comes to an end...<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>オシリスの時代が終わったら…<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk02": {
-    "message": "<ES HT_Text_ES_S_BOSStd> ...the Shadow of Set will descend upon us...<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>…セトの影が降りてくる…<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...but a great warrior by the name of Sphinx...<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>…けどスフィンクスと呼ばれている武士は…<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...will emerge as the Chosen One...<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>…ラーの永遠な目を守る為に…<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk05": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...to defend the Eternal Eye of Ra.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>…選ばれし者として現れる。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_Prophecy": {
-    "message": "<ES HT_Text_ES_S_BOSStd>When the Age of Osiris comes to an end, the Shadow of Set will descend upon us, but a great warrior by the name of Sphinx, will emerge as the Chosen One, to defend the Eternal Eye of Ra.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>オシリスの時代が終わったら、セトの影が降りてくる、けどスフィンクスと呼ばれている武士は、ラーの永遠な目を守る為に選ばれし者として現れる。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_TempleTest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Complete the Uruk Temple Trial and return what you find to the Urukite.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>ウルクの神殿の試しを合格して、手に入れた物をウルク人に届ける。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CrownQuest03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>You must find the Sacred Crown of Heliopolis and return it to Anubis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>ヘリオポリスの聖なるクラウンを見つけて、アヌビスに届かなければいけない。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MotherQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Capture the dogs in Heliopolis Cursed Palace and return them to their owner.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>ヘリオポリスの呪った宮殿にいる犬を全部掴んで飼い主に返す。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_DefeatSeth01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Your final destiny is to face Set in the devastated world of Uruk.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>スフィンクスの運命はウルクの不毛な世界でセトと戦うこと。<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Notes_Test_T1": {
-    "message": "Quest Title."
+    "message": "クエストの題名"
   },
   "HT_Text_Notes_Test_D1": {
-    "message": "<FC 100,100,60> Quest Description."
+    "message": "<FC 100,100,60>クエストの記述"
   },
   "HT_Text_Notes_Test_T2": {
-    "message": "Find Set's palace."
+    "message": "セトの宮殿を探す。"
   },
   "HT_Text_Notes_Test_D2": {
-    "message": "<FC 100,100,60>Set has been hiding in his secret palace while orchestrating the destruction of Heliopolis...<END FC><P><FC 100,100,60>You must find his lair and put an end to his plans...<END FC><P><FC 100,100,60>To find where his secret palace is, you will need to talk to the Hittite village elder. Bring him some whiskey to loosen his tongue.<END FC>"
+    "message": "<FC 100,100,60>セトは自分の密かな宮殿の中に隠れていながら、ヘリオポリスを破壊する計画を立てる…<END FC><P><FC 100,100,60>彼の居場所を見つけてから彼の邪な計画を止めなければいけない…<END FC><P><FC 100,100,60>セトの密かな宮殿を見つけるには、ヒッタイトの村の長老と話すのが必要だ。彼がお喋りになる為に彼にお酒を上げる。<END FC>"
   },
   "HT_Text_Notes_Test_T3": {
-    "message": "Deliver note from King Sobek of Akaria."
+    "message": "ソベク王のノートを届ける。"
   },
   "HT_Text_Notes_Test_D3": {
-    "message": "<FC 100,100,60> After uncovering Ishka's scheme of encouraging a war between the people of Abydos and Akaria...<END FC><P><FC 100,100,60>King Sobek needs you to deliver a notice of truce to the Mayor of Abydos.<END FC>"
+    "message": "<FC 100,100,60>イシカがアカリアとアビドスの戦争を引き起こす為に立てた計画を明らかにした後…<END FC><P><FC 100,100,60>ソベク王が休戦のノートをアビドスの市長に届けるのを頼んだ。<END FC>"
   },
   "HT_Text_Notes_Test_T4": {
-    "message": "Find the Mayor's cure."
+    "message": "市長の病気を治す方法を探す。"
   },
   "HT_Text_Notes_Test_D4": {
-    "message": "<FC 100,100,60>The Mayor of Abydos is ill. You will need to talk to the Physician about finding a cure...<END FC><P><FC 100,100,60>The Physician lives in the canal that divides the north and south of Abydos.<END FC>"
+    "message": "<FC 100,100,60>アビドスの市長は大変病気になった。この病気を治すには、医者と話すのが必要だ…<END FC><P><FC 100,100,60>アビドスの医者はアビドスの北と南を分ける運河の周りに住んでいる。<END FC>"
   }
 }
