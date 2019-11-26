@@ -50,8 +50,6 @@ MARKER_LANGUAGE_START_COLUMN = data_read[HEADER_ROW].index("MARKER_LANGUAGE_STAR
 MARKER_LANGUAGE_END_COLUMN   = data_read[HEADER_ROW].index("MARKER_LANGUAGE_END")
 
 for cur in lang:
-    #CUR_LANG_COLUMN = data_read[HEADER_ROW].index(cur)
-    #print(cur, lang[cur], "INDEX THING", CUR_LANG_COLUMN)
     # swy: check that this spreadsheet actually contains a column for this language, it can happen
     if (cur not in data_read[HEADER_ROW]):
         print("warning: doesn't seem like this spreadsheet contains a %s; appending it..." % cur)
@@ -64,12 +62,14 @@ for cur in lang:
         e = cur.replace("MARKER_", "").replace("_", " ").split(" ")
         e[0] = e[0][0] + e[0][1:].lower()
         
+        # swy: add the correct marker into the new blank column so that Euroland can detect it properly, while
+        #      the second line adds the readable language column tag; but keep in mind that is kind of hacky ¯\_(ツ)_/¯
         data_read[HEADER_ROW    ][MARKER_LANGUAGE_END_COLUMN] = cur
         data_read[HEADER_ROW - 1][MARKER_LANGUAGE_END_COLUMN] = " ".join(e)
-        #data_read[HEADER_ROW][MARKER_LANGUAGE_END_COLUMN] = data_read[HEADER_ROW][MARKER_LANGUAGE_END_COLUMN] + 1
         
         
-    # swy: get the column index for the current language
+    # swy: get the column index for the current language (important, we need
+    #      to do it here because we may have added it just now)
     CUR_LANG_COLUMN = data_read[HEADER_ROW].index(cur)
     print(cur, lang[cur], "INDEX THING", CUR_LANG_COLUMN)
     
@@ -82,8 +82,6 @@ for cur in lang:
     # swy: iterate for all the rows, once per language
     for i, row in enumerate(data_read):
     
-        # print("a")
-        # print(row)
         # swy: skip empty rows
         if len(row) < 3:
             continue
@@ -104,19 +102,20 @@ for cur in lang:
         if row[0] != "" and cur_section != row[0]: # and not row[0] in ignored_section_markers:
             print(">> pre_section", cur_section)
             cur_section = row[0];
-            print(">> pre_section", cur_section)
+            print(">> cur_section", cur_section)
             
+            # swy: grab the correct JSON section file for the current language,
+            # swy: imported from Transifex in this 'simple' format
+            #      https://docs.transifex.com/formats/chrome-json
             file = "%s/%s.json" % (lang[cur], cur_section.replace("M_", "").lower())
             
             try:
                 with open(file, 'r') as outfile:
                     tx_json = json.load(outfile)
             except FileNotFoundError:
-                print("section file '%s' not found, skipping %s" % (file, cur_section))
+                print("warning: section file '%s' not found, skipping %s" % (file, cur_section))
 
             cur_section_count = cur_section_count + 1
-
-            print(">> cur_section", cur_section)
             continue
 
         # swy: skip empty cells (again, but only check for hashcodes)
@@ -131,12 +130,14 @@ for cur in lang:
         if row[MARKER_LANGUAGE_START_COLUMN + 1] and row[MARKER_LANGUAGE_START_COLUMN + 1] == "REMOVED":
             continue
             
-        # swy: import it from this 'simple' format, if the translation string is not empty; we are 
-        #      indexing the JSON list by its hashcode tag and accessing its "message" attribute:
-        #      https://docs.transifex.com/formats/chrome-json
-        if row[MARKER_HASHCODE_COLUMN] in tx_json:
-            if tx_json[ row[MARKER_HASHCODE_COLUMN] ]["message"]:
-                data_read[i][CUR_LANG_COLUMN] = tx_json[ row[MARKER_HASHCODE_COLUMN] ]["message"]
+        hashcode = row[MARKER_HASHCODE_COLUMN]
+            
+        # swy: if the translation string is not empty; index the JSON list 
+        #      by its hashcode tag and access its sole "message" attribute
+        
+        if hashcode in tx_json:
+            if tx_json[hashcode]["message"]:
+                data_read[i][CUR_LANG_COLUMN] = tx_json[hashcode]["message"]
             else: # swy: empty; use placeholder English text surrounded by asterisks for the time being. e.g: "**text*"
                 data_read[i][CUR_LANG_COLUMN] = "**" + data_read[i][5] + "*"
 
