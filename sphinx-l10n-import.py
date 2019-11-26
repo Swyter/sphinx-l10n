@@ -77,7 +77,7 @@ for cur in lang:
     # swy: reset the section and output data; once per language in the loop
     cur_section = ""
     cur_section_count = 0
-    out = collections.OrderedDict()
+    tx_json = collections.OrderedDict()
 
     # swy: iterate for all the rows, once per language
     for i, row in enumerate(data_read):
@@ -99,8 +99,6 @@ for cur in lang:
         # swy: stop parsing once the table ends
         if row[0] == "MARKER_LAST_MESSAGE":
             break
-            
-
 
         # swy: change string M_SOMETHING sections and spew the previous one if it wasn't empty
         if row[0] != "" and cur_section != row[0]: # and not row[0] in ignored_section_markers:
@@ -112,7 +110,7 @@ for cur in lang:
             
             try:
                 with open(file, 'r') as outfile:
-                    out = json.load(outfile)
+                    tx_json = json.load(outfile)
             except FileNotFoundError:
                 print("section file '%s' not found, skipping %s" % (file, cur_section))
 
@@ -133,22 +131,15 @@ for cur in lang:
         if row[MARKER_LANGUAGE_START_COLUMN + 1] and row[MARKER_LANGUAGE_START_COLUMN + 1] == "REMOVED":
             continue
             
-            
-        data_read[i][CUR_LANG_COLUMN] = out[ row[MARKER_HASHCODE_COLUMN] ]["message"]
-        # print( out[ row[MARKER_HASHCODE_COLUMN] ]["message"])
-            
-
-        # swy: export it in this 'simple' format:
+        # swy: import it from this 'simple' format, if the translation string is not empty; we are 
+        #      indexing the JSON list by its hashcode tag and accessing its "message" attribute:
         #      https://docs.transifex.com/formats/chrome-json
-        out[row[MARKER_HASHCODE_COLUMN]] = collections.OrderedDict()
+        if row[MARKER_HASHCODE_COLUMN] in tx_json:
+            if tx_json[ row[MARKER_HASHCODE_COLUMN] ]["message"]:
+                data_read[i][CUR_LANG_COLUMN] = tx_json[ row[MARKER_HASHCODE_COLUMN] ]["message"]
+            else: # swy: empty; use placeholder English text surrounded by asterisks for the time being. e.g: "**text*"
+                data_read[i][CUR_LANG_COLUMN] = "**" + data_read[i][5] + "*"
 
-        out[row[MARKER_HASHCODE_COLUMN]]["message"]     = row[CUR_LANG_COLUMN]
-        #out[row[MARKER_HASHCODE_COLUMN]]["description"] = "SphinxText.xls, row %u" % (i + 1) # swy: starts at zero
-
-        #print("--", row[MARKER_HASHCODE_COLUMN])
-
-        #print(row[MARKER_HASHCODE_COLUMN], row[CUR_LANG_COLUMN],  len(row))
-
-with open('test.csv', 'w', newline='') as fp:
+with open('SphinxTextImported.csv', 'w', newline='') as fp:
     writer = csv.writer(fp, delimiter=',', quoting=csv.QUOTE_MINIMAL)
     writer.writerows(data_read)
