@@ -46,8 +46,8 @@ Rename your file to `SphinxText.xls`, place it in `X:\Sphinx\Grafix\Spreadsheets
 
 In more detail, here are the steps:
 1. Double-click to run `Mount Virtual S Drive.bat` and `Mount Virtual X Drive.bat` from the `Tools` folder.
-2. Go to `Tools/EngineX/utils` and launch `EuroLandRedux.exe`. This will only work if the `X:` and `S:` partitions are around.
-3. Open `Tools/Sphinx/Grafix/Maps/Misc/Text.ELF` with _EuroLand Rdux_. Via the _File > Open_ menu.
+2. Go to `Tools/EngineX/utils` and launch `EuroLandRedux.exe`. This will only work if the `X:` and `S:` partitions are around. Also, keep in mind that the original EuroLand (`EuroLand.exe`) won't export spreadsheets correctly.
+3. Open `Tools/Sphinx/Grafix/Maps/Misc/Text.ELF` with _EuroLand Redux_. Via the _File > Open_ menu.
 4. In the ELF tree, expand App Targets, right-click on _PC_ and click on _Output (Optimised)_.
 5. If everything goes well you should see a new `Text.edb` file appear in the `X:\Sphinx\Binary\_bin_PC` folder. That's what the game will ultimately read.
 6. Launch the game with the following command-line/launch arguments: `-dev -mod "X:\Sphinx\Binary\_bin_PC"`
