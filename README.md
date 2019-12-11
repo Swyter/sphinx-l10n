@@ -14,11 +14,13 @@ http://transifex.com/projects/p/sphinx-l10n
 
 
 ```
-SphinxText.xls         => .CSV => sphinx-l10n-export.py =>
-                                                            JSON files compatible with Transifex
-SphinxTextImported.xls <= .CSV <= sphinx-l10n-import.py <=          VV              AA
-                                                                    ||              ||
-                                                                   PUSH            PULL (with tx.cmd/tx.sh)
-                                                                    \\_ TRANSIFEX _//
-                                                                     \_____________/
+┌────────────────────────┐    ┌─────┐
+│ SphinxText.xls         │ => │.CSV │ => sphinx-l10n-export.py =>  ┌──────────────────────────────────────┐ 
+└────────────────────────┘    └─────┘                              │ JSON files compatible with Transifex │
+┌────────────────────────┐    ┌─────┐                              └──────────────────────────────────────┘
+│ SphinxTextImported.xls │ <= │.CSV │ <= sphinx-l10n-import.py <=            V                   Λ
+└────────────────────────┘    └─────┘                                        |                   |
+                                                                            PUSH ┌───────────┐ PULL (with tx.cmd/tx.sh)
+                                                                              \__│ TRANSIFEX │__/
+                                                                                 └───────────┘ 
 ```
