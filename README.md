@@ -1,8 +1,9 @@
 # sphinx-l10n
 Fan translation scripts and mod content for Sphinx and the Cursed Mummy.
 
-You can help by joining the Transifex project and editing from the web interface:
-http://transifex.com/projects/p/sphinx-l10n
+> Like most people, if you only need to translate you can skip all this and help by joining the
+> Transifex project and then edit your translation from the web interface. That's it:
+> http://transifex.com/projects/p/sphinx-l10n
 
 
 # How to use
@@ -14,13 +15,13 @@ http://transifex.com/projects/p/sphinx-l10n
 
 
 ```
-┌────────────────────────┐    ┌─────┐
-│ SphinxText.xls         │ => │.CSV │ => sphinx-l10n-export.py =>  ┌──────────────────────────────────────┐ 
-└────────────────────────┘    └─────┘                              │ JSON files compatible with Transifex │
-┌────────────────────────┐    ┌─────┐                              └──────────────────────────────────────┘
-│ SphinxTextImported.xls │ <= │.CSV │ <= sphinx-l10n-import.py <=            V                   Λ
-└────────────────────────┘    └─────┘                                        |                   |
-                                                                            PUSH ┌───────────┐ PULL (with tx.cmd/tx.sh)
-                                                                              \__│ TRANSIFEX │__/
-                                                                                 └───────────┘ 
+┌────────────────────────┐  ┌─────┐                            ┌──────────────────────────────────────┐ 
+│ SphinxText.xls         │->│.CSV │-> sphinx-l10n-export.py -> │ JSON files compatible with Transifex │
+└────────────────────────┘  └─────┘                            └──────────────────────────────────────┘
+┌────────────────────────┐  ┌─────┐                            /      V                   Λ
+│ SphinxTextImported.xls │<-│.CSV │<- sphinx-l10n-import.py <-´       |                   |
+└────────────────────────┘  └─────┘                                  PUSH ┌───────────┐ PULL
+                                                                       \__│ TRANSIFEX │__/
+                                                                          └───────────┘ 
+                                                                       (with tx.cmd/tx.sh)
 ```
