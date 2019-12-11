@@ -60,22 +60,22 @@
     "message": "A setback this is, perhaps, but defeat? Pah! Everything is going according to plan. <E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1c1": {
-    "message": "Master, how can you say that? <E>"
+    "message": "Mestre, como pode dizer isso?<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2c1": {
     "message": "<EFF><EPO>Now that Tutankhamen has been eliminated, I will use the Akhenaten shape and explain to all that Tut has died in an accident. <P>That will give me power in <FC 128,64,0>Luxor<END FC>. The rest will be easy. <E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1d": {
-    "message": "Yes! That is true! Nobody will dare to say that you are not his brother!<E>"
+    "message": "Sim! Isso é verdade! Ninguém ousará dizer que você não é irmão dele!<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2d": {
-    "message": "Of course not! My disguise is perfect.<E>"
+    "message": "Mas é claro que não! Meu disfarce é perfeito.<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2e": {
     "message": "<EFF><EPO>And about that youngster interrupting the ceremony... I know who he is. He is a student of Imhotep, that foolish geriatric magician.<P>This apparent defeat will be useful to confuse his feeble mind further. He will never know what is really going on. He doesn't even realize I was there!<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1e": {
-    "message": "Master, you are a genius! <E>"
+    "message": "Mestre, você é um gênio! <E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2f": {
     "message": "We need to be careful for now, but when the ray is powerful enough nothing will stop us. Defeating Imhotep will be as easy as crushing an insect. <E>"
@@ -87,37 +87,37 @@
     "message": "<ES HT_Text_ES_S_HelpText><N>Take the object from the shrine?<N>  <B 1> Yes<N>  <B 2> No<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Solar Planetarium Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Chave do Planetário Solar<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Earth Planetarium Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Chave do Planetário da Terra<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey02a": {
     "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Earth Planetarium Key<END FC>!<P><CNTR><ES HT_Text_ES_S_HelpText>This object looks very similar to the one<N>in the shrine in the central hall...<E>"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Lunar Planetarium Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Chave do Planetário Lunar<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_GotPlanetariumKey03a": {
     "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Lunar Planetarium Key<END FC>!<P><CNTR><ES HT_Text_ES_S_HelpText>This object looks very similar to the one<N>in the shrine in the central hall.<E>"
   },
   "HT_Text_Mum_Imp2_Help_FoundKeyStone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Exit Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Chave da Saída<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_FoundImpulseKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Exit Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Chave da Saída<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_ElectricDevice": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This looks like some kind of electrical device.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Isso parece com algum tipo de mecanismo elétrico.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_Furnace": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>There is a strong smell of gas.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Há um cheiro forte de gás.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_ImpulseKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>A <FC 0,128,0>Key<END FC> is needed<N>to open this door.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Uma <FC 0,128,0>Chave<END FC> é necessária<N>para abrir esta porta.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Imp2_Help_SarcophagusHide": {
-    "message": "Don't worry, my friend. You are just as dead as me. The electricity can't harm you. In fact, you should try to use it to your advantage.<E>"
+    "message": "Não se preocupe, amigo. Você está tão morto quanto eu. A eletricidade não pode machucá-lo. Aliás, você deveria usá-la em sua vantagem.<E>"
   },
   "HT_Text_Mum_Imp2_Help_SarcophagusHide1": {
     "message": "However, if you want to avoid the electricity in the future, I can help. Just press <SB HT_Action_Enter> when you are close to me.<E>"
@@ -126,7 +126,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><DHP><DP><N><CNTR>Mummy abilities don't last forever. The bar at the<N>top of the screen shows when the ability will expire.<ES HT_Text_ES_S_HelpText><W 60>"
   },
   "HT_Text_Mum_Imp2_Help_ElectricLost": {
-    "message": "<ES HT_Text_ES_S_HelpText><DHP><DP><N><CNTR>Electricity will be lost on contact with water.<ES HT_Text_ES_S_HelpText><W 60>"
+    "message": "<ES HT_Text_ES_S_HelpText><DHP><DP><N><CNTR>A eletricidade é perdida ao contato com água.<ES HT_Text_ES_S_HelpText><W 60>"
   },
   "HT_Text_Mum_Imp2_Help_Pushable": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Cylindrical objects like these can be pushed and pulled in any direction.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_Grab> when close to the object...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...then use <SB HT_PadAction_PLR_MovePlr> to push or pull.<E>"
@@ -135,22 +135,22 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Some narrow ledges can be sneaked across.<P><ES HT_Text_ES_S_HelpText><CNTR>Approach the wall and press <SB HT_Action_WallSneak> when it appears.<P><ES HT_Text_ES_S_HelpText><CNTR>Once against the wall use <SB HT_PadAction_PLR_MovePlr> to move left and right.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_WallSneakExit> again when you wish to come out of wall sneak mode.<E>"
   },
   "HT_Text_Mum_Imp2_Help_LowFence": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>There must be another lever<N>nearby which opens this gate.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Deve haver outra alavanca<N>por perto que abra esse portão.<E>"
   },
   "HT_Text_Mum_Towr_Help_DoorLockedForever": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This door is locked from the other<N>side and cannot be opened.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Essa porta está trancada do outro<N>lado e não pode ser aberta.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Towr_Help_Pushable": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Objects like this can be pushed and pulled backwards and forwards.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_Grab> when close to the object...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...then use <SB HT_PadAction_PLR_MovePlr> to push or pull.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Objetos como esse podem ser empurrados e puxados para trás e para a frente.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Aperte <SB HT_Action_Grab> quando estiver perto do objeto...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...e então use <SB HT_PadAction_PLR_MovePlr> para empurrar ou puxar.<E>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation1": {
-    "message": "Don't worry. I'm not going to bite you! <E>"
+    "message": "Não se preocupe. Não vou te morder! <E>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation2": {
     "message": "Mmmm... <W 60>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation3": {
-    "message": "You can't even talk! I'm really sorry, but I only had one <FC 0,128,0>Canopic Vase<END FC> for you. <E>"
+    "message": "Você nem pode falar! Sinto muito, mas eu só tinha um <FC 0,128,0>Vaso Canópico<END FC> para você. <E>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation4": {
     "message": "??? <W 60>"
@@ -159,7 +159,7 @@
     "message": "<EFF><EPO>Allow me to introduce myself. I am Bas-Ket. I will tell you what I can, but we haven't much time. I doubt you remember the last thing that happened to you. <P>The treason on your birthday; the bizarre, unsettling ceremony performed on you by your brother.<E>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation6": {
-    "message": "A hero, Sphinx, interrupted the ceremony. But he was only able to recover one of the vases. <E>"
+    "message": "Um herói, Sphinx, interrompeu a cerimônia. Mas ele foi capaz de recuperar apenas um dos vasos. <E>"
   },
   "HT_Text_Mum_Pala_Chap1_Basket_Presentation7": {
     "message": "This bestows upon you the element of life, but you're still pretty much dead. We'll need the rest of the <FC 0,128,0>Canopic Vases<END FC> to return you to your original form. <E>"
