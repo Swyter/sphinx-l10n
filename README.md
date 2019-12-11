@@ -33,3 +33,16 @@ Fan translation scripts and mod content for Sphinx and the Cursed Mummy.
 ```
 tx.sh && python sphinx-l10n-import.py && ssconvert SphinxTextImported.csv SphinxTextImported.xls
 ```
+
+>  1. `tx.sh` pulls the latest changes from Transifex and updates the JSON files.
+>  2. `sphinx-l10n-import.py` turns the local language JSON files into a single CSV file for all
+>      the languages, by using the local `SphinxText.csv` as template.
+>  3. `ssconvert` turns the CSV into a ready-to-use replacement of `SphinxText.xls`. Called `SphinxTextImported.xls`.
+  
+  
+ # Making a mod
+
+Rename your file to `SphinxText.xls`, place it in `X:\Sphinx\Grafix\Spreadsheets\SphinxText.xls`, open `Text.elf` with Euroland Redux and output (export) the PC version of `Text.edb`, the game will read it and you can ship it as a mod.
+
+
+If you need help, we have a `#translations` channel in the [official Sphinx Discord](https://discord.gg/sphinx) server.
