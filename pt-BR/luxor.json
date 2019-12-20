@@ -9,46 +9,46 @@
     "message": "Espere um pouco... Eu sinto algo...<W 60>"
   },
   "HT_Text_Lux_pyra_sacrifice_2d": {
-    "message": "Forsaken spirits of this building, wake up! Arise and kill the intruder!<W 120>"
+    "message": "Espíritos desamparados deste lugar, acordem! Levantem e matem o intruso!<W 120>"
   },
   "HT_Text_Lux_pyra_sacrifice_3a": {
-    "message": "<EFF><EPO>What happened? Curses! Now we will have to start again...<P>Look! There's the saboteur who ruined the ceremony...<E>"
+    "message": "<EFF><EPO>O que aconteceu? Raios! Agora teremos que começar novamente...<P>Olhe! Ali está o sabotador que arruinou a cerimônia...<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_3b": {
-    "message": "You fool! Deactivate the magical device! Can't you see it is going to explode!<W 120><E>"
+    "message": "Seu tolo! Desative o dispositivo mágico! Não está vendo que vai explodir?!<W 120><E>"
   },
   "HT_Text_Lux_pyra_sacrifice_3c": {
     "message": "Está nos puxando para dentro! Não!!!<W 60>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_a": {
-    "message": "Oh! Thank you for saving me, I'm eternally grateful. But now my beloved Tut is dead! How can I live without him?<E>"
+    "message": "Óh! Obrigada por me salvar, sou eternamente grata. Mas agora meu amado Tut está morto! Como vou viver sem ele?<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_b": {
     "message": "Esse vaso é tudo o que restou dele. Tenho certeza que parte de sua alma está dentro.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_c": {
-    "message": "I want you to take it. Your heroic actions assure me that you might be the one to bring him back.<E>"
+    "message": "Eu quero que fique com ele. Suas ações heroicas me asseguram de que você seja aquele que o trará de volta.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_c1": {
     "message": "Por favor, encontre ele e traga-o de volta para mim. Óh, Tut! Por que fizeram isso com você?<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_d": {
-    "message": "Before you go, take this. It's an amulet that Tut gave to me, he was fascinated by it, but I don't know why. To me it's just an amulet.<E>"
+    "message": "Antes de ir, pegue isso. É um amuleto que Tut me deu, ele era fascinado por ele, mas não sei o porquê. É só um amuleto para mim.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_e": {
     "message": "Sphinx, você deve me encontrar em <FC 128,64,0>Heliópolis<END FC> assim que possível.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_e1": {
-    "message": "These events are clear evidence that something extremely sinister is taking place.<E>"
+    "message": "Esses eventos são uma evidência clara de que algo extremamente sinistro está acontecendo.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_f": {
-    "message": "<EFF><EPO>The forces at work during this ceremony were far too powerful and demonic for my liking.<P>We must find the source of this power before it grows to be a real menace.<E>"
+    "message": "<EFF><EPO>As forças trabalhando durante essa cerimônia foram poderosas e demoníacas demais pro meu gosto.<P>Precisamos encontrar a fonte desse poder antes que ele se torne uma verdadeira ameaça.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_g": {
-    "message": "With that <FC 0,128,0>Portal Amulet<END FC> you can use the portal in the entrance to leave this place.<E>"
+    "message": "Com esse <FC 0,128,0>Amuleto de Portal<END FC> você pode usar o portal na entrada para sair deste lugar.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_g1": {
-    "message": "Again we have no way of knowing exactly where is going to send you but wherever it may be, you must find a way to Heliopolis.<E>"
+    "message": "De novo, não temos nenhum meio de saber exatamente para onde ele irá te levar, mas seja lá onde for, você deve encontrar um caminho para Heliópolis.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_h": {
     "message": "Não se preocupe com Nefertiti, encontrarei um jeito de ajudá-la a escapar desse lugar horrendo.<E>"
@@ -60,136 +60,136 @@
     "message": "Boa sorte, Sphinx!<W 60>"
   },
   "HT_Text_Lux_Pyramid_Help_GotShield": {
-    "message": "<N><CNTR>Você conseguiu o <FC 0,128,0>Escudo de Osiris<END FC>!<P><CNTR>Este artefato antigo um dia já foi usado pelo próprio deus Osiris!<P><CNTR>Você pode usar o escudo para se proteger de diversos tipos de ataques inimigos e outros perigos.<E>"
+    "message": "<N><CNTR>Você conseguiu o <FC 0,128,0>Escudo de Osíris<END FC>!<P><CNTR>Este artefato antigo um dia já foi usado pelo próprio deus Osíris!<P><CNTR>Você pode usar o escudo para se proteger de diversos tipos de ataques inimigos e outros perigos.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_NeedAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Without a <FC 0,128,0>Portal Amulet<END FC> the Portal God will not allow you to pass.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Sem um <FC 0,128,0>Amuleto de Portal<END FC>, o Deus do Portal não o permitirá que passe.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_AmuletAccepted": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your credentials and will provide transport to <FC 128,64,0>Abydos<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>O Deus do Portal reconhece suas credenciais e providenciará transporte para <FC 128,64,0>Abydos<END FC>...<E>"
   },
   "HT_Text_Lux_Pyramid_Help_UsePortal": {
     "message": "Usar o portal?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotPortalAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Portal Amulet<END FC>!<P><N><CNTR>This gold artifact was made to honor the Portal God.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu um <FC 0,128,0>Amuleto de Portal<END FC>!<P><N><CNTR>Esse artefato de ouro foi feito para homenagear o Deus do Portal.<E> "
   },
   "HT_Text_Lux_Pyramid_Help_GotCanopicVase": {
-    "message": "<N><CNTR>You got a <FC 0,128,0>Canopic Vase<END FC>!<P><N><CNTR>Part of the soul of Tutankhamen is stored inside.<E>"
+    "message": "<N><CNTR>Você conseguiu um <FC 0,128,0>Vaso Canópico<END FC>!<P><N><CNTR>Parte da alma de Tutancâmon está guardada dentro.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotGoldKey": {
-    "message": "<N><CNTR>You found a <FC 0,128,0>Gold Key<END FC>!<E>"
+    "message": "<N><CNTR>Você encontrou uma <FC 0,128,0>Chave de Ouro<END FC>!<E>"
   },
   "HT_Text_Lux_Pyramid_NefertitiHU17_KillEnemies": {
-    "message": "There's no time to talk to me! Get rid of those awful monsters!<E>"
+    "message": "Não há tempo para falar comigo! Nos livre destes monstros horríveis!<E>"
   },
   "HT_Text_Lux_Pyramid_NefertitiHU17_Go": {
-    "message": "You should go! There is nothing that can be done here.<E>"
+    "message": "Você deve ir! Não há nada que possa ser feito aqui.<E>"
   },
   "HT_Text_Lux_pala_Guard_a": {
-    "message": "Good morning, Prince, and happy birthday!<E>"
+    "message": "Bom dia, Príncipe, e feliz aniversário!<E>"
   },
   "HT_Text_Lux_pala_Guard_b": {
-    "message": "Lady Nefertiti was looking for you. She said it was very important, and wants you to meet her in the <FC 128,64,0>Courtyard<END FC> before you go to the state rooms.<E>"
+    "message": "A Senhora Nefertiti estava procurando por você. Ela disse que era muito importante, e quer que você a encontre no <FC 128,64,0>Pátio<END FC> antes de ir para os quartos privados.<E>"
   },
   "HT_Text_Lux_pala_Guard_c": {
-    "message": "Your Majesty, Lady Nefertiti insists you meet her in the <FC 128,64,0>Courtyard<END FC> before going to the state rooms. Might I say, it appeared to be urgent... <E>"
+    "message": "Sua Majestade, a Senhora Nefertiti insiste que a encontre no <FC 128,64,0>Pátio<END FC> antes de ir para os quartos privados. Devo dizer, parecia ser urgente... <E>"
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_a": {
-    "message": "Lady Nefertiti, I am aware that Prince Tutankhamen has asked for your hand in marriage. <E> "
+    "message": "Senhora Nefertiti, estou ciente de que o Príncipe Tutancâmon pediu sua mão em casamento.<E>"
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_a1": {
-    "message": "As any astute man will tell you, the logical choice is not necessarily the wisest. A marriage with, say, his brother Akhenaten could have unexpected advantages...<E>"
+    "message": "Como todo homem astuto lhe diria, a escolha lógica não é necessariamente a mais sábia. Um casamento com, digamos, seu irmão Aquenáton, poderia ter vantagens inesperadas...<E>"
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_b": {
-    "message": "And who knows what the future will bring? You should think carefully about that, Nefertiti... <E>"
+    "message": "E quem sabe o que o futuro trará? Você deveria pensar bem sobre isso, Nefertiti...<E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_a": {
-    "message": "Tutankhamen, at last you are here!<E>"
+    "message": "Tutancâmon, finalmente está aqui!<E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_b": {
-    "message": "There's an important <FC 0,128,0>Letter<END FC> here I have to read. Can you get it before someone else finds it?<E>"
+    "message": "Tem uma <FC 0,128,0>Carta<END FC> importante aqui que preciso que leia. Consegue encontrá-la antes que alguém a encontre?<E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_c": {
-    "message": "I tried to get it but a gust of wind carried it away. Now it's right up there, at the foot of that statue. <E>"
+    "message": "Eu tentei pegá-la mas uma rajada de vento a levou. Agora está ali em cima, no pé daquela estátua. <E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_d": {
-    "message": "Please hurry! <W 60>"
+    "message": "Por favor corra!<W 60>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_a": {
-    "message": "Wonderful! You got it! <W 60>"
+    "message": "Magnífico! Você conseguiu! <W 60>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_b": {
-    "message": "I need to talk to you about this letter, but not here. Someone might be listening. Meet me outside the palace later. <E>"
+    "message": "Eu preciso falar com você sobre essa carta, mas não aqui. Alguém pode estar escutando. Me encontre mais tarde fora do palácio.<E>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_c": {
-    "message": "There are some things that you need to know... <E>"
+    "message": "Têm algumas coisas que você precisa saber... <E>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_d": {
-    "message": "...and please, my dear Tutankhamen, watch your back! <E>"
+    "message": "...e por favor, meu caro Tutancâmon, tome cuidado!<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_a": {
-    "message": "Ahh, my favorite nephew has come to see his favorite aunt! Happy birthday! My dear, you are growing very fast!<E>"
+    "message": "Ahh, meu sobrinho favorito veio ver sua tia favorita! Feliz aniversário! Meu querido, você está crescendo muito rápido!<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_b": {
-    "message": "Oh, I see you have found some <FC 0,128,0>Old Amulets<END FC>. Nobody really cares about them these days, but I've been searching for them lately.<E>"
+    "message": "Ah, vejo que você encontrou alguns <FC 0,128,0>Amuletos Antigos<END FC>. Ninguém liga muito para eles hoje em dia, mas tenho procurado por eles ultimamente.<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_b1": {
-    "message": "Have you seen any amulets like the one I hold in my hand? <E>"
+    "message": "Você viu algum amuleto como este que seguro em minha mão?<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_c": {
-    "message": "The whole collection is scattered throughout the palace, and Akhenaten has ordered me to collect them. He wants to store the collection in the <FC 128,64,0>Treasure Room<END FC>.<E>"
+    "message": "A coleção inteira está espalhada pelo palácio, e Aquenáton me pediu para coletá-los. Ele quer guardá-los na coleção da <FC 128,64,0>Sala do Tesouro<END FC>.<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_d": {
-    "message": "Your brother seems to get more fickle with each passing day. Could you please find the <FC 0,128,0>Old Amulets<END FC> for me, my dear nephew?<P>I'm far too old to be hunting around the palace for them.<E>"
+    "message": "Seu irmão parece ficar mais volúvel a cada dia que passa. Você poderia encontrar os <FC 0,128,0>Amuletos Antigos<END FC> para mim, meu querido sobrinho?<P>Estou velha demais para ficar caçando eles pelo palácio.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_a": {
-    "message": "Oh, splendid! That's all the <FC 0,128,0>Old Amulets<END FC> returned! You are too kind to me. <E>"
+    "message": "Óh, esplêndido! Todos os <FC 0,128,0>Amuletos Antigos<END FC> foram retornados! Você é gentil demais comigo. <E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_b": {
-    "message": "If you don't mind, my dear, one last favor. Can you leave them in the <FC 128,64,0>Treasure Room<END FC>? I'm too tired to walk there myself. <E>"
+    "message": "Se não se importar, meu querido, um último favor. Você pode deixá-los na <FC 128,64,0>Sala do Tesouro<END FC>? Estou muito cansada para andar até lá eu mesma. <E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_c": {
-    "message": "Here is the key to the <FC 128,64,0>Treasure Room<END FC>. You know where the door is; down the stairs in the next room.<E>"
+    "message": "Aqui está a chave para a <FC 128,64,0>Sala do Tesouro<END FC>. Você sabe onde a porta fica. Na próxima sala descendo as escadas.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_d": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Treasure Room Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Chave da Sala do Tesouro<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_a": {
-    "message": "Many happy returns, my dear brother! <E>"
+    "message": "Muitos retornos felizes, meu caro irmão!<E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_b": {
-    "message": "Everyone is busy preparing for your birthday. It's strange... I don't recall such excitement on my birthday. <E>"
+    "message": "Estão todos ocupados se preparando para o seu aniversário. É estranho... eu não lembro de tanta comoção no meu aniversário. <E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_c": {
-    "message": "Please, brother, I'm busy finalizing the plans for your birthday ceremony! <E>"
+    "message": "Por favor, irmão, estou ocupado finalizando os planos para sua cerimônia de aniversário! <E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_d": {
-    "message": "I see you're finally awake... predictably late as usual.<E>"
+    "message": "Vejo que finalmente acordou... previsivelmente atrasado, como de costume.<E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_a": {
-    "message": "Akhenaten, Nefertiti must have the letter. I had it before I talked to her! <E>"
+    "message": "Aquenáton, Nefertiti deve estar com a carta. Eu a tinha antes de falar com ela! <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_b": {
-    "message": "Hmm, this is getting risky... we need to accelerate our plans. Are the sarcophagi in place? <E>"
+    "message": "Hmm, isso está ficando arriscado... precisamos acelerar nossos planos. Os sarcófagos estão no lugar? <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_c": {
-    "message": "Yes sir, everything is going as planned. <W 60>"
+    "message": "Sim senhor, tudo está indo conforme planejado. <W 60>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_d": {
-    "message": "I'm going to leave a spare <FC 0,128,0>Sarcophagus Key<END FC> here in case anything happens to the others.  <E>"
+    "message": "Vou deixar uma <FC 0,128,0>Chave de Sarcófago<END FC> extra aqui, caso qualquer coisa aconteça com as outras.  <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_e": {
-    "message": "My little brother is going to get an unexpected birthday surprise this year. <E>"
+    "message": "Meu irmãozinho terá uma surpresa de aniversário inesperada esse ano. <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_f": {
-    "message": "A very unexpected surprise, sir! <E>"
+    "message": "Uma surpresa bem inesperada, senhor! <E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_g": {
     "message": "Hahaha!!! Hahaha!!! Esta será a melhor festa que este palácio já viu! <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_a": {
-    "message": "I want you all to be ready to use the warping sarcophagi to enter the palace when the party begins. We must overrun the palace quickly. <E>"
+    "message": "Quero que todos estejam prontos para usar o sarcófago de teletransporte para entrar no palácio quando a festa começar. Precisamos invadir o palácio rapidamente. <E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_b": {
     "message": "Essa noite o trono finalmente será meu! <E>"
@@ -372,19 +372,19 @@
     "message": "<N><CNTR>---[ <FC 128,64,0>Sala do Tesouro<END FC> ]---<E>"
   },
   "HT_Text_Lux_Pala_Help_UseLever": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>To operate levers, stand close and press <SB HT_Action_LeverDown><ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Para operar alavancas, se aproxime e aperte <SB HT_Action_LeverDown><ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_Help_UseSarco": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>With the <FC 0,128,0>Sarcophagus Key<END FC> you can use a sarcophagus<N>by standing close and pressing <SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Com a <FC 0,128,0>Chave de Sarcófago<END FC> você pode usar um sarcófago<N>se aproximando e apertando <SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Pushable": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Objects like this can be pushed and pulled.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_Grab> when close to the object...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...then use <SB HT_PadAction_PLR_MovePlr> to push or pull.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Objetos como esse podem ser empurrados e puxados.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Aperte <SB HT_Action_Grab> quando estiver perto do objeto...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...e então use <SB HT_PadAction_PLR_MovePlr> para empurrar ou puxar.<E>"
   },
   "HT_Text_Lux_Palace_Help_LedgeWalk": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You can sneak across some narrow ledges.<P><ES HT_Text_ES_S_HelpText><CNTR>Approach the fence and press <SB HT_Action_WallSneak><N>to move against it.<P><ES HT_Text_ES_S_HelpText><CNTR>Once against the fence use<N><SB HT_PadAction_PLR_MovePlr> to move left and right.<P><ES HT_Text_ES_S_HelpText><CNTR>To sneak slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_WallSneakExit> when you wish to<N>come out of sneak mode.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você pode se esgueirar sobre parapeitos estreitos.<P><ES HT_Text_ES_S_HelpText><CNTR>Aproxime-se da cerca e aperte <SB HT_Action_WallSneak><N>para mover contra ela.<P><ES HT_Text_ES_S_HelpText><CNTR>Quando estiver contra a cerca use<N><SB HT_PadAction_PLR_MovePlr>para mover para a esquerda e a direita.<P><ES HT_Text_ES_S_HelpText><CNTR>Para esgueirar devagar, mova <SB HT_PadAction_PLR_MovePlr> levemente.<P><ES HT_Text_ES_S_HelpText><CNTR>Aperte <SB HT_Action_WallSneakExit> quando quiser<N>sair do modo furtivo.<E>"
   },
   "HT_Text_Lux_Palace_Help_LedgeHang": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Some ledges on walls can be grabbed.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>Walk off and turn around whilst falling to grab the ledge.<P><ES HT_Text_ES_S_HelpText><CNTR>Then use <SB HT_PadAction_PLR_MovePlr> to move left and right.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Alguns parapeitos nas paredes podem ser agarrados.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>Ande para fora e vire enquanto cai para agarrar a borda.<P><ES HT_Text_ES_S_HelpText><CNTR>Use <SB HT_PadAction_PLR_MovePlr> para mover para a esquerda e para a direita.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_DoorLocked": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Esta porta está trancada e precisa de uma chave para ser aberta.<ES HT_Text_ES_S_HelpText><E>"
@@ -393,7 +393,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>A porta está trancada do<N>outro lado e não pode ser aberta.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Crawl": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_MummyCrawl> to toggle between<N>walking and crawling.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Aperte <SB HT_Action_MummyCrawl> para alternar entre<N>andar e rastejar.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundBedroomKey": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou a <FC 0,128,0>Chave do Pátio<END FC>!<ES HT_Text_ES_S_HelpText><E>"

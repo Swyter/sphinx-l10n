@@ -1,15 +1,15 @@
 {
   "HT_Text_Inv_Dsc_IceDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Os Dardos de Gelo podem ser usados para congelar certos monstros.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Dardos de Gelo podem ser usados para congelar certos monstros.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FireDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Os Dardos de Fogo podem ser usados para incendiar certos monstros.<ES HT_Text_ES_S_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Dardos de Fogo podem ser usados para incendiar certos monstros.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Acid": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Os Dardos Ácidos podem ser usados para dissolver correntes de metal e ferir monstros.<ES HT_Text_ES_S_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Dardos Ácidos podem ser usados para dissolver correntes de metal e ferir monstros.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BladeOfOsiris": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A poderosa espada que um dia foi empunhada pelo grande deus Osiris.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>A poderosa espada que um dia foi empunhada pelo grande deus Osíris.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BronzeScarab": {
     "message": "<ES HT_Text_ES_S_BOSStd>Moeda padrão que pode ser usada para comprar vários itens diferentes.<ES HT_Text_ES_E_BOSStd>"
@@ -48,7 +48,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Te permitem empurrar até mesmo o mais pesado dos objetos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ShieldOfOsiris": {
-    "message": "<ES HT_Text_ES_S_BOSStd>O escudo mágico usado em batalhas pelo grande deus Osiris.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>O escudo mágico usado em batalhas pelo grande deus Osíris.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CloakOfInvisibility": {
     "message": "<ES HT_Text_ES_S_BOSStd>Esta pedra mágica garante ao usuário o poder da invisibilidade... e morte instantânea!<ES HT_Text_ES_E_BOSStd>"
@@ -60,7 +60,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>4 pedaços de Ankh de Ouro podem ser convertidos em um Ankh de Ouro completo por alguém com as habilidades certas.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CanopicVase": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Um vaso sagrado que contém um fragmento da alma de Tutankhamen.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Um vaso sagrado que contém um fragmento da alma de Tutancâmon.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Pearl": {
     "message": "<ES HT_Text_ES_S_BOSStd>Um diamante azul que pertence ao mestre do Corredor dos Campeões. Devolva-o para provar que é digno do desafio das paredes.<ES HT_Text_ES_S_BOSStd>"
@@ -114,13 +114,13 @@
     "message": "<ES HT_Text_ES_S_BOSStd>The name Half Brute understates the nature of these aggressive two-legged monsters...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>While their unwieldy gait makes them slow, they are capable of stomping the ground with enough force to send a powerful shockwave into all those around.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU01_Mummy_Minotaur": {
-    "message": "TO DO<E>"
+    "message": "A FAZER<E>"
   },
   "HT_Text_Inv_Dsc_BU02_Skeletal_Axeman": {
     "message": "<ES HT_Text_ES_S_BOSStd>Watch out for these undead axe-wielding warriors...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>They can use their weapon as a boomerang, and can even call upon a protective shield which encases them until their axe returns.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU03_zombie_man": {
-    "message": "TO DO<E>"
+    "message": "A FAZER<E>"
   },
   "HT_Text_Inv_Dsc_BU05_almost_a_bull": {
     "message": "<ES HT_Text_ES_S_BOSStd>Almost-A-Bull is named so not only for the two horns atop its head, but also for its unnerving habit of charging and attacking anyone wearing the color red.<ES HT_Text_ES_E_BOSStd>"
@@ -144,19 +144,19 @@
     "message": "The Mummy Eagle is one of the largest birds around. Undead, they are even more resilient to their live counterparts from attack.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL06_Undead_Man": {
-    "message": "TO DO<E>"
+    "message": "A FAZER<E>"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
     "message": "<ES HT_Text_ES_S_BOSStd>Knives Cats quickly confuse opponents with deft leaps and bounds, before plunging in to attack with alarming speed, razor sharp claws fully extended.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": "TO DO<E>"
+    "message": "A FAZER<E>"
   },
   "HT_Text_Inv_Dsc_HD14_Crab": {
     "message": "<ES HT_Text_ES_S_BOSStd>Crabhands attack their enemies with sharp claws in a somewhat cumbersome fashion. Let it get close enough, however, and expect painful results.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD15_GuardTest": {
-    "message": "TO DO<E>"
+    "message": "A FAZER<E>"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
     "message": "<ES HT_Text_ES_S_BOSStd>Sharpbeaks carry a sword in each hand which they wield with disorientating and discerning skill...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Infamous for slowly but surely bearing down on their opponent, utilizing the Florentine dual rapier method to deadly effect.<ES HT_Text_ES_E_BOSStd>"
@@ -387,7 +387,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Um Amuleto de Portal com símbolos gravados em areia indicando transporte para Heliópolis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_DarkArea01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Um Amuleto de Portal com símbolos antigos indicando transporte para a Torre de Anubis.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Um Amuleto de Portal com símbolos antigos indicando transporte para a Torre de Anúbis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GoldKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Uma chave de ouro.<ES HT_Text_ES_E_BOSStd>"

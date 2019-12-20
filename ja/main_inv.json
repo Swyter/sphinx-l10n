@@ -42,7 +42,7 @@
     "message": "ビートル袋"
   },
   "HT_Text_Inv_DartBelt": {
-    "message": "吹き矢のベルト"
+    "message": "ダーツのベルト"
   },
   "HT_Text_Inv_RosettaTablePiece": {
     "message": "ロゼッタ・テーブルの一部分"
@@ -75,7 +75,7 @@
     "message": "バス・ケットのパドル"
   },
   "HT_Text_Inv_BasKetGrapple": {
-    "message": "BasKet Grapple"
+    "message": "バス・ケットのグラップル"
   },
   "HT_Text_Inv_WingsOfThoth": {
     "message": "トートの翼"
@@ -147,31 +147,31 @@
     "message": "RCビートル"
   },
   "HT_Text_Inv_StandardDart": {
-    "message": "普通の吹き矢"
+    "message": "普通のダーツ"
   },
   "HT_Text_Inv_CaptureBeetle": {
     "message": "掴みのビートル"
   },
   "HT_Text_Inv_IceDart": {
-    "message": "氷の吹き矢"
+    "message": "アイスダーツ"
   },
   "HT_Text_Inv_AcidDart": {
-    "message": "酸の吹き矢"
+    "message": "アシッドダーツ"
   },
   "HT_Text_Inv_FireDart": {
-    "message": "炎の吹き矢"
+    "message": "ファイヤダーツ"
   },
   "HT_Text_Inv_MiniGameDart": {
-    "message": "ゲーメの吹き矢"
+    "message": "ゲーメのダーツ"
   },
   "HT_Text_Inv_BounceDart": {
-    "message": "弾みの吹き矢"
+    "message": "弾みのダーツ"
   },
   "HT_Text_Inv_PossessionDart": {
-    "message": "Possession Dart"
+    "message": "ポゼッションダーツ"
   },
   "HT_Text_Inv_KaDart": {
-    "message": "カーの吹き矢"
+    "message": "カーダーツ"
   },
   "HT_Text_Inv_SilverAnkh": {
     "message": "銀のアンク"
@@ -243,7 +243,7 @@
     "message": "バカらしいトカゲ"
   },
   "HT_Text_Inv_BR05_Dino_Oaf": {
-    "message": "Dino Oaf"
+    "message": "ダイノ・オーフ"
   },
   "HT_Text_Inv_BR06_Half_Brute": {
     "message": "ハーフブルート"
@@ -255,19 +255,19 @@
     "message": "骨格アックスマン"
   },
   "HT_Text_Inv_BU03_zombie_man": {
-    "message": "Zombie"
+    "message": "ゾンビ"
   },
   "HT_Text_Inv_BU05_almost_a_bull": {
     "message": "ほとんどブール"
   },
   "HT_Text_Inv_BU06_MBird": {
-    "message": "ミイラ鳥"
+    "message": "ミイラの鳥"
   },
   "HT_Text_Inv_FL02_Featherless_Turkey": {
     "message": "羽なし七面鳥"
   },
   "HT_Text_Inv_FL03_shuttlecock_bird": {
-    "message": "Shuttlecock Bird"
+    "message": "シャトルコックの鳥"
   },
   "HT_Text_Inv_FL04_Skeletal_Bat": {
     "message": "骨格バット"
@@ -279,7 +279,7 @@
     "message": "ミイライーグル"
   },
   "HT_Text_Inv_FL06_Undead_Man": {
-    "message": "Undead Man"
+    "message": "アンデッドマン"
   },
   "HT_Text_Inv_HD02_Cat": {
     "message": "ナイフ猫"
@@ -291,34 +291,34 @@
     "message": "クラブハンド"
   },
   "HT_Text_Inv_HD15_GuardTest": {
-    "message": "Tortoiseman"
+    "message": "トータスマン"
   },
   "HT_Text_Inv_HD17_Sharpbeak": {
-    "message": "Sharpbeak"
+    "message": "シャープビーク"
   },
   "HT_Text_Inv_HD43_Skull_Aka_Worshipper": {
-    "message": "Skull Worshipper"
+    "message": "スカル崇拝者"
   },
   "HT_Text_Inv_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "Dark Worshipper"
+    "message": "暗い崇拝者"
   },
   "HT_Text_Inv_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "Skull Swordsman"
+    "message": "スカル剣士"
   },
   "HT_Text_Inv_IN01_Green_Giant_worm": {
-    "message": "でかい緑のワーム"
+    "message": "グリーンジャイアントワーム"
   },
   "HT_Text_Inv_IN07_Blade_Scorpion": {
-    "message": "Blade Scorpion"
+    "message": "ブレードスコーピオン"
   },
   "HT_Text_Inv_IN08_Tacked_Spider": {
-    "message": "Tacked Spider"
+    "message": "タックスパイダー"
   },
   "HT_Text_Inv_IN09_Sak_Spike_Spider": {
-    "message": "トゲのクモ"
+    "message": "スパイクスパイダー"
   },
   "HT_Text_Inv_IN11_Spider": {
-    "message": "クモ"
+    "message": "スパイダー"
   },
   "HT_Text_Inv_PI01_Piranha": {
     "message": "ピラニア"
@@ -327,22 +327,22 @@
     "message": "エクソ・ピラニア"
   },
   "HT_Text_Inv_PI01_Green_Piranha": {
-    "message": "緑のピラニア"
+    "message": "グリーンピラニア"
   },
   "HT_Text_Inv_PI02_Electric_Eel": {
     "message": "電気のうなぎ"
   },
   "HT_Text_Inv_PI03_Aka_Manta_Rays": {
-    "message": "Manta Ray"
+    "message": "マンタ"
   },
   "HT_Text_Inv_PI04_Aka_Spinefish": {
-    "message": "Spinefish"
+    "message": "スパインの魚"
   },
   "HT_Text_Inv_PI05_Aka_Turtle": {
-    "message": "Turtle"
+    "message": "亀"
   },
   "HT_Text_Inv_PI06_Aka_Tentacle_Creature": {
-    "message": "Tentacle"
+    "message": "触手"
   },
   "HT_Text_Inv_PL01_Eye": {
     "message": "目"
@@ -351,25 +351,25 @@
     "message": "木の動物"
   },
   "HT_Text_Inv_PL04_Sunflower_With_Face": {
-    "message": "Sunflower"
+    "message": "サンフラワー"
   },
   "HT_Text_Inv_QC01_Pokemon": {
-    "message": "Shell Critter"
+    "message": "シェルクリーター"
   },
   "HT_Text_Inv_QR01_Cobra": {
     "message": "コブラ"
   },
   "HT_Text_Inv_QR02_Sak_Spitting_Toad": {
-    "message": "Spitting Toad"
+    "message": "ペッペットード"
   },
   "HT_Text_Inv_QR03_Sak_Small_Frog": {
     "message": "小さいかえる"
   },
   "HT_Text_Inv_QR04_Sak_Nose_Needler": {
-    "message": "Nose Needler"
+    "message": "ノーズ・ニードラ"
   },
   "HT_Text_Inv_QU01_Skeletal_Spider": {
-    "message": "骨格クモ"
+    "message": "骨格スパイダー"
   },
   "HT_Text_Inv_QU02_Skeletal_Armadillo": {
     "message": "アルマジロ"
@@ -378,13 +378,13 @@
     "message": "炎のアルマジロ"
   },
   "HT_Text_Inv_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "Electric Armadillo"
+    "message": "電気のアルマジロ"
   },
   "HT_Text_Inv_QU04_Mummy_Chihuahua": {
     "message": "ミイラチワワ"
   },
   "HT_Text_Inv_QU05_skeletal_waspspider": {
-    "message": "Wasp Spider"
+    "message": "ワスプスパイダー"
   },
   "HT_Text_Inv_QU06_Mummy_Worm": {
     "message": "ミイラワーム"
@@ -396,22 +396,22 @@
     "message": "チワワ"
   },
   "HT_Text_Inv_HD03_BigBull": {
-    "message": "大きいブル"
+    "message": "ビッグ・ブル"
   },
   "HT_Text_Inv_HD09_Horned_ReptileMan": {
-    "message": "Reptile Man"
+    "message": "レプタイルマン"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_BedroomKey": {
-    "message": "Courtyard Key"
+    "message": "中庭の鍵"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_NefertitiItem": {
     "message": "ネフェルティティの手紙"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_SarcophagusKey": {
-    "message": "Sarcophagus Key"
+    "message": "サルコファガスの鍵"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_WardrobeKey": {
-    "message": "Wardrobe Key"
+    "message": "戸棚の鍵"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_Trophy": {
     "message": "賞品"
@@ -420,7 +420,7 @@
     "message": "古いお守り"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_CourtyardKey": {
-    "message": "Courtyard Key"
+    "message": "中庭の鍵"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_TreasureChamberKey": {
     "message": "宝の部屋の鍵"
@@ -450,25 +450,25 @@
     "message": "ウルクの鍵2"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_Key03": {
-    "message": "Bridge Key"
+    "message": "橋の鍵"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_GlyphValuable01": {
-    "message": "Gold Glyph"
+    "message": "ゴールドのグリフ"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_GlyphValuable02": {
-    "message": "Diamond Glyph"
+    "message": "ダイヤモンドのグリフ"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_GlyphMedium01": {
-    "message": "Bronze Glyph"
+    "message": "ブロンズのグリフ"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_GlyphWorthless01": {
-    "message": "Wooden Glyph"
+    "message": "木製のグリフ"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_UrukiteGem": {
     "message": "ウルクの鉱石"
   },
   "HT_Text_Inv_Item_Quest_CageKey": {
-    "message": "Cage Key"
+    "message": "ケージの鍵"
   },
   "HT_Text_Inv_Basket": {
     "message": "バス・ケット"
@@ -480,13 +480,13 @@
     "message": "ステッキ"
   },
   "HT_Text_Inv_LightColumnMap": {
-    "message": "Light Colum Map"
+    "message": "光の桁の地図"
   },
   "HT_Text_Inv_ToadEggs": {
-    "message": "Spitting Toad Eggs"
+    "message": "ペッペットードの卵"
   },
   "HT_Text_Inv_AbyPass": {
-    "message": "Abydos Pass Card"
+    "message": "アビドスパスカード"
   },
   "HT_Text_Inv_AbyPearls": {
     "message": "アビドスの真珠"
@@ -498,10 +498,10 @@
     "message": "ロゼッタストーン"
   },
   "HT_Text_Inv_Item_Quest_Hel_BoatOwnerItem": {
-    "message": "Boat Sail"
+    "message": "ボートの帆"
   },
   "HT_Text_Inv_DeathWatchBeetle": {
-    "message": "Deathwatch Beetle"
+    "message": "デスウォッチビートル"
   },
   "HT_Text_Inv_Sak_Crown": {
     "message": "アビドスのクラウン"
@@ -510,13 +510,13 @@
     "message": "アビドスのクラウン"
   },
   "HT_Text_Inv_Hel_Crown": {
-    "message": "Helian Crown"
+    "message": "ヘリアンクラウン"
   },
   "HT_Text_Inv_Set_Crown": {
     "message": "セトのクラウン"
   },
   "HT_Text_Inv_Item_Quest_Hel_PharaohInvite": {
-    "message": "Pharaoh Invitation"
+    "message": "ファラオの招待"
   },
   "HT_Text_Inv_Item_Quest_Hel_ForgerItem01": {
     "message": "パピルス"
@@ -528,19 +528,19 @@
     "message": "染料の葉"
   },
   "HT_Text_Inv_Item_Quest_Hel_BeetleBreederItem": {
-    "message": "Beetle Breeding Jar"
+    "message": "ビートルを育つ壼"
   },
   "HT_Text_Inv_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": "Loyalty Card"
+    "message": "ポイントカード"
   },
   "HT_Text_Inv_Mum_LedgeKey": {
-    "message": "Ledge Door Key"
+    "message": "棚のドアの鍵"
   },
   "HT_Text_Inv_MummyMoney": {
-    "message": "Onyx Scarab"
+    "message": "オニキススカラブ"
   },
   "HT_Text_Inv_Mum_OldKey": {
-    "message": "Old Cellar Key"
+    "message": "古い地下の鍵"
   },
   "HT_Text_Inv_Mum_GlyphKey": {
     "message": "グリフキー"
@@ -555,10 +555,10 @@
     "message": "イシュカの輪"
   },
   "HT_Text_Inv_HonourTalisman": {
-    "message": "Talisman of Honour"
+    "message": "光栄のタリスマン"
   },
   "HT_Text_Inv_PalaceInvite": {
-    "message": "Royal Invitation"
+    "message": "ロイヤルの招待"
   },
   "HT_Text_Inv_Item_Quest_CurseStone01": {
     "message": "呪いの石"
@@ -609,31 +609,31 @@
     "message": "アヌビスのお守り"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_DarkArea03": {
-    "message": "Uruk Valley Amulet"
+    "message": "ウルク谷のお守り"
   },
   "HT_Text_Inv_Item_Quest_GoldKey": {
     "message": "ゴールドな鍵"
   },
   "HT_Text_Inv_Item_Quest_GlyphKey01": {
-    "message": "Glyph Key"
+    "message": "グリフの鍵"
   },
   "HT_Text_Inv_Item_Quest_GlyphKey02": {
-    "message": "Glyph Key"
+    "message": "グリフの鍵"
   },
   "HT_Text_Inv_Item_Quest_HeliopolisGateKey01": {
     "message": "南の砂漠の鍵"
   },
   "HT_Text_Inv_Item_Quest_HeliopolisGateKey02": {
-    "message": "Obelisk Gate Key"
+    "message": "オベリスクゲートの鍵"
   },
   "HT_Text_Inv_Item_Quest_HeliopolisGateKey03": {
-    "message": "Cave Door Key"
+    "message": "洞窟のドアの鍵"
   },
   "HT_Text_Inv_Item_Quest_Bone01": {
-    "message": "Skeletal Skull"
+    "message": "骨格のスカル"
   },
   "HT_Text_Inv_Item_Quest_Bone02": {
-    "message": "Skeletal Pelvis"
+    "message": "骨格の骨盤"
   },
   "HT_Text_Inv_Item_Quest_Bone03": {
     "message": "骨格の腕"
@@ -642,64 +642,64 @@
     "message": "骨格の脚"
   },
   "HT_Text_Inv_AcidVial": {
-    "message": "Vial of Geb Acid"
+    "message": "ゲブのアシッドのバイアル"
   },
   "HT_Text_Inv_Proclomation": {
-    "message": "King's Proclamation"
+    "message": "王の宣言"
   },
   "HT_Text_Inv_DiaryPage": {
-    "message": "Page from Set's Diary"
+    "message": "セトの日記の一ページ"
   },
   "HT_Text_Inv_HippyItem": {
-    "message": "Parasol"
+    "message": "パラソル"
   },
   "HT_Text_Inv_CreatureList01": {
-    "message": "Monster List I"
+    "message": "モンスターリスト1"
   },
   "HT_Text_Inv_CreatureList02": {
-    "message": "Monster List II"
+    "message": "モンスターリスト2"
   },
   "HT_Text_Inv_CreatureList03": {
-    "message": "Monster List III"
+    "message": "モンスターリスト3"
   },
   "HT_Text_Inv_StatueHead": {
-    "message": "Statue Heads"
+    "message": "スタチューの頭"
   },
   "HT_Text_Inv_Coconut": {
     "message": "ヤシの実"
   },
   "HT_Text_Inv_ZipLineHook": {
-    "message": "Zip Line Handle"
+    "message": "ジップラインのハンドル"
   },
   "HT_Text_Inv_MedicineRoot": {
-    "message": "Medicine Root"
+    "message": "薬のルーツ"
   },
   "HT_Text_Inv_WarriorTrophy": {
     "message": "武士の賞品"
   },
   "HT_Text_Inv_SluiceWheel": {
-    "message": "Wooden Wheel"
+    "message": "木製の車輪"
   },
   "HT_Text_Inv_AbyWellKey": {
     "message": "古い鍵"
   },
   "HT_Text_Inv_DummyItem": {
-    "message": "Dummy Item"
+    "message": "ダミーアイテム"
   },
   "HT_Text_Inv_AbyStairsKey": {
     "message": "階段の鍵"
   },
   "HT_Text_Inv_WallSection3Key": {
-    "message": "Wall section 3 Key"
+    "message": "壁第3部分の鍵"
   },
   "HT_Text_Inv_MedicineBag": {
-    "message": "Medicine Bag"
+    "message": "薬の袋"
   },
   "HT_Text_Inv_AtunStatue": {
-    "message": "Atun Statue"
+    "message": "アトゥンのスタチュー"
   },
   "HT_Text_Inv_HathorStatue": {
-    "message": "Hathor Statue"
+    "message": "ハーソルのスタチュー"
   },
   "HT_Text_Inv_Jewel01": {
     "message": "盗まれた宝石"
@@ -726,27 +726,27 @@
     "message": "アトゥンの目"
   },
   "HT_Text_Inv_Medal_Shoot": {
-    "message": "Marksman Medal"
+    "message": "射撃のメダル"
   },
   "HT_Text_Inv_Medal_Walls": {
-    "message": "Medal of Champions"
+    "message": "チャンピオンのメダル"
   },
   "HT_Text_Inv_Medal_Pairs": {
-    "message": "Medal of Memory"
+    "message": "メモリーのメダル"
   },
   "HT_Text_Inv_Medal_Simon": {
-    "message": "Medal of Sequences"
+    "message": "順序のメダル"
   },
   "HT_Text_Inv_Museum_Certificate": {
-    "message": "Master Hunter "
+    "message": "マスターハンター"
   },
   "HT_Text_Inv_Museum_HunterA": {
-    "message": "Hunter Gold Class"
+    "message": "ハンターゴールドクラス"
   },
   "HT_Text_Inv_Museum_HunterB": {
-    "message": "Hunter Silver Class"
+    "message": "ハンターシルバークラス"
   },
   "HT_Text_Inv_Museum_HunterC": {
-    "message": "Hunter Bronze Class"
+    "message": "ハンターブロンズクラス"
   }
 }

@@ -1,6 +1,6 @@
 {
   "HT_Text_NoteTitle_FindBlade01": {
-    "message": "Encontre a Espada de Osiris"
+    "message": "Encontre a Espada de Osíris"
   },
   "HT_Text_NoteTitle_GetLetter01": {
     "message": "Recupere a Carta de Nefertiti"
@@ -27,10 +27,10 @@
     "message": "Encontre o Livro dos Mortos"
   },
   "HT_Text_NoteTitle_VisitAnubis01": {
-    "message": "Visite Anubis na Entrada da Parede I"
+    "message": "Visite Anúbis na Entrada da Muralha I"
   },
   "HT_Text_NoteTitle_AnubisQuest01": {
-    "message": "Traga 3 Tatus de Fogo para Anubis"
+    "message": "Traga 3 Tatus de Fogo para Anúbis"
   },
   "HT_Text_NoteTitle_VisitFarmers01": {
     "message": "Visite a fazenda em Heliópolis"
@@ -108,7 +108,7 @@
     "message": "Derrote Set em Uruk"
   },
   "HT_Text_Note_FindBlade01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Sua primeira missão é encontrar a Espada de Osiris. Essa poderosa arma desapareceu há muito tempo atrás nos arredores inóspitos do Castelo de Uruk.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Sua primeira missão é encontrar a Espada de Osíris. Essa poderosa arma desapareceu há muito tempo atrás nos arredores inóspitos do Castelo de Uruk.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetLetter01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Recupere a carta de Nefertiti e devolva-a para ela.<ES HT_Text_ES_E_BOSStd><E>"
@@ -135,10 +135,10 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Encontre o Livro dos Mortos para que você possa invocar Ces-To quando encontrar um Vaso Canópico. Imhotep acredita que o livro está sendo mantido no Palácio Amaldiçoado.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitAnubis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Anubis é responsável por amaldiçoar os habitantes do Palácio Amaldiçoado. Com as Asas de Ibis você pode entrar na Entrada da Grande Parede I e fazer uma visita a Anubis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Anúbis é o responsável por amaldiçoar os habitantes do Palácio Amaldiçoado. Com as Asas de Ibis você pode entrar na Entrada da Grande Muralha I e fazer uma visita a Anúbis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_AnubisQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Capture 3 Tatus de Fogo usando Besouros de Captura e leve-os até Anubis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Capture 3 Tatus de Fogo usando Besouros de Captura e leve-os até Anúbis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitFarmers01": {
     "message": "<ES HT_Text_ES_S_BOSStd>O irmão do Fazendeiro o convidou para visitar sua fazenda em Heliópolis.<ES HT_Text_ES_E_BOSStd><E>"
@@ -153,7 +153,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Imhotep solicitou que você vá e fale com ele no Santuário do Sol.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CrownQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar a Coroa Sagrada de Abydos e retorná-la para Anubis em Heliópolis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar a Coroa Sagrada de Abydos e retorná-la para Anúbis em Heliópolis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MayorIll01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Aparentemente o Prefeito está seriamente doente. Talvez as pessoas no Conselho de Abydos poderiam usar sua ajuda.<ES HT_Text_ES_E_BOSStd><E>"
@@ -171,7 +171,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Encontre os políticos traidores que roubaram a Coroa Sagrada de Abydos e ganhe de volta o que é seu por direito.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CrownQuest02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar a Coroa Sagrada de Uruk e retorná-la para Anubis em Heliópolis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar a Coroa Sagrada de Uruk e retorná-la para Anúbis em Heliópolis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindHeliopolisDungeon01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Encontre a entrada para o Templo Perdido de Heliópolis. A esposa do Faraó acredita que ele se encontra no Deserto Sul de Heliópolis.<ES HT_Text_ES_E_BOSStd><E>"
@@ -180,13 +180,13 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Encontre as 6 peças da Pedra de Roseta escondidas dentro do Templo Perdido de Heliópolis e traga-as para o Arqueólogo.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MeetArchaeologist01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Check on the Archeologist's findings in the Bedouin Outpost. The outpost can be found by swimming through the underwater passage from the Cursed Palace.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Verifique as descobertas do Arqueólogo no Povoado de Bedouin. O povoado pode ser encontrado nadando pela passagem subaquática do Palácio Amaldiçoado.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_TranslateObelisks01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Use a Pedra de Roseta para traduzir os 5 Grandes Obeliscos de Heliópolis e relate seus achados para o Arqueólogo no Povoado de Bedouin.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Quando a Era de Osiris chegar ao fim...<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Quando a Era de Osíris chegar ao fim...<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk02": {
     "message": "<ES HT_Text_ES_S_BOSStd>...a Sombra de Set descerá sobre nós...<ES HT_Text_ES_E_BOSStd><E>"
@@ -201,13 +201,13 @@
     "message": "<ES HT_Text_ES_S_BOSStd>...para defender o Olho Eterno de Rá.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_Prophecy": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Quando a Era de Osiris chegar ao fim, a Sombra de Set descerá sobre nós, mas um grande guerreiro pelo nome de Sphinx, irá emergir como O Escolhido, para defender o Olho Eterno de Rá.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Quando a Era de Osíris chegar ao fim, a Sombra de Set descerá sobre nós, mas um grande guerreiro pelo nome de Sphinx, irá emergir como O Escolhido, para defender o Olho Eterno de Rá.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_TempleTest01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Complete o desafio do Templo de Uruk e retorne o que você encontrar para o Urukite.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CrownQuest03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar a Coroa Sagrada de Heliópolis e retorná-la para Anubis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar a Coroa Sagrada de Heliópolis e retorná-la para Anúbis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MotherQuest01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Capture os cães no Palácio Amaldiçoado de Heliópolis e retorne-os a sua dona.<ES HT_Text_ES_E_BOSStd><E>"
@@ -225,18 +225,18 @@
     "message": "Encontre o Palácio de Set."
   },
   "HT_Text_Notes_Test_D2": {
-    "message": "<FC 100,100,60>Set has been hiding in his secret palace while orchestrating the destruction of Heliopolis...<END FC><P><FC 100,100,60>You must find his lair and put an end to his plans...<END FC><P><FC 100,100,60>To find where his secret palace is, you will need to talk to the Hittite village elder. Bring him some whiskey to loosen his tongue.<END FC>"
+    "message": "<FC 100,100,60>Set tem se escondido em seu palácio secreto enquanto orquestra a destruição de Heliópolos...<END FC><P><FC 100,100,60>Você deve encontrar seu lar e colocar um fim em seus planos...<END FC><P><FC 100,100,60>Para encontrar o local do palácio secreto você precisará falar com o ancião do vilarejo Hittite. Traga-o um pouco de uísque para soltar sua língua.<END FC>"
   },
   "HT_Text_Notes_Test_T3": {
     "message": "Entregue a mensagem do Rei Sobek de Akaria."
   },
   "HT_Text_Notes_Test_D3": {
-    "message": "<FC 100,100,60> After uncovering Ishka's scheme of encouraging a war between the people of Abydos and Akaria...<END FC><P><FC 100,100,60>King Sobek needs you to deliver a notice of truce to the Mayor of Abydos.<END FC>"
+    "message": "<FC 100,100,60>Após descobrir o esquema de Ishka para incentivar uma guerra entre o povo de Abydos e Akaria...<END FC><P><FC 100,100,60>O Rei Sobek precisa de sua ajuda para entregar uma nota de trégua para o Prefeito de Abydos.<END FC>"
   },
   "HT_Text_Notes_Test_T4": {
     "message": "Encontre uma cura para o Prefeito."
   },
   "HT_Text_Notes_Test_D4": {
-    "message": "<FC 100,100,60>The Mayor of Abydos is ill. You will need to talk to the Physician about finding a cure...<END FC><P><FC 100,100,60>The Physician lives in the canal that divides the north and south of Abydos.<END FC>"
+    "message": "<FC 100,100,60>O Prefeito de Abydos está doente. Você precisará falar com o Médico sobre encontrar uma cura...<END FC><P><FC 100,100,60>O Médico vive no canal que divide a parte norte e sul de Abydos.<END FC>"
   }
 }

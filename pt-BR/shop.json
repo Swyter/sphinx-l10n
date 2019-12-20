@@ -138,28 +138,28 @@
     "message": "<END TT>Comprar 4 Olhos de Atun por <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos de Ônix<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_Glyph_1": {
-    "message": "<DHP><DP><END TT>AGlyph.<N>Somebody set up us the bomb.<E>"
+    "message": "<DHP><DP><END TT>Um glifo.<N> Alguém armou a bomba.<E>"
   },
   "HT_Text_Shop_Glyph_2": {
-    "message": "<DHP><DP><END TT>Another Glyph. <N>How are you gentlemen.<E>"
+    "message": "<DHP><DP><END TT>Outro glifo. <N>Como vai, senhor?<E> "
   },
   "HT_Text_Shop_Glyph_3": {
-    "message": "<DHP><DP><END TT>A different Glyph. <N>You have no chance to survive make your time .<E>"
+    "message": "<DHP><DP><END TT>Um glifo diferente. <N>Você não tem chance de sobreviver, tome seu tempo.<E>"
   },
   "HT_Text_Shop_Glyph_4": {
-    "message": "<DHP><DP><END TT>Another different Glyph. <N>Move 'zig' ! For great justice .<E>"
+    "message": "<DHP><DP><END TT>Outro glifo diferente. <N>Mexa \"zig\"! Para grande justiça.<E>"
   },
   "HT_Text_Shop_BuyGlyph_1": {
-    "message": "<END TT>A glyph.<N>Somebody set up us the bomb . Would you like to buy it?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT>Um glifo. <N>Alguém armou a bomba para nós. Você quer comprá-lo?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_BuyGlyph_2": {
-    "message": "<END TT>Another glyph. <N>How are you gentlemen . Would you like to buy it?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT>Outro glifo. <N>Como vai, senhor? Você quer comprá-lo?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_BuyGlyph_3": {
-    "message": "<END TT>A different glyph. <N>You have no chance to survive make your time . Would you like to buy it?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT>Um glifo diferente. <N>Você não tem chance de sobreviver, tome seu tempo. Você quer comprá-lo?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_BuyGlyph_4": {
-    "message": "<END TT>Another different Glyph. <N>Move 'zig' ! For great justice . Would you like to buy it?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT>Outro glifo diferente.<N>Mexa \"zig\"! Para grande justiça. Você quer comprá-lo?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_Burble": {
     "message": "<DHP><DP><END TT>Pássaro Múmia<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"

@@ -15,10 +15,10 @@
     "message": "Which gauntlet would you like to attempt?<N>  <B 1> Gauntlet 1<N>  <B 2> Gauntlet 2<N>  <B 3> Gauntlet 3<E>"
   },
   "HT_Text_MG_WallDodge_NotReady": {
-    "message": "You're not ready for that yet.<E>"
+    "message": "Você não está pronto para isso ainda.<E>"
   },
   "HT_Text_MG_WallDodge_Fail": {
-    "message": "Sorry, you failed this time. Try again.<E>"
+    "message": "Desculpe, você falhou dessa vez. Tente de novo.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed": {
     "message": "Well done! You completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>! That's a new record!<E>"
@@ -51,16 +51,16 @@
     "message": "Return that <FC 0,128,0>Diamond<END FC> behind the fence to me within <FC 0,128,0>20 seconds<END FC>, and you will have proven yourself capable of the gauntlet.<E>"
   },
   "HT_Text_MG_WallDodge_TestNo": {
-    "message": "Very well, the <FC 128,64,0>Corridor of Champions<END FC> is not for all.<E>"
+    "message": "Muito bem, o <FC 128,64,0>Corredor dos Campeões<END FC> não é para todos.<E>"
   },
   "HT_Text_MG_WallDodge_TestComplete": {
-    "message": "Excellent, you have passed the test.<E>"
+    "message": "Excelente, você passou no teste.<E>"
   },
   "HT_Text_MG_WallDodge_TestFail": {
     "message": "It is quite clear that you are not ready to face the gauntlet. Return when you have gained the skill to retrieve the <FC 0,128,0>Diamond<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_TestInProgress": {
-    "message": "You've only got a few seconds left!<E>"
+    "message": "Você só tem mais alguns segundos!<E>"
   },
   "HT_Text_MG_WallDodge_TestGiveUp": {
     "message": "If you cannot complete the test, you cannot attempt the gauntlet. Come back when you think you can succeed... <E>"
@@ -90,7 +90,7 @@
     "message": "Pah! That was truly abysmal! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> point<END FC> is pathetic! Maybe you need some more practice?<E>"
   },
   "HT_Text_MG_Shooting_HighScores": {
-    "message": "<DP><DHP><END TT>Your best score is: <FC 0,128,0><SO HT_Objective_Shooting_Score1> points<END FC>!"
+    "message": "<DP><DHP><END TT>Sua melhor pontuação é: <FC 0,128,0><SO HT_Objective_Shooting_Score1> pontos<END FC>!"
   },
   "HT_Text_MG_Shooting_NoMoney": {
     "message": "I said <FC 0,128,0>10 Scarabs<END FC>, that's not <FC 0,128,0>10 Scarabs<END FC>! You don't have enough, do you?<E>"
@@ -117,28 +117,28 @@
     "message": "Walk down the walkway to the center platform. Try and remember the sequence that appears before you.<P>Copy the sequence to win.<N>You can view each sequence again by jumping on the center platform, but only once.<E>"
   },
   "HT_Text_MG_Simon_Fail": {
-    "message": "No, no, no, that wasn't right at all! You've failed this time.<E>"
+    "message": "Não, não, não, isso não está nada certo! Você falhou dessa vez.<E>"
   },
   "HT_Text_MG_Simon_Succeed": {
-    "message": "Well done! You passed round <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>!<E>"
+    "message": "Muito bem! Você passou a rodada <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>!<E>"
   },
   "HT_Text_MG_Simon_Win": {
-    "message": "Congratulations, you won! As a prize, you can have <FC 0,128,0><SO HT_Objective_Simon_Prize> Scarabs<END FC>!<E>"
+    "message": "Meus parabéns, você venceu! Como prêmio, você ganhou <FC 0,128,0><SO HT_Objective_Simon_Prize> Escaravelhos<END FC>!<E>"
   },
   "HT_Text_MG_Simon_Restart": {
     "message": "You're in the middle of a game! What do you want?<N>  <B 1> Quit<PC 1><B 2> Restart<N>  <B 3> Carry on<PC 1><B 4> Instructions<E>"
   },
   "HT_Text_MG_Simon_CopyLimit": {
-    "message": "Oh no you don't! You only get two views per sequence!<E>"
+    "message": "Mas nem pensar! Você têm apenas duas olhadas por sequência!<E>"
   },
   "HT_Text_MG_Simon_NoMoney": {
     "message": "Wait, you don't have enough <FC 0,128,0>Scarabs<END FC>. Come back when you have enough to play.<E>"
   },
   "HT_Text_MG_Simon_CantLeave": {
-    "message": "Hey, you can't leave! You're in the middle of a game!<E>"
+    "message": "Ei, você não pode sair! Você está no meio de um jogo!<E>"
   },
   "HT_Text_MG_Simon_GameComplete": {
-    "message": "Excellent! You've beaten my game and earned the <FC 0,128,0>Medal of Sequences<END FC>.<E>"
+    "message": "Excelente! Você completou meu jogo e ganhou a <FC 0,128,0>Medalha de Sequências<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_Start": {
     "message": "Welcome to my game! It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
@@ -147,10 +147,10 @@
     "message": "<DHP><DP><END TT>The fastest you've completed this game is:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> seconds<END FC>."
   },
   "HT_Text_MG_Pairs_NoScores": {
-    "message": "<DHP><DP><END TT>You've never completed this game... <END FC>"
+    "message": "<DHP><DP><END TT>Você nunca completou esse jogo... <END FC>"
   },
   "HT_Text_MG_Pairs_Win": {
-    "message": "Congratulations! You've won <FC 0,128,0><SO HT_Objective_Pairs_Won> Scarabs<END FC>!<E>"
+    "message": "Parabéns! Você ganhou <FC 0,128,0><SO HT_Objective_Pairs_Won> Escaravelhos<END FC>!<E>"
   },
   "HT_Text_MG_Pairs_Restart": {
     "message": "You're in the middle of a game! What do you want?<N>  <B 1> Quit<PC 1><B 2> Restart<N>  <B 3> Carry on<PC 1><B 4> Instructions<E>"
@@ -168,16 +168,16 @@
     "message": "I said it'll cost <FC 0,128,0>10 Scarabs<END FC>, you don't have <FC 0,128,0>10 Scarabs<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_NotWon": {
-    "message": "That took you forever! No prize for you!<E>"
+    "message": "Você levou uma eterninade! Sem prêmios pra você!<E>"
   },
   "HT_Text_MG_Pairs_WinInstructions": {
     "message": "If you can complete the game within <FC 0,128,0>60 seconds<END FC>, you will have proven yourself worthy of the <FC 0,128,0>Medal of Memory<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_GameComplete": {
-    "message": "And you've earned the <FC 0,128,0>Medal of Memory<END FC>!<E>"
+    "message": "E você ganhou a <FC 0,128,0>Medalha de Memória<END FC>!<E>"
   },
   "HT_Text_MG_Pairs_TooLong": {
-    "message": "That's it, you're taking too long, I'm going to have to stop the game. Sorry.<E>"
+    "message": "Já chega, você está demorando demais, vou ter que parar o jogo. Desculpe.<E>"
   },
   "HT_Text_Museum_BC01_Giant_Prawn": {
     "message": "<N><CNTR>---[ <FC 0,128,0>Geb<END FC> ]---<P>Sharing the name of the ancient earth-god, Gebs used to be peaceful creatures.<P>Nowadays, they are little more than obedient muscle for the fearsome Geb Queen...<E>"
@@ -429,22 +429,22 @@
     "message": "A Small Frog! It’s certainly small, but also toxic."
   },
   "HT_Text_Museum_Name_Jewel01": {
-    "message": "Jewel of Shu"
+    "message": "Joia de Shu"
   },
   "HT_Text_Museum_Name_Jewel02": {
-    "message": "Jewel of Memphis"
+    "message": "Joia de Memphis"
   },
   "HT_Text_Museum_Name_Jewel03": {
-    "message": "Jewel of Edfu"
+    "message": "Joia de Edfu"
   },
   "HT_Text_Museum_Name_Jewel04": {
-    "message": "Jewel of Wedjat"
+    "message": "Joia de Wedjat"
   },
   "HT_Text_Museum_Name_Jewel05": {
-    "message": "Jewel of Uraeus"
+    "message": "Joia de Uraeus"
   },
   "HT_Text_Museum_Name_Jewel06": {
-    "message": "Jewel of Weni"
+    "message": "Joia de Weni"
   },
   "HT_Text_ES_S_HelpText": {
     "message": "<FC 60,98,57>"
@@ -465,22 +465,22 @@
     "message": "<END FC>"
   },
   "HT_Text_Gen_Help_GotAbyCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Coroa Sagrada de Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotSakCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Uruk<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Coroa Sagrada de Uruk<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHelCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Coroa Sagrada de Heliópolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNoteFirst": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A new note has been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>To view the <FC 0,128,0>Book of Sphinx<END FC><N>press <SB HT_PadAction_BOS_Show><P><ES HT_Text_ES_S_HelpText><CNTR>The <FC 0,128,0>Notes<END FC> section contains<N>important information about your quest.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNote": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A new note has been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Uma nova anotação foi adicionada<N>ao <FC 0,128,0>Livro de Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNotes": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>New notes have been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Novas anotações foram adicionadas<N>ao <FC 0,128,0>Livro de Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter2Items": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Atun Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the second <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
@@ -561,13 +561,13 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Crocodile Scales<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This ancient artifact allows you to<N>swim under water at great speed!<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_SwimFast> while under water<N>to swim with gusto!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundGoldKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Gold Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou uma <FC 0,128,0>Chave de Ouro<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundGlyphKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Glyph Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou uma <FC 0,128,0>Chave de Glifo<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundCanopicVase": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Canopic Vase<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Part of the soul of Tutankhamen<N>is stored inside.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu um <FC 0,128,0>Vaso Canópico<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Parte da alma de Tutancâmon<N>está guardada dentro.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundRosettaStonePiece": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Rosetta Stone Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The Archeologist will be very interested in this.<ES HT_Text_ES_E_HelpText><E>"
@@ -600,37 +600,37 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Eagle Stone<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This charmed stone allows you to summon<N>a Great Eagle when stood on special points.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotWallSection2Key": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Great Wall Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu uma <FC 0,128,0>Chave da Grande Muralha<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotWallSection3Key": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Great Wall Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu uma <FC 0,128,0>Chave da Grande Muralha<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NoBookOfDead": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>Without the <FC 0,128,0>Book of the Dead<END FC> you are unable to summon Bas-Ket to transport the <FC 0,128,0>Canopic Vase<END FC> to the Mummy.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NoHandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This object is much too heavy for you to move.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Esse objeto é pesado demais para que você possa movê-lo.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>There is a recess for an item of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Há um recuo para um item de algum tipo.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A <FC 0,128,0>key<END FC> is needed to activate this device.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>É preciso de uma <FC 0,128,0>chave<END FC> para ativar esse dispositivo.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>An image of a large bird is painted on this structure.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A imagem de um grande pássaro está pintada nessa estrutura.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The eye socket of this stone statue is empty.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A cavidade ocular dessa estátua de pedra está vazia.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>That item cannot be used here.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Esse item não pode ser usado aqui.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>That key doesn't fit.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Essa chave não serve.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>That <FC 0,128,0>Curse Stone<END FC> is the wrong color.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Essa <FC 0,128,0>Pedra de Maldição<END FC> é da cor errada.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones01": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>2 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
@@ -654,13 +654,13 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Anubis Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The symbols on this ancient artifact<N>indicate transport to Anubis Tower.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_Portal_HaveAmulet": {
-    "message": "Show me your <FC 0,128,0>Portal Amulet<END FC>, small one, and I shall open the gates to your destiny.<E>"
+    "message": "Mostre-me seu <FC 0,128,0>Amuleto de Portal<END FC>, pequeno, e eu abrirei os portões para o seu destino.<E>"
   },
   "HT_Text_Gen_Help_Portal_NoAmulet": {
-    "message": "Why do you summon me, strange creature? Without a <FC 0,128,0>Portal Amulet<END FC> I cannot allow you to pass.<E>"
+    "message": "Por que você me invoca, criatura estranha? Sem um <FC 0,128,0>Amuleto de Portal<END FC> eu não posso permitir que passe.<E>"
   },
   "HT_Text_Gen_Help_Portal_AlreadyHere": {
-    "message": "What foolishness do you request of me? You are already here.<E>"
+    "message": "Que tolice você está pedindo a mim? Você já está aqui.<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedLuxor01": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to a <FC 128,64,0>Mysterious Location<END FC>...<E>"
@@ -687,22 +687,22 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to <FC 128,64,0>Uruk Valley<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in a <FC 128,64,0>Mysterious Location<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>O Deus do Portal se diverte com sua tolice.<N>Você já está em um <FC 128,64,0>Local Misterioso<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in <FC 128,64,0>Abydos<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>O Deus do Portal se diverte com sua tolice.<N>Você já está em <FC 128,64,0>Abydos<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in <FC 128,64,0>Heliopolis<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>O Deus do Portal se diverte com sua tolice.<N>Você já está em <FC 128,64,0>Heliópolis<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in <FC 128,64,0>Anubis Tower<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>O Deus do Portal se diverte com sua tolice.<N>Você já está na <FC 128,64,0>Torre de Anúbis<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDenied01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God will not allow you to pass at this time...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>O Deus do Portal não te permite passar neste momento...<E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem05": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A <FC 0,128,0>Key<END FC> is needed to open this door.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>É preciso de uma <FC 0,128,0>Chave<END FC> para abrir essa porta.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Sewer_King_Challenge1": {
     "message": "Light all of these torches around me and I will give you this ancient artifact. Be careful though; it's just as easy to extinguish them as it is to light them.<E>"
@@ -714,7 +714,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou a <FC 0,128,0>Estátua de Atun<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter3_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou a <FC 0,128,0>Sacola de Remédios<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou a <FC 0,128,0>Bolsa de Medicamentos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter4_FoundQuestItem": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou as <FC 0,128,0>Mãos de Amun<END FC>!<ES HT_Text_ES_E_HelpText><E>"
@@ -768,9 +768,9 @@
     "message": "This secret door connects with other sections of the castle. We must separate now. It is too risky for us to stay together. Good luck. <E>"
   },
   "HT_Text_Mum_Cast_CageLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This cage requires a <FC 0,128,0>Key<END FC> to open.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Essa jaula requer uma <FC 0,128,0>Chave<END FC> para ser aberta.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Cast_Help_FoundCageKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Cage Key<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou uma <FC 0,128,0>Chave da Jaula<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
   }
 }
