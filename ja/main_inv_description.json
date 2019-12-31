@@ -1,506 +1,506 @@
 {
   "HT_Text_Inv_Dsc_IceDart": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>アイスダーツは特定のモンスターを凍らせることができる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FireDart": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>ファイヤダーツは特定のモンスターに火をつけることができる。<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Acid": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>アシッドダーツは金属で作った特定の物を溶かしたり、モンスターにダメージを与えたりできる。<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BladeOfOsiris": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>オシリス様が使ったとても強力な剣。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BronzeScarab": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>この一般的な通貨で様々な物を買うことができる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_WingsOfIbis": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>この古代のアーティファクトは空中で二回ジャンプできる能力をあげる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Blowpipe": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>この強力な武器は遠い目標まで魔法のダーツを射撃できる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CrocodileScales": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>この魔法のアーティファクトは水中で素早く泳げる能力をあげる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_UnderwaterProjectile": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>この矢は魔法で補充するので、供給は無限だ。水中で目標や特定のモンスターに矢を放つことができる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HandsOfAmun": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>この古代のアーティファクトはとても重い物も押せる力を与える。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ScarabPurse": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>この袋はゴールドスカラブを最大400まで収納できる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ScarabPurse2": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>この袋はゴールドスカラブを最大900まで収納できる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BeetlePouch": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>このポーチは掴みビートルを最大20匹、さらにモンスターを各種類ごとに最大10匹まで収納できる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_DartBelt": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>このベルトはダーツを各タイプごとに最大50本まで収納できる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BeetleStachel": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>このかばんは掴みビートルを最大50匹、さらにモンスターを各種類ごとに最大10匹まで収納できる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HandsOfAmunRa": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>これを使用すれば、もっとも大きいな物も押せるようになる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ShieldOfOsiris": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>オシリス様が戦闘で使った魔法の盾。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CloakOfInvisibility": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>この魔法の石は不可視の力を与える…けど急死されちゃう！<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AnkhContainer": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>命の本質、ゴールドアンクを集めれば集めるほど体力の限界が増える。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AnkhPiece": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>特別な技術を知っている人は4つのゴールドアンクのかけらを１つのゴールドアンクにまとめることができる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CanopicVase": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>ツタンカーメンの魂のかけらを持つ聖なるな壼。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Pearl": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>廊下のチャンピオンのゲームマスターの青いダイヤモンド。ウォールガントレットにふさわしいことを証明するためにゲームマスターに返す。<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Herbs": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>市長の薬のための薬草。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BookOfTheDead": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>この魔術書はマミーにカノポス壺を届けるためにバス・ケットをウルク城まで移送できる呪文を持っている。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BronzeAnkh": {
-    "message": ""
+    "message": "インベントリーに現れていない"
   },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>モンスターを捕まえるために使用できるビートル。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_StandardDart": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>このダーツは魔法で補充するので供給は無限だ。爆発型モンスターにしかダメージを与えることができない。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_KaDart": {
-    "message": ""
+    "message": "インベントリーに現れていない"
   },
   "HT_Text_Inv_Dsc_BounceDart": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd><ES HT_Text_ES_E_BOSStd>このダーツは魔法で補充するので供給は無限だ。目標を間接的に打つために表面から跳ね返ることができる、けど爆発型モンスターにしかダメージを与えることができない。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PossessionDart": {
-    "message": ""
+    "message": "インベントリーに現れていない"
   },
   "HT_Text_Inv_Dsc_PhysNote": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>医者から発明家ケメットへのノート。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BC01_Giant_Prawn": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>このゲブクイーンの巨大な戦士は悪質…<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>このモンスターと戦う者へ武運を。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM09_Smiling_burble": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>バーブルの種の変なメンバー、角を使って攻撃する。<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>布の帽子は何世代にもわたってかぶってきたため、生まれてから頭の上から生えるようになった。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM10_i_Cyclops": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>These elusive critters shoot a powerful ray of fire from their single eye, and are able to teleport over short distances...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>When injured, the Cyclops will split into two  - double the danger.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM12_slim_burble": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Has a suicidal defense method that involves creating an explosive charge before launching at its target and detonating...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>This can be advantageous when releasing captured Slim Burbles towards obstacles.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BR04_Goofy_Lizard": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>From the moment they are born, Goofy Lizards are clumsy, forgetful but ultimately good-natured. Known to spend many hours futilely attacking their own shadow.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BR05_Dino_Oaf": {
-    "message": ""
+    "message": "TO DO<E>"
   },
   "HT_Text_Inv_Dsc_BR06_Half_Brute": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The name Half Brute understates the nature of these aggressive two-legged monsters...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>While their unwieldy gait makes them slow, they are capable of stomping the ground with enough force to send a powerful shockwave into all those around.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU01_Mummy_Minotaur": {
-    "message": ""
+    "message": "TO DO<E>"
   },
   "HT_Text_Inv_Dsc_BU02_Skeletal_Axeman": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Watch out for these undead axe-wielding warriors...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>They can use their weapon as a boomerang, and can even call upon a protective shield which encases them until their axe returns.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU03_zombie_man": {
-    "message": ""
+    "message": "TO DO<E>"
   },
   "HT_Text_Inv_Dsc_BU05_almost_a_bull": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Almost-A-Bull is named so not only for the two horns atop its head, but also for its unnerving habit of charging and attacking anyone wearing the color red.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU06_MBird": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>They may be undead, but they're definitely unfriendly. Will swoop down beak first into anything they perceive as a threat.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL02_Featherless_Turkey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Featherless Turkey is aptly named for its total lack of plumage. Widely regarded as a delicacy at any feast during the winter season.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Shuttlecock Bird may be one-legged, but it's quick on its foot...<P><ES HT_Text_ES_S_BOSStd>When hurtling through the air to attack it resembles an arrow, and can cause as much damage.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL04_Skeletal_Bat": {
-    "message": ""
+    "message": "TO DO"
   },
   "HT_Text_Inv_Dsc_FL04_Skeletal_Bat_Fire": {
-    "message": ""
+    "message": "TO DO"
   },
   "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
-    "message": ""
+    "message": "The Mummy Eagle is one of the largest birds around. Undead, they are even more resilient to their live counterparts from attack.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL06_Undead_Man": {
-    "message": ""
+    "message": "TO DO<E>"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Knives Cats quickly confuse opponents with deft leaps and bounds, before plunging in to attack with alarming speed, razor sharp claws fully extended.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": ""
+    "message": "TO DO<E>"
   },
   "HT_Text_Inv_Dsc_HD14_Crab": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Crabhands attack their enemies with sharp claws in a somewhat cumbersome fashion. Let it get close enough, however, and expect painful results.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD15_GuardTest": {
-    "message": ""
+    "message": "TO DO<E>"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Sharpbeaks carry a sword in each hand which they wield with disorientating and discerning skill...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Infamous for slowly but surely bearing down on their opponent, utilizing the Florentine dual rapier method to deadly effect.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Skull Worshippers use their flaming staffs and ability to summon ghostly flying skulls to deadly effect...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Encounter one of these and the forces of evil are bound to be close by.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Able to pass through solid forms, they move with the swiftness of a winter cloud and attack as if from nowhere...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Save projectile weaponry for elsewhere, as they will pass straight through the Dark Worshipper.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>In addition to their well-honed swordsmanship, they are capable of releasing an evil, shimmering skull that chases down an opponent...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>A flurry of blows often fails to harm them, such is their defensive skill.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN01_Green_Giant_worm": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>They rear up out of their holes with alarming speed, using their great mass to slam down, crushing anything beneath...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Known to be impervious to anything that might stun smaller monsters.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN07_Blade_Scorpion": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Blade Scorpion is quick on its feet and quicker to attack. Be wary of its tail, and the darkened hidey holes it favors for sleeping.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN08_Tacked_Spider": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Tacked Spider likes to hang around all sorts of places...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Keep an eye out on the ceilings of any cavernous tunnel in case one drops down from above.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN09_Sak_Spike_Spider": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Jumps and clings to its prey, biting away with exceptional persistence until either shaken off or well fed...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Encounter one and others are sure to be close by, as they hunt in groups.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN11_Spider": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>An arthropod with the ability to move swiftly along vertical and horizontal surfaces...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>The vicious fangs are not the only thing to fear; each of its legs ends in lethal, dagger-like claws.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Piranha": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The way they walk may look comical, but their bite certainly isn't. Vicious on land and in water...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Their unique metabolism makes them impervious to cold conditions.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Exo-Piranha is a new evolutionary strain of Piranha. Only discovered in recent years, they are faster and stronger than others of their species.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Green_Piranha": {
-    "message": ""
+    "message": "TO DO"
   },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A snakelike fish capable of emitting electric charges.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Electric Eels are aggressive and territorial creatures, and in large quantities have been known to electrify vast areas of water.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI03_Aka_Manta_Rays": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A large, edible marine fish noted for its flat body And graceful swimming style.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Years of being a culinary delicacy have made this creature understandably wary of anything unfamilar which strays too close to it.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Fast-swimming and highly protective of its domain, the Spinefish is often a favored choice of the upper classes to make their moats even more hazardous to trespassers.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Moving with great ease, they often attack their prey before they've even been spotted.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI05_Aka_Turtle": {
-    "message": ""
+    "message": "TO DO"
   },
   "HT_Text_Inv_Dsc_PI06_Aka_Tentacle_Creature": {
-    "message": ""
+    "message": "TO DO"
   },
   "HT_Text_Inv_Dsc_PL01_Eye": {
-    "message": ""
+    "message": "TO DO"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Tree Creature may possess a beautiful magical ability, but let the phosphorescent glow enchant you and you'll get a nasty surprise from below.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PL04_Sunflower_With_Face": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Sunflower is not as peaceful as it may sound. Get hit by any one of the spores it emits and you won't be sleeping well that night.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QC01_Pokemon": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Slow, timid and unthreatening, Shell Critters are of little use. The bourgeoisie are known to use their shells as ornamentation.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR01_Cobra": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A Cobra is a venomous hooded snake which resides in trees and other plant life. Disturb a Cobra's home and it will not hesitate to rear its head and attack the intruder.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR02_Sak_Spitting_Toad": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Despite its overbearing size, the Spitting Toad is a placid creature renowned for its soft spot for coconuts.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Spitting Toads have been known to assist adventurers who feed them this nutty delicacy.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR03_Sak_Small_Frog": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>This frog may well be small, but it isn't the friendliest creature around. Indiginous to swamplands, they're noxious little critters.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR04_Sak_Nose_Needler": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Nose Needler is a burrowing mammal found in dusty regions. Good luck to anyone attempting to land a blow on one of these evasive mammals.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU01_Skeletal_Spider": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Known for using its head's unique height to headbutt their prey. Once knocked unconscious, the Skeletal Spider can devour its prey at leisure.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>When alerted to a potential threat they will spin faster and faster on the spot, before dashing headlong into their enemy.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Fire": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Employing the same spinning and charging attack as the Skeletal Armadillo, the Skeletal Fire Armadillo also generates a ball of fire, damaging any opponents with scorching results...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Captured ones can be used to burn down wooden obstacles.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Electricity": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Skeletal Electric Armadillo spins on the spot, building up an electric charge shocking to anything that comes into contact with it.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU04_Mummy_Chihuahua": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>These little dogs are none too pleased about being mummified, so try not to get close. If you make that mistake, expect them to cling to you and bite away until they are shaken off.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU05_skeletal_waspspider": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Wasp Spider poses a threat with its sharp front claws, which scythe through the air... and prey.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU06_Mummy_Worm": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>As they are rooted to the spot they cannot see in every direction. Get behind one and, to all intents and purposes, it is completely harmless.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU09_Rat": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>An annoying creature which refuses to give up the chase until it's sunk its teeth into something. Most commonly found living in and around populated areas.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU08_Normal_Chihuahua": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A Chihuahua is a smooth-coated dog of diminutive stature. While they are highly respected by the dog loving community, most find their incessant yapping to be very irritating.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Big Bull would perhaps be more accurately described as a \"big bully\"...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>It cannot be reasoned with, and will persistently swing and smash its hammer at anything it feels like bothering. Do not get in the way!<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD09_Horned_ReptileMan": {
-    "message": ""
+    "message": "TO DO"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Key to the palace Courtyard.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_NefertitiItem": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Nefertiti's Letter.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_SarcophagusKey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Key to open magical sarcophagi.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_WardrobeKey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Key to a Wardrobe.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_Amulet": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Old Amulets found in the palace of Luxor.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_CourtyardKey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Key to the palace Courtyard.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_TreasureChamberKey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Key to the palace Treasure Room.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_KeyStone": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A large door key.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_ImpulseKey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A large door key.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey01": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Solar Key for the Planetarium in the central hall.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey02": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Earth Key for the Planetarium in the central hall.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey03": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Lunar Key for the Planetarium in the central hall.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Basket": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Bas-Ket is a magical object who can transport items between Sphinx and the Mummy once you have the Book of the Dead.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyPass": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Abydos Identification Pass.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyPearls": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Beautiful, rare pearls only found in Abydos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_RosettaStonePiece": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Broken pieces of the Rosetta Stone.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_RosettaStone": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Ancient Rosetta Stone allowing translation of Ancient Texts.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Sak_Crown": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Sacred Crown of Uruk.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Aby_Crown": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Sacred Crown of Abydos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Hel_Crown": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Sacred Crown of Heliopolis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Set_Crown": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The Sacred Crown of Set.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_PharaohInvite": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>An invitation to see the Pharaoh of Heliopolis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederItem": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A large jar used for breeding beetles.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Loyalty Card entitling you to half price beetles from the Bedouin Outpost store.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CageKey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The key to the Urukite's Cage.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_MummyMoney": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Rare currency only found in the Castle of Uruk.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Mum_OldKey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The key to an old cellar.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Mum_GlyphKey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A golden Glyph Key.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PalaceInvite": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>An invitation to see the Pharaoh of Heliopolis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone01": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A magical stone associated with the goddess Nut, said to lift even the strongest curse.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone02": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A magical stone signifying earthly bliss, said to lift even the strongest curse.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone03": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A magical stone associated with fertility, said to lift even the strongest curse.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone04": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A magical stone believed to be mightier than the sword, said to lift even the strongest curse.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone05": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A magical stone of prophetic origins, said to lift even the strongest curse.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone06": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A magical stone of the great house, said to lift even the strongest curse.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone07": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A magical stone of protection and watchfulness, said to lift even the strongest curse.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone08": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A magical stone of protection and watchfulness, said to lift even the strongest curse.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Luxor01": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A Portal Amulet with strange symbols indicating transport to a Mysterious Location.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Abydos01": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A Portal Amulet with oceanic symbols indicating transport to Abydos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Heliopolis01": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A Portal Amulet with sand etched symbols indicating transport to Heliopolis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_DarkArea01": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A Portal Amulet with ancient symbols indicating transport to Anubis Tower.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GoldKey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A golden key.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GlyphKey01": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A Gold Glyph which will fit in certain key pedestals.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GlyphKey02": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A Gold Glyph which will fit in certain key pedestals.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey01": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A key to open a gate to the South Desert of Heliopolis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey02": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A key to open a gate to the Great Obelisk of Heliopolis.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey03": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A key to open a stone door in a cave between Heliopolis Point and South Beach.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone01": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The skull of a Skeletal Axeman.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone02": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The pelvis of a Skeletal Axeman.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone03": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The arm of a Skeletal Axeman.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone04": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The leg of a Skeletal Axeman.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HippyItem": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>This Parasol is ideal for providing shade from the sun.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList01": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>1. Fire Armadillo<PC 1>2. Mummy Worm<N>3. Almost-A-Bull<PC 1>4. Half Brute<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList02": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>1. Dark Worshipper<PC 1>2. Wasp Spider<N>3. Rat<PC 1>4. Spike Spider<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList03": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>1. Tree Creature<PC 1>2. Skeletal Spider<N>3. Big Bull<PC 1>4. Skull Worshipper<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Coconut": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>Coconuts are a favored food of the Urukan lava toad. Lava toads have been known to assist adventurers in exchange for these prized delicacies.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ZipLineHook": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A detachable handle that lets you use zip lines.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyWellKey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>An old key.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_DummyItem": {
-    "message": ""
+    "message": "インベントリーに全然現れていないはずのダミーアイテム"
   },
   "HT_Text_Inv_Dsc_AbyStairsKey": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>The key to the stairs in the well courtyard, allowing access to the Abydos Canals.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_MedicineBag": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A specially lined bag that preserves delicate medicinal ingredients.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AtunStatue": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A golden statue of the god Atun. Said to be the only means to break the magical Seal of Atun.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HathorStatue": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A golden statue of the god Hathor, imbued with magical powers.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel01": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>One of the jewels stolen from Abydos Museum.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel02": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>One of the jewels stolen from Abydos Museum.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel03": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>One of the jewels stolen from Abydos Museum.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel04": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>One of the jewels stolen from Abydos Museum.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel05": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>One of the jewels stolen from Abydos Museum.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel06": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>One of the jewels stolen from Abydos Museum.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_EagleStone": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A charmed stone which allows you to summon a Great Eagle at special points.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AtunEye": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A stone eye which looks like it would fit into the eye socket of a statue of some kind.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Shoot": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>An impressive looking medal proving you are a true marksman with the Blowpipe.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Walls": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>An impressive looking medal proving you are the Champion of Corridors.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Pairs": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>An impressive looking medal proving you completed Paneb's Pairs game.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Simon": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>An impressive looking medal proving you completed Sorkon's Sequence game.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_Certificate": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A certificate from the Abydos Museum presented to you after you completed the museum's Natural History collection.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterA": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A certificate from the Abydos Museum presented to you for collecting 30 monsters.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterB": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A certificate from the Abydos Museum presented to you for collecting 20 monsters.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterC": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_BOSStd>A certificate from the Abydos Museum presented to you for collecting 10 monsters.<ES HT_Text_ES_E_BOSStd>"
   }
 }
