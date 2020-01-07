@@ -1,114 +1,114 @@
 {
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1a": {
-    "message": "Waaahh!!! Who are you? What do you want? You've come to steal my precious merchandise?!<W 60>"
+    "message": "Aaaargh!!! Quem é você? O que você quer? Você veio roubar minha preciosa mercadoria?!<W 60>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1b": {
-    "message": "Hmmm, you don't look like a thief...<E>"
+    "message": "Hmmm, você não parece com um ladrão...<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1c": {
-    "message": "Hehehe, sorry. I thought you were one of those thieving Urukites from the other side of the wall.<E>"
+    "message": "Hehehe, desculpe. Pensei que você era um desses Urukitas ladrões do outro lado da muralha.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1d": {
-    "message": "They cannot be trusted. I'm still not sure I trust you, either. If you can give me <FC 0,128,0>10 Onyx Scarabs<END FC> then I'll consider changing my mind.<E>"
+    "message": "Não se pode confiar neles. Também não sei se confio em você ainda. Se você me der <FC 0,128,0>10 Escaravelhos de Ônix<END FC> talvez eu mude de ideia.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1e": {
-    "message": "Ahh, beautiful! <FC 0,128,0>Onyx Scarabs<END FC>! Now, allow me to show you the fantastic merchandise I have for sale.<E>"
+    "message": "Ahh, lindo! <FC 0,128,0>Escaravelhos de Ônix<END FC>! Agora, permita-me mostrá-lo a fantástica mercadoria que tenho à venda.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1f": {
-    "message": "Please, please, come on in...<W 60>"
+    "message": "Por favor, por favor, entre...<W 60>"
   },
   "HT_Text_Hel_Exterior_Farmer_CSFreed01": {
-    "message": "Hello again! It's great to be back on the farm with my brother again. I don't think I can thank you enough for your help.<E>"
+    "message": "Olá novamente! É ótimo estar de volta na fazenda com meu irmão de novo. Nem sei como lhe agradecer o suficiente por sua ajuda.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_CSFreed01": {
-    "message": "Yes, thanks to you my brother and I can get back to our farm work.<E>"
+    "message": "Sim, graças à você meu irmão e eu podemos voltar ao trabalho na fazenda.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_CSFreed02": {
-    "message": "For all your help, we want you to have this. We found it while farming, but it looks very valuable.<E>"
+    "message": "Por toda a sua ajuda, queremos que fique com isso. Encontramos enquanto estávamos cavando, mas parece bem valioso.<E> "
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother": {
-    "message": "I cannot bring myself to farm while my brother is cursed in that palace. A plague on Anubis for the suffering he has caused! <E>"
+    "message": "Não sou capaz de voltar a cultivar enquanto meu irmão está amaldiçoado naquele palácio. Uma praga à Anúbis pelo sofrimento que ele causou! <E>"
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother1a": {
-    "message": "I've had enough of <FC 128,64,0>Heliopolis<END FC>. It used to be a great place to live, but then Anubis decided to interfere.<E>"
+    "message": "Já tive o bastante de <FC 128,64,0>Heliópolis<END FC>. Aqui costumava ser um ótimo lugar para viver, até Anúbis decidir interferir.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother1b": {
-    "message": "He cursed my brother, along with everyone else in the <FC 128,64,0>Cursed Palace<END FC> over there...<E>"
+    "message": "Ele amaldiçoou meu irmão, junto com todos no <FC 128,64,0>Palácio Amaldiçoado<END FC> logo ali..."
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother1b1": {
-    "message": "He made these deadly <FC 0,128,0>Eye of Ra Posts<END FC> appear in every corner of the land...<E>"
+    "message": "Ele fez esses mortais <FC 0,128,0>Pilares do Olho de Rá<END FC> aparecerem em todos os cantos da terra...<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother1b2": {
-    "message": "He made the soil barren and infertile; I can't grow anything on the farm...<E>"
+    "message": "Ele tornou o solo árido e infértil. Não consigo plantar nada na fazenda...<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother1c": {
-    "message": "Yes, it's all down to Anubis. I bet he's sitting in his tower looking down on <FC 128,64,0>Heliopolis<END FC>, laughing at all the misery and suffering.<E>"
+    "message": "Sim, é tudo culpa de Anúbis. Aposto que ele está sentado em sua torre olhando para <FC 128,64,0>Heliópolis<END FC>, rindo de toda a miséria e sofrimento que ele causou.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_MissMyBrother1c1": {
-    "message": "Someone should pay him a visit... teach him a lesson...<E>"
+    "message": "Alguém deveria fazer uma visita a ele... ensiná-lo uma lição...<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_Reunion01": {
-    "message": "There you are! Thank you so much. I really can't thank you enough for freeing my brother.<E>"
+    "message": "Aí está você! Muito obrigado. Nem sei como agradecê-lo por libertar meu irmão.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_Reunion02": {
-    "message": "I was getting desperate. I thought I would never see him again, but thanks to you, we're reunited!<E>"
+    "message": "Estava ficando desesperado. Achei que nunca mais iria vê-lo, mas graças à você, fomos reunidos!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_Reunion03": {
-    "message": "My brother and I would love to get back to the farm, but not while those deadly <FC 0,128,0>Eyes of Ra<END FC> are out there.<E>"
+    "message": "Meu irmão e eu adoraríamos voltar para a fazenda, mas não enquanto esses mortais <FC 0,128,0>Olhos de Rá<END FC> estiverem por aí.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_Reunion04": {
-    "message": "It looks like our misfortune is set to stay with us.<E>"
+    "message": "Parece que nossa maré de azar continuará com a gente.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_ReunionGoHome01": {
-    "message": "<EFF><EPO>There you are! Thank you so much. I really can't thank you enough for freeing my brother.<P>I was getting desperate. I thought I would never see him again, but thanks to you, we're reunited!<P>It will be great for my brother and I to get back to the farm, especially now that you've destroyed all those <FC 0,128,0>Eye of Ra Posts<END FC>. Thanks again!<E>"
+    "message": "<EFF><EPO>Aí está você! Muito obrigado! Eu realmente não posso agradecer o suficiente por ter salvo meu irmão.<P>Eu estava ficando desesperado. Eu pensei que nunca mais o veria, mas graças à você, fomos reunidos!<P>Será ótimo voltar à fazenda com meu irmão, ainda mais agora que você destruiu todos aqueles <FC 0,128,0>Pilares dos Olhos de Rá<END FC>. Obrigado mais uma vez!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_ReunionGoHome02": {
-    "message": "Remember, my friend, come visit us on the farm. We'll help you in any way we can...<E>"
+    "message": "Lembre-se, meu amigo, venha nos visitar na fazenda. Nós o ajudaremos no que pudermos...<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes01": {
-    "message": "My brother and I would love to get back to our farming, but not while those deadly <FC 0,128,0>Eyes of Ra<END FC> are out there.<E>"
+    "message": "Meu irmão e eu adoraríamos voltar ao plantio, mas não enquanto esses mortais <FC 0,128,0>Olhos de Rá<END FC> estiverem por aí.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes02a": {
-    "message": "Excellent! All the <FC 0,128,0>Eyes of Ra<END FC> are destroyed!<E>"
+    "message": "Excelente! Todos os <FC 0,128,0>Olhos de Rá<END FC> foram destruídos!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes02b": {
-    "message": "Now my brother and I can get back to our farming. Thank you!<E>"
+    "message": "Agora meu irmão e eu podemos voltar à plantação. Obrigado!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes02c": {
-    "message": "Don't forget to come visit us, my friend. We'll help you in any way we can...<W 60>"
+    "message": "Não se esqueça de nos visitar, meu amigo. Iremos ajudá-lo com tudo o que pudermos...<W 60>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes03a": {
-    "message": "There are still <FC 0,128,0><SO HT_Objective_Temp> Eyes of Ra<END FC> left, my friend!<E>"
+    "message": "Ainda restam <FC 0,128,0><SO HT_Objective_Temp>Olhos de Rá<END FC>, meu amigo!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes03b": {
-    "message": "There is still <FC 0,128,0>1 Eye of Ra<END FC> left, my friend!<E>"
+    "message": "Ainda resta <FC 0,128,0>1 Olho de Rá<END FC>, meu amigo!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_BrotherFreed": {
-    "message": "It's a miracle! My brother has returned!<P>He tells me you were responsible. I cannot thank you enough.<E>"
+    "message": "É um milagre! Meu irmão retornou!<P>Ele me disse que você foi o responsável. Nem sei como agradecê-lo.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_PickPlot": {
-    "message": "Please my friend, if you choose a plot on the farm, we'll gladly give you whatever we find there. It's the least we can do after all you have done for us.<E>"
+    "message": "Por favor meu amigo, se você escolher um terreno na fazenda, te daremos o que encontrarmos nele. É o mínimo que podemos fazer depois de tudo o que fez por nós.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_NotDoneYet": {
-    "message": "We're still not finished yet; the land is almost unworkable. Please, come back later.<E>"
+    "message": "Ainda não terminamos, a terra é quase inutilizável. Por favor, volte mais tarde.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_FoundThis": {
-    "message": "Welcome back my friend! You'll be glad to know that we found this while we were digging. Please, take it as a token of our appreciation.<E>"
+    "message": "Bem-vindo de volta meu amigo! Você ficará feliz em saber que encontramos isso enquanto cavávamos. Por favor, aceite como um símbolo do nosso agradecimento.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_Complete": {
-    "message": "Now that the farm is prepared, we can relax and wait for the rains to come. Thanks for your help!<E>"
+    "message": "Agora que a fazenda está preparada, podemos relaxar e esperar a chuva chegar. Obrigado pela ajuda!<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_Thanks": {
-    "message": "It's great to be back with my brother again. Once somebody gets rid of those <FC 0,128,0>Eyes Of Ra<END FC> we'll be able to get back to our farm work.<E>"
+    "message": "É ótimo estar de volta com meu irmão novamente. Assim que alguém se livrar desses <FC 0,128,0>Olhos de Rá<END FC> poderemos voltar ao nosso trabalho na fazenda.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_KillEyes01a": {
-    "message": "Once those last <FC 0,128,0><SO HT_Objective_Temp> Eyes of Ra<END FC> are destroyed we can get back to the farm!<E>"
+    "message": "Assim que esses últimos <FC 0,128,0><SO HT_Objective_Temp>Olhos de Rá<END FC> forem destruídos poderemos voltar a fazenda!<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_KillEyes01b": {
-    "message": "Once that last <FC 0,128,0>Eye of Ra<END FC> is destroyed we can get back to the farm!<E>"
+    "message": "Assim que o último <FC 0,128,0>Olho de Rá<END FC> for destruído poderemos voltar à fazenda!<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_AskMyBrother": {
-    "message": "You should speak to my brother, friend. He's in charge of the farm.<E>"
+    "message": "Você devia falar com meu irmão, amigo. É ele quem manda na fazenda.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_NotDoneYet": {
     "message": "It's such hard work, tilling this land. Come back later, when we're finished.<E>"
@@ -117,7 +117,7 @@
     "message": "It's been hard work preparing the farm, but now we can relax and wait for the rains. Thanks for your help friend!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_BrotherFreed1a": {
-    "message": "It's a miracle! My brother has returned!<E>"
+    "message": "É um milagre! Meu irmão retornou!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_BrotherFreed1b": {
     "message": "I have you to thank, but I cannot think how to repay you.<E>"
@@ -132,10 +132,10 @@
     "message": "I'll explain to you how it works. Perhaps you'll be able to help us. <E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_CSIntro01": {
-    "message": "Here we are, <FC 128,64,0>Heliopolis<END FC> at last!<E>"
+    "message": "Aqui estamos, finalmente em <FC 128,64,0>Heliópolis<END FC>!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_CSIntro01a": {
-    "message": "This was once a great kingdom. Now, it's no more than a forsaken desert wasteland.<E>"
+    "message": "Aqui já foi um grande reino. Mas agora não é nada além de um deserto abandonado.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_CSIntro02": {
     "message": "Personally, I think you should have stayed in <FC 128,64,0>Abydos<END FC>. You won't find much here other than sand and vicious monsters.<E>"
@@ -147,91 +147,91 @@
     "message": "I'll be back around these parts in a few days. I might see you then...<W 90>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_WhereTo00": {
-    "message": "Hi! Nice to see you again.<P>Where would you like to sail to today?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 7> Nowhere<E>"
+    "message": "Olá! É bom vê-lo novamente.<P>Para onde gostaria de velejar hoje?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 7> Lugar nenhum<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_WhereTo01": {
-    "message": "Hi! Nice to see you again.<P>Where would you like to sail to today?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 4> <FC 128,64,0>Cursed Palace<END FC><N>  <B 3> <FC 128,64,0>South Beach<END FC><PC 1><B 7> Nowhere<E>"
+    "message": "Olá! É bom vê-lo novamente.<P>Para onde gostaria de velejar hoje?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 4> <FC 128,64,0>Palácio Amaldiçoado<END FC><N>  <B 3> <FC 128,64,0>Praia do Sul<END FC><PC 1><B 7> Lugar nenhum<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_WhereTo02": {
-    "message": "Hi! Nice to see you again.<P>Where would you like to sail to today?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 4> <FC 128,64,0>Cursed Palace<END FC><N>  <B 3> <FC 128,64,0>South Beach<END FC><PC 1><B 5> <FC 128,64,0>Heliopolis Point<END FC><N>  <B 7> Nowhere<E>"
+    "message": "Olá! É bom vê-lo novamente.<P>Para onde gostaria de velejar hoje?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 4> <FC 128,64,0>Palácio Amaldiçoado<END FC><N>  <B 3> <FC 128,64,0>Praia do Sul<END FC><PC 1><B 5> <FC 128,64,0>Ponto de Heliópolis<END FC><N>  <B 7> Lugar nenhum<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_WhereTo03": {
-    "message": "Hi! Nice to see you again.<P>Where would you like to sail to today?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 4> <FC 128,64,0>Cursed Palace<END FC><N>  <B 3> <FC 128,64,0>South Beach<END FC><PC 1><B 5> <FC 128,64,0>Heliopolis Point<END FC><N>  <B 6> <FC 128,64,0>Bedouin Outpost<END FC><PC 1><B 7> Nowhere<E>"
+    "message": "Olá! É bom vê-lo novamente.<P>Para onde gostaria de velejar hoje?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 4> <FC 128,64,0>Palácio Amaldiçoado<END FC><N>  <B 3> <FC 128,64,0>Praia do Sul<END FC><PC 1><B 5> <FC 128,64,0>Ponto de Heliópolis<END FC><N>  <B 6> <FC 128,64,0>Povoado de Bedouin<END FC><PC 1><B 7> Lugar nenhum<E> "
   },
   "HT_Text_Hel_Exterior_BoatOwner_Return01": {
-    "message": "Are you ready to return to the mainland?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Está pronto para voltar ao continente?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_Return02": {
-    "message": "Are you ready to return to <FC 128,64,0>Heliopolis<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Está pronto para voltar à <FC 128,64,0>Heliópolis<END FC>?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_GenericLetsGo": {
-    "message": "OK then, let's go!<E>"
+    "message": "OK então, vamos lá!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToImhotepPrice": {
-    "message": "That will cost you <FC 0,128,0>10 Scarabs<END FC><N>  <B 1> OK<N>  <B 2> Forget it<E>"
+    "message": "Isso irá custá-lo <FC 0,128,0>10 Escaravelhos<END FC><N>  <B 1> OK<N>  <B 2> Deixa quieto<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToImhotepConfirm": {
-    "message": "Next stop <FC 128,64,0>Sun Shrine Island<END FC>!<E>"
+    "message": "Próxima parada, <FC 128,64,0>Ilha do Santuário do Sol<END FC>!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_DestinationDecline": {
-    "message": "Very well, let me know if you change your mind.<E>"
+    "message": "Muito bem, me avise caso mude de ideia.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToAbydosPrice": {
-    "message": "That will be <FC 0,128,0>25 Scarabs<END FC><N>  <B 1> OK<N>  <B 2> Forget it<E>"
+    "message": "Isso será <FC 0,128,0>25 Escaravelhos<END FC><N>  <B 1> OK<N>  <B 2> Deixa quieto<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToAbydosConfirm": {
-    "message": "Next stop <FC 128,64,0>Abydos<END FC>!<E>"
+    "message": "Próxima parada, <FC 128,64,0>Abydos<END FC>!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToCursedPalacePrice": {
-    "message": "That will be <FC 0,128,0>5 Scarabs<END FC><N>  <B 1> OK<N>  <B 2> Forget it<E>"
+    "message": "Isso será <FC 0,128,0>5 Escaravelhos<END FC><N>  <B 1> OK<N>  <B 2> Deixa quieto<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToCursedPalaceConfirm": {
-    "message": "Next stop <FC 128,64,0>Cursed Palace<END FC>!<E>"
+    "message": "Próxima parada, <FC 128,64,0>Palácio Amaldiçoado<END FC>!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToBedouinOutpostPrice": {
-    "message": "That will be <FC 0,128,0>5 Scarabs<END FC><N>  <B 1> OK<N>  <B 2> Forget it<E>"
+    "message": "Isso será <FC 0,128,0>5 Escaravelhos<END FC><N>  <B 1> OK<N>  <B 2> Deixa quieto<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToBedouinOutpostConfirm": {
-    "message": "Next stop <FC 128,64,0>Bedouin Outpost<END FC>!<E>"
+    "message": "Próxima parada, <FC 128,64,0>Povoado de Bedouin<END FC>!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToHeliopolisPointPrice": {
-    "message": "That will be <FC 0,128,0>5 Scarabs<END FC><N>  <B 1> OK<N>  <B 2> Forget it<E>"
+    "message": "Isso será <FC 0,128,0>5 Escaravelhos<END FC><N>  <B 1> OK<N>  <B 2> Deixa quieto<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToHeliopolisPointConfirm": {
-    "message": "Next stop <FC 128,64,0>Heliopolis Point<END FC>!<E>"
+    "message": "Próxima parada, <FC 128,64,0>Ponto de Heliópolis<END FC>!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToSouthBeachPrice": {
-    "message": "That will be <FC 0,128,0>5 Scarabs<END FC><N>  <B 1> OK<N>  <B 2> Forget it<E>"
+    "message": "Isso será <FC 0,128,0>5 Escaravelhos<END FC><N>  <B 1> OK<N>  <B 2> Deixa quieto<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToSouthBeachConfirm": {
-    "message": "Next stop <FC 128,64,0>South Beach<END FC>!<E>"
+    "message": "Próxima parada, <FC 128,64,0>Praia do Sul<END FC>!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_AtHeliopolisPoint": {
-    "message": "This IS <FC 128,64,0>Heliopolis Point<END FC>! Dear me friend, you aren't too good with geography are you?<E>"
+    "message": "Aqui É o <FC 128,64,0>Ponto de Heliópolis<END FC>! Meu amigo, você não é muito bom com geografia, é?<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_AtCursedPalace": {
-    "message": "This IS the <FC 128,64,0>Cursed Palace<END FC>! Did you not see that huge building there?<E>"
+    "message": "Aqui É o <FC 128,64,0>Palácio Amaldiçoado<END FC>! Você não viu aquela construção enorme ali?<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_AtSouthBeach": {
-    "message": "This IS <FC 128,64,0>South Beach<END FC>! You should pay more attention to your surroundings friend!<E>"
+    "message": "Aqui É a <FC 128,64,0>Praia do Sul<END FC>! Você devia prestar mais atenção à sua volta amigo!<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_AtBedouinOutpost": {
-    "message": "This IS the <FC 128,64,0>Bedouin Outpost<END FC>! Didn't you notice all those tents behind you?<E>"
+    "message": "Aqui É o <FC 128,64,0>Povoado de Bedouin<END FC>! Você não reparou em todas essas tendas atrás de você?<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_QuestIntro": {
     "message": "I would take you to <FC 128,64,0>Abydos<END FC> but my <FC 0,128,0>Sail<END FC> was stolen and even I can't row that far.<P>If you find the <FC 0,128,0>Sail<END FC> I'll be happy to take you to <FC 128,64,0>Abydos<END FC> free of charge.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_QuestReminder": {
-    "message": "I told you; I can only take you to <FC 128,64,0>Abydos<END FC> if you find my <FC 0,128,0>Sail<END FC>.<E>"
+    "message": "Já te disse, só posso te levar para <FC 128,64,0>Abydos<END FC> se você encontrar minha <FC 0,128,0>Vela<END FC>.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_QuestComplete": {
-    "message": "Excellent! you found my <FC 0,128,0>Sail<END FC>!<P>We can go to <FC 128,64,0>Abydos<END FC> right now if you like.<N>  <B 1> Let's go<N>  <B 2> Not yet<E>"
+    "message": "Excelente! Você encontrou minha <FC 0,128,0>Vela<END FC>!<P> Podemos ir para <FC 128,64,0>Abydos<END FC> imediatamente se quiser.<N>  <B 1> Vamos!<N>  <B 2> Ainda não<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_ToAbydosFree": {
-    "message": "I'll take you free of charge this time seeing as you found my sail.<N>  <B 1> Let's go<N>  <B 2> Not yet<E>"
+    "message": "Vou te levar de graça dessa vez já que você encontrou minha vela.<N>  <B 1> Vamos!<N>  <B 2> Ainda não<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_NotEnoughMoney": {
-    "message": "Sorry, but you don't have enough <FC 0,128,0>Scarabs<END FC>.<E>"
+    "message": "Desculpe, mas você não têm <FC 0,128,0>Escaravelhos<END FC> o suficiente.<E>"
   },
   "HT_Text_Hel_Exterior_DungeonGuard_Intro01": {
     "message": "<CNTR>---[ <FC 128,64,0>Lost Temple of Heliopolis<END FC> ]---<N>---[ Only those who prove themselves worthy in combat<N>shall gain entrance to this sacred place ]---<E>"
@@ -240,19 +240,19 @@
     "message": "Very well, you have proved to me beyond doubt that you are worthy of passage into the <FC 128,64,0>Sacred Temple<END FC>.<P>Farewell, young warrior.<E>"
   },
   "HT_Text_Hel_Exterior_DungeonGuard_Defeated02": {
-    "message": "You are free to enter the <FC 128,64,0>Sacred Temple<END FC> whenever you wish, young warrior.<E>"
+    "message": "Você é livre para entrar no <FC 128,64,0>Templo Sagrado<END FC> sempre que quiser, jovem guerreiro.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_Intro01": {
     "message": "Hello there! I don't believe I've seen your face around here before. Allow me to welcome you to <FC 128,64,0>Heliopolis<END FC>.<P>Although it looks inhospitable here, <FC 128,64,0>Heliopolis<END FC> is home to many different kinds of monster.<P>It has long been a hobby of mine to collect monster specimens from this and other worlds.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_Intro02": {
-    "message": "If you don't have any <FC 0,128,0>Capture Beetles<END FC> then I'm afraid you won't be able to help me.<E>"
+    "message": "Se você não tem nenhum <FC 0,128,0>Besouro de Captura<END FC> sinto te dizer que não será capaz de me ajudar.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_Prompt01": {
-    "message": "I see that you have a <FC 0,128,0>Beetle Pouch<END FC> in your possession.<P>Would you be interested in becoming my assistant?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Vejo que você tem uma <FC 0,128,0>Sacola de Besouros<END FC> com você.<P>Você estaria interessado em virar meu assistente?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_Prompt02": {
-    "message": "Would you be interested in becoming my assistant?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Você teria interesse em se tornar meu assistente?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_PromptAccept01": {
     "message": "Great! Now, as my assistant I will be relying on you to help me widen my collection of monster specimens.<P>Take this list. When you have captured one of each monster, bring them back to me and we will discuss your payment.<P>Happy hunting!<E>"
@@ -261,7 +261,7 @@
     "message": "Ah well, it's your loss. Assistants can earn quite a healthy living, you know.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List01Incomplete": {
-    "message": "You don't have all the monsters on the list. Come back when you have one of each.<E>"
+    "message": "Você não têm todos os monstros da lista. Volte quando tiver um de cada.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List01Complete": {
     "message": "Excellent, you have captured all the monsters on the list! Ahh, I see they are fine specimens. They will be grand additions to my collection.<P>Now, about your payment. These monsters were quite common so I can only offer you <FC 0,128,0>100 Scarabs<END FC> for their capture.<E>"
@@ -270,7 +270,7 @@
     "message": "I have prepared another list of monsters for you. These are more exotic than those on the first list, and as I'm a fair man, your payment will increase accordingly.<P>Here's the list. Happy hunting!<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List02Incomplete": {
-    "message": "Sorry, but the list is incomplete. Come back when you have one of each monster.<E>"
+    "message": "Desculpe, mas a lista está incompleta. Volte quando tiver um de cada monstro.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List02Complete": {
     "message": "Good work, my friend! I wasn't expecting you to complete the list so soon. I'm looking forward to adding these specimens to my collection.<P>As I said, this list contained some more exotic monsters. I can offer you <FC 0,128,0>200 Scarabs<END FC> for their capture.<E>"
@@ -279,7 +279,7 @@
     "message": "On this list are monsters I've dreamt of having all my life.<P>In far away lands, these monsters roam free. What a magnificent site that must be!<P>If you can complete this list then you will have made my dreams come true. Do this and I'll reward you with my most prized possession.<P>Happy hunting!<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List03Incomplete": {
-    "message": "You don't have all the monsters on the list. Return when you have one of each. Building up my hopes like that!<E>"
+    "message": "Você não têm todos os monstros da lista. Volte quando tiver um de cada. Me dando falsas esperanças desse jeito!<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List03Complete": {
     "message": "......<P>It cannot be! You have completed the list! Yes! What magnificent specimens - this is truly a great day!<P>You have made me a very happy man indeed! Here, take this, my prized possession.<E>"
@@ -291,19 +291,19 @@
     "message": "You shouldn't sneak up on people like that! I thought you were trying to steal my precious merchandise!<P>In fact, I'm still not sure I fully trust you. If you can give me <FC 0,128,0>10 Onyx Scarabs<END FC> then I might change my mind.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro02": {
-    "message": "<FC 0,128,0>Onyx Scarabs<END FC> used to be commonplace, but these days they are very rare and quite valuable.<E>"
+    "message": "<FC 0,128,0>Escaravelhos de Ônix<END FC> costumavam ser comuns, mas hoje em dia são muito raros e consideravelmente valiosos.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro03": {
     "message": "You got it! My favorite <FC 0,128,0>Glyph<END FC>! Now I think I can trust you. Please browse fantastic merchandise I have for sale.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro04": {
-    "message": "I only accept <FC 0,128,0>Onyx Scarabs<END FC> as payment. Rumor has it a mysterious man is hoarding them in his castle in the depths of <FC 128,64,0>Uruk<END FC>.<E>"
+    "message": "Eu só aceito <FC 0,128,0>Escaravelhos de Ônix<END FC> como pagamento. Há rumores de que um homem misterioso os está acumulando em seu castelo nas profundezas de <FC 128,64,0>Uruk<END FC>.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro05": {
-    "message": "I only accept <FC 0,128,0>Onyx Scarabs<END FC> as payment.<E>"
+    "message": "Eu só aceito <FC 0,128,0>Escaravelhos de Ônix<END FC> como pagamento.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Prompt01": {
-    "message": "Aha! Can I have the <FC 0,128,0>10 Onyx Scarabs<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Ahá! Posso ter os <FC 0,128,0>10 Escarevelhos de Ônix<END FC>?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Accept01": {
     "message": "Excellent! Now I think I can trust you. Look at the fantastic merchandise I have for sale!<E>"
@@ -324,13 +324,13 @@
     "message": "Do you think you can beat my time?<N>  <B 1> Yes<N>  <B 2> No<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Prompt02": {
-    "message": "Do you want me to explain the rules?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Quer que eu te explique as regras?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Decline01": {
-    "message": "Ahh, a man who knows his limits. Come back later if you think you can better my time.<E>"
+    "message": "Ahh, um homem que conhece seus limites. Volte mais tarde se achar que consegue bater o meu tempo.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Accept01": {
-    "message": "Very well. Good luck, kid! You're gonna need it!<P><N><CNTR>Ready...<P><N><CNTR>Set...<P><N><CNTR>Go!<W 30>"
+    "message": "Muito bem. Boa sorte, garoto! Você vai precisar!<P><N><CNTR>Preparar...<P><N><CNTR>Apontar...<P><N><CNTR>Já!<W 30>"
   },
   "HT_Text_Hel_Exterior_Athlete_Rules01": {
     "message": "You must run from here to the hanging pendant, suspended on a ledge, at the end of the next beach and back again in less than <FC 0,128,0>70 seconds<END FC>.<P>So I can be sure you aren't cheating you must hit the pendant with your blade before running back.<P>When you get back, talk to me and I will stop the timer.<E>"
@@ -348,34 +348,34 @@
     "message": "If you didn't hit the hanging pendant with your blade, then I can't accept your time. Sorry!<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_TimeVoid02": {
-    "message": "Do you think I am blind?! I saw you use the boat! If you aren't going to attempt the challenge properly then begone!<E>"
+    "message": "Você acha que eu sou cego?! Eu vi você usando o barco! Se você não vai levar o desafio a sério então saia daqui!<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Complete01": {
-    "message": "Your time was amazing! I guess I'll have to train harder if I'm going to better it. At least I have another goal, I suppose.<E>"
+    "message": "Seu tempo foi incrível! Acho que terei que treinar mais se quiser passá-lo. Pelo menos agora tenho outra meta, eu suponho.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Prompt01": {
     "message": "Aha! At last someone in good physical condition to take on my obstacle course!<P>I've been training for many years, perfecting my line through the course. I'm certain I have an unbeatable time.<P>Reckon you've got what it takes to beat my time?<N>  <B 1> Yes<N>  <B 2> No<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Prompt02": {
-    "message": "So, you think you have what it takes to beat my time?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Então, acha que tem o que é preciso para bater o meu tempo?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Prompt03": {
-    "message": "Doubtful! But we'll see. Do you want to hear the rules?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Duvidoso! Mas veremos. Você quer ouvir as regras?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Prompt04": {
-    "message": "You think you can go faster than <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> seconds<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Você acha que consegue ir mais rápido que <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> segundos<END FC>?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Decline01": {
-    "message": "A wise man knows when he's beaten. Still, come back if you change your mind.<E>"
+    "message": "Um homem sábio sabe quando foi derrotado. Ainda assim, volte caso mude de ideia.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Rules01": {
-    "message": "The rules are simple; you must get to the shrine at the end of the course as fast as you possibly can.<P>If you fall from the course and land in the sea, you have failed.<E>"
+    "message": "As regras são simples. Você precisa chegar no santuário no fim do percurso o mais rápido que você puder.<P> Se você cair do percurso e cair no mar, você falhou.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Start01": {
-    "message": "Good luck, there's no doubt you'll need it!<P><N><CNTR>Ready...<P><N><CNTR>Set...<P><N><CNTR>Go!<W 30>"
+    "message": "Boa sorte, sem dúvidas você irá precisar!<P><N><CNTR>Preparar...<P><N><CNTR>Apontar...<P><N>Já!<W 30>"
   },
   "HT_Text_Hel_Exterior_Obstacle_MidRace01": {
-    "message": "What are you chatting to me for?! The clock is ticking...<E>"
+    "message": "Tá falando comigo pra quê?! O tempo tá passando...<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeSlow01": {
     "message": "Back again at last, eh? What took you so long? <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> seconds<END FC> is a pretty pathetic time, my friend.<P>You should come back when you've worked out a bit more!<E>"
@@ -438,28 +438,28 @@
     "message": "Hahaha! I knew my course would be too much for you. Come back when you've done some more training, friend.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_Normal01": {
-    "message": "Greetings! Welcome to <FC 128,64,0>Heliopolis<END FC>. Allow me to introduce you to my beautiful wife, Ketta.<E>"
+    "message": "Saudações! Seja bem-vindo à <FC 128,64,0>Heliópolis<END FC>. Permita-me introduzi-lo à minha linda esposa, Ketta.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_Normal02": {
-    "message": "Strange things have been going on recently, I just wish <FC 128,64,0>Heliopolis<END FC> was how it used to be.<E>"
+    "message": "Coisas estranhas têm acontecido recentemente, eu só queria que <FC 128,64,0>Heliópolis<END FC> voltasse a ser como era.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01a": {
-    "message": "Ketta! Ketta! Where are you? What am I going to do? My wife has gone missing!<E>"
+    "message": "Ketta! Ketta! Onde você está? E agora, o que eu faço? Minha esposa sumiu!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01b": {
-    "message": "I awoke this morning and she was gone! Oh dear! Something bad has happened to her! I can feel it!<E>"
+    "message": "Eu acordei essa manhã e ela sumiu! Óh céus! Algo ruim aconteceu com ela! Eu posso sentir!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01c": {
-    "message": "I thought I heard her voice in this building, but I'm too afraid to go inside. Curse my cowardice!<E>"
+    "message": "Eu pensei ter ouvido a voz dela nesse prédio, mas tenho muito medo de entrar. Maldita seja minha covardia!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01d": {
     "message": "<EFF><EPO>Please, go inside and rescue her. I'm begging you!<P><FC 128,64,0>Heliopolis<END FC> has become such a terrible place. Monsters everywhere, people cursed and cast into stone and now my poor Ketta! Please, help me!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone02": {
-    "message": "Please, find my wife! You're a stranger to me, but where else can I turn? <E>"
+    "message": "Por favor, encontre minha esposa! Eu mal te conheço, mas com quem mais posso contar? <E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeBack01": {
-    "message": "The hero has returned! You rescued my wife! How can I ever repay you?<E>"
+    "message": "O herói retornou! Você salvou minha esposa! Como poderei te retribuir?<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeBack02": {
     "message": "I didn't realize when we first met that you were an apprentice of our friend Imhotep. He said that he wants to speak with you in the <FC 128,64,0>Sun Shrine<END FC>.<E>"
@@ -480,13 +480,13 @@
     "message": "At last, someone to rescue me! Please, you must find a way to deactivate this force field!<P>I'm sure those three colored beams are powering the force field. If you could find a way to deactivate them, I might be able to escape!<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Trapped02": {
-    "message": "Please you must help me!<E>"
+    "message": "Por favor, você precisa me ajudar!<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Back01": {
-    "message": "You are my hero, stranger!<E>"
+    "message": "Você é meu herói, estrangeiro!<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Back02": {
-    "message": "I will never forget what you've done for me, stranger. You have a place in my heart.<E>"
+    "message": "Eu nunca vou esquecer o que fez por mim, estrangeiro. Você tem um lugar no meu coração.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Intro01": {
     "message": "Hello there! Say, are you one of those adventurers in search of treasure and the like?<N>  <B 1> Yes<N>  <B 2> No<E>"
@@ -570,13 +570,13 @@
     "message": "I am sure it will be very useful in your future quests. I hope you can forgive my arrogance towards you in the past. I apologize, Sphinx.<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility06": {
-    "message": "Don't use it! It's a trap!<E>"
+    "message": "Não use! É uma armadilha!<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility07": {
     "message": "That really is the <FC 0,128,0>Dark Stone of Invisibility<END FC>, but the power of invisibility has a nasty side effect: it causes instant death!<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility08": {
-    "message": "Of course! Tutankhamen would be able to use it without danger to himself!<E>"
+    "message": "Mas é claro! Tutancâmon seria capaz de usá-la sem nenhum risco a si mesmo.<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility09": {
     "message": "Keep the stone for now. We will send it to our friend the Mummy when we get the opportunity.<E>"
@@ -627,88 +627,88 @@
     "message": "Hello again, Sphinx! I have some important information from Imhotep.<P>He is pleased with your progress and with the artifact that I have here; the <FC 0,128,0>Hands of Amun<END FC>. He sees that you are ready to begin your search for the <FC 0,128,0>Sacred Crown of Uruk<END FC>.<P>He believes that the crown may be in <FC 128,64,0>Uruk Islands<END FC> and that you will need to gain access to <FC 128,64,0>Great Wall Entrance III<END FC> to get there.<E>"
   },
   "HT_Text_Hel_Exterior_Sign_CursedPalace01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Cursed Palace<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Palácio Amaldiçoado<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_BedouinOutpost01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Bedouin Outpost<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Povoado de Bedouin<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_WallEntrance01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Great Wall Entrance I<END FC> - leading to <FC 128,64,0>Anubis Tower<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Entrada da Grande Muralha I<END FC> - levando à <FC 128,64,0>Torre de Anúbis<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_WallEntrance02": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Great Wall Entrance II<END FC> - leading to <FC 128,64,0>Uruk Canyon<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Entrada da Grande Muralha II<END FC> - levando ao <FC 128,64,0>Desfiladeiro de Uruk<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_WallEntrance03": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Great Wall Entrance III<END FC> - leading to <FC 128,64,0>Uruk Islands<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Entrada da Grande Muralha III<END FC> - levando às <FC 128,64,0>Ilhas de Uruk<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToHeliopolisPoint01": {
-    "message": "<CNTR>---[ To <FC 128,64,0>Heliopolis Point<END FC>, <FC 128,64,0>Great Wall Entrance III<END FC> ]---<N>---[ and <FC 128,64,0>South Desert<END FC> entrance ]---<E>"
+    "message": "<CNTR>---[ Para o <FC 128,64,0>Ponto de Heliópolis<END FC>, <FC 128,64,0>Entrada da Grande Muralha III<END FC> ]---<N>---[ e entrada para o <FC 128,64,0>Deserto do Sul<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToHeliopolisPoint02": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Heliopolis Point<END FC> and <FC 128,64,0>Great Wall Entrance III<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ Para o <FC 128,64,0>Ponto de Heliópolis<END FC> e <FC 128,64,0>Entrada da Grande Muralha III<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToBedouinOutpost01": {
-    "message": "<CNTR>---[ To <FC 128,64,0>Bedouin Outpost<END FC> ]---<N>---[ Warning! Strong Swimmers Only! ]---<E>"
+    "message": "<CNTR>---[ Para o <FC 128,64,0>Povoado de Bedouin<END FC> ]---<N>---[ Atenção! Somente Nadadores Fortes! ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToBedouinOutpost02": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Bedouin Outpost<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ Para o <FC 128,64,0>Povoado de Bedouin<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToSouthDesert01": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>South Desert<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ Para o <FC 128,64,0>Deserto do Sul<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToCursedPalace01": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Great Wall Entrance II<END FC>, <FC 128,64,0>Cursed Palace<END FC> ]---<N>---[ and <FC 128,64,0>Great Wall Entrance I<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ Para a <FC 128,64,0>Entrada da Grande Muralha II<END FC>, <FC 128,64,0>Palácio Amaldiçoado<END FC> ]---<N>---[ e <FC 128,64,0>Entrada da Grande Muralha I<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToCursedPalace02": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Cursed Palace<END FC> and <FC 128,64,0>Great Wall Entrance I<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ Para o <FC 128,64,0>Palácio Amaldiçoado<END FC> e <FC 128,64,0>Entrada da Grande Muralha I<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToGreatObelisk01": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Great Obelisk<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ Para o <FC 128,64,0>Grande Obelisco<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToSunShrine01": {
-    "message": "<CNTR>---[ To <FC 128,64,0>Sun Shrine Island<END FC> ]---<N>---[ Beware of Spinefish! ]---<E>"
+    "message": "<CNTR>---[ Para a <FC 128,64,0>Ilha do Santuário do Sol<END FC> ]---<N>---[ Cuidado com os Peixes-Espinho! ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SunShrine01": {
-    "message": "<N><CNTR>---[ Imhotep welcomes you to <FC 128,64,0>Sun Shrine Island<END FC>! ]---<E>"
+    "message": "<N><CNTR>---[ Imhotep te dá as boas-vindas à <FC 128,64,0>Ilha do Santuário do Sol<END FC>! ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_HeliopolisPoint01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Heliopolis Point<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Ponto de Heliópolis<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SouthBeach01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>South Beach<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Praia do Sul<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Cave01": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>South Beach<END FC> and <FC 128,64,0>Sun Shrine Island<END FC> ]---<E>"
+    "message": "<N><CNTR>--[ Para a <FC 128,64,0>Praia do Sul<END FC> e <FC 128,64,0>Ilha do Santuário do Sol<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Cave02": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Cursed Palace<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ Para o <FC 128,64,0>Palácio Amaldiçoado<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Cave03": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Heliopolis Point<END FC> and <FC 128,64,0>Great Wall Entrance III<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ Para o <FC 128,64,0>Ponto de Heliópolis<END FC> e <FC 128,64,0>Entrada da Grande Muralha III<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Cave04": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>South Beach<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ Para a <FC 128,64,0>Praia do Sul<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SquirtHerd01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Sekhmet's Squirt Pen<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Cercado de Esguichos de Sekhmet<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Trader01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Ben-Ben's Bazaar<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Bazar de Ben-Ben<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_GlyphShop01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Gebel's Glyph Shop<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Loja de Glifos de Gebel<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Farm01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Riverside Farm<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Fazenda Ribeirinha<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_BeetleShop01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Khufu's Capture Beetle Shop<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Loja de Besouros de Captura de Khufu<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_BeetleShopClosed01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Khufu's Capture Beetle Shop<END FC> ]---<N><CNTR>---[ Closed for refurbishment, please come back later ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Loja de Besouros de Captura de Khufu<END FC> ]---<N><CNTR>---[ Fechado para reforma, por favor volte mais tarde ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Healer01": {
-    "message": "<CNTR>---[ <FC 128,64,0>Shetta the Healer<END FC> ]---<N>---[ Healing and <FC 0,128,0>Ankh Piece<END FC> Rituals ]---<E>"
+    "message": "<CNTR>---[ <FC 128,64,0>Shetta, a curandeira<END FC> ]---<N>---[ Cura e rituais de <FC 0,128,0>Peça de Ankh<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ArcheologistAway01": {
     "message": "<N><CNTR>---[ Gone on expedition, back in a few months. ]---<N><CNTR>---[ Urbain the Archeologist ]---<E>"
@@ -753,10 +753,10 @@
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>This translated Ancient Text<N>has been added to your notes!<E>"
   },
   "HT_Text_Hel_Exterior_Help_DoorLocked01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This door is locked from the other side.<E><ES HT_Text_ES_E_HelpText>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Essa porta está trancada do outro lado.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_CrackedRock01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>These boulders look cracked and fragile.<E><ES HT_Text_ES_E_HelpText>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Essas rochas parecem rachadas e frágeis.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_SlamAttack01": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>Switches like this can only be activated by<N>performing a <FC 0,128,0>SLAM<END FC> attack on them.<P><ES HT_Text_ES_S_HelpText><CNTR>Perform a <FC 0,128,0>SOMERSAULT<END FC> and then press <SB HT_Action_Attack><N>while in mid air to perform a <FC 0,128,0>SLAM<END FC> attack.<P><ES HT_Text_ES_S_HelpText><CNTR>The <FC 0,128,0>SLAM<END FC> attack can also<N>be used to damage enemies.<E><ES HT_Text_ES_E_HelpText>"
@@ -768,16 +768,16 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This pedestal looks like a small statue would fit on top.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_BurnBox01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This wooden box looks like it might burn<N>if a source of fire gets close enough to it.<E><ES HT_Text_ES_E_HelpText>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Essa caixa de madeira parece capaz de queimar<N>caso uma fonte de fogo se aproxime o suficiente.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>50 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>50 Escaravelhos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Bronze Ankh<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Your health is replenished by <FC 0,128,0>1 Ankh<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu um <FC 0,128,0>Ankh de Bronze<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Você recuperou <FC 0,128,0>1 Ankh<END FC> de vida.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>200 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>200 Escaravelhos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot04": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Collect four of these and a person with the right<N>skills will be able to increase your health capacity.<ES HT_Text_ES_E_HelpText><E>"
@@ -786,37 +786,37 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Silver Ankh<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Your health is replenished by <FC 0,128,0>5 Ankhs<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot06": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>400 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>400 Escaravelhos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot07": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>10 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>10 Escaravelhos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot08": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>100 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>100 Escaravelhos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot09": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>20 Capture Beetles<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>20 Besouros de Captura<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot10": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>600 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>600 Escaravelhos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot11": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>20 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>20 Escaravelhos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot12": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Silver Ankh<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Your health is replenished by <FC 0,128,0>5 Ankhs<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot13": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>200 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>200 Escaravelhos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot14": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>10 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>10 Escaravelhos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot15": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Collect four of these and a person with the right<N>skills will be able to increase your health capacity.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot16": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>500 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>500 Escaravelhos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotCreatureList01": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Monster List<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>There are four monsters on the list. View the list by selecting the item in the Book of Sphinx.<E>"
@@ -876,7 +876,7 @@
     "message": "What brings you to our outpost today?<N>  <B 1> Healing<N>  <B 2> <FC 0,128,0>Ankh Piece<END FC> Ritual<N>  <B 3> Nothing in particular<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingPrompt01": {
-    "message": "I can bring you back to full health for <FC 0,128,0>50 Scarabs<END FC>.<N>  <B 1> Heal me<N>  <B 2> Never mind<E>"
+    "message": "Posso recuperar sua vida completamente por <FC 0,128,0>50 Escaravelhos<END FC>.<N>  <B 1> Me cure<N>  <B 2> Deixa pra lá<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingAccept01": {
     "message": "Excellent! Now stand very still...<E>"
@@ -891,7 +891,7 @@
     "message": "I will need <FC 0,128,0>4 Gold Ankh Pieces<END FC> for the ritual.<N>  <B 1> OK<N>  <B 2> No way<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_AnkhPrompt02": {
-    "message": "The ritual costs <FC 0,128,0>200 Scarabs<END FC><N>  <B 1> OK<N>  <B 2> No way<E>"
+    "message": "O ritual custa <FC 0,128,0>200 Escaravelhos<END FC><N>  <B 1> OK<N>  <B 2> Nem pensar<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_AnkhAccept01": {
     "message": "Excellent! Now stand very still...<E>"
@@ -906,7 +906,7 @@
     "message": "As you wish. Come back if you change your mind.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_NotEnoughScarabs": {
-    "message": "Sorry, but you don't have enough <FC 0,128,0>Scarabs<END FC>.<E>"
+    "message": "Desculpe, mas você não têm <FC 0,128,0>Escaravelhos<END FC> o suficiente.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_MyLife": {
     "message": "Hi there! I didn't expect to see you around these parts. I guess you like to travel around a lot, just like me.<P>I like to come here to <FC 128,64,0>Heliopolis<END FC> now and then, just to chill out on the beach.<P>The only problem is that it's far too hot and sunny to lie around out there right now.<E>"
@@ -924,7 +924,7 @@
     "message": "Aww, man! It's still too sunny to rest on the beach.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_Thanks1b": {
-    "message": "In return, you can take this <FC 0,128,0>Scarab Bag<END FC> if you want. I have no use for it now.<E>"
+    "message": "Em troca, você pode ficar com essa <FC 0,128,0>Sacola de Escaravelhos<END FC> se quiser. Não tenho nenhuma utilidade para ela agora.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_AnkhIncrease": {
     "message": "<N><CNTR>You got a <FC 0,128,0>Gold Ankh Piece<END FC>!<P><CNTR>Collect more <FC 0,128,0>Gold Ankh Pieces<END FC> to further increase your health capacity.<E>"
@@ -978,7 +978,7 @@
     "message": "If that creature was an impostor, then what has become of our real Pharaoh?<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_Prompt01": {
-    "message": "I foresee that you will cross my palm with <FC 0,128,0>30 Scarabs<END FC><N>  <B 1> Very well<N>  <B 2> No way<E>"
+    "message": "Eu prevejo que você irá cruzar minha palma com <FC 0,128,0>30 Escaravelhos<END FC><N>  <B 1> Muito bem<N>  <B 2> Nem pensar<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_Accept01": {
     "message": "Excellent, now I shall predict the location of a long lost <FC 0,128,0>Gold Ankh Piece<END FC>...<E>"
@@ -987,67 +987,67 @@
     "message": "Strange... my powers of prediction seem somewhat inaccurate today.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_NotEnoughScarabs": {
-    "message": "Sorry, but you don't have enough <FC 0,128,0>Scarabs<END FC>.<E>"
+    "message": "Desculpe, mas você não têm <FC 0,128,0>Escaravelhos<END FC> o suficiente.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue01": {
-    "message": "Ankh Piece clue 1"
+    "message": "Pista de Peça de Ankh 1"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue02": {
-    "message": "Ankh Piece clue 2"
+    "message": "Pista de Peça de Ankh 2"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue03": {
-    "message": "Ankh Piece clue 3"
+    "message": "Pista de Peça de Ankh 3"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue04": {
-    "message": "Ankh Piece clue 4"
+    "message": "Pista de Peça de Ankh 4"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue05": {
-    "message": "Ankh Piece clue 5"
+    "message": "Pista de Peça de Ankh 5"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue06": {
-    "message": "Ankh Piece clue 6"
+    "message": "Pista de Peça de Ankh 6"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue07": {
-    "message": "Ankh Piece clue 7"
+    "message": "Pista de Peça de Ankh 7"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue08": {
-    "message": "Ankh Piece clue 8"
+    "message": "Pista de Peça de Ankh 8"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue09": {
-    "message": "Ankh Piece clue 9"
+    "message": "Pista de Peça de Ankh 9"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue10": {
-    "message": "Ankh Piece clue 10"
+    "message": "Pista de Peça de Ankh 10"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue11": {
-    "message": "Ankh Piece clue 11"
+    "message": "Pista de Peça de Ankh 11"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue12": {
-    "message": "Ankh Piece clue 12"
+    "message": "Pista de Peça de Ankh 12"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue13": {
-    "message": "Ankh Piece clue 13"
+    "message": "Pista de Peça de Ankh 13"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue14": {
-    "message": "Ankh Piece clue 14"
+    "message": "Pista de Peça de Ankh 14"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue15": {
-    "message": "Ankh Piece clue 15"
+    "message": "Pista de Peça de Ankh 15"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue16": {
-    "message": "Ankh Piece clue 16"
+    "message": "Pista de Peça de Ankh 16"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue17": {
-    "message": "Ankh Piece clue 17"
+    "message": "Pista de Peça de Ankh 17"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue18": {
-    "message": "Ankh Piece clue 18"
+    "message": "Pista de Peça de Ankh 18"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue19": {
-    "message": "Ankh Piece clue 19"
+    "message": "Pista de Peça de Ankh 19"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPieceClue20": {
-    "message": "Ankh Piece clue 20"
+    "message": "Pista de Peça de Ankh 20"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPiecesNoneValid": {
     "message": "The outlook is unclear... I'm afraid I cannot foresee the locations of any more <FC 0,128,0>Gold Ankh Pieces<END FC> at the moment. Try again later and I may be able to help.<E>"
@@ -1131,7 +1131,7 @@
     "message": "In my final moments of life, I take pleasure in the fact that a slow, excruciatingly painful death is all that you have to look forward to.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1d": {
-    "message": "<END TT><TT 2>Set... will... destroy... you... <W 5><P><END TT><TT 6>Sphinx...<W 1>"
+    "message": "<END TT><TT 2>Set... destruirá... você... <W 5><P><END TT><TT 6>Sphinx...<W 1>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a": {
     "message": "Well, I have to admit, you are a persistent one. However, that persistence will not get you this crown.<E>"
@@ -1143,10 +1143,10 @@
     "message": "<EFF><EPO>It was all he could do to stop me. Now he sends you, his little puppet, to take it from me.<P>He must be getting old and senile, festering away in that tower. Muahahahaha!!<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a2": {
-    "message": "I shall return this crown to my Lord Set...<E>"
+    "message": "Deverei retornar essa coroa ao meu Lorde Set...<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a3": {
-    "message": "...but not before I crush you!<E>"
+    "message": "...mas não antes de esmagar você!<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1b": {
     "message": "Killing me is the only way you will ever get your hands on the crown!<E>"
@@ -1590,7 +1590,7 @@
     "message": "The more you linger, the stronger Set becomes. It is unwise to delay much longer.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_Accept": {
-    "message": "Very well, the portal is open. Good luck.<E>"
+    "message": "Muito bem, o portal está aberto. Boa sorte.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_Decline": {
     "message": "The more you linger, the stronger Set becomes. It is unwise to delay much longer.<E>"
@@ -1653,16 +1653,16 @@
     "message": "No living thing can travel beyond the fierce protection of the castle. We will need to send a magical entity...<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1g": {
-    "message": "This basket is perfect. Nobody will suspect a thing.<E>"
+    "message": "Esse cesto é perfeito. Ninguém irá suspeitar de nada.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1h": {
-    "message": "By the power of Osiris, instill this basket with the illusion of life!<E>"
+    "message": "Pela força de Osíris, imbua esse cesto com a ilusão da vida!<E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a": {
-    "message": "What have we here? <E>"
+    "message": "O que temos aqui? <E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a1": {
-    "message": "It's one of the stolen jewels of <FC 128,64,0>Abydos<END FC>! <E>"
+    "message": "É uma das joias roubadas de <FC 128,64,0>Abydos<END FC>! <E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a2": {
     "message": "I knew something suspicious was going on. We must find out exactly what treachery is afoot...<E>"
@@ -1680,22 +1680,22 @@
     "message": "If you had the <FC 0,128,0>Book of the Dead<END FC>, you could send Bas-Ket to Tutankhamen when you find a <FC 0,128,0>Canopic Vase<END FC>. <P>I have a feeling the book may be in the <FC 128,64,0>Cursed Palace<END FC> somewhere, so perhaps you should go and speak to Anubis about the palace's unfortunate inhabitants.<P>Horus already left to visit him, but I see your fate and his are diverging now.<E>"
   },
   "HT_Text_Hel_Imhotep_Basket1a": {
-    "message": "Outstanding work Sphinx! You have the last two Sacred Crowns!<E>"
+    "message": "Excelente trabalho Sphinx! Você têm as duas últimas Coroas Sagradas!<E>"
   },
   "HT_Text_Hel_Imhotep_Basket1b": {
-    "message": "You should take them to Anubis but be warned...<E>"
+    "message": "Você deveria levá-las à Anúbis, mas esteja avisado...<E>"
   },
   "HT_Text_Hel_Imhotep_Basket1c": {
-    "message": "I sense that your quest is nearing its conclusion and once you have departed for the final battle, there will be no turning back.<E>"
+    "message": "Eu sinto que sua jornada está chegando ao fim, e quando você tiver partido para a batalha final, não haverá mais volta.<E>"
   },
   "HT_Text_Hel_Imhotep_Basket1d": {
-    "message": "If you have any unfinished business, you should take care of it before you visit Anubis. Good luck Sphinx.<E>"
+    "message": "Se você tiver qualquer negócio inacabado, você deve cuidar dele antes de visitar Anúbis. Boa sorte Sphinx.<E>"
   },
   "HT_Text_Hel_Imhotep_Sakkara1a": {
-    "message": "Sphinx! Welcome back! The situation in <FC 128,64,0>Uruk Islands<END FC> was very dire indeed.<E>"
+    "message": "Sphinx! Bem-vindo de volta! A situação nas <FC 128,64,0>Ilhas de Uruk<END FC> era de fato terrível.<E>"
   },
   "HT_Text_Hel_Imhotep_Sakkara1c": {
-    "message": "I see that Set himself was present at the ceremony. This is a disturbing development.<E> "
+    "message": "Vejo que o próprio Set estava presente na cerimônia. Isso é um desenvolvimento perturbador.<E>"
   },
   "HT_Text_Hel_Imhotep_Sakkara1d": {
     "message": "If he had known of your presence there I am sure he would have destroyed you. He is becoming more powerful as every moment passes.<E> "
@@ -1728,27 +1728,27 @@
     "message": "Sphinx! It seems that Anubis will not be satisfied until he has all the crowns in his possession. With the <FC 0,128,0>Sacred Crown of Heliopolis<END FC> his collection will be almost complete.<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep08": {
-    "message": "Sphinx, do not keep Anubis waiting! He has requested your presence in his tower.<E>"
+    "message": "Sphinx, não deixe Anúbis esperando! Ele solicitou sua presença em sua torre.<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep09": {
     "message": "Sphinx! It was Anubis who was responsible for cursing the palace inhabitants, just as the Helians decreed. I wonder what could motivate such a drastic action?<E>"
   },
   "HT_Text_Hel_SunShrine_ImhotepCandles01": {
-    "message": "Really Sphinx, I think you have more important things to do than to go around destroying candles!<E>"
+    "message": "Sério Sphinx, eu acho que você têm coisas mais importantes a fazer do que andar por aí destruindo velas!<E>"
   },
   "HT_Text_Hel_SunShrine_ImhotepCandles02": {
-    "message": "Are you happy now all the candles are destroyed? I would expect that sort of childish behavior from Horus but not from you Sphinx. <E> "
+    "message": "Está feliz agora que todas as velas foram destruídas? Eu esperaria esse tipo de comportamento infantil de Hórus mas não de você, Sphinx. <E>"
   },
   "HT_Text_Hel_SunShrine_ImhotepCandles03": {
-    "message": "It's good to see you have your priorities in order. I'm sure destroying candles is going to help you immensely in your quest.<E>"
+    "message": "É bom ver que você têm suas prioridades em ordem. Tenho certeza de que destruir velas irá ajudar imensamente em sua jornada.<E>"
   },
   "HT_Text_Hel_Imhotep_PortalAmulet01": {
-    "message": "Sphinx! I have some very interesting news. Anubis has informed me that he wants to see you in his tower.<E>"
+    "message": "Sphinx! Tenho uma notícia muito interessante. Anúbis me informou que quer vê-lo em sua torre.<E>"
   },
   "HT_Text_Hel_Imhotep_PortalAmulet02": {
-    "message": "Take this <FC 0,128,0>Portal Amulet<END FC>, it will allow you to use the portal behind me to travel directly to <FC 128,64,0>Anubis Tower<END FC>.<E>"
+    "message": "Leve esse <FC 0,128,0>Amuleto de Portal<END FC>, ele o permitirá usar o portal atrás de mim para viajar diretamente para a <FC 128,64,0>Torre de Anúbis<END FC>.<E>"
   },
   "HT_Text_Hel_Imhotep_PortalAmulet03": {
-    "message": "Good luck, my friend.<W 70>"
+    "message": "Boa sorte, meu amigo.<W 70>"
   }
 }
