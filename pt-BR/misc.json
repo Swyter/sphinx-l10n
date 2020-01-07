@@ -3,52 +3,52 @@
     "message": "Texto de teste do Dan.<E>"
   },
   "HT_Text_MG_WallDodge_Start": {
-    "message": "Welcome to the <FC 128,64,0>Corridor of Champions<END FC>. It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
+    "message": "Bem-vindo ao <FC 128,64,0>Corredor dos Campeões<END FC>. Custam <FC 0,128,0>10 Káraves<END FC> para jogar.<P>Você gostaria de jogar?<N>  <B 1> Sim<N>  <B 2> Não, obrigado<E>"
   },
   "HT_Text_MG_WallDodge_Instructions": {
-    "message": "Just dodge the moving walls, smash all the statues, then make it to the exit within the time limit.<E>"
+    "message": "Apenas desvie das paredes móveis, quebre todas as estátuas, e então chegue até a saída dentro do tempo limite.<E>"
   },
   "HT_Text_MG_WallDodge_Choose": {
-    "message": "Which gauntlet would you like to attempt?<N>  <B 1> Gauntlet 1<N>  <B 2> Gauntlet 2<E>"
+    "message": "Qual percurso você gostaria de tentar?<N>  <B 1> Percurso 1<N>  <B 2> Percurso 2<E>"
   },
   "HT_Text_MG_WallDodge_Choose2": {
-    "message": "Which gauntlet would you like to attempt?<N>  <B 1> Gauntlet 1<N>  <B 2> Gauntlet 2<N>  <B 3> Gauntlet 3<E>"
+    "message": "Qual percurso você gostaria de tentar?<N>  <B 1> Percurso 1<N>  <B 2> Percurso 2<N>  <B 3> Percurso 3<E>"
   },
   "HT_Text_MG_WallDodge_NotReady": {
-    "message": "Você não está pronto para isso ainda.<E>"
+    "message": "Você não está pronto para esse ainda.<E>"
   },
   "HT_Text_MG_WallDodge_Fail": {
     "message": "Desculpe, você falhou dessa vez. Tente de novo.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed": {
-    "message": "Well done! You completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>! That's a new record!<E>"
+    "message": "Muito bem! Você completou o percurso em <FC 0,128,0><SO HT_Objective_WallDodge_Time> segundos<END FC>! É um novo recorde!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed1": {
-    "message": "You deserve a reward for that effort.<N>You win <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Scarabs<END FC>!<E>"
+    "message": "Você merece uma recompensa pelo esforço.<N>Você ganha <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Káraves<END FC>!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed2": {
-    "message": "What an outstanding time that is!<N>Your prize money is <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Scarabs<END FC>!<E>"
+    "message": "Mas que tempo excepcional é esse!<N>Sua recompensa é de <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Káraves<END FC>!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore1": {
-    "message": "Not bad - you completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>. But you could do better...<P>Your fastest time is <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> seconds<END FC>.<E>"
+    "message": "Nada mal - você completou o percurso em <FC 0,128,0><SO HT_Objective_WallDodge_Time> segundos<END FC>. Mas você já foi melhor...<P>Seu tempo mais rápido é de <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> segundos<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore2": {
-    "message": "Not bad - you completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>. But you could do better...<P>Your fastest time is <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2> seconds<END FC>.<E>"
+    "message": "Nada mal - você completou o percurso em <FC 0,128,0><SO HT_Objective_WallDodge_Time> segundos<END FC>. Mas você já foi melhor...<P>Seu tempo mais rápido é de <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2> segundos<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore3": {
-    "message": "That was okay - you completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>. But you could improve...<P>Your fastest time is <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> seconds<END FC>.<E>"
+    "message": "Dá pro gasto - você completou o percurso em <FC 0,128,0><SO HT_Objective_WallDodge_Time> segundos<END FC>. Mas você poderia melhorar...<P>Seu tempo mais rápido é de <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> segundos<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_HighScores": {
-    "message": "<DP><DHP><END TT><CNTR>Gauntlet 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>Gauntlet 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N>Gauntlet 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>"
+    "message": "<DP><DHP><END TT><CNTR>Percurso 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>Percurso 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N>Percurso 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>"
   },
   "HT_Text_MG_WallDodge_Test": {
-    "message": "Welcome to the <FC 128,64,0>Corridor of Champions<END FC>.<P>Here, true heroes can test their abilities. Do you want to pit yourself against our gauntlet?<N>  <B 1> Yes<N>  <B 2> No<E>  "
+    "message": "Bem-vindo ao <FC 128,64,0>Corredor dos Campeões<END FC>.<P>Aqui, verdadeiros heróis podem testar suas habilidades. Você quer encarar o nosso percurso?<N>  <B 1> Sim<N>  <B 2> Não<E>  "
   },
   "HT_Text_MG_WallDodge_TestYes": {
-    "message": "A brave and noble choice! However, before you can proceed, you must complete a small test.<E>"
+    "message": "Uma nobre e valente escolha! Porém, antes que prossiga, você precisa completar um pequeno teste.<E>"
   },
   "HT_Text_MG_WallDodge_TestYesPearl": {
-    "message": "Return that <FC 0,128,0>Diamond<END FC> behind the fence to me within <FC 0,128,0>20 seconds<END FC>, and you will have proven yourself capable of the gauntlet.<E>"
+    "message": "Traga aquele <FC 0,128,0>Diamante<END FC> atrás da grade até mim dentro de <FC 0,128,0>20 segundos<END FC>, e você se provará capaz para o percurso.<E>"
   },
   "HT_Text_MG_WallDodge_TestNo": {
     "message": "Muito bem, o <FC 128,64,0>Corredor dos Campeões<END FC> não é para todos.<E>"
@@ -57,64 +57,64 @@
     "message": "Excelente, você passou no teste.<E>"
   },
   "HT_Text_MG_WallDodge_TestFail": {
-    "message": "It is quite clear that you are not ready to face the gauntlet. Return when you have gained the skill to retrieve the <FC 0,128,0>Diamond<END FC>.<E>"
+    "message": "Está bem claro para mim que você não está pronto para encarar o percurso. Volte quando tiver ganho a habilidade para recuperar o <FC 0,128,0>Diamante<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_TestInProgress": {
     "message": "Você só tem mais alguns segundos!<E>"
   },
   "HT_Text_MG_WallDodge_TestGiveUp": {
-    "message": "If you cannot complete the test, you cannot attempt the gauntlet. Come back when you think you can succeed... <E>"
+    "message": "Se você não consegue completar o teste, não consegue tentar o percurso. Volte quando achar que consegue... <E>"
   },
   "HT_Text_MG_WallDodge_NoMoney": {
-    "message": "What are you trying to pull? You don't have 10 <FC 0,128,0>Scarabs<END FC>.<E>"
+    "message": "O que você está tentando fazer? Você não tem 10 <FC 0,128,0>Káraves<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_GameComplete": {
-    "message": "You mastered the gauntlet! You are a true champion!<P>Here is the <FC 0,128,0>Medal of Champions<END FC>, awarded only to those who manage to beat the gauntlet.<E>"
+    "message": "Você dominou o percurso! Você é um verdadeiro campeão!<P>Aqui está a <FC 0,128,0>Medalha dos Campeões<END FC>, dada apenas àqueles capazes de vencer o percurso.<E>"
   },
   "HT_Text_MG_Shooting_Start": {
-    "message": "Welcome to <FC 128,64,0>Tefnut's Target Tavern<END FC>. It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
+    "message": "Bem-vindo à <FC 128,64,0>Taverna de Alvos de Tefnut<END FC>. Custam <FC 0,128,0>10 Káraves<END FC> para jogar.<P>Você gostaria de jogar?<N>  <B 1> Sim<N>  <B 2> Não, obrigado<E>"
   },
   "HT_Text_MG_Shooting_Instructions": {
-    "message": "Shoot the targets to earn points. Hitting the skulls causes very bad things... you will lose points and time if this happens.<E>"
+    "message": "Atire nos alvos para ganhar pontos. Acertar as caveiras causa coisas terríveis... você perderá pontos e tempo se isso acontecer.<E>"
   },
   "HT_Text_MG_Shooting_Won": {
-    "message": "Not too bad. You hit a lot of the targets. <P>You've done better than <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> points<END FC> before, though.<P>As a prize for your score, here's <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Scarabs<END FC>. Feel free to try again if you think you can do better.<E>"
+    "message": "Nada mal. Você acertou vários alvos. <P>Mas você já fez mais do que <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> pontos<END FC> antes.<P>Como prêmio por sua pontuação, aqui vão <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Káraves<END FC>. Fique à vontade para tentar de novo se achar que consegue fazer melhor."
   },
   "HT_Text_MG_Shooting_Won_HighScore": {
-    "message": "You achieved a new high score with <FC 0,128,0><SO HT_Objective_Shooting_Score1> points<END FC>! Your score will be added to the wall chart for posterity.<P>As a prize for such a great high score, here's <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Scarabs<END FC>!<E>"
+    "message": "Você alcançou uma nova pontuação máxima com <FC 0,128,0><SO HT_Objective_Shooting_Score1> pontos<END FC>! Sua pontuação será colocada na parede para a posteridade.<P>Como prêmio por tamanha pontuação, aqui vão <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Káraves<END FC>!<E>"
   },
   "HT_Text_MG_Shooting_Lost": {
-    "message": "Pah! That was truly abysmal! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> points<END FC> is pathetic! Maybe you need some more practice?<E>"
+    "message": "Bah! Isso foi realmente vergonhoso! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> pontos<END FC> é patético! Talvez você precise praticar um pouco mais?<E>"
   },
   "HT_Text_MG_Shooting_LostSingle": {
-    "message": "Pah! That was truly abysmal! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> point<END FC> is pathetic! Maybe you need some more practice?<E>"
+    "message": "Bah! Isso foi realmente vergonhoso! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> ponto<END FC> é patético! Talvez você precise praticar um pouco mais?<E>"
   },
   "HT_Text_MG_Shooting_HighScores": {
     "message": "<DP><DHP><END TT>Sua melhor pontuação é: <FC 0,128,0><SO HT_Objective_Shooting_Score1> pontos<END FC>!"
   },
   "HT_Text_MG_Shooting_NoMoney": {
-    "message": "I said <FC 0,128,0>10 Scarabs<END FC>, that's not <FC 0,128,0>10 Scarabs<END FC>! You don't have enough, do you?<E>"
+    "message": "Eu disse <FC 0,128,0>10 Káraves<END FC>, isso não são <FC 0,128,0>10 Káraves<END FC>! Você não têm o bastante, tem?<E>"
   },
   "HT_Text_MG_Shooting_GameComplete": {
-    "message": "You have proven your mastery of the <FC 0,128,0>Blowpipe<END FC>! It is my pleasure to present you with the <FC 0,128,0>Marksman Medal<END FC>. Well done.<E>"
+    "message": "Você provou sua maestria com a <FC 0,128,0>Zarabatana<END FC>! É com muito prazer que o presenteio com a <FC 0,128,0>Medalha do Atirador<END FC>. Muito bem.<E>"
   },
   "HT_Text_MG_Shooting_WinInstructions": {
-    "message": "To prove your mastery of the <FC 0,128,0>Blowpipe<END FC> and earn the <FC 0,128,0>Marksman Medal<END FC>, you must score <FC 0,128,0>40 points<END FC> or more.<E>"
+    "message": "Para provar sua maestria da <FC 0,128,0>Zarabatana<END FC> e ganhar a <FC 0,128,0>Medalha do Atirador<END FC>, você precisa fazer <FC 0,128,0>40 pontos<END FC> ou mais.<E>"
   },
   "HT_Text_MG_Simon_Start": {
-    "message": "Welcome to the mystical game of sequences, stranger. In my shrine you will be tested in your ability to remember patterns of sound and color.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Seja bem-vindo ao místico jogo de sequências, estranho. Em meu santuário você será testado em sua habilidade de lembrar padrões de som e de cor.<P>Você gostaria de jogar?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_MG_Simon_StartEasy": {
-    "message": "Welcome to the mystical sequence game. For the reasonable price of <FC 0,128,0>5 Scarabs<END FC>, you may test your skills in my magical shrine.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Bem-vindo ao místico jogo de sequências. Pelo justo preço de <FC 0,128,0>5 Káraves<END FC>, você pode testar suas habilidades em meu santuário mágico.<P>Você gostaria de jogar?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_MG_Simon_Choose1": {
-    "message": "What level of skill would you like to test in my magical shrine?<N>  <B 1> Beginner - <FC 0,128,0>5 Scarabs<END FC><N>  <B 2> Intermediate - <FC 0,128,0>10 Scarabs<END FC><E>"
+    "message": "Que nível de habilidade você gostaria de testar em meu santuário mágico?<N>  <B 1> Iniciante - <FC 0,128,0>5 Káraves<END FC><N>  <B 2> Intermediário - <FC 0,128,0>10 Káraves<END FC><E>"
   },
   "HT_Text_MG_Simon_Choose2": {
-    "message": "What level of skill would you like to test in the shrine?<N>  <B 1> Beginner - <FC 0,128,0>5 Scarabs<END FC><N>  <B 2> Intermediate - <FC 0,128,0>10 Scarabs<END FC><N>  <B 3> Expert - <FC 0,128,0>20 Scarabs<END FC><E>"
+    "message": "Que nível de habilidade você gostaria de testar no santuário?<N>  <B 1> Iniciante - <FC 0,128,0>5 Káraves<END FC><N>  <B 2> Intermediário - <FC 0,128,0>10 Káraves<END FC><N>  <B 3> Avançado - <FC 0,128,0>20 Káraves<END FC><E>"
   },
   "HT_Text_MG_Simon_Instructions": {
-    "message": "Walk down the walkway to the center platform. Try and remember the sequence that appears before you.<P>Copy the sequence to win.<N>You can view each sequence again by jumping on the center platform, but only once.<E>"
+    "message": "Ande até a passarela na plataforma central. Tente lembrar a sequência que aparecerá diante de você.<P>Copie a sequência para ganhar.<N>Você pode ver cada sequência novamente pulando na plataforma central, mas apenas uma vez.<E>"
   },
   "HT_Text_MG_Simon_Fail": {
     "message": "Não, não, não, isso não está nada certo! Você falhou dessa vez.<E>"
@@ -126,13 +126,13 @@
     "message": "Meus parabéns, você venceu! Como prêmio, você ganhou <FC 0,128,0><SO HT_Objective_Simon_Prize> Escaravelhos<END FC>!<E>"
   },
   "HT_Text_MG_Simon_Restart": {
-    "message": "You're in the middle of a game! What do you want?<N>  <B 1> Quit<PC 1><B 2> Restart<N>  <B 3> Carry on<PC 1><B 4> Instructions<E>"
+    "message": "Você está no meio de um jogo! O que você quer?<N>  <B 1> Sair<PC 1><B 2> Recomeçar<N>  <B 3> Continuar<PC 1><B 4> Instruções<E>"
   },
   "HT_Text_MG_Simon_CopyLimit": {
     "message": "Mas nem pensar! Você têm apenas duas olhadas por sequência!<E>"
   },
   "HT_Text_MG_Simon_NoMoney": {
-    "message": "Wait, you don't have enough <FC 0,128,0>Scarabs<END FC>. Come back when you have enough to play.<E>"
+    "message": "Espere, você não têm <FC 0,128,0>Káraves<END FC> o suficiente. Volte quando tiver o bastante para jogar.<E>"
   },
   "HT_Text_MG_Simon_CantLeave": {
     "message": "Ei, você não pode sair! Você está no meio de um jogo!<E>"
@@ -141,10 +141,10 @@
     "message": "Excelente! Você completou meu jogo e ganhou a <FC 0,128,0>Medalha de Sequências<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_Start": {
-    "message": "Welcome to my game! It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
+    "message": "Bem-vindo ao meu jogo! Custam <FC 0,128,0>10 Káraves<END FC> para jogar.<P>Você gostaria de jogar?<N>  <B 1> Sim<N>  <B 2> Não, obrigado<E>"
   },
   "HT_Text_MG_Pairs_Scores": {
-    "message": "<DHP><DP><END TT>The fastest you've completed this game is:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> seconds<END FC>."
+    "message": "<DHP><DP><END TT>O mais rápido que você completou esse jogo é:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> segundos<END FC>."
   },
   "HT_Text_MG_Pairs_NoScores": {
     "message": "<DHP><DP><END TT>Você nunca completou esse jogo... <END FC>"
@@ -153,25 +153,25 @@
     "message": "Parabéns! Você ganhou <FC 0,128,0><SO HT_Objective_Pairs_Won> Escaravelhos<END FC>!<E>"
   },
   "HT_Text_MG_Pairs_Restart": {
-    "message": "You're in the middle of a game! What do you want?<N>  <B 1> Quit<PC 1><B 2> Restart<N>  <B 3> Carry on<PC 1><B 4> Instructions<E>"
+    "message": "Você está no meio de um jogo! O que você quer?<N>  <B 1> Sair<PC 1><B 2> Recomeçar<N>  <B 3> Continuar<PC 1><B 4> Instruções<E>"
   },
   "HT_Text_MG_Pairs_Instructions": {
-    "message": "Use your <FC 0,128,0>Blowpipe<END FC> to shoot open the doors at the end of the room.<P>Match each pair of items behind the doors to win.<E>"
+    "message": "Use sua <FC 0,128,0>Zarabatana<END FC> para abrir as portar no final da sala.<P>Combine cada par de itens atrás das portas para ganhar.<E>"
   },
   "HT_Text_MG_Pairs_NoBlowpipe": {
-    "message": "Sorry, but you can't play unless you have a <FC 0,128,0>Blowpipe<END FC>.<E>"
+    "message": "Desculpe, mas você não pode jogar se não tiver uma <FC 0,128,0>Zarabatana<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_RestartPay": {
-    "message": "It'll cost you another <FC 0,128,0>10 Scarabs<END FC>...<N>  <B 1> OK, restart<N>  <B 2> No, carry on playing<E>"
+    "message": "Vão lhe custar mais <FC 0,128,0>10 Káraves<END FC>...<N>  <B 1> OK, recomeçar<N>  <B 2> Não, continuar jogando<E>"
   },
   "HT_Text_MG_Pairs_NoMoney": {
-    "message": "I said it'll cost <FC 0,128,0>10 Scarabs<END FC>, you don't have <FC 0,128,0>10 Scarabs<END FC>.<E>"
+    "message": "Eu disse que vão custar <FC 0,128,0>10 Káraves<END FC>, você não têm <FC 0,128,0>10 Káraves<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_NotWon": {
     "message": "Você levou uma eterninade! Sem prêmios pra você!<E>"
   },
   "HT_Text_MG_Pairs_WinInstructions": {
-    "message": "If you can complete the game within <FC 0,128,0>60 seconds<END FC>, you will have proven yourself worthy of the <FC 0,128,0>Medal of Memory<END FC>.<E>"
+    "message": "Se você conseguir completar o jogo dentro de <FC 0,128,0>60 segundos<END FC>, terá se provado digno da <FC 0,128,0>Medalha da Memória<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_GameComplete": {
     "message": "E você ganhou a <FC 0,128,0>Medalha de Memória<END FC>!<E>"
@@ -321,112 +321,112 @@
     "message": "<N><CNTR>---[ <FC 0,128,0>Squirt<END FC> ]---<P>The Squirt is a shy, easily frightened creature. The high value of the Squirt comes as a result of being immune to <FC 0,128,0>Capture Beetles<END FC>.<E>"
   },
   "HT_Text_Museum_Name_BM09_Smiling_burble": {
-    "message": "A Smiling Burble! Uses its horns in a haphazard manner."
+    "message": "Uma Borbulha Sorridente! Usa seus chifres de forma descuidada."
   },
   "HT_Text_Museum_Name_BM10_i_Cyclops": {
-    "message": "A Cyclops! Cute looking but very mischievous."
+    "message": "Um Ciclope! De aparência fofa mas muito levado."
   },
   "HT_Text_Museum_Name_BM12_slim_burble": {
-    "message": "A Slim Burble! A quick breeder, and explosive too!"
+    "message": "Uma Borbulha Esguia! Um rápido reprodutor, e explosivo também!"
   },
   "HT_Text_Museum_Name_BR04_Goofy_Lizard": {
-    "message": "A Goofy Lizard! It’s a daft but friendly animal."
+    "message": "Um Lagarto Pateta! É um animal tonto, porém amigável."
   },
   "HT_Text_Museum_Name_BR06_Half_Brute": {
-    "message": "A Half Brute! A shockingly aggressive monster."
+    "message": "Um Meio Bruto! Um monstro surpreendentemente agressivo."
   },
   "HT_Text_Museum_Name_BU02_Skeletal_Axeman": {
-    "message": "A Skeletal Axeman! Lethal foot soldier from the dark side."
+    "message": "Um Guerreiro Esquelético! Um soldado de infantaria letal do lado negro."
   },
   "HT_Text_Museum_Name_BU05_almost_a_bull": {
-    "message": "Almost-A-Bull! Uses its horns to violent effect."
+    "message": "Quase-um-touro! Usa seus chifres para efeito violento."
   },
   "HT_Text_Museum_Name_BU06_MBird": {
-    "message": "A Mummy Bird! Bandages cover most of its feathers."
+    "message": "Um Pássaro Múmia! Ataduras cobrem boa parte das suas penas."
   },
   "HT_Text_Museum_Name_FL02_Featherless_Turkey": {
-    "message": "A Featherless Turkey! A bald bird with a grumpy attitude."
+    "message": "Um Peru Depenado! Um pássaro careca com uma atitude rabugenta."
   },
   "HT_Text_Museum_Name_FL03_shuttlecock_bird": {
-    "message": "A Shuttlecock Bird! One-legged with aerodynamic plumage."
+    "message": "Um Pássaro Peteca! Unipodal com uma plumagem aerodinâmica."
   },
   "HT_Text_Museum_Name_HD02_Cat": {
-    "message": "A Knives Cat! Not the friendliest feline around."
+    "message": "Um Gato de Facas! Não é o felino mais amigável por aí."
   },
   "HT_Text_Museum_Name_HD03_BigBull": {
-    "message": "A Big Bull! Partial to swinging his hammer around."
+    "message": "Um Touro Grande! Gosta de balançar seu martelo ao redor."
   },
   "HT_Text_Museum_Name_HD14_Crab": {
-    "message": "A Crabhands! A biped with a grumpy temperament."
+    "message": "Um Mãos-de-Siri! Um bípede com um temperamento mal-humorado."
   },
   "HT_Text_Museum_Name_HD17_Sharpbeak": {
-    "message": "A Sharpbeak! A rare specimen of this battling creature."
+    "message": "Um Bico Afiado! Um espécime raro dessa criatura lutadora."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper": {
-    "message": "A Skull Worshipper! A powerful ally to the forces of evil."
+    "message": "Um Adorador de Caveira! Um poderoso aliado das forças do mal."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "A Dark Worshipper! Rarely seen outside the shadows."
+    "message": "Um Adorador Sombrio! Raramente visto fora das sombras."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "A Skull Swordsman! Skillful warriors with ghostly attacks. "
+    "message": "Um Espadachim Esquelético! Guerreiros habilidosos com ataques espectrais."
   },
   "HT_Text_Museum_Name_IN01_Green_Giant_worm": {
-    "message": "Green Giant Worm! A big worm with big teeth."
+    "message": "Minhoca Verde Gigante! Uma minhoca grande com dentes grandes."
   },
   "HT_Text_Museum_Name_IN07_Blade_Scorpion": {
-    "message": "A Blade Scorpion! Fast and deadly with a stinging tail."
+    "message": "Um Escorpião Lâmina! Rápido e mortal com uma cauda afiada."
   },
   "HT_Text_Museum_Name_IN09_Sak_Spike_Spider": {
-    "message": "A Spike Spider! Well known for dropping on their prey."
+    "message": "Uma Aranha Espinho! Muito conhecida por cair em sua presa."
   },
   "HT_Text_Museum_Name_PI01_Piranha": {
-    "message": "A Piranha! Fast-eating carnivorous fish."
+    "message": "Uma Piranha! Peixe carnívoro que devora com rapidez."
   },
   "HT_Text_Museum_Name_PI01_Hard_Piranha": {
-    "message": "An Exo-Piranha! Quick and deadly little fish."
+    "message": "Uma Exo-Piranha! Um peixinho rápido e mortal."
   },
   "HT_Text_Museum_Name_PL02_Tree_Creature": {
-    "message": "A Tree Creature! Don’t seek shade under this tree!"
+    "message": "Uma Criatura Arbórea! Não procure sombra debaixo dessa árvore!"
   },
   "HT_Text_Museum_Name_PL04_Sunflower_With_Face": {
-    "message": "A Sunflower! A dangerous spore-firing plant."
+    "message": "Um Girassol! Uma perigosa planta que atira esporos."
   },
   "HT_Text_Museum_Name_QC01_Pokemon": {
-    "message": "A Shell Critter! A timid little shelled reptile."
+    "message": "Um Bicho da Concha! Um pequeno e tímido réptil cascudo."
   },
   "HT_Text_Museum_Name_QR04_Sak_Nose_Needler": {
-    "message": "A Nose Needler! A feisty subterranean mammal."
+    "message": "Um Fuçador Narigudo! Um mal-humorado mamífero subterrâneo."
   },
   "HT_Text_Museum_Name_QU01_Skeletal_Spider": {
-    "message": "A Skeletal Spider! Head butts enemies into submission. "
+    "message": "Uma Aranha Esquelética! Dá cabeçadas em seus inimigos."
   },
   "HT_Text_Museum_Name_QU04_Mummy_Chihuahua": {
-    "message": "A Mummy Chihuahua! A pet that’s now undead."
+    "message": "Um Chihuahua Múmia! Um bicho de estimação que agora é morto-vivo."
   },
   "HT_Text_Museum_Name_QU04_Normal_Chihuahua": {
-    "message": "A Chihuahua! A popular pet amongst the rich."
+    "message": "Um Chihuahua! Um bichinho popular entre os ricos."
   },
   "HT_Text_Museum_Name_QU05_skeletal_waspspider": {
-    "message": "A Wasp Spider! Known for its nasty sting."
+    "message": "Uma Aranha Vespa! Conhecida por sua picada desagradável."
   },
   "HT_Text_Museum_Name_QU06_Mummy_Worm": {
-    "message": "A Mummy Worm! Spits fireballs to ward off attackers."
+    "message": "Uma Minhoca Múmia! Cospe bolas de fogo para afastar agressores."
   },
   "HT_Text_Museum_Name_QU09_Rat": {
-    "message": "A Rat! A dirty creature that scuttles around."
+    "message": "Um Rato! Uma criatura suja que corre por aí."
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "An Electric Armadillo! The most shocking of its species."
+    "message": "Um Tatu Elétrico! O mais chocante de sua espécie."
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Fire": {
-    "message": "A Fire Armadillo! Spins around with scorching results."
+    "message": "Um Tatu de Fogo! Gira ao redor com resultados escaldantes."
   },
   "HT_Text_Museum_Name_QR01_Cobra": {
-    "message": "A Cobra! A hooded snake with a venomous bite."
+    "message": "Uma Cobra! Uma cobra encapuzada com uma picada venenosa."
   },
   "HT_Text_Museum_Name_QR03_Small_Frog": {
-    "message": "A Small Frog! It’s certainly small, but also toxic."
+    "message": "Um Sapo Pequeno! É certamente pequeno, mas também tóxico."
   },
   "HT_Text_Museum_Name_Jewel01": {
     "message": "Joia de Shu"
@@ -642,16 +642,16 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>3 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Mysterious Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The strange symbols on this ancient artifact<N>indicate transport to a mysterious location.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu um <FC 0,128,0>Amuleto Misterioso<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Os símbolos estranhos nesse artefato antigo<N>indicam transporte para um local misterioso.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Abydos Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The oceanic symbols on this ancient<N>artifact indicate transport to Abydos.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu o <FC 0,128,0>Amuleto de Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Os símbolos oceânicos nesse artefato<N>antigo indicam transporte para Abydos.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Heliopolis Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The sand etched symbols on this ancient <N>artifact indicate transport to Heliopolis.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu o <FC 0,128,0>Amuleto de Heliópolis<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Os símbolos gravados em areia nesse artefato <N>antigo indicam transporte para Heliópolis.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Anubis Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The symbols on this ancient artifact<N>indicate transport to Anubis Tower.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu o <FC 0,128,0>Amuleto de Anúbis<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Os símbolos nesse artefato antigo<N>indicam transporte para a Torre de Anúbis.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_Portal_HaveAmulet": {
     "message": "Mostre-me seu <FC 0,128,0>Amuleto de Portal<END FC>, pequeno, e eu abrirei os portões para o seu destino.<E>"
@@ -663,28 +663,28 @@
     "message": "Que tolice você está pedindo a mim? Você já está aqui.<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to a <FC 128,64,0>Mysterious Location<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>O Deus do Portal reconhece sua oferenda e<N>providenciará transporte para um <FC 128,64,0>Local Misterioso<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Abydos<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>O Deus do Portal reconhece sua oferenda e<N>providenciará transporte para <FC 128,64,0>Abydos<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedAkaria01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Akaria<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>O Deus do Portal reconhece sua oferenda e<N>providenciará transporte para <FC 128,64,0>Akaria<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Heliopolis<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>O Deus do Portal reconhece sua oferenda e<N>providenciará transporte para <FC 128,64,0>Heliópolis<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedSakkara01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to <FC 128,64,0>Sakkara<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>O Deus do Portal reconhece sua oferenda e providenciará transporte para <FC 128,64,0>Sakkara<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedUruk01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to the <FC 128,64,0>Castle of Uruk<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>O Deus do Portal reconhece sua oferenda e providenciará transporte para o <FC 128,64,0>Castelo de Uruk<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Anubis Tower<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>O Deus do Portal reconhece sua oferenda e<N>providenciará transporte para a <FC 128,64,0>Torre de Anúbis<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to <FC 128,64,0>Uruk Valley<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>O Deus do Portal reconhece sua oferenda e providenciará transporte para o <FC 128,64,0>Vale de Uruk<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedLuxor01": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>O Deus do Portal se diverte com sua tolice.<N>Você já está em um <FC 128,64,0>Local Misterioso<END FC>!<E>"

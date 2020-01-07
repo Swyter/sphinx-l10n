@@ -72,7 +72,7 @@
     "message": "<FC 128,60,0>Agora o Prefeito está começando negociações amigáveis em todas as frentes. Ele deveria me promover para resolver isso! Sou um ótimo embaixador para o nosso povo, você não acha?<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_Situation": {
-    "message": "Temo que haja uma crise aqui nas <FC 128,64,0>Câmaras do Conselho<END FC>. O Prefeito adquiriu uma doença misteriosa - Eu nunca vi algo assim antes.<E>"
+    "message": "Receio que haja uma crise aqui nas <FC 128,64,0>Câmaras do Conselho<END FC>. O Prefeito adquiriu uma doença misteriosa - Eu nunca vi algo assim antes.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_Situation1": {
     "message": "Eu preciso de <FC 0,128,0>5 Ervas Medicinais<END FC> para preparar uma cura, mas preciso ficar aqui e garantir com que a condição dele não piore.<E>"
@@ -138,7 +138,7 @@
     "message": "<FC 128,60,0>O Prefeito quer provas?! Ele deve estar delirando! Monstros surgindo das profundezas do oceano é prova o suficiente! Hmm, talvez ele esteja confuso demais para estar no comando...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_NeedHerbs": {
-    "message": "<FC 0,128,128>I doubt your ability to gather the herbs in time. The Mayor is sure to die from his injuries... perhaps we can convince the Physician to give him something to put him out of his misery.<E>"
+    "message": "<FC 0,128,128>Eu duvido de sua capacidade de conseguir as ervas a tempo. O Prefeito certamente irá morrer de sua doença... talvez consigamos convencer o Médico de dá-lo algo para livrá-lo de seu sofrimento.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_NeedHerbs": {
     "message": "<FC 128,60,0>Eu devo ser promovido a Prefeito em breve, e então resolveremos o problema do meu jeito.<E>"
@@ -168,7 +168,7 @@
     "message": "Desculpe meu amigo, mas não podemos arriscar que os monstros entrem nas <FC 128,64,0>Câmaras do Conselho<END FC>. Você está por sua conta.<E>"
   },
   "HT_Text_Aby_Council_Posh01_Intro03": {
-    "message": "What next? We managed to get rid of those ghastly Electric Eels from the <FC 128,64,0>Council Chambers<END FC> and then these foul creatures appear!<E>"
+    "message": "E agora? Conseguimos nos livrar daquelas Enguias Elétricas medonhas das <FC 128,64,0>Câmaras do Conselho<END FC> e agora essas criaturas imundas aparecem!<E>"
   },
   "HT_Text_Aby_Council_Posh01_NoEntry": {
     "message": "Vá embora! Já te disse, não podemos arriscar deixar com que os monstros entrem!<E>"
@@ -177,13 +177,13 @@
     "message": "Estou chocado, te digo! Me deixarem trancado para fora com essas criaturas, pensando apenas na segurança deles! A audácia!<E>"
   },
   "HT_Text_Aby_Council_Posh01_Done02": {
-    "message": "I am an esteemed dignitary of <FC 128,64,0>Abydos<END FC>, with great responsibilities. I wish I was treated with more respect by my fellow councilors!<E>"
+    "message": "Eu sou um estimado dignitário de <FC 128,64,0>Abydos<END FC>, com grandes responsabilidades. Eu gostaria de ser tratado com mais respeito por meus colegas conselheiros!<E>"
   },
   "HT_Text_Aby_Council_Posh01_Done03": {
-    "message": "One's status should be considered by others at all times. Don't you agree?<E>"
+    "message": "O status de alguém deve ser considerado pelos outros o tempo todo. Você não concorda?<E>"
   },
   "HT_Text_Aby_Council_Posh01_Ill01": {
-    "message": "It is terrible news about the Mayor. Without him I'm sure that <FC 128,64,0>Abydos<END FC> will suffer.<E>"
+    "message": "É uma notícia horrível sobre o Prefeito. Sem ele tenho certeza que <FC 128,64,0>Abydos<END FC> irá sofrer.<E>"
   },
   "HT_Text_Aby_Council_Posh01_Ill02": {
     "message": "Queria que houvesse algo que eu pudesse fazer pelo Prefeito.<E>"
@@ -234,7 +234,7 @@
     "message": "<FC 0,128,0>Ervas Medicinais<END FC> são conhecidas por crescerem bem aqui nas <FC 128,64,0>Câmaras do Conselho<END FC>!<E>"
   },
   "HT_Text_Aby_Council_Posh03_Cured01": {
-    "message": "It is good to see the Mayor back on his feet. Maybe now he will employ a more trustworthy advisor like myself.<E>"
+    "message": "É bom ver o Prefeito de volta à ativa. Quem sabe agora ele contrate um conselheiro mais confiável, como eu.<E>"
   },
   "HT_Text_Aby_Council_Posh03_Cured02": {
     "message": "Tenho certeza de que eu seria um excelente novo conselheiro para o Prefeito.<E>"
@@ -258,16 +258,16 @@
     "message": "Um ótimo dia à você, senhor!<E>"
   },
   "HT_Text_Aby_Museum_Inaguration1a": {
-    "message": "We are here on this auspicious day for the Grand Opening of the first hall of the <FC 128,64,0>Abydos Museum<END FC> - the pride of the city. <E>"
+    "message": "Estamos aqui neste auspicioso dia para a Grande Abertura do primeiro salão do <FC 128,64,0>Museu de Abydos<END FC> - o orgulho da cidade. <E>"
   },
   "HT_Text_Aby_Museum_Inaguration1b": {
-    "message": "<EFF><EPO>This important event highlights the continued interest from the council for the cultural development of our city,<P>holding a public exhibition in the new <FC 128,64,0>Hall of Jewels<END FC>; the collection of <FC 128,64,0>Abydos<END FC>.<E>"
+    "message": "<EFF><EPO>Esse importante evento enfatiza o interesse contínuo do conselho no desenvolvimento cultural de nossa cidade,<P>apresentando uma exibição pública no novo <FC 128,64,0>Salão das Joias<END FC>; a coleção de <FC 128,64,0>Abydos<END FC>.<E>"
   },
   "HT_Text_Aby_Museum_Inaguration1c": {
     "message": "Essa ilustre coleção mostra centenas de anos da nossa grande história...<W 200>"
   },
   "HT_Text_Aby_Museum_Inaguration2a": {
-    "message": "My word! I am afraid that we need to interrupt the ceremony.<E>"
+    "message": "Minha palavra! Eu receio que precisamos interromper a cerimônia.<E>"
   },
   "HT_Text_Aby_Museum_Inaguration3a": {
     "message": "Por quê? O que aconteceu?<E>"
@@ -321,7 +321,7 @@
     "message": "Sorry sir, the <FC 128,64,0>Hall of Jewels<END FC> isn't open yet.<P>If you go to the reception you might be in time to catch the Mayor performing the Grand Opening ceremony.<E>"
   },
   "HT_Text_Aby_Museum_Guard_NoEntry2": {
-    "message": "The <FC 128,64,0>Hall of Jewels<END FC> will be open shortly after the Grand Opening.<E>"
+    "message": "O <FC 128,64,0>Salão das Joias<END FC> será aberto logo após a Grande Abertura.<E>"
   },
   "HT_Text_Aby_Museum_FirstWelcome": {
     "message": "Welcome to our museum. I'm afraid our exhibits are a little sparse at the moment. It's very sad.<P>My heart sinks to think that the Grand Opening of our jewel exhibition could be ruined in such a disparaging manner.<P>If you don't mind my saying, you don't look like a native Abydosian.<P>Are you from out of town?<N>  <B 1> Yes<N>  <B 2> No<E>"
@@ -630,22 +630,22 @@
     "message": "Can you spare a few <FC 0,128,0>Scarabs<END FC>, my friend?<N>  <B 1> No<N>  <B 2> I suppose, here's <FC 0,128,0>2 Scarabs<END FC><N>  <B 3> Of course, here's <FC 0,128,0>10 Scarabs<END FC><E>"
   },
   "HT_Text_Aby_Canal_Beggar_NoMoneyPrompt": {
-    "message": "You've given me enough, friend. I'd feel guilty taking any more of your <FC 0,128,0>Scarabs<END FC>.<E>"
+    "message": "Você me deu o bastante, amigo. Me sentiria culpado se pegasse mais algum <FC 0,128,0>Kárave<END FC> seu.<E>"
   },
   "HT_Text_Aby_Canal_Beggar_NotEnoughMoney": {
-    "message": "You don't have that many <FC 0,128,0>Scarabs<END FC> yourself, friend. Perhaps you should find a doorway and take up my profession.<E>"
+    "message": "Você não têm tantos <FC 0,128,0>Káraves<END FC> assim, amigo. Talvez devesse procurar uma porta e tentar minha profissão.<E>"
   },
   "HT_Text_Aby_Canal_Beggar_GivenNone": {
-    "message": "Fine! You don't know what it's like to be in poverty. Aren't you lucky.<E>"
+    "message": "Beleza! Você não sabe o que é estar na pobreza. Como você é sortudo.<E>"
   },
   "HT_Text_Aby_Canal_Beggar_GivenMinimum": {
-    "message": "Wow, <FC 0,128,0>2 Scarabs<END FC>! Now I can go and buy that house I always wanted!<P>Mumble... tight fisted... grumble... stingy little...<E>"
+    "message": "Uau, <FC 0,128,0>2 Káraves<END FC>! Agora posso comprar aquela casa que sempre quis!<P>Resmungo... mão de vaca... sussurro... pão duro de uma...<E>"
   },
   "HT_Text_Aby_Canal_Beggar_GivenMaximum": {
     "message": "Ahh, obrigado amigo! Você é um homem generoso, obrigado.<E>"
   },
   "HT_Text_Aby_Canal_Beggar_GivenMaximumAgain": {
-    "message": "Gee, thanks! If everyone was like you we'd have no problems in this world. I wouldn't even be sat here!<E>"
+    "message": "Puxa, obrigado! Se todo mundo fosse como você não teríamos problemas nesse mundo. Eu nem estaria sentado aqui!<E>"
   },
   "HT_Text_Aby_Canal_Beggar_GivenMaximumReward": {
     "message": "Wow, you are a regular samaritan! You've been so generous, let me give you something in return.<P>I found this thing the other day in one of the sewers. Don't ask me what I was doing down there, you don't want to know!<P>Anyway, it's all I have and I want you to take it.<E>"
@@ -654,13 +654,13 @@
     "message": "Você não sabe ler? A placa diz sem visitantes!"
   },
   "HT_Text_Aby_Canal_Inventor_GoAway02": {
-    "message": "You are not on official business so go away!<E>"
+    "message": "Você não está em um negócio oficial, então vá embora!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_GoAway03": {
     "message": "Pare de bater na minha porta! Visitantes oficiais apenas!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Prompt01": {
-    "message": "At last, someone on official business! Is that note for me?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Finalmente, alguém em negócio oficial! Esse bilhete é para mim?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Prompt02": {
     "message": "Essa carta é para mim?<N>  <B 1> Sim<N>  <B 2> Não<E>"
@@ -675,16 +675,16 @@
     "message": "Hello again, stranger. What's that you've got there?<P>A <FC 0,128,0>Medicine Bag<END FC>? Very interesting. It looks like it will have no trouble preserving the <FC 0,128,0>Healing Herbs<END FC> that you need.<P>Don't waste any more time talking to me, get collecting those herbs for the Mayor!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Herbs01": {
-    "message": "You still haven't found any of the herbs? You'd better get a move on before it's too late!<E>"
+    "message": "Você ainda não encontrou nenhuma das ervas? É melhor se mexer antes que seja tarde demais!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Herbs02": {
-    "message": "Very good, you have found some of the herbs. Hurry and find the rest before it's too late!<E>"
+    "message": "Muito bem, você encontrou algumas das ervas. Corra e encontre o resto antes que seja tarde demais!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Herbs03": {
-    "message": "Excellent, you have all the herbs! What are you doing chatting on to me?! Get back to the <FC 128,64,0>Council Chambers<END FC> immediately!<E>"
+    "message": "Excelente, você encontrou todas as ervas! O que está fazendo falando comigo?! Volte para as <FC 128,64,0>Câmaras do Conselho<END FC> imediatamente!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Done01": {
-    "message": "Hello again! You did a great job saving the Mayor. The citizens of <FC 128,64,0>Abydos<END FC> owe you a great debt of gratitude.<E>"
+    "message": "Olá novamente! Você fez um ótimo trabalho salvando o Prefeito. Os cidadãos de <FC 128,64,0>Abydos<END FC> devem a você uma grande dívida de gratidão.<E>"
   },
   "HT_Text_Aby_Canal_Help_CanalCleared": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>That is the last of the creatures<N>infesting the <FC 128,64,0>Narrow Canal<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>You should report back to the<N>Abydosian Guard and claim your reward!<ES HT_Text_ES_E_HelpText><E>"
@@ -819,13 +819,13 @@
     "message": "<EFF><EPO>What are we to do? The Mayor has been taken ill! I wonder what could be wrong with him?<P>Soon he won't even be strong enough to wear the <FC 0,128,0>Sacred Crown of Abydos<END FC> upon his head!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor02": {
-    "message": "Monsters, electrified water and now the Mayor! What a terrible state of affairs this is!<E>"
+    "message": "Monstros, água eletrificada e agora o Prefeito! As coisas estão em um estado terrível!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor03": {
     "message": "Me pergunto quem irá assumir o cargo do Prefeito caso ele não se recupere logo de sua doença?<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor04": {
-    "message": "I do hope the council Physician can help the Mayor.<E>"
+    "message": "Eu espero que o Médico do conselho consiga ajudar o Prefeito.<E>"
   },
   "HT_Text_Aby_Canal_Posh_MayorCured01": {
     "message": "O Prefeito foi curado? Que sorte!<E>"

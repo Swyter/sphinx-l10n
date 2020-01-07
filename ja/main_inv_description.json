@@ -420,16 +420,16 @@
     "message": "<ES HT_Text_ES_S_BOSStd>骨格アックスマンの脚<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HippyItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>This Parasol is ideal for providing shade from the sun.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>このパラソールは太陽から守ることに理想的。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. Fire Armadillo<PC 1>2. Mummy Worm<N>3. Almost-A-Bull<PC 1>4. Half Brute<E><ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>1. 炎のアルマジロ<PC 1>2. ミイラワーム<N>3. ほとんどブール<PC 1>4. ハーフブルート<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. Dark Worshipper<PC 1>2. Wasp Spider<N>3. Rat<PC 1>4. Spike Spider<E><ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>1. 暗い崇拝者<PC 1>2. ワスプスパイダー<N>3. ネズミ<PC 1>4. スパイクスパイダー<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. Tree Creature<PC 1>2. Skeletal Spider<N>3. Big Bull<PC 1>4. Skull Worshipper<E><ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>1. 木の動物<PC 1>2. 骨格スパイダー<N>3. ビッグ・ブル<PC 1>4. スカル崇拝者<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Coconut": {
     "message": "<ES HT_Text_ES_S_BOSStd>Coconuts are a favored food of the Urukan lava toad. Lava toads have been known to assist adventurers in exchange for these prized delicacies.<ES HT_Text_ES_E_BOSStd>"
@@ -450,10 +450,10 @@
     "message": "<ES HT_Text_ES_S_BOSStd>A specially lined bag that preserves delicate medicinal ingredients.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AtunStatue": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A golden statue of the god Atun. Said to be the only means to break the magical Seal of Atun.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>アトゥン様のゴールドなスタチュー。アトゥンの魔法的な封印を壊すことには、これを使うことしかないと言われている。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HathorStatue": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A golden statue of the god Hathor, imbued with magical powers.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>ハトホル様のゴールドなスタチュー、魔法の力を含む。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel01": {
     "message": "<ES HT_Text_ES_S_BOSStd>アビドス博物館から盗まれた宝石の１つ。<ES HT_Text_ES_E_BOSStd>"
@@ -474,7 +474,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>アビドス博物館から盗まれた宝石の１つ。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_EagleStone": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A charmed stone which allows you to summon a Great Eagle at special points.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>このチャームされた石は、特定のところで大きいイーグルを召喚できる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AtunEye": {
     "message": "<ES HT_Text_ES_S_BOSStd>A stone eye which looks like it would fit into the eye socket of a statue of some kind.<ES HT_Text_ES_E_BOSStd>"
@@ -492,15 +492,15 @@
     "message": "<ES HT_Text_ES_S_BOSStd>An impressive looking medal proving you completed Sorkon's Sequence game.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_Certificate": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A certificate from the Abydos Museum presented to you after you completed the museum's Natural History collection.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>アビドス博物館の自然史コレクションを完了したことを認める証書。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterA": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A certificate from the Abydos Museum presented to you for collecting 30 monsters.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>モンスターを30匹捕まえたことを認めるアビドス博物館からの証書。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterB": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A certificate from the Abydos Museum presented to you for collecting 20 monsters.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>モンスターを20匹捕まえたことを認めるアビドス博物館からの証書。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterC": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A certificate from the Abydos Museum presented to you for collecting 10 monsters.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>モンスターを10匹捕まえたことを認めるアビドス博物館からの証書。<ES HT_Text_ES_E_BOSStd>"
   }
 }

@@ -111,25 +111,25 @@
     "message": "Você devia falar com meu irmão, amigo. É ele quem manda na fazenda.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_NotDoneYet": {
-    "message": "It's such hard work, tilling this land. Come back later, when we're finished.<E>"
+    "message": "É muito trabalhoso, cultivar esse solo. Volte mais tarde, quando tivermos terminado.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_Complete": {
-    "message": "It's been hard work preparing the farm, but now we can relax and wait for the rains. Thanks for your help friend!<E>"
+    "message": "Foi muito trabalhoso preparar a fazenda, mas agora podemos relaxar e esperar pelas chuvas. Obrigado pela ajuda amigo!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_BrotherFreed1a": {
     "message": "É um milagre! Meu irmão retornou!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_BrotherFreed1b": {
-    "message": "I have you to thank, but I cannot think how to repay you.<E>"
+    "message": "Tenho você à agradecer, mas não consigo pensar em como lhe retribuir.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_Thanks1a": {
-    "message": "It's great to be reunited with my brother. We can get back to our farming now.<E>"
+    "message": "É ótimo estar reunido com meu irmão. Agora nós podemos voltar ao plantio.<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_Thanks1b": {
-    "message": "It's time we did some more farming... but now we are not sure where to begin. Where do you think we should dig?<E>"
+    "message": "Está na hora de cultivar mais um pouco... mas agora não temos certeza de onde começar. Onde você acha que devemos cavar?<E>"
   },
   "HT_Text_Hel_Exterior_FarmersBrother_Thanks1c": {
-    "message": "I'll explain to you how it works. Perhaps you'll be able to help us. <E>"
+    "message": "Vou te explicar como funciona. Talvez você seja capaz de nos ajudar.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_CSIntro01": {
     "message": "Aqui estamos, finalmente em <FC 128,64,0>Heliópolis<END FC>!<E>"
@@ -138,13 +138,13 @@
     "message": "Aqui já foi um grande reino. Mas agora não é nada além de um deserto abandonado.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_CSIntro02": {
-    "message": "Personally, I think you should have stayed in <FC 128,64,0>Abydos<END FC>. You won't find much here other than sand and vicious monsters.<E>"
+    "message": "Pessoalmente, acho que você deveria ter ficado em <FC 128,64,0>Abydos<END FC>. Você não encontrará muito aqui além de areia e monstros perversos.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_CSIntro03": {
-    "message": "In fact, that's precisely why I'm sailing back to <FC 128,64,0>Abydos<END FC> immediately.<E> "
+    "message": "Na verdade, é exatamente por isso que velejarei de volta para <FC 128,64,0>Abydos<END FC> imediatamente.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_CSIntro04": {
-    "message": "I'll be back around these parts in a few days. I might see you then...<W 90>"
+    "message": "Estarei de volta por estes lados em alguns dias. Talvez o veja até lá...<W 90>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_WhereTo00": {
     "message": "Olá! É bom vê-lo novamente.<P>Para onde gostaria de velejar hoje?<P>  <B 1> <FC 128,64,0>Abydos<END FC><PC 1><B 7> Lugar nenhum<E>"
@@ -219,7 +219,7 @@
     "message": "Aqui É o <FC 128,64,0>Povoado de Bedouin<END FC>! Você não reparou em todas essas tendas atrás de você?<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_QuestIntro": {
-    "message": "I would take you to <FC 128,64,0>Abydos<END FC> but my <FC 0,128,0>Sail<END FC> was stolen and even I can't row that far.<P>If you find the <FC 0,128,0>Sail<END FC> I'll be happy to take you to <FC 128,64,0>Abydos<END FC> free of charge.<E>"
+    "message": "Eu te levaria até <FC 128,64,0>Abydos<END FC> mas minha <FC 0,128,0>Vela<END FC> foi roubada e mesmo eu não consigo remar tão longe.<P>Se você encontrar a <FC 0,128,0>Vela<END FC> ficarei feliz em levá-lo para <FC 128,64,0>Abydos<END FC> de graça.<E>"
   },
   "HT_Text_Hel_Exterior_BoatOwner_QuestReminder": {
     "message": "Já te disse, só posso te levar para <FC 128,64,0>Abydos<END FC> se você encontrar minha <FC 0,128,0>Vela<END FC>.<E>"
@@ -234,16 +234,16 @@
     "message": "Desculpe, mas você não têm <FC 0,128,0>Escaravelhos<END FC> o suficiente.<E>"
   },
   "HT_Text_Hel_Exterior_DungeonGuard_Intro01": {
-    "message": "<CNTR>---[ <FC 128,64,0>Lost Temple of Heliopolis<END FC> ]---<N>---[ Only those who prove themselves worthy in combat<N>shall gain entrance to this sacred place ]---<E>"
+    "message": "<CNTR>---[ <FC 128,64,0>Templo Perdido de Heliópolis<END FC> ]---<N>---[ Apenas aqueles que se provarem dignos em combate<N>serão capazes de entrar neste lugar sagrado ]---<E>"
   },
   "HT_Text_Hel_Exterior_DungeonGuard_Defeated01": {
-    "message": "Very well, you have proved to me beyond doubt that you are worthy of passage into the <FC 128,64,0>Sacred Temple<END FC>.<P>Farewell, young warrior.<E>"
+    "message": "Muito bem, você sem dúvidas provou ser digno de passagem pelo <FC 128,64,0>Templo Sagrado<END FC>. Adeus, jovem guerreiro.<E>"
   },
   "HT_Text_Hel_Exterior_DungeonGuard_Defeated02": {
     "message": "Você é livre para entrar no <FC 128,64,0>Templo Sagrado<END FC> sempre que quiser, jovem guerreiro.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_Intro01": {
-    "message": "Hello there! I don't believe I've seen your face around here before. Allow me to welcome you to <FC 128,64,0>Heliopolis<END FC>.<P>Although it looks inhospitable here, <FC 128,64,0>Heliopolis<END FC> is home to many different kinds of monster.<P>It has long been a hobby of mine to collect monster specimens from this and other worlds.<E>"
+    "message": "Olá! Não acho que o vi por aqui antes. Permita-me dar-lhe as boas-vindas à <FC 128,64,0>Heliópolis<END FC>.<P>Apesar de parecer inóspito por aqui, <FC 128,64,0>Heliópolis<END FC> é o lar de diversos tipos de monstros.<P>Têm sido um hobby meu por muito tempo coletar espécimes de monstros desse e de outros mundos.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_Intro02": {
     "message": "Se você não tem nenhum <FC 0,128,0>Besouro de Captura<END FC> sinto te dizer que não será capaz de me ajudar.<E>"
@@ -255,10 +255,10 @@
     "message": "Você teria interesse em se tornar meu assistente?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_PromptAccept01": {
-    "message": "Great! Now, as my assistant I will be relying on you to help me widen my collection of monster specimens.<P>Take this list. When you have captured one of each monster, bring them back to me and we will discuss your payment.<P>Happy hunting!<E>"
+    "message": "Ótimo! Agora, como meu assistente contarei com você para me ajudar a expandir minha coleção de espécimes de monstros.<P>Pegue esta lista. Quando tiver capturado um de cada monstro, traga-os até mim e discutiremos seu pagamento.<P>Boa caça!<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_PromptDecline01": {
-    "message": "Ah well, it's your loss. Assistants can earn quite a healthy living, you know.<E>"
+    "message": "Ah bem, sua perda. Assistentes podem ganhar uma quantia bem saudável, sabe?<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List01Incomplete": {
     "message": "Você não têm todos os monstros da lista. Volte quando tiver um de cada.<E>"
@@ -474,7 +474,7 @@
     "message": "My husband is worried about <FC 128,64,0>Heliopolis<END FC>. I can't blame him. It has become a dark, oppressive place.<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Normal02": {
-    "message": "Even so, I'm sure <FC 128,64,0>Heliopolis<END FC> will return to normal soon.<E>"
+    "message": "Ainda assim, tenho certeza de que <FC 128,64,0>Heliópolis<END FC> retornará ao normal em breve.<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Trapped01": {
     "message": "At last, someone to rescue me! Please, you must find a way to deactivate this force field!<P>I'm sure those three colored beams are powering the force field. If you could find a way to deactivate them, I might be able to escape!<E>"
@@ -492,55 +492,55 @@
     "message": "Hello there! Say, are you one of those adventurers in search of treasure and the like?<N>  <B 1> Yes<N>  <B 2> No<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Intro01Accept": {
-    "message": "Ahh... I thought so, you look the type.<E>"
+    "message": "Ahh... eu imaginei que fosse, você tem cara.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Intro01Decline": {
-    "message": "Well, looks can be deceiving I guess. I'm a Squirt Herdsman, but you wouldn't know it to look at me.<E>"
+    "message": "Bem, as aparências enganam, não é? Eu sou um pastor de Esguichos, mas você não saberia disso só olhando pra mim.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt01": {
     "message": "So Mr. Adventurer, I'll make you an offer. I have a nice shiny piece of treasure here that I'm sure you would find very interesting.<P>If you can help me by herding my Squirts back into the pen here, then I'll give you this piece of treasure.<P>So do you accept my offer?<N>  <B 1> Yes<N>  <B 2> No<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt01Accept": {
-    "message": "Excellent! Round up the Squirts and come back and talk to me when you've finished.<E>"
+    "message": "Excelente! Reúna todos os Esguichos e volte para falar comigo quando tiver terminado.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt01Decline": {
-    "message": "Ahh well... I guess I'll have to keep my nice shiny piece of treasure to myself.<E>"
+    "message": "Ahh bem... acho que terei que guardar meu lindo e brilhante pedaço de tesouro para mim.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt02": {
     "message": "It's my Squirts, you see. They've all escaped and I need somebody to round them up for me. If you could help me I'd make it worth your while.<P>So will you help me?<N>  <B 1> Yes<N>  <B 2> No<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt02Accept": {
-    "message": "Excellent! Round up the Squirts and come back and talk to me when you've finished.<E>"
+    "message": "Excelente! Reúna todos os Esguichos e volte para falar comigo quando tiver terminado.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt02Decline": {
-    "message": "Ahh well... I guess I'll have to keep my nice shiny piece of treasure to myself.<E>"
+    "message": "Ahh bem... acho que terei que guardar meu lindo e brilhante pedaço de tesouro para mim.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt03": {
-    "message": "Have you decided to help me out?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Você decidiu me ajudar?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt03Accept": {
-    "message": "Excellent! Round up the Squirts and come back and talk to me when you've finished.<E>"
+    "message": "Excelente! Reúna todos os Esguichos e volte para falar comigo quando tiver terminado.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt03Decline": {
-    "message": "Ahh well... I guess I'll have to keep my nice shiny piece of treasure to myself.<E>"
+    "message": "Ahh bem... acho que terei que guardar meu lindo e brilhante pedaço de tesouro para mim.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Squirts01": {
-    "message": "There are still <FC 0,128,0><SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft> Squirts<END FC> out there my friend!<E>"
+    "message": "Ainda há <FC 0,128,0><SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft>Esguichos<END FC> lá fora, meu amigo!<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Squirts02": {
-    "message": "There is still <FC 0,128,0><SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft> Squirt<END FC> out there my friend!<E>"
+    "message": "Ainda tem um <FC 0,128,0><SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft>Esguicho<END FC> lá fora, meu amigo!<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Reward01": {
-    "message": "You did it! All my Squirts are safely back in their pen thanks to you, stranger. Here take this, you deserve it.<E>"
+    "message": "Você conseguiu! Todos os meus Esguichos estão seguros graças à você, estranho. Aqui, leve isso, você merece.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Done01": {
-    "message": "My Squirts are doing great, my friend! One day I'm going to build a Squirt Ranch where I can keep hundreds of the little guys.<E>"
+    "message": "Meus Esguichos estão ótimos, meu amigo! Um dia eu vou construir um rancho de Esguichos onde poderei ter centenas dos pequeninos.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Done02": {
-    "message": "Thanks for your help stranger. My Squirts are doing great now.<E>"
+    "message": "Obrigado pela ajuda, estranho. Meus Esguichos estão ótimos agora.<E>"
   },
   "HT_Text_Hel_Ext_Horus_WallEntrance1": {
-    "message": "Sphinx, there you are! I knew that we would meet again. As you can see, I heroically managed to survive in <FC 128,64,0>Uruk<END FC>. Well, I won't bore you with the details.<E>"
+    "message": "Sphinx, aí está você! Eu sabia que nos veríamos novamente. Como pode ver, eu heroicamente consegui sobreviver em <FC 128,64,0>Uruk<END FC>. Bem, não vou te entediar com os detalhes.<E>"
   },
   "HT_Text_Hel_Ext_Horus_WallEntrance2": {
     "message": "You got lucky in <FC 128,64,0>Uruk<END FC> and by rights that blade should be mine! You would never have found it without my help!<E>"
