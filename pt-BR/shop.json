@@ -3,37 +3,37 @@
     "message": "<END TT>Deseja comprar algo mais<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_BuyFireDart": {
-    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Dardos de Fogo custam <FC 0,128,0>10 Escaravelhos<END FC> cada. Quer comprar um?<N><B 1>Sim<N><B 2>Não<E>"
+    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Dardos de Fogo custam <FC 0,128,0>10 Káraves<END FC> cada. Quer comprar um?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_BuyIceDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Dardos de Gelo custam <FC 0,128,0>12 Escaravelhos<END FC> cada. Quer comprar um?<N><B 1>Sim<N><B 2>Não<E>"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Dardos de Gelo custam <FC 0,128,0>12 Káraves<END FC> cada. Quer comprar um?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_BuyAcidDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Dardos Ácidos custam <FC 0,128,0>12 Escaravelhos<END FC> cada. Quer comprar um?<N><B 1>Sim<N><B 2>Não<E>"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Dardos Ácidos custam <FC 0,128,0>12 Káraves<END FC> cada. Gostaria de comprar um?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_BuyRemoteControlBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_RemoteBeetle><N>Besouros de Captura: podem conter traços de amendoim. <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC> por 5 besouros. Quer comprar?<N><B 1>Sim<N><B 2>Não<E>"
+    "message": "<END TT><I HT_Texture_Icon_RemoteBeetle><N>Besouros de Captura: podem conter traços de amendoim. <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC> por 5 besouros. Quer comprar?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_BuyExplosiveBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Besouros Explosivos: proibidos em mais de 20 estados. <FC 0,128,0>10 Escaravelhos<END FC> por 5 besouros. Quer comprar?<N><B 1>Sim<N><B 2>Não<E>"
+    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Besouros Explosivos: proibidos em mais de 20 estados. <FC 0,128,0>10 Káraves<END FC> por 5 besouros. Quer comprar?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_Flex_BuyFireDart": {
-    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Dardos de Fogo custam <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC> cada. Quer comprar um?<N><B 1>Sim<N><B 2>Não<E>"
+    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Dardos de Fogo custam <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC> cada. Gostaria de comprar um?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_Flex_BuyIceDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Dardos de Gelo custam <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC> cada. Quer comprar um?<N><B 1>Sim<N><B 2>Não<E>"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Dardos de Gelo custam <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC> cada. Quer comprar um?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_Flex_BuyAcidDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Dardos Ácidos custam <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC> cada. Quer comprar um?<N><B 1>Sim<N><B 2>Não<E>"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Dardos Ácidos custam <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC> cada. Quer comprar um?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_Flex_BuyExplosiveBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Besouros Explosivos: proibidos em mais de 20 estados. <FC 0,128,0><SO HT_Objective_Shop_Price>Escaravelhos<END FC> para 5 besouros. Quer comprar?<N><B 1>Sim<N><B 2>Não<E>"
+    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Besouros Explosivos: proibidos em mais de 20 estados. <FC 0,128,0><SO HT_Objective_Shop_Price>Káraves<END FC> para 5 besouros. Quer comprar?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_DartBelt": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_DartBelt> Cinturão de Dardos - Guarda até 50 Dardos de cada tipo<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_DartBelt> Cinturão de Dardos - Guarda até 50 Dardos de cada tipo<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyDartBelt": {
-    "message": "<END TT>Comprar um Cinturão de Dardos por <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Comprar um Cinturão de Dardos por <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_Test": {
     "message": "<END TT>Por favor, olhe à vontade. Talvez encontre algo que te interesse.<E>"
@@ -63,40 +63,40 @@
     "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Besouros de Captura<N>Pilhas não inclusas.<E>"
   },
   "HT_Text_Shop_CaptureBeetles05": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Besouros de Captura x5<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Besouros de Captura x5<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles05": {
-    "message": "<END TT>Comprar 5 Besouros de Captura por <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Comprar 5 Besouros de Captura por <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_CaptureBeetles15": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Besouros de Captura x15<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Besouros de Captura x15<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles15": {
-    "message": "<END TT>Comprar 15 Besouros de Captura por <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Comprar 15 Besouros de Captura por <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_CaptureBeetles30": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Besouros de Captura x30<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Besouros de Captura x30<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles30": {
-    "message": "<END TT>Comprar 30 Besouros de Captura por <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Comprar 30 Besouros de Captura por <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_BeetleSatchel": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Sacola de Besouros - Guarda até 50 Besouros de Captura<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Sacola de Besouros - Guarda até 50 Besouros de Captura<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyBeetleSatchel": {
-    "message": "<END TT>Comprar Sacola de Besouros por <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Comprar Sacola de Besouros por <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_AcidDarts10": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Dardos Ácidos x10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Dardos Ácidos x10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyAcidDarts10": {
-    "message": "<END TT>Comprar 10 Dardos Ácidos por <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Comprar 10 Dardos Ácidos por <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_IceDarts10": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Dardos de Gelo x10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Dardos de Gelo x10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyIceDarts10": {
-    "message": "<END TT>Comprar 10 Dardos de Gelo por <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Comprar 10 Dardos de Gelo por <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_ExplosiveBeetle": {
     "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Besouros Explosivos<N>Se ingerido, buscar assistência médica imediatamente.<E>"
@@ -114,28 +114,28 @@
     "message": "<END TT><I HT_Texture_Icon_SilverAnkh> Ankh de Prata<N>Para aqueles que não podem comprar um Ankh de Ouro. Vai levar?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_GoldAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Ankh de Ouro<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos de Ônix<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Ankh de Ouro<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves de Ônix<END FC><E>"
   },
   "HT_Text_Shop_BuyGoldAnkh": {
-    "message": "<END TT>Comprar um Ankh de Ouro por <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos de Ônix<END FC>?<N>  <B 1> Sim<N>  <B 2> Não<E>"
+    "message": "<END TT>Comprar um Ankh de Ouro por <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves de Ônix<END FC>?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Shop_GoldAnkhPiece": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhPiece> Peça de Ankh de Ouro <N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos de Ônix<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhPiece> Peça de Ankh de Ouro <N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves de Ônix<END FC><E>"
   },
   "HT_Text_Shop_BuyGoldAnkhPiece": {
-    "message": "<END TT>Comprar uma peça de Ankh de Ouro por <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos de Ônix<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Comprar uma peça de Ankh de Ouro por <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves de Ônix<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_GateKey03": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GlyphKey02> Chave de Caverna<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos de Ônix<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GlyphKey02> Chave de Caverna<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves de Ônix<END FC><E>"
   },
   "HT_Text_Shop_BuyGateKey03": {
-    "message": "<END TT>Comprar uma Chave de Caverna por <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos de Ônix<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Comprar uma Chave de Caverna por <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves de Ônix<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_AtunEyes04": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Olho de Atun x4<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos de Ônix<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Olho de Atun x4<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves de Ônix<END FC><E>"
   },
   "HT_Text_Shop_BuyAtunEyes04": {
-    "message": "<END TT>Comprar 4 Olhos de Atun por <FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos de Ônix<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Comprar 4 Olhos de Atun por <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves de Ônix<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_Glyph_1": {
     "message": "<DHP><DP><END TT>Um glifo.<N> Alguém armou a bomba.<E>"
@@ -162,40 +162,40 @@
     "message": "<END TT>Outro glifo diferente.<N>Mexa \"zig\"! Para grande justiça. Você quer comprá-lo?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_Burble": {
-    "message": "<DHP><DP><END TT>Pássaro Múmia<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT>Pássaro Múmia<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyBurble": {
-    "message": "<END TT>Um Pássaro Múmia custa <FC 0,128,0><SO HT_Objective_Shop_Price> escaravelhos<END FC>. Quer comprar um?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Pássaros Múmia custam <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC> cada. Quer comprar um?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_Pokemon": {
-    "message": "<DHP><DP><END TT>Criatura Cascuda<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT>Criatura Cascuda<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyPokemon": {
-    "message": "<END TT>Uma criatura cascuda custa <FC 0,128,0><SO HT_Objective_Shop_Price> escaravelhos<END FC>. Quer comprar uma?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Criaturas Cascudas custam <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC> cada. Gostaria de comprar uma?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_Rat": {
-    "message": "<DHP><DP><END TT>Rato<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT>Rato<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyRat": {
-    "message": "<END TT>Um rato custa <FC 0,128,0><SO HT_Objective_Shop_Price> escaravelhos<END FC>. Vai comprar?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Ratos custam <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC> cada. Gostaria de comprar um?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_Armadillo": {
-    "message": "<DHP><DP><END TT>Pássaro Peteca<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT>Pássaro Peteca<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyArmadillo": {
-    "message": "<END TT>Os Pássaros Peteca custam <FC 0,128,0><SO HT_Objective_Shop_Price> escaravelhos<END FC> cada. Quer comprar um?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Os Pássaros Peteca custam <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC> cada. Gostaria de comprar um?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_Lizard": {
-    "message": "<DHP><DP><END TT>Peru Depenado<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT>Peru Depenado<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyLizard": {
-    "message": "<END TT>Um Peru Depenado custa <FC 0,128,0><SO HT_Objective_Shop_Price> escaravelhos<END FC>. Quer comprar um?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Perus Depenados custam <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC> cada. Quer comprar um?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_Piranha": {
-    "message": "<DHP><DP><END TT>Sapo Pequeno<N><FC 0,128,0><SO HT_Objective_Shop_Price> Escaravelhos<END FC><E>"
+    "message": "<DHP><DP><END TT>Sapo Pequeno<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"
   },
   "HT_Text_Shop_BuyPiranha": {
-    "message": "<END TT>Os sapos custam <FC 0,128,0><SO HT_Objective_Shop_Price> escaravelhos<END FC> cada. Vai levar?<N>  <B 2> Não<N>  <B 1> Sim<E>"
+    "message": "<END TT>Os sapos custam <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC> cada. Gostaria de comprar um?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Shop_BuyMonster": {
     "message": "<END TT>É um belo espécime, te darei <SO HT_Objective_Shop_Price> por ele.<N>  <B 2> Acho que não<N>  <B 1> Trato feito<E>"

@@ -468,7 +468,7 @@
     "message": "Thank you for being so honest and upstanding!<E>"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel02C": {
-    "message": "I can't thank you enough for what you've done!<E>"
+    "message": "Não posso lhe agradecer o bastante por tudo que você fez!<E>"
   },
   "HT_Text_Aby_Museum_Sarcoph_Jewel03": {
     "message": "Thank you! Thank you so much!!! Now that all the jewels have been returned, my conscience is finally free of guilt! You are incredible!<E>"
@@ -531,46 +531,46 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou uma <FC 0,128,0>Chave Antiga<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_Sign_GrandCanal01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Grand Canal<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Grande Canal<END FC> ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_NarrowCanal01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Narrow Canal<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Canal Estreito<END FC> ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_AbydosPlaza01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Abydos Plaza<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Praça de Abydos<END FC> ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_ToGrandCanal01": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Grand Canal<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ Para o <FC 128,64,0>Grande Canal<END FC> ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_ToNarrowCanal01": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Narrow Canal<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ Para o <FC 128,64,0>Canal Estreito<END FC> ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_ToAbydosPlaza01": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Abydos Plaza<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ Para a <FC 128,64,0>Praça de Abydos<END FC> ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_Museum01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Abydos Museum<END FC> ]---<N><CNTR>---[ Donations Wanted! ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Museu de Abydos<END FC> ]---<N><CNTR>---[ Aceitamos Doações! ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_WallsMinigame01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Corridor of Champions<END FC> ]---<N><CNTR>---[ Somersault over 2 meters to compete! ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Corredor dos Campeões<END FC> ]---<N><CNTR>---[ Dê um mortal acima de 2 metros para competir! ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_Shop01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Montu's Monster Shop<END FC> ]---<N><CNTR>---[ New monsters now in stock! ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Loja de Monstros de Montu<END FC> ]---<N><CNTR>---[ Novos monstros agora em estoque! ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_Inventor01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Kemmet the Inventor<END FC> ]---<N><CNTR>---[ No visitors unless on official business! ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Kemmet, o Inventor<END FC> ]---<N><CNTR>---[ Sem visitas a não ser em negócios oficiais! ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_PairsMinigame01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Paneb's Pair Matching Place<END FC> ]---<N><CNTR>---[ Make money with memory! ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Ponto de Juntar Pares de Paneb<END FC> ]---<N><CNTR>---[ Faça dinheiro com a memória! ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_SimonMinigame01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Sorkon's Sequence Shack<END FC> ]---<N><CNTR>---[ Successful sequences score <FC 0,128,0>Scarabs<END FC>! ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Barraca de Sequências de Sorkon<END FC> ]---<N><CNTR>---[ Sequências bem-sucedidas valem <FC 0,128,0>Káraves<END FC>! ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_ShootingMinigame01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Tefnut's Target Tavern<END FC> ]---<N><CNTR>---[ Prove your target shooting prowess! ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Taverna de Alvos de Tefnut<END FC> ]---<N><CNTR>---[ Mostre sua proeza em tiro ao alvo! ]---<E>"
   },
   "HT_Text_Aby_Canal_Sign_ElectricWater": {
-    "message": "<CNTR>---[ <FC 128,64,0>Swimming Prohibited<END FC> ]---<N><CNTR>---[ Warning! ALL water surrounding the city of <FC 128,64,0>Abydos<END FC> has been electrified. Please keep out of the water. ]---<E>"
+    "message": "<CNTR>---[ <FC 128,64,0>Proibido Nadar<END FC> ]---<N><CNTR>---[ Atenção! TODA a água ao redor da cidade de <FC 128,64,0>Abydos<END FC> foi eletrificada. Por favor, mantenha-se fora da água. ]---<E>"
   },
   "HT_Text_Aby_Canal_BoatOwner_Intro01": {
     "message": "Hi, I’m Khonsu, the boat captain. You seem like the typical guy who loves adventure. My services include holiday trips of all kinds, at very reasonable prices.<P>If you like, I can provide transport to <FC 128,64,0>Heliopolis<END FC> for a mere <FC 0,128,0>25 Scarabs<END FC>.<N>  <B 2> Not interested<N>  <B 1> Let's go<E>"
@@ -585,7 +585,7 @@
     "message": "Muito bem, me avise se mudar de ideia.<E>"
   },
   "HT_Text_Aby_Canal_BoatOwner_NotEnoughMoney": {
-    "message": "Sorry, but you don't have enough <FC 0,128,0>Scarabs<END FC>.<E>"
+    "message": "Desculpe, mas você não têm <FC 0,128,0>Káraves<END FC> o bastante.<E>"
   },
   "HT_Text_Aby_Canal_GateGuard_IdentificationIntro": {
     "message": "Preciso ver alguma identificação antes de deixá-lo passar.<E>"

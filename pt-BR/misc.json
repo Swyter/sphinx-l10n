@@ -123,7 +123,7 @@
     "message": "Muito bem! Você passou a rodada <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>!<E>"
   },
   "HT_Text_MG_Simon_Win": {
-    "message": "Meus parabéns, você venceu! Como prêmio, você ganhou <FC 0,128,0><SO HT_Objective_Simon_Prize> Escaravelhos<END FC>!<E>"
+    "message": "Meus parabéns, você venceu! Como prêmio, você ganhou <FC 0,128,0><SO HT_Objective_Simon_Prize> Káraves<END FC>!<E>"
   },
   "HT_Text_MG_Simon_Restart": {
     "message": "Você está no meio de um jogo! O que você quer?<N>  <B 1> Sair<PC 1><B 2> Recomeçar<N>  <B 3> Continuar<PC 1><B 4> Instruções<E>"
@@ -150,7 +150,7 @@
     "message": "<DHP><DP><END TT>Você nunca completou esse jogo... <END FC>"
   },
   "HT_Text_MG_Pairs_Win": {
-    "message": "Parabéns! Você ganhou <FC 0,128,0><SO HT_Objective_Pairs_Won> Escaravelhos<END FC>!<E>"
+    "message": "Parabéns! Você ganhou <FC 0,128,0><SO HT_Objective_Pairs_Won> Káraves<END FC>!<E>"
   },
   "HT_Text_MG_Pairs_Restart": {
     "message": "Você está no meio de um jogo! O que você quer?<N>  <B 1> Sair<PC 1><B 2> Recomeçar<N>  <B 3> Continuar<PC 1><B 4> Instruções<E>"
@@ -474,7 +474,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Coroa Sagrada de Heliópolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNoteFirst": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A new note has been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>To view the <FC 0,128,0>Book of Sphinx<END FC><N>press <SB HT_PadAction_BOS_Show><P><ES HT_Text_ES_S_HelpText><CNTR>The <FC 0,128,0>Notes<END FC> section contains<N>important information about your quest.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Uma nova anotação foi adicionada<N>ao <FC 0,128,0>Livro de Sphinx<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Para ver o <FC 0,128,0>Livro de Sphinx<END FC><N>aperte <SB HT_PadAction_BOS_Show><P><ES HT_Text_ES_S_HelpText><CNTR> A seção de <FC 0,128,0>Anotações<END FC> contém informações importantes sobre a sua jornada.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNote": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Uma nova anotação foi adicionada<N>ao <FC 0,128,0>Livro de Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>"
@@ -483,19 +483,19 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Novas anotações foram adicionadas<N>ao <FC 0,128,0>Livro de Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter2Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Atun Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the second <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu os itens que a Múmia<N>coletou no <FC 128,64,0>Castelo de Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Estátua de Atun<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>É dito que essa efígie possui poderes mágicos.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a segunda <FC 0,128,0>Joia Roubada de Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Os curadores do <FC 128,64,0>Museu de Abydos<END FC><N> ficarão muito felizes em vê-la.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter3Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Medicine Bag<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This specially lined bag will preserve any<N>delicate medicinal ingredients placed inside.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the third <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu os itens que a Múmia<N>coletou no <FC 128,64,0>Castelo de Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Bolsa de Remédios<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Essa bolsa especialmente revestida irá preservar<N>qualquer ingrediente medicinal guardado dentro.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a terceira <FC 0,128,0>Joia Roubada de Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Os curadores do <FC 128,64,0>Museu de Abydos<END FC><N>ficarão muito felizes em vê-la.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter4Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Hands of Amun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This artifact gives Sphinx the strength to<N>push and pull extremely heavy objects.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the fourth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu os itens que a Múmia<N>coletou no <FC 128,64,0>Castelo de Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu as <FC 0,128,0>Mãos de Ámon<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Esse artefato dá a Sphinx a força para<N>empurrar e puxar objetos extremamente pesados.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a quarta <FC 0,128,0>Joia Roubada de Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Os curadores do <FC 128,64,0>Museu de Abydos<END FC><N>ficarão muito felizes em vê-la.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter5Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Royal Invitation<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This official document invites you to<N>meet with the Pharaoh of <FC 128,64,0>Heliopolis<END FC>.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the fifth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu os itens que a Múmia<N>coletou no <FC 128,64,0>Castelo de Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu o <FC 0,128,0>Convite Real<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Esse documento oficial o convida a <N>ver o Faraó de <FC 128,64,0>Heliópolis<END FC>.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a quinta <FC 0,128,0>Joia Roubada de Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Os curadores do <FC 128,64,0>Museu de Abydos<END FC><N>ficarão muito felizes em vê-la.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter6Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Set<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>You got the sixth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu os itens que a Múmia<N>coletou no <FC 128,64,0>Castelo de Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Coroa Sagrada de Set<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Você conseguiu a sexta <FC 0,128,0>Joia Roubada de Abydos<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Os curadores do <FC 128,64,0>Museu de Abydos<END FC><N>ficarão muito felizes em vê-la.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_AtunDisc": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is an ancient <FC 0,128,0>Atun Disc<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It is a magical point which, when passed over, imbues a mysterious energy that enables you to run at very high speed.<P><ES HT_Text_ES_S_HelpText><CNTR>Unfortunately the effect is only temporary but they should prove invaluable for getting around <FC 128,64,0>Heliopolis<END FC> more efficiently.<E>"
