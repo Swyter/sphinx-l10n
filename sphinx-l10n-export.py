@@ -70,6 +70,19 @@ ignored_section_strings = [
     'HT_Text_Credits1',
     'HT_Text_Credits2',
     'HT_Text_Credits3',
+    'HT_Text_Shop_TestInventory',
+    'HT_Text_Shop_BronzeAnkh',
+    'HT_Text_Shop_BuyBronzeAnkh',
+    'HT_Text_Shop_SilverAnkh',
+    'HT_Text_Shop_BuySilverAnkh',
+    'HT_Text_Shop_Glyph_1',
+    'HT_Text_Shop_Glyph_2',
+    'HT_Text_Shop_Glyph_3',
+    'HT_Text_Shop_Glyph_4',
+    'HT_Text_Shop_BuyGlyph_1',
+    'HT_Text_Shop_BuyGlyph_2',
+    'HT_Text_Shop_BuyGlyph_3',
+    'HT_Text_Shop_BuyGlyph_4',
 ]
 
 data_read = []
@@ -96,6 +109,8 @@ print("head", HEADER_ROW)
 MARKER_HASHCODE_COLUMN       = data_read[HEADER_ROW].index("MARKER_HASHCODE")
 MARKER_LANGUAGE_START_COLUMN = data_read[HEADER_ROW].index("MARKER_LANGUAGE_START")
 MARKER_LANGUAGE_END_COLUMN   = data_read[HEADER_ROW].index("MARKER_LANGUAGE_END")
+
+MARKER_SRC_LANGUAGE_COLUMN   = MARKER_LANGUAGE_START_COLUMN + 1 # en_US; first language in the column range
 
 for cur in lang:
     # swy: check that this spreadsheet actually contains a column for this language, it can happen
@@ -167,7 +182,7 @@ for cur in lang:
             continue
 
         # swy: get rid of strings that have been changed to "REMOVED"
-        if row[MARKER_LANGUAGE_START_COLUMN + 1] and row[MARKER_LANGUAGE_START_COLUMN + 1] == "REMOVED":
+        if row[MARKER_SRC_LANGUAGE_COLUMN] and row[MARKER_SRC_LANGUAGE_COLUMN] == "REMOVED":
             continue
 
         # swy: ignore beta/technical strings that are used but don't have/need translatable text:
