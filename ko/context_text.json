@@ -1,7 +1,4 @@
 {
-  "HT_Text_Context_Test": {
-    "message": "시험 내용"
-  },
   "HT_Text_Context_UseItem": {
     "message": "아이템"
   },
@@ -58,9 +55,6 @@
   },
   "HT_Text_Context_Shop": {
     "message": "구매"
-  },
-  "HT_Text_Context_Blank": {
-    "message": " "
   },
   "HT_Text_Context_Linear": {
     "message": "직선"

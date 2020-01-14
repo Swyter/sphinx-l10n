@@ -71,23 +71,14 @@
   "HT_Text_Inv_Dsc_BookOfTheDead": {
     "message": "<ES HT_Text_ES_S_BOSStd>Ce livre d'incantations peut envoyer Khorb-Èye au Palais d'Uruk avec des Vases canopes pour la Momie.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_BronzeAnkh": {
-    "message": "N'APPARAÎT PAS DANS L'INVENTAIRE"
-  },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
     "message": "<ES HT_Text_ES_S_BOSStd>Insectes permettant de capturer des monstres.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_StandardDart": {
     "message": "<ES HT_Text_ES_S_BOSStd>Ces flèches se régénèrent à l'infini. Elles ne peuvent endommager que les monstres explosifs.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_KaDart": {
-    "message": "N'APPARAÎT PAS DANS L'INVENTAIRE"
-  },
   "HT_Text_Inv_Dsc_BounceDart": {
     "message": "<ES HT_Text_ES_S_BOSStd>Ces flèches se régénèrent à l'infini. Elles rebondissent plusieurs fois avant de toucher la cible. Elles ne peuvent endommager que les monstres explosifs.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_PossessionDart": {
-    "message": "N'APPARAÎT PAS DANS L'INVENTAIRE"
   },
   "HT_Text_Inv_Dsc_PhysNote": {
     "message": "<ES HT_Text_ES_S_BOSStd>Un message du Médecin pour Kemmet l'Inventeur.<ES HT_Text_ES_E_BOSStd>"
@@ -134,29 +125,14 @@
   "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
     "message": "<ES HT_Text_ES_S_BOSStd>Unijambiste, l'Aérotruche n'en est pas moins rapide...<P><ES HT_Text_ES_S_BOSStd>Lorsqu'elle attaque, elle fend l'air telle une flèche, rapide, précise et dangereuse.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat": {
-    "message": "À FAIRE"
-  },
-  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat_Fire": {
-    "message": "À FAIRE"
-  },
   "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
     "message": "L'Aigle momie est le plus grand des oiseaux. Mort vivant, il est plus résistant aux attaques que l'aigle en chair et en os.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_FL06_Undead_Man": {
-    "message": "À FAIRE<E>"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
     "message": "<ES HT_Text_ES_S_BOSStd>Le Fauvalame perturbe son adversaire en bondissant dans tous les sens avant de lancer une attaque plongeante ultra-rapide, toutes griffes dehors.<ES HT_Text_ES_S_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": "À FAIRE<E>"
-  },
   "HT_Text_Inv_Dsc_HD14_Crab": {
     "message": "<ES HT_Text_ES_S_BOSStd>Lorsqu'il se bat, le Matoucrabe agite ses pinces avec maladresse. Mais l'imprudent qui s'approche de trop près risque de s'en souvenir!<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_HD15_GuardTest": {
-    "message": "À FAIRE<E>"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
     "message": "<ES HT_Text_ES_S_BOSStd>Le Musopik porte une épée dans chaque main qu'il manie avec une habileté et une vitesse déconcertante...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Excellant dans le combat à la florentine, il met à mort sa victime lentement mais sûrement.<ES HT_Text_ES_E_BOSStd>"
@@ -191,9 +167,6 @@
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
     "message": "<ES HT_Text_ES_S_BOSStd>L'Exo-Piranha est une toute nouvelle variété de Piranha. Récemment découvert, il est plus fort et plus rapide que le restant de l'espèce.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_PI01_Green_Piranha": {
-    "message": "À FAIRE"
-  },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
     "message": "<ES HT_Text_ES_S_BOSStd>Poisson serpentiforme émettant des décharges électriques.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Les Anguilles électriques sont des animaux territoriaux et agressifs qui électrisent leurs eaux.<ES HT_Text_ES_E_BOSStd>"
   },
@@ -202,15 +175,6 @@
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
     "message": "<ES HT_Text_ES_S_BOSStd>Rapide et jaloux de son territoire, le Poisson d'or est apprécié par les riches qui en remplissent leurs étangs pour éloigner les visiteurs indésirables.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Se déplaçant avec une grande facilité, il attaque avant même d'avoir été remarqué.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_PI05_Aka_Turtle": {
-    "message": "À FAIRE"
-  },
-  "HT_Text_Inv_Dsc_PI06_Aka_Tentacle_Creature": {
-    "message": "À FAIRE"
-  },
-  "HT_Text_Inv_Dsc_PL01_Eye": {
-    "message": "À FAIRE"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
     "message": "<ES HT_Text_ES_S_BOSStd>L'Arbre magique possède une aptitude magique d'une grande beauté - mais si tu te laisses captiver par sa phosphorescence, gare à toi!<ES HT_Text_ES_E_BOSStd>"
@@ -262,9 +226,6 @@
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
     "message": "<ES HT_Text_ES_S_BOSStd>Le Maxitoro porte bien son nom, c'est rien de le dire...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Impossible de discuter avec lui, il fait tournoyer son marteau et le lance sur tout ce qui bouge. Sauve-toi!<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_HD09_Horned_ReptileMan": {
-    "message": "À FAIRE"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Clé de la Cour du Palais.<ES HT_Text_ES_E_BOSStd>"
@@ -439,9 +400,6 @@
   },
   "HT_Text_Inv_Dsc_AbyWellKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Vieille clé<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_DummyItem": {
-    "message": "OBJET FACTICE NE DEVANT PAS ÊTRE AJOUTÉ À L'INVENTAIRE"
   },
   "HT_Text_Inv_Dsc_AbyStairsKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Clé des escaliers du puits de la Cour, donnant accès aux Canaux d'Abydos.<ES HT_Text_ES_E_BOSStd>"

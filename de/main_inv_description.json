@@ -71,23 +71,14 @@
   "HT_Text_Inv_Dsc_BookOfTheDead": {
     "message": "<ES HT_Text_ES_S_BOSStd>Dieser Wälzer enthält die Beschwörungen, um Tragek-Orb mit einer Urne für die Mumie zum Palast von Uruk zu entsenden.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_BronzeAnkh": {
-    "message": "ERSCHEINT NICHT IM GEPÄCK"
-  },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
     "message": "<ES HT_Text_ES_S_BOSStd>Käfer, die zum Fangen von Monstern benutzt werden können.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_StandardDart": {
     "message": "<ES HT_Text_ES_S_BOSStd>Der Vorrat dieser magischen Pfeile erneuert sich immer wieder. Mit ihnen können lediglich explosive Monster verletzt werden.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_KaDart": {
-    "message": "ERSCHEINT NICHT IM GEPÄCK"
-  },
   "HT_Text_Inv_Dsc_BounceDart": {
     "message": "<ES HT_Text_ES_S_BOSStd>Der Vorrat dieser magischen Pfeile erneuert sich immer wieder. Sie prallen von Wänden ab und treffen ihr Ziel indirekt. Mit ihnen können lediglich explosive Monster verletzt werden.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_PossessionDart": {
-    "message": "ERSCHEINT NICHT IM GEPÄCK"
   },
   "HT_Text_Inv_Dsc_PhysNote": {
     "message": "<ES HT_Text_ES_S_BOSStd>Eine Notiz vom Arzt an Kemmet den Erfinder.<ES HT_Text_ES_E_BOSStd>"
@@ -134,29 +125,14 @@
   "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
     "message": "<ES HT_Text_ES_S_BOSStd>Der Federballvogel hat zwar nur ein Bein, ist aber trotzdem sehr schnell...<P><ES HT_Text_ES_S_BOSStd>Bei einem Angriff gleicht er einem Pfeil und kann auch entsprechenden Schaden anrichten.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat": {
-    "message": "ZU TUN"
-  },
-  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat_Fire": {
-    "message": "ZU TUN"
-  },
   "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
     "message": "Die Adlermumie ist einer der größten Vögel. Da sie untot sind, schaden ihnen Angriffe weniger als ihren lebenden Artgenossen.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_FL06_Undead_Man": {
-    "message": "ZU TUN<E>"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
     "message": "<ES HT_Text_ES_S_BOSStd>Messerkatzen verwirren ihre Gegner mit flinken Sprüngen, bevor sie mit ihren scharfen Krallen angreifen.<ES HT_Text_ES_S_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": "ZU TUN<E>"
-  },
   "HT_Text_Inv_Dsc_HD14_Crab": {
     "message": "<ES HT_Text_ES_S_BOSStd>Krabbenhände greifen ihre Gegner auf plumpe Art mit scharfen Krallen an. Wenn sie jedoch nah genug herankommen, sind die Resultate beachtlich.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_HD15_GuardTest": {
-    "message": "ZU TUN<E>"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
     "message": "<ES HT_Text_ES_S_BOSStd>Spitzschnäbel tragen in jeder Hand ein Schwert, womit sie sehr geschickt umgehen können...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Aufgrund des langsamen, aber qualvollen Todes, den sie ihren Gegnern bescheren, sind sie sehr unbeliebt.<ES HT_Text_ES_E_BOSStd>"
@@ -191,9 +167,6 @@
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
     "message": "<ES HT_Text_ES_S_BOSStd>Der Exo-Piranha ist ein verwandter des Piranhas. Er wurde erst vor wenigen Jahren entdeckt und ist stärker und schneller als der Rest seiner Art.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_PI01_Green_Piranha": {
-    "message": "ZU TUN"
-  },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
     "message": "<ES HT_Text_ES_S_BOSStd>Ein schlangengleicher Fisch, der elektrische Ladungen abgeben kann.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Elektrische Aale sind aggressiv und ortsgebunden. In größeren Schwärmen können sie sogar riesige Wassergebiete unter Strom setzen.<ES HT_Text_ES_E_BOSStd>"
   },
@@ -202,15 +175,6 @@
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
     "message": "<ES HT_Text_ES_S_BOSStd>Der Stachelfisch ist schnell und verteidigt sein Territorium äußerst aggressiv. Daher ist er eine beliebte Zutat in Wassergräben von Anwesen.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Er greift sein Opfer meistens schon an, bevor er entdeckt wird.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_PI05_Aka_Turtle": {
-    "message": "ZU TUN"
-  },
-  "HT_Text_Inv_Dsc_PI06_Aka_Tentacle_Creature": {
-    "message": "ZU TUN"
-  },
-  "HT_Text_Inv_Dsc_PL01_Eye": {
-    "message": "ZU TUN"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
     "message": "<ES HT_Text_ES_S_BOSStd>Das Baumtier besitzt ein wunderschönes, magisches Talent, aber wenn man sich davon verzaubern lässt, folgt meistens eine böse Überraschung.<ES HT_Text_ES_E_BOSStd>"
@@ -262,9 +226,6 @@
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
     "message": "<ES HT_Text_ES_S_BOSStd>Der Große Stier sollte vielleicht besser als Großer Dickkopf bezeichnet werden...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Mit Argumenten ist ihm nicht beizukommen, und er schlägt seinen Hammer auf alles, das ihm nicht passt. Ihm sollte man nicht in den Weg kommen!<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_HD09_Horned_ReptileMan": {
-    "message": "ZU TUN"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Schlüssel zum Palasthof.<ES HT_Text_ES_E_BOSStd>"
@@ -439,9 +400,6 @@
   },
   "HT_Text_Inv_Dsc_AbyWellKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Ein alter Schlüssel.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_DummyItem": {
-    "message": "DUMMY ITEM THAT SHOULD NEVER BE ADDED TO PLAYER INVENTORY"
   },
   "HT_Text_Inv_Dsc_AbyStairsKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Der Schlüssel zur Treppe im Brunnenhof. Ermöglicht den Zutritt zu den Kanälen von Abydos.<ES HT_Text_ES_E_BOSStd>"

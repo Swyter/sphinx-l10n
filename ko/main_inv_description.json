@@ -71,23 +71,14 @@
   "HT_Text_Inv_Dsc_BookOfTheDead": {
     "message": "<ES HT_Text_ES_S_BOSStd>이 책은 바스-켓과 미이라를 위한 납골단지들을 우루크 성으로 함께 보낼 수 있는 주문을 담고 있다.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_BronzeAnkh": {
-    "message": "재고에 나타나지 않는다"
-  },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
     "message": "<ES HT_Text_ES_S_BOSStd>괴물들을 포획하기 위해 사용되는 딱정벌레들.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_StandardDart": {
     "message": "<ES HT_Text_ES_S_BOSStd>다트들은 마법으로 무제한 생겨난다. 그러나 폭발성의 괴물들에게는 작은 상처만 줄 수 있을뿐이다.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_KaDart": {
-    "message": "재고에 나타나지 않는다"
-  },
   "HT_Text_Inv_Dsc_BounceDart": {
     "message": "<ES HT_Text_ES_S_BOSStd>다트들은 마법으로 무제한 생겨난다. 이것은 과녁들을 멀리서도 맞출 수 있지만, 폭발성의 괴물들에게는 작은 상처를 줄 수 있을뿐이다.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_PossessionDart": {
-    "message": "재고에 나타나지 않는다"
   },
   "HT_Text_Inv_Dsc_PhysNote": {
     "message": "<ES HT_Text_ES_S_BOSStd>의사가 발명가 케메트에 보내는 쪽지.<ES HT_Text_ES_E_BOSStd>"
@@ -134,29 +125,14 @@
   "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
     "message": "<ES HT_Text_ES_S_BOSStd>셔틀콕 새는 다리가 하나지만 매우 빠르다...<P><ES HT_Text_ES_S_BOSStd>공중을 날아갈 때는 다트 같아 보이며, 상당한 위력이 있다.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat": {
-    "message": "해야 할 것"
-  },
-  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat_Fire": {
-    "message": "해야 할 것"
-  },
   "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
     "message": "독수리 미이라는 가장 큰 새 중 하나이다. 언데드지만 살아있는 상대보다 더욱 생기 있다.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_FL06_Undead_Man": {
-    "message": "해야 할 것<E>"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
     "message": "<ES HT_Text_ES_S_BOSStd>나이프 고양이들은 뛰어난 도약과 반동으로 적들을 혼돈시켜서 번개같이 적에게 날카로운 발톱공격을 한다.<ES HT_Text_ES_S_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": "해야 할 것<E>"
-  },
   "HT_Text_Inv_Dsc_HD14_Crab": {
     "message": "<ES HT_Text_ES_S_BOSStd>크랩핸드들은 약간 귀찮은 방법으로 적을 공격한다. 그러나 근처에 오게 되면 고통을 감수해야만 할 것이다.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_HD15_GuardTest": {
-    "message": "해야 할 것<E>"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
     "message": "<ES HT_Text_ES_S_BOSStd>날카로운 부리들은 양손에 칼을 쥐고 있으며 적들 헷갈리게 만들어 공격을 한다...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>느리지만 적들에게 확실히 적을 압도하는 것으로 악명 높다.<ES HT_Text_ES_E_BOSStd>"
@@ -191,9 +167,6 @@
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
     "message": "<ES HT_Text_ES_S_BOSStd>견갑 피라냐는 파라나가 진화한 새로운 종이다. 최근에 들어서야 발견 되었으며, 다른 종류들보다 빠르고 강하다.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_PI01_Green_Piranha": {
-    "message": "할 것"
-  },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
     "message": "<ES HT_Text_ES_S_BOSStd>뱀 같은 물고기로 전기를 방출 한다.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>전기뱀장어들은 공격적이며 자신의 영역을 지키기 위해 여럿이 모여 넓은 지역의 물에 전기를 흐르게 하는 것으로 알려져 있다.<ES HT_Text_ES_E_BOSStd>"
   },
@@ -202,15 +175,6 @@
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
     "message": "<ES HT_Text_ES_S_BOSStd>빠르게 헤엄치며 자신의 영역을 지키는 척추물고기는 종종 고위층에서 자신의 경비를 위해 기르기도 한다.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>유연하게 움직이면서 적들이 감지하기도 전에 공격한다.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_PI05_Aka_Turtle": {
-    "message": "할 것"
-  },
-  "HT_Text_Inv_Dsc_PI06_Aka_Tentacle_Creature": {
-    "message": "할 것"
-  },
-  "HT_Text_Inv_Dsc_PL01_Eye": {
-    "message": "할 것"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
     "message": "<ES HT_Text_ES_S_BOSStd>나무 생물은 아름다운 마법의 힘을 가지고 있으며 인광의 빛으로 마법을 걸어서 밑에서 기습을 한다.<ES HT_Text_ES_E_BOSStd>"
@@ -262,9 +226,6 @@
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
     "message": "<ES HT_Text_ES_S_BOSStd>거대한 황소를 더 자세히 설명자면 아마 \"거대한 망나니\"라고나 할까...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>말도 통하지 않고 아무에게나 거칠게 망치를 휘두를 거야. 상대하지 않는 것이 좋아!<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_HD09_Horned_ReptileMan": {
-    "message": "할 것"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>궁전 안마당의 열쇠.<ES HT_Text_ES_E_BOSStd>"
@@ -439,9 +400,6 @@
   },
   "HT_Text_Inv_Dsc_AbyWellKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>오래된 열쇠.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_DummyItem": {
-    "message": "가짜 아이템으로 플레이어 재고에 추가되어서는 안 된다"
   },
   "HT_Text_Inv_Dsc_AbyStairsKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>우물 정원의 계단으로의 열쇠로써 아비도스 운하로의 접근을 허용한다.<ES HT_Text_ES_E_BOSStd>"

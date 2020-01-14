@@ -1,7 +1,4 @@
 {
-  "HT_Text_Context_Test": {
-    "message": "TEST CONTEXTE"
-  },
   "HT_Text_Context_UseItem": {
     "message": "UTILISER"
   },
@@ -58,9 +55,6 @@
   },
   "HT_Text_Context_Shop": {
     "message": "ACHETER"
-  },
-  "HT_Text_Context_Blank": {
-    "message": " "
   },
   "HT_Text_Context_Linear": {
     "message": "LINÉAIRE"

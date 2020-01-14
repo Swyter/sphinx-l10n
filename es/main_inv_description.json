@@ -71,23 +71,14 @@
   "HT_Text_Inv_Dsc_BookOfTheDead": {
     "message": "<ES HT_Text_ES_S_BOSStd>Libro que contiene indicaciones para enviar a Kan-Asta al Palacio de Uruk con Canopes para la Momia.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_BronzeAnkh": {
-    "message": "NO APARECE EN EL INVENTARIO"
-  },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
     "message": "<ES HT_Text_ES_S_BOSStd>Escarabajos que se usan para capturar monstruos.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_StandardDart": {
     "message": "<ES HT_Text_ES_S_BOSStd>Dardos que se regeneran mágicamente y nunca se agotan. Tan solo tienen fuerza para dañar a monstruos explosivos.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_KaDart": {
-    "message": "NO APARECE EN EL INVENTARIO"
-  },
   "HT_Text_Inv_Dsc_BounceDart": {
     "message": "<ES HT_Text_ES_S_BOSStd>Dardos que se regeneran mágicamente y nunca se agotan. Rebotan en superficies para golpear objetivos de forma indirecta. Tan solo tienen fuerza para herir monstruos explosivos.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_PossessionDart": {
-    "message": "NO APARECE EN EL INVENTARIO"
   },
   "HT_Text_Inv_Dsc_PhysNote": {
     "message": "<ES HT_Text_ES_S_BOSStd>Nota del Doctor para Kemmet el Inventor.<ES HT_Text_ES_E_BOSStd>"
@@ -134,29 +125,14 @@
   "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
     "message": "<ES HT_Text_ES_S_BOSStd>El Pájaro volante sólo tiene una pata, aunque es verdaderamente rápido.<P><ES HT_Text_ES_S_BOSStd>Cuando vuela a toda velocidad parece una flecha y puede causar mucho daño.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat": {
-    "message": "TO DO"
-  },
-  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat_Fire": {
-    "message": "TO DO"
-  },
   "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
     "message": "El Águila momia es uno de los pájaros más grandes conocidos. Son muertos vivientes. Más resistentes a rivales con vida en combate.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_FL06_Undead_Man": {
-    "message": "TO DO<E>"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
     "message": "<ES HT_Text_ES_S_BOSStd>El Gato afilado confunde a sus oponentes con hábiles saltos y brincos antes de lanzarse al ataque a gran velocidad y con las garras afiladas por delante.<ES HT_Text_ES_S_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": "TO DO<E>"
-  },
   "HT_Text_Inv_Dsc_HD14_Crab": {
     "message": "<ES HT_Text_ES_S_BOSStd>Atacan a sus enemigos con afiladas garras de forma torpe y pesada. Pero si se acercan lo suficiente, el resultado será muy doloroso.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_HD15_GuardTest": {
-    "message": "TO DO<E>"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
     "message": "<ES HT_Text_ES_S_BOSStd>Los Picofinos llevan una espada en cada mano que empuñan de forma espectacular y desconcertante.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>De mala fama por su lentitud, son capaces de derribar a cualquier oponente con el letal efecto de la doble estocada florentina.<ES HT_Text_ES_E_BOSStd>"
@@ -191,9 +167,6 @@
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
     "message": "<ES HT_Text_ES_S_BOSStd>La Exopiraña es la evolución de la especie Piraña. Se ha descubierto hace poco. Es más rápida y fuerte que otras especies de la misma familia.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_PI01_Green_Piranha": {
-    "message": "TO DO"
-  },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
     "message": "<ES HT_Text_ES_S_BOSStd>Pez con forma de serpiente capaz de emitir descargas eléctricas.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Son criaturas agresivas y territoriales y, en grandes grupos, puede electrificar enormes zonas acuáticas.<ES HT_Text_ES_E_BOSStd>"
   },
@@ -202,15 +175,6 @@
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
     "message": "<ES HT_Text_ES_S_BOSStd>Nadador rápido y protector de su territorio. Es a menudo elegido por la clase alta, que los utilizan en fosos aún más peligrosos para los intrusos.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Se mueven con mucha facilidad y son capaces de atacar a su presa incluso antes de ser vistos.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_PI05_Aka_Turtle": {
-    "message": "TO DO"
-  },
-  "HT_Text_Inv_Dsc_PI06_Aka_Tentacle_Creature": {
-    "message": "TO DO"
-  },
-  "HT_Text_Inv_Dsc_PL01_Eye": {
-    "message": "TO DO"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
     "message": "<ES HT_Text_ES_S_BOSStd>Puede que esta criatura posea una habilidad mágica maravillosa, pero si te dejas encantar por su brillo, una desagradable sorpresa te llegará desde abajo.<ES HT_Text_ES_E_BOSStd>"
@@ -262,9 +226,6 @@
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
     "message": "<ES HT_Text_ES_S_BOSStd>El Toro grande debería llamarse más exactamente \"Gran matón\"...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Es imposible razonar con él, ya que utiliza su martillo para golpear todo lo que le resulta molesto. ¡No te cruces en su camino!<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_HD09_Horned_ReptileMan": {
-    "message": "TO DO"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Llave del Patio de palacio.<ES HT_Text_ES_E_BOSStd>"
@@ -439,9 +400,6 @@
   },
   "HT_Text_Inv_Dsc_AbyWellKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Una llave antigua.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_DummyItem": {
-    "message": "OBJETO FICTICIO QUE NUNCA DEBERÍA AÑADIRSE AL INVENTARIO DEL JUGADOR"
   },
   "HT_Text_Inv_Dsc_AbyStairsKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Llave de las escaleras del patio que dan acceso a los canales de Abydos.<ES HT_Text_ES_E_BOSStd>"
