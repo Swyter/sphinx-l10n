@@ -498,7 +498,7 @@
     "message": "Very well sir, feel free to have a look around and inspect our top quality monsters.<E>"
   },
   "HT_Text_Aby_Shop_KeeperWelcomeBack": {
-    "message": "Welcome to <FC 128,64,0>Montu's Monster Shop<END FC>!<P>How I can help you today?<N>  <B 1> Buy monsters<N>  <B 2> Sell monsters<E>"
+    "message": "Welcome to <FC 128,64,0>Montu's Monster Shop<END FC>!<P>How can I help you today?<N>  <B 1> Buy monsters<N>  <B 2> Sell monsters<E>"
   },
   "HT_Text_Aby_Shop_KeeperNoMonsters": {
     "message": "But you don't have any monsters to sell me...<E>"

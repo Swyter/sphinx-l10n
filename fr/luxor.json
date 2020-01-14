@@ -375,7 +375,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Active un levier: approche et appuie sur <SB HT_Action_LeverDown><ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_Help_UseSarco": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>La <FC 0,128,0>Clé du Sarcophage<END FC> te permet d'en utiliser un Sarcophage: place-toi devant et appuie sur <SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>La <FC 0,128,0>Clé du Sarcophage<END FC> te permet d'utiliser un Sarcophage: place-toi devant et appuie sur <SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Pushable": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu peux pousser et tirer cet objet.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Appuie sur <SB HT_Action_Grab> quand tu es près de lui<P><ES HT_Text_ES_S_HelpText><N><CNTR>puis utilise <SB HT_PadAction_PLR_MovePlr> pour pousser ou tirer.<E>"

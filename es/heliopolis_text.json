@@ -873,7 +873,7 @@
     "message": "¡Saludos! Siempre es bueno ver una cara nueva por aquí. No solemos recibir visitas.<P>Soy Shetta, la sanadora del <FC 128,64,0>Poblado beduino<END FC>. Conozco los rituales y los encantamientos de curación antiguos.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_Prompt01": {
-    "message": "¿Qué te trae hoy por nuestro poblado?<N>  <B 1> Curarme<N>  <B 2> <FC 0,128,0>Trozo de Ankh<END FC> Ritual<N>  <B 3> Nada en especial<E>"
+    "message": "¿Qué te trae hoy por nuestro poblado?<N>  <B 1> Curarme<N>  <B 2> Ritual de <FC 0,128,0>Trozo de Ankh<END FC><N>  <B 3> Nada en especial<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingPrompt01": {
     "message": "Puedo recuperar toda tu salud por <FC 0,128,0>50 skarabs<END FC>.<N>  <B 1> Cúrame<N>  <B 2> Déjalo<E>"

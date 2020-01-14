@@ -858,7 +858,7 @@
     "message": "Benvenuto, straniero! Se sai riconoscere i bei <FC 0,128,0>Coleotteri da cattura<END FC>, sei nel posto giusto!<P>Io ho solo il meglio tra i coleotteri addestrati, e garantisco che vanno esattamente dove tu vuoi.<P>Dai un'occhiata alla mia mercanzia.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIntro01": {
-    "message": "Anche se al momento sono ben fornito, temo che in futuro la situazione potrebbe cambiare.<P>Vedi, il mio <FC 0,128,0>Vaso d'allevamento per coleotteri<END FC> speciale è sparito diversi giorni fa.<P>Se non lo ritroverò presto, non potrò allevare altri coleotteri e rischio di dover chiudere bottega!<P>Sembra che tu viaggi molto, quindi se dovessi trovare il mio <FC 0,128,0>Vaso allevamento coleotteri<END FC>, ti prego di riportarmelo.<E>"
+    "message": "Anche se al momento sono ben fornito, temo che in futuro la situazione potrebbe cambiare.<P>Vedi, il mio <FC 0,128,0>Vaso d'allevamento per coleotteri<END FC> speciale è sparito diversi giorni fa.<P>Se non lo ritroverò presto, non potrò allevare altri coleotteri e rischio di dover chiudere bottega!<P>Sembra che tu viaggi molto, quindi se dovessi trovare il mio <FC 0,128,0>Vaso d'allevamento per coleotteri<END FC>, ti prego di riportarmelo.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIncomplete01": {
     "message": "Ho ancora scorte sufficienti a riempire gli scaffali, ma non dureranno a lungo.<E>"
@@ -873,7 +873,7 @@
     "message": "Salute! È sempre bello vedere facce nuove: qui da noi i visitatori sono rari.<P>Sono Shetta, la guaritrice dell'<FC 128,64,0>Avamposto beduino<END FC>. Sono piuttosto abile negli antichi incantesimi e nei rituali di guarigione.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_Prompt01": {
-    "message": "Cosa ti porta nel nostro avamposto?<N>  <B 1> Guarigione<N>  <B 2> <FC 0,128,0>Pezzo d'Ankh<END FC> Rituale<N>  <B 3> Niente di speciale<E>"
+    "message": "Cosa ti porta nel nostro avamposto?<N>  <B 1> Guarigione<N>  <B 2> Rituale <FC 0,128,0>Pezzo d'Ankh<END FC><N>  <B 3> Niente di speciale<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingPrompt01": {
     "message": "Posso ripristinare la tua salute per <FC 0,128,0>50 Scarabei<END FC>.<N>  <B 1> Guariscimi<N>  <B 2> Non importa<E>"
@@ -960,7 +960,7 @@
     "message": "Anni fa, caddi per uno strano portale e rimasi bloccato qui. Non è che mi dispiaccia.<P>Ora ho la mia passione: collezionare e allevare coleotteri.<P>Avevo una collezione di rari coleotteri esplosivi comandati a distanza, ma poche settimane fa una tempesta di sabbia me li ha portati via insieme alla <FC 0,128,0>Sacca con coleotteri<END FC> di scorta. Eh, la vita è fatta di alti e bassi!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_GotBeetleBreederItem": {
-    "message": "<N><CNTR>Hai trovato il <FC 0,128,0>Vaso allevamento coleotteri<END FC>!<P><CNTR>L'allevatore di coleotteri dell'<FC 128,64,0>Avamposto beduino<END FC> ne sarà felice.<E>"
+    "message": "<N><CNTR>Hai trovato il <FC 0,128,0>Vaso d'allevamento per coleotteri<END FC>!<P><CNTR>L'allevatore di coleotteri dell'<FC 128,64,0>Avamposto beduino<END FC> ne sarà felice.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_GotRosettaStone": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai la <FC 0,128,0>Stele di Rosetta<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Quest'antica tavola ti permette di<N><CNTR>decifrare il testo degli antichi!<ES HT_Text_ES_S_HelpText><E>"

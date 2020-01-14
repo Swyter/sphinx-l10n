@@ -3,7 +3,7 @@
     "message": "Gli abitanti di <FC 128,64,0>Abydos<END FC> hanno espresso il loro sincero ringraziamento per le buone azioni compiute per la città.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation1b": {
-    "message": "La nostra bella città ha vissuto di recenti un periodo di grande agitazione. Sembra che un potere superiore sia deciso a portarci solo sfortuna e infelicità.<E>"
+    "message": "La nostra bella città ha vissuto di recente un periodo di grande agitazione. Sembra che un potere superiore sia deciso a portarci solo sfortuna e infelicità.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation1c": {
     "message": "Il tuo arrivo e le tue gesta eroiche hanno riacceso la speranza negli abitanti di <FC 128,64,0>Abydos<END FC>.<E> "
@@ -666,7 +666,7 @@
     "message": "Il messaggio è per me?<N>  <B 1> Sì<N>  <B 2> No<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Accept01": {
-    "message": "Ah, ottimo! Vediamo...<P>Oh santi numi, davvero una brutta notizia. <FC 0,128,0>Erbe medicinali<END FC>, mmm...<P>Queste crescono effettivamente intorno ad <FC 128,64,0>Abydos<END FC>, ma sono piante molto delicate e muoiono poco dopo essere state reccolte.<P>Ti servirebbe proprio una <FC 0,128,0>Borsa delle medicine<END FC> per mantenerle fresche. Temo di non avere niente del genere nel mio laboratorio.<P>L'unica cosa che penso ti possa interessare al momento è questa. Non so bene a cosa serva, però: forse tu puoi capirci qualcosa?<E>"
+    "message": "Ah, ottimo! Vediamo...<P>Oh santi numi, davvero una brutta notizia. <FC 0,128,0>Erbe medicinali<END FC>, mmm...<P>Queste crescono effettivamente intorno ad <FC 128,64,0>Abydos<END FC>, ma sono piante molto delicate e muoiono poco dopo essere state raccolte.<P>Ti servirebbe proprio una <FC 0,128,0>Borsa delle medicine<END FC> per mantenerle fresche. Temo di non avere niente del genere nel mio laboratorio.<P>L'unica cosa che penso ti possa interessare al momento è questa. Non so bene a cosa serva, però: forse tu puoi capirci qualcosa?<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Decline01": {
     "message": "Bah! Penso che tu mi stia mentendo!<E>"
