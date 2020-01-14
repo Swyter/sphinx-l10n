@@ -38,9 +38,6 @@
   "HT_Text_Shop_Test": {
     "message": "<END TT>Por favor, olhe à vontade. Talvez encontre algo que te interesse.<E>"
   },
-  "HT_Text_Shop_TestInventory": {
-    "message": "<END TT>Seu inventário foi esvaziado. Tenha um bom dia!<E>"
-  },
   "HT_Text_Shop_Sorry": {
     "message": "<END TT>Desculpe, mas você não tem dinheiro para comprar isso.<E>"
   },
@@ -101,18 +98,6 @@
   "HT_Text_Shop_ExplosiveBeetle": {
     "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Besouros Explosivos<N>Se ingerido, buscar assistência médica imediatamente.<E>"
   },
-  "HT_Text_Shop_BronzeAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_BronzeAnkh> Ankh de Bronze<N>Um Ankh feito de bronze, é o modelo mais fraco do mercado.<E>"
-  },
-  "HT_Text_Shop_BuyBronzeAnkh": {
-    "message": "<END TT><I HT_Texture_Icon_BronzeAnkh> Ankh de Bronze<N>Um Ankh feito de bronze, é o modelo mais fraco do mercado. Quer comprar um?<N><B 1>Sim<N><B 2>Obrigado, mas hoje não"
-  },
-  "HT_Text_Shop_SilverAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_SilverAnkh> Ankh de Prata<N>Para quem não pode comprar um Ankh de Ouro.<E>"
-  },
-  "HT_Text_Shop_BuySilverAnkh": {
-    "message": "<END TT><I HT_Texture_Icon_SilverAnkh> Ankh de Prata<N>Para aqueles que não podem comprar um Ankh de Ouro. Vai levar?<N><B 1>Sim<N><B 2>Não<E>"
-  },
   "HT_Text_Shop_GoldAnkh": {
     "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Ankh de Ouro<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves de Ônix<END FC><E>"
   },
@@ -136,30 +121,6 @@
   },
   "HT_Text_Shop_BuyAtunEyes04": {
     "message": "<END TT>Comprar 4 Olhos de Atun por <FC 0,128,0><SO HT_Objective_Shop_Price> Káraves de Ônix<END FC>?<N>  <B 2> Não<N>  <B 1> Sim<E>"
-  },
-  "HT_Text_Shop_Glyph_1": {
-    "message": "<DHP><DP><END TT>Um glifo.<N> Alguém armou a bomba.<E>"
-  },
-  "HT_Text_Shop_Glyph_2": {
-    "message": "<DHP><DP><END TT>Outro glifo. <N>Como vai, senhor?<E> "
-  },
-  "HT_Text_Shop_Glyph_3": {
-    "message": "<DHP><DP><END TT>Um glifo diferente. <N>Você não tem chance de sobreviver, tome seu tempo.<E>"
-  },
-  "HT_Text_Shop_Glyph_4": {
-    "message": "<DHP><DP><END TT>Outro glifo diferente. <N>Mexa \"zig\"! Para grande justiça.<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_1": {
-    "message": "<END TT>Um glifo. <N>Alguém armou a bomba para nós. Você quer comprá-lo?<N><B 1>Sim<N><B 2>Não<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_2": {
-    "message": "<END TT>Outro glifo. <N>Como vai, senhor? Você quer comprá-lo?<N><B 1>Sim<N><B 2>Não<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_3": {
-    "message": "<END TT>Um glifo diferente. <N>Você não tem chance de sobreviver, tome seu tempo. Você quer comprá-lo?<N><B 1>Sim<N><B 2>Não<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_4": {
-    "message": "<END TT>Outro glifo diferente.<N>Mexa \"zig\"! Para grande justiça. Você quer comprá-lo?<N><B 1>Sim<N><B 2>Não<E>"
   },
   "HT_Text_Shop_Burble": {
     "message": "<DHP><DP><END TT>Pássaro Múmia<N><FC 0,128,0><SO HT_Objective_Shop_Price> Káraves<END FC><E>"

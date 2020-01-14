@@ -38,9 +38,6 @@
   "HT_Text_Shop_Test": {
     "message": "<END TT>Schau dich ruhig um. Vielleicht findest du etwas, das dich interessiert.<E>"
   },
-  "HT_Text_Shop_TestInventory": {
-    "message": "<END TT>Dein Gepäck wurde entleert. Einen schönen Tag noch.<E>"
-  },
   "HT_Text_Shop_Sorry": {
     "message": "<END TT>Tut mir Leid, aber dafür hast du nicht genug Geld.<E>"
   },
@@ -101,18 +98,6 @@
   "HT_Text_Shop_ExplosiveBeetle": {
     "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Explosionskäfer<N>Bei Verschlucken bitte umgehend einen Arzt aufsuchen.<E>"
   },
-  "HT_Text_Shop_BronzeAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_BronzeAnkh> Bronzeankh<N>Dies ist ein Mädchenankh, das einfachste Modell auf dem Markt.<E>"
-  },
-  "HT_Text_Shop_BuyBronzeAnkh": {
-    "message": "<END TT><I HT_Texture_Icon_BronzeAnkh> Bronzeankh<N>Dies ist ein Mädchenankh, das einfachste Modell auf dem Markt. Eines kaufen?<N><B 1>Ja<N><B 2>Nein, ich bin ein echter Mann"
-  },
-  "HT_Text_Shop_SilverAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_SilverAnkh> Silberankh<N>Für jene, die sich kein Goldankh leisten können.<E>"
-  },
-  "HT_Text_Shop_BuySilverAnkh": {
-    "message": "<END TT><I HT_Texture_Icon_SilverAnkh> Silberankh<N>Für jene, die sich kein Goldankh leisten können. Eines kaufen?<N><B 1>Für mehr reicht mein Geld leider nicht<N><B 2>Nein<E>"
-  },
   "HT_Text_Shop_GoldAnkh": {
     "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Goldankh<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyxskarabäen<END FC><E>"
   },
@@ -136,30 +121,6 @@
   },
   "HT_Text_Shop_BuyAtunEyes04": {
     "message": "<END TT>4 Atunaugen für <FC 0,128,0><SO HT_Objective_Shop_Price> Onyxskarabäen<END FC> kaufen?<N>  <B 2> Nein<N>  <B 1> Ja<E>"
-  },
-  "HT_Text_Shop_Glyph_1": {
-    "message": "<DHP><DP><END TT>Eine Skulptur.<N>Jemand soll die Bombe zünden.<E>"
-  },
-  "HT_Text_Shop_Glyph_2": {
-    "message": "<DHP><DP><END TT>Eine weitere Skulptur. <N>Wie geht es euch Herren.<E>"
-  },
-  "HT_Text_Shop_Glyph_3": {
-    "message": "<DHP><DP><END TT>Eine andere Skulptur. <N>Du hast keine Überlebenschance.<E>"
-  },
-  "HT_Text_Shop_Glyph_4": {
-    "message": "<DHP><DP><END TT>Eine weitere andere Skulptur. <N>Bewege dich 'zick' ! Für große Gerechtigkeit.<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_1": {
-    "message": "<END TT>Eine Skulptur.<N>Jemand soll die Bombe zünden. Möchtest du sie kaufen?<N><B 1>Ja<N><B 2>Nein<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_2": {
-    "message": "<END TT>Eine weitere Skulptur. <N>Wie geht es euch Herren. Möchtest du sie kaufen?<N><B 1>Ja<N><B 2>Nein<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_3": {
-    "message": "<END TT>Eine andere Skulptur. <N>Du hast keine Überlebenschance. Möchtest du sie kaufen?<N><B 1>Ja<N><B 2>Nein<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_4": {
-    "message": "<END TT>Eine weitere andere Skulptur. <N>Bewege dich 'zick' ! Für große Gerechtigkeit. Möchtest du sie kaufen?<N><B 1>Ja<N><B 2>Nein<E>"
   },
   "HT_Text_Shop_Burble": {
     "message": "<DHP><DP><END TT>Vogelmumie<N><FC 0,128,0><SO HT_Objective_Shop_Price> Skarabäen<END FC><E>"

@@ -38,9 +38,6 @@
   "HT_Text_Shop_Test": {
     "message": "<END TT>Jette un œil, tu trouveras peut-être autre chose.<E>"
   },
-  "HT_Text_Shop_TestInventory": {
-    "message": "<END TT>Ton inventaire a été libéré de son contenu. Bonne journée!<E>"
-  },
   "HT_Text_Shop_Sorry": {
     "message": "<END TT>Désolé, tu n'as pas assez d'argent.<E>"
   },
@@ -101,18 +98,6 @@
   "HT_Text_Shop_ExplosiveBeetle": {
     "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Insectes explosifs<N>Consulter un médecin en cas d'ingestion.<E>"
   },
-  "HT_Text_Shop_BronzeAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_BronzeAnkh> Ankh de bronze<N>Un Ankh de femmelette, le plus faible du marché.<E>"
-  },
-  "HT_Text_Shop_BuyBronzeAnkh": {
-    "message": "<END TT><I HT_Texture_Icon_BronzeAnkh> Ankh de bronze<N>Un Ankh de femmelette, le plus faible du marché. En acheter un?<N><B 1>Oui<N><B 2>Ça va pas, non?!"
-  },
-  "HT_Text_Shop_SilverAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_SilverAnkh> Ankh d'argent<N>Quand on ne peut pas s'offrir d'Ankh d'or.<E>"
-  },
-  "HT_Text_Shop_BuySilverAnkh": {
-    "message": "<END TT><I HT_Texture_Icon_SilverAnkh> Ankh d'argent<N>Quand on ne peut pas s'offrir d'Ankh d'or. En acheter un?<N><B 1>Oui<N><B 2>Non<E>"
-  },
   "HT_Text_Shop_GoldAnkh": {
     "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Ankh d'or<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabées d'onyx<END FC><E>"
   },
@@ -136,30 +121,6 @@
   },
   "HT_Text_Shop_BuyAtunEyes04": {
     "message": "<END TT>Acheter 4 Yeux d'Atun pour <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabées d'onyx<END FC>?<N>  <B 2> Non<N>  <B 1> Oui<E>"
-  },
-  "HT_Text_Shop_Glyph_1": {
-    "message": "<DHP><DP><END TT>Un Glyphe.<N>Ça sent le cramé!<E>"
-  },
-  "HT_Text_Shop_Glyph_2": {
-    "message": "<DHP><DP><END TT>Un autre  Glyphe. <N>Ça va chauffer!<E>"
-  },
-  "HT_Text_Shop_Glyph_3": {
-    "message": "<DHP><DP><END TT>Et encore un Glyphe. <N>Ça sent le sapin!<E>"
-  },
-  "HT_Text_Shop_Glyph_4": {
-    "message": "<DHP><DP><END TT>Encore un Glyphe. <N>Ça va  barder!<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_1": {
-    "message": "<END TT>Un Glyphe.<N>Ça sent le cramé! Tu veux l'acheter?<N><B 1>Oui<N><B 2>Non<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_2": {
-    "message": "<END TT>Un autre Glyphe. <N>Ça va chauffer! Veux-tu l'acheter?<N><B 1>Oui<N><B 2>Non<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_3": {
-    "message": "<END TT>Et encore un Glyphe. <N>Ça sent le sapin! Tu veux l'acheter?<N><B 1>Oui<N><B 2>Non<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_4": {
-    "message": "<END TT>Encore un Glyphe. <N>Ça va  barder! Tu veux l'acheter?<N><B 1>Oui<N><B 2>Non<E>"
   },
   "HT_Text_Shop_Burble": {
     "message": "<DHP><DP><END TT>Oiseau momie<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabées<END FC><E>"

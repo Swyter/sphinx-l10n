@@ -38,9 +38,6 @@
   "HT_Text_Shop_Test": {
     "message": "<END TT>더 둘러보십시오. 다른 것에 관심있으실지도 모르죠.<E>"
   },
-  "HT_Text_Shop_TestInventory": {
-    "message": "<END TT>재고에서 내용물이 다 덜어내어졌습니다. 좋은 하루 보내세요.<E>"
-  },
   "HT_Text_Shop_Sorry": {
     "message": "<END TT>죄송합니다만 그것을 구입할 돈이 충분하지 않으시군요.<E>"
   },
@@ -101,18 +98,6 @@
   "HT_Text_Shop_ExplosiveBeetle": {
     "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> 폭발 딱정벌레들<N>삼키시면 즉시 의사에게 문의 하십시오.<E>"
   },
-  "HT_Text_Shop_BronzeAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_BronzeAnkh> 동 앙크<N>이것은 소녀용 앙크로, 시장에 있는 것 중 가장 약한 모델입니다.<E>"
-  },
-  "HT_Text_Shop_BuyBronzeAnkh": {
-    "message": "<END TT><I HT_Texture_Icon_BronzeAnkh> 동 앙크<N>이 것은 소녀용 앙크, 시장에 있는 것 중 가장 약한 모델입니다. 하나 구입하겠습니까?<N><B 1>예<N><B 2>아니, 난 남자야"
-  },
-  "HT_Text_Shop_SilverAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_SilverAnkh> 은 앙크<N>황금 앙크를 구매하시기에는 자금이 부족한 분들을 위해.<E>"
-  },
-  "HT_Text_Shop_BuySilverAnkh": {
-    "message": "<END TT><I HT_Texture_Icon_SilverAnkh> 은 앙크<N>황금 앙크를 구매하시기에는 자금이 부족한 분들을 위한 것입니다. 하나 구입하시겠습니까?<N><B 1>지금은 이것밖에 살 수 없겠군<N><B 2>아니오<E>"
-  },
   "HT_Text_Shop_GoldAnkh": {
     "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> 황금 앙크<N><FC 0,128,0><SO HT_Objective_Shop_Price> 오닉스 스캐럽<END FC><E>"
   },
@@ -136,30 +121,6 @@
   },
   "HT_Text_Shop_BuyAtunEyes04": {
     "message": "<END TT>아툰의 눈들 4개를 <FC 0,128,0><SO HT_Objective_Shop_Price> 오닉스 스캐럽<END FC>에 구입하시겠습니까?<N>  <B 2> 아니오<N>  <B 1> 예<E>"
-  },
-  "HT_Text_Shop_Glyph_1": {
-    "message": "<DHP><DP><END TT>글리프.<N>누구 폭탄 좀 설치해줘.<E>"
-  },
-  "HT_Text_Shop_Glyph_2": {
-    "message": "<DHP><DP><END TT>다른 글리프. <N>신사 여러분 안녕하십니까.<E>"
-  },
-  "HT_Text_Shop_Glyph_3": {
-    "message": "<DHP><DP><END TT>틀린 종류의 글리프. <N>생존할 수 있는 가능이 없습니다. 준비하세요 .<E>"
-  },
-  "HT_Text_Shop_Glyph_4": {
-    "message": "<DHP><DP><END TT>다른 틀린 종류의 글리프. <N>'갈 지'자로 움직입니다 ! 위대한 정의를 위해 .<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_1": {
-    "message": "<END TT>글리프.<N>누구 폭탄 좀 설치해줘 . 구입하시겠습니까?<N><B 1>예<N><B 2>아니오<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_2": {
-    "message": "<END TT>다른 글리프. <N>신사 여러분 안녕하십니까 . 구입하시겠습니까?<N><B 1>예<N><B 2>아니오<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_3": {
-    "message": "<END TT>틀린 종류의 글리프. <N>생존할 수 있는 가능이 없습니다. 준비하세요. 구입하시겠습니까?<N><B 1>예<N><B 2>아니오<E>"
-  },
-  "HT_Text_Shop_BuyGlyph_4": {
-    "message": "<END TT>다른 틀린 종류의 글리프. <N>'갈 지'자로 움직입니다 ! 위대한 정의를 위해 . 구입하시겠습니까?<N><B 1>예<N><B 2>아니오<E>"
   },
   "HT_Text_Shop_Burble": {
     "message": "<DHP><DP><END TT>미이라 새<N><FC 0,128,0><SO HT_Objective_Shop_Price> 스캐럽<END FC><E>"
