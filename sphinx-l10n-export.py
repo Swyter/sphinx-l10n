@@ -66,7 +66,10 @@ ignored_section_strings = [
     'HT_Text_Inv_Dsc_PL01_Eye',
     'HT_Text_Inv_Dsc_PossessionDart',
     'HT_Text_Inv_DummyItem',
-    'HT_Text_Memcard_Test'
+    'HT_Text_Memcard_Test',
+    'HT_Text_Credits1',
+    'HT_Text_Credits2',
+    'HT_Text_Credits3',
 ]
 
 data_read = []

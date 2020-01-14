@@ -49,6 +49,8 @@ MARKER_HASHCODE_COLUMN       = data_read[HEADER_ROW].index("MARKER_HASHCODE")
 MARKER_LANGUAGE_START_COLUMN = data_read[HEADER_ROW].index("MARKER_LANGUAGE_START")
 MARKER_LANGUAGE_END_COLUMN   = data_read[HEADER_ROW].index("MARKER_LANGUAGE_END")
 
+MARKER_SRC_LANGUAGE_COLUMN   = MARKER_LANGUAGE_START_COLUMN + 1 # en_US; first language in the column range
+
 for cur in lang:
     # swy: check that this spreadsheet actually contains a column for this language, it can happen
     if (cur not in data_read[HEADER_ROW]):
@@ -122,24 +124,18 @@ for cur in lang:
         if not row[MARKER_HASHCODE_COLUMN]:
             continue
 
-        # swy: this string/row is marked as old/deprecated/dead/obsolete
-        if row[DEAD_TEXT_COLUMN] and int(row[DEAD_TEXT_COLUMN]) == 1:
-            continue
-
-        # swy: get rid of strings that have been changed to "REMOVED"
-        if row[MARKER_LANGUAGE_START_COLUMN + 1] and row[MARKER_LANGUAGE_START_COLUMN + 1] == "REMOVED":
-            continue
-            
         hashcode = row[MARKER_HASHCODE_COLUMN]
-            
+
         # swy: if the translation string is not empty; index the JSON list 
         #      by its hashcode tag and access its sole "message" attribute
-        
+
         if hashcode in tx_json:
             if tx_json[hashcode]["message"]:
                 data_read[i][CUR_LANG_COLUMN] = tx_json[hashcode]["message"]
-            else: # swy: empty; use placeholder English text surrounded by asterisks for the time being. e.g: "**text*"
-                data_read[i][CUR_LANG_COLUMN] = "**" + data_read[i][5] + "*"
+            else: # swy: empty/WIP/untranslated; use placeholder English text surrounded by asterisks for the time being. e.g: "**text*"
+                data_read[i][CUR_LANG_COLUMN] = "**" + data_read[i][MARKER_SRC_LANGUAGE_COLUMN] + "*"
+        else: # swy: missing in JSON; if we don't know about this hashcode at all, use the raw en_US counterpart
+            data_read[i][CUR_LANG_COLUMN] = data_read[i][MARKER_SRC_LANGUAGE_COLUMN]
 
 with open('SphinxTextImported.csv', 'w', newline='') as fp:
     writer = csv.writer(fp, delimiter=',', quoting=csv.QUOTE_MINIMAL)
