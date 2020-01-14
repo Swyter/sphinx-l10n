@@ -20,12 +20,6 @@ source_file =     en/bos_artifacts.json
 source_lang =     en
 type        = CHROME
 
-[sphinx-l10n.bos_effects]
-file_filter = <lang>/bos_effects.json
-source_file =     en/bos_effects.json
-source_lang =     en
-type        = CHROME
-
 [sphinx-l10n.bos_monster]
 file_filter = <lang>/bos_monster.json
 source_file =     en/bos_monster.json

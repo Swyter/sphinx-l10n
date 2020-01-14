@@ -71,23 +71,14 @@
   "HT_Text_Inv_Dsc_BookOfTheDead": {
     "message": "<ES HT_Text_ES_S_BOSStd>この魔術書はマミーにカノポス壺を届けるためにバス・ケットをウルク城まで移送できる呪文を持っている。<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_BronzeAnkh": {
-    "message": "インベントリーに現れていない"
-  },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
     "message": "<ES HT_Text_ES_S_BOSStd>モンスターを捕まえるために使用できるビートル。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_StandardDart": {
     "message": "<ES HT_Text_ES_S_BOSStd>このダーツは魔法で補充するので供給は無限だ。爆発型モンスターにしかダメージを与えることができない。<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_KaDart": {
-    "message": "インベントリーに現れていない"
-  },
   "HT_Text_Inv_Dsc_BounceDart": {
     "message": "<ES HT_Text_ES_S_BOSStd><ES HT_Text_ES_E_BOSStd>このダーツは魔法で補充するので供給は無限だ。目標を間接的に打つために表面から跳ね返ることができる、けど爆発型モンスターにしかダメージを与えることができない。<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_PossessionDart": {
-    "message": "インベントリーに現れていない"
   },
   "HT_Text_Inv_Dsc_PhysNote": {
     "message": "<ES HT_Text_ES_S_BOSStd>医者から発明家ケメットへのノート。<ES HT_Text_ES_E_BOSStd>"
@@ -134,29 +125,14 @@
   "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
     "message": "<ES HT_Text_ES_S_BOSStd>シャトルコックの鳥は一本脚のに、実はとても速い…<P><ES HT_Text_ES_S_BOSStd>空中で攻撃する時、矢のように見えて、矢と同じぐらいのダメージを与える。<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat": {
-    "message": "まだやっていない"
-  },
-  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat_Fire": {
-    "message": "まだやっていない"
-  },
   "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
     "message": "ミイライーグルはこの周りのもっとも大きい鳥の１つ。アンデッドであるため、生きているイーグルよりも多くの攻撃を耐えることができる。<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_FL06_Undead_Man": {
-    "message": "まだやっていない<E>"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
     "message": "<ES HT_Text_ES_S_BOSStd>Knives Cats quickly confuse opponents with deft leaps and bounds, before plunging in to attack with alarming speed, razor sharp claws fully extended.<ES HT_Text_ES_S_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": "まだやっていない<E>"
-  },
   "HT_Text_Inv_Dsc_HD14_Crab": {
     "message": "<ES HT_Text_ES_S_BOSStd>Crabhands attack their enemies with sharp claws in a somewhat cumbersome fashion. Let it get close enough, however, and expect painful results.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_HD15_GuardTest": {
-    "message": "まだやっていない<E>"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
     "message": "<ES HT_Text_ES_S_BOSStd>Sharpbeaks carry a sword in each hand which they wield with disorientating and discerning skill...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Infamous for slowly but surely bearing down on their opponent, utilizing the Florentine dual rapier method to deadly effect.<ES HT_Text_ES_E_BOSStd>"
@@ -191,9 +167,6 @@
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
     "message": "<ES HT_Text_ES_S_BOSStd>The Exo-Piranha is a new evolutionary strain of Piranha. Only discovered in recent years, they are faster and stronger than others of their species.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_PI01_Green_Piranha": {
-    "message": "まだやっていない"
-  },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
     "message": "<ES HT_Text_ES_S_BOSStd>A snakelike fish capable of emitting electric charges.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Electric Eels are aggressive and territorial creatures, and in large quantities have been known to electrify vast areas of water.<ES HT_Text_ES_E_BOSStd>"
   },
@@ -202,15 +175,6 @@
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
     "message": "<ES HT_Text_ES_S_BOSStd>Fast-swimming and highly protective of its domain, the Spinefish is often a favored choice of the upper classes to make their moats even more hazardous to trespassers.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Moving with great ease, they often attack their prey before they've even been spotted.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_PI05_Aka_Turtle": {
-    "message": "まだやっていない"
-  },
-  "HT_Text_Inv_Dsc_PI06_Aka_Tentacle_Creature": {
-    "message": "まだやっていない"
-  },
-  "HT_Text_Inv_Dsc_PL01_Eye": {
-    "message": "まだやっていない"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
     "message": "<ES HT_Text_ES_S_BOSStd>The Tree Creature may possess a beautiful magical ability, but let the phosphorescent glow enchant you and you'll get a nasty surprise from below.<ES HT_Text_ES_E_BOSStd>"
@@ -262,9 +226,6 @@
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
     "message": "<ES HT_Text_ES_S_BOSStd>The Big Bull would perhaps be more accurately described as a \"big bully\"...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>It cannot be reasoned with, and will persistently swing and smash its hammer at anything it feels like bothering. Do not get in the way!<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_HD09_Horned_ReptileMan": {
-    "message": "まだやっていない"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>宮殿の中庭の鍵。<ES HT_Text_ES_E_BOSStd>"
@@ -439,9 +400,6 @@
   },
   "HT_Text_Inv_Dsc_AbyWellKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>古い鍵。<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_DummyItem": {
-    "message": "インベントリーに全然現れていないはずのダミーアイテム"
   },
   "HT_Text_Inv_Dsc_AbyStairsKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>The key to the stairs in the well courtyard, allowing access to the Abydos Canals.<ES HT_Text_ES_E_BOSStd>"

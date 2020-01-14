@@ -1,7 +1,4 @@
 {
-  "HT_Text_Context_Test": {
-    "message": "ΔΟΚΙΜΑΣΤΙΚΟ ΓΕΝΙΚΟ ΠΛΑΙΣΙΟ"
-  },
   "HT_Text_Context_UseItem": {
     "message": "ΧΡΗΣΗ ΑΝΤΙΚΕΙΜΕΝΟΥ"
   },
@@ -58,9 +55,6 @@
   },
   "HT_Text_Context_Shop": {
     "message": "ΑΓΟΡΑ"
-  },
-  "HT_Text_Context_Blank": {
-    "message": " "
   },
   "HT_Text_Context_Linear": {
     "message": "ΓΡΑΜΜΙΚΟ"

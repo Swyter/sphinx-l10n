@@ -446,24 +446,6 @@
   "HT_Text_Museum_Name_Jewel06": {
     "message": "Joia de Weni"
   },
-  "HT_Text_ES_S_HelpText": {
-    "message": "<FC 60,98,57>"
-  },
-  "HT_Text_ES_E_HelpText": {
-    "message": "<END FC>"
-  },
-  "HT_Text_ES_S_BOSItem": {
-    "message": "<FC 60,98,57>"
-  },
-  "HT_Text_ES_E_BOSItem": {
-    "message": "<END FC>"
-  },
-  "HT_Text_ES_S_BOSLocation": {
-    "message": "<FC 60,98,57>"
-  },
-  "HT_Text_ES_E_BOSLocation": {
-    "message": "<END FC>"
-  },
   "HT_Text_Gen_Help_GotAbyCrown": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Coroa Sagrada de Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
