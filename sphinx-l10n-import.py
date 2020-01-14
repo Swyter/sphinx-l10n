@@ -134,7 +134,11 @@ for cur in lang:
                 data_read[i][CUR_LANG_COLUMN] = tx_json[hashcode]["message"]
             else: # swy: empty/WIP/untranslated; use placeholder English text surrounded by asterisks for the time being. e.g: "**text*"
                 data_read[i][CUR_LANG_COLUMN] = "**" + data_read[i][MARKER_SRC_LANGUAGE_COLUMN] + "*"
-        else: # swy: missing in JSON; if we don't know about this hashcode at all, use the raw en_US counterpart
+                
+                
+        # swy: by default we keep any original translations that aren't part of the JSON overrides,
+        #      but if the translation field is missing or blank we use the raw en_US counterpart
+        if not data_read[i][CUR_LANG_COLUMN]:
             data_read[i][CUR_LANG_COLUMN] = data_read[i][MARKER_SRC_LANGUAGE_COLUMN]
 
 with open('SphinxTextImported.csv', 'w', newline='') as fp:
