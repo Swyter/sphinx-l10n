@@ -402,16 +402,16 @@
     "message": "Ahoy there! You look like someone who relishes a physical challenge - an important attribute in these dark and dangerous times.<P>I am the best swimmer in <FC 128,64,0>Heliopolis<END FC>. I'm definitely better than all those weaklings from <FC 128,64,0>Abydos<END FC>.<P>I've perfected my technique on a training course in the sea, between <FC 128,64,0>South Beach<END FC> and <FC 128,64,0>Sun Shrine Island<END FC>.<P>Do you think you can complete my training course?<N>  <B 1> Yes<N>  <B 2> No<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt02": {
-    "message": "Reckon you can complete my training course?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Acha que consegue completar meu treinamento?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt03": {
-    "message": "Very well. Would you like to hear the rules?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Muito bem. Você quer ouvir as regras?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt04": {
-    "message": "You think you can go faster than <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> seconds<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Acha que consegue ir mais rápido que <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> segundos<END FC>?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Decline01": {
-    "message": "You've probably saved yourself some embarrassment, my friend. Come back if you change your mind.<E>"
+    "message": "Você provavelmente se safou de passar vergonha, meu amigo. Volte caso mude de ideia.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Rules01": {
     "message": "The rules are simple: there are a series of checkpoints in the ocean which you must swim through.<P>The checkpoints will only stay active for a limited time, so you must reach them before they deactivate.<P>When you pass through a checkpoint, the next one will activate.<P>If you do not reach a checkpoint before it deactivates, then you've failed.<E>"

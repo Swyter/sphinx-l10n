@@ -483,10 +483,10 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is an ancient <FC 0,128,0>Atun Disc<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It is a magical point which, when passed over, imbues a mysterious energy that enables you to run at very high speed.<P><ES HT_Text_ES_S_HelpText><CNTR>Unfortunately the effect is only temporary but they should prove invaluable for getting around <FC 128,64,0>Heliopolis<END FC> more efficiently.<E>"
   },
   "HT_Text_Gen_Help_GotAtunEye": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found an <FC 0,128,0>Atun Eye<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It looks like it would fit into the eye<N>socket of a statue of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou um <FC 0,128,0>Olho de Atun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ele parece encaixar na <N>cavidade ocular de algum tipo de estátua.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAtunEyes04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>4 Atun Eyes<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>They look like they would fit into the eye<N>sockets of a statue of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>4 Olhos de Atun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Eles parecem encaixar nas<N>cavidades oculares de algum tipo de estátua.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotDoubleJump": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Wings of Ibis<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>With this magical artifact, Sphinx can<N>perform a second jump to reach greater<N>heights and longer distances!<P><CNTR><ES HT_Text_ES_S_HelpText>Press <SB HT_Action_Jump> to jump,<N>then press <SB HT_Action_Jump> again in mid air<N>to <FC 0,128,0>SOMERSAULT<END FC>.<E>"
@@ -498,49 +498,49 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The magical darts fired from this powerful tool,<N>regenerate giving you an infinite supply.<P><ES HT_Text_ES_S_HelpText><CNTR>The darts can be used to hit remote targets but they<N>are only powerful enough to damage explosive monsters.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> to assign the <FC 0,128,0>Blowpipe<END FC> to a button.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the <FC 0,128,0>Blowpipe<END FC> is assigned, press<N>the button to enter first person mode.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_FireDart> to fire.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Cancel> to exit<N>from <FC 0,128,0>Blowpipe<END FC> mode.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Hands Of Amun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This artifact gives Sphinx the strength to<N>push and pull extremely heavy objects.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu as <FC 0,128,0>Mãos de Ámon<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Este artefato dá a Sphinx a força para<N>empurrar e puxar objetos extremamente pesados.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotMummyCash": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0><SO HT_Objective_Mum_CashCollected> Onyx Scarabs<END FC> that<N>the Mummy collected in the <FC 128,64,0>Castle of Uruk<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu os <FC 0,128,0><SO HT_Objective_Mum_CashCollected> Káraves de Ônix<END FC> que<N>a Múmia coletou no <FC 128,64,0>Castelo de Uruk<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetlePouch": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Beetle Pouch<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This pouch enables you to carry up to<N><FC 0,128,0>20 Capture Beetles<END FC>, which can be used<N>to capture many different kinds of monster.<P><ES HT_Text_ES_S_HelpText><CNTR>To capture a monster, you must first attack it until<N>it becomes vulnerable to capture. When this is the case,<N>it will flash yellow in color.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the monster is vulnerable, release a capture beetle. Guide the beetle into the monster using <SB HT_PadAction_PLR_MoveBeetle>.<P><ES HT_Text_ES_S_HelpText><CNTR>When the beetle collides with the monster it will be captured and added to your inventory!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotScarabPurseUpgrade01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Large Scarab Bag<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can now carry up to <FC 0,128,0>900 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Bolsa de Káraves Larga<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Agora você pode carregar até <FC 0,128,0>900 Káraves<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetleSatchel": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Beetle Satchel<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can now carry up to 50 Capture Beetles!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Sacola de Besouros<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Agora você pode carregar até 50 Besouros de Captura!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotDartBelt": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Dart Belt<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can now carry up to 50 darts of each type!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu o <FC 0,128,0>Cinturão de Dardos<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Agora você pode carregar até 50 dardos de cada tipo!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAnkhPiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Collect four of these and a person with the right<N>skills will be able to increase your health capacity.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu uma <FC 0,128,0>Peça de Ankh de Ouro<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Colete quatro delas e uma pessoa com a<N>habilidade certa poderá aumentar sua capacidade de vida.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAnkhContainer": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This magic artifact has increased your health capacity<N>by <FC 0,128,0>1 Ankh<END FC> and has fully replenished your health!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu um <FC 0,128,0>Ankh de Ouro<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Esse artefato mágico aumentou sua capacidade de vida<N>em <FC 0,128,0>1 Ankh<END FC> e recuperou completamente sua vida!<ES HT_Text_ES_E_HelpText><E> "
   },
   "HT_Text_Gen_Help_Got100Scarabs": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>100 Gold Scarabs<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Don't spend them all at once!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>100 Káraves de Ouro<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Não gaste tudo de uma vez!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotIceDarts": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got some <FC 0,128,0>Ice Darts<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>These magical darts can be used<N>to freeze certain types of monster.<P><ES HT_Text_ES_S_HelpText><CNTR>Once a monster is frozen, you can push or pick up<N>the block of ice depending on its size.<P><ES HT_Text_ES_S_HelpText><CNTR>You can also stand on top of the block of ice<N>to reach an otherwise inaccessible area.<P><ES HT_Text_ES_S_HelpText><CNTR>Alternatively, you can shatter the block<N>by hitting it with your blade.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu alguns <FC 0,128,0>Dardos de Gelo<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Estes dardos mágicos podem ser usados<N>para congelar certos tipos de monstros.<P><ES HT_Text_ES_S_HelpText><CNTR>Ao congelar um monstro, você pode empurrá-lo ou carregar<N>o bloco de gelo dependendo do seu tamanho.<P><ES HT_Text_ES_S_HelpText><CNTR>Você também pode subir em cima do bloco de gelo<N>para alcançar áreas previamente inacessíveis.<P><ES HT_Text_ES_S_HelpText><CNTR>Por fim, você pode quebrar o bloco<N>ao acertá-lo com sua espada.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAcidDarts": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got some <FC 0,128,0>Acid Darts<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>These magically corrosive darts can be used to dissolve certain metal chains!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu alguns <FC 0,128,0>Dardos Ácidos<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Esses dardos magicamente corrosivos podem ser usados para dissolver certas correntes de metal!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHippyItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Parasol<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This looks perfect for providing shade<N>on hot sunny days.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu uma <FC 0,128,0>Sombrinha<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ela parece perfeita para fornecer sombra<N>em dias quentes e ensolarados.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetleBreederItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Beetle Breeding Jar<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>The Beetle Breeder in the <FC 128,64,0>Bedouin Outpost<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu o <FC 0,128,0>Jarro de Criação de Besouros<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>O Criador de Besouros no <FC 128,64,0>Povoado de Bedouin<END FC><N>ficará muito feliz em vê-lo.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotUnderwaterProjectile": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Underwater Projectiles<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can use these to hit targets and<N>certain monsters while swimming underwater!<P><ES HT_Text_ES_S_HelpText><CNTR>Simply press <SB HT_Action_UnderwaterAttack> while underwater<N>to fire a projectile in the direction you are facing.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu os <FC 0,128,0>Projéteis Submersos<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Você pode usá-los para acertar alvos e<N>certos monstros quando estiver nadando debaixo d'água!<P><ES HT_Text_ES_S_HelpText><CNTR>Apenas aperte <SB HT_Action_UnderwaterAttack> enquanto submerso<N>para atirar um projétil na direção em que você estiver de frente.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotFastSwim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Crocodile Scales<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This ancient artifact allows you to<N>swim under water at great speed!<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_SwimFast> while under water<N>to swim with gusto!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu as <FC 0,128,0>Escamas de Crocodilo<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Esse artefato antigo permite que você<N>nade debaixo d'água com grande velocidade!<P><ES HT_Text_ES_S_HelpText><CNTR>Aperte <SB HT_Action_SwimFast> enquanto estiver submerso<N>para nadar com gosto!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundGoldKey": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou uma <FC 0,128,0>Chave de Ouro<END FC>!<ES HT_Text_ES_E_HelpText><E>"
@@ -552,34 +552,34 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu um <FC 0,128,0>Vaso Canópico<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Parte da alma de Tutancâmon<N>está guardada dentro.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundRosettaStonePiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Rosetta Stone Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The Archeologist will be very interested in this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou uma <FC 0,128,0>Peça da Pedra de Roseta<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Isso será de grande interesse ao Arqueólogo.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>South Desert Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This opens a gate leading to<N>the <FC 128,64,0>South Desert of Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Chave do Deserto Sul<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ela abre um portão que leva<N>ao <FC 128,64,0>Deserto Sul de Heliópolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Obelisk Gate Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This opens a gate leading to<N>the <FC 128,64,0>Great Obelisk of Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Chave do Portão do Obelisco<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ela abre um portão que leva<N>ao <FC 128,64,0>Grande Obelisco de Heliópolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Cave Door Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This opens a stone door in a cave between<N><FC 128,64,0>Heliopolis Point<END FC> and <FC 128,64,0>South Beach<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Chave da Porta da Caverna<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ela abre uma porta de pedra em uma caverna entre o<N><FC 128,64,0>Ponto de Heliópolis<END FC> e a <FC 128,64,0>Praia do Sul<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPhysiciansNote": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Physician's Note<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>It is addressed to Kemmet the Inventor<N>who lives in <FC 128,64,0>Abydos Canal<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu o <FC 0,128,0>Bilhete do Médico<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Está endereçado à Kemmet, o Inventor,<N>que vive no <FC 128,64,0>Canal de Abydos<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHealingHerb": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Healing Herb<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>The Physician in <FC 128,64,0>Abydos Council Chambers<END FC><N>will be most pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu uma <FC 0,128,0>Erva Medicinal<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>O Médico nas <FC 128,64,0>Câmaras do Conselho de Abydos<END FC><N>ficará muito feliz em vê-la.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAtunStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Atun Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Estátua de Atun<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>É dito que essa efígie dourada possui poderes mágicos.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHathorStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Hathor Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Estátua de Hator<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>É dito que essa efígie dourada possui poderes mágicos.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotMedicineBag": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Medicine Bag<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This specially lined bag will preserve any<N>delicate medicinal ingredients placed inside.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Bolsa de Remédios<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Essa bolsa foi especialmente forrada e preservará qualquer<N>ingrediente medicinal delicado colocado dentro.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotEagleStone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Eagle Stone<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This charmed stone allows you to summon<N>a Great Eagle when stood on special points.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Pedra da Águia<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Essa pedra encantada o permite invocar<N>uma Grande Águia ao pisar em pontos especiais.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotWallSection2Key": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu uma <FC 0,128,0>Chave da Grande Muralha<END FC>!<ES HT_Text_ES_E_HelpText><E>"
@@ -588,7 +588,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu uma <FC 0,128,0>Chave da Grande Muralha<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NoBookOfDead": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Without the <FC 0,128,0>Book of the Dead<END FC> you are unable to summon Bas-Ket to transport the <FC 0,128,0>Canopic Vase<END FC> to the Mummy.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Sem o <FC 0,128,0>Livro dos Mortos<END FC> você não é capaz de invocar Ces-To para transportar o <FC 0,128,0>Vaso Canópico<END FC> para a Múmia.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NoHandsOfAmun": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>Esse objeto é pesado demais para que você possa movê-lo.<ES HT_Text_ES_E_HelpText><E>"
@@ -615,13 +615,13 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Essa <FC 0,128,0>Pedra de Maldição<END FC> é da cor errada.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>2 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>2 Pedras da Maldição<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Cada pedra mágica possui o poder para livrar a maldição<N><CNTR>de um habitante do <FC 128,64,0>Palácio Amaldiçoado<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>2 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>2 Pedras da Maldição<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Cada pedra mágica possui o poder para livrar a maldição<N><CNTR>de um habitante do <FC 128,64,0>Palácio Amaldiçoado<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>3 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu <FC 0,128,0>3 Pedras Da Maldição<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Cada pedra mágica possui o poder para livrar a maldição<N><CNTR>de um habitante do <FC 128,64,0>Palácio Amaldiçoado<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletLuxor01": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu um <FC 0,128,0>Amuleto Misterioso<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Os símbolos estranhos nesse artefato antigo<N>indicam transporte para um local misterioso.<ES HT_Text_ES_E_HelpText><E>"
@@ -687,7 +687,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>É preciso de uma <FC 0,128,0>Chave<END FC> para abrir essa porta.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Sewer_King_Challenge1": {
-    "message": "Light all of these torches around me and I will give you this ancient artifact. Be careful though; it's just as easy to extinguish them as it is to light them.<E>"
+    "message": "Acenda todas estas tochas ao meu redor e lhe darei esse artefato antigo. Mas seja cuidadoso; é tão fácil extingui-las quanto é acendê-las.<E>"
   },
   "HT_Text_Mum_Chapter1_FoundQuestItem": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você encontrou as <FC 0,128,0>Asas de Ibis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
@@ -726,28 +726,28 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Chave das Escadas<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Use-a para abrir as escadas para o terraço da área do poço.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotZipHandle": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Zip Line Handle<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>You can now use the zip lines in <FC 128,64,0>Abydos<END FC><N>to get around the city.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Alça da Tirolesa<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Agora você pode usar as tirolesas em <FC 128,64,0>Abydos<END FC><N>para se locomover pela cidade.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotParasol": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Sombrinha<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ela é ótima para os dias quentes de verão.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Cast_Urukite1": {
-    "message": "Go away, evil creature!!! Set can kill me but he's not going to steal my soul! <E>"
+    "message": "Vá embora, criatura maligna!!! Set pode me matar mas ele não vai roubar minha alma! <E>"
   },
   "HT_Text_Mum_Cast_Urukite2": {
-    "message": "Why are you freeing me? Who are you? You don't want to kill me? <E>"
+    "message": "Por quê está me libertando? Quem é você? Você não quer me matar? <E>"
   },
   "HT_Text_Mum_Cast_Urukite3": {
-    "message": "Hmm... you don't look so frightening outside of the cage... Why are you helping me? <E>"
+    "message": "Hmm... você não parece tão assustador fora da jaula... Por quê está me ajudando? <E>"
   },
   "HT_Text_Mum_Cast_Urukite4": {
-    "message": "They say that I have stolen jewels from the castle, but I never did it!<P>My name is Khensu. I'm an Urukite. We were the habitants of this region before Set appeared. Our numbers are few, hidden in the castle trying to survive.<P>We've avoided Set until now because we know the region better, but that won't last long. In the end he will find us, if someone doesn't help. <E>"
+    "message": "Eles dizem que eu roubei joias do castelo, mas eu nunca o fiz!<P>Meu nome é Khensu. Eu sou um Urukite. Nós éramos os habitantes dessa região antes de Set aparecer. Nossos números são poucos, tentando sobreviver escondidos no castelo.<P>Nós evitamos Set até agora porquê conhecemos bem a região, mas isso não irá durar muito tempo. Ele nos encontrará no final, se ninguém ajudar. <E>"
   },
   "HT_Text_Mum_Cast_Urukite5": {
-    "message": "Anyway, we can't remain in this room for long. Set's guards could come at any moment. Follow me. I will help you escape from this cell. <E>"
+    "message": "De qualquer modo, não podemos permanecer nessa sala por muito tempo. Os guardas de Set podem vir a qualquer momento. Siga-me. Vou ajudá-lo a escapar dessa cela. <E>"
   },
   "HT_Text_Mum_Cast_Urukite6": {
-    "message": "This secret door connects with other sections of the castle. We must separate now. It is too risky for us to stay together. Good luck. <E>"
+    "message": "Essa porta secreta leva às outras partes do castelo. Precisamos nos separar agora. É arriscado demais ficarmos juntos. Boa sorte. <E>"
   },
   "HT_Text_Mum_Cast_CageLocked": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Essa jaula requer uma <FC 0,128,0>Chave<END FC> para ser aberta.<ES HT_Text_ES_S_HelpText><E>"
