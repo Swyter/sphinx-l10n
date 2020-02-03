@@ -119,7 +119,8 @@ for cur in lang:
         continue
         
     # swy: some language columns are blank in the original translation; don't overwrite them
-    if cur in ignored_languages:
+    if lang[cur] in ignored_languages:
+        print("warning: ignoring %s, because it's blacklisted; skipping it..." % cur)
         continue
 
     # swy: get the column index for the current language
