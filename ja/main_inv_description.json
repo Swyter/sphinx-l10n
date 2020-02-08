@@ -87,7 +87,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>このゲブクイーンの巨大な戦士は悪質…<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>このモンスターと戦う者へ武運を。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM09_Smiling_burble": {
-    "message": "<ES HT_Text_ES_S_BOSStd>バーブルの種の変なメンバー、角を使って攻撃する。<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>布の帽子は何世代にもわたってかぶってきたため、生まれてから頭の上から生えるようになった。<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>バーブルの種の変なメンバー、角を使って攻撃する。<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>布の帽子を何世代にもわたってかぶってきたため、生まれてから頭の上から生えるようになった。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM10_i_Cyclops": {
     "message": "<ES HT_Text_ES_S_BOSStd>この回避的なモンスターは目から強力な炎の光線を放つ、さらに短距離でテレポートできる…<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>傷つけられると、キュクロプスは２つに分かれる；危険は倍増した。<ES HT_Text_ES_E_BOSStd>"
@@ -108,7 +108,7 @@
     "message": "まだやっていない<E>"
   },
   "HT_Text_Inv_Dsc_BU02_Skeletal_Axeman": {
-    "message": "<ES HT_Text_ES_S_BOSStd>このアンデッドな斧振るっている武士に気をつけて…<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>武器をブーメランとして使用できる上に、魔法の盾を呼び出して、斧が戻るまで保護さられている。<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>このアンデッドな斧振るっている武士に気をつけて…<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>武器をブーメランとして使用する上に、魔法の盾を呼び出して、斧が戻るまで無敵状態になる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU03_zombie_man": {
     "message": "まだやっていない<E>"
@@ -192,7 +192,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Despite its overbearing size, the Spitting Toad is a placid creature renowned for its soft spot for coconuts.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Spitting Toads have been known to assist adventurers who feed them this nutty delicacy.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR03_Sak_Small_Frog": {
-    "message": "<ES HT_Text_ES_S_BOSStd>This frog may well be small, but it isn't the friendliest creature around. Indiginous to swamplands, they're noxious little critters.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>This frog may well be small, but it isn't the friendliest creature around. Indigenous to swamplands, they're noxious little critters.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR04_Sak_Nose_Needler": {
     "message": "<ES HT_Text_ES_S_BOSStd>The Nose Needler is a burrowing mammal found in dusty regions. Good luck to anyone attempting to land a blow on one of these evasive mammals.<ES HT_Text_ES_E_BOSStd>"
@@ -366,7 +366,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>ヘリオポリスの堂々なオベリスクへの門を開ける鍵。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A key to open a stone door in a cave between Heliopolis Point and South Beach.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>ヘリオポリスポイントと南の海辺の真ん中にある洞窟の中にあるドアを開ける鍵。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone01": {
     "message": "<ES HT_Text_ES_S_BOSStd>骨格アックスマンのスカル。<ES HT_Text_ES_E_BOSStd>"
@@ -381,7 +381,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>骨格アックスマンの脚<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HippyItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>このパラソールは太陽から守ることに理想的。<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>このパラソールは太陽の光を防ぐことに理想的だ。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList01": {
     "message": "<ES HT_Text_ES_S_BOSStd>1. 炎のアルマジロ<PC 1>2. ミイラワーム<N>3. ほとんどブール<PC 1>4. ハーフブルート<E><ES HT_Text_ES_E_BOSStd>"
@@ -405,7 +405,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>The key to the stairs in the well courtyard, allowing access to the Abydos Canals.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_MedicineBag": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A specially lined bag that preserves delicate medicinal ingredients.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>この特別なもので作った袋は脆い薬草を保存できる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AtunStatue": {
     "message": "<ES HT_Text_ES_S_BOSStd>アトゥン様のゴールドなスタチュー。アトゥンの魔法的な封印を壊すことには、これを使うことしかないと言われている。<ES HT_Text_ES_E_BOSStd>"
@@ -435,19 +435,19 @@
     "message": "<ES HT_Text_ES_S_BOSStd>このチャームされた石は、特定のところで大きいイーグルを召喚できる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AtunEye": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A stone eye which looks like it would fit into the eye socket of a statue of some kind.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>石の目。あるスタチューの眼窩に合うようにみえる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Shoot": {
-    "message": "<ES HT_Text_ES_S_BOSStd>An impressive looking medal proving you are a true marksman with the Blowpipe.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>吹き矢のゲームを完了したことを認める印象的なメダル。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Walls": {
-    "message": "<ES HT_Text_ES_S_BOSStd>An impressive looking medal proving you are the Champion of Corridors.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>あなたは廊下のチャンピオンであることを認める印象的なメダル。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Pairs": {
-    "message": "<ES HT_Text_ES_S_BOSStd>An impressive looking medal proving you completed Paneb's Pairs game.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>パネブのマッチングゲームを完了したことを認める印象的なメダル。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Simon": {
-    "message": "<ES HT_Text_ES_S_BOSStd>An impressive looking medal proving you completed Sorkon's Sequence game.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>ソルコンの順序ゲームを完了したことを認める印象的なメダル。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_Certificate": {
     "message": "<ES HT_Text_ES_S_BOSStd>アビドス博物館の自然史コレクションを完了したことを認める証書。<ES HT_Text_ES_E_BOSStd>"
