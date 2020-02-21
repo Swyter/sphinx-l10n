@@ -414,7 +414,7 @@
     "message": "Você provavelmente se safou de passar vergonha, meu amigo. Volte caso mude de ideia.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Rules01": {
-    "message": "The rules are simple: there are a series of checkpoints in the ocean which you must swim through.<P>The checkpoints will only stay active for a limited time, so you must reach them before they deactivate.<P>When you pass through a checkpoint, the next one will activate.<P>If you do not reach a checkpoint before it deactivates, then you've failed.<E>"
+    "message": "As regras são simples: há uma série de checkpoints no oceano em que você deve nadar através.<P>Os checkpoints só ficarão ativos por um tempo limitado, então você deve alcançá-los antes que desativem.<P>Quando passar por um checkpoint, o próximo irá se ativar.<P>Se você não alcançar um checkpoint antes que ele desative, então você falhou.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Start01": {
     "message": "Desejá-lo sorte parece inútil, mas boa sorte mesmo assim!<P><N><CNTR>Preparar...<P><N><CNTR>Apontar...<P><N><CNTR>Já!<W 30>"
@@ -429,7 +429,7 @@
     "message": "Excelente! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> segundos<END FC> é um novo recorde! Esse tempo dará trabalho para bater. Certamente foi um acaso!<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeReward01": {
-    "message": "Ahh, very impressive my friend! Few people have what it takes to complete my training course.<P>Because you managed to complete the course in only <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> seconds<END FC>, I want you to take this gift.<P>An Abydosian swimmer gave it to me a long time ago. Of course, I never use it. I can swim fast enough without the aid of silly magical trinkets.<E>"
+    "message": "Ahh, muito impressionante meu amigo! Poucas pessoas têm o que é preciso para completar meu percurso de treinamento.<P>Como você conseguiu completá-lo em apenas <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> segundos<END FC>, quero que leve este presente.<P>Um nadador Abydosiano me deu há muito tempo atrás. Mas eu nunca o uso, é claro. Consigo nadar rápido o bastante sem a ajuda de bugigangas mágicas.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeReward02": {
     "message": "Se quiser fazer o percurso de novo e tentar bater o seu tempo, é só me falar.<E>"
@@ -453,7 +453,7 @@
     "message": "Eu pensei ter ouvido a voz dela nesse prédio, mas tenho muito medo de entrar. Maldita seja minha covardia!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01d": {
-    "message": "<EFF><EPO>Please, go inside and rescue her. I'm begging you!<P><FC 128,64,0>Heliopolis<END FC> has become such a terrible place. Monsters everywhere, people cursed and cast into stone and now my poor Ketta! Please, help me!<E>"
+    "message": "<EFF><EPO>Por favor, entre e a salve. Eu te imploro!<P><FC 128,64,0>Heliópolis<END FC> se tornou um lugar tão terrível. Monstros por toda a parte, pessoas amaldiçoadas e transformadas em pedra e agora minha pobre Ketta! Por favor, me ajude!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone02": {
     "message": "Por favor, encontre minha esposa! Eu mal te conheço, mas com quem mais posso contar? <E>"
@@ -477,7 +477,7 @@
     "message": "Ainda assim, tenho certeza de que <FC 128,64,0>Heliópolis<END FC> retornará ao normal em breve.<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Trapped01": {
-    "message": "At last, someone to rescue me! Please, you must find a way to deactivate this force field!<P>I'm sure those three colored beams are powering the force field. If you could find a way to deactivate them, I might be able to escape!<E>"
+    "message": "Enfim, alguém para me salvar! Por favor, você precisa encontrar um jeito de desativar esse campo de força!<P>Estou certa de que aquelas três colunas coloridas estão dando energia ao campo de força. Se você conseguir encontrar uma forma de desativá-las, talvez eu consiga escapar!<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Trapped02": {
     "message": "Por favor, você precisa me ajudar!<E>"
@@ -873,7 +873,7 @@
     "message": "Greetings! It's always nice to see a new face around here. We rarely get any visitors.<P>I am Shetta, the local healer of the <FC 128,64,0>Bedouin Outpost<END FC>. I am quite skilled in ancient healing incantations and rituals.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_Prompt01": {
-    "message": "What brings you to our outpost today?<N>  <B 1> Healing<N>  <B 2> <FC 0,128,0>Ankh Piece<END FC> Ritual<N>  <B 3> Nothing in particular<E>"
+    "message": "O que o traz ao nosso povoado hoje?<N>  <B 1> Cura<N>  <B 2> <FC 0,128,0>Peça de Ankh<END FC> Ritual<N>  <B 3> Nada em particular<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingPrompt01": {
     "message": "Posso recuperar sua vida completamente por <FC 0,128,0>50 Káraves<END FC>.<N>  <B 1> Me cure<N>  <B 2> Deixa pra lá<E>"
@@ -1491,49 +1491,49 @@
     "message": "You must travel to the <FC 128,64,0>Castle of Uruk<END FC> and fight Set in a final battle for the crown! Anubis must stay and defend the wall! You are our only chance!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4c": {
-    "message": "I will transport you to <FC 128,64,0>Uruk<END FC>... but you must jump into the lava!<E>"
+    "message": "Vou transportá-lo até <FC 128,64,0>Uruk<END FC>... mas você precisa pular na lava!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free5a": {
-    "message": "Sir! Using Set's own ethereal canals to transport him to the castle?! This is folly! That is much too dangerous!<E>"
+    "message": "Senhor! Usar os próprios canais etéreos de Set para transportá-lo ao castelo?! Isso é loucura! É perigoso demais!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free6a": {
-    "message": "We have no choice! Set is getting stronger by the second! Now, Sphinx... NOW!!!<E>"
+    "message": "Não temos escolha! Set está ficando mais forte a cada segundo! Agora, Sphinx... AGORA!!!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Incomplete": {
-    "message": "Are you so feeble that you cannot even capture <FC 0,128,0>3 Fire Armadillos<END FC>?<E>"
+    "message": "Você é tão fraco que não consegue nem capturar <FC 0,128,0>3 Tatus de Fogo<END FC>?<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_NoBeetles": {
     "message": "I warned you about using the <FC 0,128,0>Capture Beetles<END FC> wisely and yet you have squandered them.<P>I will grant you 20 more but if you do not use them to capture <FC 0,128,0>3 Fire Armadillos<END FC> I will be most unimpressed.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GenericMeetAgain": {
-    "message": "I'm certain that fate will bring you to me again in the future, but now I have nothing more to give you.<E>"
+    "message": "Estou certo de que o destino o trará até mim novamente no futuro, mas agora não tenho mais nada para lhe dar.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_AbydosCrown_NotFound": {
-    "message": "You should not delay. There are other more sinister forces also looking for the <FC 0,128,0>Sacred Crown of Abydos<END FC>.<E>"
+    "message": "Você não deve se atrasar. Existem outras forças mais sinistras na procura pela <FC 0,128,0>Coroa Sagrada de Abydos<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_AbydosCrown_Found": {
     "message": "Finally, you have returned with the crown! Congratulations young hero, you have far surpassed my expectations.<P>I will stay true to my word and release more of the inhabitants of the <FC 128,64,0>Cursed Palace<END FC>.<P>However, I feel it is time to reveal to you the truth behind my sending you in search of the crown.<P>There are other crowns in different worlds, and the evil god Set is trying to recover them for himself.<P>We cannot let this happen! You must find the crowns before he does or the consequences could be devastating.<P>In the jungle world of <FC 128,64,0>Sakkara<END FC> you should find the ancient <FC 0,128,0>Sakkarian Crown<END FC>.<P>You should leave immediately. Good luck.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_SakkaraCrown_NotFound": {
-    "message": "Do not delay! If Set finds the <FC 0,128,0>Crown of Uruk<END FC> first, there is no telling what could happen!<E>"
+    "message": "Não se atrase! Se Set encontrar a <FC 0,128,0>Coroa de Uruk<END FC> primeiro, não se sabe o que pode acontecer!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_SakkaraCrown_Found": {
     "message": "Finally, you have returned with the crown! I knew that you would not fail.<P>As promised I will release the remaining inhabitants of the <FC 128,64,0>Cursed Palace<END FC>.<P>The <FC 0,128,0>Sacred Crown of Heliopolis<END FC> is within the palace, but I urge caution. The Pharaoh is not an easy man to deal with.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_NotFound": {
-    "message": "Do not delay. The Pharaoh and his crown await in the <FC 128,64,0>Cursed Palace<END FC>.<E>"
+    "message": "Não se atrase. O Faraó e sua coroa aguardam no <FC 128,64,0>Palácio Amaldiçoado<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Found": {
     "message": "You have performed with great courage and strength, hero, but now you must face your toughest challenge.<P>Set is already in possession of the <FC 0,128,0>Sacred Crown of Uruk<END FC> in the devastated world of <FC 128,64,0>Uruk<END FC>.<P>The only way he can be stopped now is to travel to <FC 128,64,0>Uruk<END FC> and destroy him once and for all.<P>You should prepare yourself for the arduous journey ahead. When you are ready, use this <FC 01,128,0>Portal Amulet<END FC> to travel to <FC 128,64,0>Uruk<END FC>.<P>Good luck, young hero.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_NotFound": {
-    "message": "The more you linger, the stronger Set becomes. It is unwise to delay much longer.<E>"
+    "message": "Quanto mais você demora, mais forte Set fica. Não é sábio demorar nem mais um pouco.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_Accept": {
     "message": "Muito bem, o portal está aberto. Boa sorte.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_Decline": {
-    "message": "The more you linger, the stronger Set becomes. It is unwise to delay much longer.<E>"
+    "message": "Quanto mais você demora, mais forte Set fica. Não é sábio demorar nem mais um pouco.<E>"
   },
   "HT_Text_Hel_DarkArea2_Help_KaAnkh01": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is a <FC 0,128,0>Ka Ankh Firing Point<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>They can be used to magically transport<N>you to the location of a nearby <FC 0,128,0>Ka Ankh<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_KaTile> while standing on the<N>firing point to enter first person mode.<ES HT_Text_ES_E_HelpText><E>"
@@ -1542,43 +1542,43 @@
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>Aim and shoot the glowing top of a nearby <FC 0,128,0>Ka Ankh<END FC> and<N>you will be magically transported to that location.<E><ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_DarkArea3_Teleport_Prompt01": {
-    "message": "<ES HT_Text_ES_S_HelpText>Use the magical teleport?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<ES HT_Text_ES_S_HelpText>Usar o teletransporte mágico?<N>  <B 2> Não<N>  <B 1> Sim<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1a": {
-    "message": "At last you have arrived! I was wondering if you would return at all!<E>"
+    "message": "Enfim você chegou! Me perguntava se você iria voltar para começo de conversa!<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1b": {
-    "message": "I didn't expect such complications in <FC 128,64,0>Abydos<END FC>. It appears that the forces of darkness are moving faster than I anticipated.<E>"
+    "message": "Eu não esperava tantas complicações em <FC 128,64,0>Abydos<END FC>. Parece que as forças da escuridão estão se mexendo mais rápido do que eu imaginava.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1c": {
-    "message": "If you had not intervened, I am sure that eventually <FC 128,64,0>Abydos<END FC> would have suffered a similar fate to that of <FC 128,64,0>Heliopolis<END FC>.<E>"
+    "message": "Se você não tivesse intervindo, estou certo de que eventualmente <FC 128,64,0>Abydos<END FC> teria sofrido um destino similar àquele de <FC 128,64,0>Heliópolis<END FC>.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1d": {
-    "message": "Now that you have interfered with his plans, the enemy will be watching you more closely, striving harder to hinder your progress.<E>"
+    "message": "Agora que você interferiu com seus planos, o inimigo irá observá-lo mais de perto, se esforçando para impedir seu progresso.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1e": {
-    "message": "You must be prepared for the more difficult and dangerous journey that lies ahead. I have confidence that you will rise to the challenges that you will face.<E>"
+    "message": "Você deve estar preparado para a jornada mais difícil e perigosa que está por vir. Tenho confiança de que você irá superar os desafios que irá enfrentar.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1f": {
-    "message": "You should go to Anubis now. He may have information about the enemy that I lack. Use your <FC 0,128,0>Portal Amulet<END FC> to get to his tower more quickly.<E>"
+    "message": "Você deve ir até Anúbis agora. Ele pode ter informações sobre o inimigo que eu não tenho. Use seu <FC 0,128,0>Amuleto de Portal<END FC> para chegar mais rápido à torre dele.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1g": {
-    "message": "You should go to Anubis now. He may have information about the enemy that I lack. Use this <FC 0,128,0>Portal Amulet<END FC> to get to his tower more quickly.<E>"
+    "message": "Você deve ir até Anúbis agora. Ele pode ter informações sobre o inimigo que eu não tenho. Use este <FC 0,128,0>Amuleto de Portal<END FC> para chegar mais rápido à torre dele.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1a": {
-    "message": "<EFF><EPO>Sphinx! It is good to see you again my friend! You have faced many deadly dangers and challenges and it is clear to me that you are no longer an inexperienced apprentice.<P>Ahh... I see that you now have the <FC 0,128,0>Shield of Osiris<END FC>; what a perfect companion for the <FC 0,128,0>Blade of Osiris<END FC>.<E>"
+    "message": "<EFF><EPO>Sphinx! É bom vê-lo de novo meu amigo! Você enfrentou diversos perigos mortais e desafios e está claro para mim que você não é mais um aprendiz inexperiente.<P>Ahh... vejo que você agora possui o <FC 0,128,0>Escudo de Osíris<END FC>; que ótimo companheiro para a <FC 0,128,0>Espada de Osíris<END FC>.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1a1": {
     "message": "<EFF><EPO>Wielding these is a fine achievement indeed, for they will serve you well in your coming adventure.<P>Horus has already been here, but he would not wait for you. His impatience is equal to your enthusiasm.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1b": {
-    "message": "It seems that you have been busy on your voyage; that <FC 0,128,0>Canopic Vase<END FC> is a most interesting artifact.<E>"
+    "message": "Parece que você esteve ocupado em sua viagem; aquele <FC 0,128,0>Vaso Canópico<END FC> é um artefato muito interessante.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1c": {
-    "message": "It has been many years since I have seen one like this... But I might still be able to help release the soul that is trapped inside... <E> "
+    "message": "Já fazem muitos anos que não vejo um desses... Mas ainda posso ser capaz de ajudar a libertar a alma que está presa dentro... <E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1d": {
-    "message": "I see a place far to the north, inside a castle in the land of inferno; the land of <FC 128,64,0>Uruk<END FC>... Aha! I see the Prince of <FC 128,64,0>Luxor<END FC>... Tutankhamen.<E>"
+    "message": "Vejo um lugar longe ao norte, dentro de um castelo na terra do inferno; a terra de <FC 128,64,0>Uruk<END FC>... Ahá! Eu vejo o Príncipe de <FC 128,64,0>Luxor<END FC>... Tutancâmon.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1d1a": {
     "message": "Vou soltar a alma do <FC 0,128,0>Vaso Canópico<END FC> e mandá-la de volta ao seu dono...<E>"
