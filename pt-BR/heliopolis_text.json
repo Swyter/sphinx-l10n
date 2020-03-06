@@ -399,7 +399,7 @@
     "message": "Desculpe, mas você foi parar no mar, então você falhou em bater o meu tempo. Seque-se e tente de novo se quiser.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt01": {
-    "message": "Ahoy there! You look like someone who relishes a physical challenge - an important attribute in these dark and dangerous times.<P>I am the best swimmer in <FC 128,64,0>Heliopolis<END FC>. I'm definitely better than all those weaklings from <FC 128,64,0>Abydos<END FC>.<P>I've perfected my technique on a training course in the sea, between <FC 128,64,0>South Beach<END FC> and <FC 128,64,0>Sun Shrine Island<END FC>.<P>Do you think you can complete my training course?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Ei, você aí! Você parece alguém que gosta de um desafio físico - um atributo importante nestes tempos sombrios e perigosos.<P>Eu sou o melhor nadador em <FC 128,64,0>Heliópolis<END FC>. Sou definitivamente melhor que todos aqueles fracotes de <FC 128,64,0>Abydos<END FC>.<P>Eu aperfeiçoei minha técnica em um percurso de treino no mar, entre a <FC 128,64,0>Praia do Sul<END FC> e a <FC 128,64,0>Ilha do Santuário do Sol<END FC>.<P>Acha que consegue completar meu percurso?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt02": {
     "message": "Acha que consegue completar meu treinamento?<N>  <B 1> Sim<N>  <B 2> Não<E>"
@@ -462,7 +462,7 @@
     "message": "O herói retornou! Você salvou minha esposa! Como poderei te retribuir?<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeBack02": {
-    "message": "I didn't realize when we first met that you were an apprentice of our friend Imhotep. He said that he wants to speak with you in the <FC 128,64,0>Sun Shrine<END FC>.<E>"
+    "message": "Não tinha percebido quando nos conhecemos que você era um aprendiz do nosso amigo Imhotep. Ele disse que quer falar com você no <FC 128,64,0>Santuário do Sol<END FC>.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeBack03": {
     "message": "Ele também me pediu para te dar isso. Ele acha que poderá ser útil na sua jornada.<E>"
@@ -498,7 +498,7 @@
     "message": "Bem, as aparências enganam, não é? Eu sou um pastor de Esguichos, mas você não saberia disso só olhando pra mim.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt01": {
-    "message": "So Mr. Adventurer, I'll make you an offer. I have a nice shiny piece of treasure here that I'm sure you would find very interesting.<P>If you can help me by herding my Squirts back into the pen here, then I'll give you this piece of treasure.<P>So do you accept my offer?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Então Sr. Aventureiro, vou te fazer uma oferta. Eu tenho aqui uma brilhante peça de tesouro que você certamente acharia muito interessante.<P>Se conseguir me ajudar a reunir meus Esguichos de volta ao viveiro, te darei esse pedaço de tesouro.<P>E então, você aceita minha oferta?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt01Accept": {
     "message": "Excelente! Reúna todos os Esguichos e volte para falar comigo quando tiver terminado.<E>"
@@ -762,7 +762,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>Switches like this can only be activated by<N>performing a <FC 0,128,0>SLAM<END FC> attack on them.<P><ES HT_Text_ES_S_HelpText><CNTR>Perform a <FC 0,128,0>SOMERSAULT<END FC> and then press <SB HT_Action_Attack><N>while in mid air to perform a <FC 0,128,0>SLAM<END FC> attack.<P><ES HT_Text_ES_S_HelpText><CNTR>The <FC 0,128,0>SLAM<END FC> attack can also<N>be used to damage enemies.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_EyePost01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This deadly <FC 0,128,0>Eye of Ra Post<END FC> is made of<N>cracked stone. It looks like some kind<N>of explosion would shatter it.<E><ES HT_Text_ES_E_HelpText>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Este mortal <FC 0,128,0>Pilar do Olho de Rá<END FC> é feito de<N>pedra rachada. Parece que algum tipo de<N>explosão o quebraria.<E><ES HT_Text_ES_E_HelpText> "
   },
   "HT_Text_Hel_Exterior_Help_AtunShrine01": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Parece que uma estátua pequena caberia no topo deste pedestal.<E><ES HT_Text_ES_E_HelpText>"
@@ -846,16 +846,16 @@
     "message": "<EFF><EPO>I want you to take this to help you on your quest. It is a magical statue which is said to unlock the <FC 0,128,0>Great Obelisk<END FC> on the cliffs above <FC 128,64,0>South Beach<END FC>.<P>You must succeed in your quest. The fate of all lies in your hands. Good luck, great warrior! <E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Obelisks01": {
-    "message": "The word of the Ancients is inscribed on <FC 0,128,0>Golden Obelisks<END FC> throughout <FC 128,64,0>Heliopolis<END FC>. I have always wondered what our ancient ancestors recorded in those texts.<E>"
+    "message": "A palavra dos Anciões está inscrita em <FC 0,128,0>Obeliscos Dourados<END FC> ao redor de <FC 128,64,0>Heliópolis<END FC>. Sempre me perguntei o que nossos antigos ancestrais gravaram nestes textos.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Obelisks02": {
-    "message": "Ahh, I see you have translated some of the <FC 0,128,0>Golden Obelisks<END FC>!<P>Hmm... this looks like it could be a very prophetic message. You should translate the rest of the Obelisks to find out what the Ancients had to say.<E>"
+    "message": "Ahh, vejo que você traduziu alguns dos <FC 0,128,0>Obeliscos Dourados<END FC>!<P>Hmm... parece que essa poderia ser uma mensagem bem profética. Você deveria traduzir o resto dos Obeliscos para ver o que os Anciões tinham a dizer.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Done01": {
     "message": "Você precisa ter sucesso em sua jornada. Nosso destino está em suas mãos!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_Intro01": {
-    "message": "Welcome, stranger! If you are a connoisseur of fine <FC 0,128,0>Capture Beetles<END FC>, then you have come to the right place!<P>I stock only the very best in trained beetles, guaranteed to go exactly where you desire.<P>Feel free to browse my stock.<E>"
+    "message": "Bem-vindo, estranho! Se for um apreciador de finos <FC 0,128,0>Besouros de Captura<END FC>, então veio ao lugar certo!<P>Estoco apenas os melhores besouros treinados, com garantia de que irão exatamente onde você desejar.<P>Fique à vontade para ver meu estoque.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIntro01": {
     "message": "Although I have plenty of stock at the moment, I fear that may change in the near future.<P>It's my special <FC 0,128,0>Beetle Breeding Jar<END FC>, you see It went missing several days ago.<P>If I don't get it back soon, I won't be able to breed any more beetles. I could go out of business!<P>You look like you do plenty of traveling, so if you happen to find my <FC 0,128,0>Beetle Breeding Jar<END FC>, please bring it back to me.<E>"
@@ -1479,10 +1479,10 @@
     "message": "I built this wall eons ago to prevent my own destruction at the hands of my brother Set. All this time, my guardian Anubis has protected the wall from Set's onslaught.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2c": {
-    "message": "Cursing the palace was necessary to protect <FC 128,64,0>Heliopolis<END FC> but now the inhabitants are free and the demon destroyed.<E>"
+    "message": "Amaldiçoar o palácio foi necessário para proteger <FC 128,64,0>Heliópolis<END FC> mas agora os habitantes estão livres e o demônio foi destruído.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2d": {
-    "message": "You are the Chosen One who has fulfilled the Ancient Prophecy, but the ultimate outcome of your heroic actions is uncertain...<E>"
+    "message": "Você é O Escolhido que realizou a Profecia Antiga, mas o resultado final das suas ações heroicas é incerto...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4a": {
     "message": "Sphinx, there is one last quest you must undertake before you truly fulfill the <FC 0,128,0>Ancient Prophecy of Ra<END FC>...<E>"
