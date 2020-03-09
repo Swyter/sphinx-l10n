@@ -507,7 +507,7 @@
     "message": "Ahh bem... acho que terei que guardar meu lindo e brilhante pedaço de tesouro para mim.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt02": {
-    "message": "It's my Squirts, you see. They've all escaped and I need somebody to round them up for me. If you could help me I'd make it worth your while.<P>So will you help me?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Veja, são meus Esguichos. Todos eles escaparam e preciso de alguém para juntá-los de volta para mim. Se puder me ajudar eu farei valer a pena.<P>E então, vai me ajudar?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt02Accept": {
     "message": "Excelente! Reúna todos os Esguichos e volte para falar comigo quando tiver terminado.<E>"
@@ -624,7 +624,7 @@
     "message": "Os Deuses enviaram um mensageiro! Nós rezaremos por você, O Escolhido.<E>"
   },
   "HT_Text_Hel_Exterior_Basket_Obelisk": {
-    "message": "Hello again, Sphinx! I have some important information from Imhotep.<P>He is pleased with your progress and with the artifact that I have here; the <FC 0,128,0>Hands of Amun<END FC>. He sees that you are ready to begin your search for the <FC 0,128,0>Sacred Crown of Uruk<END FC>.<P>He believes that the crown may be in <FC 128,64,0>Uruk Islands<END FC> and that you will need to gain access to <FC 128,64,0>Great Wall Entrance III<END FC> to get there.<E>"
+    "message": "Olá novamente, Sphinx! Tenho informações importantes de Imhotep.<P>Ele está satisfeito com seu progresso e com o artefato que tenho aqui, as <FC 0,128,0>Mãos de Ámon<END FC>. Ele vê que você está pronto para começar sua busca pela <FC 0,128,0>Coroa Sagrade de Uruk<END FC>.<P>Ele acredita que a coroa esteja nas <FC 128,64,0>Ilhas de Uruk<END FC> e que você precisará ter acesso à <FC 128,64,0>Entrada da Grande Muralha III<END FC> para chegar lá.<E>"
   },
   "HT_Text_Hel_Exterior_Sign_CursedPalace01": {
     "message": "<N><CNTR>---[ <FC 128,64,0>Palácio Amaldiçoado<END FC> ]---<E>"
@@ -759,7 +759,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Essas rochas parecem rachadas e frágeis.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_SlamAttack01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Switches like this can only be activated by<N>performing a <FC 0,128,0>SLAM<END FC> attack on them.<P><ES HT_Text_ES_S_HelpText><CNTR>Perform a <FC 0,128,0>SOMERSAULT<END FC> and then press <SB HT_Action_Attack><N>while in mid air to perform a <FC 0,128,0>SLAM<END FC> attack.<P><ES HT_Text_ES_S_HelpText><CNTR>The <FC 0,128,0>SLAM<END FC> attack can also<N>be used to damage enemies.<E><ES HT_Text_ES_E_HelpText>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Botões como esse só podem ser ativados com<N>um ataque de <FC 0,128,0>ENTERRADA<END FC>sobre eles.<P><ES HT_Text_ES_S_HelpText><CNTR>Dê um <FC 0,128,0>SALTO MORTAL<END FC> e então aperte <SB HT_Action_Attack><N>no meio do ar para fazer um ataque de <FC 0,128,0>ENTERRADA<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR> A <FC 0,128,0>ENTERRADA<END FC> também pode<N>ser usada para ferir inimigos.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_EyePost01": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>Este mortal <FC 0,128,0>Pilar do Olho de Rá<END FC> é feito de<N>pedra rachada. Parece que algum tipo de<N>explosão o quebraria.<E><ES HT_Text_ES_E_HelpText> "
@@ -843,7 +843,7 @@
     "message": "É você! Você é o Escolhido! Eu nem sei o que dizer.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02e": {
-    "message": "<EFF><EPO>I want you to take this to help you on your quest. It is a magical statue which is said to unlock the <FC 0,128,0>Great Obelisk<END FC> on the cliffs above <FC 128,64,0>South Beach<END FC>.<P>You must succeed in your quest. The fate of all lies in your hands. Good luck, great warrior! <E>"
+    "message": "<EFF><EPO>Quero que fique com isso para ajudá-lo em sua jornada. É uma estátua mágica que dizem abrir o <FC 0,128,0>Grande Obelisco<END FC> nos penhascos sobre a <FC 128,64,0>Praia do Sul<END FC>.<P>Você deve ter sucesso em sua jornada. O destino de todos está em suas mãos. Boa sorte, grande guerreiro! <E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Obelisks01": {
     "message": "A palavra dos Anciões está inscrita em <FC 0,128,0>Obeliscos Dourados<END FC> ao redor de <FC 128,64,0>Heliópolis<END FC>. Sempre me perguntei o que nossos antigos ancestrais gravaram nestes textos.<E>"
@@ -858,19 +858,19 @@
     "message": "Bem-vindo, estranho! Se for um apreciador de finos <FC 0,128,0>Besouros de Captura<END FC>, então veio ao lugar certo!<P>Estoco apenas os melhores besouros treinados, com garantia de que irão exatamente onde você desejar.<P>Fique à vontade para ver meu estoque.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIntro01": {
-    "message": "Although I have plenty of stock at the moment, I fear that may change in the near future.<P>It's my special <FC 0,128,0>Beetle Breeding Jar<END FC>, you see It went missing several days ago.<P>If I don't get it back soon, I won't be able to breed any more beetles. I could go out of business!<P>You look like you do plenty of traveling, so if you happen to find my <FC 0,128,0>Beetle Breeding Jar<END FC>, please bring it back to me.<E>"
+    "message": "Apesar de ter bastante estoque no momento, temo que isso possa mudar no futuro.<P>É o meu <FC 0,128,0>Jarro Criadouro de Besouros<END FC>, sabe. Ele sumiu há vários dias atrás.<P>Se eu não encontrá-lo logo, não serei capaz de criar mais besouros. Meu negócio pode falir!<P>Você parece alguém que viaja bastante, então se encontrar o meu <FC 0,128,0>Jarro Criadouro de Besouros<END FC>, por favor o traga de volta a mim.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIncomplete01": {
     "message": "Ainda há estoque o suficiente para manter as prateleiras cheias, mas isso não irá durar muito tempo.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestComplete01": {
-    "message": "My <FC 0,128,0>Beetle Breeding Jar<END FC>! I can't believe you found it!<P>Now I'll be able to get busy building up my stock again! How can I possibly repay you?<P>Take this <FC 0,128,0>Loyalty Card<END FC>, it entitles you to half price beetles every time you visit my store.<P>Thanks again, stranger!<E>"
+    "message": "Meu <FC 0,128,0>Jarro Criadouro de Besouros<END FC>! Não acredito que você encontrou!<P>Agora posso voltar a fazer meu estoque novamente! Como poderei retribuí-lo?<P>Fique com este <FC 0,128,0>Cartão Fidelidade<END FC>, ele garantirá a você metade do preço nos besouros sempre que visitar a minha loja.<P>Obrigado de novo, estranho!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestComplete02": {
-    "message": "Welcome back, valued customer. Remember, your <FC 0,128,0>Loyalty Card<END FC> entitles you to a 50% discount on all beetles!<E>"
+    "message": "Bem-vindo de volta, estimado cliente. Lembre-se, seu <FC 0,128,0>Cartão Fidelidade<END FC> o garante 50% de desconto em todos os besouros!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_Intro01": {
-    "message": "Greetings! It's always nice to see a new face around here. We rarely get any visitors.<P>I am Shetta, the local healer of the <FC 128,64,0>Bedouin Outpost<END FC>. I am quite skilled in ancient healing incantations and rituals.<E>"
+    "message": "Saudações! É sempre bom ver um rosto novo por aqui. Nós raramente temos visitantes.<P>Eu sou Shetta, a curandeira local do <FC 128,64,0>Povoado de Bedouin<END FC>. Sou muito habilidosa em rituais antigos e encantamentos de cura.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_Prompt01": {
     "message": "O que o traz ao nosso povoado hoje?<N>  <B 1> Cura<N>  <B 2> <FC 0,128,0>Peça de Ankh<END FC> Ritual<N>  <B 3> Nada em particular<E>"
@@ -909,7 +909,7 @@
     "message": "Desculpe, mas você não têm <FC 0,128,0>Káraves<END FC> o suficiente.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_MyLife": {
-    "message": "Hi there! I didn't expect to see you around these parts. I guess you like to travel around a lot, just like me.<P>I like to come here to <FC 128,64,0>Heliopolis<END FC> now and then, just to chill out on the beach.<P>The only problem is that it's far too hot and sunny to lie around out there right now.<E>"
+    "message": "Olá! Não esperava ver você por estes lados. Você parece gostar de viajar bastante, assim como eu.<P>Gosto de vir até <FC 128,64,0>Heliópolis<END FC> de vez em quando, só para relaxar na praia.<P>O único problema é que está quente e ensolarado demais para deitar por aqui no momento.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_ItemPrompt": {
     "message": "Ei! Uma <FC 0,128,0>Sombrinha<END FC>! Posso tê-la para me proteger do sol?<N>  <B 1> Sim<N>  <B 2> Não<E>"
@@ -936,10 +936,10 @@
     "message": "Minha nossa! Não acredito! Eu decifrei a <FC 0,128,0>Pedra de Roseta<END FC>!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Complete1b": {
-    "message": "I did it, my friend! Finally, after all these long years, I have realized my dream! I couldn't have done it without you! You've made an old man very happy.<E>"
+    "message": "Eu consegui, meu amigo! Finalmente, depois de longos anos, eu realizei o meu sonho! Eu não teria conseguido sem você! Você fez um velho homem muito feliz.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Complete1c": {
-    "message": "<EFF><EPO>Please, take the reassembled stone as a gift. You can use it to decipher the <FC 0,128,0>5 Golden Obelisks of Heliopolis<END FC>!<END FC><P>Once you’ve deciphered the 5 Obelisks, you must return and let me know what you’ve found.<P>I’m far too old to search for them myself, but I am extremely interested in what you will discover!<P>Don't forget, you can keep track of your findings in your notes. Good luck!<E>"
+    "message": "<EFF><EPO>Por favor, fique com a pedra remontada como presente. Você pode usá-la para decifrar os <FC 0,128,0>5 Obeliscos Dourados de Heliópolis<END FC>!<END FC><P>Quando tiver decifrado os 5 Obeliscos, você deve retornar e me contar o que encontrou.<P>Sou velho demais para procurá-los eu mesmo, mas estou extremamente interessado no que você descobrir!<P>Não esqueça, você pode acompanhar suas descobertas nas suas anotações. Boa sorte!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Wait1a": {
     "message": "Ainda preciso de tempo para juntar as peças. <E>"
@@ -951,19 +951,19 @@
     "message": "Saudações, viajante! Bem-vindo ao nosso modesto <FC 128,64,0>Povoado de Bedouin<END FC>.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1b": {
-    "message": "If you are a connoisseur of fine <FC 0,128,0>Capture Beetles<END FC> then you have come to the right place.<E>"
+    "message": "Se você for um apreciador de <FC 0,128,0>Besouros de Captura<END FC> da melhor qualidade, então veio ao lugar certo.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1c": {
-    "message": "Browse my stock while you still can. If I don't find my <FC 0,128,0>Beetle Breeder Jar<END FC> soon there won't be any beetles left to buy!<E>"
+    "message": "Veja meu estoque enquanto ainda pode. Se eu não encontrar meu <FC 0,128,0>Jarro Criadouro de Besouros<END FC> logo, não haverá mais besouros para comprar!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime": {
-    "message": "Years ago, I fell through a strange portal and got stuck in this world. Not that I mind though.<P>Now I can concentrate on my hobby of collecting and breeding beetles.<P>I used to have a collection of rare remote control explosive breeder beetles, but a few weeks ago a sandstorm came and blew them away, along with my spare <FC 0,128,0>Beetle Satchel<END FC>. Ah well, life goes up and down!<E>"
+    "message": "Anos atrás, eu caí por um portal estranho e fiquei preso neste mundo. Mas não que eu me importe.<P>Agora posso me concentrar no meu hobby de coletar e criar besouros.<P>Eu costumava ter uma coleção de raros besouros explosivos por controle remoto, mas algumas semanas atrás uma tempestade veio e levou todos embora, junto com a minha <FC 0,128,0>Sacola de Besouros<END FC> extra. Enfim, vida que segue!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_GotBeetleBreederItem": {
-    "message": "<N><CNTR>You found the <FC 0,128,0>Beetle Breeder Jar<END FC>!<P><CNTR>The Beetle Breeder in the <FC 128,64,0>Bedouin Outpost<END FC> will be very happy to see this.<E>"
+    "message": "<N><CNTR>Você encontrou o <FC 0,128,0>Jarro Criadouro de Besouros<END FC>!<P><CNTR>O Criador de Besouros no <FC 128,64,0>Povoado de Bedouin<END FC> ficará muito feliz em ver isso.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_GotRosettaStone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Rosetta Stone<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This ancient tablet allows you to<N><CNTR>decipher the text of the Ancients!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Pedra de Roseta<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Essa tábua antiga o permite<N><CNTR>decifrar o texto dos Anciões!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_Done01": {
     "message": "Vá em frente. O Faraó está esperando por você.<E>"
@@ -990,10 +990,10 @@
     "message": "Desculpe, mas você não têm <FC 0,128,0>Káraves<END FC> o suficiente.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPiecesNoneValid": {
-    "message": "The outlook is unclear... I'm afraid I cannot foresee the locations of any more <FC 0,128,0>Gold Ankh Pieces<END FC> at the moment. Try again later and I may be able to help.<E>"
+    "message": "O prospecto é incerto... Receio que não consigo ver a localização de nenhuma <FC 0,128,0>Peça de Ankh de Ouro<END FC> no momento. Volte mais tarde e talvez eu possa te ajudar.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPiecesComplete": {
-    "message": "Unless my powers deceive me, I do believe that you have found all the ancient <FC 0,128,0>Gold Ankh Pieces<END FC>! Truly amazing!<E>"
+    "message": "A não ser que meus poderes me enganem, acredito que você encontrou todas as <FC 0,128,0>Peças de Ankh de Ouro<END FC>! Realmente incrível!<E>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1a": {
     "message": "Mas o que...? O que é esse lugar estranho?<W 30>"
@@ -1002,19 +1002,19 @@
     "message": "Uah! Você me deu um susto, estranho!<W 30>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1c": {
-    "message": "I was summoned from <FC 128,64,0>Abydos<END FC> to write the Pharaoh's autobiography, when I started to feel ever so sleepy. Next thing I know, here I am with you.<E>"
+    "message": "Fui convocado de <FC 128,64,0>Abydos<END FC> para escrever a autobiografia do Faraó, quando comecei a me sentir sonolento. Quando me dei conta, aqui estou com você.<E>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1d": {
-    "message": "These strange events have given me a great idea for a gripping new book! I'm going back to <FC 128,64,0>Abydos<END FC> immediately to start work on it.<E>"
+    "message": "Esses acontecimentos estranhos me deram uma ótima ideia para um novo livro! Voltarei à <FC 128,64,0>Abydos<END FC> imediatamente para começar a escrevê-lo.<E>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1e": {
-    "message": "Thank you for your help stranger, take this book of mine as a gift. When you're in <FC 128,64,0>Abydos<END FC>, don't hesitate to drop by for a chat. Toodle-pip!<E>"
+    "message": "Obrigado pela ajuda, estranho, leve este livro meu como presente. Quando estiver em <FC 128,64,0>Abydos<END FC>, não hesite em parar para conversar. Até logo!<E>"
   },
   "HT_Text_Hel_CursedPalace_Help_GotBookOfTheDead": {
     "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu o <FC 0,128,0>Livro dos Mortos<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Com este antigo livro você pode invocar Ces-To para<N><CNTR>transportar <FC 0,128,0>Vasos Canópicos<END FC> para a Múmia!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp": {
-    "message": "What happened? Oh! My precious doggies are gone!<P>Please sir, you must help me! The last thing I remember is my doggies turning nasty and attacking me! Why would they do that?!<P>They seem to have run off now, but if you could find them for me I would be most grateful.<P>Be careful though. They were, shall we say, ill tempered when I last saw them...<E>"
+    "message": "O que aconteceu? Óh! Meus preciosos cãezinhos sumiram!<P>Por favor senhor, você precisa me ajudar! A última coisa que me lembro é dos meus cãezinhos ficando agressivos e me atacando! Por que eles fariam aquilo?!<P>Eles parecem ter fugido agora, mas se puder encontrá-los serei muito grata.<P>Mas tenha cuidado. Eles estavam, digamos, mal-humorados da última vez que os vi...<E> "
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsAllStillMissing": {
     "message": "Se você encontrar meus cãezinhos por favor traga-os até mim, estou tão preocupada."
@@ -1032,13 +1032,13 @@
     "message": "Obrigada novamente por resgatar meus pobres, fofos cãezinhos. Quem faria algo assim com criaturas inocentes?<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp": {
-    "message": "Oh my! How disorientating!<P>The last thing I remember is my husband the Pharaoh behaving in a most peculiar way.<P>He was obsessed with the construction of a tower beyond the <FC 128,64,0>Great Wall<END FC>.<P>He became quite short tempered and aggressive. I do hope he's feeling better now.<E>"
+    "message": "Minha nossa! Que tontura!<P>A última coisa que me lembro é do meu marido, o Faraó, agindo de uma maneira muito estranha.<P>Ele estava obcecado com a construção de uma torre além da <FC 128,64,0>Grande Muralha<END FC>.<P>Ele se tornou muito irritado e agressivo. Espero que ele esteja se sentindo melhor agora.<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_StillWorried": {
     "message": "Meu querido Faraó! Eu espero que ele esteja bem.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp": {
-    "message": "Grrr! What kind of devilry was that?<P>The last I remember is the Pharaoh being very keen on security. Looks like he had every reason to be cautious.<E>"
+    "message": "Grr! Que tipo de magia negra foi essa?<P>A última coisa que me lembro é o Faraó estando bem preocupado com a segurança. Parece que ele tinha razão em estar cauteloso.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_GoAway": {
     "message": "Você não pode ver o Faraó sem um <FC 0,128,0>Convite<END FC>.<E>"
@@ -1047,7 +1047,7 @@
     "message": "Vejo que você tem um <FC 0,128,0>Convite<END FC>. O Faraó o verá com prazer.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp": {
-    "message": "Curses! What in the name of Ra was that?<P>Maybe the Pharaoh was right to encourage tighter palace security.<E>"
+    "message": "Diabos! O que em nome de Rá foi aquilo?<P>Acho que o Faraó estava certo em querer reforçar a segurança do palácio.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_GoAway": {
     "message": "Estritamente sem visitantes sem um <FC 0,128,0>Convite<END FC>.<E>"
@@ -1056,31 +1056,31 @@
     "message": "Sim, seu <FC 0,128,0>Convite<END FC> parece estar em ordem, pode entrar.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp": {
-    "message": "No! I will not let my Master's plans falter because of you!<P>Try to interfere and I will destroy you like the insect that you are!<E>"
+    "message": "Não! Eu não deixarei os planos do meu Mestre falharem por sua culpa!<P>Tente interferir e eu o destruirei como o inseto que você é!<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_Thanks": {
     "message": "Hã? Ahhh! Obrigado por me libertar da maldição!<P>É melhor eu ir andando. <E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1a": {
-    "message": "Arghhhh! Destroyed by a mere child!<P>I am defeated for now, but you have made a very grave mistake this day; you have interfered with the plans of the almighty Set.<E>"
+    "message": "Arghhhh! Destruído por uma mera criança!<P>Fui derrotado por hora, mas você cometeu um erro grave neste dia. Você interferiu com os planos do todo-poderoso Set.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1b": {
-    "message": "His fury will cause the earth to tremble, the skies will be scorched, and the hearts of all living things will wither in terror.<E>"
+    "message": "Sua fúria fará a terra tremer, os céus serão queimados, e os corações de todas as coisas vivas se encolherão de terror.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1c": {
-    "message": "In my final moments of life, I take pleasure in the fact that a slow, excruciatingly painful death is all that you have to look forward to.<E>"
+    "message": "Em meus momentos finais de vida, fico satisfeito em saber que uma morte lenta e extremamente dolorosa é tudo que você tem pela frente.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1d": {
     "message": "<END TT><TT 2>Set... destruirá... você... <W 5><P><END TT><TT 6>Sphinx...<W 1>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a": {
-    "message": "Well, I have to admit, you are a persistent one. However, that persistence will not get you this crown.<E>"
+    "message": "Bem, devo admitir, você é persistente. Porém, essa persistência não lhe ganhará esta coroa.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a11": {
-    "message": "<EFF><EPO>I will not let it fall into hands as ignorant as yours. You will never understand its power!<P>Anubis tried to take the crown from me before, but he failed. He was forced to cast me into stone for eternity.<E>"
+    "message": "<EFF><EPO>Não vou deixar que caia em mãos tão ignorantes quanto as suas. Você nunca entenderá seu poder!<P>Anúbis tentou tirar a coroa de mim antes, mas falhou. Ele foi forçado a me transformar em pedra pela eternidade.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a1": {
-    "message": "<EFF><EPO>It was all he could do to stop me. Now he sends you, his little puppet, to take it from me.<P>He must be getting old and senile, festering away in that tower. Muahahahaha!!<E>"
+    "message": "<EFF><EPO>Isso foi tudo o que ele conseguiu fazer para me parar. Agora ele manda você, seu pequeno fantoche, para tirá-la de mim.<P>Ele deve estar ficando velho e decrépito, apodrecendo naquela torre. Muahahahaha!!<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a2": {
     "message": "Deverei retornar essa coroa ao meu Lorde Set...<E>"
@@ -1098,19 +1098,19 @@
     "message": "Espere um pouco, esse é o <FC 128,64,0>Palácio do Faraó<END FC>. Como diabos eu vim parar aqui?<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1c": {
-    "message": "<EFF><EPO>Of course! I was called to work on the Palace Gardens! I don't recognize any of these other people though...<P>I thought the Pharaoh had banned all visitors... I wonder how he will feel when he sees all these stone people everywhere.<E>"
+    "message": "<EFF><EPO>É claro! Eu fui chamado para trabalhar nos jardins do Palácio! Mas não reconheço nenhuma das outras pessoas...<P>Pensei que o Faraó tivesse banido visitantes... Me pergunto como irá se sentir quando ver essas pessoas de pedra por toda a parte.<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1d": {
-    "message": "Anyway, I should get back to the farm and find my brother, he must be very worried about me. Thanks for freeing me, my friend.<E>"
+    "message": "De qualquer forma, devo voltar à fazenda e encontrar meu irmão, ele deve estar muito preocupado comigo. Obrigado por me libertar, amigo.<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1e": {
-    "message": "You should come by the farm, it is just up the hill outside here. Come and see us and we'll help you if we can.<E> "
+    "message": "Você devia vir até a fazenda, é logo ali no topo da colina. Venha nos ver e iremos ajudá-lo com o que pudermos.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1a": {
-    "message": "Wha? Where? Ahh, greetings young fellow. I foresaw that you would be the one to free me from the curse.<E>"
+    "message": "Hein? Onde? Ahh, saudações jovem companheiro. Eu previ que você seria aquele que iria me libertar da maldição.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1b": {
-    "message": "My skills of prediction are well known throughout <FC 128,64,0>Abydos<END FC>, but even I could not see the approach of the curse that trapped me here.<E>"
+    "message": "Minhas habilidades de previsão são conhecidas por toda <FC 128,64,0>Abydos<END FC>, mas mesmo eu não pude ver a vinda da maldição que me prendeu aqui.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1c": {
     "message": "A esposa do Faraó me convocou para fazer uma previsão, mas aí... Espere um momento. Ahhhh, consigo ver algo...<E>"
@@ -1269,19 +1269,19 @@
     "message": "A conclusão da Profecia está próxima.<E>"
   },
   "HT_Text_Hel_CursedPalace_TakeCrown5": {
-    "message": "Take this <FC 0,128,0>Gold Ankh<END FC> as a reward for your achievement.<P><ES HT_Text_ES_S_HelpText><CNTR>This magic artifact has increased your health capacity<N>by <FC 0,128,0>1 Ankh<END FC> and has fully replenished your health!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "Leve este <FC 0,128,0>Ankh de Ouro<END FC> como recompensa por sua conquista.<P><ES HT_Text_ES_S_HelpText><CNTR>Este artefato mágico aumentou sua capacidade de vida<N>por <FC 0,128,0>1 Ankh<END FC> e a recuperou completamente!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_CursedPalace_Help_GotHelianCrown": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Você conseguiu a <FC 0,128,0>Coroa Sagrada de Heliópolis<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Anúbis ficará muito ansioso para ver esse artefato antigo.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Hel_CursedPalace_Help_GotRoyalInvite": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Royal Invitation<END FC>!<P><CNTR>This official document invites you for a meeting with the Pharaoh of <FC 128,64,0>Heliopolis<END FC>.<E>"
+    "message": "<N><CNTR>Você conseguiu o <FC 0,128,0>Convite Real<END FC>!<P><CNTR>Este documento oficial o convida para uma reunião com o Faraó de <FC 128,64,0>Heliópolis<END FC>.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Intro02": {
-    "message": "You must succeed! It has been my lifelong dream to learn the secret of the <FC 0,128,0>Rosetta Stone<END FC>.<E>"
+    "message": "Você deve ter sucesso! Têm sido meu sonho a vida toda descobrir o segredo da <FC 0,128,0>Pedra de Roseta<END FC>.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePiece01": {
-    "message": "Hello again, dear boy. Wait a minute... is that? Can it be? My lord, it is! You have found one of the <FC 0,128,0>Rosetta Stone Pieces<END FC>!<P>Well done, my boy! If you can find the remaining <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> Pieces<END FC> then I may be able to restore the stone and unravel the secret it holds!<E>"
+    "message": "Olá novamente, caro garoto. Espere um pouco... isso é? Será possível? Céus, é sim! Você encontrou uma das <FC 0,128,0>Peças da Pedra de Roseta<END FC>!<P>Muito bem, meu garoto! Se conseguir encontrar o restante das <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> Peças<END FC> talvez eu possa restaurar a pedra e revelar o segredo que ela guarda!<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePiece02": {
     "message": "Você só precisa de <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> Peças<END FC> e então poderemos tentar aprender o segredo da pedra!<E>"
@@ -1296,7 +1296,7 @@
     "message": "Você me deixará ficar com as <FC 0,128,0>Peças da Pedra de Roseta<END FC>?<N>  <B 1> Sim<N>  <B 2> Não<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePieceDecline": {
-    "message": "Alas, they are yours to keep if you wish. But you will not find anyone more capable than I of learning the secret of the stone. To you they are quite useless.<E>"
+    "message": "Infelizmente, pode ficar com elas se quiser. Mas você não encontrará ninguém mais capaz do que eu para aprender o segredo da pedra. Para você elas serão bem inúteis.<E>"
   },
   "HT_Text_Hel_Dungeon_Help_DoorChains": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Correntes pesadas o impedem<N>de abrir essa porta.<ES HT_Text_ES_E_HelpText><E>"
@@ -1335,19 +1335,19 @@
     "message": "Por favor, me siga. Deixe-me mostrá-lo algo muito interessante. <E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_d": {
-    "message": "<EFF><EPO>These ancient writings on the wall here say that the stone was shattered into six pieces, and that the pieces were hidden inside this temple.<P>However, it also says they are guarded by ferocious beasts. <E>"
+    "message": "<EFF><EPO>As escritas antigas nessa parede aqui dizem que a pedra quebrou em seis partes, e que os pedaços foram escondidos dentro deste templo.<P>Porém, também diz que elas são protegidas por bestas ferozes. <E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_e": {
-    "message": "I am too old and frail to venture inside the temple. Alas, I shall die without realizing my dream.<E>"
+    "message": "Eu sou velho e frágil demais para me aventurar pelo templo. Infelizmente, devo morrer sem realizar o meu sonho.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_f": {
-    "message": "But wait! You are young and strong, as I think I once was! Go forth into the temple, if you have the stomach for adventure.<E>"
+    "message": "Mas espere! Você é jovem e forte, como eu um dia já fui! Vá em frente e entre no templo, se tiver o estômago para aventura.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_g": {
     "message": "Se você encontrar as <FC 0,128,0>Peças da Pedra de Roseta<END FC>, traga-as até mim e faça um velho homem feliz.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_a": {
-    "message": "<EFF><EPO>Excellent, my boy! Excellent! Now I must get back to my tent in the <FC 128,64,0>Bedouin Outpost<END FC> and get to work.<P>You must come and visit me to check on my findings. The <FC 128,64,0>Bedouin Outpost<END FC> is easy to find if you approach through the underwater passage from the <FC 128,64,0>Cursed Palace<END FC>.<E>"
+    "message": "<EFF><EPO>Excelente, meu garoto! Excelente! Agora devo voltar para minha tenda no <FC 128,64,0>Povoado de Bedouin<END FC> e ir ao trabalho.<P>Você deve vir me visitar para verificar meus achados. O <FC 128,64,0>Povoado de Bedouin<END FC> é fácil de se encontrar através da passagem submersa do <FC 128,64,0>Palácio Amaldiçoado<END FC>.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_b": {
     "message": "Antes de ir, quero que leve estes <FC 0,128,0>Projéteis Submersos<END FC>. Eles deverão se provar como uma ferramenta útil na sua jornada de volta ao <FC 128,64,0>Povoado de Bedouin<END FC>.<E>"
@@ -1356,82 +1356,82 @@
     "message": "Não se esqueça de me visitar para saber minhas descobertas! Espero vê-lo logo, jovem rapaz!<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Complete_no": {
-    "message": "Alas, they are yours to keep if you wish, but you will not find anyone more capable than I of unraveling the secret of the stone.<E>"
+    "message": "Infelizmente, são suas para ficar caso queira, mas você não encontrará ninguém mais capaz do que eu de revelar o segredo da pedra.<E>"
   },
   "HT_Text_Hel_WallSection1_Help_BlowpipeTargets": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Alvos como este podem ser atirados com a <FC 0,128,0>Zarabatana<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_WallSection2_Help_KaAnkh01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is a <FC 0,128,0>Ka Ankh Firing Point<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>They can be used to magically transport<N>you to the location of a nearby <FC 0,128,0>Ka Ankh<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_KaTile> while standing on the<N>firing point to enter first person mode.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Este é um <FC 0,128,0>Ponto de Tiro de Ká Ankh<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Eles podem ser usados para magicamente teletransportar<N>você para o local de um <FC 0,128,0>Ankh de Ká<END FC> próximo.<P><ES HT_Text_ES_S_HelpText><CNTR>Aperte <SB HT_Action_KaTile> enquanto estiver sobre o<N>ponto de tiro para entrar no modo em primeira pessoa.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_WallSection2_Help_KaAnkh02": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Aim and shoot the glowing top of a nearby <FC 0,128,0>Ka Ankh<END FC> and<N>you will be magically transported to that location.<E><ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Mire e atire no topo brilhante de um <FC 0,128,0>Ankh de Ká<END FC> próximo e<N>você será magicamente teletransportado àquele local.<E><ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1a": {
     "message": "Então, você é Sphinx. Que decepcionante. Eu esperava muito mais.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1a1": {
-    "message": "<EFF><EPO>I know why you have come here. You wish to attempt that which many others before you have failed.<P>If you wish to free the people of the <FC 128,64,0>Cursed Palace<END FC> you must prove to me that you are worthy. Your first test will be one of courage and faith...<E>"
+    "message": "<EFF><EPO>Eu sei porquê você veio até aqui. Você deseja tentar aquilo que muitos antes de você falharam.<P>Se quiser libertar as pessoas do <FC 128,64,0>Palácio Amaldiçoado<END FC> você deve provar a mim que é digno. Seu primeiro teste será um de coragem e fé...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1b": {
     "message": "Venha, Sphinx. Chegue mais perto. Não seja intimidado por esse abismo de lava mortal.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1c": {
-    "message": "Haha! That was merely a party trick in comparison to the full power I possess. Your second test will be one of skill and technique...<E>"
+    "message": "Haha! Isso foi um mero truque de festa comparado ao poder completo que possuo. Seu segundo teste será um de habilidade e técnica...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1d": {
-    "message": "You must capture <FC 0,128,0>3 Fire Armadillos<END FC> from the area you have just passed through. Take these <FC 0,128,0>Capture Beetles<END FC>. They are the tool you will require. Use them wisely.<E>"
+    "message": "Você deve capturar <FC 0,128,0>3 Tatus de Fogo<END FC> da área por onde você acabou de passar. Leve estes <FC 0,128,0>Besouros de Captura<END FC>. Eles são a ferramenta que você precisa. Use-os com sabedoria.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1e": {
-    "message": "Prove to me that you are worthy and I will grant the freedom of some of the <FC 128,64,0>Cursed Palace<END FC> inhabitants.<E>"
+    "message": "Prove para mim que você é digno e eu garantirei a liberdade de alguns dos habitantes do <FC 128,64,0>Palácio Amaldiçoado<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1a": {
-    "message": "Ahh, you succeeded! I expected you to fail like your friend Horus. It seems you are made of sterner stuff.<E>"
+    "message": "Ahh, você conseguiu! Eu esperava que você fosse falhar como o seu amigo Hórus. Parece que você é feito de algo mais firme.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1b": {
-    "message": "Very well! These <FC 0,128,0>Curse Stones<END FC> will free two of the inhabitants of the <FC 128,64,0>Cursed Palace<END FC>.<E>"
+    "message": "Muito bem! Essas <FC 0,128,0>Pedras da Maldição<END FC> irão libertar dois habitantes do <FC 128,64,0>Palácio Amaldiçoado<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1c": {
-    "message": "<EFF><EPO>Now you not only have the power to capture any enemy, you can also release <FC 0,128,0>Fire Armadillos<END FC> and <FC 0,128,0>Slim Burbles<END FC>.<P>These creatures are powerful tools that will aid you in your quest. Use them wisely.<P>I may call upon you again in the future, Sphinx...<E>"
+    "message": "<EFF><EPO>Agora você não só possui o poder de capturar qualquer inimigo, você também pode soltar <FC 0,128,0>Tatus de Fogo<END FC> e <FC 0,128,0>Borbulhas Esguias<END FC>.<P>Essas criaturas são poderosas ferramentas que o ajudarão em sua jornada. Use-as com sabedoria.<P>Devo invocá-lo novamente no futuro, Sphinx...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1c1": {
-    "message": "At last, you have returned! I have a much more dangerous quest for you to undertake if you wish to free more of the <FC 128,64,0>Cursed Palace<END FC> inhabitants.<E>"
+    "message": "Finalmente, você retornou! Eu tenho uma jornada muito mais perigosa para você enfrentar se quiser libertar mais habitantes do <FC 128,64,0>Palácio Amaldiçoado<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1d": {
-    "message": "In the island city of <FC 128,64,0>Abydos<END FC> is a sacred artifact which I entrusted to the Mayor many years ago; the <FC 0,128,0>Sacred Crown of Abydos<END FC>.<E>"
+    "message": "Na cidade ilhada de <FC 128,64,0>Abydos<END FC> há um artefato sagrado o qual confiei ao Prefeito há muitos anos atrás: a <FC 0,128,0>Coroa Sagrada de Abydos<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1e": {
-    "message": "<EFF><EPO>The Mayor resides in the city's <FC 128,64,0>Council Chambers<END FC>. Convince him to return the Crown to me and I will give you the <FC 0,128,0>Curse Stones<END FC> you desire.<P>The portal beneath you will take you to <FC 128,64,0>Abydos<END FC> if you have the <FC 128,64,0>Abydos Portal Amulet<END FC>. Farewell, Sphinx.<E>"
+    "message": "<EFF><EPO>O Prefeito reside nas <FC 128,64,0>Câmaras do Conselho<END FC> da cidade. Convença-o a retornar a Coroa para mim e eu lhe darei as <FC 0,128,0>Pedras da Maldição<END FC> que deseja.<P>O portal embaixo de você irá levá-lo até <FC 128,64,0>Abydos<END FC> caso tenha o <FC 128,64,0>Amuleto do Portal de Abydos<END FC>. Adeus, Sphinx.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1a": {
-    "message": "Ahh... you have returned! I was beginning to think the challenge had proved beyond your capabilities! You have my artifact?<E>"
+    "message": "Ahh, você retornou! Estava começando a achar que o desafio tivesse ido além da sua capacidade! Você tem meu artefato?<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1b": {
-    "message": "So the crown was in the possession of a demon? Hmmm... this is indeed an ominous revelation.<E>"
+    "message": "Então a coroa estava sob posse de um demônio? Hmmm... isso é de fato uma revelação sinistra.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1c": {
-    "message": "If Set has attempted to steal the <FC 0,128,0>Sacred Crown of Abydos<END FC>, then it is certain that he is also seeking the <FC 0,128,0>Sacred Crown of Uruk<END FC>.<E>"
+    "message": "Se Set tentou roubar a <FC 0,128,0>Coroa Sagrada de Abydos<END FC>, então é certo que ele também esteja em busca da <FC 0,128,0>Coroa Sagrada de Uruk<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1d": {
-    "message": "I will stay true to my word. These <FC 0,128,0>Curse Stones<END FC> will free more of the inhabitants of the <FC 128,64,0>Cursed Palace<END FC>.<E>"
+    "message": "Eu irei manter minha palavra. Estas <FC 0,128,0>Pedras da Maldição<END FC> irão libertar mais habitantes do <FC 128,64,0>Palácio Amaldiçoado<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1e": {
-    "message": "However, you must find the <FC 0,128,0>Sacred Crown of Uruk<END FC> and return it to me before Set lays his hands on it.<E>"
+    "message": "Porém, você deve encontrar a <FC 0,128,0>Coroa Sagrada de Uruk<END FC> e retorná-la a mim antes que Set coloque suas mãos nela.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1f": {
-    "message": "These <FC 0,128,0>Acid Darts<END FC> should help you in your quest for the crown.<E>"
+    "message": "Estes <FC 0,128,0>Dardos Ácidos<END FC> deverão ajudá-lo em sua jornada pela coroa.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1g": {
     "message": "Boa sorte em sua nova jornada! Você vai precisar!<W 90>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1a": {
-    "message": "Excellent! You brought the <FC 0,128,0>Sacred Crown of Uruk<END FC>! You are proving that you are a true hero!<E>"
+    "message": "Excelente! Você trouxe a <FC 0,128,0>Coroa Sagrada de Uruk<END FC>! Você está se provando um verdadeiro herói!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1b": {
-    "message": "But you are not yet strong enough to defeat Set! I am glad that you did not confront him in <FC 128,64,0>Uruk<END FC>. He would have destroyed you with ease.<E>"
+    "message": "Mas você ainda não é forte o bastante para derrotar Set! Estou feliz que você não o enfrentou em <FC 128,64,0>Uruk<END FC>. Ele facilmente o teria destruído.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1c": {
-    "message": "Alas, time is running out! Set is close to his ultimate goal of destroying his brother Osiris!<E>"
+    "message": "O tempo está acabando! Set está chegando próximo ao seu objetivo final de destruir seu irmão Osíris!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1d": {
     "message": "Houve um tempo em que apenas um Deus governava sobre nós. Este Deus era conhecido pelo nome de... Rá.<E>"
@@ -1473,10 +1473,10 @@
     "message": "Observe seu tremendo poder e esplendor! <E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2a": {
-    "message": "I am the light of Ra, defender of the good and innocent, enemy of shadow, and the founder of the <FC 0,128,0>Ancient Prophecy of Ra<END FC>. A prophecy which is rapidly drawing to an end.<E>"
+    "message": "Eu sou a luz de Rá, defensor dos bons e inocentes, inimigo da sombra, e fundador da <FC 0,128,0>Antiga Profecia de Rá<END FC>. Uma profecia que está rapidamente chegando a seu fim.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2b": {
-    "message": "I built this wall eons ago to prevent my own destruction at the hands of my brother Set. All this time, my guardian Anubis has protected the wall from Set's onslaught.<E>"
+    "message": "Eu construí essa muralha eras atrás pra prevenir minha própria destruição pelas mãos do meu irmão Set. Esse tempo todo, meu guardião Anúbis esteve protegendo a muralha das investidas de Set.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2c": {
     "message": "Amaldiçoar o palácio foi necessário para proteger <FC 128,64,0>Heliópolis<END FC> mas agora os habitantes estão livres e o demônio foi destruído.<E>"
@@ -1485,10 +1485,10 @@
     "message": "Você é O Escolhido que realizou a Profecia Antiga, mas o resultado final das suas ações heroicas é incerto...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4a": {
-    "message": "Sphinx, there is one last quest you must undertake before you truly fulfill the <FC 0,128,0>Ancient Prophecy of Ra<END FC>...<E>"
+    "message": "Sphinx, há uma última jornada que você deve encarar antes de realmente cumprir a <FC 0,128,0>Antiga Profecia de Rá<END FC>...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4b": {
-    "message": "You must travel to the <FC 128,64,0>Castle of Uruk<END FC> and fight Set in a final battle for the crown! Anubis must stay and defend the wall! You are our only chance!<E>"
+    "message": "Você deve viajar até o <FC 128,64,0>Castelo de Uruk<END FC> e lutar com Set em uma batalha final pela coroa! Anúbis deve ficar e defender a muralha! Você é a nossa única chance!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4c": {
     "message": "Vou transportá-lo até <FC 128,64,0>Uruk<END FC>... mas você precisa pular na lava!<E>"
@@ -1503,7 +1503,7 @@
     "message": "Você é tão fraco que não consegue nem capturar <FC 0,128,0>3 Tatus de Fogo<END FC>?<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_NoBeetles": {
-    "message": "I warned you about using the <FC 0,128,0>Capture Beetles<END FC> wisely and yet you have squandered them.<P>I will grant you 20 more but if you do not use them to capture <FC 0,128,0>3 Fire Armadillos<END FC> I will be most unimpressed.<E>"
+    "message": "Eu te avisei sobre usar os <FC 0,128,0>Besouros de Captura<END FC> com sabedoria e ainda assim você os desperdiçou.<P>Vou te dar mais 20, mas se você não usá-los para capturar <FC 0,128,0>3 Tatus de Fogo<END FC> eu não ficarei nada impressionado.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GenericMeetAgain": {
     "message": "Estou certo de que o destino o trará até mim novamente no futuro, mas agora não tenho mais nada para lhe dar.<E>"
@@ -1512,19 +1512,19 @@
     "message": "Você não deve se atrasar. Existem outras forças mais sinistras na procura pela <FC 0,128,0>Coroa Sagrada de Abydos<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_AbydosCrown_Found": {
-    "message": "Finally, you have returned with the crown! Congratulations young hero, you have far surpassed my expectations.<P>I will stay true to my word and release more of the inhabitants of the <FC 128,64,0>Cursed Palace<END FC>.<P>However, I feel it is time to reveal to you the truth behind my sending you in search of the crown.<P>There are other crowns in different worlds, and the evil god Set is trying to recover them for himself.<P>We cannot let this happen! You must find the crowns before he does or the consequences could be devastating.<P>In the jungle world of <FC 128,64,0>Sakkara<END FC> you should find the ancient <FC 0,128,0>Sakkarian Crown<END FC>.<P>You should leave immediately. Good luck.<E>"
+    "message": "Finalmente, você retornou com a coroa! Parabéns jovem herói, você mais do que superou minhas expectativas.<P>Vou manter minha palavra e libertar mais dos habitantes do <FC 128,64,0>Palácio Amaldiçoado<END FC>.<P> Porém, sinto que é a hora de revelar a você a verdade por trás da minha busca pela coroa.<P>Existem outras coroas em mundos diferentes, e o terrível deus Set está tentando recuperar todas para ele.<P>Não podemos deixar que isso aconteça! Você deve encontrar as coroas antes dele ou as consequências podem ser desastrosas.<P>No mundo selvagem de <FC 128,64,0>Sakkara<END FC> você deverá encontrar a antiga <FC 0,128,0>Coroa Sakkariana<END FC>.<P>Você deve ir imediatamente. Boa sorte.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_SakkaraCrown_NotFound": {
     "message": "Não se atrase! Se Set encontrar a <FC 0,128,0>Coroa de Uruk<END FC> primeiro, não se sabe o que pode acontecer!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_SakkaraCrown_Found": {
-    "message": "Finally, you have returned with the crown! I knew that you would not fail.<P>As promised I will release the remaining inhabitants of the <FC 128,64,0>Cursed Palace<END FC>.<P>The <FC 0,128,0>Sacred Crown of Heliopolis<END FC> is within the palace, but I urge caution. The Pharaoh is not an easy man to deal with.<E>"
+    "message": "Finalmente, você retornou com a coroa! Eu sabia que você não falharia.<P>Como prometido, irei libertar o resto dos habitantes do <FC 128,64,0>Palácio Amaldiçoado<END FC>.<P>A <FC 0,128,0>Coroa Sagrada de Heliópolis<END FC> está dentro do palácio, mas peço cautela. O Faraó não é um homem fácil de lidar.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_NotFound": {
     "message": "Não se atrase. O Faraó e sua coroa aguardam no <FC 128,64,0>Palácio Amaldiçoado<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Found": {
-    "message": "You have performed with great courage and strength, hero, but now you must face your toughest challenge.<P>Set is already in possession of the <FC 0,128,0>Sacred Crown of Uruk<END FC> in the devastated world of <FC 128,64,0>Uruk<END FC>.<P>The only way he can be stopped now is to travel to <FC 128,64,0>Uruk<END FC> and destroy him once and for all.<P>You should prepare yourself for the arduous journey ahead. When you are ready, use this <FC 01,128,0>Portal Amulet<END FC> to travel to <FC 128,64,0>Uruk<END FC>.<P>Good luck, young hero.<E>"
+    "message": "Você demonstrou grande coragem e força, herói, mas agora você deve enfrentar seu maior desafio.<P>Set já possui a <FC 0,128,0>Coroa Sagrada de Uruk<END FC> no mundo devastado de <FC 128,64,0>Uruk<END FC>.<P>O único modo de impedi-lo agora é viajar até <FC 128,64,0>Uruk<END FC> e destruí-lo de uma vez por todas.<P>Você deve se preparar para a árdua jornada em frente. Quando estiver pronto, use este <FC 01,128,0>Amuleto do Portal<END FC> para viajar até <FC 128,64,0>Uruk<END FC>.<P>Boa sorte, jovem herói.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_NotFound": {
     "message": "Quanto mais você demora, mais forte Set fica. Não é sábio demorar nem mais um pouco.<E>"
@@ -1536,10 +1536,10 @@
     "message": "Quanto mais você demora, mais forte Set fica. Não é sábio demorar nem mais um pouco.<E>"
   },
   "HT_Text_Hel_DarkArea2_Help_KaAnkh01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is a <FC 0,128,0>Ka Ankh Firing Point<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>They can be used to magically transport<N>you to the location of a nearby <FC 0,128,0>Ka Ankh<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_KaTile> while standing on the<N>firing point to enter first person mode.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Este é um <FC 0,128,0>Ponto de Tiro de Ká Ankh<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Eles podem ser usados para magicamente teletransportá-lo<N>ao local de um <FC 0,128,0>Ankh de Ká<END FC> próximo.<P><ES HT_Text_ES_S_HelpText><CNTR>Aperte <SB HT_Action_KaTile> enquanto estiver sobre o<N>ponto de tiro para entrar no modo em primeira pessoa.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_DarkArea2_Help_KaAnkh02": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Aim and shoot the glowing top of a nearby <FC 0,128,0>Ka Ankh<END FC> and<N>you will be magically transported to that location.<E><ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Mire e atire no topo brilhante de um <FC 0,128,0>Ankh de Ká<END FC> próximo e<N>você será magicamente teletransportado àquele local.<E><ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_DarkArea3_Teleport_Prompt01": {
     "message": "<ES HT_Text_ES_S_HelpText>Usar o teletransporte mágico?<N>  <B 2> Não<N>  <B 1> Sim<E>"
@@ -1569,7 +1569,7 @@
     "message": "<EFF><EPO>Sphinx! É bom vê-lo de novo meu amigo! Você enfrentou diversos perigos mortais e desafios e está claro para mim que você não é mais um aprendiz inexperiente.<P>Ahh... vejo que você agora possui o <FC 0,128,0>Escudo de Osíris<END FC>; que ótimo companheiro para a <FC 0,128,0>Espada de Osíris<END FC>.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1a1": {
-    "message": "<EFF><EPO>Wielding these is a fine achievement indeed, for they will serve you well in your coming adventure.<P>Horus has already been here, but he would not wait for you. His impatience is equal to your enthusiasm.<E>"
+    "message": "<EFF><EPO>Empunhá-las é uma bela conquista de fato, já que o servirão bem em sua aventura.<P>Hórus já esteve aqui, mas ele não quis te esperar. A impaciência dele é igual ao seu entusiasmo.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1b": {
     "message": "Parece que você esteve ocupado em sua viagem; aquele <FC 0,128,0>Vaso Canópico<END FC> é um artefato muito interessante.<E>"
