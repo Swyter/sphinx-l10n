@@ -17,7 +17,8 @@ lang = {
     'MARKER_JAPANESE':   'ja',
     'MARKER_BRAZILIAN':  'pt-BR',
     'MARKER_LATVIAN':    'lv',
-    'MARKER_GREEK':      'el'
+    'MARKER_GREEK':      'el',
+    'MARKER_ARABIC':     'ar'
 }
 
 ignored_languages = [ 'ja' ]
