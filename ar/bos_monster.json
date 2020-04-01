@@ -1,0 +1,32 @@
+{
+  "HT_Text_BOS_Monster_CapturedMonsters": {
+    "message": "وحوش"
+  },
+  "HT_Text_BOS_Monster_Moves": {
+    "message": "حركات"
+  },
+  "HT_Text_BOS_Monster_Health": {
+    "message": "صحة"
+  },
+  "HT_Text_BOS_Monster_AttackRating": {
+    "message": "قيمة الهجوم"
+  },
+  "HT_Text_BOS_Monster_DefenceRating": {
+    "message": "قيمة الدفاع"
+  },
+  "HT_Text_BOS_Monster_DR_Exp": {
+    "message": "كلما ارتفعت قيمة دفاع وحشك،\nكلما زاد ما يتحمله من عقاب أثناء القتال."
+  },
+  "HT_Text_BOS_Monster_AR_Exp": {
+    "message": "كلما ارتفعت قيمة هجوم وحشك،\nكلما زاد ما يلحقه من ضرر على أعدائه."
+  },
+  "HT_Text_BOS_Monster_Health_Exp": {
+    "message": "صحة وحشك هنا. لو خسرها كلها،\nفستحرم من إطلاق وحش من ذلك النوع،\n...إلى أن تمسك طبعا واحدا آخر!"
+  },
+  "HT_Text_BOS_Monster_NoMoves": {
+    "message": "حاليا ليس لديك حركات تختار من بينها."
+  },
+  "HT_Text_BOS_Monster_NoMonsters": {
+    "message": "حاليا ليس لديك وحوش."
+  }
+}

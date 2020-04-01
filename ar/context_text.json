@@ -1,0 +1,173 @@
+{
+  "HT_Text_Context_UseItem": {
+    "message": "استعمل مؤنة"
+  },
+  "HT_Text_Context_Use": {
+    "message": "استعمل"
+  },
+  "HT_Text_Context_PushObject": {
+    "message": "ادفع"
+  },
+  "HT_Text_Context_PullObject": {
+    "message": "جر"
+  },
+  "HT_Text_Context_Lever": {
+    "message": "حرك الذراع"
+  },
+  "HT_Text_Context_OpenDoor": {
+    "message": "افتح"
+  },
+  "HT_Text_Context_PickupObject": {
+    "message": "التقط"
+  },
+  "HT_Text_Context_SavePoint": {
+    "message": "احفظ"
+  },
+  "HT_Text_Context_NPC": {
+    "message": "كلم"
+  },
+  "HT_Text_Context_Grab": {
+    "message": "التقط"
+  },
+  "HT_Text_Context_Possession": {
+    "message": "تلبس"
+  },
+  "HT_Text_Context_Unpossession": {
+    "message": "فك التلبس"
+  },
+  "HT_Text_Context_Release": {
+    "message": "أترك"
+  },
+  "HT_Text_Context_Clone": {
+    "message": "استنسخ"
+  },
+  "HT_Text_Context_Invisibility": {
+    "message": "لامرئية"
+  },
+  "HT_Text_Context_Hide": {
+    "message": "تخفى"
+  },
+  "HT_Text_Context_FreezeTime": {
+    "message": "جمد الزمن"
+  },
+  "HT_Text_Context_KaTile": {
+    "message": "أطلق كا"
+  },
+  "HT_Text_Context_Shop": {
+    "message": "إشتر"
+  },
+  "HT_Text_Context_Linear": {
+    "message": "LINEAR"
+  },
+  "HT_Text_Context_Recall": {
+    "message": "RECALL"
+  },
+  "HT_Text_Context_Directed": {
+    "message": "DIRECTED"
+  },
+  "HT_Text_Context_Cancel": {
+    "message": "إلغاء"
+  },
+  "HT_Text_Context_Jump": {
+    "message": "اقفز"
+  },
+  "HT_Text_Context_Attack": {
+    "message": "هاجم"
+  },
+  "HT_Text_Context_Detonate": {
+    "message": "فجر"
+  },
+  "HT_Text_Context_Beetle": {
+    "message": "جعل"
+  },
+  "HT_Text_Context_Throw": {
+    "message": "إرم"
+  },
+  "HT_Text_Context_Drop": {
+    "message": "اسقط"
+  },
+  "HT_Text_Context_FireDart": {
+    "message": "أطلق النار"
+  },
+  "HT_Text_Context_FirstPerson": {
+    "message": "منظور العين"
+  },
+  "HT_Text_Context_Blowpipe": {
+    "message": "انفخ في الناي"
+  },
+  "HT_Text_Context_ThirdPerson": {
+    "message": "منظور الخارج"
+  },
+  "HT_Text_Context_Program": {
+    "message": "PROGRAM"
+  },
+  "HT_Text_Context_SpittingToadV": {
+    "message": "عمودي"
+  },
+  "HT_Text_Context_SpittingToadH": {
+    "message": "أفقي"
+  },
+  "HT_Text_Context_Flap": {
+    "message": "اخفق"
+  },
+  "HT_Text_Context_Enter": {
+    "message": "أدخل"
+  },
+  "HT_Text_Context_Grow": {
+    "message": "GROW"
+  },
+  "HT_Text_Context_Exit": {
+    "message": "أخرج"
+  },
+  "HT_Text_Context_SwapMummy": {
+    "message": "بدل"
+  },
+  "HT_Text_Context_MummyCrawl": {
+    "message": "ازحف"
+  },
+  "HT_Text_Context_MummyStandUp": {
+    "message": "قف"
+  },
+  "HT_Text_Context_Dive": {
+    "message": "اغطس"
+  },
+  "HT_Text_Context_Swim": {
+    "message": "اسبح"
+  },
+  "HT_Text_Context_SwimFast": {
+    "message": "FAST"
+  },
+  "HT_Text_Context_WallSneakPeek": {
+    "message": "المح"
+  },
+  "HT_Text_Context_WallSneak": {
+    "message": "تسلل"
+  },
+  "HT_Text_Context_Take": {
+    "message": "خذ"
+  },
+  "HT_Text_Context_DJump": {
+    "message": "تشقلب"
+  },
+  "HT_Text_Context_Read": {
+    "message": "اقرأ"
+  },
+  "HT_Text_Context_Slam": {
+    "message": "اخبط"
+  },
+  "HT_Text_Context_Wear": {
+    "message": "البس"
+  },
+  "HT_Text_Context_UnHide": {
+    "message": "كف التخفي"
+  },
+  "HT_Text_Context_Choose": {
+    "message": "اختر"
+  },
+  "HT_Text_Context_Select": {
+    "message": "SELECT"
+  },
+  "HT_Text_Context_Shake": {
+    "message": "رج"
+  }
+}

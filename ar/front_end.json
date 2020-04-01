@@ -1,0 +1,563 @@
+{
+  "HT_Text_FE_Menu_NewGame": {
+    "message": "إبدأ اللعبة"
+  },
+  "HT_Text_FE_Menu_LoadGame": {
+    "message": "واصل اللعبة"
+  },
+  "HT_Text_FE_Menu_BonusMaterial": {
+    "message": "إضافات"
+  },
+  "HT_Text_FE_Menu_Options": {
+    "message": "إعدادات"
+  },
+  "HT_Text_FE_Menu_OptionsSubControl": {
+    "message": "إعداد التحكم"
+  },
+  "HT_Text_FE_Menu_OptionsSubScreen": {
+    "message": "إعداد الشاشة"
+  },
+  "HT_Text_FE_Menu_OptionsSubSound": {
+    "message": "إعداد الصوت"
+  },
+  "HT_Text_FE_Menu_MusicVolume": {
+    "message": "مستوى اللحن"
+  },
+  "HT_Text_FE_Menu_SoundVolume": {
+    "message": "مستوى الأصوات"
+  },
+  "HT_Text_FE_Menu_PadRumbleGC": {
+    "message": "الإرتجاج"
+  },
+  "HT_Text_FE_Menu_PadRumbleXB": {
+    "message": "الإرتجاج"
+  },
+  "HT_Text_FE_Menu_PadRumblePS2": {
+    "message": "الإرتجاج"
+  },
+  "HT_Text_FE_Menu_ScreenAdjust": {
+    "message": "تعديل الشاشة"
+  },
+  "HT_Text_FE_Menu_Widescreen": {
+    "message": "شاشة عريضة"
+  },
+  "HT_Text_FE_Menu_Subtitles": {
+    "message": "ترجمات نصية"
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonVert": {
+    "message": "اقلب العمودي في منظور المحيط"
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonHorz": {
+    "message": "اقلب الأفقي في منظور المحيط"
+  },
+  "HT_Text_FE_Menu_InvertFirstPersonVert": {
+    "message": "اقلب العمودي في منظور العين"
+  },
+  "HT_Text_FE_Menu_OK": {
+    "message": "موافق"
+  },
+  "HT_Text_FE_Menu_Cancel": {
+    "message": "الغاء"
+  },
+  "HT_Text_FE_Menu_ConfirmQuit": {
+    "message": "أمتأكد أنك تنوي الخروج؟"
+  },
+  "HT_Text_FE_Menu_ConfirmQuit_XB": {
+    "message": "أمتأكد أنك تنوي الخروج؟\nأي تقدم لعبة لم تحفظه سيضيع."
+  },
+  "HT_Text_FE_Menu_SoundStereo": {
+    "message": "ستيريو"
+  },
+  "HT_Text_FE_Menu_SoundMono": {
+    "message": "مونو"
+  },
+  "HT_Text_FE_Menu_SoundSurround": {
+    "message": "صوت محيط"
+  },
+  "HT_Text_FE_Menu_SoundStereoSurround": {
+    "message": "ستيريو\nصوت محيط"
+  },
+  "HT_Text_FE_Menu_SoundModeOption": {
+    "message": "وضع الصوت"
+  },
+  "HT_Text_FE_Menu_On": {
+    "message": "نعم"
+  },
+  "HT_Text_FE_Menu_Off": {
+    "message": "لا"
+  },
+  "HT_Text_OptionsMenu_Back": {
+    "message": "عودة"
+  },
+  "HT_Text_OptionsMenu_Select": {
+    "message": "اختر"
+  },
+  "HT_Text_FE_Menu_ThirdPerson": {
+    "message": "منظور الخارج:"
+  },
+  "HT_Text_FE_Menu_FirstPerson": {
+    "message": "منظور العين:"
+  },
+  "HT_Text_FE_Menu_InvertHorz": {
+    "message": "عكس المحور الأفقي"
+  },
+  "HT_Text_FE_Menu_InvertVert": {
+    "message": "عكس المحور العمودي"
+  },
+  "HT_Text_FE_MenuPause_Continue": {
+    "message": "واصل"
+  },
+  "HT_Text_FE_MenuPause_Options": {
+    "message": "إعدادات"
+  },
+  "HT_Text_FE_MenuPause_QuitGame": {
+    "message": "غادر اللعبة"
+  },
+  "HT_Text_FE_PressStart_PS2": {
+    "message": "اضغط الزر ستارت"
+  },
+  "HT_Text_FE_PressStart_XB": {
+    "message": "اضغط ستارت"
+  },
+  "HT_Text_FE_PressStart_GC": {
+    "message": "اضغط ستارت"
+  },
+  "HT_Text_FE_PressStart_PC": {
+    "message": "اضغط أي زر كي تبدأ"
+  },
+  "HT_Text_FE_Bonus1_Title": {
+    "message": "كواليس اللعبة"
+  },
+  "HT_Text_FE_Bonus1_Description": {
+    "message": "زر الكواليس وراء ستار عملية تطوير اللعبة"
+  },
+  "HT_Text_FE_Bonus2_Title": {
+    "message": "الإعلان التشويقي (سفينكس)"
+  },
+  "HT_Text_FE_Bonus2_Description": {
+    "message": "الإعلان التشويقي (سفينكس و المومياء الملعونة)"
+  },
+  "HT_Text_FE_Menu_SaveSlotA": {
+    "message": "سفينكس أ"
+  },
+  "HT_Text_FE_Menu_SaveSlotB": {
+    "message": "سفينكس ب"
+  },
+  "HT_Text_FE_Menu_SaveSlotC": {
+    "message": "سفينكس ج"
+  },
+  "HT_Text_FE_Menu_SaveSlotA_XB": {
+    "message": "سفينكس أ"
+  },
+  "HT_Text_FE_Menu_SaveSlotB_XB": {
+    "message": "سفينكس ب"
+  },
+  "HT_Text_FE_Menu_SaveSlotC_XB": {
+    "message": "سفينكس ج"
+  },
+  "HT_Text_FE_Menu_SaveSlotNone": {
+    "message": "واصل دون حفظ"
+  },
+  "HT_Text_FE_Menu_SaveSlotEmpty": {
+    "message": "فارغ"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
+    "message": "متضرر"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
+    "message": "تالف"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_GC": {
+    "message": "فارغ"
+  },
+  "HT_Text_MemCard_PromptSlotA": {
+    "message": "سفينكس أ"
+  },
+  "HT_Text_MemCard_PromptSlotB": {
+    "message": "سفينكس ب"
+  },
+  "HT_Text_MemCard_PromptSlotC": {
+    "message": "سفينكس ج"
+  },
+  "HT_Text_MemCard_PromptNo": {
+    "message": "لا"
+  },
+  "HT_Text_MemCard_PromptYes": {
+    "message": "نعم"
+  },
+  "HT_Text_MemCard_PromptOK": {
+    "message": "موافق"
+  },
+  "HT_Text_MemCard_PromptRetry": {
+    "message": "أعد المحاولة"
+  },
+  "HT_Text_MemCard_PromptCancel": {
+    "message": "إلغاء"
+  },
+  "HT_Text_MemCard_PromptHaventSaved_XB": {
+    "message": "متأكد أنك تنوي أن تواصل دون على حفظ اللعبة؟"
+  },
+  "HT_Text_MemCard_GameName": {
+    "message": "سفينكس"
+  },
+  "HT_Text_Paused_PS2": {
+    "message": "استراحة"
+  },
+  "HT_Text_Paused_XB": {
+    "message": "اضغط ستارت كي تواصل."
+  },
+  "HT_Text_Paused_GC": {
+    "message": "استراحة"
+  },
+  "HT_Text_ReplacePadPrompt_PS2_PAL": {
+    "message": "لا يوجد ذراع تحكم في المقبس (MISSINGPAD).\nللمواصلة يرجى اعادة ادخال ذراع تحكم باتجاهات كروية، من نوع DUALSHOCK® أو DUALSHOCK®2."
+  },
+  "HT_Text_ReplacePadPrompt_PS2_NTSC": {
+    "message": "لا يوجد ذراع تحكم في المقبس (MISSINGPAD).\nللمواصلة يرجى اعادة ادخال ذراع تحكم باتجاهات كروية، من نوع DUALSHOCK® أو DUALSHOCK®2."
+  },
+  "HT_Text_ReplacePadPrompt_XB_Start": {
+    "message": "لا يوجد ذراع تحكم في المقبس (MISSINGPAD).\nللمواصلة يرجى اعادة ربط ذراع التحكم ثم اضغط ستارت لتواصل."
+  },
+  "HT_Text_ReplacePadPrompt_XB": {
+    "message": "لا يوجد ذراع تحكم في المقبس (MISSINGPAD).\nيرجى اعادة ادخال ذراع التحكم."
+  },
+  "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
+    "message": "ستعجز عن حفظ تقدمك و إعداداتك في أي نقطة من اللعبة.\nهل أنت متأكد حقا أنك تريد أن تواصل بهذه الظروف؟"
+  },
+  "HT_Text_DeathScreen_Continue": {
+    "message": "واصل"
+  },
+  "HT_Text_DeathScreen_QuitGame": {
+    "message": "غادر اللعبة"
+  },
+  "HT_Text_DeathScreen_Text": {
+    "message": "انتهت اللعبة"
+  },
+  "HT_Text_OptionsMenu_Reset": {
+    "message": "أعد للإختيارات الإفتراضية"
+  },
+  "HT_Text_ScreenAdjustText_PS2": {
+    "message": "عدل مكان الشاشة بأزرار الاتجاهات."
+  },
+  "HT_Text_ScreenAdjustText_GC": {
+    "message": "عدل مكان الشاشة بأزرار الإتجاهات."
+  },
+  "HT_Text_ScreenAdjustText_XB": {
+    "message": "عدل مكان الشاشة بأزرار الإتجاهات."
+  },
+  "HT_Text_Memcard_SaveConfirm": {
+    "message": "متأكد من التسجيل إلى هذه الخلية؟"
+  },
+  "HT_Text_Memcard_LoadConfirm": {
+    "message": "متأكد من فتح ملف هذه الخلية للعبة؟"
+  },
+  "HT_Text_Memcard_OverwriteConfirm": {
+    "message": "ليست الخلية شاغرة و فيها ملف محفوظ.\nمتأكد من تعويض الملف السابق؟"
+  },
+  "HT_Text_Memcard_NoFormat": {
+    "message": "ليس بطاقة الذاكرة في الحز 1 معدة بعد.\nأتريد مسح محتوياتها و إعدادها؟"
+  },
+  "HT_Text_Memcard_NoFormat_Boot": {
+    "message": "ليس بطاقة الذاكرة في الحز 1 معدة بعد.\nأتريد مسح محتوياتها و إعدادها؟"
+  },
+  "HT_Text_Memcard_NoDirectory": {
+    "message": "ليس في بطاقة الذاكرة في الحز 1 مجلد للعبة سفينكس.\nهل تصنع فيها ذلك المجلد الآن؟"
+  },
+  "HT_Text_Memcard_FormatComplete": {
+    "message": "نجح إعداد البطاقة."
+  },
+  "HT_Text_Memcard_SaveFailed": {
+    "message": "فشل حفظ اللعبة."
+  },
+  "HT_Text_Memcard_SaveSuccess": {
+    "message": "نجح حفظ اللعبة."
+  },
+  "HT_Text_Memcard_LoadFail": {
+    "message": "فشل فتح اللعبة."
+  },
+  "HT_Text_Memcard_NoCard": {
+    "message": "Caution! Sphinx uses an Autosave feature.\\nInsertion of a memory card (PS2) beyond\\nthis point may cause data to be\\noverwritten. However if you wish to save\\nyour game data, insert a memory card (PS2)\\nwith at least xKB free space.\\n\\nPress START BUTTON to continue\\nwithout saves."
+  },
+  "HT_Text_Memcard_NoCard1": {
+    "message": "No memory card(8MB)(for PlayStation®2)\\n inserted in memory card slot 1."
+  },
+  "HT_Text_Memcard_NoSpace_Boot": {
+    "message": "Insufficient space on memory card (PS2). Insert a\\nmemory card (PS2) with at least xKB free space,\\nor create some space using the console's internal browser."
+  },
+  "HT_Text_Memcard_NoSpace_Save": {
+    "message": "Insufficient space on memory card (PS2) in MEMORY CARD\\n slot 1. Sphinx requires xKB free space to save data."
+  },
+  "HT_Text_Memcard_PressKey": {
+    "message": "PRESS START TO CONTINUE WITHOUT SAVES"
+  },
+  "HT_Text_Memcard_Loading": {
+    "message": "جار التحميل."
+  },
+  "HT_Text_Memcard_Saving": {
+    "message": "Saving data. Do not remove memory card (PS2) in\\nMEMORY CARD slot 1, reset, or switch off the console."
+  },
+  "HT_Text_Memcard_Formatting": {
+    "message": "Formatting...\\n\\n\\nFormatting memory card (PS2) in MEMORY CARD slot 1.\\nDo not remove memory card (PS2),\\nreset, or switch off the console."
+  },
+  "HT_Text_Memcard_YesNo": {
+    "message": "<B 1>Yes<N><B 2>No<E>"
+  },
+  "HT_Text_Menu_Cross": {
+    "message": "select"
+  },
+  "HT_Text_Menu_Triangle": {
+    "message": "BACK"
+  },
+  "HT_Text_Menu_Square": {
+    "message": "Center screen"
+  },
+  "HT_Text_Menu_StartPause": {
+    "message": "Continue game"
+  },
+  "HT_Text_Menu_AdjustScreen": {
+    "message": "Use the left analog\\nstick or directional button to\\nadjust the screen position"
+  },
+  "HT_Text_Menu_Accept": {
+    "message": "Yes"
+  },
+  "HT_Text_Menu_Decline": {
+    "message": "No"
+  },
+  "HT_Text_Menu_Pause": {
+    "message": "Pause game"
+  },
+  "HT_Text_Menu_Empty": {
+    "message": "Nothing"
+  },
+  "HT_Text_Menu_BOS": {
+    "message": "Open Book of Sphinx"
+  },
+  "HT_Text_Menu_Inventory": {
+    "message": "Inventory"
+  },
+  "HT_Text_Menu_Jump": {
+    "message": "Jump"
+  },
+  "HT_Text_Menu_Attack": {
+    "message": "Attack"
+  },
+  "HT_Text_Menu_Context": {
+    "message": "Context"
+  },
+  "HT_Text_Menu_Shield": {
+    "message": "Shield"
+  },
+  "HT_Text_Menu_Pipe": {
+    "message": "Blow pipe"
+  },
+  "HT_Text_Menu_Camera": {
+    "message": "Camera control"
+  },
+  "HT_Text_Menu_Move": {
+    "message": "Move character"
+  },
+  "HT_Text_Menu_Start": {
+    "message": "Pause game menu"
+  },
+  "HT_Text_Menu_PadLayout1": {
+    "message": "DEFAULT"
+  },
+  "HT_Text_Menu_PadLayout2": {
+    "message": "LEFT=HANDED"
+  },
+  "HT_Text_Menu_PadLayout3": {
+    "message": "DRUNKEN"
+  },
+  "HT_Text_Menu_NoPad": {
+    "message": "The controller in controller\\nport 1 has been removed.\\nReinsert the controller to\\ncontinue with the game."
+  },
+  "HT_Text_Menu_Uruk1": {
+    "message": "SPHINX=@=URUK=HILLS"
+  },
+  "HT_Text_Menu_Uruk2": {
+    "message": "MUMMY=@=URUK=CASTLE"
+  },
+  "HT_Text_Menu_Making": {
+    "message": "THE=MAKING=OF=:=:=:"
+  },
+  "HT_Text_Menu_Trailer": {
+    "message": "TRAILER"
+  },
+  "HT_Text_Menu_Exit": {
+    "message": "QUIT=DEMO"
+  },
+  "HT_Text_Menu_Continue": {
+    "message": "CONTINUE"
+  },
+  "HT_Text_Menu_Rumble": {
+    "message": "VIBRATION==ON"
+  },
+  "HT_Text_Menu_RumbleOff": {
+    "message": "VIBRATION==OFF"
+  },
+  "HT_Text_Menu_StartDemo": {
+    "message": "PLAY=DEMO"
+  },
+  "HT_Text_Menu_NewGame": {
+    "message": "NEW=GAME"
+  },
+  "HT_Text_Menu_Load": {
+    "message": "LOAD=GAME"
+  },
+  "HT_Text_Menu_Save": {
+    "message": "SAVE=GAME"
+  },
+  "HT_Text_Menu_Options": {
+    "message": "OPTIONS"
+  },
+  "HT_Text_Menu_EndGame": {
+    "message": "END=GAME"
+  },
+  "HT_Text_Menu_Screen": {
+    "message": "SCREEN=SETTINGS"
+  },
+  "HT_Text_Menu_Pad": {
+    "message": "CONTROLLER=SETTINGS"
+  },
+  "HT_Text_Menu_Sound": {
+    "message": "SOUND=SETTINGS"
+  },
+  "HT_Text_Menu_ScreenAdjust": {
+    "message": "ADJUST=SCREEN"
+  },
+  "HT_Text_Menu_WidescreenON": {
+    "message": "WIDESCREEN==ON"
+  },
+  "HT_Text_Menu_WidescreenOFF": {
+    "message": "WIDESCREEN==OFF"
+  },
+  "HT_Text_Menu_Volume": {
+    "message": "VOLUME"
+  },
+  "HT_Text_Menu_SoundFX": {
+    "message": "SOUND=FX"
+  },
+  "HT_Text_Menu_Music": {
+    "message": "MUSIC"
+  },
+  "HT_Text_Menu_SurroundON": {
+    "message": "SURROUND"
+  },
+  "HT_Text_Menu_SurroundOFF": {
+    "message": "STEREO"
+  },
+  "HT_Text_Menu_Mono": {
+    "message": "MONO"
+  },
+  "HT_Text_Menu_Videos": {
+    "message": "VIDEOS"
+  },
+  "HT_Text_Menu_QuitLevel": {
+    "message": "QUIT=LEVEL"
+  },
+  "HT_Text_Menu_NTSC": {
+    "message": "FRAME=RATE==60"
+  },
+  "HT_Text_Menu_PAL": {
+    "message": "FRAME=RATE==50"
+  },
+  "HT_Text_Menu_QuitQuestion": {
+    "message": "Quit game? "
+  },
+  "HT_Text_Menu_Paused": {
+    "message": "PAUSE"
+  },
+  "HT_Text_Menu_QuitLevQuestion": {
+    "message": "Quit level?"
+  },
+  "HT_Text_Menu_StartGame": {
+    "message": "Start Game"
+  },
+  "HT_Text_Menu_SaveOver": {
+    "message": "Save over this game"
+  },
+  "HT_Text_Menu_UseSlot": {
+    "message": "Use this slot"
+  },
+  "HT_Text_Menu_LoadGame": {
+    "message": "Load this game"
+  },
+  "HT_Text_Menu_EmptySlot": {
+    "message": "[ empty ]"
+  },
+  "HT_Text_Menu_CorruptSlot": {
+    "message": "[ corrupt ]"
+  },
+  "HT_Text_Menu_Scarabs": {
+    "message": " Scarabs"
+  },
+  "HT_Text_Menu_InvertON": {
+    "message": "INVERT=CAMERA==ON"
+  },
+  "HT_Text_Menu_InvertOFF": {
+    "message": "INVERT=CAMERA==OFF"
+  },
+  "HT_Text_Menu_SwapXYON": {
+    "message": "SWAP=CAMERA=X==ON"
+  },
+  "HT_Text_Menu_SwapXYOFF": {
+    "message": "SWAP=CAMERA=X==OFF"
+  },
+  "HT_Text_Menu_Cancel": {
+    "message": "CANCEL"
+  },
+  "HT_Text_Menu_Reset": {
+    "message": "RESET"
+  },
+  "HT_Text_FE_Menu_ToggleReverb": {
+    "message": "REVERB"
+  },
+  "HT_Text_FE_Menu_FieldOfView": {
+    "message": "FIELD OF VIEW"
+  },
+  "HT_Text_FE_Menu_Resolution": {
+    "message": "RESOLUTION"
+  },
+  "HT_Text_FE_Menu_ChooseScreen": {
+    "message": "CHOOSE SCREEN"
+  },
+  "HT_Text_FE_Menu_ToggleParticles": {
+    "message": "PARTICLES"
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Limited": {
+    "message": "LIMITED"
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Soft": {
+    "message": "SOFT"
+  },
+  "HT_Text_FE_Menu_Anisotropy": {
+    "message": "ANISOTROPIC FILTERING"
+  },
+  "HT_Text_FE_Menu_MultiSampling": {
+    "message": "MULTISAMPLING"
+  },
+  "HT_Text_FE_Menu_Vsync": {
+    "message": "VERTICAL SYNC"
+  },
+  "HT_Text_FE_Menu_VsyncAdaptive": {
+    "message": "ADAPTIVE"
+  },
+  "HT_Text_FE_Menu_RestartGame": {
+    "message": "RESTART GAME"
+  },
+  "HT_Text_FE_ResolutionRequiresRestart": {
+    "message": "Changing the resolution requires restarting the game."
+  },
+  "HT_Text_FE_ResolutionBorderless": {
+    "message": "BORDERLESS"
+  },
+  "HT_Text_FE_ResolutionWindowed": {
+    "message": "WINDOWED"
+  },
+  "HT_Text_FE_ResolutionFovDegrees": {
+    "message": " deg"
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The magical darts fired from this powerful tool,<N>regenerate giving you an infinite supply.<P><ES HT_Text_ES_S_HelpText><CNTR>The darts can be used to hit remote targets but they<N>are only powerful enough to damage explosive monsters.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> to assign the <FC 0,128,0>Blowpipe<END FC> to a button.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the <FC 0,128,0>Blowpipe<END FC> is assigned, press<N>the button to enter first person mode.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_FireDart> to fire.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Cancel> to exit<N>from <FC 0,128,0>Blowpipe<END FC> mode.<ES HT_Text_ES_E_HelpText><E>"
+  }
+}

@@ -3,21 +3,21 @@
     "message": "Artefatos"
   },
   "HT_Text_BOS_Tab_Notes": {
-    "message": "Notas"
+    "message": "Anotações"
   },
   "HT_Text_BOS_Tab_Monsters": {
     "message": "Monstros"
   },
   "HT_Text_BOS_Instructions": {
-    "message": "<FC 30,10,0>Navegue pelas páginas usando <SB HT_PadAction_BOS_NavigateDPad> <N>Troque de página usando <SB HT_PadAction_BOS_TABCycleLeft> e <SB HT_PadAction_BOS_TABCycleRight><N>Role por descrições longas com <SB HT_PadAction_BOS_PageUp>."
+    "message": "<FC 30,10,0>Navegue pelas páginas usando <SB HT_PadAction_BOS_NavigateDPad> <N>Troque de página usando <SB HT_PadAction_BOS_TABCycleLeft> e <SB HT_PadAction_BOS_TABCycleRight><N>Deslize por descrições longas com <SB HT_PadAction_BOS_PageUp>."
   },
   "HT_Text_BOS_NoNotes": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Você não possui nenhuma anotação atualmente.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Você não tem anotações no momento.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_NoAbilities": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Você não possui nenhuma habilidade atualmente.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Você não tem habilidades no momento.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_NoQuestItems": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Você não possui nenhum item de jornada atualmente.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Você não tem itens de jornada no momento.<ES HT_Text_ES_E_BOSStd>"
   }
 }

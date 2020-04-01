@@ -267,7 +267,7 @@
     "message": "<N><CNTR>---[ <FC 0,128,0>Criatura Cascuda<END FC> ]---<P>Um réptil herbívoro e tímido conhecido por passar boa parte da vida recluso dentro de sua concha.<P>Apesar de serem relativamente comuns, a crueldade excessiva à Criaturas Cascudas garantiu a elas o status de espécie protegida.<E>"
   },
   "HT_Text_Museum_QR04_Sak_Nose_Needler": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Agulheiro Narigudo<END FC> ]---<P>O Agulheiro Narigudo certamente agulha, provocando sua presa até que seu julgamento esteja coberto de raiva.<P>Cavando pelo solo macio em grande velocidade, emergem brevemente e atiram pedras abrasivas em um inimigo, antes de retornar novamente ao subsolo e repetir o processo.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Agulheiro Narigudo<END FC> ]---<P>O Agulheiro Narigudo certamente agulha, provocando sua presa até que esteja coberta de raiva.<P>Cavando pelo solo macio em grande velocidade, emerge brevemente e atira pedras abrasivas em inimigos, antes de retornar novamente ao subsolo e repetir o processo.<E>"
   },
   "HT_Text_Museum_QU01_Skeletal_Spider": {
     "message": "<N><CNTR>---[ <FC 0,128,0>Aranha Esquelética<END FC> ]---<P>Um dos membros de aparência mais única entre a espécie, a Aranha Esquelética se destaca devido ao crescimento incomum de sua espinha.<P>Nativa de <FC 128,64,0>Uruk<END FC>, onde seus corpos sem pele são pouco afetados pelo calor escaldante.<E>"
@@ -396,7 +396,7 @@
     "message": "Um Bicho da Concha! Um pequeno e tímido réptil cascudo."
   },
   "HT_Text_Museum_Name_QR04_Sak_Nose_Needler": {
-    "message": "Um Fuçador Narigudo! Um mal-humorado mamífero subterrâneo."
+    "message": "Um Agulheiro Narigudo! Um mal-humorado mamífero subterrâneo."
   },
   "HT_Text_Museum_Name_QU01_Skeletal_Spider": {
     "message": "Uma Aranha Esquelética! Dá cabeçadas em seus inimigos."
