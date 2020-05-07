@@ -387,10 +387,10 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Some ledges on walls can be grabbed.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>Walk off and turn around whilst falling to grab the ledge.<P><ES HT_Text_ES_S_HelpText><CNTR>Then use <SB HT_PadAction_PLR_MovePlr> to move left and right.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_DoorLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This door is locked and will require a key to open.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>الباب موصد ويحتاج مفتاحا لفتحه.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_DoorLockedForever": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This door is locked from the other<N>side and cannot be opened.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>الباب موصد من الجانب<N> الآخر ولا يمكن فتحه.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Crawl": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_MummyCrawl> to toggle between<N>walking and crawling.<ES HT_Text_ES_S_HelpText><E>"
@@ -399,7 +399,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Courtyard Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundNefertitiItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found <FC 0,128,0>Nefertiti's Letter<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>رسالة نفرتيتي<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
   },
   "HT_Text_Lux_Palace_Help_FoundSarcophagusKey": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR><N>You found the <FC 0,128,0>Sarcophagus Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
