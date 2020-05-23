@@ -1,6 +1,6 @@
 {
   "HT_Text_NoteTitle_FindBlade01": {
-    "message": "أعثر على نصل أوزيريس"
+    "message": "اعثر على نصل أوزيريس"
   },
   "HT_Text_NoteTitle_GetLetter01": {
     "message": "استرجع رسالة نفرتيتي"
@@ -21,22 +21,22 @@
     "message": "الدخول إلى أبيدوس محرم"
   },
   "HT_Text_NoteTitle_FindImhotep01": {
-    "message": "إبحث عن إمحوتب في جزيرة معبد الشمس"
+    "message": "ابحث عن إمحوتب في جزيرة معبد الشمس"
   },
   "HT_Text_NoteTitle_GetBookOfTheDead01": {
-    "message": "إبحث عن كتاب الأموات"
+    "message": "ابحث عن كتاب الأموات"
   },
   "HT_Text_NoteTitle_VisitAnubis01": {
     "message": "زر أنوبيس في مدخل الحائط 1"
   },
   "HT_Text_NoteTitle_AnubisQuest01": {
-    "message": "إجلب لأنوبيس ثلاثة من درعية النار"
+    "message": "اجلب لأنوبيس ثلاثة من درعية النار"
   },
   "HT_Text_NoteTitle_VisitFarmers01": {
     "message": "زر المزرعة في مدينة أون"
   },
   "HT_Text_NoteTitle_SaveNomadWife01": {
-    "message": "أنقذ زوجة البدوي"
+    "message": "انقذ زوجة البدوي"
   },
   "HT_Text_NoteTitle_DeactivateBeams01": {
     "message": "عطل نطاق القوة الذي يحتجز زوجة البدوي"
@@ -78,109 +78,109 @@
     "message": "ترجم مسلات أون الذهبية"
   },
   "HT_Text_NoteTitle_SmallObelisk01": {
-    "message": "ترجمت النص القديم"
+    "message": "ترجمة لنص قديم"
   },
   "HT_Text_NoteTitle_SmallObelisk02": {
-    "message": "ترجمت النص القديم"
+    "message": "ترجمة لنص قديم"
   },
   "HT_Text_NoteTitle_SmallObelisk03": {
-    "message": "ترجمت النص القديم"
+    "message": "ترجمة لنص قديم"
   },
   "HT_Text_NoteTitle_SmallObelisk04": {
-    "message": "ترجمت النص القديم"
+    "message": "ترجمة لنص قديم"
   },
   "HT_Text_NoteTitle_SmallObelisk05": {
-    "message": "ترجمت النص القديم"
+    "message": "ترجمة لنص قديم"
   },
   "HT_Text_NoteTitle_Prophecy": {
     "message": "نبوءة رع القديمة"
   },
   "HT_Text_NoteTitle_TempleTest01": {
-    "message": "أكمل إمتحان معبد الوركاء"
+    "message": "اكمل إمتحان معبد الوركاء"
   },
   "HT_Text_NoteTitle_CrownQuest03": {
     "message": "استرد تاج أون المقدس"
   },
   "HT_Text_NoteTitle_MotherQuest01": {
-    "message": "أمسك الكلاب الضائعة"
+    "message": "امسك الكلاب الضائعة"
   },
   "HT_Text_NoteTitle_DefeatSeth01": {
-    "message": "إهزم ست في الوركاء"
+    "message": "اهزم ست في الوركاء"
   },
   "HT_Text_Note_FindBlade01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Your first quest is to find the long lost Blade of Osiris. This powerful weapon disappeared long ago in the inhospitable landscape around the Castle of Uruk.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "مهمتك الأولى أن تجد نصل أوزيريس المفقود منذ أمد بعيد. هو سلاح عظيم الجبروت اختفى من وقت بعيد في تضاريس قاحلة تحيط بقلعة الوركاء."
   },
   "HT_Text_Note_GetLetter01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Retrieve Nefertiti's Letter and return it to her.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "استرد رسالة نفرتيتي، و ردها إليها."
   },
   "HT_Text_Note_CollectAmulets01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Collect the 8 Old Amulets and return them to your Aunt Seti.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "اجمع التمائم القديمة الثمانية، و أعدها لخالتك سيتي."
   },
   "HT_Text_Note_GetToHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Once you have used the Abydos Amulet, Imhotep wants you to seek transport to Heliopolis and meet up with him as soon as possible.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "عندما تستعمل تميمة أبيدوس، سيطلب منك إمحوتب التنقل إلى أون لتلتقيه في أسرع الآجال."
   },
   "HT_Text_Note_FindPearls01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Find 3 Pearls and give them to the Abydosian man.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "اعثر على اللؤلؤات الثلاثة و أعطها للرجل في أبيدوس."
   },
   "HT_Text_Note_DonateMuseum01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Curator of Abydos Museum is offering a gift when you make your first donation.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "يعرض مدير متحف أبيدوس عليك هدية متى قدمت أول تبرع."
   },
   "HT_Text_Note_GetAbydosPasscard01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Guards in Abydos Canal will not allow access to the Council Chambers. Perhaps you should return to Abydos later in your quest when you have suitable identification.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "لن يسمح حارس قناة أبيدوس لك بدخول غرف المجلس. لعل من الأحرى أن تعود إلى أبيدوس لاحقا في مغامرتك، متى أتيت بما يناسب للتعريف عن هويتك."
   },
   "HT_Text_Note_FindImhotep01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep can be found on Sun Shrine Island. Visit him and find out what information he has for you.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "يمكنك زيارة إمحوتب على جزيرة معبد الشمس. اسمع منه الجديد من المعلومات."
   },
   "HT_Text_Note_GetBookOfTheDead01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Find the Book of the Dead so you can summon Bas-Ket when you find a Canopic Vase. Imhotep believes the book is being held in the Cursed Palace.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitAnubis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Anubis is responsible for cursing the inhabitants of the Cursed Palace. With the Wings of Ibis you can enter Great Wall Entrance I, and pay a visit to Anubis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "أنوبيس هو المسؤول عن لعن سكان القصر الملعون. بمعية أجنحة إيبيس، تستطيع دخول مدخل الحائظ الكبير 1، و زيارة أنوبيس."
   },
   "HT_Text_Note_AnubisQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Capture 3 Fire Armadillos using Capture Beetles and bring them to Anubis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "أمسك ثلاث درعيات نار بمعية خنفساء الصيد، و أحضرها إلى أنوبيس."
   },
   "HT_Text_Note_VisitFarmers01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Farmer's Brother invited you to visit their farm in Heliopolis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "دعاك أخ الفلاح لتزور ضيعتهم في أون."
   },
   "HT_Text_Note_SaveNomadWife01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Find where the Nomad's Wife is being held and rescue her.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "تحر أين أسرت زوجة البدوي، و أنقذها."
   },
   "HT_Text_Note_DeactivateBeams01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The forcefield imprisoning the Nomad's Wife seems to be powered by three colored beams. Find a way to disable them.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "زوجة البدوي أسيرة وراء طوق طاقة تنشطه أشعة ألوان ثلاثة. حاول كيف تعطلها."
   },
   "HT_Text_Note_VisitImhotep01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep has requested that you go and speak to him in the Sun Shrine.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "طلب منك إمحوتب أن تذهب للحديث إليه في معبد الشمس."
   },
   "HT_Text_Note_CrownQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>You must find the Sacred Crown of Abydos and return it to Anubis in Heliopolis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "يتعين عليك أن تسترد التاج المقدس من أبيدوس و تعيده إلى أنوبيس في أون."
   },
   "HT_Text_Note_MayorIll01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Apparently the Mayor has been taken seriously ill. Perhaps the people in Abydos Council Chambers could use your help.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "يبدو أن العمدة أصابته علة شديدة. لعل من في قاعات أبيدوس الإستشارية يستفيدون من مساعدتك."
   },
   "HT_Text_Note_SmallCanalCreatures01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Guard near the entrance to the Narrow Canal has offered you a Portal Amulet if you can clear the area of monsters.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "عرض عليك الحارس قرب مدخل القنال الضيق، تميمة بوابة، لو استطعت تطهير المنطقة من ربقة الوحوش."
   },
   "HT_Text_Note_CureMayor01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>You must find 5 Healing Herbs and bring them to the Physician in the Abydos Council Chambers.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>With the herbs the Physician should be able to prepare a cure for the Mayor's mysterious illness.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "تحتاج إيجاد 5 أعشاب علاجية لأجل طبيب قاعات أبيدوس الإستشارية. بواسطتها قد يعد علاجا لما استجد على العمدة من مرض غامض."
   },
   "HT_Text_Note_VisitKemmet01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>You must deliver the Physician's Note to Kemmet, who lives near the Grand Canal. He may be able to help you find the Healing Herbs.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "سلم ملحوظة الطبيب إلى كميت الذي يعيش قرب القنال الكبير. ربما يقدر على مساعدتك في إيجاد الأعشاب العلاجية."
   },
   "HT_Text_Note_FindPoliticians01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Find the traitorous politicians who stole the Sacred Crown of Abydos and win back what is rightfully yours.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "ابحث عن الساسة الخونة الذين سرقوا التاج المقدس من أبيدوس، و استرد غلابا أملاكك المشروعة."
   },
   "HT_Text_Note_CrownQuest02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>You must find the Sacred Crown of Uruk and return it to Anubis in Heliopolis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "جد التاج المقدس في الوركاء، و أعده إلى أنوبيس في أون."
   },
   "HT_Text_Note_FindHeliopolisDungeon01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Find the entrance to the Lost Temple of Heliopolis. The Pharaoh's Wife believes that it lies in the South Desert of Heliopolis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "ابحث عن مدخل معبد أون المفقود. تعتقد زوجة الفرعون أنه يقع في صحراء أون الجنوبية."
   },
   "HT_Text_Note_CollectRosettaPieces01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Find the 6 Rosetta Stone Pieces hidden inside the Lost Temple of Heliopolis and bring them to the Archeologist.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "ابحث عن القطع الستة من حجر رشيد التي تتوارى داخل معبد أون المفقود، و أحضرها لعالم الآثار."
   },
   "HT_Text_Note_MeetArchaeologist01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Check on the Archeologist's findings in the Bedouin Outpost. The outpost can be found by swimming through the underwater passage from the Cursed Palace.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "تحر إلام توصل عالم الآثار في محرس البدويين. يمكن بلوغ المحرس سباحة عبر ممر تحت الماء ينطلق من القصر الملعون."
   },
   "HT_Text_Note_TranslateObelisks01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Use the Rosetta Stone to translate the 5 Golden Obelisks of Heliopolis and report your findings to the Archeologist in the Bedouin Outpost.<ES HT_Text_ES_E_BOSStd><E>"

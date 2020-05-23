@@ -57,7 +57,7 @@
     "message": "موافق"
   },
   "HT_Text_FE_Menu_Cancel": {
-    "message": "الغاء"
+    "message": "إلغي"
   },
   "HT_Text_FE_Menu_ConfirmQuit": {
     "message": "أمتأكد أنك تنوي الخروج؟"
@@ -288,7 +288,7 @@
     "message": "Insufficient space on memory card (PS2) in MEMORY CARD\\n slot 1. Sphinx requires xKB free space to save data."
   },
   "HT_Text_Memcard_PressKey": {
-    "message": "PRESS START TO CONTINUE WITHOUT SAVES"
+    "message": "اضغط ستارت للإكمال بدون حفظ"
   },
   "HT_Text_Memcard_Loading": {
     "message": "جار التحميل."
@@ -303,49 +303,49 @@
     "message": "<B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Menu_Cross": {
-    "message": "select"
+    "message": "اختر"
   },
   "HT_Text_Menu_Triangle": {
-    "message": "BACK"
+    "message": "عودة"
   },
   "HT_Text_Menu_Square": {
     "message": "Center screen"
   },
   "HT_Text_Menu_StartPause": {
-    "message": "Continue game"
+    "message": "اكمل اللعبة"
   },
   "HT_Text_Menu_AdjustScreen": {
     "message": "Use the left analog\\nstick or directional button to\\nadjust the screen position"
   },
   "HT_Text_Menu_Accept": {
-    "message": "Yes"
+    "message": "نعم"
   },
   "HT_Text_Menu_Decline": {
-    "message": "No"
+    "message": "لا"
   },
   "HT_Text_Menu_Pause": {
-    "message": "Pause game"
+    "message": "ايقاف اللعبة"
   },
   "HT_Text_Menu_Empty": {
     "message": "Nothing"
   },
   "HT_Text_Menu_BOS": {
-    "message": "Open Book of Sphinx"
+    "message": "افتح كتاب ابو الهول"
   },
   "HT_Text_Menu_Inventory": {
-    "message": "Inventory"
+    "message": "المخزون"
   },
   "HT_Text_Menu_Jump": {
-    "message": "Jump"
+    "message": "قفز"
   },
   "HT_Text_Menu_Attack": {
-    "message": "Attack"
+    "message": "هجوم"
   },
   "HT_Text_Menu_Context": {
     "message": "Context"
   },
   "HT_Text_Menu_Shield": {
-    "message": "Shield"
+    "message": "ترس"
   },
   "HT_Text_Menu_Pipe": {
     "message": "Blow pipe"
@@ -387,7 +387,7 @@
     "message": "QUIT=DEMO"
   },
   "HT_Text_Menu_Continue": {
-    "message": "CONTINUE"
+    "message": "اكمل"
   },
   "HT_Text_Menu_Rumble": {
     "message": "VIBRATION==ON"
@@ -408,7 +408,7 @@
     "message": "SAVE=GAME"
   },
   "HT_Text_Menu_Options": {
-    "message": "OPTIONS"
+    "message": "الإعدادات"
   },
   "HT_Text_Menu_EndGame": {
     "message": "END=GAME"
@@ -438,7 +438,7 @@
     "message": "SOUND=FX"
   },
   "HT_Text_Menu_Music": {
-    "message": "MUSIC"
+    "message": "الموسيقى"
   },
   "HT_Text_Menu_SurroundON": {
     "message": "SURROUND"
@@ -471,7 +471,7 @@
     "message": "Quit level?"
   },
   "HT_Text_Menu_StartGame": {
-    "message": "Start Game"
+    "message": "إبدأ اللعبة"
   },
   "HT_Text_Menu_SaveOver": {
     "message": "Save over this game"
@@ -483,7 +483,7 @@
     "message": "Load this game"
   },
   "HT_Text_Menu_EmptySlot": {
-    "message": "[ empty ]"
+    "message": "[ فارغ ]"
   },
   "HT_Text_Menu_CorruptSlot": {
     "message": "[ corrupt ]"

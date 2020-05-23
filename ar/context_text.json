@@ -57,22 +57,22 @@
     "message": "إشتر"
   },
   "HT_Text_Context_Linear": {
-    "message": "LINEAR"
+    "message": "خطّي"
   },
   "HT_Text_Context_Recall": {
-    "message": "RECALL"
+    "message": "تذكر"
   },
   "HT_Text_Context_Directed": {
-    "message": "DIRECTED"
+    "message": "موجّه"
   },
   "HT_Text_Context_Cancel": {
-    "message": "إلغاء"
+    "message": "إلغي"
   },
   "HT_Text_Context_Jump": {
     "message": "اقفز"
   },
   "HT_Text_Context_Attack": {
-    "message": "هاجم"
+    "message": "اهجم"
   },
   "HT_Text_Context_Detonate": {
     "message": "فجر"
@@ -99,7 +99,7 @@
     "message": "منظور الخارج"
   },
   "HT_Text_Context_Program": {
-    "message": "PROGRAM"
+    "message": "برنامج"
   },
   "HT_Text_Context_SpittingToadV": {
     "message": "عمودي"
@@ -114,7 +114,7 @@
     "message": "أدخل"
   },
   "HT_Text_Context_Grow": {
-    "message": "GROW"
+    "message": "انمو"
   },
   "HT_Text_Context_Exit": {
     "message": "أخرج"
@@ -135,7 +135,7 @@
     "message": "اسبح"
   },
   "HT_Text_Context_SwimFast": {
-    "message": "FAST"
+    "message": "اسرع"
   },
   "HT_Text_Context_WallSneakPeek": {
     "message": "المح"
@@ -165,7 +165,7 @@
     "message": "اختر"
   },
   "HT_Text_Context_Select": {
-    "message": "SELECT"
+    "message": "حدّد"
   },
   "HT_Text_Context_Shake": {
     "message": "رج"

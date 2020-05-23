@@ -30,7 +30,7 @@
     "message": "اكّشف غمّى وفرّج همّي يا رع! أرجوكم فليوقفهم أحد!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_Coronation7a": {
-    "message": "الخونة يَهربون! أرجوك يا أبو الهول، أتوسل إليك بأن ترجع التاج!<E>"
+    "message": "الخونة يَهربون! أرجوك يا سفينكس، أتوسل إليك بأن ترجع التاج!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD38_FriendA": {
     "message": "<FC 128,64,64>لا أدري لمَ الإذلال يُغطي وجهه... أوَتدري أنت؟<E>"
@@ -99,7 +99,7 @@
     "message": "من هذا؟ ومالذي يفعله هنا؟<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone5": {
-    "message": "هذا أبو الهول يا عمدة. هو من وجد المكونات التي احتجتها لعلاجك. هذا بطلنا؛ هو من أنقذ حياتك!<E>"
+    "message": "هذا سفينكس يا عمدة. هو من وجد المكونات التي احتجتها لعلاجك. هذا بطلنا؛ هو من أنقذ حياتك!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone6": {
     "message": "إذن شكرًا جزيلًا لك أيّها الشاب الشريف. يالك من شخصٍ غريب المظهر. مالذي جاء بك إلى مدينتنا الجميلة <FC 128,64,0>أبيدوس<END FC>؟<E>"
@@ -111,13 +111,13 @@
     "message": "إنّي أجده كاذبًا يا سيدي! إنّه المحتال الذي سمّمك! يُريد سَلْب التّاج منك! أنوبيس أبدًا لن يُصاحب كائنًا كهذا! لا تثق به!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone9": {
-    "message": "اسكتوا! أنتم يا إمعة سعيتم للحصول على التّاج منذ انضمامكم للمجلس. وقد أثبت أبو الهول هذا أنّه جديرٌ بالثقة أكثر منكم.<E>"
+    "message": "اسكتوا! أنتم يا إمعة سعيتم للحصول على التّاج منذ انضمامكم للمجلس. وقد أثبت سفينكس هذا أنّه جديرٌ بالثقة أكثر منكم.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone10": {
     "message": "هممم، هذا قرار صعب ويٌخالجني فيه ريْب، عليّا التأني فيه...<P>لمَ الجميع مهتم بالتّاج هذه الأيام؟ يجب أن أفكر... في أفضل سبيل... <E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone11": {
-    "message": "التحق بي بعد بضع لحظات في الغرفة المجاورة يا أبو الهول لأُبلغك قراري.<E>"
+    "message": "التحق بي بعد بضع لحظات في الغرفة المجاورة يا سفينكس لأُبلغك قراري.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone12": {
     "message": "أنا متعب جدًا... وعليّا أن أفكر... <W 90>"
@@ -705,7 +705,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرتَ على <FC 0,128,0>لؤلؤة أبيدوسية<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_Key_01": {
-    "message": "أجل، هذه ثلاث <FC 0,128,0>لآلئ أبيدوسية<END FC>! شكرًا!<P>سأخذ زوجتي لرؤية مجموعة الجواهر في المتحف. هذا سبب ستحب ارتداء القلادة من أجله.<E>"
+    "message": "أجل، هذه ثلاث <FC 0,128,0>لآلئ أبيدوسية<END FC>! شكرًا!<P>سأصطحب زوجتي زوجتي لرؤية مجموعة الجواهر في المتحف. هذا سبب ستحب ارتداء القلادة من أجله.<E>"
   },
   "HT_Text_Aby_Canal_Key_02": {
     "message": "يمكنك فتح باب الممر العلوي بهذا المفتاح إن رغبت في ذلك.<E>"
@@ -786,67 +786,67 @@
     "message": "مازلت؟ حسنٌ، عد لزيارتي وأخبرني إن قررت أن نتبادل.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Swapped": {
-    "message": "Excellent! My girlfriend's going to be so impressed!<E>"
+    "message": "ممتاز! ستنبهر حبيبتي جدًا!<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished01": {
-    "message": "These medals are great. My girlfriend will be amazed!<E>"
+    "message": "هذه المداليات رائعة. ستندهش بها حبيبتي!<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished02": {
-    "message": "I think I should get a display cabinet for these medals.<E>"
+    "message": "أظنني سأخذ فترينة لأعرض المداليات.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished03": {
-    "message": "I wonder how the museum's doing after that terrible robbery?<E>"
+    "message": "ما حال المتحف بعد تلك السرقة الفظيعة يا ترى؟<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction01": {
-    "message": "Well, well! A stranger! I would so like to know how you arrived here.<E>"
+    "message": "يا سلام! غريب! أود معرفة كيفية وصولك إلى هنا.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction02": {
-    "message": "Dear me! There is no ship on that side, and only an imbecile would try to swim through electrified water!<E>"
+    "message": "يا قلبي! لا سفينة في هذا الجانب، ومعتوه أحمق من يحاول السباحة في الماء المكهرب!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction03": {
-    "message": "<FC 128,64,0>Abydos<END FC> was the quintessential prosperous and peaceful city, until those Electric Eels came along.<E>"
+    "message": "كانت <FC 128,64,0>أبيدوس<END FC> مدينة مسالمة مثالية يسودها الرخاء، حتى جاءت هذه الأنقليسات الرعدية.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction04": {
-    "message": "Nobody knows where they come from, but they are lowering the tone of the city beyond words!<E>"
+    "message": "لا أحد يعرف من أين أتت، لكنّهم يجعلون المدينة عبوس قبيحة!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Hint1": {
-    "message": "I hear someone dropped something in the well. I wonder what it is?<E>"
+    "message": "سمعت شخصًا قد أسقط شيئًا في البئر. ماهو يا ترى؟<E>"
   },
   "HT_Text_Aby_Canal_Posh_Hint2": {
-    "message": "Jars contain some interesting things sometimes.<E>"
+    "message": "تحتوي الجرّات أحيانًا على بعض الأشياء المفيدة.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor01": {
-    "message": "<EFF><EPO>What are we to do? The Mayor has been taken ill! I wonder what could be wrong with him?<P>Soon he won't even be strong enough to wear the <FC 0,128,0>Sacred Crown of Abydos<END FC> upon his head!<E>"
+    "message": "<EFF><EPO>مرض العمدة! ماذا سنفعل؟ ماذا به يا ترى؟<P>إن استمر مرضه فلن يكون قادرًا على <FC 0,128,0>ارتداء تاج أبيدوس المقدس<END FC> حتّى!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor02": {
-    "message": "Monsters, electrified water and now the Mayor! What a terrible state of affairs this is!<E>"
+    "message": "وحوش ثم المياه المكهربة والآن العمدة! ذهب مجدنا وأصبحنا كأعجاز نخل منقعر!"
   },
   "HT_Text_Aby_Canal_Posh_Mayor03": {
-    "message": "I wonder who will take charge if the Mayor doesn't recover from his illness soon?<E>"
+    "message": "أتسائل من سيتولى زمام الأمور إن لم يتعافى العمدة من مرضه قريبًا؟<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor04": {
-    "message": "I do hope the council Physician can help the Mayor.<E>"
+    "message": "آمل أن يتمكن طبيب المجلس من مساعدة العمدة.<E>"
   },
   "HT_Text_Aby_Canal_Posh_MayorCured01": {
-    "message": "The Mayor has been cured? What luck!<E>"
+    "message": "شُفي العمدة؟ يا للحظ!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Defeated01": {
-    "message": "Who would've thought the Mayor's advisors were traitors?<E>"
+    "message": "من كان يظن أن خونة العمدة هم مستشاريه أنفسهم؟<E>"
   },
   "HT_Text_Aby_Canal_Posh_Defeated02": {
-    "message": "Now the Mayor is rid of his evil advisors, perhaps he will clean up city...<E>"
+    "message": "بعد أن تخلص العمدة من مستشاريه الخبثاء، لعله الآن سيطهر المدينة...<E>"
   },
   "HT_Text_Aby_Canal_Posh_Defeated03": {
-    "message": "I think Mayor has been very brave through all this.<E>"
+    "message": "كان العمدة شجاعًا في نظري بعد أن مر بكل هذا.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block01": {
-    "message": "Sorry but I can’t allow you entrance to the museum until the grand unveiling of the <FC 128,64,0>Abydos<END FC> jewel collection is ready.<P>Please come back later sir.<E>"
+    "message": "عذرًا، ولكن لا يمكنني السماح لك بدخول المتحف إلا بعد العرض الكبير لمجموعة جواهر <FC 128,64,0>أبيدوس<END FC>.<P>عد لاحقًا من فضلك يا سيد.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block02": {
-    "message": "I'm sorry, I can't let you into the museum, sir.<E>"
+    "message": "آسف يا سيد.، لا يمكنني السماح لك بدخول المتحف.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block03": {
-    "message": "Please sir, I've already told you you're not allowed in.<P>Come back later when the grand unveiling of the jewel exhibit is ready.<E>"
+    "message": "من فضلك يا سيد، أخبرتك من قبل إنه من غير المسموح لك بالدخول.<P>عد لاحقًا عندما يكون العرض الكبير لمجموعة الجواهر جاهزًا.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open01": {
     "message": "استمتع بالمتحف يا سيد.<E>"
@@ -858,66 +858,66 @@
     "message": "يوم سعيد عليك يا سيد.<E>"
   },
   "HT_Text_Aby_Canal_Juggler01": {
-    "message": "Don’t distract me! You made me drop the balls!<E>"
+    "message": "لا تشتت انتباهي! جعلتني أسقط الكرات!<E>"
   },
   "HT_Text_Aby_Canal_Juggler02": {
-    "message": "Stop distracting me! I tend to drop the balls if anyone talks to me!<E>"
+    "message": "توقف عن تشتيتي! أُسقط الكرات إن تكلم معي أحد!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan01": {
-    "message": "The wife is gonna kill me if she finds out I lost her pearl necklace! <P>She's bound to notice this new one I bought has three missing.<P>Say, if you come across any <FC 0,128,0>Abydosian Pearls<END FC>, let me know! <E>"
+    "message": "ستقتلني زوجتي إن عرفت أنني ضيّعت عقد لؤلؤها! <P>وستلاحظ بالتأكيد أنه هذه الجديدة التي اشتريتها ينقصها ثلاثة لآلئ.<P>أخبرني إن صادفت أي<FC 0,128,0> لآلئ أبيدوسية<END FC>.<E>"
   },
   "HT_Text_Aby_Canal_PearlMan02": {
-    "message": "Did you find any <FC 0,128,0>Abydosian Pearls<END FC>? No? Well keep looking!<E>"
+    "message": "أوجدت أي <FC 0,128,0>لآلئ أبيدوسية<END FC>؟ لا؟ واصل البحث إذن!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan03": {
-    "message": "You found an <FC 0,128,0>Abydosian Pearl<END FC>?! Thanks! Just two more and I'll be saved!<E>"
+    "message": "وجدت <FC 0,128,0>لؤلؤة أبيدوسية<END FC>؟! شكرًا! اثنان فقط وتُنقذني!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan04": {
-    "message": "Another <FC 0,128,0>Abydosian Pearl<END FC>? Thank you so much friend! But I still need one more!<E>"
+    "message": "<FC 0,128,0>لؤلؤة أبيدوسية<END FC> أخرى؟ شكرًا جزيلًا يا صديقي! ولكن أحتاج لواحدة أخرى فقط!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan05": {
-    "message": "Two <FC 0,128,0>Abydosian Pearls<END FC>? Thanks! Thanks a lot! But I still need one more...<E>"
+    "message": "<FC 0,128,0>لؤلؤتان أبيدوسياتان<END FC>؟ يا سلام! شكرًا جزيلًا! ولكن أحتاج لواحدة أخرى فقط...<E>"
   },
   "HT_Text_Aby_Canal_PearlMan06": {
-    "message": "Did you find any more <FC 0,128,0>Abydosian Pearls<END FC> yet? No?<E>"
+    "message": "أوجدت مزيدًا من <FC 0,128,0>الآلئ الأبيدوسية<END FC>؟ لا؟<E>"
   },
   "HT_Text_Aby_Canal_PearlMan07": {
-    "message": "Yes, that's three <FC 0,128,0>Abydosian Pearls<END FC>! Thanks! You can use this key to open the door to the upper walkway if you wish.<P>I think I'll take my wife to see the jewel collection in the museum. She'll love to wear the necklace for that.<E>"
+    "message": "أجل، هذه ثلاث <FC 0,128,0>لآلئ أبيدوسية<END FC>! شكرًا! إن أردت يمكنك استخدام هذا المفتاح لفتح باب الممر العلوي.<P>أظنني سأصطحب زوجتي لرؤية مجموعة الجواهر في المتحف. هذا سبب ستحب ارتداء القلادة من أجله.<E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors1": {
-    "message": "Whatever it is, I'm not buying it! <E>"
+    "message": "لن أشتريه مهما كان!<E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors2": {
-    "message": "Go away, I'm busy! <E>"
+    "message": "اغرب عنّي، أنا مشغول!<E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors3": {
-    "message": "I'm having dinner, come back later! <E>"
+    "message": "أتناول العشاء الآن، عد لاحقًا!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick1": {
-    "message": "أووووووووووه..."
+    "message": "أووووووووووه...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick2": {
-    "message": "آآآآآآآآه..."
+    "message": "آآآآآآآآه...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick3": {
-    "message": "Bluuuuurgh...<E>"
+    "message": "بلوووررغغغغ...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Recover": {
-    "message": "I feel so much better now, thank you! Wait in the outer chambers while I gain my strength and I will come reward you <E>"
+    "message": "أشعر بتحسن كبير، شكرًا لك! انتظر في القاعات الخارجية بينما استجمع قواي بعدها سأعطيك مكافئتك <E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved1": {
-    "message": "I cannot believe my trusted advisors betrayed me like that!<E>"
+    "message": "لا أصدق أن مستشاريي خانوا ثقتي بهذا الشكل!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved2": {
-    "message": "It's so hard to find trustworthy advisors these days!<E>"
+    "message": "صعب جدًا هذه الأيام العثور على مستشارين جديرين بالثقة!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted1": {
-    "message": "It's so hard to get honest advisors these days.<E>"
+    "message": "صعب جدًا هذه الأيام العثور على مستشارين صادقين.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted2": {
-    "message": "Now the crown is safe and I am cured, I'll be able to turn my attention to solving the problem of the electrified water.<E>"
+    "message": "التاج آمن الآن وأنا شُفيت. سأقدر على صب تركيزي كله لحل مشكلة الماء المكهرب.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted3": {
-    "message": "I had no idea there was an underground cavern beneath that statue. Perhaps I should have the town plans examined to see what else the city hides.<E>"
+    "message": "لا علم عندي بوجود كهف تحت هذا التمثال. ربما عليّ فحص خرائط المدينة لمعرفة ماذا تخفي أيضًا.<E>"
   }
 }
