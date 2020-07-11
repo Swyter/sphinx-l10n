@@ -141,13 +141,13 @@
     "message": "<ES HT_Text_ES_S_BOSStd>スカル崇拝者はファイアスタッフを振り回したり、幽霊の頭蓋骨を召喚したりする…<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>こんなやつに会えば、悪の勢力は確かに近い。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Able to pass through solid forms, they move with the swiftness of a winter cloud and attack as if from nowhere...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Save projectile weaponry for elsewhere, as they will pass straight through the Dark Worshipper.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>硬いものを通れるこのモンスターは、冬の嵐のように素早く自分を隠したり攻撃する…<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>遠距離武器は暗い崇拝者に効果がないので、ダーツを貯めたほうがいい<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "<ES HT_Text_ES_S_BOSStd>In addition to their well-honed swordsmanship, they are capable of releasing an evil, shimmering skull that chases down an opponent...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>A flurry of blows often fails to harm them, such is their defensive skill.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>剣を上手に使ううえに、敵を襲って幻の頭骨を放つ技も使える...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>防御力が高いせいで、考えずにこのモンスターを攻撃すれば効果のない可能性が高い.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN01_Green_Giant_worm": {
-    "message": "<ES HT_Text_ES_S_BOSStd>They rear up out of their holes with alarming speed, using their great mass to slam down, crushing anything beneath...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Known to be impervious to anything that might stun smaller monsters.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>素早く穴から到着し、でかい体を使って敵を潰す…<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>もっと小さなモンスターを倒せる攻撃に耐えられることで知られている。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN07_Blade_Scorpion": {
     "message": "<ES HT_Text_ES_S_BOSStd>ブレードスコーピオンは速く走ったり攻撃したりする。このサソリの尾に気をつけて。その後、このサソリの好きな暗い隠れ場所にも気をつけて。<ES HT_Text_ES_S_BOSStd>"
@@ -162,7 +162,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>An arthropod with the ability to move swiftly along vertical and horizontal surfaces...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>The vicious fangs are not the only thing to fear; each of its legs ends in lethal, dagger-like claws.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The way they walk may look comical, but their bite certainly isn't. Vicious on land and in water...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Their unique metabolism makes them impervious to cold conditions.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>歩き方が可笑しいが、噛みが冗談じゃない。水でも土でも危ない…<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>個性的な代謝で寒い天気に耐えられる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
     "message": "<ES HT_Text_ES_S_BOSStd>The Exo-Piranha is a new evolutionary strain of Piranha. Only discovered in recent years, they are faster and stronger than others of their species.<ES HT_Text_ES_E_BOSStd>"
@@ -177,10 +177,10 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Fast-swimming and highly protective of its domain, the Spinefish is often a favored choice of the upper classes to make their moats even more hazardous to trespassers.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Moving with great ease, they often attack their prey before they've even been spotted.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Tree Creature may possess a beautiful magical ability, but let the phosphorescent glow enchant you and you'll get a nasty surprise from below.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>木の動物は美しい魔法能力を持つのに、その光の夢中になれば、下から苦しい驚きが来る。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PL04_Sunflower_With_Face": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Sunflower is not as peaceful as it may sound. Get hit by any one of the spores it emits and you won't be sleeping well that night.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>サンフラワーは名前のくせに平和な動物じゃない。この動物が放つ胞子に打たれたら、結構痛い。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QC01_Pokemon": {
     "message": "<ES HT_Text_ES_S_BOSStd>Slow, timid and unthreatening, Shell Critters are of little use. The bourgeoisie are known to use their shells as ornamentation.<ES HT_Text_ES_E_BOSStd>"
@@ -198,34 +198,34 @@
     "message": "<ES HT_Text_ES_S_BOSStd>The Nose Needler is a burrowing mammal found in dusty regions. Good luck to anyone attempting to land a blow on one of these evasive mammals.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU01_Skeletal_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Known for using its head's unique height to headbutt their prey. Once knocked unconscious, the Skeletal Spider can devour its prey at leisure.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>骨格スパイダーは、頭の個性的な高さを使って獲物をヘッドパットすることで知られている。無意識になった獲物は、ゆっくりと食える。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo": {
-    "message": "<ES HT_Text_ES_S_BOSStd>When alerted to a potential threat they will spin faster and faster on the spot, before dashing headlong into their enemy.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>敵に気づいたら、このモヌスターはますます速く回転して、敵へダッシュする。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Fire": {
     "message": "<ES HT_Text_ES_S_BOSStd>Employing the same spinning and charging attack as the Skeletal Armadillo, the Skeletal Fire Armadillo also generates a ball of fire, damaging any opponents with scorching results...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Captured ones can be used to burn down wooden obstacles.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Skeletal Electric Armadillo spins on the spot, building up an electric charge shocking to anything that comes into contact with it.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>電気のアルマジロは回転することで電気をまとめて、打ったものにその電気を放って攻撃する。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU04_Mummy_Chihuahua": {
     "message": "<ES HT_Text_ES_S_BOSStd>These little dogs are none too pleased about being mummified, so try not to get close. If you make that mistake, expect them to cling to you and bite away until they are shaken off.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU05_skeletal_waspspider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Wasp Spider poses a threat with its sharp front claws, which scythe through the air... and prey.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>ワスプスパイダーは前の鋭い爪か危険。その爪で獲物を襲って切り殺す。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU06_Mummy_Worm": {
-    "message": "<ES HT_Text_ES_S_BOSStd>As they are rooted to the spot they cannot see in every direction. Get behind one and, to all intents and purposes, it is completely harmless.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd> 移動できないので、前だけ見られる。後ろからくれば、全然安全なはず。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU09_Rat": {
-    "message": "<ES HT_Text_ES_S_BOSStd>An annoying creature which refuses to give up the chase until it's sunk its teeth into something. Most commonly found living in and around populated areas.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>何かを噛めるまで追撃をやまないとても悔しい動物。人の多い場所によく見つけられる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU08_Normal_Chihuahua": {
     "message": "<ES HT_Text_ES_S_BOSStd>A Chihuahua is a smooth-coated dog of diminutive stature. While they are highly respected by the dog loving community, most find their incessant yapping to be very irritating.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Big Bull would perhaps be more accurately described as a \"big bully\"...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>It cannot be reasoned with, and will persistently swing and smash its hammer at anything it feels like bothering. Do not get in the way!<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>「ビッグ・ブル」と言うより「ビッグいじめっ子」が適当...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>このモンスターは理由付けられない。目標に決めたらハンマーをしつこく振り回して攻撃する。このモンスターを邪魔するなよ！<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>宮殿の中庭の鍵。<ES HT_Text_ES_E_BOSStd>"
@@ -255,13 +255,13 @@
     "message": "<ES HT_Text_ES_S_BOSStd>大きいドアの鍵。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Solar Key for the Planetarium in the central hall.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>中央ホールのプラネタリウムで使える太陽の鍵。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Earth Key for the Planetarium in the central hall.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>中央ホールのプラネタリウムで使える土の鍵。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Mum_Imp2_PlanetariumKey03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Lunar Key for the Planetarium in the central hall.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>中央ホールのプラネタリウムで使える月の鍵。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Basket": {
     "message": "<ES HT_Text_ES_S_BOSStd>Bas-Ket is a magical object who can transport items between Sphinx and the Mummy once you have the Book of the Dead.<ES HT_Text_ES_E_BOSStd>"
@@ -318,7 +318,7 @@
     "message": "<ES HT_Text_ES_E_BOSStd>ヌト神様と関係ある魔法の石。もっとも強い呪いも解けるといわれている<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A magical stone signifying earthly bliss, said to lift even the strongest curse.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>このよの喜びを気配する魔法の石, もっとも強い呪いも解けるといわれている.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone03": {
     "message": "<ES HT_Text_ES_E_BOSStd>受胎能力と関係ある魔法の石。もっとも強い呪いも解けるといわれている<ES HT_Text_ES_E_BOSStd>"
