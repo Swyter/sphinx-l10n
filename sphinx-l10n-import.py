@@ -76,7 +76,7 @@ for cur in lang:
     CUR_LANG_COLUMN = data_read[HEADER_ROW].index(cur)
     print(cur, lang[cur], "INDEX THING", CUR_LANG_COLUMN)
     
-    # swy: 
+    # swy: reset the list of characters used in each language
     cur_glyphs = []
     
     # swy: reset the section and output data; once per language in the loop
@@ -146,7 +146,7 @@ for cur in lang:
         if not data_read[i][CUR_LANG_COLUMN]:
             data_read[i][CUR_LANG_COLUMN] = data_read[i][MARKER_SRC_LANGUAGE_COLUMN]
             
-    # swy: get the list of combined characters for this language, deduplicate them and sort :)
+    # swy: get the list of combined characters for this language, de-duplicate them and sort :)
     cur_glyphs = list(dict.fromkeys(cur_glyphs))
     cur_glyphs.sort()
     print(cur_glyphs)
@@ -159,18 +159,13 @@ for cur in lang:
         if len(unicode) > i + 2 and glyph + 1 == unicode[i + 1]:
             if i < range_start or range_start == -1:
                 range_start = i
-                
         else:
             if range_start != -1:
                 unicode_str += "%u-%u, " % (unicode[range_start], glyph)
                 range_start = -1
             else:
                 unicode_str += "%u, " % glyph
-                
-        # print (i, glyph, range_start, glyph + 1, unicode[i + 1], glyph + 1 == unicode[i + 1])
-    
     print("\n[i] Unicode glyph ranges in use for %s: " % cur.split('_')[1].lower(), unicode_str)
-    # exit()
 
 with open('SphinxTextImported.csv', 'w', newline='') as fp:
     writer = csv.writer(fp, delimiter=',', quoting=csv.QUOTE_MINIMAL)
