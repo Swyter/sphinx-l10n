@@ -1,170 +1,170 @@
 {
   "HT_Text_Shop_AskForMore": {
-    "message": ""
+    "message": "<END TT>Would you like to buy more?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_BuyFireDart": {
-    "message": ""
+    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Fire Darts cost <FC 0,128,0>10 Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_BuyIceDart": {
-    "message": ""
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Ice Darts cost <FC 0,128,0>12 Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_BuyAcidDart": {
-    "message": ""
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Acid Darts cost <FC 0,128,0>12 Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_BuyRemoteControlBeetle": {
-    "message": ""
+    "message": "<END TT><I HT_Texture_Icon_RemoteBeetle><N>Capture beetles: may contain traces of peanut. <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> for 5 beetles.Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_BuyExplosiveBeetle": {
-    "message": ""
+    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Explosive beetles: illegal in over 20 states. <FC 0,128,0>10 Scarabs<END FC> for 5 beetles. Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_Flex_BuyFireDart": {
-    "message": ""
+    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Fire Darts cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_Flex_BuyIceDart": {
-    "message": ""
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Ice Darts cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_Flex_BuyAcidDart": {
-    "message": ""
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Acid Darts cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_Flex_BuyExplosiveBeetle": {
-    "message": ""
+    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Explosive beetles: illegal in over 20 states. <FC 0,128,0><SO HT_Objective_Shop_Price>Scarabs<END FC> for 5 beetles.Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_DartBelt": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_DartBelt> Dart Belt - Holds a maximum of 50 darts of each type<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyDartBelt": {
-    "message": ""
+    "message": "<END TT>Buy Dart Belt for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Test": {
-    "message": ""
+    "message": "<END TT>Please, look around. Maybe you'll find something else that interests you.<E>"
   },
   "HT_Text_Shop_Sorry": {
-    "message": ""
+    "message": "<END TT>すみませんが、お金が足りないので、それが買えない。<E>"
   },
   "HT_Text_Shop_Full": {
-    "message": ""
+    "message": "<END TT>You've already got as many of those as you can carry.<E>"
   },
   "HT_Text_Shop_NoStock": {
-    "message": ""
+    "message": "<END TT>I'm sorry, we don't have any more of those.<E>"
   },
   "HT_Text_Shop_IceDart": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Ice Darts<N>Shoot these at things to freeze them.<E>"
   },
   "HT_Text_Shop_FireDart": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_FireDart> Fire Darts<N>Lets make with the arson already!<E>"
   },
   "HT_Text_Shop_AcidDart": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Acid Darts<N>Highly corrosive pipe launched projectiles.<E>"
   },
   "HT_Text_Shop_RemoteControlBeetle": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture beetles<N>Batteries not included.<E>"
   },
   "HT_Text_Shop_CaptureBeetles05": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 5<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles05": {
-    "message": ""
+    "message": "<END TT>Buy 5 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_CaptureBeetles15": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 15<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles15": {
-    "message": ""
+    "message": "<END TT>Buy 15 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_CaptureBeetles30": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 30<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles30": {
-    "message": ""
+    "message": "<END TT>Buy 30 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_BeetleSatchel": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Beetle Satchel - Holds a maximum of 50 Capture Beetles<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyBeetleSatchel": {
-    "message": ""
+    "message": "<END TT>Buy Beetle Satchel for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_AcidDarts10": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Acid Darts x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyAcidDarts10": {
-    "message": ""
+    "message": "<END TT>Buy 10 Acid Darts for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_IceDarts10": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Ice Darts x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyIceDarts10": {
-    "message": ""
+    "message": "<END TT>Buy 10 Ice Darts for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_ExplosiveBeetle": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Explosive beetles<N>If swallowed seek medical attention immediately.<E>"
   },
   "HT_Text_Shop_GoldAnkh": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Gold Ankh<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyGoldAnkh": {
-    "message": ""
+    "message": "<END TT>Buy Gold Ankh for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
   },
   "HT_Text_Shop_GoldAnkhPiece": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhPiece> Gold Ankh Piece<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyGoldAnkhPiece": {
-    "message": ""
+    "message": "<END TT>Buy Gold Ankh Piece for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_GateKey03": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GlyphKey02> Cave Door Key<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyGateKey03": {
-    "message": ""
+    "message": "<END TT>Buy Cave Door Key for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_AtunEyes04": {
-    "message": ""
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Atun Eye x 4<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyAtunEyes04": {
-    "message": ""
+    "message": "<END TT>Buy 4 Atun Eyes for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Burble": {
-    "message": ""
+    "message": "<DHP><DP><END TT>Mummy Bird<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyBurble": {
-    "message": ""
+    "message": "<END TT>Mummy Birds cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Pokemon": {
-    "message": ""
+    "message": "<DHP><DP><END TT>Shell Critter<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyPokemon": {
-    "message": ""
+    "message": "<END TT>Shell Critters cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Rat": {
-    "message": ""
+    "message": "<DHP><DP><END TT>Rat<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyRat": {
-    "message": ""
+    "message": "<END TT>Rats cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Armadillo": {
-    "message": ""
+    "message": "<DHP><DP><END TT>Shuttlecock Bird<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyArmadillo": {
-    "message": ""
+    "message": "<END TT>Shuttlecocks cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Lizard": {
-    "message": ""
+    "message": "<DHP><DP><END TT>Featherless Turkey<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyLizard": {
-    "message": ""
+    "message": "<END TT>Turkeys cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_Piranha": {
-    "message": ""
+    "message": "<DHP><DP><END TT>Small Frog<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
   },
   "HT_Text_Shop_BuyPiranha": {
-    "message": ""
+    "message": "<END TT>Frogs cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
   },
   "HT_Text_Shop_BuyMonster": {
-    "message": ""
+    "message": "<END TT>That's a fine specimen, I'll give you <SO HT_Objective_Shop_Price> for it.<N>  <B 2> No way<N>  <B 1> It's a deal<E>"
   },
   "HT_Text_Shop_SuitYourself": {
-    "message": ""
+    "message": "Suit yourself then. The offer's always open if you change your mind...<E>"
   },
   "HT_Text_Shop_NothingToSell": {
-    "message": ""
+    "message": "If you want to sell me monsters, you'd better go and catch some first...<E>"
   }
 }

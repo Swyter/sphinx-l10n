@@ -71,23 +71,14 @@
   "HT_Text_Inv_Dsc_BookOfTheDead": {
     "message": "<ES HT_Text_ES_S_BOSStd>This tome contains incantations to send Bas-Ket to Uruk Castle with Canopic Vases for the Mummy.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_BronzeAnkh": {
-    "message": "DOES NOT APPEAR IN INVENTORY"
-  },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
     "message": "<ES HT_Text_ES_S_BOSStd>Beetles which can be used to capture monsters.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_StandardDart": {
     "message": "<ES HT_Text_ES_S_BOSStd>These darts magically regenerate giving you an infinite supply. They are only powerful enough to damage explosive monsters.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_KaDart": {
-    "message": "DOES NOT APPEAR IN INVENTORY"
-  },
   "HT_Text_Inv_Dsc_BounceDart": {
     "message": "<ES HT_Text_ES_S_BOSStd>These darts magically regenerate giving you an infinite supply. They bounce off surfaces to hit targets indirectly but are only powerful enough to damage explosive monsters.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_PossessionDart": {
-    "message": "DOES NOT APPEAR IN INVENTORY"
   },
   "HT_Text_Inv_Dsc_PhysNote": {
     "message": "<ES HT_Text_ES_S_BOSStd>A note to Kemmet the Inventor from the Physician.<ES HT_Text_ES_E_BOSStd>"
@@ -134,29 +125,14 @@
   "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
     "message": "<ES HT_Text_ES_S_BOSStd>The Shuttlecock Bird may be one-legged, but it's quick on its foot...<P><ES HT_Text_ES_S_BOSStd>When hurtling through the air to attack it resembles an arrow, and can cause as much damage.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat": {
-    "message": "TO DO"
-  },
-  "HT_Text_Inv_Dsc_FL04_Skeletal_Bat_Fire": {
-    "message": "TO DO"
-  },
   "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
     "message": "The Mummy Eagle is one of the largest birds around. Undead, they are even more resilient to their live counterparts from attack.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_FL06_Undead_Man": {
-    "message": "TO DO<E>"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
     "message": "<ES HT_Text_ES_S_BOSStd>Knives Cats quickly confuse opponents with deft leaps and bounds, before plunging in to attack with alarming speed, razor sharp claws fully extended.<ES HT_Text_ES_S_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_HD13_S02_Aby_Bourgeoisie_Racist": {
-    "message": "TO DO<E>"
-  },
   "HT_Text_Inv_Dsc_HD14_Crab": {
     "message": "<ES HT_Text_ES_S_BOSStd>Crabhands attack their enemies with sharp claws in a somewhat cumbersome fashion. Let it get close enough, however, and expect painful results.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_HD15_GuardTest": {
-    "message": "TO DO<E>"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
     "message": "<ES HT_Text_ES_S_BOSStd>Sharpbeaks carry a sword in each hand which they wield with disorientating and discerning skill...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Infamous for slowly but surely bearing down on their opponent, utilizing the Florentine dual rapier method to deadly effect.<ES HT_Text_ES_E_BOSStd>"
@@ -191,9 +167,6 @@
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
     "message": "<ES HT_Text_ES_S_BOSStd>The Exo-Piranha is a new evolutionary strain of Piranha. Only discovered in recent years, they are faster and stronger than others of their species.<ES HT_Text_ES_E_BOSStd>"
   },
-  "HT_Text_Inv_Dsc_PI01_Green_Piranha": {
-    "message": "TO DO"
-  },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
     "message": "<ES HT_Text_ES_S_BOSStd>A snakelike fish capable of emitting electric charges.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Electric Eels are aggressive and territorial creatures, and in large quantities have been known to electrify vast areas of water.<ES HT_Text_ES_E_BOSStd>"
   },
@@ -202,15 +175,6 @@
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
     "message": "<ES HT_Text_ES_S_BOSStd>Fast-swimming and highly protective of its domain, the Spinefish is often a favored choice of the upper classes to make their moats even more hazardous to trespassers.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Moving with great ease, they often attack their prey before they've even been spotted.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_PI05_Aka_Turtle": {
-    "message": "TO DO"
-  },
-  "HT_Text_Inv_Dsc_PI06_Aka_Tentacle_Creature": {
-    "message": "TO DO"
-  },
-  "HT_Text_Inv_Dsc_PL01_Eye": {
-    "message": "TO DO"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
     "message": "<ES HT_Text_ES_S_BOSStd>The Tree Creature may possess a beautiful magical ability, but let the phosphorescent glow enchant you and you'll get a nasty surprise from below.<ES HT_Text_ES_E_BOSStd>"
@@ -228,7 +192,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Despite its overbearing size, the Spitting Toad is a placid creature renowned for its soft spot for coconuts.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Spitting Toads have been known to assist adventurers who feed them this nutty delicacy.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR03_Sak_Small_Frog": {
-    "message": "<ES HT_Text_ES_S_BOSStd>This frog may well be small, but it isn't the friendliest creature around. Indiginous to swamplands, they're noxious little critters.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>This frog may well be small, but it isn't the friendliest creature around. Indigenous to swamplands, they're noxious little critters.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR04_Sak_Nose_Needler": {
     "message": "<ES HT_Text_ES_S_BOSStd>The Nose Needler is a burrowing mammal found in dusty regions. Good luck to anyone attempting to land a blow on one of these evasive mammals.<ES HT_Text_ES_E_BOSStd>"
@@ -262,9 +226,6 @@
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
     "message": "<ES HT_Text_ES_S_BOSStd>The Big Bull would perhaps be more accurately described as a \"big bully\"...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>It cannot be reasoned with, and will persistently swing and smash its hammer at anything it feels like bothering. Do not get in the way!<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_HD09_Horned_ReptileMan": {
-    "message": "TO DO"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Key to the palace Courtyard.<ES HT_Text_ES_E_BOSStd>"
@@ -439,9 +400,6 @@
   },
   "HT_Text_Inv_Dsc_AbyWellKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>An old key.<ES HT_Text_ES_E_BOSStd>"
-  },
-  "HT_Text_Inv_Dsc_DummyItem": {
-    "message": "DUMMY ITEM THAT SHOULD NEVER BE ADDED TO PLAYER INVENTORY"
   },
   "HT_Text_Inv_Dsc_AbyStairsKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>The key to the stairs in the well courtyard, allowing access to the Abydos Canals.<ES HT_Text_ES_E_BOSStd>"

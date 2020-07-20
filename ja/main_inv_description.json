@@ -159,22 +159,22 @@
     "message": "<ES HT_Text_ES_S_BOSStd>目標へ飛んですがって、振り切られなかったらいっぱいになるまで食う…<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>グループで狩るので、一匹に会えば他のスパイダーは絶対にその周りにいる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN11_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>An arthropod with the ability to move swiftly along vertical and horizontal surfaces...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>The vicious fangs are not the only thing to fear; each of its legs ends in lethal, dagger-like claws.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>土でも壁でも速く這えるクモ…<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>恐ろしいものは大きい牙だけではなく、足の先には剣のように鋭い爪がある。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Piranha": {
     "message": "<ES HT_Text_ES_S_BOSStd>歩き方が可笑しいが、噛みが冗談じゃない。水でも土でも危ない…<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>個性的な代謝で寒い天気に耐えられる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Exo-Piranha is a new evolutionary strain of Piranha. Only discovered in recent years, they are faster and stronger than others of their species.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>エクソ・ピラニアはピラニアから進化した動物で、最近にだけ見つけられた新種。普通のピラニアより速くて、強い。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A snakelike fish capable of emitting electric charges.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Electric Eels are aggressive and territorial creatures, and in large quantities have been known to electrify vast areas of water.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>ヘビみたいな電気を放つうなぎ<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>電気のうなぎは縄張り行動を表す動物ので、電気のうなぎのたくさん集まった所で海に入るのは危険。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI03_Aka_Manta_Rays": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A large, edible marine fish noted for its flat body And graceful swimming style.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Years of being a culinary delicacy have made this creature understandably wary of anything unfamilar which strays too close to it.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>狭い体と美しい泳ぎ方で知られている大きい食用の海魚。<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>何年間も珍味であったため、この魚が近ついたものから逃げることは無理もない。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Fast-swimming and highly protective of its domain, the Spinefish is often a favored choice of the upper classes to make their moats even more hazardous to trespassers.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Moving with great ease, they often attack their prey before they've even been spotted.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>スパインの魚は速く泳ぎ、環境に入るものを襲うので、防御として掘りに入れることがよくある<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>よく獲物が気づく前にも攻撃できるほど速く動ける。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
     "message": "<ES HT_Text_ES_S_BOSStd>木の動物は美しい魔法能力を持つのに、その光の夢中になれば、下から苦しい驚きが来る。<ES HT_Text_ES_E_BOSStd>"
@@ -183,19 +183,19 @@
     "message": "<ES HT_Text_ES_S_BOSStd>サンフラワーは名前のくせに平和な動物じゃない。この動物が放つ胞子に打たれたら、結構痛い。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QC01_Pokemon": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Slow, timid and unthreatening, Shell Critters are of little use. The bourgeoisie are known to use their shells as ornamentation.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>ゆっくり、優しいシェルクリーターはあまり役に立たない。シェルクリーターの殻が飾りとして使うことはよくある。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR01_Cobra": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A Cobra is a venomous hooded snake which resides in trees and other plant life. Disturb a Cobra's home and it will not hesitate to rear its head and attack the intruder.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>コブラは木やその他の植物に棲む毒々しいヘビの一種。コブラを邪魔すれば、そのコブラは頭を上げたり、牙を表したり、潜入者への迎撃を準備する。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR02_Sak_Spitting_Toad": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Despite its overbearing size, the Spitting Toad is a placid creature renowned for its soft spot for coconuts.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Spitting Toads have been known to assist adventurers who feed them this nutty delicacy.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>大きさのくせにペッペットードはヤシの実がお好みの優しい動物。<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>ペッペットードがヤシの実の代わりに冒険者を手伝うって噂もある。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR03_Sak_Small_Frog": {
-    "message": "<ES HT_Text_ES_S_BOSStd>This frog may well be small, but it isn't the friendliest creature around. Indigenous to swamplands, they're noxious little critters.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>このかえる小さいけど、そんなに優しいいじゃない。沼に棲む動物で、害獣とも言える。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR04_Sak_Nose_Needler": {
-    "message": "<ES HT_Text_ES_S_BOSStd>The Nose Needler is a burrowing mammal found in dusty regions. Good luck to anyone attempting to land a blow on one of these evasive mammals.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>ノーズ・ニードラは砂原に棲む穴を掘る哺乳類。この速い動物を打ったらかなりの見事だよ。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU01_Skeletal_Spider": {
     "message": "<ES HT_Text_ES_S_BOSStd>骨格スパイダーは、頭の個性的な高さを使って獲物をヘッドパットすることで知られている。無意識になった獲物は、ゆっくりと食える。<ES HT_Text_ES_E_BOSStd>"
@@ -204,13 +204,13 @@
     "message": "<ES HT_Text_ES_S_BOSStd>敵に気づいたら、このモヌスターはますます速く回転して、敵へダッシュする。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Fire": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Employing the same spinning and charging attack as the Skeletal Armadillo, the Skeletal Fire Armadillo also generates a ball of fire, damaging any opponents with scorching results...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Captured ones can be used to burn down wooden obstacles.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>骨格のアルマジロと同じように、炎のアルマジロは回転して攻撃しているけど、炎のアルマジロだけは名前の通り炎を放つ。<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>捕まえった炎のアルマジロは木製のものを燃やすことで役に立つ。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Electricity": {
     "message": "<ES HT_Text_ES_S_BOSStd>電気のアルマジロは回転することで電気をまとめて、打ったものにその電気を放って攻撃する。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU04_Mummy_Chihuahua": {
-    "message": "<ES HT_Text_ES_S_BOSStd>These little dogs are none too pleased about being mummified, so try not to get close. If you make that mistake, expect them to cling to you and bite away until they are shaken off.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>この小さい犬はミーラにしたせいで態度が悪い。近づけちゃえば、胸に張って、振りほどくまで噛む行動を期待しなきゃ。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU05_skeletal_waspspider": {
     "message": "<ES HT_Text_ES_S_BOSStd>ワスプスパイダーは前の鋭い爪か危険。その爪で獲物を襲って切り殺す。<ES HT_Text_ES_E_BOSStd>"
@@ -222,7 +222,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>何かを噛めるまで追撃をやまないとても悔しい動物。人の多い場所によく見つけられる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU08_Normal_Chihuahua": {
-    "message": "<ES HT_Text_ES_S_BOSStd>A Chihuahua is a smooth-coated dog of diminutive stature. While they are highly respected by the dog loving community, most find their incessant yapping to be very irritating.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>チワワは小さくて、毛が滑らかな犬の一種。犬の好きな奴らによく尊敬を受けているけど、一般人に取ってちょっとうるさい。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
     "message": "<ES HT_Text_ES_S_BOSStd>「ビッグ・ブル」と言うより「ビッグいじめっ子」が適当...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>このモンスターは理由付けられない。目標に決めたらハンマーをしつこく振り回して攻撃する。このモンスターを邪魔するなよ！<ES HT_Text_ES_E_BOSStd>"
@@ -264,7 +264,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>中央ホールのプラネタリウムで使える月の鍵。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Basket": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Bas-Ket is a magical object who can transport items between Sphinx and the Mummy once you have the Book of the Dead.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>死者の書を手に入れたら、バス・ケットはスフィンクスとザ・マミーの間にものを配達できる<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyPass": {
     "message": "<ES HT_Text_ES_S_BOSStd>アビドスの身分証明書<ES HT_Text_ES_S_BOSStd>"
@@ -297,7 +297,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>ビートルを繁殖のための壼。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Loyalty Card entitling you to half price beetles from the Bedouin Outpost store.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>このポイントカードを持つなら、ベドウイン前哨の店でビートルを半額で買うことができる。<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CageKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>ウルク人の檻の鍵。<ES HT_Text_ES_E_BOSStd>"

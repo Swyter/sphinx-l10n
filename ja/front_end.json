@@ -1,563 +1,563 @@
 {
   "HT_Text_FE_Menu_NewGame": {
-    "message": ""
+    "message": "新しいゲーム"
   },
   "HT_Text_FE_Menu_LoadGame": {
-    "message": ""
+    "message": "ロード"
   },
   "HT_Text_FE_Menu_BonusMaterial": {
-    "message": ""
+    "message": "ボーナス"
   },
   "HT_Text_FE_Menu_Options": {
-    "message": ""
+    "message": "オプション"
   },
   "HT_Text_FE_Menu_OptionsSubControl": {
-    "message": ""
+    "message": "コントローラー設定"
   },
   "HT_Text_FE_Menu_OptionsSubScreen": {
-    "message": ""
+    "message": "画面設定"
   },
   "HT_Text_FE_Menu_OptionsSubSound": {
-    "message": ""
+    "message": "サウンド設定"
   },
   "HT_Text_FE_Menu_MusicVolume": {
-    "message": ""
+    "message": "音楽ボリューム"
   },
   "HT_Text_FE_Menu_SoundVolume": {
-    "message": ""
+    "message": "サウンドボリューム"
   },
   "HT_Text_FE_Menu_PadRumbleGC": {
-    "message": ""
+    "message": "コントローラーの振動"
   },
   "HT_Text_FE_Menu_PadRumbleXB": {
-    "message": ""
+    "message": "振動"
   },
   "HT_Text_FE_Menu_PadRumblePS2": {
-    "message": ""
+    "message": "振動"
   },
   "HT_Text_FE_Menu_ScreenAdjust": {
-    "message": ""
+    "message": "画面表示"
   },
   "HT_Text_FE_Menu_Widescreen": {
-    "message": ""
+    "message": "ワイドスクリーン"
   },
   "HT_Text_FE_Menu_Subtitles": {
-    "message": ""
+    "message": "字幕"
   },
   "HT_Text_FE_Menu_InvertThirdPersonVert": {
-    "message": ""
+    "message": "三人称カメラ操作上下反転"
   },
   "HT_Text_FE_Menu_InvertThirdPersonHorz": {
-    "message": ""
+    "message": "三人称カメラ操作左右反転"
   },
   "HT_Text_FE_Menu_InvertFirstPersonVert": {
-    "message": ""
+    "message": "一人称カメラ操作上下反転"
   },
   "HT_Text_FE_Menu_OK": {
-    "message": ""
+    "message": "オーケー"
   },
   "HT_Text_FE_Menu_Cancel": {
-    "message": ""
+    "message": "キャンセル"
   },
   "HT_Text_FE_Menu_ConfirmQuit": {
-    "message": ""
+    "message": "本当にやめますか？"
   },
   "HT_Text_FE_Menu_ConfirmQuit_XB": {
-    "message": ""
+    "message": "本当にやめますか?\nセーブしていない進行状況は全部失われます。"
   },
   "HT_Text_FE_Menu_SoundStereo": {
-    "message": ""
+    "message": "ステレオ"
   },
   "HT_Text_FE_Menu_SoundMono": {
-    "message": ""
+    "message": "モノ"
   },
   "HT_Text_FE_Menu_SoundSurround": {
-    "message": ""
+    "message": "サラウンド"
   },
   "HT_Text_FE_Menu_SoundStereoSurround": {
-    "message": ""
+    "message": "ステレオ/\\nサラウンド"
   },
   "HT_Text_FE_Menu_SoundModeOption": {
-    "message": ""
+    "message": "サウンドのモード"
   },
   "HT_Text_FE_Menu_On": {
-    "message": ""
+    "message": "ON"
   },
   "HT_Text_FE_Menu_Off": {
-    "message": ""
+    "message": "OFF"
   },
   "HT_Text_OptionsMenu_Back": {
-    "message": ""
+    "message": "戻る"
   },
   "HT_Text_OptionsMenu_Select": {
-    "message": ""
+    "message": "選ぶ"
   },
   "HT_Text_FE_Menu_ThirdPerson": {
-    "message": ""
+    "message": "三人称："
   },
   "HT_Text_FE_Menu_FirstPerson": {
-    "message": ""
+    "message": "一人称："
   },
   "HT_Text_FE_Menu_InvertHorz": {
-    "message": ""
+    "message": "カメラ操作左右反転"
   },
   "HT_Text_FE_Menu_InvertVert": {
-    "message": ""
+    "message": "カメラ操作上下反転"
   },
   "HT_Text_FE_MenuPause_Continue": {
-    "message": ""
+    "message": "続く"
   },
   "HT_Text_FE_MenuPause_Options": {
-    "message": ""
+    "message": "オプション"
   },
   "HT_Text_FE_MenuPause_QuitGame": {
-    "message": ""
+    "message": "ゲームをやめる"
   },
   "HT_Text_FE_PressStart_PS2": {
-    "message": ""
+    "message": "スタートのボタンを押す"
   },
   "HT_Text_FE_PressStart_XB": {
-    "message": ""
+    "message": "スタートを押す"
   },
   "HT_Text_FE_PressStart_GC": {
-    "message": ""
+    "message": "スタートを押す"
   },
   "HT_Text_FE_PressStart_PC": {
-    "message": ""
+    "message": "ボタンをなんでも押して開始"
   },
   "HT_Text_FE_Bonus1_Title": {
-    "message": ""
+    "message": "スフィンクスの作り方について"
   },
   "HT_Text_FE_Bonus1_Description": {
-    "message": ""
+    "message": "スフィンクス・アンド・ざ・カースド・マミー作りの舞台裏"
   },
   "HT_Text_FE_Bonus2_Title": {
-    "message": ""
+    "message": "スフィンクスのトレーラー"
   },
   "HT_Text_FE_Bonus2_Description": {
-    "message": ""
+    "message": "スフィンクス・アンド・ザ・カースド・マミーのトレーラー"
   },
   "HT_Text_FE_Menu_SaveSlotA": {
-    "message": ""
+    "message": "スフィンクス A"
   },
   "HT_Text_FE_Menu_SaveSlotB": {
-    "message": ""
+    "message": "スフィンクス B"
   },
   "HT_Text_FE_Menu_SaveSlotC": {
-    "message": ""
+    "message": "スフィンクス C"
   },
   "HT_Text_FE_Menu_SaveSlotA_XB": {
-    "message": ""
+    "message": "スフィンクス A"
   },
   "HT_Text_FE_Menu_SaveSlotB_XB": {
-    "message": ""
+    "message": "スフィンクス B"
   },
   "HT_Text_FE_Menu_SaveSlotC_XB": {
-    "message": ""
+    "message": "スフィンクス C"
   },
   "HT_Text_FE_Menu_SaveSlotNone": {
-    "message": ""
+    "message": "セーブしないまま続く"
   },
   "HT_Text_FE_Menu_SaveSlotEmpty": {
-    "message": ""
+    "message": "空っぽ"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
-    "message": ""
+    "message": "ダメージを受けた"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
-    "message": ""
+    "message": "汚染した"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_GC": {
-    "message": ""
+    "message": "空っぽ"
   },
   "HT_Text_MemCard_PromptSlotA": {
-    "message": ""
+    "message": "スフィンクス A"
   },
   "HT_Text_MemCard_PromptSlotB": {
-    "message": ""
+    "message": "スフィンクス B"
   },
   "HT_Text_MemCard_PromptSlotC": {
-    "message": ""
+    "message": "スフィンクス C"
   },
   "HT_Text_MemCard_PromptNo": {
-    "message": ""
+    "message": "いいえ"
   },
   "HT_Text_MemCard_PromptYes": {
-    "message": ""
+    "message": "はい"
   },
   "HT_Text_MemCard_PromptOK": {
-    "message": ""
+    "message": "オーケー"
   },
   "HT_Text_MemCard_PromptRetry": {
-    "message": ""
+    "message": "リトライ"
   },
   "HT_Text_MemCard_PromptCancel": {
-    "message": ""
+    "message": "キャンセル"
   },
   "HT_Text_MemCard_PromptHaventSaved_XB": {
-    "message": ""
+    "message": "本当にセーブしないで続きますか？"
   },
   "HT_Text_MemCard_GameName": {
-    "message": ""
+    "message": "スフィンクス"
   },
   "HT_Text_Paused_PS2": {
-    "message": ""
+    "message": "ポーズ"
   },
   "HT_Text_Paused_XB": {
-    "message": ""
+    "message": "スタートを押して続く"
   },
   "HT_Text_Paused_GC": {
-    "message": ""
+    "message": "ポーズ"
   },
   "HT_Text_ReplacePadPrompt_PS2_PAL": {
-    "message": ""
+    "message": "コントローラーポート(MISSINGPAD)にはコントローラーが入っていないです。アナログコントローラー(DUALSHOCK®)やアナログコントローラー(DUALSHOCK®2)を入れてください。"
   },
   "HT_Text_ReplacePadPrompt_PS2_NTSC": {
-    "message": ""
+    "message": "コントローラーポート(MISSINGPAD)にはコントローラーが入っていないです。アナログコントローラー(DUALSHOCK®)やアナログコントローラー(DUALSHOCK®2)を入れてください。"
   },
   "HT_Text_ReplacePadPrompt_XB_Start": {
-    "message": ""
+    "message": "続けるために、ポート(MISSINGPAD)にコントローラーを繋げて、スタートを押してください。"
   },
   "HT_Text_ReplacePadPrompt_XB": {
-    "message": ""
+    "message": "ポート(MISSINGPAD)にコントローラーを繋げてください。"
   },
   "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
-    "message": ""
+    "message": "こうすれば、進行状況やオプションがセーブを全然出来なくなります。本当にそのまま続いてもいいですか？"
   },
   "HT_Text_DeathScreen_Continue": {
-    "message": ""
+    "message": "続く"
   },
   "HT_Text_DeathScreen_QuitGame": {
-    "message": ""
+    "message": "ゲームをやめる"
   },
   "HT_Text_DeathScreen_Text": {
-    "message": ""
+    "message": "ゲームオーバー"
   },
   "HT_Text_OptionsMenu_Reset": {
-    "message": ""
+    "message": "リセット"
   },
   "HT_Text_ScreenAdjustText_PS2": {
-    "message": ""
+    "message": "十字ボタンを使って\\n画面を正す"
   },
   "HT_Text_ScreenAdjustText_GC": {
-    "message": ""
+    "message": "十字ボタンを使って\\n画面を正す"
   },
   "HT_Text_ScreenAdjustText_XB": {
-    "message": ""
+    "message": "十字ボタンを使って\\n画面を正す"
   },
   "HT_Text_Memcard_SaveConfirm": {
-    "message": ""
+    "message": "このスロットを使って\\nセーブしますか？"
   },
   "HT_Text_Memcard_LoadConfirm": {
-    "message": ""
+    "message": "このゲーむを\\nロードしますか？"
   },
   "HT_Text_Memcard_OverwriteConfirm": {
-    "message": ""
+    "message": "このスロットにゲームのデータがもうあります。\\n\\n前のセーブを書き換えますか？"
   },
   "HT_Text_Memcard_NoFormat": {
-    "message": ""
+    "message": "メモリカードスロット１にある\\nメモリカード(PS2)はフォーマットしていないです。\\n\\nメモリカード(PS2)をフォーマットしますか？"
   },
   "HT_Text_Memcard_NoFormat_Boot": {
-    "message": ""
+    "message": "メモリカードスロット１にある\\nメモリカード(PS2)はフォーマットしていないです。\\nメモリカード(PS2)をフォーマットしますか？"
   },
   "HT_Text_Memcard_NoDirectory": {
-    "message": ""
+    "message": "メモリカードスロット１にある\\nメモリカード(PS2)にスフィンクスの\\naディレクトリを含んでいません。\\nスフィンクスのディレクトリを今作りますか？"
   },
   "HT_Text_Memcard_FormatComplete": {
-    "message": ""
+    "message": "フォーマット成功"
   },
   "HT_Text_Memcard_SaveFailed": {
-    "message": ""
+    "message": "セーブは失敗しました。"
   },
   "HT_Text_Memcard_SaveSuccess": {
-    "message": ""
+    "message": "セーブは成功しました。"
   },
   "HT_Text_Memcard_LoadFail": {
-    "message": ""
+    "message": "ロードは失敗しました。"
   },
   "HT_Text_Memcard_NoCard": {
-    "message": ""
+    "message": "ご注意！スフィンクスはオートセーブを使うため、\\nこの後メモリカード(PS2)を入れたらデータを\\n書き換える可能性があります。しかし、ゲームのデータをセーブしたいなら、フリースペースをxKB持つメモリカードを入れてください。\\n\\nセーブしないで続くなら、スタートのボタンを押してください。"
   },
   "HT_Text_Memcard_NoCard1": {
-    "message": ""
+    "message": "メモリカードスロット１には\\nメモリカード(8MB)(for PlayStation®2)が入っていない"
   },
   "HT_Text_Memcard_NoSpace_Boot": {
-    "message": ""
+    "message": "このメモリカード(PS2)にはフリースペースが足りない。xKB以上のフロースペースを持つメモリカードを入れて、またコンソールの内部にフリースペースを作ってください。"
   },
   "HT_Text_Memcard_NoSpace_Save": {
-    "message": ""
+    "message": "メモリカードスロット１にあるメモリカード(PS2)のフリースペースがたりない。セーブできるために、スフィンクスはxKBのフリースペースをかかります"
   },
   "HT_Text_Memcard_PressKey": {
-    "message": ""
+    "message": "セーブしないように開始ためにスタートを押してください"
   },
   "HT_Text_Memcard_Loading": {
-    "message": ""
+    "message": "ロード中…"
   },
   "HT_Text_Memcard_Saving": {
-    "message": ""
+    "message": "セーブ中です。メモリカードスロット１にあるメモリカードを抜いたり、リセットしたり、コンソールを消したりしないようにしてください。"
   },
   "HT_Text_Memcard_Formatting": {
-    "message": ""
+    "message": "フォーマット中…\\n\\n\\nメモリカードスロット１にあるメモリカード(PS2)をフォーマットしている。\\nメモリカード(PS2)を抜いたり、リセットしたり、コンソールを消したりしないでください。"
   },
   "HT_Text_Memcard_YesNo": {
-    "message": ""
+    "message": "<B 1>はい<N><B 2>いいえ<E>"
   },
   "HT_Text_Menu_Cross": {
-    "message": ""
+    "message": "選択"
   },
   "HT_Text_Menu_Triangle": {
-    "message": ""
+    "message": "戻る"
   },
   "HT_Text_Menu_Square": {
-    "message": ""
+    "message": "中央画面"
   },
   "HT_Text_Menu_StartPause": {
-    "message": ""
+    "message": "ゲームを続く"
   },
   "HT_Text_Menu_AdjustScreen": {
-    "message": ""
+    "message": "左のアナログスティック\\nや十字ボタンを使って画面の\\n位置を調整する"
   },
   "HT_Text_Menu_Accept": {
-    "message": ""
+    "message": "はい"
   },
   "HT_Text_Menu_Decline": {
-    "message": ""
+    "message": "いいえ"
   },
   "HT_Text_Menu_Pause": {
-    "message": ""
+    "message": "ゲームを一時停止する"
   },
   "HT_Text_Menu_Empty": {
-    "message": ""
+    "message": "何もない"
   },
   "HT_Text_Menu_BOS": {
-    "message": ""
+    "message": "スフィンクスの本を開く"
   },
   "HT_Text_Menu_Inventory": {
-    "message": ""
+    "message": "ポーチ"
   },
   "HT_Text_Menu_Jump": {
-    "message": ""
+    "message": "ジャンプ"
   },
   "HT_Text_Menu_Attack": {
-    "message": ""
+    "message": "攻撃"
   },
   "HT_Text_Menu_Context": {
-    "message": ""
+    "message": "コンテクスト"
   },
   "HT_Text_Menu_Shield": {
-    "message": ""
+    "message": "盾"
   },
   "HT_Text_Menu_Pipe": {
-    "message": ""
+    "message": "吹き矢"
   },
   "HT_Text_Menu_Camera": {
-    "message": ""
+    "message": "カメラ操作"
   },
   "HT_Text_Menu_Move": {
-    "message": ""
+    "message": "キャラクターを動かす"
   },
   "HT_Text_Menu_Start": {
-    "message": ""
+    "message": "一時停止メニュー"
   },
   "HT_Text_Menu_PadLayout1": {
-    "message": ""
+    "message": "デフォルト"
   },
   "HT_Text_Menu_PadLayout2": {
-    "message": ""
+    "message": "左利き"
   },
   "HT_Text_Menu_PadLayout3": {
-    "message": ""
+    "message": "酔っ払った"
   },
   "HT_Text_Menu_NoPad": {
-    "message": ""
+    "message": "ポート１にあるコントローラー\\nが抜けちゃたようです。ゲームを続けるため\\nにコントローラーを入れてください。"
   },
   "HT_Text_Menu_Uruk1": {
-    "message": ""
+    "message": "スフィンクス＠ウルクの山野"
   },
   "HT_Text_Menu_Uruk2": {
-    "message": ""
+    "message": "ザ・マミー@ウルク城"
   },
   "HT_Text_Menu_Making": {
-    "message": ""
+    "message": "…の作り方=:=:=:"
   },
   "HT_Text_Menu_Trailer": {
-    "message": ""
+    "message": "トレーラー"
   },
   "HT_Text_Menu_Exit": {
-    "message": ""
+    "message": "デモをやめる"
   },
   "HT_Text_Menu_Continue": {
-    "message": ""
+    "message": "続く"
   },
   "HT_Text_Menu_Rumble": {
-    "message": ""
+    "message": "振動==ON"
   },
   "HT_Text_Menu_RumbleOff": {
-    "message": ""
+    "message": "振動==OFF"
   },
   "HT_Text_Menu_StartDemo": {
-    "message": ""
+    "message": "デモをプレイする"
   },
   "HT_Text_Menu_NewGame": {
-    "message": ""
+    "message": "ゲームをやめる"
   },
   "HT_Text_Menu_Load": {
-    "message": ""
+    "message": "ゲームをロードする"
   },
   "HT_Text_Menu_Save": {
-    "message": ""
+    "message": "ゲームをセーブする"
   },
   "HT_Text_Menu_Options": {
-    "message": ""
+    "message": "オプション"
   },
   "HT_Text_Menu_EndGame": {
-    "message": ""
+    "message": "ゲームを終了する"
   },
   "HT_Text_Menu_Screen": {
-    "message": ""
+    "message": "画面設定"
   },
   "HT_Text_Menu_Pad": {
-    "message": ""
+    "message": "コントローラー設定"
   },
   "HT_Text_Menu_Sound": {
-    "message": ""
+    "message": "サウンド設定"
   },
   "HT_Text_Menu_ScreenAdjust": {
-    "message": ""
+    "message": "画面を正す"
   },
   "HT_Text_Menu_WidescreenON": {
-    "message": ""
+    "message": "ワイドスクリーン==ON"
   },
   "HT_Text_Menu_WidescreenOFF": {
-    "message": ""
+    "message": "ワイドスクリーン==OFF"
   },
   "HT_Text_Menu_Volume": {
-    "message": ""
+    "message": "ボリューム"
   },
   "HT_Text_Menu_SoundFX": {
-    "message": ""
+    "message": "サウンド=FX"
   },
   "HT_Text_Menu_Music": {
-    "message": ""
+    "message": "音楽"
   },
   "HT_Text_Menu_SurroundON": {
-    "message": ""
+    "message": "サラウンド"
   },
   "HT_Text_Menu_SurroundOFF": {
-    "message": ""
+    "message": "ステレオ"
   },
   "HT_Text_Menu_Mono": {
-    "message": ""
+    "message": "モノ"
   },
   "HT_Text_Menu_Videos": {
-    "message": ""
+    "message": "動画"
   },
   "HT_Text_Menu_QuitLevel": {
-    "message": ""
+    "message": "レベルをやめる"
   },
   "HT_Text_Menu_NTSC": {
-    "message": ""
+    "message": "フレームレート==60"
   },
   "HT_Text_Menu_PAL": {
-    "message": ""
+    "message": "フレームレート==50"
   },
   "HT_Text_Menu_QuitQuestion": {
-    "message": ""
+    "message": "ゲームをやめる？"
   },
   "HT_Text_Menu_Paused": {
-    "message": ""
+    "message": "一時停止"
   },
   "HT_Text_Menu_QuitLevQuestion": {
-    "message": ""
+    "message": "レベルをやめる？"
   },
   "HT_Text_Menu_StartGame": {
-    "message": ""
+    "message": "ゲームを開始"
   },
   "HT_Text_Menu_SaveOver": {
-    "message": ""
+    "message": "このセーブを書き換える"
   },
   "HT_Text_Menu_UseSlot": {
-    "message": ""
+    "message": "このスロットを使う"
   },
   "HT_Text_Menu_LoadGame": {
-    "message": ""
+    "message": "このゲームをロード"
   },
   "HT_Text_Menu_EmptySlot": {
-    "message": ""
+    "message": "[ 空っぽ ]"
   },
   "HT_Text_Menu_CorruptSlot": {
-    "message": ""
+    "message": "[ 汚染あり ]"
   },
   "HT_Text_Menu_Scarabs": {
-    "message": ""
+    "message": "スカラブ"
   },
   "HT_Text_Menu_InvertON": {
-    "message": ""
+    "message": "カメラ反転==ON"
   },
   "HT_Text_Menu_InvertOFF": {
-    "message": ""
+    "message": "カメラ反転==OFF"
   },
   "HT_Text_Menu_SwapXYON": {
-    "message": ""
+    "message": "カメラスワップ=X==ON"
   },
   "HT_Text_Menu_SwapXYOFF": {
-    "message": ""
+    "message": "カメラスワップ=X==OFF"
   },
   "HT_Text_Menu_Cancel": {
-    "message": ""
+    "message": "キャンセル"
   },
   "HT_Text_Menu_Reset": {
-    "message": ""
+    "message": "リセット"
   },
   "HT_Text_FE_Menu_ToggleReverb": {
-    "message": ""
+    "message": "リバーブ"
   },
   "HT_Text_FE_Menu_FieldOfView": {
-    "message": ""
+    "message": "視点"
   },
   "HT_Text_FE_Menu_Resolution": {
-    "message": ""
+    "message": "解像度"
   },
   "HT_Text_FE_Menu_ChooseScreen": {
-    "message": ""
+    "message": "画面を選ぶ"
   },
   "HT_Text_FE_Menu_ToggleParticles": {
-    "message": ""
+    "message": " 粒子"
   },
   "HT_Text_FE_Menu_ToggleParticles_Limited": {
-    "message": ""
+    "message": "限定した"
   },
   "HT_Text_FE_Menu_ToggleParticles_Soft": {
-    "message": ""
+    "message": "柔らかい"
   },
   "HT_Text_FE_Menu_Anisotropy": {
-    "message": ""
+    "message": "異方性フィルタリング"
   },
   "HT_Text_FE_Menu_MultiSampling": {
-    "message": ""
+    "message": "マルチサンプリング"
   },
   "HT_Text_FE_Menu_Vsync": {
-    "message": ""
+    "message": "上下シンク"
   },
   "HT_Text_FE_Menu_VsyncAdaptive": {
-    "message": ""
+    "message": "アダプティブ"
   },
   "HT_Text_FE_Menu_RestartGame": {
-    "message": ""
+    "message": "ゲームを再起動"
   },
   "HT_Text_FE_ResolutionRequiresRestart": {
-    "message": ""
+    "message": "解像度を変えるにはゲームを再起動することが必要になります。"
   },
   "HT_Text_FE_ResolutionBorderless": {
-    "message": ""
+    "message": "境なし"
   },
   "HT_Text_FE_ResolutionWindowed": {
-    "message": ""
+    "message": "ウィンドウモード"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": ""
+    "message": "度"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": ""
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The magical darts fired from this powerful tool,<N>regenerate giving you an infinite supply.<P><ES HT_Text_ES_S_HelpText><CNTR>The darts can be used to hit remote targets but they<N>are only powerful enough to damage explosive monsters.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> to assign the <FC 0,128,0>Blowpipe<END FC> to a button.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the <FC 0,128,0>Blowpipe<END FC> is assigned, press<N>the button to enter first person mode.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_FireDart> to fire.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Cancel> to exit<N>from <FC 0,128,0>Blowpipe<END FC> mode.<ES HT_Text_ES_E_HelpText><E>"
   }
 }

@@ -9,7 +9,7 @@
     "message": "モンスター"
   },
   "HT_Text_BOS_Instructions": {
-    "message": "<FC 30,10,0><SB HT_PadAction_BOS_NavigateDPad> <N>を使用してページをナビゲートして、<SB HT_PadAction_BOS_TABCycleLeft> と <SB HT_PadAction_BOS_TABCycleRight><N>を使用してページを変わって、<SB HT_PadAction_BOS_PageUp>を使用してスクロールする。"
+    "message": "<FC 30,10,0><SB HT_PadAction_BOS_NavigateDPad>を使用してページをナビゲートして、<N><SB HT_PadAction_BOS_TABCycleLeft> と <SB HT_PadAction_BOS_TABCycleRight>を使用してページを変わって、<N><SB HT_PadAction_BOS_PageUp>を使用してスクロールする。"
   },
   "HT_Text_BOS_NoNotes": {
     "message": "<ES HT_Text_ES_S_BOSStd>ノートは何もない<ES HT_Text_ES_E_BOSStd>"

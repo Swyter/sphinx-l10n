@@ -1,12 +1,12 @@
 {
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1a": {
-    "message": "Waaahh!!! Who are you? What do you want? You've come to steal my precious merchandise?!<W 60>"
+    "message": "وااااااااه!! من تكون؟ ماذا تريد؟ أنت هنا لسرقة بضاعتي الثمينة؟!<W 60>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1b": {
-    "message": "Hmmm, you don't look like a thief...<E>"
+    "message": "هممم، هذا ليس مظهر لص..."
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1c": {
-    "message": "Hehehe, sorry. I thought you were one of those thieving Urukites from the other side of the wall.<E>"
+    "message": "هيهيهي، آسف، حسبتك مع عصابة الأوروكيتس من الجانب الآخر الجدار."
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1d": {
     "message": "They cannot be trusted. I'm still not sure I trust you, either. If you can give me <FC 0,128,0>10 Onyx Scarabs<END FC> then I'll consider changing my mind.<E>"
@@ -15,13 +15,13 @@
     "message": "Ahh, beautiful! <FC 0,128,0>Onyx Scarabs<END FC>! Now, allow me to show you the fantastic merchandise I have for sale.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_InitialText1f": {
-    "message": "Please, please, come on in...<W 60>"
+    "message": "أرجوك، أرجوك تفضل بالدخول..."
   },
   "HT_Text_Hel_Exterior_Farmer_CSFreed01": {
-    "message": "Hello again! It's great to be back on the farm with my brother again. I don't think I can thank you enough for your help.<E>"
+    "message": "مرحبا مجددا! من الرائع العودة للمزرعة مع أخي مرة اخرى.\n لا اعتقد اني قادر على شكرك كفاية على مساعدتك."
   },
   "HT_Text_Hel_Exterior_FarmersBrother_CSFreed01": {
-    "message": "Yes, thanks to you my brother and I can get back to our farm work.<E>"
+    "message": "أجل  شكرا لك، الان انا واخي نستطيع العودة للعمل في المزرعة."
   },
   "HT_Text_Hel_Exterior_Farmer_CSFreed02": {
     "message": "For all your help, we want you to have this. We found it while farming, but it looks very valuable.<E>"
@@ -63,7 +63,7 @@
     "message": "<EFF><EPO>There you are! Thank you so much. I really can't thank you enough for freeing my brother.<P>I was getting desperate. I thought I would never see him again, but thanks to you, we're reunited!<P>It will be great for my brother and I to get back to the farm, especially now that you've destroyed all those <FC 0,128,0>Eye of Ra Posts<END FC>. Thanks again!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_ReunionGoHome02": {
-    "message": "Remember, my friend, come visit us on the farm. We'll help you in any way we can...<E>"
+    "message": "تذكر يا صديقي، تعال لزيارتنا في المزرعة. \nسنساعدك قدر ما نستطيع."
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes01": {
     "message": "My brother and I would love to get back to our farming, but not while those deadly <FC 0,128,0>Eyes of Ra<END FC> are out there.<E>"
@@ -72,19 +72,19 @@
     "message": "Excellent! All the <FC 0,128,0>Eyes of Ra<END FC> are destroyed!<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes02b": {
-    "message": "Now my brother and I can get back to our farming. Thank you!<E>"
+    "message": "الآن، بإمكاني وأخي العودة لمزرعتنا. شكرا لك!"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes02c": {
-    "message": "Don't forget to come visit us, my friend. We'll help you in any way we can...<W 60>"
+    "message": "زرنا متى أردت يا صديقي. لن نبخل عليك بشيء..."
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes03a": {
-    "message": "There are still <FC 0,128,0><SO HT_Objective_Temp> Eyes of Ra<END FC> left, my friend!<E>"
+    "message": "بقيت عين رع أخرى يا صديقي!"
   },
   "HT_Text_Hel_Exterior_Farmer_KillEyes03b": {
-    "message": "There is still <FC 0,128,0>1 Eye of Ra<END FC> left, my friend!<E>"
+    "message": "بقيت عين رع واحدة يا صديقي!"
   },
   "HT_Text_Hel_Exterior_Farmer_BrotherFreed": {
-    "message": "It's a miracle! My brother has returned!<P>He tells me you were responsible. I cannot thank you enough.<E>"
+    "message": "مستحيل! عاد أخي! أخبرني أنك من ساعده. لا تكفي الكلمات لشكرك."
   },
   "HT_Text_Hel_Exterior_Farmer_PickPlot": {
     "message": "Please my friend, if you choose a plot on the farm, we'll gladly give you whatever we find there. It's the least we can do after all you have done for us.<E>"
@@ -93,7 +93,7 @@
     "message": "We're still not finished yet; the land is almost unworkable. Please, come back later.<E>"
   },
   "HT_Text_Hel_Exterior_Farmer_FoundThis": {
-    "message": "Welcome back my friend! You'll be glad to know that we found this while we were digging. Please, take it as a token of our appreciation.<E>"
+    "message": "مرحبا بعودتك يا صديقي! ستسر لو تعرف أننا وجدنا هذا عندما كنا نحفر. خذه رجاء، عربونا عن تقديرنا لك."
   },
   "HT_Text_Hel_Exterior_Farmer_Complete": {
     "message": "Now that the farm is prepared, we can relax and wait for the rains to come. Thanks for your help!<E>"
@@ -570,7 +570,7 @@
     "message": "I am sure it will be very useful in your future quests. I hope you can forgive my arrogance towards you in the past. I apologize, Sphinx.<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility06": {
-    "message": "Don't use it! It's a trap!<E>"
+    "message": "لا تستعملها! إنه فخ!"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility07": {
     "message": "That really is the <FC 0,128,0>Dark Stone of Invisibility<END FC>, but the power of invisibility has a nasty side effect: it causes instant death!<E>"
@@ -1227,7 +1227,7 @@
     "message": "Perchance, is Anubis looking for... this crown?!<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1e": {
-    "message": "If you want it you'll have to catch me first! <W 60>"
+    "message": "اذا كنت تريدها فلتمسكني أولاً!"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1f": {
     "message": "Ha, ha, ha! Catch me if you can!<W 60>"

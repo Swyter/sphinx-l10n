@@ -1,173 +1,173 @@
 {
   "HT_Text_Context_UseItem": {
-    "message": ""
+    "message": "USE ITEM"
   },
   "HT_Text_Context_Use": {
-    "message": ""
+    "message": "USE"
   },
   "HT_Text_Context_PushObject": {
-    "message": ""
+    "message": "PUSH"
   },
   "HT_Text_Context_PullObject": {
-    "message": ""
+    "message": "PULL"
   },
   "HT_Text_Context_Lever": {
-    "message": ""
+    "message": "USE LEVER"
   },
   "HT_Text_Context_OpenDoor": {
-    "message": ""
+    "message": "OPEN"
   },
   "HT_Text_Context_PickupObject": {
-    "message": ""
+    "message": "PICK UP"
   },
   "HT_Text_Context_SavePoint": {
-    "message": ""
+    "message": "SAVE"
   },
   "HT_Text_Context_NPC": {
-    "message": ""
+    "message": "TALK"
   },
   "HT_Text_Context_Grab": {
-    "message": ""
+    "message": "GRAB"
   },
   "HT_Text_Context_Possession": {
-    "message": ""
+    "message": "POSSES"
   },
   "HT_Text_Context_Unpossession": {
-    "message": ""
+    "message": "UNPOSSES"
   },
   "HT_Text_Context_Release": {
-    "message": ""
+    "message": "RELEASE"
   },
   "HT_Text_Context_Clone": {
-    "message": ""
+    "message": "CLONE"
   },
   "HT_Text_Context_Invisibility": {
-    "message": ""
+    "message": "INVIS"
   },
   "HT_Text_Context_Hide": {
-    "message": ""
+    "message": "HIDE"
   },
   "HT_Text_Context_FreezeTime": {
-    "message": ""
+    "message": "FREEZE TIME"
   },
   "HT_Text_Context_KaTile": {
-    "message": ""
+    "message": "SHOOT KA"
   },
   "HT_Text_Context_Shop": {
-    "message": ""
+    "message": "BUY"
   },
   "HT_Text_Context_Linear": {
-    "message": ""
+    "message": "LINEAR"
   },
   "HT_Text_Context_Recall": {
-    "message": ""
+    "message": "RECALL"
   },
   "HT_Text_Context_Directed": {
-    "message": ""
+    "message": "DIRECTED"
   },
   "HT_Text_Context_Cancel": {
-    "message": ""
+    "message": "CANCEL"
   },
   "HT_Text_Context_Jump": {
-    "message": ""
+    "message": "JUMP"
   },
   "HT_Text_Context_Attack": {
-    "message": ""
+    "message": "ATTACK"
   },
   "HT_Text_Context_Detonate": {
-    "message": ""
+    "message": "DETONATE"
   },
   "HT_Text_Context_Beetle": {
-    "message": ""
+    "message": "BEETLE"
   },
   "HT_Text_Context_Throw": {
-    "message": ""
+    "message": "THROW"
   },
   "HT_Text_Context_Drop": {
-    "message": ""
+    "message": "DROP"
   },
   "HT_Text_Context_FireDart": {
-    "message": ""
+    "message": "FIRE"
   },
   "HT_Text_Context_FirstPerson": {
-    "message": ""
+    "message": "1st PERSON"
   },
   "HT_Text_Context_Blowpipe": {
-    "message": ""
+    "message": "BLOW PIPE"
   },
   "HT_Text_Context_ThirdPerson": {
-    "message": ""
+    "message": "3rd PERSON"
   },
   "HT_Text_Context_Program": {
-    "message": ""
+    "message": "PROGRAM"
   },
   "HT_Text_Context_SpittingToadV": {
-    "message": ""
+    "message": "VERTICAL"
   },
   "HT_Text_Context_SpittingToadH": {
-    "message": ""
+    "message": "HORIZONTAL"
   },
   "HT_Text_Context_Flap": {
-    "message": ""
+    "message": "FLAP"
   },
   "HT_Text_Context_Enter": {
-    "message": ""
+    "message": "ENTER"
   },
   "HT_Text_Context_Grow": {
-    "message": ""
+    "message": "GROW"
   },
   "HT_Text_Context_Exit": {
-    "message": ""
+    "message": "EXIT"
   },
   "HT_Text_Context_SwapMummy": {
-    "message": ""
+    "message": "SWAP"
   },
   "HT_Text_Context_MummyCrawl": {
-    "message": ""
+    "message": "CRAWL"
   },
   "HT_Text_Context_MummyStandUp": {
-    "message": ""
+    "message": "STAND"
   },
   "HT_Text_Context_Dive": {
-    "message": ""
+    "message": "DIVE"
   },
   "HT_Text_Context_Swim": {
-    "message": ""
+    "message": "SWIM"
   },
   "HT_Text_Context_SwimFast": {
-    "message": ""
+    "message": "FAST"
   },
   "HT_Text_Context_WallSneakPeek": {
-    "message": ""
+    "message": "PEEK"
   },
   "HT_Text_Context_WallSneak": {
-    "message": ""
+    "message": "SNEAK"
   },
   "HT_Text_Context_Take": {
-    "message": ""
+    "message": "TAKE"
   },
   "HT_Text_Context_DJump": {
-    "message": ""
+    "message": "SOMERSAULT"
   },
   "HT_Text_Context_Read": {
-    "message": ""
+    "message": "READ"
   },
   "HT_Text_Context_Slam": {
-    "message": ""
+    "message": "SLAM"
   },
   "HT_Text_Context_Wear": {
-    "message": ""
+    "message": "WEAR"
   },
   "HT_Text_Context_UnHide": {
-    "message": ""
+    "message": "UNHIDE"
   },
   "HT_Text_Context_Choose": {
-    "message": ""
+    "message": "CHOOSE"
   },
   "HT_Text_Context_Select": {
-    "message": ""
+    "message": "SELECT"
   },
   "HT_Text_Context_Shake": {
-    "message": ""
+    "message": "SHAKE"
   }
 }
