@@ -15,7 +15,7 @@
     "message": "ほら！見ての通り、誰かがあの赤い光線を起動した。それは心配となる。<E>"
   },
   "HT_Text_Uruk_Intro_Entrance1b1": {
-    "message": "<EFF><EPO>伝説によると、その光線はかなりの力で<FC 128,64,0>ウルク<END FC>城とその周りを守っている。<P>この辺りにブービートラップや障害がいっぱいけど、あの光線と同じく危険なものはない。<E>"
+    "message": "<EFF><EPO>伝説によると、その光線はかなりの力で<FC 128,64,0>ウルク<END FC>城とその周りを守っている。<P>この辺りにブービートラップや障害がいっぱいけど、あの光線のようなものはない。<E>"
   },
   "HT_Text_Uruk_Intro_Entrance1c": {
     "message": "これからはわしの力は無駄となる…　これ以上伴うことは出来ない…<E>"
@@ -36,25 +36,25 @@
     "message": "Good. Action time. I was getting bored with all that talking. I'll go down there and see what I can find; you go through that door. We'll meet in <FC 128,64,0>Heliopolis<END FC>. <E>"
   },
   "HT_Text_Uruk_intro_01a_Horus_TooHigh": {
-    "message": "Hey, Sphinx! I'm over here by the lava fall. Come on over, I need to show you something.<E>"
+    "message": "おい、スフィンクス！俺は溶岩流の上にいる。こっちに来い、見せたいものがあるよ。<E>"
   },
   "HT_Text_Uruk_intro_01_Horus_CallingUpHere1": {
-    "message": "Hmm, this is too high for you, isn't it? I don't understand why the Master insisted on having you accompany me. You're just holding me back!<E> "
+    "message": "あのな〜、こっちが君にとって高すぎるだろう？先生が君を選んだことは理解できない。君は俺を抑えてるんだけだ！<E> "
   },
   "HT_Text_Uruk_intro_01_Horus_CallingUpHere2": {
     "message": "Try and find another way up here. I've found something interesting and I need to show you how it works.<E> "
   },
   "HT_Text_Uruk_intro_01_Horus_CallingUpHere3": {
-    "message": "I'm skillful enough to find the blade without your help. You'll need to figure out how to get up here yourself.<E>"
+    "message": "俺は君の手伝いなしでもあの剣を見つけられる。君は自分の上がる道を探せ！俺は先に行く<E>"
   },
   "HT_Text_Uruk_intro_02_Sphinx_TalkToad1": {
-    "message": "Puagh! You're far too scrawny!<E>"
+    "message": "ゲー！あんたは痩せすぎよ！<E>"
   },
   "HT_Text_Uruk_intro_02_Sphinx_TalkToad2": {
-    "message": "I'm starving, but I'm not desperate enough to eat the likes of you. Too many clothes...<E>"
+    "message": "僕は腹減ったが、あんたみたいなやつを食べるほどではない。服ありすぎ…<E>"
   },
   "HT_Text_Uruk_intro_02_Sphinx_TalkToad3": {
-    "message": "If only I had a few <FC 0,128,0>Coconuts<END FC>... I haven't had a <FC 0,128,0>Coconut<END FC> in ages. Mmmm... just thinking about them...<E>"
+    "message": "もし僕の好みの<FC 0,128,0>ヤシの実<END FC>があれば...  <FC 0,128,0>ヤシの実<END FC> を食べたのは何年ぶりかな〜。考えるだけでもっと空腹になる...<E>"
   },
   "HT_Text_Uruk_Intro_03_Horus_BloodPresentation1": {
     "message": "Ah, you got up here at last! I didn't think you would make it. <E> "
@@ -114,7 +114,7 @@
     "message": "The <FC 0,128,0>Blade of Osiris<END FC> is now in sight, but I can see no way of getting to it!<E>"
   },
   "HT_Text_Urk_Intro_Help_LongJump": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Press and hold <SB HT_Action_Jump> for a longer period<N>of time to jump further.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>長くジャンプするために<N><SB HT_Action_Jump>を押し続けます。<E>"
   },
   "HT_Text_Urk_Intro_Help_ZipLine": {
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>This is a zip line. Jump and catch<N>the handle if you want to use it.<E>"
@@ -174,19 +174,19 @@
     "message": "Oh, I forgot... you're still developing your skills... this is too high for you.<P> Try and find another way up here, I have to show you how this thing works.<P> How am I supposed to do that with you down there?<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_Hungry ": {
-    "message": "Puagh! Far too meaty!<P>I'm starving, but I draw the line at eating anything that wears clothes! Too much fiber...<N>If only I had a few <FC 0,128,0>Coconuts<END FC>... I haven't had <FC 0,128,0>Coconut<END FC> in ages. Mmmm... just thinking about them...<E>"
+    "message": "ゲー！肉肉しすぎ！<P>僕は腹減ったが、服を着ているものは全然食べない！繊維ありすぎ…<N>もし僕の好みの<FC 0,128,0>ヤシの実<END FC>があれば... <FC 0,128,0>ヤシの実<END FC> を食べたのは何年ぶりかな〜。考えるだけでもっと空腹になる...<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryShort": {
-    "message": "Ohhh, I'm so hungry... I'm sure there are some <FC 0,128,0>Coconut<END FC> trees around here.<E>"
+    "message": "僕はめっちゃ腹減った…この周りに<FC 0,128,0>ヤシの実<END FC>の木があるだろう。"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_Hungry1": {
-    "message": "Hey, you with the face paint! What's that I smell on you? Is that... yes! <FC 0,128,0>Coconuts<END FC>!<P>Could I have some?<N>  <B 1> Sure, help yourself!<N>  <B 2> No! Find your own!<E>"
+    "message": "おい、フェイスペイントを着ているやつ！その香りはもしかして…やった！<FC 0,128,0>ヤシの実<END FC>!<P>僕にくれるのか？<N> <B 1> どうぞ<N> <B 2> 嫌！自分のを探せ！<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes": {
-    "message": "Delicious! Thanks!<P>I could do with a few more like that. If you get me some more, I might be able to help you... <E> "
+    "message": "うまい！ありがとう！<P>そんなのをもっと食べたいな〜。もしもっと<FC 0,128,0>ヤシの実<END FC>を僕にくれたら、なんか手伝ってあげる…<E> "
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryNo": {
-    "message": "Then go away and stop taunting me!<E>"
+    "message": "じゃあ、ふざけんなよ！<E>"
   },
   "HT_Text_urk_intr_HorusTalk_01": {
     "message": "You see the statue with the dripping blood? It is said that this is the Blood of Ra himself.<P>Whoever stands under the blood will be encased in a protective shield which will allow them to walk unharmed on boiling hot lava.<P>However, it is said that the shield only lasts for a short time before wearing off.<E>"
@@ -198,16 +198,16 @@
     "message": "Hey! You'll have someone's eye out with that! <E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes1": {
-    "message": "Just two more to fill me up.<E>"
+    "message": "あと２つでいっぱいよ。<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes2": {
-    "message": "These taste so good. Just one more should do it.<E> "
+    "message": "本当に美味しい。あと１つだけでいい。<E> "
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes3": {
-    "message": "Oh, thank you! That feels so much better!<P>Just step onto my tongue and I can help you reach where you need to go.<P>First choose the horizontal direction, then choose the vertical direction and I will spit you over to the position you have chosen.<P>Choose carefully though. If you tell me to spit you into the lava, I will do exactly as you say!<E> "
+    "message": "ありがとう！これで満足した！<P>　ただ僕の舌に乗ったら、あんたの行きたい場所へ行くのを手伝ってあげる。<P>水平の方向と垂直の方向を選んだら、あんたをあっちへ吐き出そう<P>。気をつけて選ぶが良い。溶岩に吐き出せって言ったら、言う通りやるよ！<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_NotEnough": {
-    "message": "I'm still hungry.<E>"
+    "message": "僕はまだ腹減った。<E>"
   },
   "HT_Text_urk_intr_PickupCocoon": {
     "message": "You got a Cocoon.<E>  "
@@ -255,7 +255,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>This geyser is inactive. It looks like it requires<N>additional lava flow in order to blow.<E>"
   },
   "HT_Text_Urk_Intro_Pickup_Stone": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Notice how <SB HT_Action_PickupObject> on the top right display changes<N>when you approach certain objects or items.<P><ES HT_Text_ES_S_HelpText><CNTR>You can press <SB HT_Action_PickupObject> to pick up rocks<N>like this when you are close to them.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>特別なものに近づいたら、<N>画面の右上にある<SB HT_Action_PickupObject>が変わるものをよく見てください。<P><ES HT_Text_ES_S_HelpText><CNTR>岩石を拾うために、<N>岩石に近づいて、<SB HT_Action_PickupObject>を押す。<E>"
   },
   "HT_Text_Urk_Intro_Pushable_Stone": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_Grab> to grab hold of objects...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...then use <SB HT_PadAction_PLR_MovePlr> to push or pull them.<E>"
