@@ -1,6 +1,6 @@
 {
   "HT_Text_FE_Menu_NewGame": {
-    "message": "إبدأ اللعبة"
+    "message": "ابدأ اللعبة"
   },
   "HT_Text_FE_Menu_LoadGame": {
     "message": "واصل اللعبة"
@@ -192,7 +192,7 @@
     "message": "أعد المحاولة"
   },
   "HT_Text_MemCard_PromptCancel": {
-    "message": "إلغاء"
+    "message": "الغي"
   },
   "HT_Text_MemCard_PromptHaventSaved_XB": {
     "message": "متأكد أنك تنوي أن تواصل دون على حفظ اللعبة؟"
@@ -276,31 +276,31 @@
     "message": "فشل فتح اللعبة."
   },
   "HT_Text_Memcard_NoCard": {
-    "message": "Caution! Sphinx uses an Autosave feature.\\nInsertion of a memory card (PS2) beyond\\nthis point may cause data to be\\noverwritten. However if you wish to save\\nyour game data, insert a memory card (PS2)\\nwith at least xKB free space.\\n\\nPress START BUTTON to continue\\nwithout saves."
+    "message": "حذاري! تستعمل سفينكس ميزة الحفظ التلقائي. قد تُستبدل البيانات القديمة بهذه الجديدة إن تمّ إدخال بطاقة تخزين (PS2) بعد هذه المرحلة. ولكن إن أردت حفظ بيانات لعبك، فادخل بطاقة تخزين (PS2) بها xKB كمساحة خالية على الأقل. اضغط زر START إن أردت المواصلة بدون حفظ."
   },
   "HT_Text_Memcard_NoCard1": {
-    "message": "No memory card(8MB)(for PlayStation®2)\\n inserted in memory card slot 1."
+    "message": "لا وجود لبطاقة تخزين (8MB)(لـPlayStation®2) في الفتحة رقم 1."
   },
   "HT_Text_Memcard_NoSpace_Boot": {
-    "message": "Insufficient space on memory card (PS2). Insert a\\nmemory card (PS2) with at least xKB free space,\\nor create some space using the console's internal browser."
+    "message": "مساحة بطاقة تخزين (PS2) لا تكفي. ادخل بطاقة تخزين (PS2) بها xKB كمساحة خالية على الأقل. أو انشئ مساحة تكفي باستخدام المتصفح الداخلي للجهاز."
   },
   "HT_Text_Memcard_NoSpace_Save": {
-    "message": "Insufficient space on memory card (PS2) in MEMORY CARD\\n slot 1. Sphinx requires xKB free space to save data."
+    "message": "مساحة بطاقة تخزين (PS2) الموجودة في الفتحة 1 لا تكفي. تطلب سفينكس xKB مساحة خالية لحفظ البيانات."
   },
   "HT_Text_Memcard_PressKey": {
-    "message": "اضغط ستارت للإكمال بدون حفظ"
+    "message": "اضغط START للإكمال دون حفظ"
   },
   "HT_Text_Memcard_Loading": {
-    "message": "جار التحميل."
+    "message": "جار التحميل..."
   },
   "HT_Text_Memcard_Saving": {
-    "message": "Saving data. Do not remove memory card (PS2) in\\nMEMORY CARD slot 1, reset, or switch off the console."
+    "message": "تُحفظ البيانات. لا تُزل بطاقة تخزين (PS2) من الفتحة 1، ولا تُقفل الجهاز أو تعيد تشغيله."
   },
   "HT_Text_Memcard_Formatting": {
-    "message": "Formatting...\\n\\n\\nFormatting memory card (PS2) in MEMORY CARD slot 1.\\nDo not remove memory card (PS2),\\nreset, or switch off the console."
+    "message": "جار التهيئة... جاري تهيئة بطاقة تخزين (PS2) في الفتحة 1. لا تُزل بطاقة تخزين (PS2)، ولا تُقفل الجهاز أو تعيد تشغيله."
   },
   "HT_Text_Memcard_YesNo": {
-    "message": "<B 1>Yes<N><B 2>No<E>"
+    "message": "<B 1>أجل<N><B 2>لا<E>"
   },
   "HT_Text_Menu_Cross": {
     "message": "اختر"
@@ -309,13 +309,13 @@
     "message": "عودة"
   },
   "HT_Text_Menu_Square": {
-    "message": "Center screen"
+    "message": "وسط الشاشة"
   },
   "HT_Text_Menu_StartPause": {
     "message": "اكمل اللعبة"
   },
   "HT_Text_Menu_AdjustScreen": {
-    "message": "Use the left analog\\nstick or directional button to\\nadjust the screen position"
+    "message": "استخدم العصا التناظرية اليسرى أو أزرار الاتجاهات لضبط موضع الشاشة"
   },
   "HT_Text_Menu_Accept": {
     "message": "نعم"
@@ -327,10 +327,10 @@
     "message": "ايقاف اللعبة"
   },
   "HT_Text_Menu_Empty": {
-    "message": "Nothing"
+    "message": "لا شيء"
   },
   "HT_Text_Menu_BOS": {
-    "message": "افتح كتاب ابو الهول"
+    "message": "افتح كتاب سفينكس"
   },
   "HT_Text_Menu_Inventory": {
     "message": "المخزون"
@@ -342,222 +342,222 @@
     "message": "هجوم"
   },
   "HT_Text_Menu_Context": {
-    "message": "Context"
+    "message": "السياق"
   },
   "HT_Text_Menu_Shield": {
     "message": "ترس"
   },
   "HT_Text_Menu_Pipe": {
-    "message": "Blow pipe"
+    "message": "حِملاج"
   },
   "HT_Text_Menu_Camera": {
-    "message": "Camera control"
+    "message": "التحكم بالكاميرا"
   },
   "HT_Text_Menu_Move": {
-    "message": "Move character"
+    "message": "تحريك الشخصية"
   },
   "HT_Text_Menu_Start": {
-    "message": "Pause game menu"
+    "message": "قائمة شاشة التوقف"
   },
   "HT_Text_Menu_PadLayout1": {
-    "message": "DEFAULT"
+    "message": "الإعدادات السابقة"
   },
   "HT_Text_Menu_PadLayout2": {
-    "message": "LEFT=HANDED"
+    "message": "أعسر"
   },
   "HT_Text_Menu_PadLayout3": {
-    "message": "DRUNKEN"
+    "message": "عشوائي"
   },
   "HT_Text_Menu_NoPad": {
-    "message": "The controller in controller\\nport 1 has been removed.\\nReinsert the controller to\\ncontinue with the game."
+    "message": "نُزعت وحدة التحكم من الفتحة 1. أعد إدخال الوحدة لمواصلة اللعب."
   },
   "HT_Text_Menu_Uruk1": {
-    "message": "SPHINX=@=URUK=HILLS"
+    "message": "سفينكس تلال الوركاء"
   },
   "HT_Text_Menu_Uruk2": {
-    "message": "MUMMY=@=URUK=CASTLE"
+    "message": "مومياء قلعة الوركاء"
   },
   "HT_Text_Menu_Making": {
-    "message": "THE=MAKING=OF=:=:=:"
+    "message": "وراء الكواليس"
   },
   "HT_Text_Menu_Trailer": {
-    "message": "TRAILER"
+    "message": "الفيديو التشويقي"
   },
   "HT_Text_Menu_Exit": {
-    "message": "QUIT=DEMO"
+    "message": "مغادرة النسخة التجريبية"
   },
   "HT_Text_Menu_Continue": {
     "message": "اكمل"
   },
   "HT_Text_Menu_Rumble": {
-    "message": "VIBRATION==ON"
+    "message": "الاهتزاز==مشغل"
   },
   "HT_Text_Menu_RumbleOff": {
-    "message": "VIBRATION==OFF"
+    "message": "الاهتزاز==متوقف"
   },
   "HT_Text_Menu_StartDemo": {
-    "message": "PLAY=DEMO"
+    "message": "العب=بالتجريبي"
   },
   "HT_Text_Menu_NewGame": {
-    "message": "NEW=GAME"
+    "message": "لعبة=جديدة"
   },
   "HT_Text_Menu_Load": {
-    "message": "LOAD=GAME"
+    "message": "حمّل=لعبة"
   },
   "HT_Text_Menu_Save": {
-    "message": "SAVE=GAME"
+    "message": "احفظ=اللعبة"
   },
   "HT_Text_Menu_Options": {
     "message": "الإعدادات"
   },
   "HT_Text_Menu_EndGame": {
-    "message": "END=GAME"
+    "message": "أنهي=اللعب"
   },
   "HT_Text_Menu_Screen": {
-    "message": "SCREEN=SETTINGS"
+    "message": "شاشة=الإعدادت"
   },
   "HT_Text_Menu_Pad": {
-    "message": "CONTROLLER=SETTINGS"
+    "message": "إعدادات=وحدةالتحكم"
   },
   "HT_Text_Menu_Sound": {
-    "message": "SOUND=SETTINGS"
+    "message": "إعدادات=الصوت"
   },
   "HT_Text_Menu_ScreenAdjust": {
-    "message": "ADJUST=SCREEN"
+    "message": "عدّل= الشاشة"
   },
   "HT_Text_Menu_WidescreenON": {
-    "message": "WIDESCREEN==ON"
+    "message": "شاشةعريضة==مشغلة"
   },
   "HT_Text_Menu_WidescreenOFF": {
-    "message": "WIDESCREEN==OFF"
+    "message": "شاشةعريضة==متوقفة"
   },
   "HT_Text_Menu_Volume": {
-    "message": "VOLUME"
+    "message": "الصوت"
   },
   "HT_Text_Menu_SoundFX": {
-    "message": "SOUND=FX"
+    "message": "المؤثرات=الصوتية"
   },
   "HT_Text_Menu_Music": {
-    "message": "الموسيقى"
+    "message": "الموسيقا"
   },
   "HT_Text_Menu_SurroundON": {
-    "message": "SURROUND"
+    "message": "محيطي"
   },
   "HT_Text_Menu_SurroundOFF": {
-    "message": "STEREO"
+    "message": "ستيريو"
   },
   "HT_Text_Menu_Mono": {
-    "message": "MONO"
+    "message": "أحادي"
   },
   "HT_Text_Menu_Videos": {
-    "message": "VIDEOS"
+    "message": "الفيديوات"
   },
   "HT_Text_Menu_QuitLevel": {
-    "message": "QUIT=LEVEL"
+    "message": "غادر=المرحلة"
   },
   "HT_Text_Menu_NTSC": {
-    "message": "FRAME=RATE==60"
+    "message": "معدل=الإطارات==60"
   },
   "HT_Text_Menu_PAL": {
-    "message": "FRAME=RATE==50"
+    "message": "معدل=الإطارات==50"
   },
   "HT_Text_Menu_QuitQuestion": {
-    "message": "Quit game? "
+    "message": "أتريد إنهاء اللعبة؟"
   },
   "HT_Text_Menu_Paused": {
-    "message": "PAUSE"
+    "message": "توقف"
   },
   "HT_Text_Menu_QuitLevQuestion": {
-    "message": "Quit level?"
+    "message": "أتريد مغادرة المرحلة؟"
   },
   "HT_Text_Menu_StartGame": {
-    "message": "إبدأ اللعبة"
+    "message": "ابدأ اللعبة"
   },
   "HT_Text_Menu_SaveOver": {
-    "message": "Save over this game"
+    "message": "احفظ بدلًا من هذه اللعبة"
   },
   "HT_Text_Menu_UseSlot": {
-    "message": "Use this slot"
+    "message": "استعمل هذه الفتحة"
   },
   "HT_Text_Menu_LoadGame": {
-    "message": "Load this game"
+    "message": "حمّل هذه اللعبة"
   },
   "HT_Text_Menu_EmptySlot": {
     "message": "[ فارغ ]"
   },
   "HT_Text_Menu_CorruptSlot": {
-    "message": "[ corrupt ]"
+    "message": "[ تالف ]"
   },
   "HT_Text_Menu_Scarabs": {
-    "message": " Scarabs"
+    "message": "جعران"
   },
   "HT_Text_Menu_InvertON": {
-    "message": "INVERT=CAMERA==ON"
+    "message": "كاميرا=معكوسة==مشغلة"
   },
   "HT_Text_Menu_InvertOFF": {
-    "message": "INVERT=CAMERA==OFF"
+    "message": "كاميرا=معكوسة==متوقفة"
   },
   "HT_Text_Menu_SwapXYON": {
-    "message": "SWAP=CAMERA=X==ON"
+    "message": "اقلب الكاميرا (أفقي) - نعم"
   },
   "HT_Text_Menu_SwapXYOFF": {
-    "message": "SWAP=CAMERA=X==OFF"
+    "message": "اقلب الكاميرا (أفقي) - لا"
   },
   "HT_Text_Menu_Cancel": {
-    "message": "CANCEL"
+    "message": "الغي"
   },
   "HT_Text_Menu_Reset": {
-    "message": "RESET"
+    "message": "أعد للوضع السابق"
   },
   "HT_Text_FE_Menu_ToggleReverb": {
-    "message": "REVERB"
+    "message": "اعكس"
   },
   "HT_Text_FE_Menu_FieldOfView": {
-    "message": "FIELD OF VIEW"
+    "message": "مجال الرؤية"
   },
   "HT_Text_FE_Menu_Resolution": {
-    "message": "RESOLUTION"
+    "message": "الدقة"
   },
   "HT_Text_FE_Menu_ChooseScreen": {
-    "message": "CHOOSE SCREEN"
+    "message": "اختر شاشة"
   },
   "HT_Text_FE_Menu_ToggleParticles": {
-    "message": "PARTICLES"
+    "message": "الجسيمات"
   },
   "HT_Text_FE_Menu_ToggleParticles_Limited": {
-    "message": "LIMITED"
+    "message": "محدودة"
   },
   "HT_Text_FE_Menu_ToggleParticles_Soft": {
-    "message": "SOFT"
+    "message": "ناعمة"
   },
   "HT_Text_FE_Menu_Anisotropy": {
-    "message": "ANISOTROPIC FILTERING"
+    "message": "تصفية التكسترات المائلة"
   },
   "HT_Text_FE_Menu_MultiSampling": {
-    "message": "MULTISAMPLING"
+    "message": "مقاومة الحواف الحادة المتعددة"
   },
   "HT_Text_FE_Menu_Vsync": {
-    "message": "VERTICAL SYNC"
+    "message": "التزامن الرأسي"
   },
   "HT_Text_FE_Menu_VsyncAdaptive": {
-    "message": "ADAPTIVE"
+    "message": "متأقلمة"
   },
   "HT_Text_FE_Menu_RestartGame": {
-    "message": "RESTART GAME"
+    "message": "أعد تشغيل اللعبة"
   },
   "HT_Text_FE_ResolutionRequiresRestart": {
-    "message": "Changing the resolution requires restarting the game."
+    "message": "تغيير الدقة يتطلب إعادة تشغيل اللعبة."
   },
   "HT_Text_FE_ResolutionBorderless": {
-    "message": "BORDERLESS"
+    "message": "نافذة بلا حدود"
   },
   "HT_Text_FE_ResolutionWindowed": {
-    "message": "WINDOWED"
+    "message": "نافذة مؤطّرة"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": " deg"
+    "message": "درجة"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The magical darts fired from this powerful tool,<N>regenerate giving you an infinite supply.<P><ES HT_Text_ES_S_HelpText><CNTR>The darts can be used to hit remote targets but they<N>are only powerful enough to damage explosive monsters.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> to assign the <FC 0,128,0>Blowpipe<END FC> to a button.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the <FC 0,128,0>Blowpipe<END FC> is assigned, press<N>the button to enter first person mode.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_FireDart> to fire.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Cancel> to exit<N>from <FC 0,128,0>Blowpipe<END FC> mode.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>تحصّلت على <FC 0,128,0>الحِملاج<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>تنطلق الأسهم السحرية من هذه الأداة القوية،<N>تتجدد تلقائيًا، مما تعطيك إمدادًا غير محدود.<P><ES HT_Text_ES_S_HelpText><CNTR>يمكن استعمال السهام في ضرب الأهداف البعيدة<N>ولكن تأثيرهم يكون أقوى فقط عند ضرب الوحوش المتفجرة.<P><ES HT_Text_ES_S_HelpText><N><CNTR>استخدم<SB HT_PadAction_HUD_ShowRotator>لتخصيص <FC 0,128,0>الحِملاج<END FC> لزر.<P><ES HT_Text_ES_S_HelpText><CNTR>بمجرد تخصيصك زرًا <FC 0,128,0>للحِملاج<END FC>، اضغط<N>الزر ليظهر منظور الشخص الأول.<P><ES HT_Text_ES_S_HelpText><CNTR>اضغط <SB HT_Action_FireDart> للإطلاق.<P><ES HT_Text_ES_S_HelpText><CNTR>اضغط على <SB HT_PadAction_BOS_TABCycleLeft> أو <SB HT_PadAction_BOS_TABCycleRight> أو <SB HT_PadAction_GYR_Left> أو <SB HT_PadAction_GYR_Right> ولا تتركه بينما تُحرك العصا التناظرية اليسرى للتصويب باستخدام ضوابط الحركة الجيروسكوبية.<P><ES HT_Text_ES_S_HelpText><CNTR>اضغط <SB HT_Action_Cancel> للخروج<N>من وضع <FC 0,128,0>الحِملاج<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   }
 }

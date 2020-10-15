@@ -66,7 +66,7 @@
     "message": "<EFF><EPO>Now that Tutankhamen has been eliminated, I will use the Akhenaten shape and explain to all that Tut has died in an accident. <P>That will give me power in <FC 128,64,0>Luxor<END FC>. The rest will be easy. <E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro1d": {
-    "message": "Yes! That is true! Nobody will dare to say that you are not his brother!<E>"
+    "message": "نعم! هذا صحيح! لن يجرؤ أين منهم أن يقول أنك لست أخوه!<E>"
   },
   "HT_Text_Mum_PreChapter_Palace_Intro2d": {
     "message": "قطعا لا! تنكري مثاليّ.<E>"
@@ -138,7 +138,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>There must be another lever<N>nearby which opens this gate.<E>"
   },
   "HT_Text_Mum_Towr_Help_DoorLockedForever": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This door is locked from the other<N>side and cannot be opened.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>الباب مغلق من الجهة الأخرى <N> ولا يمكن فتحه.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Towr_Help_Pushable": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Objects like this can be pushed and pulled backwards and forwards.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_Grab> when close to the object...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...then use <SB HT_PadAction_PLR_MovePlr> to push or pull.<E>"
