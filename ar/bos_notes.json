@@ -1,6 +1,6 @@
 {
   "HT_Text_NoteTitle_FindBlade01": {
-    "message": "اعثر على نصل أوزيريس"
+    "message": "اعثر على نصل أوزوريس"
   },
   "HT_Text_NoteTitle_GetLetter01": {
     "message": "استرجع رسالة نفرتيتي"
@@ -132,7 +132,7 @@
     "message": "يمكنك زيارة إمحوتب على جزيرة معبد الشمس. اسمع منه الجديد من المعلومات."
   },
   "HT_Text_Note_GetBookOfTheDead01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Find the Book of the Dead so you can summon Bas-Ket when you find a Canopic Vase. Imhotep believes the book is being held in the Cursed Palace.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "جد كتاب الأموات كي تستدعي بس-قط عندما تجد الآنية الكانوبية. يعتقد إمحوتب أن الكتاب محجوز في القصر الملعون."
   },
   "HT_Text_Note_VisitAnubis01": {
     "message": "أنوبيس هو المسؤول عن لعن سكان القصر الملعون. بمعية أجنحة إيبيس، تستطيع دخول مدخل الحائظ الكبير 1، و زيارة أنوبيس."
@@ -183,49 +183,49 @@
     "message": "تحر إلام توصل عالم الآثار في محرس البدويين. يمكن بلوغ المحرس سباحة عبر ممر تحت الماء ينطلق من القصر الملعون."
   },
   "HT_Text_Note_TranslateObelisks01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Use the Rosetta Stone to translate the 5 Golden Obelisks of Heliopolis and report your findings to the Archeologist in the Bedouin Outpost.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "استعمل حجر ريد لترجمة المسلات الذهبية الخمسة في أون، و بلغ باحث الأثريات بما ستجده، في مرقب البدويين."
   },
   "HT_Text_Note_SmallObelisk01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>When the Age of Osiris comes to an end...<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>عندما ينتهي عصر أوزوريس...<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk02": {
-    "message": "<ES HT_Text_ES_S_BOSStd> ...the Shadow of Set will descend upon us...<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "سينزل ظل ست علينا..."
   },
   "HT_Text_Note_SmallObelisk03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...but a great warrior by the name of Sphinx...<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "...لكن محاربا عظيما، أسموه سفينكس..."
   },
   "HT_Text_Note_SmallObelisk04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...will emerge as the Chosen One...<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "سيطلع نجمه بمثابة المختار..."
   },
   "HT_Text_Note_SmallObelisk05": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...to defend the Eternal Eye of Ra.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "...كي يدافع عن عين رع الخالدة."
   },
   "HT_Text_Note_Prophecy": {
-    "message": "<ES HT_Text_ES_S_BOSStd>When the Age of Osiris comes to an end, the Shadow of Set will descend upon us, but a great warrior by the name of Sphinx, will emerge as the Chosen One, to defend the Eternal Eye of Ra.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "عندما ينتهي عصر أوزيريس، سينزل ظل ست علينا، لكن محاربا عظيما أسموه سفينكس، سيطلع نجمه بمثابة المختار، كي يدافع عن عين رع الخالدة."
   },
   "HT_Text_Note_TempleTest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Complete the Uruk Temple Trial and return what you find to the Urukite.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "أكمل إمتحان معبد الوركاء، و أعد الذي ستجده إلى الأوروكي."
   },
   "HT_Text_Note_CrownQuest03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>You must find the Sacred Crown of Heliopolis and return it to Anubis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "عليك أن تجد التاج المقدس من أون، و تعيده إلى أنوبيس."
   },
   "HT_Text_Note_MotherQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Capture the dogs in Heliopolis Cursed Palace and return them to their owner.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "اقبض على الكلاب في القصر الملعون في أون، و أعدها إلى مالكها."
   },
   "HT_Text_Note_DefeatSeth01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Your final destiny is to face Set in the devastated world of Uruk.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "قدرك الأخير أن تواجه ست في أرض الوركاء التي اجتاحها الدمار."
   },
   "HT_Text_Notes_Test_T1": {
-    "message": "Quest Title."
+    "message": "عنوان المهمة."
   },
   "HT_Text_Notes_Test_D1": {
-    "message": "<FC 100,100,60> Quest Description."
+    "message": "<FC 100,100,60>وصف المهمة."
   },
   "HT_Text_Notes_Test_T2": {
-    "message": "Find Set's palace."
+    "message": "اعثر على على قصر ست."
   },
   "HT_Text_Notes_Test_D2": {
-    "message": "<FC 100,100,60>Set has been hiding in his secret palace while orchestrating the destruction of Heliopolis...<END FC><P><FC 100,100,60>You must find his lair and put an end to his plans...<END FC><P><FC 100,100,60>To find where his secret palace is, you will need to talk to the Hittite village elder. Bring him some whiskey to loosen his tongue.<END FC>"
+    "message": "ربض ست متواريا في قصره السري في خضم إدارته لمكيدته ليدمر أون... عليك أن تتوصل إلى وكره و توقف خططه... كي تجد مكان قصره السري، عليك أن تتحدث مع كبير قرية الحتيين. أحضر له بعض الشراب المسكر كي تنحل عقدة لسانه و يبوح بالسر."
   },
   "HT_Text_Notes_Test_T3": {
     "message": "سلم مكتوب الملك سوبيك من عقاريا."
@@ -237,6 +237,6 @@
     "message": "إبحث للعمدة عن دواءه."
   },
   "HT_Text_Notes_Test_D4": {
-    "message": "<FC 100,100,60>The Mayor of Abydos is ill. You will need to talk to the Physician about finding a cure...<END FC><P><FC 100,100,60>The Physician lives in the canal that divides the north and south of Abydos.<END FC>"
+    "message": "عمدة أبيدوس عليل مريض. عليك أن تحدث الطبيب كيف تجد له العلاج... الطبيب يعيش في قنال يفصل شمال أبيدوس عن جنوبها."
   }
 }

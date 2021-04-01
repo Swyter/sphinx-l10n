@@ -75,7 +75,7 @@
     "message": "نلت حرز بوابة! هذا المقتنى الذهبي صنع إكراما لمعبود البوابة."
   },
   "HT_Text_Lux_Pyramid_Help_GotCanopicVase": {
-    "message": "<N><CNTR>You got a <FC 0,128,0>Canopic Vase<END FC>!<P><N><CNTR>Part of the soul of Tutankhamen is stored inside.<E>"
+    "message": "<N><CNTR>حصلت على <FC 0,128,0>آنية كانوبية<END FC>!<P><N><CNTR> جزء من روح توت عنخ آمون مخزن بداخلها.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotGoldKey": {
     "message": "عثرت على مفتاح ذهبي!"
@@ -141,19 +141,19 @@
     "message": "هي مجموعة كاملة تبعثرت في أرجاء القصر،\nو طلب مني أخناتون أن أجمعها و ألمها، كي\nيخزن المجموعة كاملة في غرفة الكنوز."
   },
   "HT_Text_Lux_pala_Seti_Presentation_d": {
-    "message": "Your brother seems to get more fickle with each passing day. Could you please find the <FC 0,128,0>Old Amulets<END FC> for me, my dear nephew?<P>I'm far too old to be hunting around the palace for them.<E>"
+    "message": "نزوات أخيك تتغير مع مر السنوات. هلا بحثت رجاء عن <FC 0,128,0>التمائم القديمة<END FC> لي يا إبن أخي الحبيب؟<P> أنا هرمة و كبرت على التفتيش في القصر عنها.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_a": {
-    "message": "Oh, splendid! That's all the <FC 0,128,0>Old Amulets<END FC> returned! You are too kind to me. <E>"
+    "message": "آه، كم هذا رائع! أعدت لي كل <FC 0,128,0>التمائم القديمة<END FC>! لا أستحق كل لطفك هذا معي.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_b": {
-    "message": "If you don't mind, my dear, one last favor. Can you leave them in the <FC 128,64,0>Treasure Room<END FC>? I'm too tired to walk there myself. <E>"
+    "message": "لو لا تمانع يا عزيزي، هلا تعمل علي معروفا أخيرا و تتركها في <FC 128,64,0>غرفة الكنز<END FC>؟ أنا متعبة و لا أستطيع المشي إلى هناك بنفسي.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_c": {
-    "message": "Here is the key to the <FC 128,64,0>Treasure Room<END FC>. You know where the door is; down the stairs in the next room.<E>"
+    "message": "هاك خذ مفتاح <FC 128,64,0>غرفة الكنز<END FC>. تعرف مكان الباب، أسفل السلالم في الغرفة القادمة.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_d": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Treasure Room Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مفتاح غرفة الكنز<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_a": {
     "message": "كل التهاني و المراحب، يا أخي الحبيب!"
@@ -189,7 +189,7 @@
     "message": "أهاهاها! أهاهاهاها!!!\nستكون أفضل حفلة شهدها هذا القصر!"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_a": {
-    "message": "I want you all to be ready to use the warping sarcophagi to enter the palace when the party begins. We must overrun the palace quickly. <E>"
+    "message": "أريدكم جميعا أن تستعدوا لإستعمال توابيت النواويس المفعمة بقدرة التنقل، كي تدخلوا القلعة عندما تبدأ الحفلة. من الضروري أن نجتاح القلعة و نتفوق عليهم بأسرع ما يمكن.<E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_b": {
     "message": "الليلة سيكون العرش أخيرا من نصيبي!"
@@ -207,13 +207,13 @@
     "message": "صباح النور يا أمير، و عيد ميلاد سعيد!"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_b": {
-    "message": "The entire palace is very busy preparing for your birthday ceremony.<E>"
+    "message": "القصر كله مشغول جدا بالتحضيرات لمراسم عيد ميلادك.<E>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_c": {
-    "message": "Prince, I spoke with Lady Nefertiti earlier. She requested you meet her in the <FC 128,64,0>Courtyard<END FC> this morning.<E>"
+    "message": "يا أميري، حكيت مع السيدة نفرتيتي قبل قليل. طلبت منك أن تلتقيها في <FC 128,64,0>الساحة<END FC> هذا الصباح.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant1": {
-    "message": "Prince, I'm busy cleaning this wardrobe at the moment.<E>"
+    "message": "يا أميري، أنا مشغولة بتنظيف خزانة الملابس في هذه اللحظة.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant2": {
     "message": "آه يا أمير! كانت مزهرية جميلة!"
@@ -228,7 +228,7 @@
     "message": "أرجوك يا أمير، أرجوك ألا تكف عن عيث الفوضى العارمة بهذه الغرفة؟"
   },
   "HT_Text_Lux_Pala_WardrobeLocked": {
-    "message": "تحتاج هذه الخزانة مفتاحا كي تفتحها."
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>تحتاج هذه الخزانة <FC 0,128,0>مفتاحا<END FC> كي تفتحها.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_WardrobeBlocked": {
     "message": "هذه الخزانة مقفلة."
@@ -237,34 +237,34 @@
     "message": "عيد ميلاد سعيد يا أميرنا!"
   },
   "HT_Text_Lux_Pala_CorriderGuardBlock": {
-    "message": "Your Majesty, Lady Nefertiti insists you meet her in the <FC 128,64,0>Courtyard<END FC>.<E>"
+    "message": "مولاي، السيدة نفرتيتي تؤكد و تلح أن تلتقيها في <FC 128,64,0>الساحة<END FC>.<E>"
   },
   "HT_Text_Lux_Pala_SetiPartner1": {
-    "message": "Good morning Prince, your brother seems very busy redecorating the palace for the ceremony. <E>"
+    "message": "صباح الخير يا أميري، يبدو أخوك منهمكا جدا في إعادة توظيب زينة القصر لأجل مراسم الطقوس.<E>"
   },
   "HT_Text_Lux_Pala_SetiPartner2": {
-    "message": "Eurrgh! What a grotty little hole. It looks like a rat's nest! <E>"
+    "message": "يع! يا لها من حفرة ضئيلة سمجة. أظنها جحر أحد الجرذان!<E>"
   },
   "HT_Text_Lux_Pala_SetiPartner3": {
-    "message": "I thought they were all taken care of? At least this one has been blocked off. <E>"
+    "message": "ظننت أمرهم جميعا سويناه؟ على الأقل هذا مسدود.<E>"
   },
   "HT_Text_Lux_Pala_SetiSecret": {
-    "message": "No dear, it appears to be one of the old secret corridors which riddle the palace. They've been in the palace longer than I have! <E>"
+    "message": "لا يا عزيزي، تبدو هذه أحد الأروقة القديمة السرية التي تتخلل القصر طولا و عرضا. وجودها في القصر أقدم مني!<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestion": {
-    "message": "Could you please find the amulets for me, my dear nephew? I'm far too old to be hunting around the palace for them.<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "هلا بحثت لي عن التمائم يا إبن أخي العزيز؟ كبرت على البحث عنها في أرجاء القلعة.<N><B 1>نعم<N><B 2>لا<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionAgain": {
-    "message": "Dear nephew, have you changed your mind?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "يا إبن أخي العزيز، هل غيرت رأيك؟<N><B 1>نعم<N><B 2>لا<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionYes": {
-    "message": "Bless you, my dear! Thank you for helping your dear aunt. <E>"
+    "message": "بوركت يا عزيزي! أشكرك على مساعدة عمتك الحبيبة.<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionNo": {
-    "message": "Please, be nice to your aunt. I don't know what I'm going to say when your brother asks me for them again. <E>"
+    "message": "أرجوك، كن لطيفا في معاملة عمتك. لا أدري ماذا سأقول عندما يسألني أخوك عنها مرة أخرى.<E>"
   },
   "HT_Text_Lux_Pala_SetiAccepted": {
-    "message": "It is very nice of you to offer to help me find the amulets. <E>"
+    "message": "من اللطف الشديد منك أن تتطوع لمساعدتي في البحث عن التمائم.<E>"
   },
   "HT_Text_Lux_Pala_Sorkon1": {
     "message": "يا أمير، سمعت أقاويل و إشاعات عن ضعف في تأمين القصر.\nطلبت أن نعزز قوام الحراس، لكن أخاك أصر أن يتولى هو الأمر."
@@ -279,25 +279,25 @@
     "message": "ما هذا أيها الأمير؟ لم أتوقع وجود باب سري في مكان كهذا. من الخطر التجول في مثل هذه الأماكن!"
   },
   "HT_Text_Lux_Pala_DishServant1": {
-    "message": "I'm a bit busy with the table arrangements at the moment, Prince. You'll have to entertain yourself for a while. <E>"
+    "message": "أنا مشغولة بترتيب الطاولة في الوقت الحاضر يا أميري. ما باليد حيلة إلا أن تبحث لنفسك عن ترفيه آخر تصبر به نفسك قليلا.<E>"
   },
   "HT_Text_Lux_Pala_DishServant2": {
-    "message": "<DHP><DP>Ack! Prince, please don't walk on my nice clean plates! <W 30>"
+    "message": "<DHP><DP>عاك! يا أميري، أرجوك! لا تمشي على أصحني الجميلة النظيفة!<W 30>"
   },
   "HT_Text_Lux_Pala_DishServant3": {
-    "message": "<DHP><DP>Ahh! The vases! Please don't stand on the table, Prince! <W 30>"
+    "message": "<DHP><DP>عااه! الجرار! أرجوك لا تقف فوق الطاولة يا أميري!<W 30>"
   },
   "HT_Text_Lux_Pala_Dress1": {
-    "message": "<ES HT_Text_ES_S_HelpText><N>Do you want to wear this?<N>  <B 1> Yes<N>  <B 2> No<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N>هل تريد لباس هذا؟<N><B 1>نعم<N><B 2>لا<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_Dress2": {
     "message": "<W 1>"
   },
   "HT_Text_Lux_Pala_TreasureGuard1": {
-    "message": "Perhaps you should talk to the captain about this. <E>"
+    "message": "ربما يجدر بك أن تتحدث مع القبطان بخصوص هذا.<E>"
   },
   "HT_Text_Lux_Pala_TreasureCaptain1": {
-    "message": "Prince, something terrible has happened. The guards have found the main door to the <FC 128,64,0>Treasure Room<END FC> broken down and all of the arks are empty. <P>The only thing that we found is that odd sarcophagus in the room. <P>Please don't touch it, it is obviously something related to the robbery. I have tried to inform your brother Akhenaten, but I can't find him anywhere.<E>"
+    "message": "يا أميري، حصل أمر مشين. وجد الحراس الباب الرئيسي إلى <FC 128,64,0>غرفة الكنز<END FC>مكسورا و كل الأقواس فارغة.<P>الشيء الوحيد الذي عثرنا عليه كان تابوت ناووس غريب في الغرفة.<P>أرجوك ألا تلمسه، لأن من الواضح أن له علاقة بحادثة السرقة. حاولت أن أخبر أخاك أخناتون، لكن لم أجده في أي مكان.<E>"
   },
   "HT_Text_Lux_Pala_DressWrong": {
     "message": "آه يا أمير، مؤكد أنك لم تكن تنوي مغادرة غرفة نومك دون ملابس لائقة؟"
@@ -306,28 +306,28 @@
     "message": "أرجوك يا أمير! إلا الوردي! لونه قبيح للغاية!"
   },
   "HT_Text_Lux_Pala_Help_FoundWardrobeKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>You found a <FC 0,128,0>Wardrobe Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>عثرت على <FC 0,128,0>مفتاح خزانة الملابس<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_MenesCorrider1": {
-    "message": "Ah, Prince, I see you are very nicely attired today. As always, your taste is impeccable! <E>"
+    "message": "آه يا أميري، أراك تلبس زيا فخما اليوم. كعادتك ذوقك ممتاز!<E>"
   },
   "HT_Text_Lux_Pala_MenesCorrider2": {
-    "message": "Ah, I neglected to wish you a happy birthday. My apologies, Prince. <E>"
+    "message": "أه، يا لإهمالي حتى نسيت أن أتمنى لك عيد ميلاد سعيد. إليك إعتذاراتي يا أميري.<E>"
   },
   "HT_Text_Lux_Palace_GuardHU06_NefLookingForYou": {
-    "message": "Good morning sir and happy birthday!<P>Lady Nefertiti was looking for you. She said it was very important, and would like you to meet her in the <FC 128,64,0>Courtyard<END FC>.<E>"
+    "message": "صباح النور يا سيدي و عيد ميلاد سعيد!<P>كانت السيدة نفرتيتي تبحث عنك. و قالت أن الأمر مهم و تحتاجك للقائها في <FC 128,64,0>الساحة<END FC>.<E>"
   },
   "HT_Text_Lux_Palace_GuardHU06_NefFound": {
-    "message": "You found Lady Nefertiti then! Perhaps my Prince would care to see how the preparations for the banquet are going?<E>"
+    "message": "إذن وجدت السيدة نفرتيتي في النهاية! ربما يود أميري أن يكلف نفسه رؤية كيف تسير إستعدادات المأدبة؟<E>"
   },
   "HT_Text_Lux_Palace_ServantHU03_SarcophagusDecor": {
-    "message": "Your brother has been most insistent on decorating the palace with these sarcophagi.<P>Forgive me for saying this, Prince, but I don't really like them. Their eyes seem to follow your every move...<E>"
+    "message": "كان أخوك مصرا بالأخص على تزيين كامل القلعة بتوابيت النواويس تلك.<P>سامحني لو تجرأت في القول يا أميري، لكنها لا تروق لي. تبدو عيونها و كأنها تتحرك و تتابع حركاتك و سكناتك...<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_MeetMeOutside": {
-    "message": "Wonderful! You got it! I need to talk to you about this letter, but not here. Someone might be listening.<P>Meet me outside the palace later and we can talk about it. Watch your back, Tutankhamen.<E>"
+    "message": "مذهل! عثرت عليها! أحتاج أن أتحدث معك بخصوص هذه الرسالة لكن ليس هنا. ربما قد يسمعنا أحد.<P>إلتق بي خارج القصر لاحقا و حينها يمكننا الحديث بأريحية. حذار يا توت عنخ أمون، مما ورائك قبل الذي أمامك.<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItem": {
-    "message": "Tutankhamen, at last you are here! Please, you must get my <FC 0,128,0>Letter<END FC> from up there before someone else finds it.<P>The <FC 0,128,0>Letter<END FC> contains very important information - please hurry!<E>"
+    "message": "توت عنخ آمون، أخيرا أتيت هنا! أرجوك عليك أن تسترد <FC 0,128,0>رسالتي<END FC>من هناك بالأعلى قبل أن يجدها شخص قبلك.<P>في <FC 0,128,0>الرسالة<END FC>معلومات خطيرة الأهمية، فأرجوك أسرع!<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemNoCutscene": {
     "message": "توت عنخ آمون، أرجوك جد الرسالة! هي هنا بمكان ما."
@@ -339,28 +339,28 @@
     "message": "آسفة لكننا لسنا في خلوة آمنة حتى أحدثك عن الرسالة."
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_EvilHappyBirthday": {
-    "message": "Many happy returns, my dear brother! It's strange that I don't remember such excitement on my birthday.<E>"
+    "message": "عدت و عودك أحمد يا أخي العزيز! غريب حقا، لم أعهد كل هذا الحماس لعيد ميلادي أنا.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_EvilHappyBirthdayAgain": {
-    "message": "Please, brother! I am busy finalizing the plans for your birthday celebrations.<E>"
+    "message": "أخي، أرجوك ليس أوانه، أنا مشغول الآن بإنهاء رسم الخطط لحفلة عيد ميلادك!<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting01": {
-    "message": "Are all the magical sarcophagi in place?<E>"
+    "message": "هل كل التوابيت الناووسية في مكانها المناسب؟<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting02": {
-    "message": "Excellent! My spoilt little brother is going to get an unexpected birthday surprise this year.<P>I'm going to leave a spare <FC 0,128,0>Sarcophagus Key<END FC> here in case anything happens to the others.<E>"
+    "message": "ممتاز! سينال أخي الصغير المدلل زيادة هذه السنة مفاجأة عيد ميلاد لم تكن في الحسبان.<P> سأترك <FC 0,128,0>مفتاح ناووس<END FC> زائد هنا تحسبا في حال ما ضاعت البقية.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting03": {
-    "message": "Muahahaha!!!<P>Muahahaha!!!<P>This party is going to be the best this palace has ever seen!<E>"
+    "message": "مواهاهاها!<P> مواهاهاهاها!!!<P> ستكون أفضل حفلة شهدها هذا القصر!<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFound": {
-    "message": "Oh, you are so kind, nephew. But I'm afraid there are still<N><FC 0,128,0><SO HT_Objective_Lux_Palace_SetiQuestItemsRemaining><END FC> more amulets missing.<E>"
+    "message": "آه، ما أطيبك يا إبن أخي. لكن أخشى ما أخشاه أنه لا تزال هناك <N><FC 0,128,0><SO HT_Objective_Lux_Palace_SetiQuestItemsRemaining><END FC>من التمائم ضائعة.<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFoundOne": {
-    "message": "Excellent! There is only <FC 0,128,0>1<END FC> amulet left, dear nephew.<E>"
+    "message": "ممتاز! لم يبق سوى تميمة <FC 0,128,0>واحدة<END FC> ضائعة، يا إبن أخي العزيز.<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsComplete": {
-    "message": "Thank you for your help, nephew. I'm sure I would never have found the amulets on my own.<E>"
+    "message": "شكرا لك على مساعدتك يا إبن أخي. أنا واثقة أنه لولاك لما إستطعت العثور على التمائم بنفسي.<E>"
   },
   "HT_Text_Lux_Palace_MenesHU09_Plotting01": {
     "message": "أجل يا مولاي، كل شيء يسير كما كان مخططا له."
@@ -369,22 +369,22 @@
     "message": "يا لحكمتك في إتخاذ هذه الإحتياطات يا مولاي."
   },
   "HT_Text_Lux_Pala_Read_TreasureRoom": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Treasure Room<END FC> ]---<E>"
+    "message": "<N><CNTR>---[<FC 128,64,0>غرفة الكنوز<END FC>]---<E>"
   },
   "HT_Text_Lux_Pala_Help_UseLever": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>To operate levers, stand close and press <SB HT_Action_LeverDown><ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>كي تتحكم بأذرع الآلات، قف قربها و اضغط <SB HT_Action_LeverDown><ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_Help_UseSarco": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>With the <FC 0,128,0>Sarcophagus Key<END FC> you can use a sarcophagus<N>by standing close and pressing <SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>طالما معك <FC 0,128,0>مفتاح الناووس<END FC> فستتمكن من إستعمال ناووس<N>بالوقوف قربه و ضغط <SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Pushable": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Objects like this can be pushed and pulled.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_Grab> when close to the object...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...then use <SB HT_PadAction_PLR_MovePlr> to push or pull.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>مثل هذه الأجسام يمكن دفعها و جذبها، للوراء أو للأمام.<P><ES HT_Text_ES_S_HelpText><N><CNTR>عندما تقترب من الجسم اضغط<SB HT_Action_Grab>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>... ثم <SB HT_PadAction_PLR_MovePlr>كي تدفعه عنك أو تجذبه إليك.<E>"
   },
   "HT_Text_Lux_Palace_Help_LedgeWalk": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You can sneak across some narrow ledges.<P><ES HT_Text_ES_S_HelpText><CNTR>Approach the fence and press <SB HT_Action_WallSneak><N>to move against it.<P><ES HT_Text_ES_S_HelpText><CNTR>Once against the fence use<N><SB HT_PadAction_PLR_MovePlr> to move left and right.<P><ES HT_Text_ES_S_HelpText><CNTR>To sneak slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_WallSneakExit> when you wish to<N>come out of sneak mode.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>تستطيع المشي بملابسة الجدار على ممرات ضيقة.<P><ES HT_Text_ES_S_HelpText><CNTR>اقترب من الجدار ثم اضغط <SB HT_Action_WallSneak><N>متى ظهر لك ملاصقته.<P><ES HT_Text_ES_S_HelpText><CNTR>عندما يكون ظهرك على الجدار استعمل <SB HT_PadAction_PLR_MovePlr><N>كي تتحرك لليمين أو لليسار.<P><ES HT_Text_ES_S_HelpText><CNTR>للتحرك بنسق أبطأ، حرك <SB HT_PadAction_PLR_MovePlr> قليلا فقط.<P><ES HT_Text_ES_S_HelpText><CNTR>اضغط <SB HT_Action_WallSneakExit>مجددا حين تريد أن تكف عن ملاصقة الجدار.<E>"
   },
   "HT_Text_Lux_Palace_Help_LedgeHang": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Some ledges on walls can be grabbed.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>Walk off and turn around whilst falling to grab the ledge.<P><ES HT_Text_ES_S_HelpText><CNTR>Then use <SB HT_PadAction_PLR_MovePlr> to move left and right.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>يمكن التشبث ببعض الحواف على الجدران.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR> امش حتى تسقط من حافتها ثم التفت أثناء السقوط كي تمسك الحافة و تتشبث بها.<P><ES HT_Text_ES_S_HelpText><CNTR>ثم إستعمل <SB HT_PadAction_PLR_MovePlr>لتتحرك ذات اليسار أو اليمين.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_DoorLocked": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>الباب موصد ويحتاج مفتاحا لفتحه.<ES HT_Text_ES_S_HelpText><E>"
@@ -393,21 +393,21 @@
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>الباب موصد من الجانب<N> الآخر ولا يمكن فتحه.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Crawl": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_MummyCrawl> to toggle between<N>walking and crawling.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>اضغط <SB HT_Action_MummyCrawl> كي تغير بين <N>المشي و الزحف.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundBedroomKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Courtyard Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مفتاح الساحة<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundNefertitiItem": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>رسالة نفرتيتي<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
   },
   "HT_Text_Lux_Palace_Help_FoundSarcophagusKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR><N>You found the <FC 0,128,0>Sarcophagus Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR><N>عثرت على <FC 0,128,0>مفتاح الناووس<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found an <FC 0,128,0>Old Amulet<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>تميمة قديمة<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundCourtyardKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Courtyard Key<END FC><ES HT_Text_ES_S_HelpText>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مفتاح الساحة<END FC><ES HT_Text_ES_S_HelpText>!<E>"
   }
 }

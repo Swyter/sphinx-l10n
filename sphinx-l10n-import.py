@@ -28,7 +28,7 @@ ignored_section_markers = [ 'M_STATIC_TEXT' ]
 data_read = []
 
 # swy: parse the SphinxText.csv and load it as a row-major list
-with open('SphinxText.csv', 'r') as f:
+with open('SphinxText.csv', 'r', encoding='utf-8') as f:
     reader = csv.reader(f, delimiter=',', quotechar='"')
     data_read = [row for row in reader]
 
@@ -115,7 +115,7 @@ for cur in lang:
             file = "%s/%s.json" % (lang[cur], cur_section.replace("M_", "").lower())
             
             try:
-                with open(file, 'r') as outfile:
+                with open(file, 'r', encoding='utf-8') as outfile:
                     tx_json = json.load(outfile)
             except FileNotFoundError:
                 print("warning: section file '%s' not found, skipping %s" % (file, cur_section))
@@ -165,8 +165,8 @@ for cur in lang:
                 range_start = -1
             else:
                 unicode_str += "%u, " % glyph
-    print("\n[i] Unicode glyph ranges in use for %s: " % cur.split('_')[1].lower(), unicode_str)
+    print("\n[i] Unicode glyph ranges in use for %s: " % cur.split('_')[1].lower(), unicode_str.strip(' ,'))
 
-with open('SphinxTextImported.csv', 'w', newline='') as fp:
+with open('SphinxTextImported.csv', 'w', newline='', encoding='utf-8') as fp:
     writer = csv.writer(fp, delimiter=',', quoting=csv.QUOTE_MINIMAL)
     writer.writerows(data_read)

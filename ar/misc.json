@@ -1,291 +1,291 @@
 {
   "HT_Text_DanTest": {
-    "message": "Dan's test text.<E>"
+    "message": "نص إختبار دان."
   },
   "HT_Text_MG_WallDodge_Start": {
-    "message": "Welcome to the <FC 128,64,0>Corridor of Champions<END FC>. It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
+    "message": "أهلا بك إلى رواق الأبطال. كلفة اللعب 10 جعرانات. هل تريد اللعب؟ نعم لا شكرا"
   },
   "HT_Text_MG_WallDodge_Instructions": {
-    "message": "Just dodge the moving walls, smash all the statues, then make it to the exit within the time limit.<E>"
+    "message": "يكفي أن تتفادى الجدران المتحركة، و تحطم كل التماثيل، ثم تتوصل إلى المخرج قبل انقضاء التوقيت."
   },
   "HT_Text_MG_WallDodge_Choose": {
-    "message": "Which gauntlet would you like to attempt?<N>  <B 1> Gauntlet 1<N>  <B 2> Gauntlet 2<E>"
+    "message": "أي تحدي ستحاول معه؟ تحدي 1 تحدي 2"
   },
   "HT_Text_MG_WallDodge_Choose2": {
-    "message": "Which gauntlet would you like to attempt?<N>  <B 1> Gauntlet 1<N>  <B 2> Gauntlet 2<N>  <B 3> Gauntlet 3<E>"
+    "message": "أي تحدي ستحاول معه؟ تحدي 1 تحدي 2 تحدي 3"
   },
   "HT_Text_MG_WallDodge_NotReady": {
-    "message": "You're not ready for that yet.<E>"
+    "message": "لست مستعدا بذلك بعد.<E>"
   },
   "HT_Text_MG_WallDodge_Fail": {
-    "message": "Sorry, you failed this time. Try again.<E>"
+    "message": "آسف، فشلت هذه المرة. حاول مجددا.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed": {
-    "message": "Well done! You completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>! That's a new record!<E>"
+    "message": "أحسنت صنيعا! ختمته في <FC 0,128,0><SO HT_Objective_WallDodge_Time> ثانية من الوقت<END FC>! حطمت الرقم القياسي!"
   },
   "HT_Text_MG_WallDodge_Succeed1": {
-    "message": "You deserve a reward for that effort.<N>You win <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Scarabs<END FC>!<E>"
+    "message": "تستحق مكافأة على مجهودك هذا. <N> فزت بهذه و عددها <FC 0,128,0><SO HT_Objective_MGWalls_Prize> من الجعرانات <END FC>!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed2": {
-    "message": "What an outstanding time that is!<N>Your prize money is <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Scarabs<END FC>!<E>"
+    "message": "يا له من توقيت متميز!<N>جائزتك المالية <FC 0,128,0><SO HT_Objective_MGWalls_Prize> جعران<END FC>!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore1": {
-    "message": "Not bad - you completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>. But you could do better...<P>Your fastest time is <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> seconds<END FC>.<E>"
+    "message": "ليس بهذا السوء، طالما أنهيتها في توقيت <FC 0,128,0><SO HT_Objective_WallDodge_Time> ثانية<END FC>. لكن كان بإمكانك تقديم مردود أفضل... <P> أسرع توقيت لك لحد الآن <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> ثانية<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore2": {
-    "message": "Not bad - you completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>. But you could do better...<P>Your fastest time is <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2> seconds<END FC>.<E>"
+    "message": "ليس بهذا السوء، طالما أنهيتها في توقيت <FC 0,128,0><SO HT_Objective_WallDodge_Time> ثانية<END FC>. لكن كان بإمكانك تقديم مردود أفضل... <P> أسرع توقيت لك لحد الآن <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> ثانية<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore3": {
-    "message": "That was okay - you completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>. But you could improve...<P>Your fastest time is <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> seconds<END FC>.<E>"
+    "message": "لا بأس بهذا، أنهيتها في توقيت <FC 0,128,0><SO HT_Objective_WallDodge_Time> ثانية<END FC>. لكن يمكنك التحسن... <P> أسرع وقت عندك لحد الآن <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> ثانية<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_HighScores": {
-    "message": "<DP><DHP><END TT><CNTR>Gauntlet 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>Gauntlet 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N>Gauntlet 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>"
+    "message": "<DP><DHP><END TT><CNTR>التحدي 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N> التحدي 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N> التحدي 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>"
   },
   "HT_Text_MG_WallDodge_Test": {
-    "message": "Welcome to the <FC 128,64,0>Corridor of Champions<END FC>.<P>Here, true heroes can test their abilities. Do you want to pit yourself against our gauntlet?<N>  <B 1> Yes<N>  <B 2> No<E>  "
+    "message": "أهلا بك في <FC 128,64,0>رواق الأبطال<END FC>.<P> هنا يمكن للأبطال الحقيقيين أن يمتحنوا قدراتهم. هل تريد أن تخوض المواجهة و تكون على قدر تحدياتنا؟<N><B 1> نعم<N><B 2> لا<E>"
   },
   "HT_Text_MG_WallDodge_TestYes": {
-    "message": "A brave and noble choice! However, before you can proceed, you must complete a small test.<E>"
+    "message": "إختيار باسل و نبيل! لكن قبل أن نسمح لك بالتقدم، عليك أن تجتاز إختبارا صغيرا.<E>"
   },
   "HT_Text_MG_WallDodge_TestYesPearl": {
-    "message": "Return that <FC 0,128,0>Diamond<END FC> behind the fence to me within <FC 0,128,0>20 seconds<END FC>, and you will have proven yourself capable of the gauntlet.<E>"
+    "message": "أعد تلك <FC 0,128,0>الألماسة<END FC> وراء السور إلي في أقل من <FC 0,128,0>20 ثانية<END FC>، كي تبرهن أنك قادر على ذلك التحدي.<E>"
   },
   "HT_Text_MG_WallDodge_TestNo": {
-    "message": "Very well, the <FC 128,64,0>Corridor of Champions<END FC> is not for all.<E>"
+    "message": "لا بأس، <FC 128,64,0>رواق الأبطال<END FC> ليس لكل من هب و دب.<E>"
   },
   "HT_Text_MG_WallDodge_TestComplete": {
-    "message": "Excellent, you have passed the test.<E>"
+    "message": "ممتاز، نجحت في الإختبار.<E>"
   },
   "HT_Text_MG_WallDodge_TestFail": {
-    "message": "It is quite clear that you are not ready to face the gauntlet. Return when you have gained the skill to retrieve the <FC 0,128,0>Diamond<END FC>.<E>"
+    "message": "واضح و جلي أنك لست جاهزا لمواجهة التحدي. إرجع عندما ستكسب المهارة التي تخول لك إسترداد <FC 0,128,0>الألماسة<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_TestInProgress": {
-    "message": "You've only got a few seconds left!<E>"
+    "message": "لم تتبق لك إلا ثوان معدودة!<E>"
   },
   "HT_Text_MG_WallDodge_TestGiveUp": {
-    "message": "If you cannot complete the test, you cannot attempt the gauntlet. Come back when you think you can succeed... <E>"
+    "message": "طالما عجزت عن هذا الإختبار، فالتحدي بعيد المنال عليك بقدراتك هذه. إرجع يوم تظن نفسك قادرا على النجاح...<E>"
   },
   "HT_Text_MG_WallDodge_NoMoney": {
-    "message": "What are you trying to pull? You don't have 10 <FC 0,128,0>Scarabs<END FC>.<E>"
+    "message": "ماذا تحاول العبث عندك؟ ليس عندك 10 <FC 0,128,0>جعرانات<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_GameComplete": {
-    "message": "You mastered the gauntlet! You are a true champion!<P>Here is the <FC 0,128,0>Medal of Champions<END FC>, awarded only to those who manage to beat the gauntlet.<E>"
+    "message": "تمكنت من ذلك التحدي بإحتراف و إتقان! أنت بطل حقيقي!<P> إليك ميدالية الأبطال<END FC>، التي لا تهدى إلا لمن يتمكنون من الفوز في التحدي.<E>"
   },
   "HT_Text_MG_Shooting_Start": {
-    "message": "Welcome to <FC 128,64,0>Tefnut's Target Tavern<END FC>. It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
+    "message": "اهلا بك في حانة تفنوت للرماية. أنها تكلف 10 جعران لتلعب أتود أن تلعب؟ نعم لا"
   },
   "HT_Text_MG_Shooting_Instructions": {
-    "message": "Shoot the targets to earn points. Hitting the skulls causes very bad things... you will lose points and time if this happens.<E>"
+    "message": "أطلق على الأهداف، تكسب النقاط. لكن لو أصبت الجماجم فلن ترى إلا الوبال الوخيم... خسارة نقاط و توقيت.<E>"
   },
   "HT_Text_MG_Shooting_Won": {
-    "message": "Not too bad. You hit a lot of the targets. <P>You've done better than <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> points<END FC> before, though.<P>As a prize for your score, here's <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Scarabs<END FC>. Feel free to try again if you think you can do better.<E>"
+    "message": "لا بأس بهذه المحاولة. أصبت الكثير من الأهداف. <P>لكنك في السابق إستطعت ما هو أفضل من <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> من النقاط<END FC>.<P>مكافأة لك على مجموع نقاطك، إليك <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder>جعرانا<END FC>. خذ راحتك في تكرار المحاولة، لو تتوسم في نفسك المقدرة على ما هو أفضل.<E>"
   },
   "HT_Text_MG_Shooting_Won_HighScore": {
-    "message": "You achieved a new high score with <FC 0,128,0><SO HT_Objective_Shooting_Score1> points<END FC>! Your score will be added to the wall chart for posterity.<P>As a prize for such a great high score, here's <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Scarabs<END FC>!<E>"
+    "message": "تمكنت من تحقيق رقم قياسي جديد ببلوغك <FC 0,128,0><SO HT_Objective_Shooting_Score1>نقطة<END FC>! مجموع نقاطك سيدون على الورقة في الجدار لأجل الذكرى.<P>مكافأة على مثل هذا المجموع العالي، هاك <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> جعرانا<END FC>!<E>"
   },
   "HT_Text_MG_Shooting_Lost": {
-    "message": "Pah! That was truly abysmal! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> points<END FC> is pathetic! Maybe you need some more practice?<E>"
+    "message": "بح! كان مردودا تعيسا حقا! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore>نقطة <END FC> نتيجة بائسة! ربما لازلت تحتاج إلى المزيد من التدريب؟<E>"
   },
   "HT_Text_MG_Shooting_LostSingle": {
-    "message": "Pah! That was truly abysmal! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> point<END FC> is pathetic! Maybe you need some more practice?<E>"
+    "message": "بح! كان مردودا تعيسا حقا! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore>نقطة <END FC> نتيجة بائسة! ربما لازلت تحتاج إلى المزيد من التدريب؟<E>"
   },
   "HT_Text_MG_Shooting_HighScores": {
-    "message": "<DP><DHP><END TT>Your best score is: <FC 0,128,0><SO HT_Objective_Shooting_Score1> points<END FC>!"
+    "message": "<DP><DHP><END TT>أفضل مجموع نقاط لك: <FC 0,128,0><SO HT_Objective_Shooting_Score1> نقطة<END FC>!"
   },
   "HT_Text_MG_Shooting_NoMoney": {
-    "message": "I said <FC 0,128,0>10 Scarabs<END FC>, that's not <FC 0,128,0>10 Scarabs<END FC>! You don't have enough, do you?<E>"
+    "message": "قلت لك <FC 0,128,0>10 جعرانات<END FC>، و لا أرى أمامي <FC 0,128,0>10 جعرانات<END FC>! قل الصراحة، ألا تملك ما يكفيك منها؟<E>"
   },
   "HT_Text_MG_Shooting_GameComplete": {
-    "message": "You have proven your mastery of the <FC 0,128,0>Blowpipe<END FC>! It is my pleasure to present you with the <FC 0,128,0>Marksman Medal<END FC>. Well done.<E>"
+    "message": "لقد أثبت إتقانك للحِملاج! إنه من دواعي سروري أن أقدم لك ميدالة القناص. أحسنت."
   },
   "HT_Text_MG_Shooting_WinInstructions": {
-    "message": "To prove your mastery of the <FC 0,128,0>Blowpipe<END FC> and earn the <FC 0,128,0>Marksman Medal<END FC>, you must score <FC 0,128,0>40 points<END FC> or more.<E>"
+    "message": "لتثبت إتقانك للحِملاج وتكسب ميدالة القناص. عليك احراز 40 نقطة أو أكثر."
   },
   "HT_Text_MG_Simon_Start": {
-    "message": "Welcome to the mystical game of sequences, stranger. In my shrine you will be tested in your ability to remember patterns of sound and color.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "أهلا و سهلا بك يا غريب، في لعبة التتابعات الغامضة. في محرابي هذا سأمتحنك في مقدرتك على تذكر أنساق الألوان و الأصوات.<P>هل تود اللعب؟<N>  <B 1>نعم<N>  <B 2>لا<E>"
   },
   "HT_Text_MG_Simon_StartEasy": {
-    "message": "Welcome to the mystical sequence game. For the reasonable price of <FC 0,128,0>5 Scarabs<END FC>, you may test your skills in my magical shrine.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "أهلا و سهلا بك في لعبة التتابعات الغامضة. مقابل سعر معقول لا يتعدى <FC 0,128,0>5 جعرانات<END FC> يمكنك إختبار مهاراتك في محرابي السحري.<P>هل تود اللعب؟<N>  <B 1>نعم<N>  <B 2>لا<E>"
   },
   "HT_Text_MG_Simon_Choose1": {
-    "message": "What level of skill would you like to test in my magical shrine?<N>  <B 1> Beginner - <FC 0,128,0>5 Scarabs<END FC><N>  <B 2> Intermediate - <FC 0,128,0>10 Scarabs<END FC><E>"
+    "message": "أي مستوى من المهارات تريد أن تمتحنها في محرابي السحري؟<N>  <B 1>مستوى المبتدئ - <FC 0,128,0>5 جعرانات<END FC><N>  <B 2>مستوى المتوسط - <FC 0,128,0>10 جعرانات<END FC><E>"
   },
   "HT_Text_MG_Simon_Choose2": {
-    "message": "What level of skill would you like to test in the shrine?<N>  <B 1> Beginner - <FC 0,128,0>5 Scarabs<END FC><N>  <B 2> Intermediate - <FC 0,128,0>10 Scarabs<END FC><N>  <B 3> Expert - <FC 0,128,0>20 Scarabs<END FC><E>"
+    "message": "أي مستوى من المهارات تريد أن تمتحنها في محرابي السحري؟<N>  <B 1>مستوى المبتدئ - <FC 0,128,0>5 جعرانات<END FC><N>  <B 2>مستوى المتوسط - <FC 0,128,0>10 جعرانات<END FC><N>  <B 3>مستوى الخبير - <FC 0,128,0>20 جعران<END FC><E>"
   },
   "HT_Text_MG_Simon_Instructions": {
-    "message": "Walk down the walkway to the center platform. Try and remember the sequence that appears before you.<P>Copy the sequence to win.<N>You can view each sequence again by jumping on the center platform, but only once.<E>"
+    "message": "امش في الممر حتى المنصة التي تتوسط الغرفة. حاول أن تتذكر ترتيب التتابع البصري الذي سيظهر أمامك.<P>قلد ذلك التتابع، و لو نجحت تفوز.<N>يمكنك أن ترى التتابع مرة وحيدة أخرى، لو قفزت فوق المنصة الوسطى.<E>"
   },
   "HT_Text_MG_Simon_Fail": {
-    "message": "No, no, no, that wasn't right at all! You've failed this time.<E>"
+    "message": "لا، لا، لا، لم يكن ذلك على ما يرام إطلاقا! لقد فشلت هذه المرة."
   },
   "HT_Text_MG_Simon_Succeed": {
-    "message": "Well done! You passed round <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>!<E>"
+    "message": "أحسنت! اجتزت الجولة!"
   },
   "HT_Text_MG_Simon_Win": {
-    "message": "Congratulations, you won! As a prize, you can have <FC 0,128,0><SO HT_Objective_Simon_Prize> Scarabs<END FC>!<E>"
+    "message": "تهانينا، لقد فزت! كجائزة ،يمكنك الحصول على * جعران!"
   },
   "HT_Text_MG_Simon_Restart": {
-    "message": "You're in the middle of a game! What do you want?<N>  <B 1> Quit<PC 1><B 2> Restart<N>  <B 3> Carry on<PC 1><B 4> Instructions<E>"
+    "message": "أنت في منتصف اللعبة! ماذا تريد أن تفعل؟ الخروج البدء من جديد المواصلة التعليمات"
   },
   "HT_Text_MG_Simon_CopyLimit": {
-    "message": "Oh no you don't! You only get two views per sequence!<E>"
+    "message": "أه لا، و لا في أحلامك! كانت عندك فرصتان لترى ذلك التتابع، و لا زيادة عنها!<E>"
   },
   "HT_Text_MG_Simon_NoMoney": {
-    "message": "Wait, you don't have enough <FC 0,128,0>Scarabs<END FC>. Come back when you have enough to play.<E>"
+    "message": "لحظة, لاتمتلك ما يكفي من الجعران. عد عندما تمتلك ما يكفي لتلعب."
   },
   "HT_Text_MG_Simon_CantLeave": {
-    "message": "Hey, you can't leave! You're in the middle of a game!<E>"
+    "message": "أنت لايمكنك الرحيل وأنت في منتصف اللعبة!"
   },
   "HT_Text_MG_Simon_GameComplete": {
-    "message": "Excellent! You've beaten my game and earned the <FC 0,128,0>Medal of Sequences<END FC>.<E>"
+    "message": "ممتاز! لقد فزت في لعبتي وحصلت على ميدالة النوائب."
   },
   "HT_Text_MG_Pairs_Start": {
-    "message": "Welcome to my game! It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
+    "message": "أهلا بك في لعبتي ! ستكلفك 10 جعران لتلعبها. أتود أن تلعب؟ نعم لا"
   },
   "HT_Text_MG_Pairs_Scores": {
-    "message": "<DHP><DP><END TT>The fastest you've completed this game is:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> seconds<END FC>."
+    "message": "أقل وقت سجلته في هذه اللعبة هو * ثانية."
   },
   "HT_Text_MG_Pairs_NoScores": {
-    "message": "<DHP><DP><END TT>You've never completed this game... <END FC>"
+    "message": "لم تنهي هذه اللعبة من قبل..."
   },
   "HT_Text_MG_Pairs_Win": {
-    "message": "Congratulations! You've won <FC 0,128,0><SO HT_Objective_Pairs_Won> Scarabs<END FC>!<E>"
+    "message": "تهانينا لقد فزت *جعران!"
   },
   "HT_Text_MG_Pairs_Restart": {
-    "message": "You're in the middle of a game! What do you want?<N>  <B 1> Quit<PC 1><B 2> Restart<N>  <B 3> Carry on<PC 1><B 4> Instructions<E>"
+    "message": "أنت في منتصف اللعبة! ماذا تريد أن تفعل؟ الخروج البدء من جديد المواصلة التعليمات"
   },
   "HT_Text_MG_Pairs_Instructions": {
-    "message": "Use your <FC 0,128,0>Blowpipe<END FC> to shoot open the doors at the end of the room.<P>Match each pair of items behind the doors to win.<E>"
+    "message": "استعمل <FC 0,128,0>الحملاج<END FC> كي تطلق على الأبواب في آخر الغرفة و تفتحها.<P>حاول التوفيق بين كل زوج من الأغراض وراء الأبواب، و ستربح.<E>"
   },
   "HT_Text_MG_Pairs_NoBlowpipe": {
-    "message": "Sorry, but you can't play unless you have a <FC 0,128,0>Blowpipe<END FC>.<E>"
+    "message": "اعتذر لكن لا يمكنك اللعب طالما لا تمتلك حِملاج."
   },
   "HT_Text_MG_Pairs_RestartPay": {
-    "message": "It'll cost you another <FC 0,128,0>10 Scarabs<END FC>...<N>  <B 1> OK, restart<N>  <B 2> No, carry on playing<E>"
+    "message": "إنها سوف تكلفك 10 جعران اخرى... حسنا، اللعب من جديد لا الاستمرار في اللعب"
   },
   "HT_Text_MG_Pairs_NoMoney": {
-    "message": "I said it'll cost <FC 0,128,0>10 Scarabs<END FC>, you don't have <FC 0,128,0>10 Scarabs<END FC>.<E>"
+    "message": "قلت أنها ستكلفك 10 جعران، وأنت لاتمتلك 10 جعران"
   },
   "HT_Text_MG_Pairs_NotWon": {
-    "message": "That took you forever! No prize for you!<E>"
+    "message": "استغرقت كثيرا من الوقت! لا جائزة لك!<E>"
   },
   "HT_Text_MG_Pairs_WinInstructions": {
-    "message": "If you can complete the game within <FC 0,128,0>60 seconds<END FC>, you will have proven yourself worthy of the <FC 0,128,0>Medal of Memory<END FC>.<E>"
+    "message": "لذا تمكنت من انتهاء اللعبة خلال <FC 0,128,0>60 ثانية <END FC>، تكون قد أثبتت أنك تستحق <FC 0,128,0> ميدالية الذاكرة<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_GameComplete": {
-    "message": "And you've earned the <FC 0,128,0>Medal of Memory<END FC>!<E>"
+    "message": "وحصلت على <FC 0,128,0>ميدالية الذاكرة<END FC>!<E>"
   },
   "HT_Text_MG_Pairs_TooLong": {
-    "message": "That's it, you're taking too long, I'm going to have to stop the game. Sorry.<E>"
+    "message": "انتهى الأمر، استغرقت وقتا طويلا، علي إيقاف اللعبة. آسف.<E>"
   },
   "HT_Text_Museum_BC01_Giant_Prawn": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Geb<END FC> ]---<P>Sharing the name of the ancient earth-god, Gebs used to be peaceful creatures.<P>Nowadays, they are little more than obedient muscle for the fearsome Geb Queen...<E>"
+    "message": "جب\nمخلوقات تحمل نفس إسم وثن أرضي قديم، كانت وديعة وسالمة. لكنها الآن لم تعد سوى الأيادي المطيعة الضاربة لملكة جب مرهوبة الجانب..."
   },
   "HT_Text_Museum_BM09_Smiling_burble": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Smiling Burble<END FC> ]---<P>This little critter is one of the less harmful members of the Burble family, having lost the explosive properties indicative of its species.<P>Their powerful horns can shatter rock, although their lack of coordination lessens the threat this would normally pose.<E>"
+    "message": "<N><CNTR>---[<FC 0,128,0>كركر بسام<END FC>]---<P>هذا الحيوان الضئيل من أقل سلالة الكركريات ضررا، بما أنه فاقد لميزة قابلية الإنفجار التي تتفرد بها بين الأجناس.<P>له قرون عظيمة القوة قديرة على تفتيت الصخر، بيد أن قلة التناسق في حركتها تقلل بكثير الخطر المفترض منها.<E>"
   },
   "HT_Text_Museum_BM10_i_Cyclops": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Cyclops<END FC> ]---<P>Named so for its single eye, this biped is capable of charging bolts of fire, teleportation and duplication.<P>Their combination of skin and hair color has sometimes seen them confused with a certain root vegetable...<E>"
+    "message": "سايكلوب\nكان إسمه بسبب عينه الواحدة، مخلوق ماشي على قدمين يقدر على شحن اللهب، و التنقل في المكان، و نسخ الشكل. ألوان جلودهم و شعرهم كانت تركيبة غريبة حدت بالكثيرين أن يخلطوهم ببعض أنواع الخضروات..."
   },
   "HT_Text_Museum_BM12_slim_burble": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Slim Burble<END FC> ]---<P>Sporting spindlier limbs when compared to other Burbles, the Slim Burble is capable of laying eggs with alarming frequency.<P>Living in warrens built at the base of cliff faces, its fiery temperament derives from a diet that primarily consists of freshly-flowing lava.<E>"
+    "message": "<N><CNTR>---[<FC 0,128,0>كركر ناحل<END FC>]---<P>أطرافه ناحلة مقارنة بالكركريات الأخرى، و يقدر على الإباضة بنسق عال يثير الجزع.<P>يعيش في جحور في أسس جبهات الجروف و المنحدرات. له مزاج ملتهب الغضب، يرجع لنظام غذائي أساسه الحمم البركانية الطازجة من تدفقها.<E>"
   },
   "HT_Text_Museum_BR04_Goofy_Lizard": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Goofy Lizard<END FC> ]---<P>The Goofy Lizard's behavior implies a complete lack of common sense, matched only by their apparent lack of coordination.<P>The most popular domesticated animal in existence.<E>"
+    "message": "<N><CNTR>---[<FC 0,128,0>السحلية البلهاء<END FC>]---<P>سلوك السحلية البلهاء لا ينم إلا عن إنعدام كامل لأدنى مقومات المنطق السليم، لا تضاهيه إلا قصورها الظاهري في تنسيق حركاتها.<P>أكثر الحيوانات الأليفة شعبية في الوجود.<E>"
   },
   "HT_Text_Museum_BR05_Dino_Oaf": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Dino Oaf<END FC> ]---<P>Dino Oafs have been in existence for millions of years, as recently discovered cave etching attest to.<P>Docile and inquisitive herbivores, their strength is sometimes employed in assisting heavy farming tasks.<E>"
+    "message": "<N><CNTR>---[<FC 0,128,0>دينص متبلد<END FC>]---<P> وجدت الديانص المتبلدة منذ ملايين السنين و تشهد على ذلك نقوش كهوف إكتشفت مؤخرا.<P>كائنات عاشبة وديعة فضولية، أحيانا يسخر قوتها الفلاحون للأعمال الشاقة.<E>"
   },
   "HT_Text_Museum_BR06_Half_Brute": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Half Brute<END FC> ]---<P>The name Half Brute understates the nature of these aggressive two-legged monsters, predominantly found in desert regions.<P>A descendant of the Full Brute; a despicable lizard now widely acknowledged to be extinct.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>نصف همجيات<END FC> ]---<P> وحوش مناطق صحراوية بالأساس، من ذوات القائمتين، عدوانية شرسة الطباع لا يوفيها الإسم حقها.<P>ينحدر من سلالة الهمجيات الكاملة، و هذه من أنواع السحالي البغيضة التي يعتقد أغلب الناس أنها إنقرضت.<E>"
   },
   "HT_Text_Museum_BU01_Mummy_Minotaur": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Minotaur<END FC> ]---<P>Descended from the keeper of an ancient maze, Mummy Minotaurs prowl the darkest temples of <FC 128,64,0>Egypt<END FC>.<P>Consumed in flames which it can also breathe from its mouth, this fiery attack has been neutralized for the safety of the museum.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>مومياء مينوتور<END FC> ]---<P> تنحدر من سلالة ثور آدمي حرس متاهة في قديم الأزمان، و تحوم في أحلك معابد <FC 128,64,0>مصر القديمة<END FC>.<P> تكسوها ألسنة لهب، و كذلك تستطيع نفث اللهب من أفواهها. تم تكميم هذا الهجوم الناري حرصا على حماية رواد المتحف.<E>"
   },
   "HT_Text_Museum_BU02_Skeletal_Axeman": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Skeletal Axeman<END FC> ]---<P>Rumored to be former warriors of an ancient dark Egyptian army. Members of the undead, their origin is unknown.<P>Now rarely seen in groups larger than three, in the past they formed whole battalions.<E>"
+    "message": "<N><CNTR>---[<FC 0,128,0>هيكل ذو فأس<END FC>]---<P>يشاع أنهم من محاربي فصيل ظلام من جيش فرعوني من الأزمنة العتيقة. ينتسبون إلى اللاأموات، و حقيقة أصلهم مجهولة.<P>في أيامنا هذه نادرا ما يرون في مجموعات تتجاوز الثلاثة من الأنفار، لكن في الماضي كانوا جحافل كتائب كاملة.<E>"
   },
   "HT_Text_Museum_BU03_zombie_man": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Zombie<END FC> ]---<P>Before entering the ranks of the undead, they were slaves who labored long and hard building immense temples.<P>Now, a Zombie is doomed to wander the lands of sand, in search of a gateway to the afterlife that will forever elude them...<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>زومبي<END FC> ]---<P>قبل أن ينضم هؤلاء لحشود اللاأموات كانوا عبيدا يكدحون ساعات طوالا مضنية في تشييد معابد ضخمة هائلة.<P>أما الآن، فمحكوم عليهم أن يهيموا بين رمال الصحاري بحثا عن معبر للحياة الأخرى سيظل إلى الأبد بعيدا عن منالهم...<E>"
   },
   "HT_Text_Museum_BU05_almost_a_bull": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Almost-A-Bull<END FC> ]---<P>Often found in <FC 128,64,0>Heliopolis<END FC>, the Almost-A-Bull's defense mechanism sees it shrink in order to present a smaller target for any attacker.<P>A unique breeding mistake led to one hand being replaced with a third horn; almost an evolutionary anomaly.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>شبه ثور<END FC> ]---<P>عادة يتواجد في <FC 128,64,0>أون<END FC> و أسلوبه في الدفاع أن يتقلص كي تصغر مساحة هجوم العدو.<P>عاهة من أخطاء التزاوج كان من نتائجها أن يدا له عوضت بقرن ثالث، و هذا يكاد يرقى لرتبة أغلاط الطبيعة.<E>"
   },
   "HT_Text_Museum_BU06_MBird": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Bird<END FC> ]---<P>When mummified, bandages were wrapped around the Mummy Bird's eyes, to safeguard against superstition.<P>As a result, it relies on its sense of hearing to locate prey, leaping with claws extended in the approximate direction of the sound.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>مومياء طائر<END FC> ]---<P>عندما تم تحنيط هذا الطائر غلف بلفائف الكتان و أغشى ذلك عينه، و يعتقد أن سبب هذا تطير أو وقاية.<P>و جراء ذلك يعول هذا المخلوق على حاسة السمع كي يحدد مكان الفريسة، و يهجم شرا مستطيرا بمخالب سيقانه المشحوذة في الإتجاه الذي سمع منه تقريبا مصدر الصوت.<E>"
   },
   "HT_Text_Museum_FL02_Featherless_Turkey": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Featherless Turkey<END FC> ]---<P>Specially bred to enable quick and simple food processing, over the years the Featherless Turkey has developed a complex.<P>They ram into anyone nearby, seemingly blaming everything living they come across for the loss of their plumage.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>دندوك بلا ريش<END FC> ]---<P>نوع من ديك الحبشة ربي خصيصا ليوفر غذاء سريع الإعداد، و على مر الزمان نشأت في نفسيته عقدة نقص.<P>فصار يلطخ نفسه بأي شخص في طريقه، من باب النقمة على كل الأحياء و إلقاء اللائمة عليهم بسبب فقدانه لريشه.<E>"
   },
   "HT_Text_Museum_FL03_shuttlecock_bird": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Shuttlecock Bird<END FC> ]---<P>The Shuttlecock Bird may only be able to fly short distances at a time, but its one leg allows for some powerful hopping.<P>The unique arrangement of feathers around its head make it incredibly aerodynamic when lunging to attack.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>هدهد نصكرة<END FC> ]---<P>ربما لا يستطيع الطيران إلا لمسافات قصيرة و فترة وجيزة، لكن قفزته بساقه الوحيدة قوية الوقع.<P>عنده ريش فريد من نوعه يطوق رأسه، يسهل إنسيابه في الهواء عندما يهب مندفعا في الهجوم.<E>"
   },
   "HT_Text_Museum_HD02_Cat": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Knives Cat<END FC> ]---<P>A much faster and more deadly relative of the Crabhands. Possess a remarkable sense of hearing.<P>While humanoid in shape, you have only to see a Knives Cat hunting to appreciate where the feline half of its name comes from.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>سنور السواطير<END FC> ]---<P>فصيلة أسرع و أفتك من أقارب سلطعونيات الأيادي. عنده حاسة سمع مذهلة.<P>مع أن شكله يوهم أنه آدمي، يكفيك أن تراه و هو يصطاد طرائده كي تتحقق أن نصف شبهه بالسنوريات ليس مجرد إسم.<E>"
   },
   "HT_Text_Museum_HD03_BigBull": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Big Bull<END FC> ]---<P>The hammer-wielding monstrosity is renowned for its bad temper.<P>Such is the size of its weapon, it acts as a shield without the need for a defensive pose.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>ثور كبير<END FC> ]---<P>كائن وحشي يحمل مطرقة عرف عنه مزاجه العكر.<P>ضخامة سلاحه تغنيه عن الحاجة لدرع آخر أو حتى حركة دفاعية.<E>"
   },
   "HT_Text_Museum_HD14_Crab": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Crabhands<END FC> ]---<P>A combination of humanoid and shellfish makes up this monster, found throughout the land.<P>The gold armor plating adorning Crabhands is permanently welded to its body and enchanted to allow for growth.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>سلطعوني الأيادي<END FC> ]---<P>فيه بعض الإنسان، و بعض المحار. وحش رائج في هذه الأرض.<P>مكسو بدرع ذهبي يغلف جسده، لكنه منصهر فيه لا يقلع منه، و مضفى عليه سحر يسمح له بالنمو.<E>"
   },
   "HT_Text_Museum_HD17_Sharpbeak": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Sharpbeak<END FC> ]---<P>The Sharpbeak's slender form makes it a lithe warrior, and they are well trained in swordsmanship techniques.<P>Dark magic is rumored to be the cause of this unusual blend of lizard and bird.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>مشحوذ المناقير<END FC> ]---<P>محارب خفيف له قوام رشيق تدرب جيدا في أساليب السيافة.<P>يقال أن السحر الأسود سبب إجتماع صفات السحالي و الطيور فيه.<E>"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Skull Worshipper<END FC> ]---<P>A powerful ally to the forces of evil - skillful and ruthless fighters.<P>The Skull Worshipper is precisely that - their dwellings are said to be adorned with skulls, by those who have lived to escape.<E>"
+    "message": "<N><CNTR>---[<FC 0,128,0>عبدة الجماجم<END FC>]---<P>من أقوى حلفاء قوى الشرور. محاربون مهرة و عتاة لا يرحمون.<P>إسما على مسمى، يزينون مساكنهم بالجماجم، حتى حسب قول من نجا منهم و هرب.<E>"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Dark Worshipper<END FC> ]---<P>Adventurers should approach the shadows of any dungeon with caution, for a Dark Worshipper may be lurking in the darkness.<P>Said to be the tortured souls of former warriors, trapped between our world and the afterlife.<E>"
+    "message": "<N><CNTR>---[<FC 0,128,0>عبدة الظلام<END FC>]---<P>يجدر بالمغامرين توخي الحيطة في الإقتراب من ظلال أي من أوكار الشر و قلاعه، لأن أحد عبدة الظلام قد يكون متربصا بشره في الظلال.<P>قيل أنهم أرواح معذبة لمن كانوا محاربين و صاروا عالقين بين عالمنا و العالم الآخر.<E>"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Skull Swordsman<END FC> ]---<P>Highly trained in many swordsmanship techniques, and deadly opponents.<P>Similar to Skull Worshippers, they too can summon a ghostly skull, which drains the soul's essence on contact.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>هيكل سياف<END FC> ]--- <P>خصوم فاتكون مخضرمون في فنون إستعمال السيوف.<P>على غرار عبدة الجماجم، يستطيعون حتى هم إستحضار جمجمة شبحية، ستستنزف ممن تلمسه الطاقة الروحية.<E>"
   },
   "HT_Text_Museum_IN01_Green_Giant_worm": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Green Giant Worm<END FC> ]---<P>The largest invertebrate creature known, it is also one of the few carnivorous worms in existence.<P>Green Giant Worms uniquely fortify the entrances to their subterranean tunnel networks, affording some forewarning as to their presence.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>دودة خضراء عملاقة<END FC> ]---<P>أضخم حيوان من اللافقريات عرف في الوجود، علاوة أنه من الديدان آكلة اللحوم القليلة.<P>تعزز هذه الديدان تحصينات مداخل شبكات أنفاقها المتشعبة تحت التراب، و في ذلك بعض التحذير عن وجودها.<E>"
   },
   "HT_Text_Museum_IN07_Blade_Scorpion": {
     "message": "<N><CNTR>---[ <FC 0,128,0>Blade Scorpion<END FC> ]---<P>This lobster-like arachnid has a very different jointed tail to the regular scorpion, with twice as much potential to harm.<P>As well as carrying a deadly sting at the tail's tip, the Blade Scorpion's tail itself is just that - a lethal, razor sharp blade capable of scything through armor.<E>"
   },
   "HT_Text_Museum_IN09_Sak_Spike_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Spike Spider<END FC> ]---<P>Perhaps the smallest member of the spider family, it is swifter than most thanks to its strong legs.<P>The Spike Spider is a pack hunter, and in groups they will surround their prey and attack from all directions simultaneously.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>عنكبوت شوكية<END FC> ]---<P>قد يجوز القول أنها أصغر أعضاء أسرة العناكب، و أخفها رشاقة و حركة بفضل سيقانها القوية.<P>يصطاد فريسته في قطعان تحيط بها و تهاجمها على جميع الجبهات في نفس اللحظة.<E>"
   },
   "HT_Text_Museum_PI01_Piranha": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Piranha<END FC> ]---<P>A vicious fish native to a strange and far off land, those found on this continent have the voracious appetite of their overseas counterparts, but are also amphibious.<P>Similar to rats; in recent years the Piranha has become an increasing hazard in larger towns.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>ضاري البيرانا<END FC> ]--- <P>سمكة لئيمة ضارية تنتسب إلى أرض بعيدة غريبة أساسا، لكن القليل الذي من هذه القارة لها نفس شراهة أولئك مع زيادة أنها برمائية.<P>كما هو الحال مع الجرذان صارت بيرانا الضاري خطرا متزايدا في المدن الكبرى.<E>"
   },
   "HT_Text_Museum_PI01_Hard_Piranha": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Exo-Piranha<END FC> ]---<P>The Exo-Piranha's external skeleton makes them incredibly resilient.<P>Faster and more intelligent than other types of Piranha known, they are undeniably as ugly as the wounds they are known to inflict.<E>"
+    "message": "<N><CNTR> ---[ <FC 0,128,0>هيكل البيرانا<END FC> ]---<P>هيكلها العظمي الخارجي شديد المقاومة و الصمود.<P>عندها سرعة و ذكاء يتفوق بكثير عن سائر أجناس ضاري البيرانا، و شكلها فيه قبح و بشاعة لا ينكران و لا يضاهيما إلى بشاعة الجروح التي عرف أنها تتسبب بها.<E>"
   },
   "HT_Text_Museum_PL02_Tree_Creature": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Tree Creature<END FC> ]---<P>The Tree Creature is one of the few plants known to have magical abilities from birth.<P>It distracts any potential threat with a mesmerizing glow of light which emanates over its head, while underground roots rapidly burst through the ground to attack.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>المخلوق الشجري<END FC> ]---<P>من النباتات القليلة التي عرف عنها قواها السحرية منذ مولدها.<P>تشتت هذه النبتة إنتباه أي مصدر محتمل للخطر عليها بوميض نور ساطع خالب للأبصار ينبعث من رأسها، بينما تنبثق جذورها من تحت الأرض بغتة لتهاجم العدو.<E>"
   },
   "HT_Text_Museum_PL04_Sunflower_With_Face": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Sunflower<END FC> ]---<P>This perennial plant has been known to live for many centuries.<P>Immobile for most of the time, it springs to life when threatened and fires off three spore attacks simultaneously, to virtually guarantee harm befalls any potential threat.<E>"
+    "message": "<N><CNTR>---[<FC 0,128,0>زهرة عباد الشمس<END FC>]---<P>زهرة قديمة عبر الأجيال معروفة منذ قرون من السنوات.<P>في أغلب الأوقات تلبث لا تتحرك، لكن عندما تحس بالتهديد تتلبسها روح من الحياة و تهاجم بثلاث طلقات من الطلح في نفس اللحظة، تحرص بها أن ينزل الضرر على أي سبب محتمل عليها من الأخطار.<E>"
   },
   "HT_Text_Museum_QC01_Pokemon": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Shell Critter<END FC> ]---<P>A shy, herbivorous reptile renowned for spending most of its life retreated inside its shell.<P>Despite being fairly commonplace, excessive cruelty to Shell Critters has given them protected species status.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>زحاف صدفة<END FC> ]---<P>زاحف خجول آكل عشب معروف أنه يعتزل أغلب حياته داخل صدفته.<P>رغم أن هذه الحيوانات شائعة إلا أن العنف المفرط ضدها جعلها مصنفة من الفصائل المهددة المحمية.<E>"
   },
   "HT_Text_Museum_QR04_Sak_Nose_Needler": {
     "message": "<N><CNTR>---[ <FC 0,128,0>Nose Needler<END FC> ]---<P>The Nose Needler certainly does needle, provoking their prey until its judgment is clouded by anger.<P>Burrowing through soft soil at great speed, they emerge briefly and throw abrasive rocks at an enemy, before going underground once again and repeating the process.<E>"
   },
   "HT_Text_Museum_QU01_Skeletal_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Skeletal Spider<END FC> ]---<P>One of the most unique looking members of its species, the Skeletal Spider stands out with the unusual vertical growth of its spine.<P>Native to <FC 128,64,0>Uruk<END FC>, where their fleshless bodies are little affected by the scorching heat.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>عنكبوت شوكية<END FC> ]---<P>أحد بنات جنسها الأكثر تفردا في شكلها، بسبب نمو غريب عمودي لعمودها الفقري.<P>تنتسب إلى <FC 128,64,0>الوركاء<END FC> ذات حرارة حارقة لا تؤثر في أجسادها الخالية من اللحم.<E>"
   },
   "HT_Text_Museum_QU02_Skeletal_Armadillo": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Armadillo<END FC> ]---<P>These peculiar, waddling quadrupeds normally walk along at a slow pace. Their hard shell doubles up as a weapon when spinning along the ground.<P>Certain popular children's tales claim their origins as the union of the hedgehog and tortoise.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>درعية<END FC> ]---<P>كائنات غريبة تتختل في مشيتها على أربع، عادة تمشي بنسق أبطأ. لها صدفة صلبة، تصير سلاحا عندما تبدأ بالدوران مثل الخذروف فوق الأرض.<P>بعض الخرافات الشعبية التي تروى للصبيان تزعم أنها وليدة زيجة بين قنفذ و سلحفاة.<E>"
   },
   "HT_Text_Museum_QU04_Mummy_Chihuahua": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Chihuahua<END FC> ]---<P>A Chihuahua is a smooth-coated dog of diminutive stature. The mummification process makes their undead counterpart very aggressive.<P>A popular pet of a former Pharaoh, they went to the tomb with their master.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>مومياء شيواوا<END FC> ]---<P>عادة الشيواوا كلب ناعم الفروة ممن قرب للأرض و لم يكثر شره. لكن عملية التحنيط تنتج منه نظيرا لاميتا أشد شراسة و عدوانية بكثير.<P>كان هذا الحيوان المفضل المحبوب لأحد الفراعنة الراحلين، و لذلك ألحقوه بسيده في القبر.<E>"
   },
   "HT_Text_Museum_QU05_skeletal_waspspider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Wasp Spider<END FC> ]---<P>One of the slower members of the spider family, the tips of their claws hold a powerful sting.<P>The Wasp Spider prefers the cool breezes found in coastal regions.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>عنكبوت دبور<END FC> ]---<P>واحد من أبطئ أعضاء أسرة العناكب. في آخر طرف مخالبه إبرة لداغة عظيمة الوقع.<P>يحبذ النسيم البارد العليل الذي تتميز به المناطق الشاطئية بمناخاتها.<E>"
   },
   "HT_Text_Museum_QU06_Mummy_Worm": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Worm<END FC> ]---<P>An undead invertebrate which spits out harmful balls of fire.<P>Rooted to the spot and unable to burrow, they are sometimes kept as sentries to ward off unwanted visitors.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>مومياء دودة<END FC> ]---<P>كائن لافقري لاميت يبصق كرات نارية مؤذية.<P>متجذر في مكانه يعجز عن الحركة، و أحيانا تترك عمدا في أمكنتها كأنها حراس لطرد الزوار المكروهين.<E>"
   },
   "HT_Text_Museum_QU09_Rat": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Rat<END FC> ]---<P>A large rodent well known for its ability to spread diseases, often found in sewers and other poorly sanitized areas.<P>The name \"Rat\" is also used to signify a treacherous or untrustworthy person.<E>"
+    "message": "<N><CNTR>---[<FC 0,128,0>جرذ<END FC>]---<P>من القوارض الضخمة، معروف بقدرته على نشر الأوبئة و الأمراض، يغلب وجوده في المجاري و غيرها من الأماكن التي تقل نظافتها.<P>تستعمل كناية الجرذ لوصف بعض الناس الغدارين أو اللذين لا يستحقون الثقة.<E>"
   },
   "HT_Text_Museum_PI04_Spinefish": {
     "message": "<N><CNTR>---[ <FC 0,128,0>Spinefish<END FC> ]---<P>The Spinefish's deceptively beautiful display fins hide deadly poisonous spines which it uses to fend off would-be aggressors.<P>The Spinefish is an extremely territorial animal and is commonly used by the upper classes in their defensive moats.<E>"
@@ -297,462 +297,462 @@
     "message": "<N><CNTR>---[ <FC 0,128,0>Manta Ray<END FC> ]---<P>The Manta Ray's natural habitat is the open ocean.<P>They usually prefer to prey upon small schools of fish but have been known to attack larger animals if provoked.<E>"
   },
   "HT_Text_Museum_FL05_Mummy_Eagle": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Eagle<END FC> ]---<P>The Mummy Eagle is one of the biggest birds known to exist. Its great size and strength mean that it can easily pick up people.<P>This ability has been known to have been exploited by the Ancients, who used an <FC 0,128,0>Eagle Stone<END FC> to summon the birds.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>مومياء نسر<END FC> ]---<P>من أحد أضخم الطيور المعروفة في الوجود. عندها قوة كبيرة و حجم أكبر يسهل عليها رفع البشر.<P>يعرف عن الأقدمين أنهم انتهزوا هذه القدرة كي يستعملوا <FC 0,128,0>حجر النسر<END FC> لإستحضار هذه الطيور.<E>"
   },
   "HT_Text_Museum_IN11_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Alert Spider<END FC> ]---<P>The Alert Spider spends its life above the ground climbing over walls or ceilings.<P>From this high vantage point, it is able to drop down onto unsuspecting prey without drawing attention to itself.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>عنكبوت منبه<END FC> ]---<P>يقضي عمره فوق الأرض متسلقا الجدران أو السقوف ينظر و يتربص.<P>من مرتفعه ذلك و دون أن يجلب الإنتباه، يستطيع النزول كالقضاء المستعجل على فريسته التي لم تتوقعه.<E>"
   },
   "HT_Text_Museum_QR01_Cobra": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Cobra<END FC> ]---<P>A hooded and highly poisonous snake.<P>The cobra commonly makes its home in dark and secluded areas, surprising many unsuspecting explorers.<E> "
+    "message": "<N><CNTR>---[ <FC 0,128,0>كوبرا<END FC> ]---<P>ثعبان له غطاء رأس و سم زعاف شديد الفتك.<P>عادة يستوطن في أماكن معزولة و مظلمة، و هكذا يباغت أي زائر غافل.<E> "
   },
   "HT_Text_Museum_QR02_Spitting_Toad": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Spitting Toad<END FC> ]---<P>The so called \"Spitting Toad\" got its name from its tendency to swallow first, think later.<P>Anything that is not to the Toad's rather picky taste is spat out quite forcefully.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>علجوم باصق<END FC> ]---<P>سموه هكذا لأنه يميل للإبتلاع قبل التفكير.<P>أي شيء لا يحبه العلجوم، و ذوقه دقيق الإنتقاء، يبصقه بطريقة بالغة العنف.<E>"
   },
   "HT_Text_Museum_QR03_Small_Frog": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Small Frog<END FC> ]---<P>The Small Frog originates from the toxic swamplands.<P>As a result, it is very resistant to toxic substances.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>ضفدع ضئيل<END FC> ]---<P>ينتسب في الأصل من سباخ المستنقعات المسمومة.<P>لذلك مقاومته عالية للمواد السمية.<E>"
   },
   "HT_Text_Museum_QU08_Normal_Chihuahua": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Chihuahua<END FC> ]---<P>A favorite pet of the rich, Chihuahuas are very energetic.<P>While the dog-loving community adore Chihuahuas, most find their incessant yapping highly irritating.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>شيواوا<END FC> ]---<P>كلب من الحيوانات المفضلة للأثرياء، لديه نشاط كبير.<P>مع أن عشاق الكلاب يعشقون هذه الفضيلة، إلا أن السواد الأعظم من الناس يستفزهم نباحهم الذي لا ينقطع.<E>"
   },
   "HT_Text_Museum_PI05_Aka_Turtle": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Sea Turtle<END FC> ]---<P>The Sea Turtle is a solitary creature fond of the open ocean. Its large size is a result of its immense lifespan.<P>The oldest Sea Turtle to have been found was aged in excess of three centuries.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>سلحفاة بحرية<END FC> ]---<P>كائن منعزل يعشق المحيط المنفتح. ضخامة حجمه مرتبطة بأمد حياته الطويل.<P>أقدم سلحفاة بحر عثر عليها تناهز ما يفوق ثلاثة قرون من السنوات.<E>"
   },
   "HT_Text_Museum_BM07_Squirt": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Squirt<END FC> ]---<P>The Squirt is a shy, easily frightened creature. The high value of the Squirt comes as a result of being immune to <FC 0,128,0>Capture Beetles<END FC>.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>نطفة<END FC> ]---<P>مخلوق خجول رعديد تسهل إخافته. عنده قيمة نفيسة جراء أنه منيع لا تؤثر فيه <FC 0,128,0>خنافس الصيد<END FC>.<E>"
   },
   "HT_Text_Museum_Name_BM09_Smiling_burble": {
-    "message": "A Smiling Burble! Uses its horns in a haphazard manner."
+    "message": "كركر بسام! يستعمل قرونه و يخبط بها خبط عشواء."
   },
   "HT_Text_Museum_Name_BM10_i_Cyclops": {
-    "message": "A Cyclops! Cute looking but very mischievous."
+    "message": "سايكلوب! شكله حلو محبوب، لكنه خبيث مشاكس."
   },
   "HT_Text_Museum_Name_BM12_slim_burble": {
-    "message": "A Slim Burble! A quick breeder, and explosive too!"
+    "message": "كركر ناحل! سريع التكاثر، و كذلك سريع الإنفجار!"
   },
   "HT_Text_Museum_Name_BR04_Goofy_Lizard": {
-    "message": "A Goofy Lizard! It’s a daft but friendly animal."
+    "message": "سحلية بلهاء! حيوان معتوه لكنه ودود."
   },
   "HT_Text_Museum_Name_BR06_Half_Brute": {
-    "message": "A Half Brute! A shockingly aggressive monster."
+    "message": "همجي نصفي وحش عنيف بشكل صادم."
   },
   "HT_Text_Museum_Name_BU02_Skeletal_Axeman": {
-    "message": "A Skeletal Axeman! Lethal foot soldier from the dark side."
+    "message": "هيكل ذو فأس! جندي مشاة شديد الفتك، ينتسب للجانب المظلم."
   },
   "HT_Text_Museum_Name_BU05_almost_a_bull": {
-    "message": "Almost-A-Bull! Uses its horns to violent effect."
+    "message": "شبه ثور! يستعمل قرونه و النتيجة عنف بالغ الوقع!"
   },
   "HT_Text_Museum_Name_BU06_MBird": {
-    "message": "A Mummy Bird! Bandages cover most of its feathers."
+    "message": "مومياء طائر! يغطي أغلب ريشه لفائف الكتان."
   },
   "HT_Text_Museum_Name_FL02_Featherless_Turkey": {
-    "message": "A Featherless Turkey! A bald bird with a grumpy attitude."
+    "message": "دندوك بلا ريش! ديك حبش أصلع نكدي الطباع."
   },
   "HT_Text_Museum_Name_FL03_shuttlecock_bird": {
-    "message": "A Shuttlecock Bird! One-legged with aerodynamic plumage."
+    "message": "هدهد نصكرة! له ساق واحدة، و ريش ملائم للإنسياب الجوي."
   },
   "HT_Text_Museum_Name_HD02_Cat": {
-    "message": "A Knives Cat! Not the friendliest feline around."
+    "message": "سنور السواطير! ليس ألطف قط في الوجود."
   },
   "HT_Text_Museum_Name_HD03_BigBull": {
-    "message": "A Big Bull! Partial to swinging his hammer around."
+    "message": "ثور كبير! تميل نفسه إلى التلويح بمطرقته حوله."
   },
   "HT_Text_Museum_Name_HD14_Crab": {
-    "message": "A Crabhands! A biped with a grumpy temperament."
+    "message": "سلطعوني الأيادي! يمشي على قدمين، نكدي الطباع."
   },
   "HT_Text_Museum_Name_HD17_Sharpbeak": {
-    "message": "A Sharpbeak! A rare specimen of this battling creature."
+    "message": "مشحوذ المناقير! عينة نادرة من هذا المخلوق المقاتل."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper": {
-    "message": "A Skull Worshipper! A powerful ally to the forces of evil."
+    "message": "أحد عبدة الجماجم! حليف عظيم القوة يخدم قوى الشر."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "A Dark Worshipper! Rarely seen outside the shadows."
+    "message": "أحد عبدة الظلام! نادرا ما يرى خارج الظلال."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "A Skull Swordsman! Skillful warriors with ghostly attacks. "
+    "message": "هيكل سياف! محاربون مهرة، هجماتهم فيها حركات الأشباح."
   },
   "HT_Text_Museum_Name_IN01_Green_Giant_worm": {
-    "message": "Green Giant Worm! A big worm with big teeth."
+    "message": "دودة خضراء عملاقة! دودة ضخمة، و أسنانها أيضا ضخمة."
   },
   "HT_Text_Museum_Name_IN07_Blade_Scorpion": {
-    "message": "A Blade Scorpion! Fast and deadly with a stinging tail."
+    "message": "عقرب الشفرات! سريع فتاك، بذيل لداغ."
   },
   "HT_Text_Museum_Name_IN09_Sak_Spike_Spider": {
-    "message": "A Spike Spider! Well known for dropping on their prey."
+    "message": "عنكبوت شوكية! معروفة بالقفز على فرائسها."
   },
   "HT_Text_Museum_Name_PI01_Piranha": {
-    "message": "A Piranha! Fast-eating carnivorous fish."
+    "message": "ضاري البيرانا! سمكة آكلة لحوم سريعة في الإفتراس."
   },
   "HT_Text_Museum_Name_PI01_Hard_Piranha": {
-    "message": "An Exo-Piranha! Quick and deadly little fish."
+    "message": "هيكل البيرانا! سمكة ضئيلة سريعة الإهلاك."
   },
   "HT_Text_Museum_Name_PL02_Tree_Creature": {
-    "message": "A Tree Creature! Don’t seek shade under this tree!"
+    "message": "مخلوق شجري! لا تطلب الظل من تحت هذه الشجرة!"
   },
   "HT_Text_Museum_Name_PL04_Sunflower_With_Face": {
-    "message": "A Sunflower! A dangerous spore-firing plant."
+    "message": "زهرة عباد الشمس! نبتة خطيرة تقذف طلقات الطلح."
   },
   "HT_Text_Museum_Name_QC01_Pokemon": {
-    "message": "A Shell Critter! A timid little shelled reptile."
+    "message": "زحاف صدفة! من الزواحف الصغيرة الصدفية الخجولة."
   },
   "HT_Text_Museum_Name_QR04_Sak_Nose_Needler": {
     "message": "A Nose Needler! A feisty subterranean mammal."
   },
   "HT_Text_Museum_Name_QU01_Skeletal_Spider": {
-    "message": "A Skeletal Spider! Head butts enemies into submission. "
+    "message": "هيكل عنكبوت! تنطح أعدائها حتى يرضخوا لها و يستسلموا."
   },
   "HT_Text_Museum_Name_QU04_Mummy_Chihuahua": {
-    "message": "A Mummy Chihuahua! A pet that’s now undead."
+    "message": "مومياء الشيواوا! حيوان أليف صار من الأموات الأحياء."
   },
   "HT_Text_Museum_Name_QU04_Normal_Chihuahua": {
-    "message": "A Chihuahua! A popular pet amongst the rich."
+    "message": "شيواوا! حيوان أليف يحظى بشعبية لدى الأغنياء."
   },
   "HT_Text_Museum_Name_QU05_skeletal_waspspider": {
-    "message": "A Wasp Spider! Known for its nasty sting."
+    "message": "عنكبوت دبور! معروف بلدغة شنيعة."
   },
   "HT_Text_Museum_Name_QU06_Mummy_Worm": {
-    "message": "A Mummy Worm! Spits fireballs to ward off attackers."
+    "message": "مومياء دودة! تلفظ كرات نار كي تبعد المهاجمين."
   },
   "HT_Text_Museum_Name_QU09_Rat": {
-    "message": "A Rat! A dirty creature that scuttles around."
+    "message": "جرذ! كائن وسخ قذر يتسلل في كل مكان."
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "An Electric Armadillo! The most shocking of its species."
+    "message": "درعية كهربائية! خبر سلالتها نزل كالصاعقة على الكثيرين."
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Fire": {
-    "message": "A Fire Armadillo! Spins around with scorching results."
+    "message": "درعية نارية! تدور و تلتهب، مفسدة كالنار في الهشيم."
   },
   "HT_Text_Museum_Name_QR01_Cobra": {
-    "message": "A Cobra! A hooded snake with a venomous bite."
+    "message": "كوبرا! ثعبان بطوق رأس، له عضة سامة."
   },
   "HT_Text_Museum_Name_QR03_Small_Frog": {
-    "message": "A Small Frog! It’s certainly small, but also toxic."
+    "message": "ضفدع ضئيل! بالتأكيد صغير، لكنه كذلك مسموم."
   },
   "HT_Text_Museum_Name_Jewel01": {
-    "message": "Jewel of Shu"
+    "message": "جوهرة شو"
   },
   "HT_Text_Museum_Name_Jewel02": {
-    "message": "Jewel of Memphis"
+    "message": "جوهرة ممفيس"
   },
   "HT_Text_Museum_Name_Jewel03": {
-    "message": "Jewel of Edfu"
+    "message": "جوهرة إدفو"
   },
   "HT_Text_Museum_Name_Jewel04": {
-    "message": "Jewel of Wedjat"
+    "message": "جوهرة أوجات"
   },
   "HT_Text_Museum_Name_Jewel05": {
-    "message": "Jewel of Uraeus"
+    "message": "جوهرة أورايوس"
   },
   "HT_Text_Museum_Name_Jewel06": {
-    "message": "Jewel of Weni"
+    "message": "جوهرة ويني"
   },
   "HT_Text_Gen_Help_GotAbyCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>تاج أبيدوس المقدس<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotSakCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Uruk<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "حصلت على التاج المقدس من الوركاء!"
   },
   "HT_Text_Gen_Help_GotHelCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "حصلت على التاج المقدس من أون!"
   },
   "HT_Text_Gen_Help_NewNoteFirst": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A new note has been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>To view the <FC 0,128,0>Book of Sphinx<END FC><N>press <SB HT_PadAction_BOS_Show><P><ES HT_Text_ES_S_HelpText><CNTR>The <FC 0,128,0>Notes<END FC> section contains<N>important information about your quest.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>أضيفت ملحوظة جديدة إلى<N><FC 0,128,0>كتاب سفينكس<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> كي ترى <FC 0,128,0> كتاب سفينكس<END FC><N>إضغط <SB HT_PadAction_BOS_Show><P><ES HT_Text_ES_S_HelpText><CNTR> يحتوي قسم <FC 0,128,0>الملاحظات<END FC> <N>معلومات مهمة عن مغامرتك.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNote": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A new note has been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>أضيفت ملحوظة جديدة إلى <N><FC 0,128,0>كتاب سفينكس<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNotes": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>New notes have been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>أضيفت ملحوظات جديدة إلى <N><FC 0,128,0>كتاب سفينكس<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter2Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Atun Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the second <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على الأغراض التي جمعها المومياء<N>من <FC 128,64,0>قلعة الوركاء<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>تمثال آتون<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>هذا رمز ذهبي يقال أن فيه قوى سحرية.<P><ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على ثاني <FC 0,128,0>جوهرة أبيدوس مسروقة<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>سيسعد أمناء <FC 128,64,0>متحف أبيدوس<END FC>كثيرا<N>عندما يرون هذا المقتنى.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter3Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Medicine Bag<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This specially lined bag will preserve any<N>delicate medicinal ingredients placed inside.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the third <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على الأغراض التي جمعها المومياء<N> من <FC 128,64,0>قلعة الوركاء<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR> حصلت على <FC 0,128,0>كيس الدواء<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR> هذا كيس مطرز بطريقة خاصة سيحفظ جيدا<N> أي لوازم علاجية مخزونة داخله.<P><ES HT_Text_ES_S_HelpText><N><CNTR> حصلت على <FC 0,128,0>جوهرة أبيدوس المسروقة<END FC> الثالثة!<P><ES HT_Text_ES_S_HelpText><CNTR> سيسعد أمناء <FC 128,64,0>متحف أبيدوس<END FC><N> كثيرا عندما يرون هذا المقتنى.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter4Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Hands of Amun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This artifact gives Sphinx the strength to<N>push and pull extremely heavy objects.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the fourth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على الأغراض التي جمعها المومياء<N> من <FC 128,64,0>قلعة الوركاء<END FC>...<P><ES HT_Text_ES_S_HelpText><N>حصلت على <FC 0,128,0>أيادي آمون<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> يكسب هذا المقتنى سفينكس القدرة كي<N> يجذب إليه أو يدفع عنه أجساما بالغة الثقل.<P><ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>جوهرة أبيدوس المسروقة<END FC> الرابعة!<P><ES HT_Text_ES_S_HelpText><CNTR> سيسر أمناء <FC 128,64,0>متحف أبيدوس<END FC><N> كثيرا برؤية هذا المقتنى.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter5Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Royal Invitation<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This official document invites you to<N>meet with the Pharaoh of <FC 128,64,0>Heliopolis<END FC>.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the fifth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على الأغراض التي جمعها المومياء<N> من <FC 128,64,0>قلعة الوركاء<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR> حصلت على <FC 0,128,0>الدعوة الملكية<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> تدعوك هذه الوثيقة الرسمية<N> للقاء فرعون <FC 128,64,0>أون<END FC>.<P><ES HT_Text_ES_S_HelpText><N><CNTR> حصلت على <FC 0,128,0>جوهرة أبيدوس المسروقة<END FC> الخامسة!<P><ES HT_Text_ES_S_HelpText><CNTR> سيسعد أمناء <FC 128,64,0>متحف أبيدوس<END FC> كثيرا<N> عندما يرون هذا المقتنى.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter6Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Set<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>You got the sixth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على الأغراض التي جمعها المومياء <N>من <FC 128,64,0>قلعة الوركاء<END FC>... <P><ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>تاج ست المقدس<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> حصلت على <FC 0,128,0>جوهرة أبيدوس المسروقة<END FC> السادسة!<P><ES HT_Text_ES_S_HelpText><CNTR> سيسعد أمناء <FC 128,64,0>متحف أبيدوس<END FC> كثيرا<N> عندما يرون هذا المقتنى.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_AtunDisc": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is an ancient <FC 0,128,0>Atun Disc<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It is a magical point which, when passed over, imbues a mysterious energy that enables you to run at very high speed.<P><ES HT_Text_ES_S_HelpText><CNTR>Unfortunately the effect is only temporary but they should prove invaluable for getting around <FC 128,64,0>Heliopolis<END FC> more efficiently.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>هذا <FC 0,128,0>قرص أتون<END FC> عتيق!<P><ES HT_Text_ES_S_HelpText><CNTR>نقطة سحرية يقال أن المرور فوقا يفعمك بطاقة غامضة تتيح لك الجري بسرعة عالية جدا.<P><ES HT_Text_ES_S_HelpText><CNTR>للأسف فهذه الفائدة وقتية، لكن سيتضح أنها لا تقدر بثمن، عندما تحاول التجوال في <FC 128,64,0>أون<END FC> بنجاعة أكبر.<E>"
   },
   "HT_Text_Gen_Help_GotAtunEye": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found an <FC 0,128,0>Atun Eye<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It looks like it would fit into the eye<N>socket of a statue of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>عين آتون<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>كأنها تصلح لتركب في محجر عين تمثال ما.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAtunEyes04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>4 Atun Eyes<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>They look like they would fit into the eye<N>sockets of a statue of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>4 من عين آتون<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>كأنها تصلح لتركب في محجر عين تمثال ما.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotDoubleJump": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Wings of Ibis<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>With this magical artifact, Sphinx can<N>perform a second jump to reach greater<N>heights and longer distances!<P><CNTR><ES HT_Text_ES_S_HelpText>Press <SB HT_Action_Jump> to jump,<N>then press <SB HT_Action_Jump> again in mid air<N>to <FC 0,128,0>SOMERSAULT<END FC>.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>أجنحة إيبيس<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>بمعية هذا المقتنى السحري، يستطيع سفينكس<N>القفز ثانية في الجو كي يصل إرتفاعا أعلى<N>و يجتاز مسافات أطول!<P><CNTR><ES HT_Text_ES_S_HelpText>إضغط <SB HT_Action_Jump> للقفزة الأولى،<N>ثم إضغط مجددا <SB HT_Action_Jump> و أنت في الجو<N>كي تقوم بعملية <FC 0,128,0>شقلبة<END FC>.<E>"
   },
   "HT_Text_Gen_Help_GotShieldOfOsiris": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Shield of Osiris<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This magical shield was used in battle<N>by the great god Osiris himself.<P><ES HT_Text_ES_S_HelpText><CNTR>You can use the shield to protect yourself from<N>many types of enemy attacks and other hazards.<P><ES HT_Text_ES_S_HelpText><CNTR>To equip the <FC 0,128,0>Shield of Osiris<END FC> use <N><SB HT_PadAction_HUD_ShowRotator> to select the item...<P><ES HT_Text_ES_S_HelpText><CNTR>...then press the button you<N>want to assign the item to.<P><CNTR><ES HT_Text_ES_S_HelpText>Once assigned press and hold the<N>appropriate button to defend yourself.<P><ES HT_Text_ES_S_HelpText><CNTR>While defending yourself, use<N><SB HT_PadAction_PLR_MovePlr> to aim the shield.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>ترس أوزيريس<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>إستعمل المعبود العظيم أوزيريس نفسه في القتال<N>هذا الترس السحري ليتحصن من الشرور.<P><ES HT_Text_ES_S_HelpText><CNTR>يمكنك أن تدافع بالترس عن نفسك من<N>أنواع عديدة من هجمات الأعداء و الأخطار الأخرى.<P><ES HT_Text_ES_S_HelpText><CNTR>كي تلبس <FC 0,128,0>ترس أوزيريس<END FC> استعمل <N><SB HT_PadAction_HUD_ShowRotator> كي تختار العدة...<P><ES HT_Text_ES_S_HelpText><CNTR>...ثم تضغط الزر الذي تريد تعيين الزر إليه.<P><CNTR><ES HT_Text_ES_S_HelpText>بعد التعيين، اضغط مطولا الزر المناسب<N>كي تدافع عن نفسك.<P><ES HT_Text_ES_S_HelpText><CNTR>أثناء دفاعك عن نفسك، إستعمل<N><SB HT_PadAction_PLR_MovePlr>كي تصوب الترس.<E>"
   },
   "HT_Text_Gen_Help_GotBlowpipe": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The magical darts fired from this powerful tool,<N>regenerate giving you an infinite supply.<P><ES HT_Text_ES_S_HelpText><CNTR>The darts can be used to hit remote targets but they<N>are only powerful enough to damage explosive monsters.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> to assign the <FC 0,128,0>Blowpipe<END FC> to a button.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the <FC 0,128,0>Blowpipe<END FC> is assigned, press<N>the button to enter first person mode.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_FireDart> to fire.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Cancel> to exit<N>from <FC 0,128,0>Blowpipe<END FC> mode.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>تحصّلت على <FC 0,128,0>الحِملاج<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>تنطلق الأسهم السحرية من هذه الأداة القوية،<N>تتجدد تلقائيًا، مما تعطيك إمدادًا غير محدود.<P><ES HT_Text_ES_S_HelpText><CNTR>يمكن استعمال السهام في ضرب الأهداف البعيدة<N>ولكن تأثيرهم يكون أقوى فقط عند ضرب الوحوش المتفجرة.<P><ES HT_Text_ES_S_HelpText><N><CNTR>استخدم<SB HT_PadAction_HUD_ShowRotator>لتخصيص <FC 0,128,0>الحِملاج<END FC> لزر.<P><ES HT_Text_ES_S_HelpText><CNTR>بمجرد تخصيصك زرًا <FC 0,128,0>للحِملاج<END FC>، اضغط<N>الزر ليظهر منظور الشخص الأول.<P><ES HT_Text_ES_S_HelpText><CNTR>اضغط <SB HT_Action_FireDart> للإطلاق.<P><ES HT_Text_ES_S_HelpText><CNTR>اضغط <SB HT_Action_Cancel> للخروج<N>من وضع <FC 0,128,0>الحِملاج<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Hands Of Amun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This artifact gives Sphinx the strength to<N>push and pull extremely heavy objects.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>أيادي آمون<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>يعطي هذا المقتنى سفينكس القوة كي<N>يدفع عنه و يجذب إليه أجساما عظيمة الثقل.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotMummyCash": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0><SO HT_Objective_Mum_CashCollected> Onyx Scarabs<END FC> that<N>the Mummy collected in the <FC 128,64,0>Castle of Uruk<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0><SO HT_Objective_Mum_CashCollected>جعرانات العقيق<END FC><N>التي جمعها المومياء في <FC 128,64,0>قلعة الوركاء<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetlePouch": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Beetle Pouch<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This pouch enables you to carry up to<N><FC 0,128,0>20 Capture Beetles<END FC>, which can be used<N>to capture many different kinds of monster.<P><ES HT_Text_ES_S_HelpText><CNTR>To capture a monster, you must first attack it until<N>it becomes vulnerable to capture. When this is the case,<N>it will flash yellow in color.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the monster is vulnerable, release a capture beetle. Guide the beetle into the monster using <SB HT_PadAction_PLR_MoveBeetle>.<P><ES HT_Text_ES_S_HelpText><CNTR>When the beetle collides with the monster it will be captured and added to your inventory!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>جراب الخنافس<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>بهذا الكيس تقدر على حمل ما يبلغ<N><FC 0,128,0>20 خنفساء صيد<END FC> تصلح لتقبض بها على أنواع وحوش عديدة.<P><ES HT_Text_ES_S_HelpText><CNTR>للقبض على الوحش، تهاجمه حتى يصير ضعيفا<N>و يمكن إصطياده. حينها سيتوهج باللون الأصفر.<P><ES HT_Text_ES_S_HelpText><CNTR>عندما يكون ضعيفا أطلق عليه خنفساء صيد، ثم وجهها نحوه <SB HT_PadAction_PLR_MoveBeetle>.<P><ES HT_Text_ES_S_HelpText><CNTR>عندما تصيب الخنفساء ذلك الوحش، ستقبض عليه و يضاف إلى زاد أغراضك!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotScarabPurseUpgrade01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Large Scarab Bag<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can now carry up to <FC 0,128,0>900 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>كيس الجعران الكبير<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>الآن تستطيع حمل مبلغ يصل إلى <FC 0,128,0>900 جعرانا<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetleSatchel": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Beetle Satchel<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can now carry up to 50 Capture Beetles!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>جراب الخنافس<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>يمكنك الآن حمل ما يبلغ 50 خنفساء صيد!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotDartBelt": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Dart Belt<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can now carry up to 50 darts of each type!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>حزام السهام<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>كنانة على خصرك تستطيع بها حمل ما يبلغ 50 سهما للنوع الواحد!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAnkhPiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Collect four of these and a person with the right<N>skills will be able to increase your health capacity.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>قطعة عنخ ذهبية<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>إجمع منها أربعة و سيكون الشخص ذو المهارة المناسبة<N> قادرا على زيادة عداد صحتك.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAnkhContainer": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This magic artifact has increased your health capacity<N>by <FC 0,128,0>1 Ankh<END FC> and has fully replenished your health!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>عنخ ذهبي<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>زاد هذا المقتنى السحري من مقدور صحتك<N>بمقدار <FC 0,128,0>عنخ واحد<END FC> و استرد لك كامل صحتك!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_Got100Scarabs": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>100 Gold Scarabs<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Don't spend them all at once!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>100 جعران ذهبي<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>لكن إياك أن تبذرها و تنفقها دفعة واحدة!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotIceDarts": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got some <FC 0,128,0>Ice Darts<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>These magical darts can be used<N>to freeze certain types of monster.<P><ES HT_Text_ES_S_HelpText><CNTR>Once a monster is frozen, you can push or pick up<N>the block of ice depending on its size.<P><ES HT_Text_ES_S_HelpText><CNTR>You can also stand on top of the block of ice<N>to reach an otherwise inaccessible area.<P><ES HT_Text_ES_S_HelpText><CNTR>Alternatively, you can shatter the block<N>by hitting it with your blade.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على بعض <FC 0,128,0>سهام الجليد<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>تصلح هذه السهام السحرية<N>لتجمد بعض أنواع الوحوش.<P><ES HT_Text_ES_S_HelpText><CNTR>عندما يتجمد الوحش يمكنك دفعه عنك أو التقاطه<N>مثل مكعب ثلج، حسب حجمه.<P><ES HT_Text_ES_S_HelpText><CNTR>يمكنك أن تصعد فوق مكعب الثلج<N>كي تقدر على الوصول لمرتفع كان بعيد المنال.<P><ES HT_Text_ES_S_HelpText><CNTR>كما يمكنك عوضا عن ذلك تحطيم المكعب<N>لو ضربته بسيفك.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAcidDarts": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got some <FC 0,128,0>Acid Darts<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>These magically corrosive darts can be used to dissolve certain metal chains!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على بعض <FC 0,128,0>السهام الحمضية<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>تصلح هذه السهام السحرية التي تكوي و تذوب ما تصيبه كي تتآكل بسببها بعض السلاسل المعدنية!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHippyItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Parasol<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This looks perfect for providing shade<N>on hot sunny days.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>مظلة شمس<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>تبدو خير وسيلة لتتظلل تحت فيء ظلها<N>في أيام الحرارة و قيظ الصيف المشمس.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetleBreederItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Beetle Breeding Jar<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>The Beetle Breeder in the <FC 128,64,0>Bedouin Outpost<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>جرة تربية الخنافس<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>في <FC 128,64,0>مرقب البدويين<END FC> يوجد مربي خنافس<N>سيسعد كثيرا برؤية هذه الجرة و ما فيها.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotUnderwaterProjectile": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Underwater Projectiles<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can use these to hit targets and<N>certain monsters while swimming underwater!<P><ES HT_Text_ES_S_HelpText><CNTR>Simply press <SB HT_Action_UnderwaterAttack> while underwater<N>to fire a projectile in the direction you are facing.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>المقذوفات المائية<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>تصلح لتصيب بها الأهداف و بعض الوحوش<N> أثناء السباحة غوصا تحت الماء!<P><ES HT_Text_ES_S_HelpText><CNTR>يكفي أن تضغط <SB HT_Action_UnderwaterAttack> و أنت تحت الماء<N>كي تطلق مقذوفة في الإتجاه الذي تلتفت إليه.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotFastSwim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Crocodile Scales<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This ancient artifact allows you to<N>swim under water at great speed!<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_SwimFast> while under water<N>to swim with gusto!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>حراشف التمساح<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>هذا مقتنى سحري يمكنك من<N>السباحة غوصا تحت الماء بسرعة عالية!<P><ES HT_Text_ES_S_HelpText><CNTR>اضغط <SB HT_Action_SwimFast>و أنت تحت الماء<N>كي تسبح بإنطلاقة من النشاط!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundGoldKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Gold Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مفتاح ذهبي<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundGlyphKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Glyph Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مفتاح الحرف<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundCanopicVase": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Canopic Vase<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Part of the soul of Tutankhamen<N>is stored inside.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>الآنية الكانوبية<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>جزء من روح توت عنخ آمون<N>مخزون بداخلها.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundRosettaStonePiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Rosetta Stone Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The Archeologist will be very interested in this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>قطعة من حجر رشيد<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>سيشد أمرها إنتباه باحث الآثار.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>South Desert Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This opens a gate leading to<N>the <FC 128,64,0>South Desert of Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مفتاح صحراء الجنوب<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> به تستطيع فتح باب يؤدي<N> إلى <FC 128,64,0>صحراء أون الجنوبية<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Obelisk Gate Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This opens a gate leading to<N>the <FC 128,64,0>Great Obelisk of Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مفتاح باب المسلة<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> به تستطيع فتح باب يؤدي<N> إلى <FC 128,64,0>مسلة أون العظمى<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Cave Door Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This opens a stone door in a cave between<N><FC 128,64,0>Heliopolis Point<END FC> and <FC 128,64,0>South Beach<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مفتاح باب المغارة<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> به تستطيع فتح باب حجري في مغارة تتواجد<N> ما بين <FC 128,64,0>نقطة أون<END FC> و <FC 128,64,0>الشاطئ الجنوبي<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPhysiciansNote": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Physician's Note<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>It is addressed to Kemmet the Inventor<N>who lives in <FC 128,64,0>Abydos Canal<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>رسالة الطبيب<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>موجهة إلى كميت المخترع <N> الذي يعيش في <FC 128,64,0>قنال أبيدوس<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHealingHerb": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Healing Herb<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>The Physician in <FC 128,64,0>Abydos Council Chambers<END FC><N>will be most pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>عشبة علاجية<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>سيسعد جدا برؤيتها الطبيب<N>في قاعات أبيدوس الاستشارية.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAtunStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Atun Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>تمثال أتون<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>قيل أن هذا الرمز الذهبي مفعم بقوى سحرية.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHathorStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Hathor Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>تمثال حتحور<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>قيل أن هذا الرمز الذهبي لهذه المعبودة مفعم بقوى سحرية.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotMedicineBag": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Medicine Bag<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This specially lined bag will preserve any<N>delicate medicinal ingredients placed inside.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>كيس الدواء<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>هذا الكيس مطرز بطريقة خاصة كي يحفظ<N>اللوازم الطبية الحساسة التي فيه مهما كانت.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotEagleStone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Eagle Stone<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This charmed stone allows you to summon<N>a Great Eagle when stood on special points.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>حجر النسر<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> تستطيع بهذا الحجر السحري أن تنادي<N>نسرا عظيما، لو كان ذلك و أنت تقف في أماكن معينة.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotWallSection2Key": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Great Wall Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مفتاح للجدار الكبير<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotWallSection3Key": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Great Wall Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مفتاح للجدار الكبير<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NoBookOfDead": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Without the <FC 0,128,0>Book of the Dead<END FC> you are unable to summon Bas-Ket to transport the <FC 0,128,0>Canopic Vase<END FC> to the Mummy.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>بدون <FC 0,128,0>كتاب الأموات<END FC> لا يمكنك نداء بس-سلة لنقل <FC 0,128,0>الأواني الكانوبية<END FC> إلى المومياء.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NoHandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This object is much too heavy for you to move.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>هذا الجسم ثقيل عليك و لا تستطيع تحريكه.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>There is a recess for an item of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>يوجد حز يمكن إدخال غرض معين فيه.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A <FC 0,128,0>key<END FC> is needed to activate this device.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>تحتاج <FC 0,128,0>مفتاحا<END FC>لتفعيل هذا الجهاز.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>An image of a large bird is painted on this structure.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>رسمت صورة طائر كبير على هذه البناية.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The eye socket of this stone statue is empty.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>محجر عين هذا التمثال الصخري فارغ.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>That item cannot be used here.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>لا يجوز إستعمال هذا الغرض هنا.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>That key doesn't fit.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>لا يناسب المفتاح هذا المدخل.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>That <FC 0,128,0>Curse Stone<END FC> is the wrong color.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>ليس هذا <FC 0,128,0>حجر لعنة<END FC> من اللون المناسب.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>2 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>2 من أحجار اللعنة<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>كل حجر سحري من هذين فيه طاقة كامنة تتيح رفع اللعنة<N><CNTR>المسلطة على ساكن واحد من <FC 128,64,0>القصر الملعون<END FC>.<ES HT_Text_ES_E_HelpText><E> "
   },
   "HT_Text_Gen_Help_GotCurseStones02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>2 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>2 من أحجار اللعنة<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>كل حجر سحري من هذين فيه طاقة كامنة تتيح رفع اللعنة<N><CNTR>المسلطة على ساكن واحد من <FC 128,64,0>القصر الملعون<END FC>.<ES HT_Text_ES_E_HelpText><E> "
   },
   "HT_Text_Gen_Help_GotCurseStones03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>3 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>3 من أحجار اللعنة<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>كل حجر سحري من هذه فيه طاقة كامنة تتيح رفع اللعنة<N><CNTR>المسلطة على ساكن واحد من <FC 128,64,0>القصر الملعون<END FC>.<ES HT_Text_ES_E_HelpText><E> "
   },
   "HT_Text_Gen_Help_GotPortalAmuletLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Mysterious Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The strange symbols on this ancient artifact<N>indicate transport to a mysterious location.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>تميمة غامضة<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> على هذا المقتنى العتيق رموز غريبة<N> تدل أنه سينقلك إلى مكان غامض.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Abydos Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The oceanic symbols on this ancient<N>artifact indicate transport to Abydos.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>تميمة أبيدوس<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> على هذا المقتنى العتيق رموز بحرية ترمز للمحيط<N> تدل أنه سينقلك إلى أبيدوس.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Heliopolis Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The sand etched symbols on this ancient <N>artifact indicate transport to Heliopolis.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>تميمة أون<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> على هذا المقتنى العتيق رموز رملية من نقوش الصحاري<N> تدل أنه سينقلك إلى أون.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Anubis Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The symbols on this ancient artifact<N>indicate transport to Anubis Tower.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>تميمة أنوبيس<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> على هذا المقتنى العتيق رموز معلومة<N> تدل أنه سينقلك إلى برج أنوبيس.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_Portal_HaveAmulet": {
-    "message": "Show me your <FC 0,128,0>Portal Amulet<END FC>, small one, and I shall open the gates to your destiny.<E>"
+    "message": "أرني <FC 0,128,0>تميمة البوابة<END FC> التي عندك أيها الصغير و سأفتح لك أبوابا تمهد لك طريق أقدارك.<E>"
   },
   "HT_Text_Gen_Help_Portal_NoAmulet": {
-    "message": "Why do you summon me, strange creature? Without a <FC 0,128,0>Portal Amulet<END FC> I cannot allow you to pass.<E>"
+    "message": "لماذا تناديني أيها المخلوق الغريب؟ من دون <FC 0,128,0>تميمة بوابة<END FC> لن أرخص لك بالعبور.<E>"
   },
   "HT_Text_Gen_Help_Portal_AlreadyHere": {
-    "message": "What foolishness do you request of me? You are already here.<E>"
+    "message": "ما هذا الجنون الذي تطلبه مني؟ تريد مكانا أنت فيه.<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to a <FC 128,64,0>Mysterious Location<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>يقدر وثن البوابة هبتك<N> وسيمدك بوسيلة نقل إلى <FC 128,64,0>مكان غامض<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Abydos<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>يُقدِر وثن البوابة هبتك<N> وسيمدك بوسيلة نقل إلى <FC 128,64,0>أبيدوس<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedAkaria01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Akaria<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>يُقدِر وثن البوابة هبتك<N> وسيمدك بوسيلة نقل إلى <FC 128,64,0>عقاريا<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Heliopolis<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>يُقدِر وثن البوابة هبتك<N> وسيمدك بوسيلة نقل إلى <FC 128,64,0>أون<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedSakkara01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to <FC 128,64,0>Sakkara<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>يُقدِر وثن البوابة هبتك وسيمدك بوسيلة نقل إلى <FC 128,64,0>ساكارا<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedUruk01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to the <FC 128,64,0>Castle of Uruk<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>يُقدِر وثن البوابة هبتك وسيمدك بوسيلة نقل إلى <FC 128,64,0>قلعة الوركاء<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Anubis Tower<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>يُقدِر وثن البوابة هبتك<N> وسيمدك بوسيلة نقل إلى <FC 128,64,0>برج أنوبيس<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to <FC 128,64,0>Uruk Valley<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>يُقدِر وثن البوابة هبتك وسيمدك بوسيلة نقل إلى <FC 128,64,0>وادي الوركاء<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in a <FC 128,64,0>Mysterious Location<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>يهزئ وثن البوابة من حمقك.<N> و يعلمك أنك واقف في <FC 128,64,0>المكان الغامض<END FC> الذي كنت تطلب الذهاب إليه!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in <FC 128,64,0>Abydos<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>يهزئ وثن البوابة من حمقك.<N> و يعلمك أنك واقف في <FC 128,64,0>أبيدوس<END FC> التي كنت تطلب الذهاب إليها!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in <FC 128,64,0>Heliopolis<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>يهزئ وثن البوابة من حمقك.<N> و يعلمك أنك واقف في <FC 128,64,0>أون<END FC> التي كنت تطلب الذهاب إليها!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in <FC 128,64,0>Anubis Tower<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>يهزئ وثن البوابة من حمقك.<N> و يعلمك أنك واقف في <FC 128,64,0>برج أنوبيس<END FC> الذي كنت تطلب الذهاب إليه!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDenied01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God will not allow you to pass at this time...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>لن يسمح لك اله البوابة بالعبور في هذا الوقت...<E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem05": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A <FC 0,128,0>Key<END FC> is needed to open this door.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>تحتاج <FC 0,128,0>مفتاحا<END FC> لفتح هذا الباب.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Sewer_King_Challenge1": {
-    "message": "Light all of these torches around me and I will give you this ancient artifact. Be careful though; it's just as easy to extinguish them as it is to light them.<E>"
+    "message": "أضئ كل هذه المشاعل حولي، و سأعطيك هذا المقتنى العتيق. لكن إحذر، كما إنارتها سهلة فإطفاؤها سهل.<E>"
   },
   "HT_Text_Mum_Chapter1_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Wings of Ibis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>أجنحة إيبيس<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter2_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Atun Statue<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>تمثال آتون<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter3_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Medicine Bag<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>حقيبة الدواء<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter4_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Hands of Amun<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>يدي آمون<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter5_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Royal Invitation<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>دعوة ملكية <END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter1_FoundJewel1": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the first <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><W 90>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على أول <FC 0,128,0>مجوهرة مسروقة من أبيدوس<END FC>!<ES HT_Text_ES_E_HelpText><W 90>"
   },
   "HT_Text_Mum_Chapter2_FoundJewel2": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the second <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على ثاني <FC 0,128,0>مجوهرة مسروقة من أبيدوس<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter3_FoundJewel3": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the third <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على ثالث <FC 0,128,0>مجوهرة مسروقة من أبيدوس<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter4_FoundJewel4": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the fourth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>جوهرة أبيدوس المسروقة<END FC> الرابعة!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter5_FoundJewel5": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the fifth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على خامس<FC 0,128,0>مجوهرة مسروقة من أبيدوس<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter6_FoundJewel6": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the sixth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على سادس <FC 0,128,0>مجوهرة مسروقة من أبيدوس<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_GotStairsKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Stairs Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Use it to open the stairs to the well area balcony.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>مفتاح السلالم<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>تصلح لفتح السلالم التي تؤدي إلى الشرفة في منطقة البئر.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotZipHandle": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Zip Line Handle<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>You can now use the zip lines in <FC 128,64,0>Abydos<END FC><N>to get around the city.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مقبض حبل التزحلق<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>يمكنك الآن إستعمال حبال التزحلق التي في <FC 128,64,0>أبيدوس<END FC><N>كي تتمكن من التجول بسرعة في أنحاء المدينة.<ES HT_Text_ES_E_HelpText><E> "
   },
   "HT_Text_Gen_Help_GotParasol": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Parasol<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It's great for those hot sunny days.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>مظلة شمس<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>تناسب أيام الحرارة و قيظ الصيف المشمس.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Cast_Urukite1": {
-    "message": "Go away, evil creature!!! Set can kill me but he's not going to steal my soul! <E>"
+    "message": "انصرف أيها المخلوق الشرير!!! لو شاء ست قتلي فسيقدر، لكنه لن يسرق مني روحي!<E>"
   },
   "HT_Text_Mum_Cast_Urukite2": {
-    "message": "Why are you freeing me? Who are you? You don't want to kill me? <E>"
+    "message": "لماذا تطلق سراحي؟ من تكون؟ ألا تريد قتلي؟<E>"
   },
   "HT_Text_Mum_Cast_Urukite3": {
-    "message": "Hmm... you don't look so frightening outside of the cage... Why are you helping me? <E>"
+    "message": "همم... لا تبدو مخيفا كما بدا لأول وهلة، و أنت خارج القفص... لماذا تساعدني؟<E>"
   },
   "HT_Text_Mum_Cast_Urukite4": {
-    "message": "They say that I have stolen jewels from the castle, but I never did it!<P>My name is Khensu. I'm an Urukite. We were the habitants of this region before Set appeared. Our numbers are few, hidden in the castle trying to survive.<P>We've avoided Set until now because we know the region better, but that won't last long. In the end he will find us, if someone doesn't help. <E>"
+    "message": "يدعون أني سرقت جواهرا من القلعة، لكني بريء من ذلك! <P>إسمي كينسو، من سكان الوركاء. كنا سكان هذه الربوع قبل أن يظهر ست. نحن قلة عددية، نختبئ في القلعة و نستميت في محاولة البقاء.<P>تفادينا ست إلى هذا الحين لأننا نعرف المنطقة أكثر منه، لكن لن يدوم تميزنا هذا. سيجدنا طال الزمان أم قصر، إلا لو حال مغيث لنا دون ذلك المصير المشؤوم.<E>"
   },
   "HT_Text_Mum_Cast_Urukite5": {
-    "message": "Anyway, we can't remain in this room for long. Set's guards could come at any moment. Follow me. I will help you escape from this cell. <E>"
+    "message": "على أي حال، لا يمكننا التأخر في هذه الغرفة كثيرا. قد يباغتنا حرس ست في أي لحظة. إتبعني. سأساعدك على الفرار من هذه الزنزانة.<E>"
   },
   "HT_Text_Mum_Cast_Urukite6": {
-    "message": "This secret door connects with other sections of the castle. We must separate now. It is too risky for us to stay together. Good luck. <E>"
+    "message": "هذا الباب السري مرتبط بقطاعات أخرى من القلعة. مضطر أن أفارقك الآن. بقائنا مع بعض مجازفة غير محمودة. حظا موفقا.<E>"
   },
   "HT_Text_Mum_Cast_CageLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This cage requires a <FC 0,128,0>Key<END FC> to open.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR> تحتاج <FC 0,128,0>مفتاحا<END FC> لفتح هذا القفص.<ES HT_Text_ES_S_HelpText><E> "
   },
   "HT_Text_Mum_Cast_Help_FoundCageKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Cage Key<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مفتاح قفص<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
   }
 }

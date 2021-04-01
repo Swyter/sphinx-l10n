@@ -89,7 +89,7 @@ ignored_section_strings = [
 data_read = []
 
 # swy: parse the SphinxText.csv and load it as a row-major list
-with open('SphinxText.csv', 'r') as f:
+with open('SphinxText.csv', 'r', encoding='utf-8') as f:
     reader = csv.reader(f, delimiter=',', quotechar='"')
     data_read = [row for row in reader]
 
@@ -165,7 +165,7 @@ for cur in lang:
                 out = collections.OrderedDict()
 
             if out: # swy: don't sort the files so that they appear in the correct section order, simplify the marker format instead
-                with open("%s/%s.json" % (lang[cur], cur_section.replace("M_", "").lower()), 'w') as outfile:
+                with open("%s/%s.json" % (lang[cur], cur_section.replace("M_", "").lower()), 'w', encoding='utf-8') as outfile:
                     json.dump(out, outfile, indent=2, ensure_ascii=False)
 
             cur_section_count = cur_section_count + 1

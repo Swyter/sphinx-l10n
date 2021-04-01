@@ -12,7 +12,7 @@
     "message": "نعم، هي ذي، مرهوبة الجانب، قلعة الوركاء...\nلا أحد يعلم ما حقيقة ما يدور وراء تلك الجدران...\nلا أحد من الأحياء. لكن قلبي دليلي يحس بما تضمره تلك البناية الشيطانية من شرور!"
   },
   "HT_Text_Uruk_Intro_Entrance1b": {
-    "message": "Look! As you can see, the piercing fiery ray is active, and that troubles me deeply. <E>"
+    "message": "أنظر! كما ترى فالشعاع الثاقب الناري نشط فعال، و هذا يقلقني لأعمق وجداني.<E>"
   },
   "HT_Text_Uruk_Intro_Entrance1b1": {
     "message": "يُحكى في أساطير الأولين أن قوة هائلة تحمي القلعة وما يحيطها من <FC 128,64,0>الوركاء<END FC>. <P>هذه المنطقة مليئة بالفخاخ والعراقيل، ولكن لا شيء طاحن كالشعاع. <E>"
@@ -96,7 +96,7 @@
     "message": "سفينكس!! هنا! أظنني أحتاج مساعدتك...<W 60>"
   },
   "HT_Text_Urk_Intro_HorusHD54_UseRock02": {
-    "message": "Look, if you throw a rock at the animal warren over there, perhaps you'll get something useful.<E>"
+    "message": "اسمع، لو رميت صخرة على جحر الحيوانات هناك فربما ستنال شيئا مفيدا لك.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_UseSlimBurble01": {
     "message": "حذاري يا سفينكس، قد تبدو هذه الوحوش مسالمةً ولكنّ انفجارها فتّاك!<E>"
@@ -129,7 +129,7 @@
     "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>استخدم الرب العظيم أوزوريس<N>هذا السلاح القوي ذات مرة!<E>"
   },
   "HT_Text_Urk_Intro_Help_GotBlade03": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Press and hold <SB HT_Action_Attack> to perform a backhand sword slash.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Jump> then press <SB HT_Action_Attack> in mid air<N>to perform a high sword slash.<P><ES HT_Text_ES_S_HelpText><CNTR>The high sword slash is useful for striking<N>targets such as hanging lamps.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>اضغط مطولا <SB HT_Action_Attack> كي تنفذ تمزيقة سيف بظهر كفك. <P><ES HT_Text_ES_S_HelpText><CNTR> اضغط <SB HT_Action_Jump> ثم اضغط <SB HT_Action_Attack> في الجو <N> كي تنفذ تمزيقة سيف من علو. <P><ES HT_Text_ES_S_HelpText><CNTR> تمزيقة السيف من علو تفيد لضرب <N> أهداف من قبيل القناديل المعلقة.<E>"
   },
   "HT_Text_Urk_Intro_Help_GotBlade04": {
     "message": "عثرت على <FC 0,128,0>نصل أوزوريس<END FC> لكنّ أفعالك لفتت انتباه من هم في <FC 128,64,0>قلعة الوركاء<END FC>!<E>"
@@ -141,151 +141,151 @@
     "message": "قبل عدة سنوات أخفيت <FC 0,128,0>تميمة البوابة<END FC> في حافة عالية على السطح الخارجي لغرفة البوابة. <E>"
   },
   "HT_Text_Urk_Intro_Help_GotBlade07": {
-    "message": "That amulet will allow you to return swiftly and safely to our temple. <E>"
+    "message": "ستيسر لك التميمة العودة السريعة و السالمة إلى معبدنا.<E>"
   },
   "HT_Text_Urk_Intro_Help_GotBlade08": {
-    "message": "But you must hurry, Sphinx, before you suffer the same fate as Horus!<E>"
+    "message": "لكن عليك بالتعجيل يا سفينكس، قبل أن ينالك نفس مصير حورس!<E>"
   },
   "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed01": {
-    "message": "Alas, you are trapped here in the portal chamber and you do not have the correct <FC 0,128,0>Portal Amulet<END FC>. <E>"
+    "message": "هيهات، ها أنت ذا أسير في غرفة البوابة، و ليس عندك <FC 0,128,0>تميمة البوابة<END FC> المناسبة.<E>"
   },
   "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed02": {
-    "message": "We should be grateful that you are still alive. Unfortunately, the defenses of the castle are simply too strong for us. <E>"
+    "message": "الأجدر بنا أن نمتن لمجرد كونك على قيد الحياة. للأسف الشديد، فدفاعات القلعة أقوى من أن نقدر عليها.<E>"
   },
   "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed03": {
-    "message": "You failed to collect the amulet that would send you home, but I see you found another <FC 0,128,0>Mysterious Amulet<END FC>.<E>"
+    "message": "فشلت في لقط التميمة التي كانت لتنقلك إلى الديار، لكني أراك قد عثرت على <FC 0,128,0>تميمة غامضة<END FC> أخرى.<E>"
   },
   "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed04": {
-    "message": "I have no idea where it will take you but it seems you have no choice. Step up to the magic circle in front of the Portal God and use the amulet.<E>"
+    "message": "ليست لدي أي فكرة إلى أين ستنقلك هذه، لكن لا يبدو عندك أي خيار. تقدم إلى الدائرة السحرية أمام وثن البوابة، و استعمل التميمة.<E>"
   },
   "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed05": {
-    "message": "Approach the magic circle in front of the portal and use the amulet.<E>"
+    "message": "اقترب من الدائرة السحرية أمام البوابة و استعمل التميمة.<E>"
   },
   "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed06": {
-    "message": "Sphinx, I only hope it takes you to a safe destination.<E>"
+    "message": "سفينكس، كل ما عساي أن أتمنى أن تنقلك إلى وجهة آمنة.<E>"
   },
   "HT_Text_Urk_Intro_Help_GotPortalAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Portal Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This gold artifact was made to honor the Portal God.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>تحصلت على <FC 0,128,0>تميمة البوابة<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>صُنعت هذه القطعة الذهبية لتشريف وثن البوابة.<E>"
   },
   "HT_Text_Urk_Intro_Help_AmuletAccepted": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to <FC 128,64,0>Luxor<END FC>...<E>"
+    "message": "يُقدِر وثن البوابة هبتك وسيمدك بوسيلة نقل إلى <FC 128,64,0>الأقصر<END FC>...<E>"
   },
   "HT_Text_urk_intr_HorusNeedtoShowU": {
-    "message": "Oh, I forgot... you're still developing your skills... this is too high for you.<P> Try and find another way up here, I have to show you how this thing works.<P> How am I supposed to do that with you down there?<E>"
+    "message": "اوه، نسيت... أنك مازلت تشخذ مهاراتك... إن هذا لصعب للغاية عليك. حاول وجد طريقة اخرى للصعود الى هنا. يجب أن أريك طريقة التسلق. أنى لي أن أعلمك التسلق وأنت وتقف في الأسفل؟"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_Hungry ": {
-    "message": "Puagh! Far too meaty!<P>I'm starving, but I draw the line at eating anything that wears clothes! Too much fiber...<N>If only I had a few <FC 0,128,0>Coconuts<END FC>... I haven't had <FC 0,128,0>Coconut<END FC> in ages. Mmmm... just thinking about them...<E>"
+    "message": "فواع! لحم كثير! <P>أتضور جوعا، لكني لا آكل ما يرتدي الملابس. هذا خطي الأحمر! ألياف كثيرة هكذا...<N>ليت عندي بعض <FC 0,128,0>جوز الهند<END FC>... لم آكل <FC 0,128,0>جوز الهند<END FC>منذ دهور. هممم... بمجرد أن أتذكرها...<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryShort": {
-    "message": "Ohhh, I'm so hungry... I'm sure there are some <FC 0,128,0>Coconut<END FC> trees around here.<E>"
+    "message": "اوووه، أنا جائع للغاية... لابد من وجود أشجار جوز الهند بالقرب منها أنا متأكد من ذلك."
   },
   "HT_Text_urk_intr_SpittingToad_InLava_Hungry1": {
-    "message": "Hey, you with the face paint! What's that I smell on you? Is that... yes! <FC 0,128,0>Coconuts<END FC>!<P>Could I have some?<N>  <B 1> Sure, help yourself!<N>  <B 2> No! Find your own!<E>"
+    "message": "أنت يا ذا الوجه الملون! ما هذه الرائحة التي تفوح منك؟ أهي... أجل! جوز الهند! هل لي بالقليل؟ بالطبع، تفضل! لا! جد جوزك!"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes": {
-    "message": "Delicious! Thanks!<P>I could do with a few more like that. If you get me some more, I might be able to help you... <E> "
+    "message": "لذيذة! أشكرك! <P>لا أمانع بالمزيد مثلها. لو جلبت لي المزيد فربما أقدر على مساعدتك...<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryNo": {
-    "message": "Then go away and stop taunting me!<E>"
+    "message": "إذن إرحل و كف عن إزعاجي بمضايقاتك!<E>"
   },
   "HT_Text_urk_intr_HorusTalk_01": {
-    "message": "You see the statue with the dripping blood? It is said that this is the Blood of Ra himself.<P>Whoever stands under the blood will be encased in a protective shield which will allow them to walk unharmed on boiling hot lava.<P>However, it is said that the shield only lasts for a short time before wearing off.<E>"
+    "message": "رأيت التمثال الذي يقطر دما؟ يقال أنه دم رع نفسه.<P>من يقف تحت ذلك الدم سيكسى بدرع يحميه، يسمح له بالمشي على الحمم المصهورة الساخنة دون أن يصيبه أذى.<P>لكن قيل أن الدرع لا يدوم أكثر من فترة قصيرة.<E>"
   },
   "HT_Text_urk_intr_HorusTalk_StoneNear": {
-    "message": "Sphinx! Get that dirty rock away from me! <E>"
+    "message": "سفينكس! أزح عني هذه الصخرة الوسخة!<E>"
   },
   "HT_Text_urk_intr_HorusTalk_StoneThrown": {
-    "message": "Hey! You'll have someone's eye out with that! <E>"
+    "message": "رويدك! ستصيب عين شخص بهذا!<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes1": {
-    "message": "Just two more to fill me up.<E>"
+    "message": "مازال اثنان كي تملئني.<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes2": {
-    "message": "These taste so good. Just one more should do it.<E> "
+    "message": "كم طعمها لذيذ. أظن واحدة أخرى فقط تفي بالغرض.<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes3": {
-    "message": "Oh, thank you! That feels so much better!<P>Just step onto my tongue and I can help you reach where you need to go.<P>First choose the horizontal direction, then choose the vertical direction and I will spit you over to the position you have chosen.<P>Choose carefully though. If you tell me to spit you into the lava, I will do exactly as you say!<E> "
+    "message": "أه، كم أشكرك! أحس بأن أحوالي أفضل بكثير!<P>قف على لساني و سأساعدك بالوصول إلى أين تحتاج المضي.<P>أولا إختر الإتجاه الأفقي، ثم إختر الإتجاه العمودي، و سأبصقك إلى النقطة التي إخترتها.<P>لكن إختر بروية و تركيز. سأنفذ أوامرك بحذافيرها، حتى لو قلت لي أن أقذفك إلى قلب الحمم البركانية!<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_NotEnough": {
-    "message": "I'm still hungry.<E>"
+    "message": "مازلت جائعا.<E>"
   },
   "HT_Text_urk_intr_PickupCocoon": {
-    "message": "You got a Cocoon.<E>  "
+    "message": "حصلت على شرنقة.<E>"
   },
   "HT_Text_Urk_Intro_Horus_Fall01": {
-    "message": "Hmm... Thank you very much Sphinx, you've been more helpful than I expected. Now I can get to the <FC 0,128,0>Blade of Osiris<END FC>.<E>"
+    "message": "هممم... أشكرك جزيلا يا سفينكس، ساعدتني أكثر مما تصورت. و الآن سأتمكن من التوصل إلى <FC 0,128,0>نصل أوزيريس<END FC>.<E>"
   },
   "HT_Text_Urk_Intro_Horus_Fall02": {
-    "message": "What's going on? Everything is trembling... <W 60>"
+    "message": "ما الخطب؟ كل شيء يرتج...<W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall03": {
-    "message": "Look! The ray!... It's charging!!!  <W 60>"
+    "message": "أنظر! ذلك الشعاع!... قوته تشحن!!!<W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall03a": {
-    "message": "This is not good... <W 60>"
+    "message": "هذا الوضع لا يسر...<W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall04": {
-    "message": "Sphinx, this does NOT bode well!!<W 60>"
+    "message": "سفينكس، الأوضاع لا تسر بتاتا!!!<W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall05": {
-    "message": "Wow! That was lucky. Oh no... where is this thing going? Sphinx?! Sphinx!!<E>"
+    "message": "واو! نجونا بأعجوبة. أه لا... إلى أين سيذهب هذا الشيء؟ سفينكس؟! سفينكس!!<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation01": {
-    "message": "<EFF><EPO>The time I feared has arrived; the darkness prophesied will soon descend upon us... and we need to be prepared.<P>I have chosen you both because you have already proven you are my most worthy apprentices.<E>"
+    "message": "<EFF><EPO>حل ميعاد الوقت الذي خشيت وصوله، و الظلام الذي حدثت عنه النبوءات آت سيسدل ستاره علينا متساقطا... و علينا أن نتأهب لذلك اليوم.<P>اخترتكما الإثنين لأنكما برهنتما في ما تقدم من أفعالكما أنكما أجدر تلاميذي.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation01a": {
-    "message": "The mission that you are about to embark on will be a test of your strength and abilities.<E>"
+    "message": "المهمة التي ستخوضانها ستكون إمتحانا لقوتكم و قدراتكم.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation02": {
-    "message": "Prepare yourselves, for the path ahead will be highly dangerous. I cannot guarantee safe passage, or that you will return alive. <E>"
+    "message": "استعدا، لأن الطريق الذي ينتظركما سيكون بالغ الخطورة. لا أضمن لكما أن تمرا بالسلامة، أو تعودا على قيد الحياة.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation02a": {
-    "message": "But you must go of your own choosing. Now is the time to stand down if you wish.<E>"
+    "message": "لكن وجوب أن تذهبا من طوع إرادتكما. الآن وقت التنازل و الإستسلام لو كان هذا ما ترتاحان له.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation03": {
-    "message": "I see. Since you have both accepted the task, I will transport us to <FC 128,64,0>Uruk<END FC>, the land of darkness.<E>"
+    "message": "فهمت. طالما قبلتما المهمة، سأنقل جمعنا إلى <FC 128,64,0>الوركاء<END FC>، أرض الظلمات.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation04": {
-    "message": "There you will need to find the <FC 0,128,0>Blade of Osiris<END FC>, an old and powerful sword protected by the demons of <FC 128,64,0>Uruk<END FC>.<E>"
+    "message": "هناك تحتاجان العثور على <FC 0,128,0>نصل أوزيريس<END FC>، و هو سيف عتيق شديد القوة يحميه شياطين <FC 128,64,0>الوركاء<END FC>.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation05": {
     "message": "حضروا أنفسكم للرحلة...<W 90>"
   },
   "HT_Text_Urk_Intro_Geyser_Off": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This geyser is inactive. It looks like it requires<N>additional lava flow in order to blow.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>هذا الينبوع المائي الساخن ليس نشطا. يبدو كأنه يحتاج<N>المزيد من الحمم المتدفقة، قبل أن يفور.<E>"
   },
   "HT_Text_Urk_Intro_Pickup_Stone": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Notice how <SB HT_Action_PickupObject> on the top right display changes<N>when you approach certain objects or items.<P><ES HT_Text_ES_S_HelpText><CNTR>You can press <SB HT_Action_PickupObject> to pick up rocks<N>like this when you are close to them.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>لاحظ كيف<SB HT_Action_PickupObject>في أعلى يمين الشاشة يتغير <N>كلما اقتربت من بعض الأشياء أو الأغراض.<P><ES HT_Text_ES_S_HelpText><CNTR>بإمكانك ضغط <SB HT_Action_PickupObject>كي تلتقط الصخور <N> هكذا عندما تكون قريبا منها.<E>"
   },
   "HT_Text_Urk_Intro_Pushable_Stone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_Grab> to grab hold of objects...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...then use <SB HT_PadAction_PLR_MovePlr> to push or pull them.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>إضغط <SB HT_Action_Grab>كي تمسك الأشياء...<P><ES HT_Text_ES_S_HelpText><N><CNTR>... ثم <SB HT_PadAction_PLR_MovePlr> كي تدفعها عنك أو تسحبها إليك.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1a": {
-    "message": "<EFF><EPO>Welcome to <FC 128,64,0>Uruk Islands<END FC> Sphinx! My friend Imhotep told me you would be arriving.<P>I know that you are seeking the <FC 0,128,0>Sacred Crown of Uruk<END FC> which is being held by the deadly Geb Queen.<E>"
+    "message": "<EFF><EPO>مرحبا بك في <FC 128,64,0>جزر الوركاء<END FC>يا سفينكس! أخبرني صديقي إمحوتب أنك ستصل.<P>أعرف أنك تبحث عن <FC 0,128,0>تاج الوركاء المقدس<END FC>الذي بحوزة ملكة جب، عظيمة الفتك و الشرور.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1b": {
-    "message": "But first you must overcome a test of mind and body; wisdom and ability.<E>"
+    "message": "لكن قبل هذا عليك أن تجتاز إمتحانا للعقل و للجسد، أي الحكمة و المقدرة.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1c": {
-    "message": "If you are successful, it will mean that you are prepared to overcome the mighty power of the Geb Queen...<E>"
+    "message": "لو نجحت، فمعناه أنك مستعد لتتغلب على جبروت ملكة جب...<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1d": {
-    "message": "...but should you fail, a grim fate awaits you in the temple beyond those doors...<E>"
+    "message": "...لكن لو أخفقت، فستنتظرك نهاية نكراء وراء أبواب هذا المعبد...<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1e": {
-    "message": "So, do you accept this test?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "إذن، هل تقبل الإمتحان؟<N><B 1>نعم<N><B 2>لا<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fAccept": {
-    "message": "Very well then, enter the temple. If you can escape, bring me what you find.<E>"
+    "message": "جيد جيد، أعلمني لو طرأ تغيير على رأيك.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fReject": {
     "message": "كما ظننت، أنت جبان!"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestPrompt": {
-    "message": "Have you decided to take on the test?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "هل قررت خوض الإمتحان؟<N><B 1>نعم<N><B 2>لا<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestAccepted": {
-    "message": "Very well, go into the temple and if you can escape, bring me what you find.<E>"
+    "message": "جيد جدا، توغل في داخل المعبد و لو تمكنت من الهرب هات لي ما ستجده.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestRejected": {
     "message": "كما ظننت، أنت جبان!"
@@ -294,28 +294,28 @@
     "message": "فات الأوان، لا يمكنك التراجع. المعبد بانتظارك."
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestAlmostComplete": {
-    "message": "If you didn't find anything you have failed the test.<E>"
+    "message": "لو لم تجد شيئا، فمعناه أنك أخفقت في الإمتحان.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestComplete": {
-    "message": "<EFF><EPO>Ahh, you have returned! Congratulations, Sphinx! I knew that you would prevail.<P>Few people are able to survive the test of the temple.<E>"
+    "message": "<EFF><EPO>آآه، ها قد عدت! تهاني يا سفينكس! كنت واثقا أنك ستنتصر.<P>قلة هم الناجون من إمتحان المعبد.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestComplete1": {
-    "message": "<EFF><EPO>The artifact you have retrieved can be used to activate this <FC 0,128,0>Ka Ankh Firing Point<END FC>.<P>I'm sure an adventurer of your experience is well aware of the mystical mechanics of Ka Ankhs.<E>"
+    "message": "<EFF><EPO>المقتنى الذي استرددته يصلح لتنشيط <FC 0,128,0>نقطة تصويب كا عنخ<END FC>هذه.<P>أنا واثق أنه لا يخفى على مغامر متمرس من الرعيل الأول مثلك ما في أي كا عنخ من قوى ما ورائية.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestComplete2": {
-    "message": "<EFF><EPO>Before you go, a word of advice. The Geb Queen is a fearsome adversary. I doubt that you will be able to defeat her all by yourself.<P>In the heat of the battle, you should not forget that other creatures may provide you with the opportunity you require to defeat the Queen...<P>Farewell Sphinx, and good luck.<E>"
+    "message": "<EFF><EPO>قبل أن تمضي، هاك نصيحة. ملكة جب ستكون خصمة لدودة مرهوبة الجانب. يراودني الشك أنك ستقدر عليها لوحدك.<P>في خضم المعركة إياك أن تنسى أن الفرصة التي تحتاجها لهزيمة الملكة ربما تتيحها لك مخلوقات أخرى...<P>وداعا يا سفينكس، و حظا موفقا.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestCompleteAgain": {
-    "message": "You have done well Sphinx, but I cannot help you any further.<E>"
+    "message": "أحسنت صنيعا يا سفينكس، لكن لا أستطيع مساعدتك أكثر من هذا.<E>"
   },
   "HT_Text_Urk_4pat_Help_FoundBounce": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Bouncing Darts<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>These magical darts can be used to hit<N>targets which you don't have direct access to.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>السهام المتقافزة<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>هذه سهام سحرية تصلح كي تصيب بها<N>أهدافا ليست في المتناول المباشر.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Urk_4pat_Help_FoundBeetles": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Explosive Beetles<END FC>!<P>Equip them with <FC 0,128,0>directional button<END FC> like you did with the <FC 0,128,0>Blowpipe<END FC>. Once released, guide the beetle using <SB HT_PadAction_PLR_MoveBeetle>.<P>They explode on contact with monsters and walls but you can also <FC 0,128,0>RECALL<END FC> or <FC 0,128,0>DETONATE<END FC> them.<E>"
+    "message": "<N><CNTR>حصلت على <FC 0,128,0>الخنافس المتفجرة<END FC>!<P>احملها بواسطة <FC 0,128,0>زر الأسهم<END FC>كما فعلت مع <FC 0,128,0>الحملاج<END FC>. عندما تطلق الخنفس وجهه <SB HT_PadAction_PLR_MoveBeetle>. <P>ستنفجر فور ملامسة الوحوش و الجدران، لكن تستطيع كذلك <FC 0,128,0>ندائها<END FC> أو <FC 0,128,0>تفجيرها<END FC>.<E>"
   },
   "HT_Text_Urk_4pat_Help_DoubleJump": {
-    "message": "<DHP><DP>Jump higher by holding down the <FC 0,128,0>JUMP<END FC> button. Somersault by pressing the <FC 0,128,0>JUMP<END FC> button twice. <W 120>"
+    "message": "<DHP><DP>تستطيع القفز لإرتفاع أعلى بالضغط مطولا على زر <FC 0,128,0>القفز<END FC>. تستطيع الشقلبة جوا لو تضغط مرتين زر <FC 0,128,0>القفز<END FC>.<W 120>"
   },
   "HT_Text_Urk_4pat_WomanHelp1": {
     "message": "النجدة!... ساعدوني!... انقذني يا سيدي..."
@@ -330,69 +330,69 @@
     "message": "شكرا يا سيدي على نبلك..."
   },
   "HT_Text_Urk_4pat_WomanHelp5": {
-    "message": "My little brothers and I want to reward your effort...<W 60>"
+    "message": "أنا و إخوتي الصغار نريد أن نجازي مجهوداتك...<W 60>"
   },
   "HT_Text_Urk_Set_Presenation1": {
-    "message": "I have been waiting for you Sphinx, the One of prophecy. <E>"
+    "message": "انتظرتك يا سفينكس، أيها الذي تحدث عنه فأل الأسطورة.<E>"
   },
   "HT_Text_Urk_Set_Presenation2": {
-    "message": "I see that my brother Osiris is not here to face me. He is too weak for such a confrontation.<E>"
+    "message": "أرى أخي أوزيريس غائبا لا يواجهني. هو أضعف من أن يقدر على مثل هذه المواجهة.<E>"
   },
   "HT_Text_Urk_Set_Presenation3": {
-    "message": "Or perhaps he is just too cowardly to stand against me. Hahaha!! <E>"
+    "message": "أو ربما، هو أجبن و أنذل من أن يتشجع على الوقوف أمامي. هاهاها!!<E>"
   },
   "HT_Text_Urk_Set_Presenation4": {
-    "message": "You have done well to thwart my plans so far, but ultimately I will control the power of the eye of Ra. <E>"
+    "message": "أبليت البلاء الحسن حتى تتمكن من إفساد خططي بالقدر الذي حققته، لكن في نهاية المطاف ستكون السيطرة على قوة عين رع من حوزتي أنا لا محالة.<E>"
   },
   "HT_Text_Urk_Set_Presenation5": {
-    "message": "You and your undead cohort have fulfilled the prophecy thus far.<E>"
+    "message": "أنت و حشدك من اللاميتين حققتم الأسطورة حتى هذه اللحظة.<E>"
   },
   "HT_Text_Urk_Set_Presenation6": {
-    "message": "But I will see to it that the prophecy ends with your death and Osiris being destroyed by me...<E>"
+    "message": "لكني سأحرص و أتأكد بعيني أن فأل الأسطورة ستكون خاتمته على يدي، بميتتك أنت و بتدمير أوزيريس...<E>"
   },
   "HT_Text_Urk_Set_Presenation6a": {
-    "message": "FOREVER!!!!! <W 60>"
+    "message": "إلى أبد الآباد!!!!!<W 60>"
   },
   "HT_Text_Urk_Set_Presenation7": {
-    "message": "Pathetic creature, Osiris didn't tell you about my true form! Hahahahaha!!!!! <E>"
+    "message": "أيها المخلوق التعيس، حتما لم يخبرك أوزيريس عن شكلي الحقيقي! هاهاهاهاها!!!!!!<E>"
   },
   "HT_Text_Urk_Set_Presenation8": {
-    "message": "Now the time has come for you to die. <W 60>"
+    "message": "و الآن حان الوقت كي تموت.<W 60>"
   },
   "HT_Text_Urk_Set_BossDead1": {
-    "message": "Excellent, Sphinx! You saved the Mummy from Set’s hands. Set has been severely weakened, but it is not his destiny to be destroyed.<E>"
+    "message": "ممتاز يا سفينكس! أنقذت المومياء من أيادي ست. الآن ست في حالة ضعف كبيرة، لكن ليس قدره أن يدمر.<E>"
   },
   "HT_Text_Urk_Set_BossDead2": {
-    "message": "The world cannot exist without evil, just as the light of day needs to be balanced with the darkness of night. <E>"
+    "message": "العالم لا يجوز له وجود من دون الشر، مثلما نور الصباح يحتاج ظلام الليل كي تعتدل الموازين.<E>"
   },
   "HT_Text_Urk_Set_BossDead3": {
-    "message": "With Set weakened he will not be able to fight his true destiny, to unite with his brother Osiris. This will restore balance to the Godly kingdom. <E>"
+    "message": "مع ضعف ست، لن يقدر على مقاومة قدره الحقيقي، أي أن يتوحد وجوده مع أخيه أوزيريس. بهذا سيعود التوازن إلى المملكة الإلهية.<E>"
   },
   "HT_Text_Urk_Set_BossDead3a": {
-    "message": "Behold! The mighty Osiris has arrived! <E>"
+    "message": "تأملوا! وصل أوزيريس العظيم!<E>"
   },
   "HT_Text_Urk_Set_BossDead4": {
-    "message": "Finally the <FC 0,128,0>Ancient Prophecy of Ra<END FC> has been fulfilled. Light and darkness are one together. We will be able to live in harmony again. <E>"
+    "message": "أخيرا تحقق <FC 0,128,0>فأل أسطورة رع القديمة<END FC>. صار النور و الظلام كيانا مجتمعا واحدا. سنتمكن من العيش في الألفة و الإنسجام من جديد.<E>"
   },
   "HT_Text_Urk_Set_BossDead5": {
-    "message": "Sphinx and Tutankhamen, you have both been very brave to conclude this dangerous saga. <E>"
+    "message": "سفينكس و توت عنخ آمون، كنتما شجاعين للغاية حتى تمكنتما من ختام هذه الملحمة المحفوفة بالأخطار.<E>"
   },
   "HT_Text_Urk_Set_BossDead6": {
-    "message": "Sphinx, because of your actions and bravery, your name will go down in history and be remembered forever. <E>"
+    "message": "سفينكس، بسبب أعمالك و بطولاتك، سيتناقل التاريخ إسمك و لن ينساه إلى الأبد.<E>"
   },
   "HT_Text_Urk_Set_BossDead7": {
-    "message": "Tutankhamen, I can give you the last <FC 0,128,0>Canopic Vase<END FC> that will transform you back to your human shape and let you return to your kingdom.<E>"
+    "message": "توت عنخ آمون، سأعطيك <FC 0,128,0>الآنية الكانوبية<END FC>الأخيرة التي ستعيدك إلى شكلك الآدمي و تتيح لك العودة إلى مملكتك.<E>"
   },
   "HT_Text_Urk_Set_BossDead7a": {
-    "message": "<EFF><EPO>Thanks to both of you, balance will be brought to the worlds for many generations to come. <P>More dangerous adventures will come in the future for both of you. But for the moment, rest and enjoy your triumph.<P>Tutankhamen, I give you the last <FC 0,128,0>Canopic Vase<END FC> with my gratitude. <E>"
+    "message": "<EFF><EPO>بفضلكما سيعود التوازن إلى العوالم للأجيال القادمة.<P>ستعترضكما كليكما مغامرات و أخطار أخرى في المستقبل. لكن في الوقت الراهن ارتاحا و استمتعا بنصركما.<P>توت عنخ آمون، أعطيك <FC 0,128,0>الآنية الكانوبية<END FC>الأخيرة، و معها خالص إمتناني.<E>"
   },
   "HT_Text_Urk_Set_BossDead8": {
-    "message": "Don't worry Tutankhamen, there must be another way to change you back. Perhaps other worlds will hold the key to your salvation. <E>"
+    "message": "لا تقلق يا توت عنخ آمون لا بد من وجود طريقة أخرى لنعيدك إلى ما كنت عليه سابقا. ربما تحتوي عوالم أخرى مفتاح خلاصك."
   },
   "HT_Text_Urk_Set_BossDead9": {
-    "message": "We will help you find the answer...<W 180>"
+    "message": "سنساعدك على إيجاد الجواب...\n"
   },
   "HT_Text_Urk_2key_Help_FoundGlyphValuable01": {
-    "message": "<N><CNTR>You found a rare <FC 0,128,0>Gold Glyph<END FC>!<E>"
+    "message": "عثرت على نقش ذهبي نادر."
   }
 }

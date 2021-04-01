@@ -1,9 +1,9 @@
 {
   "HT_Text_Shop_AskForMore": {
-    "message": "هل تود شراء المزيد؟ لا نعم"
+    "message": "<END TT>هل تود شراء المزيد؟<N> <B 2> لا<N> <B 1>نعم<E>"
   },
   "HT_Text_Shop_BuyFireDart": {
-    "message": "إبر النار سعرها 10 جعران للقطعة.\nأتريد شراء واحدة؟\nنعم لا"
+    "message": "<END TT><I HT_Texture_Icon_FireDart><N>إبر النار سعرها <FC 0,128,0>10 جعران<END FC> للقطعة. أتريد شراء واحدة؟<N> <B 1>نعم<N> <B 2>لا<E>"
   },
   "HT_Text_Shop_BuyIceDart": {
     "message": "إبر الثلج سعرها 10 جعران للقطعة.\nأتريد شراء واحدة؟\nنعم لا"
@@ -12,10 +12,10 @@
     "message": "إبر الحمض سعرها 10 جعران للقطعة.\nأتريد شراء واحدة؟\nنعم لا"
   },
   "HT_Text_Shop_BuyRemoteControlBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_RemoteBeetle><N>Capture beetles: may contain traces of peanut. <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> for 5 beetles.Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT><I HT_Texture_Icon_RemoteBeetle><N>خنافس صيد: قد تحتوي بعض آثار الفول السوداني.<FC 0,128,0><SO HT_Objective_Shop_Price>  جعران<END FC> مقابل 5 خنافس. هل تود شراء بعضها؟<N><B 1> نعم<N><B 2> لا<E>"
   },
   "HT_Text_Shop_BuyExplosiveBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Explosive beetles: illegal in over 20 states. <FC 0,128,0>10 Scarabs<END FC> for 5 beetles. Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>خنافس متفجرة: ممنوعة في أكثر من 20 دولة.<FC 0,128,0>10 جعران<END FC> مقابل 5 خنافس. هل تريد شراء بعضها؟<N><B 1> نعم<N><B 2> لا<E>"
   },
   "HT_Text_Shop_Flex_BuyFireDart": {
     "message": "إبر النار سعرها - جعران للقطعة.\nأتريد شراء واحدة؟\nنعم لا"
@@ -27,7 +27,7 @@
     "message": "إبر الحمض سعرها - جعران للقطعة.\nأتريد شراء واحدة؟\nنعم لا"
   },
   "HT_Text_Shop_Flex_BuyExplosiveBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Explosive beetles: illegal in over 20 states. <FC 0,128,0><SO HT_Objective_Shop_Price>Scarabs<END FC> for 5 beetles.Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "خنافس متفجرة: ممنوعة في أكثر من 20 دولة. جعران مقابل 5 خنافس. هل تريد شراء بعضها؟ نعم لا"
   },
   "HT_Text_Shop_DartBelt": {
     "message": "حزام الإبر - أقصى ما يحمله 50 إبرة لكل نوع.\n- جعران"
@@ -48,118 +48,118 @@
     "message": "أعتذر منك لكن لم يتبق عندنا المزيد من هذا."
   },
   "HT_Text_Shop_IceDart": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Ice Darts<N>Shoot these at things to freeze them.<E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart>سهام جليدية<N>أطلقها على الأشياء لتجمدها.<E>"
   },
   "HT_Text_Shop_FireDart": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_FireDart> Fire Darts<N>Lets make with the arson already!<E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_FireDart>سهام نارية<N> فلنعث الحرق فيهم!<E>"
   },
   "HT_Text_Shop_AcidDart": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Acid Darts<N>Highly corrosive pipe launched projectiles.<E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart>سهام حمضية<N> مقذوفات من قصبات، كاوية بدرجة عالية، لأن آخر الدواء الكي.<E>"
   },
   "HT_Text_Shop_RemoteControlBeetle": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture beetles<N>Batteries not included.<E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle>خنفساء صيد<N> بدون بطارياتها.<E>"
   },
   "HT_Text_Shop_CaptureBeetles05": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 5<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle>خنفساء صيد × 5 <N><FC 0,128,0><SO HT_Objective_Shop_Price>جعران<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles05": {
-    "message": "<END TT>Buy 5 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>هل تشتري 5 من خنافس الصيد مقابل <FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC>؟ <N><B 2>لا <N><B 1>نعم<E>"
   },
   "HT_Text_Shop_CaptureBeetles15": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 15<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle>خنفساء صيد ×15 <N><FC 0,128,0><SO HT_Objective_Shop_Price>جعران<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles15": {
-    "message": "<END TT>Buy 15 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>هل تشتري 15 من خنافس الصيد مقابل <FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC>؟ <N><B 2>لا <N><B 1>نعم<E>"
   },
   "HT_Text_Shop_CaptureBeetles30": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 30<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle>خنفساء صيد × 30 <N><FC 0,128,0><SO HT_Objective_Shop_Price>جعران<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles30": {
-    "message": "<END TT>Buy 30 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>هل تشتري 30 من خنافس الصيد مقابل <FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC>؟ <N><B 2>لا <N><B 1>نعم<E>"
   },
   "HT_Text_Shop_BeetleSatchel": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Beetle Satchel - Holds a maximum of 50 Capture Beetles<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "حقيبة الخنافس! تحمل 50 خنفساء مصطادة كحد أقصى *جعران"
   },
   "HT_Text_Shop_BuyBeetleSatchel": {
-    "message": "<END TT>Buy Beetle Satchel for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "شراء حقيبة خنفساء مقابل * جعران؟ نعم لا"
   },
   "HT_Text_Shop_AcidDarts10": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Acid Darts x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "10 أسهم حمضة مقابل *جعران"
   },
   "HT_Text_Shop_BuyAcidDarts10": {
-    "message": "<END TT>Buy 10 Acid Darts for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "شراء 10 اسهم حمضة مقابل * جعران؟ نعم لا"
   },
   "HT_Text_Shop_IceDarts10": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Ice Darts x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "10 اسهم ثلجية مقابل * جعران"
   },
   "HT_Text_Shop_BuyIceDarts10": {
-    "message": "<END TT>Buy 10 Ice Darts for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "شراء 10 اسهم ثلجية مقابل * جعران؟ نعم لا"
   },
   "HT_Text_Shop_ExplosiveBeetle": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Explosive beetles<N>If swallowed seek medical attention immediately.<E>"
+    "message": "الخنافس المتفجرة اذا ابتلعت اطلب العناية الطبية فورا."
   },
   "HT_Text_Shop_GoldAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Gold Ankh<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
+    "message": "عنخ ذهبي  مقابل جعران عقيق"
   },
   "HT_Text_Shop_BuyGoldAnkh": {
-    "message": "<END TT>Buy Gold Ankh for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "شراء عنخ ذهبي مقابل جعران عتيق؟ نعم لا"
   },
   "HT_Text_Shop_GoldAnkhPiece": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhPiece> Gold Ankh Piece<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
+    "message": "قطعة عنخ ذهبية مقابل جعران عتيق"
   },
   "HT_Text_Shop_BuyGoldAnkhPiece": {
-    "message": "<END TT>Buy Gold Ankh Piece for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "شراء قطعة عنخ ذهبية مقابل جعران ذهبي؟ نعم لا"
   },
   "HT_Text_Shop_GateKey03": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GlyphKey02> Cave Door Key<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
+    "message": "مفتاح باب المغارة مقابل جعران عتيق"
   },
   "HT_Text_Shop_BuyGateKey03": {
-    "message": "<END TT>Buy Cave Door Key for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "شراء مفتاح باب المغارة مقابل جعران عتيق؟ نعم لا"
   },
   "HT_Text_Shop_AtunEyes04": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Atun Eye x 4<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye>x 4 عين أتون<N><FC 0,128,0><SO HT_Objective_Shop_Price> جعران عقيق<END FC><E>"
   },
   "HT_Text_Shop_BuyAtunEyes04": {
-    "message": "<END TT>Buy 4 Atun Eyes for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "اشتر 4 أعين أتون مقابل <FC 0,128,0><SO HT_Objective_Shop_Price> جعران عقيق<END FC>؟<N>  <B 2>لا<N>  <B 1>نعم<E>"
   },
   "HT_Text_Shop_Burble": {
-    "message": "<DHP><DP><END TT>Mummy Bird<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>مومياء طائر<N><FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC><E>"
   },
   "HT_Text_Shop_BuyBurble": {
-    "message": "<END TT>Mummy Birds cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>ثمن مومياء طائر واحدة <FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC> . أترغب في شراء واحدة؟<N>  <B 2>لا<N>  <B 1> نعم<E>"
   },
   "HT_Text_Shop_Pokemon": {
-    "message": "<DHP><DP><END TT>Shell Critter<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>متقوقع<N><FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC><E>"
   },
   "HT_Text_Shop_BuyPokemon": {
-    "message": "<END TT>Shell Critters cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>ثمن متقوقع واحد <FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC>. أترغب في شراء واحد؟<N>  <B 2> لا<N>  <B 1> نعم<E>"
   },
   "HT_Text_Shop_Rat": {
-    "message": "<DHP><DP><END TT>Rat<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>جرذ<N><FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC><E>"
   },
   "HT_Text_Shop_BuyRat": {
-    "message": "<END TT>Rats cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>ثمن الجرذ الواحد<FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC>. أترغب في شراء واحد؟<N>  <B 2> لا<N>  <B 1> نعم<E>"
   },
   "HT_Text_Shop_Armadillo": {
-    "message": "<DHP><DP><END TT>Shuttlecock Bird<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>طائر الجُمَّاح<N><FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC><E>"
   },
   "HT_Text_Shop_BuyArmadillo": {
-    "message": "<END TT>Shuttlecocks cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>ثمن الجُمَّاح الواحد <FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC>. أترغب في شراء واحد؟<N>  <B 2> لا<N>  <B 1> نعم<E>"
   },
   "HT_Text_Shop_Lizard": {
-    "message": "<DHP><DP><END TT>Featherless Turkey<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>ديك رومي بلا ريش<N><FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC><E>"
   },
   "HT_Text_Shop_BuyLizard": {
-    "message": "<END TT>Turkeys cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>ثمن الديك الرومي الواحد <FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC>. أترغب في شراء واحد؟<N>  <B 2> لا<N>  <B 1> نعم<E>"
   },
   "HT_Text_Shop_Piranha": {
-    "message": "<DHP><DP><END TT>Small Frog<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>ضفدع صغير<N><FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC><E>"
   },
   "HT_Text_Shop_BuyPiranha": {
-    "message": "<END TT>Frogs cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>ثمن الضفدع الواحد <FC 0,128,0><SO HT_Objective_Shop_Price> جعران<END FC>. أترغب في شراء واحد؟<N>  <B 2> لا<N>  <B 1> نعم<E>"
   },
   "HT_Text_Shop_BuyMonster": {
-    "message": "<END TT>That's a fine specimen, I'll give you <SO HT_Objective_Shop_Price> for it.<N>  <B 2> No way<N>  <B 1> It's a deal<E>"
+    "message": "<END TT>هذه عينة جيّدة، سأعطيك <SO HT_Objective_Shop_Price> مقابلها.<N>  <B 2> لا شكرًا<N>  <B 1> اتفقنا<E>"
   },
   "HT_Text_Shop_SuitYourself": {
     "message": "كما تشاء. العرض دوما مفتوح متى غيرت رأيك..."
