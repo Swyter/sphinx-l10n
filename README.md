@@ -15,15 +15,15 @@ Fan translation scripts and mod content for Sphinx and the Cursed Mummy.
 * It works more or less like this:
 
 ```
-┌────────────────────────┐  ┌─────┐                            ┌──────────────────────────────────────┐ 
-│ SphinxText.xls         │->│.CSV │-> sphinx-l10n-export.py -> │ JSON files compatible with Transifex │
-└────────────────────────┘  └─────┘                            └──────────────────────────────────────┘
-┌────────────────────────┐  ┌─────┐                            /      V                   Λ
-│ SphinxTextImported.xls │<-│.CSV │<- sphinx-l10n-import.py <-´       |                   |
-└────────────────────────┘  └─────┘                                  PUSH ┌───────────┐ PULL
-                                                                       \__│ TRANSIFEX │__/
-                                                                          └───────────┘ 
-                                                                       (with tx.cmd/tx.sh)
+┌───────────────────────┐  ┌─────┐                            ┌──────────────────────────────────────┐
+│SphinxText.xls         │->│.CSV │-> sphinx-l10n-export.py -> │ JSON files compatible with Transifex │
+└───────────────────────┘  └─────┘                            └──────────────────────────────────────┘
+┌───────────────────────┐  ┌─────┐                            /      V                   Λ
+│SphinxTextImported.xls │<-│.CSV │<- sphinx-l10n-import.py <-´       |                   |
+└───────────────────────┘  └─────┘                                  PUSH ┌───────────┐ PULL
+                                                                      \__│ TRANSIFEX │__/
+                                                                         └───────────┘
+                                                                      (with tx.cmd/tx.sh)
 ```
 
 
@@ -38,8 +38,8 @@ tx.sh && python sphinx-l10n-import.py && ssconvert SphinxTextImported.csv Sphinx
 >  2. `sphinx-l10n-import.py` turns the local language JSON files into a single CSV file for all
 >      the languages, by using the local `SphinxText.csv` as template.
 >  3. `ssconvert` turns the CSV into a ready-to-use replacement of `SphinxText.xls`. Called `SphinxTextImported.xls`.
-  
-  
+
+
  # Making a mod
 
 Rename your file to `SphinxText.xls`, place it in `X:\Sphinx\Grafix\Spreadsheets\SphinxText.xls`, open `Text.elf` with Euroland Redux and output (export) the PC version of `Text.edb`, the game will read it and you can ship it as a mod.
