@@ -24,9 +24,9 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Essa é a vida do seu monstro. Se o seu monstro perder toda sua vida, você não será mais capaz de soltar um monstro desse tipo - Até que você capture outro, é claro!<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_NoMoves": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Você não tem movimentos para selecionar.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Você não têm movimentos para selecionar.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_NoMonsters": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Você não tem nenhum monstro.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Você não tem nenhum monstro no momento.<ES HT_Text_ES_E_BOSStd>"
   }
 }

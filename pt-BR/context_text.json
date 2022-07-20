@@ -1,6 +1,6 @@
 {
   "HT_Text_Context_UseItem": {
-    "message": "USAR ITEM"
+    "message": "USAR"
   },
   "HT_Text_Context_Use": {
     "message": "USAR"
@@ -12,13 +12,13 @@
     "message": "PUXAR"
   },
   "HT_Text_Context_Lever": {
-    "message": "USAR ALAVANCA"
+    "message": "USAR"
   },
   "HT_Text_Context_OpenDoor": {
     "message": "ABRIR"
   },
   "HT_Text_Context_PickupObject": {
-    "message": "PEGAR"
+    "message": "COLETAR"
   },
   "HT_Text_Context_SavePoint": {
     "message": "SALVAR"
@@ -42,7 +42,7 @@
     "message": "CLONAR"
   },
   "HT_Text_Context_Invisibility": {
-    "message": "INVISÍVEL"
+    "message": "INVIS."
   },
   "HT_Text_Context_Hide": {
     "message": "ESCONDER"
@@ -63,7 +63,7 @@
     "message": "RETIRAR"
   },
   "HT_Text_Context_Directed": {
-    "message": "DIRIGIDO"
+    "message": "DIRECIONADO"
   },
   "HT_Text_Context_Cancel": {
     "message": "CANCELAR"
@@ -81,13 +81,13 @@
     "message": "BESOURO"
   },
   "HT_Text_Context_Throw": {
-    "message": "ATIRAR"
+    "message": "LANÇAR"
   },
   "HT_Text_Context_Drop": {
     "message": "SOLTAR"
   },
   "HT_Text_Context_FireDart": {
-    "message": "FOGO"
+    "message": "ATIRAR"
   },
   "HT_Text_Context_FirstPerson": {
     "message": "1ª PESSOA"
@@ -108,10 +108,10 @@
     "message": "HORIZONTAL"
   },
   "HT_Text_Context_Flap": {
-    "message": "BATER"
+    "message": "BATER ASA"
   },
   "HT_Text_Context_Enter": {
-    "message": "INTRODUZIR"
+    "message": "ENTRAR"
   },
   "HT_Text_Context_Grow": {
     "message": "CRESCER"
@@ -126,7 +126,7 @@
     "message": "RASTEJAR"
   },
   "HT_Text_Context_MummyStandUp": {
-    "message": "EM PÉ"
+    "message": "DE PÉ"
   },
   "HT_Text_Context_Dive": {
     "message": "MERGULHAR"
@@ -144,7 +144,7 @@
     "message": "ESGUEIRAR"
   },
   "HT_Text_Context_Take": {
-    "message": "LEVAR"
+    "message": "PEGAR"
   },
   "HT_Text_Context_DJump": {
     "message": "SALTO MORTAL"

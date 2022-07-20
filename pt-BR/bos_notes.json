@@ -9,7 +9,7 @@
     "message": "Colete os Amuletos Antigos"
   },
   "HT_Text_NoteTitle_GetToHeliopolis01": {
-    "message": "Busque transporte para Heliópolis"
+    "message": "Busque um meio de transporte até Heliópolis"
   },
   "HT_Text_NoteTitle_FindPearls01": {
     "message": "Encontre 3 Pérolas Abydosianas"
@@ -108,7 +108,7 @@
     "message": "Derrote Set em Uruk"
   },
   "HT_Text_Note_FindBlade01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Sua primeira missão é encontrar a Espada de Osíris. Essa poderosa arma desapareceu há muito tempo atrás nos arredores inóspitos do Castelo de Uruk.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Sua primeira missão é encontrar a Espada de Osíris, perdida há eras. Essa poderosa arma desapareceu há muito tempo atrás nos arredores inóspitos do Castelo de Uruk.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetLetter01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Recupere a carta de Nefertiti e a retorne para ela.<ES HT_Text_ES_E_BOSStd><E>"
@@ -117,25 +117,25 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Colete os 8 Amuletos Antigos e os retorne para sua tia Seti.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetToHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Quando você tiver usado o Amuleto de Abydos, Imhotep quer que você busque transporte para Heliópolis e encontre com ele assim que possível.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Quando tiver usado o Amuleto de Abydos, Imhotep quer que você busque transporte até Heliópolis e se encontre com ele assim que possível.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindPearls01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Encontre 3 Pérolas e dê elas ao homem Abydosiano.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Encontre 3 Pérolas e as dê para o homem Abydosiano.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_DonateMuseum01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>O Curador do Museu de Abydos está oferecendo um presente quando você fizer sua primeira doação.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>O Curador do Museu de Abydos está oferecendo um presente para quando você fizer sua primeira doação.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetAbydosPasscard01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Os Guardas no Canal de Abydos não permitem o acesso às Câmaras do Conselho. Talvez você deva retornar para Abydos mais tarde em sua jornada, quando possuir uma identificação adequada.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindImhotep01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep pode ser encontrado na ilha do Santuário do Sol. Visite-o e descubra que informação ele tem para você.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep pode ser encontrado na ilha do Santuário do Sol. Visite-o e descubra que informações ele têm para você.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetBookOfTheDead01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Encontre o Livro dos Mortos para que você possa invocar Ces-To quando encontrar um Vaso Canópico. Imhotep acredita que o livro está sendo mantido no Palácio Amaldiçoado.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitAnubis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Anúbis é o responsável por amaldiçoar os habitantes do Palácio Amaldiçoado. Com as Asas de Ibis você pode entrar na Entrada da Grande Muralha I e fazer uma visita a Anúbis.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Anúbis é o responsável por amaldiçoar os habitantes do Palácio Amaldiçoado. Com as Asas de Íbis você pode entrar na Entrada da Grande Muralha I e fazer uma visita a Anúbis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_AnubisQuest01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Capture 3 Tatus de Fogo usando Besouros de Captura e leve-os até Anúbis.<ES HT_Text_ES_E_BOSStd><E>"
@@ -150,19 +150,19 @@
     "message": "<ES HT_Text_ES_S_BOSStd>O campo de força que aprisiona a esposa do Nômade parece ser alimentado por três feixes coloridos. Encontre um meio de desativá-los.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitImhotep01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep solicitou que você vá e fale com ele no Santuário do Sol.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Imhotep solicitou que você vá falar com ele no Santuário do Sol.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CrownQuest01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar a Coroa Sagrada de Abydos e retorná-la para Anúbis em Heliópolis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MayorIll01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Aparentemente o Prefeito está seriamente doente. Talvez as pessoas no Conselho de Abydos poderiam usar sua ajuda.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Aparentemente o Prefeito está seriamente doente. Talvez as pessoas no Conselho de Abydos possam usar sua ajuda.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallCanalCreatures01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>O Guarda próximo à entrada para o Canal Estreito te ofereceu um Amuleto de Portal se você limpar a área dos monstros.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>O Guarda próximo à entrada para o Canal Estreito te ofereceu um Amuleto de Portal caso você consiga limpar a área de monstros.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CureMayor01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar 5 Ervas Medicinais e trazê-las ao médico nas Câmaras do Conselho de Abydos.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Com as ervas o médico deverá ser capaz de preparar uma cura para a doença misteriosa do Prefeito.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar 5 Ervas Medicinais e trazê-las ao médico nas Câmaras do Conselho de Abydos.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Com as ervas, o médico deverá ser capaz de preparar uma cura para a doença misteriosa do Prefeito.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitKemmet01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Você deve entregar o bilhete do Médico para Kemmet, que vive próximo ao Grande Canal. Ele pode ser capaz de ajudá-lo a encontrar as Ervas Medicinais.<ES HT_Text_ES_E_BOSStd><E>"
@@ -177,10 +177,10 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Encontre a entrada para o Templo Perdido de Heliópolis. A esposa do Faraó acredita que ele se encontra no Deserto Sul de Heliópolis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CollectRosettaPieces01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Encontre as 6 peças da Pedra de Roseta escondidas dentro do Templo Perdido de Heliópolis e traga-as para o Arqueólogo.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Encontre as 6 peças da Pedra de Roseta escondidas dentro do Templo Perdido de Heliópolis e leve-as para o Arqueólogo.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MeetArchaeologist01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Verifique as descobertas do Arqueólogo no Povoado de Bedouin. O povoado pode ser encontrado nadando pela passagem subaquática do Palácio Amaldiçoado.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Verifique as descobertas do Arqueólogo no Povoado de Bedouin. O povoado pode ser encontrado ao nadar pela passagem subaquática do Palácio Amaldiçoado.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_TranslateObelisks01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Use a Pedra de Roseta para traduzir os 5 Grandes Obeliscos de Heliópolis e relate seus achados para o Arqueólogo no Povoado de Bedouin.<ES HT_Text_ES_E_BOSStd><E>"
@@ -210,7 +210,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Você deve encontrar a Coroa Sagrada de Heliópolis e retorná-la para Anúbis.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MotherQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Capture os cães no Palácio Amaldiçoado de Heliópolis e retorne-os a sua dona.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Capture os cães no Palácio Amaldiçoado de Heliópolis e retorne-os para sua dona.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_DefeatSeth01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Seu destino final é encarar Set no mundo devastado de Uruk.<ES HT_Text_ES_E_BOSStd><E>"
@@ -225,18 +225,18 @@
     "message": "Encontre o Palácio de Set."
   },
   "HT_Text_Notes_Test_D2": {
-    "message": "<FC 100,100,60>Set tem se escondido em seu palácio secreto enquanto orquestra a destruição de Heliópolos...<END FC><P><FC 100,100,60>Você deve encontrar seu lar e colocar um fim em seus planos...<END FC><P><FC 100,100,60>Para encontrar o local do palácio secreto você precisará falar com o ancião do vilarejo Hittite. Traga-o um pouco de uísque para soltar sua língua.<END FC>"
+    "message": "<FC 100,100,60>Set tem se escondido em seu palácio secreto enquanto orquestra a destruição de Heliópolis...<END FC><P><FC 100,100,60>Você deve encontrar seu lar e colocar um fim em seus planos...<END FC><P><FC 100,100,60>Para encontrar o local de seu palácio secreto você precisará falar com o ancião do vilarejo Hittite. Traga-o um pouco de uísque para soltar sua língua.<END FC>"
   },
   "HT_Text_Notes_Test_T3": {
     "message": "Entregue a mensagem do Rei Sobek de Akaria."
   },
   "HT_Text_Notes_Test_D3": {
-    "message": "<FC 100,100,60>Após descobrir o esquema de Ishka para incentivar uma guerra entre o povo de Abydos e Akaria...<END FC><P><FC 100,100,60>O Rei Sobek precisa de sua ajuda para entregar uma nota de trégua para o Prefeito de Abydos.<END FC>"
+    "message": "<FC 100,100,60>Após descobrir o esquema de Ishka que incentiva uma guerra entre o povo de Abydos e Akaria...<END FC><P><FC 100,100,60>O Rei Sobek precisa de sua ajuda para entregar uma nota de trégua para o Prefeito de Abydos.<END FC>"
   },
   "HT_Text_Notes_Test_T4": {
     "message": "Encontre uma cura para o Prefeito."
   },
   "HT_Text_Notes_Test_D4": {
-    "message": "<FC 100,100,60>O Prefeito de Abydos está doente. Você precisará falar com o Médico sobre encontrar uma cura...<END FC><P><FC 100,100,60>O Médico vive no canal que divide a parte norte e sul de Abydos.<END FC>"
+    "message": "<FC 100,100,60>O Prefeito de Abydos está doente. Você precisará falar com o Médico sobre encontrar uma cura...<END FC><P><FC 100,100,60>O Médico vive no canal que divide as partes norte e sul de Abydos.<END FC>"
   }
 }

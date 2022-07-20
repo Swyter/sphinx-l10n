@@ -54,7 +54,7 @@
     "message": "INVERTER VERTICAL 1ª PESSOA"
   },
   "HT_Text_FE_Menu_OK": {
-    "message": "ACEITAR"
+    "message": "OK"
   },
   "HT_Text_FE_Menu_Cancel": {
     "message": "CANCELAR"
@@ -81,10 +81,10 @@
     "message": "MODO DE SOM"
   },
   "HT_Text_FE_Menu_On": {
-    "message": "SIM"
+    "message": "ON"
   },
   "HT_Text_FE_Menu_Off": {
-    "message": "NÃO"
+    "message": "OFF"
   },
   "HT_Text_OptionsMenu_Back": {
     "message": "VOLTAR"
@@ -126,10 +126,10 @@
     "message": "Aperte um botão para continuar"
   },
   "HT_Text_FE_Bonus1_Title": {
-    "message": "O Making Of de Sphinx"
+    "message": "A criação de Sphinx"
   },
   "HT_Text_FE_Bonus1_Description": {
-    "message": "Veja por trás das cenas no Making Of de Sphinx e a Maldição da Múmia"
+    "message": "Veja por trás das cenas da criação de Sphinx e a Maldição da Múmia"
   },
   "HT_Text_FE_Bonus2_Title": {
     "message": "Trailer de Sphinx"
@@ -147,13 +147,13 @@
     "message": "SPHINX C"
   },
   "HT_Text_FE_Menu_SaveSlotA_XB": {
-    "message": "Sphinx A"
+    "message": "SPHINX A"
   },
   "HT_Text_FE_Menu_SaveSlotB_XB": {
-    "message": "Sphinx B"
+    "message": "SPHINX B"
   },
   "HT_Text_FE_Menu_SaveSlotC_XB": {
-    "message": "Sphinx C"
+    "message": "SPHINX C"
   },
   "HT_Text_FE_Menu_SaveSlotNone": {
     "message": "Continuar sem salvar"
@@ -186,7 +186,7 @@
     "message": "SIM"
   },
   "HT_Text_MemCard_PromptOK": {
-    "message": "ACEITAR"
+    "message": "OK"
   },
   "HT_Text_MemCard_PromptRetry": {
     "message": "TENTAR NOVAMENTE"
@@ -195,7 +195,7 @@
     "message": "CANCELAR"
   },
   "HT_Text_MemCard_PromptHaventSaved_XB": {
-    "message": "Você tem certeza de que quer continuar sem salvar?"
+    "message": "Você tem certeza que quer continuar sem salvar?"
   },
   "HT_Text_MemCard_GameName": {
     "message": "SPHINX"
@@ -204,7 +204,7 @@
     "message": "Pausado"
   },
   "HT_Text_Paused_XB": {
-    "message": "Pressione START para continuar."
+    "message": "Aperte START para continuar."
   },
   "HT_Text_Paused_GC": {
     "message": "Pausado"
@@ -216,13 +216,13 @@
     "message": "Nenhum controle inserido na porta de controle (MISSINGPAD). Reinsira um controle analógico (DUALSHOCK®) ou um controle analógico (DUALSHOCK®2) para continuar."
   },
   "HT_Text_ReplacePadPrompt_XB_Start": {
-    "message": "Para continuar, reconecte o controle à porta (MISSINGPAD) e pressione START."
+    "message": "Para continuar, reconecte o controle à porta (MISSINGPAD) e aperte START."
   },
   "HT_Text_ReplacePadPrompt_XB": {
     "message": "Reconecte o controle à porta (MISSINGPAD)."
   },
   "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
-    "message": "Você não poderá salvar seu progresso ou opções em nenhum ponto do jogo. Você tem certeza de que deseja continuar?"
+    "message": "Você não poderá salvar seu progresso ou opções em nenhum ponto do jogo. Você tem certeza que deseja continuar?"
   },
   "HT_Text_DeathScreen_Continue": {
     "message": "CONTINUAR"
@@ -234,7 +234,7 @@
     "message": "FIM DE JOGO"
   },
   "HT_Text_OptionsMenu_Reset": {
-    "message": "RESTAURAR"
+    "message": "RESETAR"
   },
   "HT_Text_ScreenAdjustText_PS2": {
     "message": "Ajuste a tela com\\nos botões direcionais."
@@ -261,7 +261,7 @@
     "message": "O memory card (PS2) na porta MEMORY\\nCARD 1 não está formatado.\\nFormatar o memory card (PS2)?"
   },
   "HT_Text_Memcard_NoDirectory": {
-    "message": "O memory card (PS2) na porta\\nMEMORY CARD 1\\nnão contém uma pasta Sphinx. \\nCriar uma pasta Sphinx?"
+    "message": "O memory card (PS2) na porta MEMORY\\nCARD 1 não contém\\numa pasta Sphinx.\\nCriar uma pasta Sphinx?"
   },
   "HT_Text_Memcard_FormatComplete": {
     "message": "Formatação bem sucedida."
@@ -378,7 +378,7 @@
     "message": "MÚMIA=@=CASTELO=DE=URUK"
   },
   "HT_Text_Menu_Making": {
-    "message": "O=MAKING=OF=:=:=:"
+    "message": "A=CRIAÇÃO=:=:=:"
   },
   "HT_Text_Menu_Trailer": {
     "message": "TRAILER"
@@ -390,10 +390,10 @@
     "message": "CONTINUAR"
   },
   "HT_Text_Menu_Rumble": {
-    "message": "VIBRAÇÃO==SIM"
+    "message": "VIBRAÇÃO==ON"
   },
   "HT_Text_Menu_RumbleOff": {
-    "message": "VIBRAÇÃO==NÃO"
+    "message": "VIBRAÇÃO==OFF"
   },
   "HT_Text_Menu_StartDemo": {
     "message": "JOGAR=DEMO"
@@ -426,10 +426,10 @@
     "message": "AJUSTAR=TELA"
   },
   "HT_Text_Menu_WidescreenON": {
-    "message": "WIDESCREEN==SIM"
+    "message": "WIDESCREEN==ON"
   },
   "HT_Text_Menu_WidescreenOFF": {
-    "message": "WIDESCREEN==NÃO"
+    "message": "WIDESCREEN==OFF"
   },
   "HT_Text_Menu_Volume": {
     "message": "VOLUME"
@@ -492,22 +492,22 @@
     "message": " Káraves"
   },
   "HT_Text_Menu_InvertON": {
-    "message": "INVERTER=CÂMERA==SIM"
+    "message": "INVERTER=CÂMERA==ON"
   },
   "HT_Text_Menu_InvertOFF": {
-    "message": "INVERTER=CÂMERA==NÃO"
+    "message": "INVERTER=CÂMERA==OFF"
   },
   "HT_Text_Menu_SwapXYON": {
-    "message": "TROCAR=CÂMERA=X==SIM"
+    "message": "TROCAR=CÂMERA=X==ON"
   },
   "HT_Text_Menu_SwapXYOFF": {
-    "message": "TROCAR=CÂMERA=X==NÃO"
+    "message": "TROCAR=CÂMERA=X==OFF"
   },
   "HT_Text_Menu_Cancel": {
     "message": "CANCELAR"
   },
   "HT_Text_Menu_Reset": {
-    "message": "RESTAURAR"
+    "message": "RESETAR"
   },
   "HT_Text_FE_Menu_ToggleReverb": {
     "message": "REVERBERAÇÃO"
