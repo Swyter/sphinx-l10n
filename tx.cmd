@@ -12,7 +12,7 @@ MODE CON: COLS=110
 ::tx push -s -r sphinx-l10n.main_inv_description --skip
 
 ::pull latest translations
-tx pull -a -f --skip --minimum-perc=3 --mode=reviewer
+tx pull -a -f --skip --minimum-perc=3 --workers 20 --silent
 
-pause
+echo Done! && pause
 cls && goto :up
