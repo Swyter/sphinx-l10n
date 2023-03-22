@@ -3,7 +3,7 @@ Fan translation scripts and mod content for Sphinx and the Cursed Mummy.
 
 > Like most people, if you only need to translate you can skip all this and help by joining the
 > Transifex project and then edit your translation from the web interface. That's it:
-> http://transifex.com/projects/p/sphinx-l10n
+> https://transifex.com/swyter/sphinx-l10n
 
 
 # How to use
