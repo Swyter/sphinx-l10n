@@ -12,7 +12,7 @@
     "message": "<EFF><EPO>Sim, aquele é o infame <FC 128,64,0>Castelo de Uruk<END FC>...<P>Ninguém sabe o que se passa além dessas paredes... ninguém vivo, pelo menos. Mas eu consigo sentir claramente a natureza maligna daquela construção monstruosa!<E>"
   },
   "HT_Text_Uruk_Intro_Entrance1b": {
-    "message": "Olhe! Como pode ver, o perfurante raio de fogo está ativo, e isso me preocupa profundamente.<E>"
+    "message": "Vejam! Como podem ver, o perfurante raio flamejante está ativo, e isso me preocupa profundamente.<E>"
   },
   "HT_Text_Uruk_Intro_Entrance1b1": {
     "message": "<EFF><EPO>A lenda nos diz que ele protege o castelo e os arredores de <FC 128,64,0>Uruk<END FC> com um poder formidável.<P>Essa área é cheia de armadilhas e obstáculos, mas nada é tão devastador quanto o raio. <E>"
@@ -27,10 +27,10 @@
     "message": "Agora, vocês precisam se separar aqui. Hórus irá continuar pelas colinas de <FC 128,64,0>Uruk<END FC> e você, Sphinx, deve vir por este portal. <E>"
   },
   "HT_Text_Uruk_Intro_Entrance1d": {
-    "message": "Boa sorte em sua jornada, meus valentes jovens aventureiros!<W 60>"
+    "message": "Boa sorte em sua jornada, meus bravos jovens aventureiros!<W 60>"
   },
   "HT_Text_Uruk_Intro_Entrance2a": {
-    "message": "Acho que estou vendo algo interessante na estrutura de pedra por ali. Eu vou lá investigar. Você olha essa área.<E>"
+    "message": "Acho que avistei algo interessante na estrutura de pedra logo ali. Eu vou lá investigar. Você olha essa área.<E>"
   },
   "HT_Text_Uruk_Intro_Entrance2a1THQ": {
     "message": "Ótimo. Hora de ação. Estava ficando entediado com toda aquela conversa. Eu vou por baixo e vejo o que posso encontrar; você vai por aquela porta. Nos encontramos em <FC 128,64,0>Heliópolis<END FC>. <E>"
@@ -231,10 +231,10 @@
     "message": "Ufa! Que sorte. Ah não, para onde essa coisa está indo? Sphinx?! Sphinx!!<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation01": {
-    "message": "<EFF><EPO>O momento que eu temia chegou. A escuridão da profecia em breve cairá sobre nós... e devemos estar preparados.<P>Eu escolhi ambos vocês pois já demonstraram que são dignos de serem meus aprendizes.<E>"
+    "message": "<EFF><EPO>O momento que eu temia chegou. A escuridão da profecia em breve cairá sobre nós... e devemos estar preparados.<P>Eu escolhi vocês dois pois já demonstraram que são dignos de serem meus aprendizes.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation01a": {
-    "message": "A missão da qual estão prestes a embarcarem será um teste de vossa força e habilidade.<E>"
+    "message": "A missão em que estão prestes a embarcar será um teste de sua força e habilidade.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation02": {
     "message": "Estejam preparados, pois o caminho à frente será altamente perigoso. Não posso lhes garantir segurança, nem que retornarão com vida. <E>"
@@ -243,7 +243,7 @@
     "message": "Mas vocês devem decidir ir por vontade própria. Agora é o momento de desistir, se assim desejarem.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation03": {
-    "message": "Entendo. Como os dois aceitaram a tarefa, os transportarei até <FC 128,64,0>Uruk<END FC>, a terra da escuridão.<E>"
+    "message": "Certo. Como os dois aceitaram a tarefa, os transportarei até <FC 128,64,0>Uruk<END FC>, a terra da escuridão.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation04": {
     "message": "Lá vocês deverão encontrar a <FC 0,128,0>Espada de Osíris<END FC>, uma antiga e poderosa espada protegida pelos demônios de <FC 128,64,0>Uruk<END FC>.<E>"
@@ -384,7 +384,7 @@
     "message": "Tutancâmon, eu posso te dar o último <FC 0,128,0>Vaso Canópico<END FC> que irá transformá-lo de volta a sua forma humana e deixá-lo retornar ao seu reino.<E>"
   },
   "HT_Text_Urk_Set_BossDead7a": {
-    "message": "<EFF><EPO>Graças a vocês dois, o equilíbrio será trazido para o mundo por várias gerações ainda por vir. <P>Aventuras mais perigosas virão no futuro para ambos vocês. Mas para o momento, descansem e aproveitem seu triunfo.<P>Tutancâmon, lhe entrego o último <FC 0,128,0>Vaso Canópico<END FC> com minha gratidão. <E>"
+    "message": "<EFF><EPO>Graças a vocês dois, o equilíbrio será trazido para o mundo por várias gerações ainda por vir. <P>Aventuras mais perigosas virão no futuro para vocês dois. Mas para o momento, descansem e aproveitem seu triunfo.<P>Tutancâmon, lhe entrego o último <FC 0,128,0>Vaso Canópico<END FC> com minha gratidão. <E>"
   },
   "HT_Text_Urk_Set_BossDead8": {
     "message": "Não se preocupe Tutancâmon, deve haver outra maneira de trazê-lo de volta. Talvez outros mundos tenham a chave para a sua salvação.<E>"
