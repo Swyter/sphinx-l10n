@@ -18,7 +18,8 @@ lang = {
     'MARKER_BRAZILIAN':  'pt-BR',
     'MARKER_LATVIAN':    'lv',
     'MARKER_GREEK':      'el',
-    'MARKER_ARABIC':     'ar'
+    'MARKER_ARABIC':     'ar',
+    'MARKER_RUSSIAN':    'ru',
 }
 
 

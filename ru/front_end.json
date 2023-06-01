@@ -1,0 +1,563 @@
+{
+  "HT_Text_FE_Menu_NewGame": {
+    "message": "НОВАЯ ИГРА"
+  },
+  "HT_Text_FE_Menu_LoadGame": {
+    "message": "ЗАГРУЗИТЬ ИГРУ"
+  },
+  "HT_Text_FE_Menu_BonusMaterial": {
+    "message": "БОНУС"
+  },
+  "HT_Text_FE_Menu_Options": {
+    "message": "НАСТРОЙКИ"
+  },
+  "HT_Text_FE_Menu_OptionsSubControl": {
+    "message": "НАСТРОЙКИ КОНТРОЛЛЕРА"
+  },
+  "HT_Text_FE_Menu_OptionsSubScreen": {
+    "message": "НАСТРОЙКИ ЭКРАНА"
+  },
+  "HT_Text_FE_Menu_OptionsSubSound": {
+    "message": "НАСТРОЙКИ ЗВУКА"
+  },
+  "HT_Text_FE_Menu_MusicVolume": {
+    "message": "ГРОМКОСТЬ МУЗЫКИ"
+  },
+  "HT_Text_FE_Menu_SoundVolume": {
+    "message": "ГРОМКОСТЬ ЗВУКА"
+  },
+  "HT_Text_FE_Menu_PadRumbleGC": {
+    "message": "ВИБРАЦИЯ"
+  },
+  "HT_Text_FE_Menu_PadRumbleXB": {
+    "message": "ВИБРАЦИЯ"
+  },
+  "HT_Text_FE_Menu_PadRumblePS2": {
+    "message": "ВИБРАЦИЯ"
+  },
+  "HT_Text_FE_Menu_ScreenAdjust": {
+    "message": "НАСТРОЙКА ЭКРАНА"
+  },
+  "HT_Text_FE_Menu_Widescreen": {
+    "message": "ШИРОКИЙ ЭКРАН"
+  },
+  "HT_Text_FE_Menu_Subtitles": {
+    "message": "СУБТИТРЫ"
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonVert": {
+    "message": "ИНВЕРТ. КАМ. ОТ 3-ГО ЛИЦА ПО ВЕРТИК."
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonHorz": {
+    "message": "ИНВЕРТ. КАМ. ОТ 3-ГО ЛИЦА ПО ГОРИЗ."
+  },
+  "HT_Text_FE_Menu_InvertFirstPersonVert": {
+    "message": "ИНВЕРТ. КАМ. ОТ 1-ГО ЛИЦА ПО ВЕРТИК."
+  },
+  "HT_Text_FE_Menu_OK": {
+    "message": "OK"
+  },
+  "HT_Text_FE_Menu_Cancel": {
+    "message": "ОТМЕНА"
+  },
+  "HT_Text_FE_Menu_ConfirmQuit": {
+    "message": "Вы уверены, что хотите выйти?"
+  },
+  "HT_Text_FE_Menu_ConfirmQuit_XB": {
+    "message": "Вы уверены, что хотите выйти?\\nВесь несохранённый прогресс будет потерян."
+  },
+  "HT_Text_FE_Menu_SoundStereo": {
+    "message": "СТЕРЕО"
+  },
+  "HT_Text_FE_Menu_SoundMono": {
+    "message": "МОНО"
+  },
+  "HT_Text_FE_Menu_SoundSurround": {
+    "message": "ОБЪЁМНЫЙ"
+  },
+  "HT_Text_FE_Menu_SoundStereoSurround": {
+    "message": "СТЕРЕО/\\nОБЪЁМНЫЙ"
+  },
+  "HT_Text_FE_Menu_SoundModeOption": {
+    "message": "ЗВУКОВОЙ РЕЖИМ"
+  },
+  "HT_Text_FE_Menu_On": {
+    "message": "ВКЛ."
+  },
+  "HT_Text_FE_Menu_Off": {
+    "message": "ОТКЛ."
+  },
+  "HT_Text_OptionsMenu_Back": {
+    "message": "НАЗАД"
+  },
+  "HT_Text_OptionsMenu_Select": {
+    "message": "ВЫБРАТЬ"
+  },
+  "HT_Text_FE_Menu_ThirdPerson": {
+    "message": "КАМ. ОТ 3-ГО ЛИЦА:"
+  },
+  "HT_Text_FE_Menu_FirstPerson": {
+    "message": "КАМ. ОТ 1-ГО ЛИЦА:"
+  },
+  "HT_Text_FE_Menu_InvertHorz": {
+    "message": "ИНВЕРТ. ПО ГОРИЗ."
+  },
+  "HT_Text_FE_Menu_InvertVert": {
+    "message": "ИНВЕРТ. ПО ВЕРТИК."
+  },
+  "HT_Text_FE_MenuPause_Continue": {
+    "message": "ПРОДОЛЖИТЬ"
+  },
+  "HT_Text_FE_MenuPause_Options": {
+    "message": "НАСТРОЙКИ"
+  },
+  "HT_Text_FE_MenuPause_QuitGame": {
+    "message": "ВЫЙТИ ИЗ ИГРЫ"
+  },
+  "HT_Text_FE_PressStart_PS2": {
+    "message": "НАЖМИТЕ КНОПКУ START"
+  },
+  "HT_Text_FE_PressStart_XB": {
+    "message": "НАЖМИТЕ START"
+  },
+  "HT_Text_FE_PressStart_GC": {
+    "message": "Нажмите START"
+  },
+  "HT_Text_FE_PressStart_PC": {
+    "message": "Нажмите любую кнопку, чтобы начать"
+  },
+  "HT_Text_FE_Bonus1_Title": {
+    "message": "Разработка игры"
+  },
+  "HT_Text_FE_Bonus1_Description": {
+    "message": "Побывайте за кулисами создания игры «Сфинкс и проклятая мумия»"
+  },
+  "HT_Text_FE_Bonus2_Title": {
+    "message": "Трейлер игры"
+  },
+  "HT_Text_FE_Bonus2_Description": {
+    "message": "Трейлер игры «Сфинкс и проклятая мумия»"
+  },
+  "HT_Text_FE_Menu_SaveSlotA": {
+    "message": "СФИНКС A"
+  },
+  "HT_Text_FE_Menu_SaveSlotB": {
+    "message": "СФИНКС Б"
+  },
+  "HT_Text_FE_Menu_SaveSlotC": {
+    "message": "СФИНКС В"
+  },
+  "HT_Text_FE_Menu_SaveSlotA_XB": {
+    "message": "СФИНКС A"
+  },
+  "HT_Text_FE_Menu_SaveSlotB_XB": {
+    "message": "СФИНКС Б"
+  },
+  "HT_Text_FE_Menu_SaveSlotC_XB": {
+    "message": "СФИНКС В"
+  },
+  "HT_Text_FE_Menu_SaveSlotNone": {
+    "message": "Продолжить без сохранения"
+  },
+  "HT_Text_FE_Menu_SaveSlotEmpty": {
+    "message": "Пусто"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
+    "message": "ПОВРЕЖДЕНО"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
+    "message": "ПОВРЕЖДЕНО"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_GC": {
+    "message": "ПУСТО"
+  },
+  "HT_Text_MemCard_PromptSlotA": {
+    "message": "СФИНКС A"
+  },
+  "HT_Text_MemCard_PromptSlotB": {
+    "message": "СФИНКС Б"
+  },
+  "HT_Text_MemCard_PromptSlotC": {
+    "message": "СФИНКС В"
+  },
+  "HT_Text_MemCard_PromptNo": {
+    "message": "НЕТ"
+  },
+  "HT_Text_MemCard_PromptYes": {
+    "message": "ДА"
+  },
+  "HT_Text_MemCard_PromptOK": {
+    "message": "OK"
+  },
+  "HT_Text_MemCard_PromptRetry": {
+    "message": "ПОВТОР"
+  },
+  "HT_Text_MemCard_PromptCancel": {
+    "message": "ОТМЕНА"
+  },
+  "HT_Text_MemCard_PromptHaventSaved_XB": {
+    "message": "Вы уверены, что хотите продолжить без сохранения?"
+  },
+  "HT_Text_MemCard_GameName": {
+    "message": "СФИНКС"
+  },
+  "HT_Text_Paused_PS2": {
+    "message": "Пауза"
+  },
+  "HT_Text_Paused_XB": {
+    "message": "Нажмите START для продолжения."
+  },
+  "HT_Text_Paused_GC": {
+    "message": "Пауза"
+  },
+  "HT_Text_ReplacePadPrompt_PS2_PAL": {
+    "message": "В порт контроллера не вставлен контроллер (MISSINGPAD). Пожалуйста, вставьте аналоговый контроллер (DUALSHOCK®) или аналоговый контроллер (DUALSHOCK®2), чтобы продолжить."
+  },
+  "HT_Text_ReplacePadPrompt_PS2_NTSC": {
+    "message": "В порт контроллера не вставлен контроллер (MISSINGPAD). Пожалуйста, вставьте аналоговый контроллер DUALSHOCK® или аналоговый контроллер DUALSHOCK®2, чтобы продолжить."
+  },
+  "HT_Text_ReplacePadPrompt_XB_Start": {
+    "message": "Пожалуйста, снова подключите контроллер к порту (MISSINGPAD) и нажмите START, чтобы продолжить."
+  },
+  "HT_Text_ReplacePadPrompt_XB": {
+    "message": "Пожалуйста, снова подключите контроллер к порту (MISSINGPAD)."
+  },
+  "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
+    "message": "Вы не сможете сохранить свой прогресс или настройки в любой момент игры. Вы уверены, что хотите продолжить?"
+  },
+  "HT_Text_DeathScreen_Continue": {
+    "message": "ПРОДОЛЖИТЬ"
+  },
+  "HT_Text_DeathScreen_QuitGame": {
+    "message": "ВЫЙТИ ИЗ ИГРЫ"
+  },
+  "HT_Text_DeathScreen_Text": {
+    "message": "ИГРА ОКОНЧЕНА"
+  },
+  "HT_Text_OptionsMenu_Reset": {
+    "message": "СБРОС"
+  },
+  "HT_Text_ScreenAdjustText_PS2": {
+    "message": "Настройте экран с помощью\\nкнопок направления."
+  },
+  "HT_Text_ScreenAdjustText_GC": {
+    "message": "Настройте экран с помощью кнопки +Control Pad."
+  },
+  "HT_Text_ScreenAdjustText_XB": {
+    "message": "Настройте экран с помощью стрелки вверх."
+  },
+  "HT_Text_Memcard_SaveConfirm": {
+    "message": "Вы уверены, что хотите\\nсохранить в эту ячейку?"
+  },
+  "HT_Text_Memcard_LoadConfirm": {
+    "message": "Вы уверены, что хотите\\nзагрузить эту игру?"
+  },
+  "HT_Text_Memcard_OverwriteConfirm": {
+    "message": "Сохранение игры уже существует.\\n\\nНе хотите ли вы перезаписать предыдущую игру?"
+  },
+  "HT_Text_Memcard_NoFormat": {
+    "message": "Карта памяти (PS2) в ячейке КАРТЫ\\nПАМЯТИ 1 не отформатирована.\\n\\nФорматировать карту памяти (PS2)?"
+  },
+  "HT_Text_Memcard_NoFormat_Boot": {
+    "message": "Карта памяти (PS2) в ячейке КАРТЫ\\nПАМЯТИ 1 не отформатирована.\\nОтформатировать карту памяти (PS2)?"
+  },
+  "HT_Text_Memcard_NoDirectory": {
+    "message": "Карта памяти (PS2) в ячейке КАРТЫ\\nПАМЯТИ 1 не содержит\\nпапку Sphinx.\\nСоздать папку Sphinx сейчас?"
+  },
+  "HT_Text_Memcard_FormatComplete": {
+    "message": "Форматирование прошло успешно."
+  },
+  "HT_Text_Memcard_SaveFailed": {
+    "message": "Не удалось сохранить игру."
+  },
+  "HT_Text_Memcard_SaveSuccess": {
+    "message": "Сохранение игры прошло успешно."
+  },
+  "HT_Text_Memcard_LoadFail": {
+    "message": "Не удалось загрузить игру."
+  },
+  "HT_Text_Memcard_NoCard": {
+    "message": "Внимание! Sphinx использует функцию автосохранения.\\nВставка карты памяти (PS2) после этого момента может привести к перезаписи данных. Однако, если вы хотите сохранить данные игры, вставьте карту памяти (PS2)\\nс не менее чем xKB свободного места.\\n\\nНажмите кнопку START, чтобы продолжить\\nигру без сохранений."
+  },
+  "HT_Text_Memcard_NoCard1": {
+    "message": "Карта памяти(8 Мб)(для PlayStation®2)\\nне вставлена в ячейку карты памяти 1."
+  },
+  "HT_Text_Memcard_NoSpace_Boot": {
+    "message": "Недостаточно места на карте памяти (PS2). Вставьте карту памяти (PS2) со свободным пространством не менее xKB,\\nили создайте свободное пространство с помощью внутреннего браузера консоли."
+  },
+  "HT_Text_Memcard_NoSpace_Save": {
+    "message": "Недостаточно места на карте памяти (PS2) в ячейке КАРТЫ\\nПАМЯТИ 1. Sphinx требует xKB свободного места для сохранения данных."
+  },
+  "HT_Text_Memcard_PressKey": {
+    "message": "НАЖМИТЕ START ДЛЯ ПРОДОЛЖЕНИЯ БЕЗ СОХРАНЕНИЯ"
+  },
+  "HT_Text_Memcard_Loading": {
+    "message": "Загрузка..."
+  },
+  "HT_Text_Memcard_Saving": {
+    "message": "Сохранение данных. Не извлекайте карту памяти (PS2) в\\nячейке КАРТЫ ПАМЯТИ 1, не перезагружайте и не выключайте консоль."
+  },
+  "HT_Text_Memcard_Formatting": {
+    "message": "Форматирование...\\n\\n\\nФорматирование карты памяти (PS2) в ячейке КАРТЫ ПАМЯТИ 1.\\nНе извлекайте карту памяти (PS2),\\nперезагружайте или выключайте консоль."
+  },
+  "HT_Text_Memcard_YesNo": {
+    "message": "<B 1>Да<N><B 2>Нет<E>"
+  },
+  "HT_Text_Menu_Cross": {
+    "message": "выбрать"
+  },
+  "HT_Text_Menu_Triangle": {
+    "message": "НАЗАД"
+  },
+  "HT_Text_Menu_Square": {
+    "message": "Экран по центру"
+  },
+  "HT_Text_Menu_StartPause": {
+    "message": "Продолжить игру"
+  },
+  "HT_Text_Menu_AdjustScreen": {
+    "message": "Используйте левую\\nаналоговую кнопку или кнопку направления\\nдля регулировки положения экрана."
+  },
+  "HT_Text_Menu_Accept": {
+    "message": "Да"
+  },
+  "HT_Text_Menu_Decline": {
+    "message": "Нет"
+  },
+  "HT_Text_Menu_Pause": {
+    "message": "Приостановить игру"
+  },
+  "HT_Text_Menu_Empty": {
+    "message": "Ничего"
+  },
+  "HT_Text_Menu_BOS": {
+    "message": "Открыть книгу Сфинкса"
+  },
+  "HT_Text_Menu_Inventory": {
+    "message": "Инвентарь"
+  },
+  "HT_Text_Menu_Jump": {
+    "message": "Прыжок"
+  },
+  "HT_Text_Menu_Attack": {
+    "message": "Атака"
+  },
+  "HT_Text_Menu_Context": {
+    "message": "Контекст"
+  },
+  "HT_Text_Menu_Shield": {
+    "message": "Щит"
+  },
+  "HT_Text_Menu_Pipe": {
+    "message": "Трубка"
+  },
+  "HT_Text_Menu_Camera": {
+    "message": "Управление камерой"
+  },
+  "HT_Text_Menu_Move": {
+    "message": "Передвижение персонажа"
+  },
+  "HT_Text_Menu_Start": {
+    "message": "Пауза в игровом меню"
+  },
+  "HT_Text_Menu_PadLayout1": {
+    "message": "ПО МОЛЧАНИЮ"
+  },
+  "HT_Text_Menu_PadLayout2": {
+    "message": "ЛЕВША"
+  },
+  "HT_Text_Menu_PadLayout3": {
+    "message": "НАПИТЬСЯ"
+  },
+  "HT_Text_Menu_NoPad": {
+    "message": "Контроллер в порте\\nконтроллера 1 был извлечён.\\nВставьте контроллер, чтобы продолжить игру."
+  },
+  "HT_Text_Menu_Uruk1": {
+    "message": "СФИНКС=@=ХОЛМЫ=УРУК"
+  },
+  "HT_Text_Menu_Uruk2": {
+    "message": "МУМИЯ=@=ЗАМОК=УРУК"
+  },
+  "HT_Text_Menu_Making": {
+    "message": "РАЗРАБОТКА=:=:=:"
+  },
+  "HT_Text_Menu_Trailer": {
+    "message": "ТРЕЙЛЕР"
+  },
+  "HT_Text_Menu_Exit": {
+    "message": "ВЫЙТИ=ИЗ=ДЕМО=ВЕРСИИ"
+  },
+  "HT_Text_Menu_Continue": {
+    "message": "ДАЛЕЕ"
+  },
+  "HT_Text_Menu_Rumble": {
+    "message": "ВИБРАЦИЯ==ВКЛ."
+  },
+  "HT_Text_Menu_RumbleOff": {
+    "message": "ВИБРАЦИЯ==ВЫКЛ."
+  },
+  "HT_Text_Menu_StartDemo": {
+    "message": "ИГРАТЬ=В=ДЕМО=ВЕРСИЮ"
+  },
+  "HT_Text_Menu_NewGame": {
+    "message": "НОВАЯ=ИГРА"
+  },
+  "HT_Text_Menu_Load": {
+    "message": "ЗАГРУЗИТЬ=ИГРУ"
+  },
+  "HT_Text_Menu_Save": {
+    "message": "СОХРАНИТЬ=ИГРУ"
+  },
+  "HT_Text_Menu_Options": {
+    "message": "НАСТРОЙКИ"
+  },
+  "HT_Text_Menu_EndGame": {
+    "message": "ЗАКОНЧИТЬ=ИГРУ"
+  },
+  "HT_Text_Menu_Screen": {
+    "message": "НАСТРОЙКИ=ЭКРАНА"
+  },
+  "HT_Text_Menu_Pad": {
+    "message": "НАСТРОЙКИ=КОНТРОЛЛЕРА"
+  },
+  "HT_Text_Menu_Sound": {
+    "message": "НАСТРОЙКИ=ЗВУКА"
+  },
+  "HT_Text_Menu_ScreenAdjust": {
+    "message": "НАСТРОЙКА=ЭКРАНА"
+  },
+  "HT_Text_Menu_WidescreenON": {
+    "message": "ШИРОКИЙ=ЭКРАН==ВКЛ."
+  },
+  "HT_Text_Menu_WidescreenOFF": {
+    "message": "ШИРОКИЙ=ЭКРАН==ОТКЛ."
+  },
+  "HT_Text_Menu_Volume": {
+    "message": "ГРОМКОСТЬ"
+  },
+  "HT_Text_Menu_SoundFX": {
+    "message": "ЗВУКОВЫЕ=ЭФФ."
+  },
+  "HT_Text_Menu_Music": {
+    "message": "МУЗЫКА"
+  },
+  "HT_Text_Menu_SurroundON": {
+    "message": "ОБЪЁМНЫЙ"
+  },
+  "HT_Text_Menu_SurroundOFF": {
+    "message": "СТЕРЕО"
+  },
+  "HT_Text_Menu_Mono": {
+    "message": "МОНО"
+  },
+  "HT_Text_Menu_Videos": {
+    "message": "РОЛИКИ"
+  },
+  "HT_Text_Menu_QuitLevel": {
+    "message": "ПОКИНУТЬ=УРОВЕНЬ"
+  },
+  "HT_Text_Menu_NTSC": {
+    "message": "ЧАСТОТА=КАДРОВ==60"
+  },
+  "HT_Text_Menu_PAL": {
+    "message": "ЧАСТОТА=КАДРОВ==50"
+  },
+  "HT_Text_Menu_QuitQuestion": {
+    "message": "Выйти из игры"
+  },
+  "HT_Text_Menu_Paused": {
+    "message": "ПАУЗА"
+  },
+  "HT_Text_Menu_QuitLevQuestion": {
+    "message": "Уйти с уровня?"
+  },
+  "HT_Text_Menu_StartGame": {
+    "message": "Начать игру"
+  },
+  "HT_Text_Menu_SaveOver": {
+    "message": "Сохранить на игру"
+  },
+  "HT_Text_Menu_UseSlot": {
+    "message": "Использовать эту ячейку"
+  },
+  "HT_Text_Menu_LoadGame": {
+    "message": "Загрузить эту игру"
+  },
+  "HT_Text_Menu_EmptySlot": {
+    "message": "[ пусто ]"
+  },
+  "HT_Text_Menu_CorruptSlot": {
+    "message": "[ повреждено ]"
+  },
+  "HT_Text_Menu_Scarabs": {
+    "message": " Скарабеи"
+  },
+  "HT_Text_Menu_InvertON": {
+    "message": "ИНВЕРТ.=КАМЕРЫ==ВКЛ."
+  },
+  "HT_Text_Menu_InvertOFF": {
+    "message": "ИНВЕРТ.=КАМЕРЫ==ОТКЛ."
+  },
+  "HT_Text_Menu_SwapXYON": {
+    "message": "СМЕНА=ПОЛОЖ.=КАМЕРЫ=X==ВКЛ."
+  },
+  "HT_Text_Menu_SwapXYOFF": {
+    "message": "СМЕНА=ПОЛОЖ.=КАМЕРЫ=X==ОТКЛ."
+  },
+  "HT_Text_Menu_Cancel": {
+    "message": "ОТМЕНА"
+  },
+  "HT_Text_Menu_Reset": {
+    "message": "СБРОС"
+  },
+  "HT_Text_FE_Menu_ToggleReverb": {
+    "message": "РЕВЕРБЕРАЦИЯ ЗВУКА"
+  },
+  "HT_Text_FE_Menu_FieldOfView": {
+    "message": "ПОЛЕ ЗРЕНИЯ"
+  },
+  "HT_Text_FE_Menu_Resolution": {
+    "message": "РАЗРЕШЕНИЕ"
+  },
+  "HT_Text_FE_Menu_ChooseScreen": {
+    "message": "ВЫБОР ЭКРАНА"
+  },
+  "HT_Text_FE_Menu_ToggleParticles": {
+    "message": "ЧАСТИЦЫ"
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Limited": {
+    "message": "ОГРАНИЧЕННЫЕ"
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Soft": {
+    "message": "МЯГКИЕ"
+  },
+  "HT_Text_FE_Menu_Anisotropy": {
+    "message": "АНИЗОТРОПНАЯ ФИЛЬТРАЦИЯ"
+  },
+  "HT_Text_FE_Menu_MultiSampling": {
+    "message": "СГЛАЖИВАНИЕ"
+  },
+  "HT_Text_FE_Menu_Vsync": {
+    "message": "ВЕРТ. СИНХРОНИЗАЦИЯ"
+  },
+  "HT_Text_FE_Menu_VsyncAdaptive": {
+    "message": "АДАПТИВНАЯ"
+  },
+  "HT_Text_FE_Menu_RestartGame": {
+    "message": "ПЕРЕЗАПУСК ИГРЫ"
+  },
+  "HT_Text_FE_ResolutionRequiresRestart": {
+    "message": "Изменение разрешения требует перезапуска игры."
+  },
+  "HT_Text_FE_ResolutionBorderless": {
+    "message": "ОКОННОЕ (БЕЗ РАМОК)"
+  },
+  "HT_Text_FE_ResolutionWindowed": {
+    "message": "ОКОННОЕ"
+  },
+  "HT_Text_FE_ResolutionFovDegrees": {
+    "message": " град."
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>трубку<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Магические дротики, выпущенные из этого мощного инструмента,<N>восстанавливаются, давая вам бесконечный запас.<P><ES HT_Text_ES_S_HelpText><CNTR>Дротики можно использовать для поражения целей на расстоянии, но их<N>мощности достаточно только для повреждения взрывных монстров.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Используйте <SB HT_PadAction_HUD_ShowRotator>, чтобы назначить <FC 0,128,0>трубку<END FC> на кнопку.<P><ES HT_Text_ES_S_HelpText><CNTR>После назначения <FC 0,128,0>трубки<END FC> нажмите<N>кнопку, чтобы войти в режим от первого лица.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_FireDart> для выстрела.<P><ES HT_Text_ES_S_HelpText><CNTR>Удерживайте кнопки <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> или <SB HT_PadAction_GYR_Right> нажатыми, перемещая левый Joy-Con для прицеливания с помощью гироскопического управления движением.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_Cancel>, чтобы выйти <N>из режима <FC 0,128,0>трубки<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  }
+}

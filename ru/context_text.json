@@ -1,0 +1,173 @@
+{
+  "HT_Text_Context_UseItem": {
+    "message": "USE ITEM"
+  },
+  "HT_Text_Context_Use": {
+    "message": "USE"
+  },
+  "HT_Text_Context_PushObject": {
+    "message": "PUSH"
+  },
+  "HT_Text_Context_PullObject": {
+    "message": "PULL"
+  },
+  "HT_Text_Context_Lever": {
+    "message": "USE LEVER"
+  },
+  "HT_Text_Context_OpenDoor": {
+    "message": "OPEN"
+  },
+  "HT_Text_Context_PickupObject": {
+    "message": "ПОДНЯТЬ"
+  },
+  "HT_Text_Context_SavePoint": {
+    "message": "SAVE"
+  },
+  "HT_Text_Context_NPC": {
+    "message": "TALK"
+  },
+  "HT_Text_Context_Grab": {
+    "message": "GRAB"
+  },
+  "HT_Text_Context_Possession": {
+    "message": "POSSES"
+  },
+  "HT_Text_Context_Unpossession": {
+    "message": "UNPOSSES"
+  },
+  "HT_Text_Context_Release": {
+    "message": "RELEASE"
+  },
+  "HT_Text_Context_Clone": {
+    "message": "CLONE"
+  },
+  "HT_Text_Context_Invisibility": {
+    "message": "INVIS"
+  },
+  "HT_Text_Context_Hide": {
+    "message": "HIDE"
+  },
+  "HT_Text_Context_FreezeTime": {
+    "message": "FREEZE TIME"
+  },
+  "HT_Text_Context_KaTile": {
+    "message": "SHOOT KA"
+  },
+  "HT_Text_Context_Shop": {
+    "message": "BUY"
+  },
+  "HT_Text_Context_Linear": {
+    "message": "LINEAR"
+  },
+  "HT_Text_Context_Recall": {
+    "message": "RECALL"
+  },
+  "HT_Text_Context_Directed": {
+    "message": "DIRECTED"
+  },
+  "HT_Text_Context_Cancel": {
+    "message": "CANCEL"
+  },
+  "HT_Text_Context_Jump": {
+    "message": "JUMP"
+  },
+  "HT_Text_Context_Attack": {
+    "message": "ATTACK"
+  },
+  "HT_Text_Context_Detonate": {
+    "message": "DETONATE"
+  },
+  "HT_Text_Context_Beetle": {
+    "message": "BEETLE"
+  },
+  "HT_Text_Context_Throw": {
+    "message": "МЕТНУТЬ"
+  },
+  "HT_Text_Context_Drop": {
+    "message": "ОСТАВИТЬ"
+  },
+  "HT_Text_Context_FireDart": {
+    "message": "FIRE"
+  },
+  "HT_Text_Context_FirstPerson": {
+    "message": "1st PERSON"
+  },
+  "HT_Text_Context_Blowpipe": {
+    "message": "BLOW PIPE"
+  },
+  "HT_Text_Context_ThirdPerson": {
+    "message": "3rd PERSON"
+  },
+  "HT_Text_Context_Program": {
+    "message": "PROGRAM"
+  },
+  "HT_Text_Context_SpittingToadV": {
+    "message": "VERTICAL"
+  },
+  "HT_Text_Context_SpittingToadH": {
+    "message": "HORIZONTAL"
+  },
+  "HT_Text_Context_Flap": {
+    "message": "FLAP"
+  },
+  "HT_Text_Context_Enter": {
+    "message": "ENTER"
+  },
+  "HT_Text_Context_Grow": {
+    "message": "GROW"
+  },
+  "HT_Text_Context_Exit": {
+    "message": "ВЫХОД"
+  },
+  "HT_Text_Context_SwapMummy": {
+    "message": "SWAP"
+  },
+  "HT_Text_Context_MummyCrawl": {
+    "message": "CRAWL"
+  },
+  "HT_Text_Context_MummyStandUp": {
+    "message": "STAND"
+  },
+  "HT_Text_Context_Dive": {
+    "message": "DIVE"
+  },
+  "HT_Text_Context_Swim": {
+    "message": "SWIM"
+  },
+  "HT_Text_Context_SwimFast": {
+    "message": "FAST"
+  },
+  "HT_Text_Context_WallSneakPeek": {
+    "message": "PEEK"
+  },
+  "HT_Text_Context_WallSneak": {
+    "message": "SNEAK"
+  },
+  "HT_Text_Context_Take": {
+    "message": "TAKE"
+  },
+  "HT_Text_Context_DJump": {
+    "message": "SOMERSAULT"
+  },
+  "HT_Text_Context_Read": {
+    "message": "READ"
+  },
+  "HT_Text_Context_Slam": {
+    "message": "SLAM"
+  },
+  "HT_Text_Context_Wear": {
+    "message": "WEAR"
+  },
+  "HT_Text_Context_UnHide": {
+    "message": "UNHIDE"
+  },
+  "HT_Text_Context_Choose": {
+    "message": "CHOOSE"
+  },
+  "HT_Text_Context_Select": {
+    "message": "SELECT"
+  },
+  "HT_Text_Context_Shake": {
+    "message": "SHAKE"
+  }
+}
