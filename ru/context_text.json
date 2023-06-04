@@ -21,13 +21,13 @@
     "message": "ПОДНЯТЬ"
   },
   "HT_Text_Context_SavePoint": {
-    "message": "SAVE"
+    "message": "СОХРАНИТЬ"
   },
   "HT_Text_Context_NPC": {
-    "message": "TALK"
+    "message": "ГОВОРИТЬ"
   },
   "HT_Text_Context_Grab": {
-    "message": "GRAB"
+    "message": "СХВАТИТЬ"
   },
   "HT_Text_Context_Possession": {
     "message": "POSSES"
@@ -36,7 +36,7 @@
     "message": "UNPOSSES"
   },
   "HT_Text_Context_Release": {
-    "message": "RELEASE"
+    "message": "ОТПУСТИТЬ"
   },
   "HT_Text_Context_Clone": {
     "message": "CLONE"
@@ -81,7 +81,7 @@
     "message": "BEETLE"
   },
   "HT_Text_Context_Throw": {
-    "message": "МЕТНУТЬ"
+    "message": "КИНУТЬ"
   },
   "HT_Text_Context_Drop": {
     "message": "ОСТАВИТЬ"
@@ -102,10 +102,10 @@
     "message": "PROGRAM"
   },
   "HT_Text_Context_SpittingToadV": {
-    "message": "VERTICAL"
+    "message": "ВЕРТИКАЛЬ"
   },
   "HT_Text_Context_SpittingToadH": {
-    "message": "HORIZONTAL"
+    "message": "ГОРИЗОНТАЛЬ"
   },
   "HT_Text_Context_Flap": {
     "message": "FLAP"

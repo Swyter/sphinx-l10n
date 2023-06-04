@@ -36,109 +36,109 @@
     "message": "Good. Action time. I was getting bored with all that talking. I'll go down there and see what I can find; you go through that door. We'll meet in <FC 128,64,0>Heliopolis<END FC>. <E>"
   },
   "HT_Text_Uruk_intro_01a_Horus_TooHigh": {
-    "message": "Hey, Sphinx! I'm over here by the lava fall. Come on over, I need to show you something.<E>"
+    "message": "Эй, Сфинкс! Я здесь, у лавового водопада. Иди сюда, мне нужно кое-что показать.<E>"
   },
   "HT_Text_Uruk_intro_01_Horus_CallingUpHere1": {
-    "message": "Hmm, this is too high for you, isn't it? I don't understand why the Master insisted on having you accompany me. You're just holding me back!<E> "
+    "message": "Хм, высоковато, не так ли? Я не понимаю, почему учитель настоял на том, чтобы ты сопровождал меня. Ты только задерживаешь меня!<E> "
   },
   "HT_Text_Uruk_intro_01_Horus_CallingUpHere2": {
     "message": "Try and find another way up here. I've found something interesting and I need to show you how it works.<E> "
   },
   "HT_Text_Uruk_intro_01_Horus_CallingUpHere3": {
-    "message": "I'm skillful enough to find the blade without your help. You'll need to figure out how to get up here yourself.<E>"
+    "message": "Я смогу найти клинок и без твоей помощи. Ты уж тут сам думай, как сюда забраться.<E>"
   },
   "HT_Text_Uruk_intro_02_Sphinx_TalkToad1": {
-    "message": "Puagh! You're far too scrawny!<E>"
+    "message": "Пь-фу! Ты слишком худой!<E>"
   },
   "HT_Text_Uruk_intro_02_Sphinx_TalkToad2": {
-    "message": "I'm starving, but I'm not desperate enough to eat the likes of you. Too many clothes...<E>"
+    "message": "Я голоден, но я не настолько отчаялся, чтобы есть таких, как ты. У которых слишком много одежды...<E>"
   },
   "HT_Text_Uruk_intro_02_Sphinx_TalkToad3": {
-    "message": "If only I had a few <FC 0,128,0>Coconuts<END FC>... I haven't had a <FC 0,128,0>Coconut<END FC> in ages. Mmmm... just thinking about them...<E>"
+    "message": "Если бы только у меня было несколько <FC 0,128,0>кокосов<END FC>... Я уже сто лет не ел <FC 0,128,0>кокосы<END FC>. Мммм... одной мысли о них...<E>"
   },
   "HT_Text_Uruk_Intro_03_Horus_BloodPresentation1": {
-    "message": "Ah, you got up here at last! I didn't think you would make it. <E> "
+    "message": "Ах, ты наконец-то поднялся сюда! Я не думал, что ты доберёшься. <E> "
   },
   "HT_Text_Uruk_Intro_03_Horus_BloodPresentation2": {
-    "message": "<EFF><EPO>Your snail's pace has lost us precious time! Anyway, I have found the Blood of Ra...<P>Master Imhotep said it would allow us to walk on flowing lava and steam geysers...<E>"
+    "message": "<EFF><EPO>Из-за твоей улиточьей скорости мы потеряли драгоценное время! В общем, я нашел кровь Ра...<P>Учитель Имхотеп сказал, что она позволит нам ходить по текущей лаве и паровым гейзерам...<E>"
   },
   "HT_Text_Uruk_Intro_03_Horus_BloodPresentation3": {
-    "message": "...but it is impossible to get near it. I will need to find another solution.<E>"
+    "message": "...но к нему невозможно добраться. Придётся найти другое решение.<E>"
   },
   "HT_Text_Uruk_Intro_04_Horus_Blood_Shower1": {
-    "message": "I don't know why I didn't think of that solution before.<E>"
+    "message": "Не знаю, почему я не подумал об этом решении раньше.<E>"
   },
   "HT_Text_Uruk_Intro_04_Horus_Blood_Shower2": {
-    "message": "You were probably just lucky... or rather, I knew the solution and I was simply toying with you!<E>"
+    "message": "Тебе, наверное, просто повезло... вернее, я знал решение и просто разыграл тебя!<E>"
   },
   "HT_Text_Uruk_Intro_04_Horus_Blood_Shower3": {
-    "message": "Anyway, I'm going on ahead. Waiting for you is getting quite tiresome.<W 60>"
+    "message": "Впрочем, я пойду дальше. Мне уже надоело тебя ждать.<W 60>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb01": {
-    "message": "<EFF><EPO>Hey Sphinx! Up here! Come on, we must hurry!<P> I'm going to need your help up here<E>"
+    "message": "<EFF><EPO>Эй, Сфинкс! Сюда! Давай, мы должны спешить!<P> Мне понадобится твоя помощь здесь, наверху<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb02": {
-    "message": "<EFF><EPO>Just jump against the wall and use <SB HT_PadAction_PLR_MovePlr> to climb up, down, left and right.<P>To climb slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<E>"
+    "message": "<EFF><EPO>Просто прыгни на стену и используй <SB HT_PadAction_PLR_MovePlr> для подъёма вверх, вниз, влево и вправо.<P>Чтобы подниматься медленно, слегка нажимай <SB HT_PadAction_PLR_MovePlr>.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb03": {
-    "message": "Watch out for those spiders though; they could give you a nasty bite if you're not careful!<E>"
+    "message": "Но остерегайся пауков: они могут неприятно укусить, если не будешь осторожен!<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang01": {
-    "message": "Over here! Use the railing to cross the gap.<E> "
+    "message": "Сюда! Используй перила, чтобы перебраться через пропасть.<E> "
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
-    "message": "<EFF><EPO>Jump and grab the railing, then use <SB HT_PadAction_PLR_MovePlr> to move left and right.<P>To cross slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<E>"
+    "message": "<EFF><EPO>Прыгни и схватись за перила, затем используй <SB HT_PadAction_PLR_MovePlr> для перемещения влево и вправо.<P>Чтобы медленно перебраться, слегка нажимай <SB HT_PadAction_PLR_MovePlr>.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
     "message": "Press <SB HT_Action_Drop> to let go of the rail, but make sure you are safely across the gap first!<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_UseRock01": {
-    "message": "Sphinx!! Over here! I think I may need you after all...<W 60>"
+    "message": "Сфинкс!! Сюда! Думаю, ты мне всё-таки пригодишься...<W 60>"
   },
   "HT_Text_Urk_Intro_HorusHD54_UseRock02": {
-    "message": "Look, if you throw a rock at the animal warren over there, perhaps you'll get something useful.<E>"
+    "message": "Гляди, если ты бросишь камень вон в ту пещеру, возможно, ты получишь что-то полезное.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_UseSlimBurble01": {
-    "message": "Be careful Sphinx, these monsters look pretty harmless but they are highly explosive!<E>"
+    "message": "Будь осторожен, Сфинкс, эти монстры выглядят довольно безобидно, но они очень взрывоопасны!<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_UseSlimBurble02": {
-    "message": "<EFF><EPO>When angry, they flash red and hurl themselves towards their enemy, exploding on contact.<P>If you are quick on your feet, you can use them to your advantage by luring them toward an appropriate object.<E>"
+    "message": "<EFF><EPO>Если их разозлить, то они вспыхивают красным цветом и бросаются на врага, взрываясь при соприкосновении.<P>Если ты быстро бегаешь, можешь использовать их в своих интересах, заманив их на подходящий объект.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Blade01": {
-    "message": "At last, I have found it! The ancient <FC 0,128,0>Blade of Osiris<END FC>. Look, it sits over there on that rock pinnacle. But how can we reach it?<E> "
+    "message": "Наконец-то я нашёл его! Древний <FC 0,128,0>клинок Осириса<END FC>. Смотри, он лежит вон там, на вершине скалы. Но как нам добраться до него?<E> "
   },
   "HT_Text_Urk_Intro_HorusHD54_Blade01a": {
     "message": "Look, it's over there on that rock pinnacle.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Blade02": {
-    "message": "The <FC 0,128,0>Blade of Osiris<END FC> is now in sight, but I can see no way of getting to it!<E>"
+    "message": "<FC 0,128,0>Клинок Осириса<END FC> уже близок, но я не вижу способа добраться до него!<E>"
   },
   "HT_Text_Urk_Intro_Help_LongJump": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Press and hold <SB HT_Action_Jump> for a longer period<N>of time to jump further.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Нажмите и удерживайте <SB HT_Action_Jump> достаточно долго,<N> чтобы прыгнуть дальше.<E>"
   },
   "HT_Text_Urk_Intro_Help_ZipLine": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This is a zip line. Jump and catch<N>the handle if you want to use it.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Это канат. Прыгните и ухватитесь<N>за ручку, если хотите ею воспользоваться.<E>"
   },
   "HT_Text_Urk_Intro_Help_SavePoint": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>These sacred statues allow you to save your progress.<P><ES HT_Text_ES_S_HelpText><CNTR>If a saved game was chosen; walk close to one and press<N><SB HT_Action_SavePoint> to leave a record of your quest up to this point.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Эти священные статуи позволяют сохранить ваш прогресс.<P><ES HT_Text_ES_S_HelpText><CNTR>Если вы выбрали сохранённую игру, подойдите к ней и нажмите кнопку<N><SB HT_Action_SavePoint>, чтобы оставить запись о ваших поисках до этого момента.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Urk_Intro_Help_GotBlade01": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blade of Osiris<END FC>!<E> "
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>клинок Осириса<END FC>!<E> "
   },
   "HT_Text_Urk_Intro_Help_GotBlade02": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>The great god Osiris himself once wielded<N>this powerful weapon!<E>"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Сам великий бог Осирис когда-то владел<N>этим мощным оружием!<E>"
   },
   "HT_Text_Urk_Intro_Help_GotBlade03": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Press and hold <SB HT_Action_Attack> to perform a backhand sword slash.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Jump> then press <SB HT_Action_Attack> in mid air<N>to perform a high sword slash.<P><ES HT_Text_ES_S_HelpText><CNTR>The high sword slash is useful for striking<N>targets such as hanging lamps.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Нажмите и удерживайте <SB HT_Action_Attack>, чтобы выполнить удар мечом с обратной стороны.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_Jump>, затем нажмите <SB HT_Action_Attack>, находясь в воздухе<N>, чтобы выполнить удар мечом сверху.<P><ES HT_Text_ES_S_HelpText><CNTR>Удар мечом сверху полезен для поражения<N>таких целей, как висячие лампы.<E>"
   },
   "HT_Text_Urk_Intro_Help_GotBlade04": {
-    "message": "You have found the <FC 0,128,0>Blade of Osiris<END FC> but your actions have alerted those in the <FC 128,64,0>Castle of Uruk<END FC>!<E>"
+    "message": "Ты нашёл <FC 0,128,0>клинок Осириса<END FC>, но твои действия насторожили тех, кто находится в <FC 128,64,0>замке Урук<END FC>!<E>"
   },
   "HT_Text_Urk_Intro_Help_GotBlade05": {
-    "message": "Through those caves is a magical portal - ancient devices formerly used by the gods to travel between worlds. <E>"
+    "message": "Через эти пещеры проходит магический портал - древний механизм, который раньше использовался богами для путешествий между мирами. <E>"
   },
   "HT_Text_Urk_Intro_Help_GotBlade06": {
-    "message": "Many years ago I hid a <FC 0,128,0>Portal Amulet<END FC> up on a high ledge on the exterior of the portal chamber. <E>"
+    "message": "Много лет назад я спрятал <FC 0,128,0>портальный амулет<END FC> на высоком выступе на внешней стороне камеры портала. <E>"
   },
   "HT_Text_Urk_Intro_Help_GotBlade07": {
     "message": "That amulet will allow you to return swiftly and safely to our temple. <E>"
@@ -174,13 +174,13 @@
     "message": "Oh, I forgot... you're still developing your skills... this is too high for you.<P> Try and find another way up here, I have to show you how this thing works.<P> How am I supposed to do that with you down there?<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_Hungry ": {
-    "message": "Puagh! Far too meaty!<P>I'm starving, but I draw the line at eating anything that wears clothes! Too much fiber...<N>If only I had a few <FC 0,128,0>Coconuts<END FC>... I haven't had <FC 0,128,0>Coconut<END FC> in ages. Mmmm... just thinking about them...<E>"
+    "message": "Пь-фу! Слишком мясисто!<P>Я умираю с голоду, но я не могу есть ничего, что носит одежду! Слишком много ткани...<N>Если бы только у меня было несколько <FC 0,128,0>кокосов<END FC>... Я уже сто лет не ел <FC 0,128,0>кокосы<END FC>. Мммм... одной мысли о них...<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryShort": {
-    "message": "Ohhh, I'm so hungry... I'm sure there are some <FC 0,128,0>Coconut<END FC> trees around here.<E>"
+    "message": "Ооо, я так голоден... Я уверен, что здесь есть несколько <FC 0,128,0>кокосовых<END FC> деревьев рядом.<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_Hungry1": {
-    "message": "Hey, you with the face paint! What's that I smell on you? Is that... yes! <FC 0,128,0>Coconuts<END FC>!<P>Could I have some?<N>  <B 1> Sure, help yourself!<N>  <B 2> No! Find your own!<E>"
+    "message": "Эй, ты, с краской на лице! Что это за запах на тебе? Это... да! <FC 0,128,0>Кокосы<END FC>!<P>Можно мне немного?<N>  <B 1> Конечно, угощайся!<N>  <B 2> Нет! Найди себе сам!<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes": {
     "message": "Delicious! Thanks!<P>I could do with a few more like that. If you get me some more, I might be able to help you... <E> "
@@ -204,7 +204,7 @@
     "message": "These taste so good. Just one more should do it.<E> "
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes3": {
-    "message": "Oh, thank you! That feels so much better!<P>Just step onto my tongue and I can help you reach where you need to go.<P>First choose the horizontal direction, then choose the vertical direction and I will spit you over to the position you have chosen.<P>Choose carefully though. If you tell me to spit you into the lava, I will do exactly as you say!<E> "
+    "message": "О, спасибо! Полегчало!<P>Становись на мой язык, и я помогу добраться туда, куда тебе нужно.<P>Сначала выбери горизонтальное направление, затем вертикальное, и я выплюну тебя в то место, которое ты выбрал.<P>Выбирай с умом. Если скажешь мне плюнуть тебя в лаву, я сделаю именно так!<E> "
   },
   "HT_Text_urk_intr_SpittingToad_InLava_NotEnough": {
     "message": "I'm still hungry.<E>"
@@ -213,22 +213,22 @@
     "message": "You got a Cocoon.<E>  "
   },
   "HT_Text_Urk_Intro_Horus_Fall01": {
-    "message": "Hmm... Thank you very much Sphinx, you've been more helpful than I expected. Now I can get to the <FC 0,128,0>Blade of Osiris<END FC>.<E>"
+    "message": "Хм... Большое спасибо Sphinx, ты оказался полезнее, чем я думал. Теперь я могу добраться до <FC 0,128,0>клинка Осириса<END FC>.<E>"
   },
   "HT_Text_Urk_Intro_Horus_Fall02": {
-    "message": "What's going on? Everything is trembling... <W 60>"
+    "message": "Что происходит? Всё задрожало... <W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall03": {
-    "message": "Look! The ray!... It's charging!!!  <W 60>"
+    "message": "Смотри! Луч!... Он заряжается!!!  <W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall03a": {
     "message": "This is not good... <W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall04": {
-    "message": "Sphinx, this does NOT bode well!!<W 60>"
+    "message": "Сфинкс, это НЕ предвещает ничего хорошего!!<W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall05": {
-    "message": "Wow! That was lucky. Oh no... where is this thing going? Sphinx?! Sphinx!!<E>"
+    "message": "Ух ты! Повезло. О нет... куда эта штука плывёт? Сфинкс?! Сфинкс!!<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation01": {
     "message": "<EFF><EPO>Время, которого я боялся, наступило; мрак, о котором я пророчествовал, скоро снизойдёт на нас... и мы должны подготовиться.<P>Я выбрал вас обоих, потому что вы уже доказали, что являетесь моими самыми достойными учениками.<E>"
@@ -243,7 +243,7 @@
     "message": "Вы должны сделать свой выбор. Есть время выйти из игры, если пожелаете.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation03": {
-    "message": "Понятно. Поскольку вы оба приняли задание, я доставлю вас до <FC 128,64,0>Урус<END FC>, обиталища тьмы.<E>"
+    "message": "Понятно. Поскольку вы оба приняли задание, я доставлю вас до <FC 128,64,0>Урук<END FC>, обиталища тьмы.<E>"
   },
   "HT_Text_Urk_Intro_Temple_Presentation04": {
     "message": "Там вам нужно найти <FC 0,128,0>клинок Осириса<END FC>, старый мощный меч, охраняемый демонами <FC 128,64,0>Урук<END FC>.<E>"
@@ -258,7 +258,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>Заметьте как <SB HT_Action_PickupObject> вверху справа меняется на экране<N>при приближении к объекту или предмету.<P><ES HT_Text_ES_S_HelpText><CNTR>Можно нажать <SB HT_Action_PickupObject>, чтобы подобрать камни<N>как этот, когда вы рядом.<E>"
   },
   "HT_Text_Urk_Intro_Pushable_Stone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_Grab> to grab hold of objects...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...then use <SB HT_PadAction_PLR_MovePlr> to push or pull them.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Нажмите <SB HT_Action_Grab>, чтобы схватить объект...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...затем используйте <SB HT_PadAction_PLR_MovePlr>, чтобы нажать или потянуть их.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1a": {
     "message": "<EFF><EPO>Welcome to <FC 128,64,0>Uruk Islands<END FC> Sphinx! My friend Imhotep told me you would be arriving.<P>I know that you are seeking the <FC 0,128,0>Sacred Crown of Uruk<END FC> which is being held by the deadly Geb Queen.<E>"
