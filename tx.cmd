@@ -14,5 +14,11 @@ MODE CON: COLS=110
 ::pull latest translations
 tx pull -a -f --skip --minimum-perc=3 --workers 20 --silent
 
+echo Pulled from Transifex! Press any key to run
+echo the import to CSV script and then turn that into XLS && pause
+
+python sphinx-l10n-import.py
+wsl.exe -- ssconvert SphinxTextImported.csv _mod/Sphinx/Grafix/Spreadsheets/SphinxText.xls
+
 echo Done! && pause
 cls && goto :up
