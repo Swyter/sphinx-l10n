@@ -64,7 +64,7 @@ goto :eof
 	if exist "%~1" (
 		echo [-] Found game binary at "%~1"; launching it.
 		:: https://stackoverflow.com/a/72758/674685
-		start "Dummy title" "%~1" -mod "%cd%/Sphinx/"
+		start "Dummy title" "%~1" -mod "%cd%/Sphinx/Binary/_bin_PC/"
 		exit
 	) else (
 		echo [e] The game path to "%~1" does not exist, broken install?
