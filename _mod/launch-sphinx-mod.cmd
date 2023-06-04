@@ -3,7 +3,7 @@
 :: run this to automatically find either the GOG or the Steam version of the game (the former has priority)
 :: and launch it with the current folder's path in the mod parameter. easy peasy lemon squeezy :)
 
-@echo off && setlocal EnableExtensions && setlocal EnableDelayedExpansion && setlocal
+@echo off && setlocal EnableExtensions && setlocal EnableDelayedExpansion && setlocal && set arguments="%*"
 
 :: https://stackoverflow.com/a/23328830/674685
 
@@ -64,7 +64,7 @@ goto :eof
 	if exist "%~1" (
 		echo [-] Found game binary at "%~1"; launching it.
 		:: https://stackoverflow.com/a/72758/674685
-		start "Dummy title" "%~1" -mod "%cd%/Sphinx/Binary/_bin_PC/"
+		start "Dummy title" "%~1" %arguments% -mod "%cd%/Sphinx/Binary/_bin_PC/"
 		exit
 	) else (
 		echo [e] The game path to "%~1" does not exist, broken install?
