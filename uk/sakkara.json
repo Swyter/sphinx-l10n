@@ -1,0 +1,41 @@
+{
+  "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1a": {
+    "message": "Лорд Сет, Геби безмежно вдячні вам за <FC 0,128,0>Священну корону Урука<END FC>. Корона буде в цілковитій безпеці в наших руках.<E>"
+  },
+  "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1b": {
+    "message": "Я впевнений, що ви говорите правду. Якщо ні, то наслідки для вас будуть справді жахливими.<E>"
+  },
+  "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1c": {
+    "message": "Не хвилюйтеся, мій лорд Сет. Ще нікому не вдавалося подолати силу королеви Геба...<E>"
+  },
+  "HT_Text_Sakk_5_Boss_Fight_Gebqueen1a": {
+    "message": "Як ти смієш заходити до палацу королеви Геба?!<E>"
+  },
+  "HT_Text_Sakk_5_Boss_Fight_Gebqueen1b": {
+    "message": "Ви заплатите найвищу ціну за свою зухвалість. Готуйтеся до смерті!<E>"
+  },
+  "HT_Text_Sakk_5_Boss_Death_Gebqueen1a": {
+    "message": "Можливо, ви перемогли мене, але Сет знищить вас.<P>Ваші зусилля були марними... надто пізно... ви ніколи не переможете його...<E>"
+  },
+  "HT_Text_Sakk_5_Boss_Death_Gebqueen1b": {
+    "message": "АААЙЙЙААААА!!!! <E>"
+  },
+  "HT_Text_Sakk_5_Boss_Death_Gebqueen1c": {
+    "message": "АААЙЙЙААААА!!!! <E>"
+  },
+  "HT_Text_Sakk_5_TakeCrown1a": {
+    "message": "Ви ніколи не зрозумієте силу корони!<E>"
+  },
+  "HT_Text_Sakk_5_TakeCrown1b": {
+    "message": "Шлях, який ви обираєте,  дуже небезпечний...<E>"
+  },
+  "HT_Text_Sakk_5_TakeCrown1c": {
+    "message": "Лише найрішучіші герої досягнуть успіху.<E>"
+  },
+  "HT_Text_Sakk_5_TakeCrown1d": {
+    "message": "Пророцтво нарешті починає здійснюватися... Але чи станете ви тим, хто здійснить його завершення?<E>"
+  },
+  "HT_Text_Sakk_5_TakeCrown1e": {
+    "message": "Візьміть цей <FC 0,128,0>Золотий Анкх<END FC> як нагороду за ваші досягнення.<P><ES HT_Text_ES_S_HelpText><CNTR>Цей магічний артефакт збільшив ваше здоров’я<N>на <FC 0,128,0>1 Анкх<END FC> і повністю відновив втрачене!<ES HT_Text_ES_E_HelpText><E>"
+  }
+}

@@ -1,0 +1,923 @@
+{
+  "HT_Text_Aby_CouncilChambersInterior1_Coronation1a": {
+    "message": "Спочтатку, мешканціі <FC 128,64,0>Абідоса<END FC> висловлюють свою щиру подяку за добру справу, яку ви зробили для цього міста.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_Coronation1b": {
+    "message": "Останнім часом наше прекрасне місто переживає найнеспокійніші часи. Здається, надприродна сила має наміри принести в наше життя горе та нещастя.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_Coronation1c": {
+    "message": "Ваша поява та героїчні дії були як промінь надії для людей <FC 128,64,0>Абідоса<END FC>.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_Coronation1c1": {
+    "message": "Таким чином, рада вирішила, що <FC 0,128,0>Священна корона Абідосу<END FC> буде довірена вам...<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_Coronation1d": {
+    "message": "...але з умовою, що ви безпечно доставите його нашому лорду <FC 128,64,0>Анубісу<END FC> та висловите йому наші найщиріші вітання.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_Coronation2a": {
+    "message": "<ST>ЩО!!!<END ST> Ви не можете дати йому корону, це явно самозванець! Анубіс ніколи б не схвалив дії такого, як цей пройдисвіт!<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_Coronation3a": {
+    "message": "Корона наша! Нікому не віддавай її, дурню!!! <E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_Coronation4a": {
+    "message": "Тінь Сету зійде на <FC 128,64,0>Абідос<END FC> тепер, коли ми маємо корону. Настав час вам стати свідком справжніх проблем. Ха-ха-ха!! <E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_Coronation5a": {
+    "message": "Йди, брате, корона наша. А ваш, мер, ваш величність, забезпечила долю цього міста раз і назавжди!<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_Coronation6a": {
+    "message": "О, Ра всемогутній! Будь ласка, хтось повинен його зупинити!<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_Coronation7a": {
+    "message": "Зрадник тікає! Будь ласка, Сфінксе, я благаю тебе, поверни корону!<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD38_FriendA": {
+    "message": "<FC 128,64,64>Я не розумію, чому він так відреагував... Допоможеш?<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD30_FriendA": {
+    "message": "<FC 64,64,64>...він зробив би те саме з нами, це було для загального блага... <E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD38_FriendB": {
+    "message": "<FC 128,64,64>...наш герой повинен триматися подалі від небезпеки...<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD30_FriendB": {
+    "message": "<FC 64,64,64>...точно. Я не зміг битися, як якийсь звір... що люди подумають?<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD30_FightA": {
+    "message": "<FC 64,64,64>Здається, мер сказав, що готовий віддати життя, аби не почалася війна...<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD38_FightA": {
+    "message": "<FC 128,64,64>...абсурдно, ворог розуміє лише насильство, боріться вогнем проти вогню...<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD30_FightB": {
+    "message": "<FC 64,64,64>...Знаю, у нас тисячі солдатів, я кажу ведіть їх у бій.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD36_Friends": {
+    "message": "<FC 64,128,64>Як вони сміють мене замикати, як простолюдина! Я бойкотуватиму їх наступну зустріч на знак протесту.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_UpperClassHD36_Monsters": {
+    "message": "<FC 64,128,64>Ці монстри так налякали мене... Я тремчу щоразу, коли думаю про них.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_CouncilHD19_GoToAkaria": {
+    "message": "<FC 0,128,128>Сподіваюся, ви успішно проведете свою місію. Ви розумієте, що мер посилає вас на смерть, відправляючи туди?<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_CouncilHD20_GoToAkaria": {
+    "message": "<FC 128,60,0>Наш мер справді мудро послав вас до Анубіса. Сподіваюсь, що з ним не станеться ще одне лихо, поки вас не буде.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_CouncilHD19_Aftermath": {
+    "message": "<FC 0,128,128>Я весь час знав, що мер повністю видужає.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior1_CouncilHD20_Aftermath": {
+    "message": "<FC 128,60,0>Мер зараз проводить дружні переговори на всіх фронтах. Він повинен підвищити мене, щоб розібратися! Я чудовий посол нашого народу! Хіба не так?!<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_Situation": {
+    "message": "Боюсь, в нас у <FC 128,64,0>палатах ради<END FC> проблема. Мер захворів на загадкову хворобу... Я ніколи раніше не бачив нічого подібного.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_Situation1": {
+    "message": "Мені потрібно<FC 0,128,0>5 цілющих трав<END FC>, аби приготувати ліки, але я повинен залишитися тут і переконатися, що його стан не погіршиться.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_Situation2": {
+    "message": "Будь ласка, віднесіть цю записку Кеммету Винахіднику. Він повинен допомогти вам знайти <FC 0,128,0>Цілющі трави<END FC>. Треба поспішати! У мера обмаль часу!!<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_NotEnough": {
+    "message": "Все ще недостатньо <FC 0,128,0>Цілющіх трав<FC 128,128,128>. Тобі треба поспішати. У нас залишилося небагато часу!<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone": {
+    "message": "Перший, другий, третій, четвертий, п'ятий... відмінно! П'ять трав в нас! Ви знайшли їх усіх! Треба поспішати, ще може бути час врятувати мера.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone1": {
+    "message": "Хутчіше, мер, візьми це. Воно зробить тебі краще.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone2": {
+    "message": "Так! Він уже виглядає краще! Ось невелика винагорода від мене в знак подяки. Впевнений, мер вас теж винагородить! <E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone3": {
+    "message": "Ооооох! Що сталося? Де я? У мене так паморочиться голова!..<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone4": {
+    "message": "Хто це? Що він тут робить?<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone5": {
+    "message": "Мер, це Сфінкс. Той, хто знайшов інгредієнти, потрібні мені, щоб вилікувати тебе. Він наш герой, котрий врятував тобі життя!<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone6": {
+    "message": "Ох, дуже дякую, молодий сер. Ви досить дивно виглядаєте, чи не так? Що привело вас до нашого прекрасного міста <FC 128,64,0>Абідос<END FC>?<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone7": {
+    "message": "<FC 0,128,0>Священна корона Абідоса<END FC> для Анубіса? Хм, це справді важливе прохання...<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone8": {
+    "message": "Він бреше, сер! Це самозванець, який вас отруїв! Він хоче вкрасти корону! Анубіс ніколи б не подружився з такою істотою! Не вір йому!<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone9": {
+    "message": "Тиша! Ви, п'явки, шукаєте корону відтоді, як приєдналися до ради. Цей Сфінкс уже довів, що він надійніший за вас!<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone10": {
+    "message": "Хммм, це важке рішення потребує певних обдумувань...<P>Чому сьогодні всі так зацікавлені в короні? Я повинен подумати... найкращий спосіб дій...<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone11": {
+    "message": "Сфінкс, приєднуйся до мене за кілька хвилин, і я повідомлю тобі про своє рішення...<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_Physician_WellDone12": {
+    "message": "Мені потрібно подумати... і я так втомився... <W 90>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_MayorSaved": {
+    "message": "Я дуже радий, що ми змогли врятувати мера. Місто, напевно, охопило б хаос протягом кількох днів, якби хтось із його слуг заявив про владу.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_Intro1": {
+    "message": "Яка трагедія! Мер помирає! Ми не повинні зволікати, церемонія престолонаслідування повинна бути виконана негайно.<W 75><E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_Intro2": {
+    "message": "Так, слід негайно обрати наступника та надати йому <FC 0,128,0>Священну корону Абідосу<END FC>.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_Intro1": {
+    "message": "<FC 128,60,0>Чума монстрів накликана на наше прекрасне місто! Ой, наш бідолашний мер повинен поставити мене керувати, поки він ще при свідомості. Я помщуся за його трагічну смерть.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_Intro2": {
+    "message": "<FC 128,60,0>Мер хоче доказів?! Він, мабуть, марить! Достатньо доказів, щоб побачити, як монстри піднімаються з глибин океану! Хм, можливо, він занадто розгублений, щоб бути головним...<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_NeedHerbs": {
+    "message": "<FC 0,128,128>Я сумніваюся у вашій здатності вчасно зібрати трави. Мер напевно помре від отриманих травм... можливо, ми зможемо переконати Лікаря дати йому щось, щоб позбавити його страждань.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_NeedHerbs": {
+    "message": "<FC 128,60,0>Незабаром мене підвищать до мера, тоді ми вирішимо цю проблему по-моєму.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_CouncilHD19_MayorSaved": {
+    "message": "<FC 0,128,128>Нехай це не туманить голову; не можна виміряти значущість почесним званням, яке ви знаєте.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_CouncilHD20_MayorSaved": {
+    "message": "<FC 128,60,0>Мер врятований! Як, е-м, чудово. А тепер підемо до сусіднього будинку на церемонію...<E>"
+  },
+  "HT_Text_Aby_Council_Advisor01_Talk01": {
+    "message": "Ви не зможете вчасно зібрати <FC 0,128,0>Цілющі трави<END FC>. Мер приречений.<E>"
+  },
+  "HT_Text_Aby_Council_Advisor01_Talk02": {
+    "message": "Ми марнуємо час. Слід негайно обрати наступника!<E>"
+  },
+  "HT_Text_Aby_Council_Advisor02_Talk01": {
+    "message": "Мер відчуває страшенний біль. Можливо, ми зможемо переконати Лікаря дати йому щось, щоб припинити його страждання?<E>"
+  },
+  "HT_Text_Aby_Council_Advisor02_Talk02": {
+    "message": "<FC 0,128,0>Священна корона Абідоса<END FC> повинна бути негайно передана наступнику мера. На благо <FC 128,64,0>Абідоса<END FC>!<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_Intro01": {
+    "message": "Відкрий, кажу! Відкривай! Мерзенні істоти тут!<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_Intro02": {
+    "message": "Вибачте, мій друже, але ми не можемо ризикувати, щоб ці монстри потрапили до <FC 128,64,0>палат ради<END FC>. Розбирайтесь самі.<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_Intro03": {
+    "message": "Що далі? Нам вдалося позбутися цих жахливих електричних вугрів із <FC 128,64,0>зали ради<END FC>, а потім з’являються ці мерзенні створіння!<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_NoEntry": {
+    "message": "Вшивайся! Я сказав тобі, ми не можемо ризикувати, щоб монстри потрапили всередину!<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_Done01": {
+    "message": "Я в шоці, кажу вам! Залишити мене на вулиці з тими істотами, думаючи лише про власну безпеку! Зухвалість!<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_Done02": {
+    "message": "Я шановний чиновник <FC 128,64,0>Абідосу<END FC>, з великими обов'язками. Я б хотів, щоб мої колеги-радники ставилися до мене з більшою повагою!<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_Done03": {
+    "message": "Інші завжди мають враховувати свій статус. Ви не згодні?<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_Ill01": {
+    "message": "Це жахлива новина про мера! Я впевнений, що без нього <FC 128,64,0>Абідос<END FC> постраждає!<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_Ill02": {
+    "message": "Мені б хотілося щось зробити для мера.<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_Complete01": {
+    "message": "Вітаю! Для мене велика честь спілкуватися з рятівником і героєм <FC 128,64,0>Абідоса<END FC>.<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_Cured01": {
+    "message": "Ви зробили <FC 128,64,0>Абідосу<END FC> велику послугу, молодий сер.<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_Cured02": {
+    "message": "Я лише сподіваюся, що ти зможеш відібрати корону в тих зрадників!<E>"
+  },
+  "HT_Text_Aby_Council_Posh01_GiveAtun": {
+    "message": "Дуже дякую, що позбавив нас від цих жахливих монстрів і врятував мене. Я думав, що наші проблеми закінчилися, коли ми позбулися тих електричних вугрів.<P>Візьміть, будь ласка, це <FC 0,128,0>Око Атуна<END FC> на знак моєї вдячності. Я наполягаю!<E>"
+  },
+  "HT_Text_Aby_Council_Posh02_Talk01": {
+    "message": "Зараз дуже жахливі часи, незважаючи на нещасливі обставини з мером.<E>"
+  },
+  "HT_Text_Aby_Council_Posh02_Talk02": {
+    "message": "Благо нашої ради завжди має бути на першому місці. У такі часи немає місця егоїзму.<E>"
+  },
+  "HT_Text_Aby_Council_Posh02_Ill01": {
+    "message": "Сподіваюся, мер видужає. Я не впевнений, що його радники дбають про інтереси <FC 128,64,0>Абідоса<END FC>.<E>"
+  },
+  "HT_Text_Aby_Council_Posh02_Ill02": {
+    "message": "Якщо мер помре, я не думаю, що <FC 128,64,0>Абідос<END FC> коли-небудь буде колишнім...<E>"
+  },
+  "HT_Text_Aby_Council_Posh02_Cured01": {
+    "message": "Я знав, що цим порадникам не можна довіряти!<E>"
+  },
+  "HT_Text_Aby_Council_Posh02_Cured02": {
+    "message": "Тих зрадників треба суворо покарати!<E>"
+  },
+  "HT_Text_Aby_Council_Posh02_Complete01": {
+    "message": "Дякуємо, що порадував нас своєю присутністю, герою <FC 128,64,0>Абідоса<END FC>.<E>"
+  },
+  "HT_Text_Aby_Council_Posh03_Talk01": {
+    "message": "Тільки подумайте, що могло б статися, якби ці мерзенні монстри потрапили всередину!<E>"
+  },
+  "HT_Text_Aby_Council_Posh03_Talk02": {
+    "message": "Я не можу перестати думати про цих жахливих звірів. Що, якби вони увійшли до <FC 128,64,0>палат ради<END FC>?<E>"
+  },
+  "HT_Text_Aby_Council_Posh03_Ill01": {
+    "message": "Я впевнений, що <FC 0,128,0>Цілющі трави<END FC> зможуть повернути нашому меру здоров'я.<E>"
+  },
+  "HT_Text_Aby_Council_Posh03_Ill02": {
+    "message": "Відомо, що <FC 0,128,0>Цілющі трави<END FC> ростуть саме тут, у <FC 128,64,0>Залах Ради<END FC>!<E>"
+  },
+  "HT_Text_Aby_Council_Posh03_Cured01": {
+    "message": "Приємно бачити, що мер знову став на ноги. Можливо, тепер він найме більш надійного радника, як я.<E>"
+  },
+  "HT_Text_Aby_Council_Posh03_Cured02": {
+    "message": "Я впевнений, що став би чудовим новим радником мера.<E>"
+  },
+  "HT_Text_Aby_Council_Posh03_Complete01": {
+    "message": "Доброго дня, герою <FC 128,64,0>Абідоса<END FC>!<E>"
+  },
+  "HT_Text_Aby_Council_Physician_Herbs01": {
+    "message": "Якщо ви найближчим часом не почнете шукати <FC 0,128,0>Цілющі трави<END FC>, мер точно помре!<E>"
+  },
+  "HT_Text_Aby_Council_Physician_Herbs02": {
+    "message": "Я бачу, що ви знайшли кілька <FC 0,128,0>цілющих трав<END FC>. Гарна робота. Ви повинні швидко знайти решту. Я не думаю, що у мера залишилося багато часу.<E>"
+  },
+  "HT_Text_Aby_Council_Physician_Done01": {
+    "message": "Місто <FC 128,64,0>Абідос<END FC> вітає тебе як героя, друже.<E>"
+  },
+  "HT_Text_Aby_Council_Guard_Greeting01": {
+    "message": "Не турбуй мене, поки я на службі, незнайомцю.<E>"
+  },
+  "HT_Text_Aby_Council_Guard_Greeting02": {
+    "message": "Доброго дня вам, сер!<E>"
+  },
+  "HT_Text_Aby_Museum_Inaguration1a": {
+    "message": "У цей знаменний день ми зібралися тут для урочистого відкриття першого залу музею <FC 128,64,0>Абідоса<END FC> - гордості міста. <E>"
+  },
+  "HT_Text_Aby_Museum_Inaguration1b": {
+    "message": "<EFF><EPO>Ця важлива подія підкреслює незмінний інтерес ради до культурного розвитку нашого міста,<P>проведення публічної виставки в новому <FC 128,64,0>Залі коштовностей<END FC>; колекція <FC 128,64,0>Абідос<END FC>.<E>"
+  },
+  "HT_Text_Aby_Museum_Inaguration1c": {
+    "message": "Ця видатна колекція демонструє сотні років нашої великої історії...<W 200>"
+  },
+  "HT_Text_Aby_Museum_Inaguration2a": {
+    "message": "Я боюся, що нам потрібно перервати церемонію.<E>"
+  },
+  "HT_Text_Aby_Museum_Inaguration3a": {
+    "message": "Чому?! Що трапилось?<E>"
+  },
+  "HT_Text_Aby_Museum_Inaguration4a": {
+    "message": "У нас більше немає колекції коштовностей! Їх вкрали кілька хвилин тому!<E>"
+  },
+  "HT_Text_Aby_Museum_Inaguration5b": {
+    "message": "Що?!... Хто?!...ЯК?!!<W 60>"
+  },
+  "HT_Text_Aby_Museum_Inaguration5a": {
+    "message": "Дідько, це колись закінчиться?! Це стає розоренням міста! Спочатку поява Електричних Вугрів, а тепер це!!!<E>"
+  },
+  "HT_Text_Aby_Museum_Inaguration6a": {
+    "message": "Нам доведеться вжити надзвичайних заходів безпеки по всьому місту, щоб поставити пункти контролю.<E>"
+  },
+  "HT_Text_Aby_Museum_Inaguration6b": {
+    "message": "Від колекції залишився лише саркофаг...<E>"
+  },
+  "HT_Text_Aby_Museum_Inaguration7a": {
+    "message": "Який саркофаг? У нас немає саркофага в колекції! <W 110>"
+  },
+  "HT_Text_Aby_Museum_Inaguration8a": {
+    "message": "Що за безлад! Нам краще повернутися до <FC 128,64,0>палат ради<END FC>, щоб обговорити це далі... <E>"
+  },
+  "HT_Text_Aby_Museum_Welcome": {
+    "message": "Ласкаво просимо до <FC 128,64,0>Музею Абідоса<END FC>, я куратор і фахівець з природничої історії.<P>Ви хочете щось подарувати? Музей буде радий винагородити вашу щедрість, якщо ви це зробите.<N> <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Aby_Museum_NeedStuff": {
+    "message": "Наразі тут нема чого подивитися, сер.<P>Однак ми будемо дуже раді прийняти пожертви від таких добрих авантюристів, як ви, і з радістю допоможемо вам у відповідь.<E>"
+  },
+  "HT_Text_Aby_Museum_ThankYou": {
+    "message": "<IS HT_Objective_MonsterNameHolder> Дуже дякую за вашу пожертву, сер! Починає повертатися колишня слава нашого музею!<E>"
+  },
+  "HT_Text_Aby_Museum_ThankYouJewel": {
+    "message": "Вражаюче! Ви знайшли вкрадений <IS HT_Objective_JewelNameHolder>! Місто ніколи не зможе віддячити вам за це!<P>Однак, на знак нашої подяки, будь ласка, прийміть цей <FC 0,128,0>Золотий шматок Анкх<END FC>.<E>"
+  },
+  "HT_Text_Aby_Museum_WelcomeBack": {
+    "message": "Ах, наш щедрий благодійник повертається!<P>Чи є у вас щось нове для нас сьогодні, сер?<N> <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Aby_Museum_LookAround": {
+    "message": "Будь ласка, не соромтеся досліджувати наш чудовий музей.<E>"
+  },
+  "HT_Text_Aby_Museum_NotGotAny": {
+    "message": "Я ціную спробу, але зараз у вас нічого немає. Все одно дякую.<E>"
+  },
+  "HT_Text_Aby_Museum_AlreadyGotSome": {
+    "message": "Ще один <IS HT_Objective_MonsterNameHolder>, еге ж? Це теж чудовий екземпляр...<P>Однак у нашій колекції вже є один. Дякуємо за пропозицію.<E>"
+  },
+  "HT_Text_Aby_Museum_Guard_NoEntry1": {
+    "message": "Вибачте, сер, <FC 128,64,0>Зал коштовностей<END FC> ще не відкритий.<P>Якщо ви підете на прийом, ви можете встигнути застати мера під час урочистої церемонії відкриття.< E>"
+  },
+  "HT_Text_Aby_Museum_Guard_NoEntry2": {
+    "message": "<FC 128,64,0>Зал коштовностей<END FC> буде відкрито незабаром після урочистого відкриття.<E>"
+  },
+  "HT_Text_Aby_Museum_FirstWelcome": {
+    "message": "Ласкаво просимо до нашого музею. Боюся, що наші експонати зараз трохи мізерні. Це дуже сумно.<P>Моє серце болить від думки, що урочисте відкриття нашої виставки коштовностей могло бути зіпсовано таким зневажливим чином.<P>Якщо ви не заперечуєте, що я сказав, ви не схожі на корінного жителя Абідосії. .<P>Ви з іншого міста?<N> <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Aby_Museum_HaventSeenYou": {
+    "message": "Вибачте, я не бачив вас раніше. Однак я повинен визнати, що мені більше рідко вдається виходити на вулицю. Цей музей — це моє життя.<P>Розділ <FC 128,64,0>Природнича історія<END FC> музей відкритий, але неповний. З часом ми прагнемо виставити зразки всіх тварин нашого світу.<P>Ми сподіваємося отримати внески від відважних шукачів пригод, але жителі Абідосу також можуть зробити свій внесок.<P>Ви зацікавлені в допомозі нашому великому місту?<N > <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Aby_Museum_AnAdventurer": {
+    "message": "Ах, так, я так і думав. Ви виглядаєте як авантюрист. Можливо, ви захочете допомогти цьому чудовому місту?<P>Незабаром ми завершимо виставку дикої природи. Зрештою ми прагнемо виставити зразки всіх тварин нашого світу.<P>Ми сподіваємося отримати внески від таких авантюристів, які багато подорожували...<P>Ви зацікавлені в тому, щоб допомогти цьому чудовому місту?<N> <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Aby_Museum_NotHelping": {
+    "message": "Добре, дайте мені знати, якщо передумаєте.<E>"
+  },
+  "HT_Text_Aby_Museum_Helping": {
+    "message": "Чудово! Я знав, що ви допоможете!<P>Якщо ви захопите тварину для виставки, приходьте до мене. Якщо під час подорожі ви знайдете вкрадені коштовності, поговоріть із моїм колегою, експертом із коштовностей.<P>Боюся, що ми не можемо заплатити вам за пожертвування тварин, але на знак нашої вдячності за першу подаровану тварину ви отримаєте цінний подарунок.<E>"
+  },
+  "HT_Text_Aby_Museum_ChangedMind": {
+    "message": "Ви передумали? Чи хотіли б ви допомогти музею?<N> <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Aby_Museum_HaveAHook": {
+    "message": "Як нагороду за надання тварини міському музею я хотів би подарувати вам цю <FC 0,128,0>Ручку для зіплайну<END FC>.<P>Він дозволяє вам користуватися численними зіплайнами, розташованими навколо нашого міста .<P>Використовувати троси легко, просто встаньте біля кінця мотузки та стрибайте. Ось і все!<E>"
+  },
+  "HT_Text_Aby_Museum_WelcomeJewel": {
+    "message": "Вітаю! Я експерт з коштовностей музею.<P>Як ви, можливо, чули, ми втратили всю нашу виставку коштовностей через злодіїв.<P>Рада запропонувала щедро винагородити будь-яку особу, яка зможе повернути викрадені коштовності. музей.<P>Якщо у вас є коштовності, які ви хочете, щоб я подивився, я огляну їх для вас.<E>"
+  },
+  "HT_Text_Aby_Museum_WelcomeBackJewel": {
+    "message": "Вітаю! Ви знайшли ще одну з коштовностей?<N> <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Aby_Museum_DonateJewel": {
+    "message": "У вас є коштовність, яку я можу оглянути?<N> <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Aby_Museum_JewelsComplete": {
+    "message": "Чудово! Це останній! Ви відновили гідність міста.<P>Колекція дорогоцінних каменів так багато значить для нас. Ми ніколи не можемо бути достатньо вдячними за те, що ви зробили.<E>"
+  },
+  "HT_Text_Aby_Museum_MonstersComplete": {
+    "message": "Наш музей, нарешті, повний! І не в малу частину завдяки вашим зусиллям. Ви зробили місто <FC 128,64,0>Абідос<END FC> гордістю!<P>Будь ласка, прийміть цей <FC 0,128,0>Сертифікат майстра мисливця <END FC>. Нехай це буде постійним нагадуванням про те, наскільки ми вдячні.<E>"
+  },
+  "HT_Text_Aby_Museum_Jewel01": {
+    "message": "Цю коштовність люб’язно подарувала леді Нут, відома тим, що проводить найекстравагантнішу весільну церемонію.<P>Кількість присутніх гостей перевищила кількість населення міста, в якому вона проходила.<E>"
+  },
+  "HT_Text_Aby_Museum_Jewel02": {
+    "message": "Так багато людей заявляють, що вони є законними власниками цієї коштовності, що у <FC 128,64,0>Фівах<END FC> відбувся Джаджатський трибунал, на якому була рекордна кількість 312-ти відповідачів.<P> Великий Кенбет, який керував справою, був настільки збентежений, що зрештою він доручив її <FC 128,64,0>Абідоському музею<END FC>, за що його двоюрідний брат, мер, вдячний.<E>"
+  },
+  "HT_Text_Aby_Museum_Jewel03": {
+    "message": "Легенда говорить нам, що цей коштовний камінь був укладений у камінь, який упав з небес багато років тому.<P>Хоча це мало що підтверджує, але кратер, у якому його було виявлено, має таку ж форму, як і сам коштовний камінь.<E >"
+  },
+  "HT_Text_Aby_Museum_Jewel04": {
+    "message": "Кажуть, що володіння цим коштовним каменем зачаровує тих, хто носить його з непорушною чесністю.<P>Легендарний бандит Сіптах пожертвував цей коштовний камінь музею, перш ніж здатися владі, зізнаючись у понад двох сотнях злочинних діянь...<E >"
+  },
+  "HT_Text_Aby_Museum_Jewel05": {
+    "message": "Цю зачаровану дорогоцінність із головою кобри було знайдено на полі бою, вона стирчала з грудей загиблого короля.<P>Використовувалась, щоб завдати смертельного удару у війні, у якій ніхто не залишився в живих, і від племені, яке її створило, нічого не залишилося.<E>"
+  },
+  "HT_Text_Aby_Museum_Jewel06": {
+    "message": "Коли багато століть тому почалися видобутки, цю коштовність знайшли глибоко в надрах пустелі.<P>Переконаний у більшому багатстві в глибині душі, король, який наказав розкопки, став причиною смерті тисяч рабів.<P>Тільки після того, як ці невинні життя були втрачені, він визнав, що скарб більше не випливе з глибини..<E>"
+  },
+  "HT_Text_Aby_Museum_Sarcoph_Talk01": {
+    "message": "Чого ти хочеш?<E>"
+  },
+  "HT_Text_Aby_Museum_Sarcoph_Talk02": {
+    "message": "Залиш мене!<E>"
+  },
+  "HT_Text_Aby_Museum_Sarcoph_Talk03": {
+    "message": "Відвали!<E>"
+  },
+  "HT_Text_Aby_Museum_JewelsDone01": {
+    "message": "Щиро дякуємо за відновлення нашої колекції коштовностей!<E>"
+  },
+  "HT_Text_Aby_Museum_JewelsDone02": {
+    "message": "Як ви думаєте, чи вдасться злодієві втекти, вкравши всі коштовності?<E>"
+  },
+  "HT_Text_Aby_Museum_JewelsDone03": {
+    "message": "Чи не прекрасна колекція коштовностей <FC 128,64,0>Абідоса<END FC>?<E>"
+  },
+  "HT_Text_Aby_Museum_MonstersDone01": {
+    "message": "Хіба наша колекція не чудова? І все завдяки вам!<E>"
+  },
+  "HT_Text_Aby_Museum_MonstersDone02": {
+    "message": "Зразки, які ви нам привезли, були дуже високої якості. Виняткова робота!<E>"
+  },
+  "HT_Text_Aby_Museum_MonstersDone03": {
+    "message": "Оскільки музей заповнений, я вважаю, що було б гарною ідеєю почати планувати нове крило для будь-яких нових монстрів, яких ми можемо придбати в майбутньому...<E>"
+  },
+  "HT_Text_Aby_Museum_Sign01": {
+    "message": "<CNTR>---[ <FC 128,64,0>Абідоський музей<END FC> ]---<N><CNTR>Ласкаво просимо в <FC 128,64,0>Абідоський музей<END FC>.<P ><CNTR>Місто, добре відоме тим, що шанує справжній дух<N>великого Осіріса, тепер з гордістю демонструє найкрасивішу та велику колекцію.<P><CNTR>Цей музей вшановує велику історію,<N>науку і культуру <FC 128,64,0>Абідоса<END FC>.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign02": {
+    "message": "<CNTR>---[ <FC 128,64,0>Абідоський музей<END FC> ]---<N><CNTR>Сам музей є свідченням<N>великої архітектури нашого часу.< P><CNTR>Хоча наші великі гробниці та храми відзначають<N>шанування мертвих і багатьох богів, цей<N>музей пишається як символ життя.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign03": {
+    "message": "<CNTR>---[ <FC 128,64,0>Абідоський музей<END FC> ]---<N><CNTR>Музей не тільки встановлює нові<N>стандарти в державній освіті,<P>< CNTR>це також важливий об’єкт<N>для досліджень і розробок.<P><CNTR>Поки ви насолоджуєтеся пропонованими вітринами, наші співробітники зайняті вивченням, інтерпретацією та розумінням. Відкриття часто призводять до покращення нашого повсякденного життя.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign04": {
+    "message": "<CNTR>---[ <FC 128,64,0>Абідоський музей<END FC> ]---<N><CNTR>Ми відкриті від світанку до заходу сонця, кожен день тижня.<P><CNTR >Хоча вхід абсолютно вільний, будь-які пожертви завжди вітаються.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign05": {
+    "message": "<CNTR>---[ <FC 128,64,0>Abydos Museum<END FC> ]---<N><CNTR>For your convenience and interest, each museum<N>exhibit has its own plaque with a brief description.<P><CNTR>If you would like to hear more about anything<N>you see in the museum, please don't hesitate<N>to ask a member of our staff.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign06": {
+    "message": "<CNTR>---[ <FC 128,64,0>Abydos Museum<END FC> ]---<N><CNTR>COMING SOON<N>The <FC 128,64,0>Abydos Museum<END FC> News-Papyrus.<P><CNTR>Features updates on all new exhibitions, information about our existing displays, competitions and much more!<E>"
+  },
+  "HT_Text_Aby_Museum_Sign07": {
+    "message": "<CNTR>---[ <FC 128,64,0>Abydos Museum<END FC> ]---<N><CNTR>No food or drink are to be<N>consumed on the premises.<P><CNTR>Let's keep the museum - the pride of<N>the city - clean and tidy during your visit.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign08": {
+    "message": "<CNTR>---[ <FC 128,64,0>Hall of Jewels<END FC> ]---<N><CNTR><FC 128,64,0>Abydos Museum<END FC> proudly holds the finest<N>collection of jewels in the land.<P><CNTR>Gathering these priceless exhibits began<N>many generations ago, and they have been<N>discovered scattered across the world.<P><CNTR>Due to their uniqueness, the jewels have been<N>placed in impenetrable maximum security cases.<P><CNTR>To avoid confronting our armed guards, please<N>keep well back while observing these exhibits.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign09": {
+    "message": "<CNTR>---[ <FC 128,64,0>Hall of Jewels<END FC> ]---<N><CNTR>The jewels on display are some of the most<N>beautiful artifacts ever encountered.<P><CNTR>While experts have determined some of the facts surrounding these enigmatic jewels, many of the<N>finer details remain shrouded in mystery.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign10": {
+    "message": "<CNTR>---[ <FC 128,64,0>Natural History<END FC> ]---<N><CNTR>Some of the species here in the natural history department demonstrate highly aggressive behavior in the wild.<P><CNTR>The museum assures you they<N>pose no threat to visitors.<P><CNTR>Special enchantments are in place,<N>securing all exhibits to their plinth.<P><CNTR>However, please pay careful attention to remain<N>on the correct side of the roped-off areas.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign11": {
+    "message": "<CNTR>---[ <FC 128,64,0>Natural History<END FC> ]---<N><CNTR>Welcome to the natural history<N>section of <FC 128,64,0>Abydos Museum<END FC>.<P><CNTR>Many of the animals in this<N>collection are not native to <FC 128,64,0>Abydos<END FC>.<P><CNTR>As such this collection represents<N>the only opportunity for many people<N>to see them first hand.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign12": {
+    "message": "<CNTR>---[ <FC 128,64,0>Natural History<END FC> ]---<N><CNTR>Please refrain from feeding<N>any of the animals exhibited.<P><CNTR>Many animals have specific dietary requirements, and consumption of unnatural food could be poisonous.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign13": {
+    "message": "<CNTR>---[ <FC 128,64,0>Natural History<END FC> ]---<N><CNTR><FC 128,64,0>Abydos Museum<END FC> graciously accepts any<N>donations to the natural history department.<P><CNTR>However, due to limitations of space, only one monster<N>of each kind can be maintained. Speak to the curator<N>in the reception for more information.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign14": {
+    "message": "<CNTR>---[ <FC 128,64,0>Natural History<END FC> ]---<N><CNTR>For your safety, the curators of <FC 128,64,0>Abydos Museum<END FC><N>ask that visitors do not attack the animals.<P><CNTR>We request that anyone carrying weapons<N>keep them concealed at all times.<E>"
+  },
+  "HT_Text_Aby_Museum_Sign15": {
+    "message": "<CNTR>---[ <FC 128,64,0>Natural History<END FC> ]---<N><CNTR>We trust all visitors depart<N>the building at closing time.<P><CNTR>However, should you find yourself locked in,<N>we recommend seeking a suitable hiding<N>spot, out of view of any monsters.<E>"
+  },
+  "HT_Text_Aby_Museum_HaveAParasol": {
+    "message": "Astounding! You've recovered one of the stolen jewels! The city can never thank you enough for this!<P>I would like to present you with this <FC 0,128,0>Parasol<END FC> as a token of our gratitude.<P>It once belonged to a famous Abydosian nobleman and is quite valuable to those seeking shade from the hot sun.<E>"
+  },
+  "HT_Text_Aby_Museum_NoDogs": {
+    "message": "I'm sorry, but we can't accept Chihuahuas. Due to an unfortunate incident last year involving several of them and the Mayor, they have been banned from the museum.<E>"
+  },
+  "HT_Text_Aby_Museum_Empty": {
+    "message": "<N><CNTR>---[ Exhibit Empty ]---<E>"
+  },
+  "HT_Text_Aby_Museum_Sarcoph_Jewel01": {
+    "message": "Ahh! You are returning the <FC 0,128,0>Abydos Jewels<END FC>! You are a real hero!<P>You should know that they have used me in order to steal them. However, I assure you it was entirely against my will.<P>I promise you they will never use me for their evil deeds again.<P>Your heroic actions will eventually free my guilt of being involved in such a sad affair. Thank you!<E>"
+  },
+  "HT_Text_Aby_Museum_Sarcoph_Jewel02A": {
+    "message": "You are a real hero! I cannot wait until all the <FC 0,128,0>Abydos Jewels<END FC> have been returned!<E>"
+  },
+  "HT_Text_Aby_Museum_Sarcoph_Jewel02B": {
+    "message": "Thank you for being so honest and upstanding!<E>"
+  },
+  "HT_Text_Aby_Museum_Sarcoph_Jewel02C": {
+    "message": "I can't thank you enough for what you've done!<E>"
+  },
+  "HT_Text_Aby_Museum_Sarcoph_Jewel03": {
+    "message": "Thank you! Thank you so much!!! Now that all the jewels have been returned, my conscience is finally free of guilt! You are incredible!<E>"
+  },
+  "HT_Text_Aby_Museum_MonsterCertificate": {
+    "message": "I have just realized that you have now donated <SO HT_Objective_Aby_Museum_MonstCount> monsters to our collection!<P>You are a most generous benefactor to this museum and the cultural life of <FC 128,64,0>Abydos<END FC> as a whole.<P>We would like to express our gratitude and acknowledge your efforts with a <FC 0,128,0>Monster Hunter Certificate: <IS HT_Objective_MonsterNameHolder><END FC>.<P>It demonstrates the appreciation of the city for this most invaluable work. Thank you!<E>"
+  },
+  "HT_Text_Aby_Museum_MonsterClassA": {
+    "message": "Gold Class"
+  },
+  "HT_Text_Aby_Museum_MonsterClassB": {
+    "message": "Silver Class"
+  },
+  "HT_Text_Aby_Museum_MonsterClassC": {
+    "message": "Bronze Class"
+  },
+  "HT_Text_Aby_Shop_ShopperCantAfford": {
+    "message": "This is so annoying! I've always wanted to buy this monster, but at these prices I'll need to save for ages before I can afford one!<E>"
+  },
+  "HT_Text_Aby_Shop_ShopperIfOnly": {
+    "message": "If only I could afford one of these...<E>"
+  },
+  "HT_Text_Aby_Shop_KeeperWelcome": {
+    "message": "Hi, welcome to <FC 128,64,0>Montu's Monster Shop<END FC>.<P>You can sell your monsters here or buy a new one from our extensive catalogue.<P>If you want to buy a monster, just go over to it and pick it yourself.<P>Of course, you can't release your monsters in the city - that is absolutely forbidden!<P>Especially after that nasty incident with the Mayor last year... he couldn't sit down for weeks!<E>"
+  },
+  "HT_Text_Aby_Shop_KeeperBrowse": {
+    "message": "Very well sir, feel free to have a look around and inspect our top quality monsters.<E>"
+  },
+  "HT_Text_Aby_Shop_KeeperWelcomeBack": {
+    "message": "Welcome to <FC 128,64,0>Montu's Monster Shop<END FC>!<P>How can I help you today?<N>  <B 1> Buy monsters<N>  <B 2> Sell monsters<E>"
+  },
+  "HT_Text_Aby_Shop_KeeperNoMonsters": {
+    "message": "But you don't have any monsters to sell me...<E>"
+  },
+  "HT_Text_Aby_Shop_KeeperSellMonsters": {
+    "message": "What have you got for me then? Choose the monster you want to sell...<E>"
+  },
+  "HT_Text_Aby_Shop_KeeperMonsterOffer": {
+    "message": "A <IS HT_Objective_MonsterNameHolder>? And what a fine specimen!<P>I'll give you <FC 0,128,0><SO HT_Objective_Aby_Shop_SellMonsterPrice> Scarabs<END FC> for it.<N>  <B 1> Sell<N>  <B 2> Don't sell<E>"
+  },
+  "HT_Text_Aby_Shop_KeeperDontSell": {
+    "message": "Suit yourself then. The offer's always open if you change your mind...<E>"
+  },
+  "HT_Text_Aby_Shop_Keeper": {
+    "message": "Thank you very much.<E>"
+  },
+  "HT_Text_Aby_Shop_NoDogs": {
+    "message": "What? A Chihuahua? I hate those things! I'm not buying that off you!<E>"
+  },
+  "HT_Text_Aby_Shop_NoLizards": {
+    "message": "Ahh, a Goofy Lizard. I'm afraid I can't buy that off you. Not since what happened last time...<E>"
+  },
+  "HT_Text_Aby_Shop_NoPiranhas": {
+    "message": "Sorry, I can't stock Piranha's anymore. The Mayor has banned me from having any in the shop after that unfortunate incident last year...<P>I don't blame him either. He couldn't sit down for weeks!<E>"
+  },
+  "HT_Text_Aby_Sewer_GateBlocked": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This gate needs a <FC 0,128,0>Key<END FC> to open it.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Aby_Sewer_GotKey": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found an <FC 0,128,0>Old Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Aby_Canal_Sign_GrandCanal01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Grand Canal<END FC> ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_NarrowCanal01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Narrow Canal<END FC> ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_AbydosPlaza01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Abydos Plaza<END FC> ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_ToGrandCanal01": {
+    "message": "<N><CNTR>---[ To <FC 128,64,0>Grand Canal<END FC> ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_ToNarrowCanal01": {
+    "message": "<N><CNTR>---[ To <FC 128,64,0>Narrow Canal<END FC> ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_ToAbydosPlaza01": {
+    "message": "<N><CNTR>---[ To <FC 128,64,0>Abydos Plaza<END FC> ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_Museum01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Abydos Museum<END FC> ]---<N><CNTR>---[ Donations Wanted! ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_WallsMinigame01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Corridor of Champions<END FC> ]---<N><CNTR>---[ Somersault over 2 meters to compete! ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_Shop01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Montu's Monster Shop<END FC> ]---<N><CNTR>---[ New monsters now in stock! ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_Inventor01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Kemmet the Inventor<END FC> ]---<N><CNTR>---[ No visitors unless on official business! ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_PairsMinigame01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Paneb's Pair Matching Place<END FC> ]---<N><CNTR>---[ Make money with memory! ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_SimonMinigame01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Sorkon's Sequence Shack<END FC> ]---<N><CNTR>---[ Successful sequences score <FC 0,128,0>Scarabs<END FC>! ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_ShootingMinigame01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Tefnut's Target Tavern<END FC> ]---<N><CNTR>---[ Prove your target shooting prowess! ]---<E>"
+  },
+  "HT_Text_Aby_Canal_Sign_ElectricWater": {
+    "message": "<CNTR>---[ <FC 128,64,0>Swimming Prohibited<END FC> ]---<N><CNTR>---[ Warning! ALL water surrounding the city of <FC 128,64,0>Abydos<END FC> has been electrified. Please keep out of the water. ]---<E>"
+  },
+  "HT_Text_Aby_Canal_BoatOwner_Intro01": {
+    "message": "Hi, I’m Khonsu, the boat captain. You seem like the typical guy who loves adventure. My services include holiday trips of all kinds, at very reasonable prices.<P>If you like, I can provide transport to <FC 128,64,0>Heliopolis<END FC> for a mere <FC 0,128,0>25 Scarabs<END FC>.<N>  <B 2> Not interested<N>  <B 1> Let's go<E>"
+  },
+  "HT_Text_Aby_Canal_BoatOwner_Return01": {
+    "message": "Hi! Nice to see you again.<P>If you like, I can provide transport to <FC 128,64,0>Heliopolis<END FC> for a mere <FC 0,128,0>25 Scarabs<END FC>.<N>  <B 2> Not interested<N>  <B 1> Let's go<E>"
+  },
+  "HT_Text_Aby_Canal_BoatOwner_ToHeliopolisConfirm": {
+    "message": "Next stop <FC 128,64,0>Heliopolis<END FC>!<E>"
+  },
+  "HT_Text_Aby_Canal_BoatOwner_ToHeliopolisDecline": {
+    "message": "Very well, let me know if you change your mind.<E>"
+  },
+  "HT_Text_Aby_Canal_BoatOwner_NotEnoughMoney": {
+    "message": "Sorry, but you don't have enough <FC 0,128,0>Scarabs<END FC>.<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_IdentificationIntro": {
+    "message": "I need to see some identification before I let you pass.<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_IdentificationPrompt": {
+    "message": "Let's see some identification.<N>  <B 1> Certainly, here you are<N>  <B 2> Erm... I appear to have misplaced it<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedGood": {
+    "message": "Everything seems to be in order, you may pass.<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedBad": {
+    "message": "What kind of identification is that? I need papers if you want to go to the <FC 128,64,0>Council Chambers<END FC>!<P>Get out of here, time waster!<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_IdentificationDeclined": {
+    "message": "Yes, yes, a likely story. No identification, no entrance. We can't go letting just anyone have access to the <FC 128,64,0>Council Chambers<END FC>.<P> Now get lost!<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_Done": {
+    "message": "Good day to you, sir.<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_DoneWarning": {
+    "message": "Watch out for the little beasts around the canal.<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedWarning": {
+    "message": "Okay you can go through, but be careful. The whole canal is infested with beasts. They don't look like much, but they can be darn aggressive.<P>In fact, I'll do you a deal. If you can clear the canal of the infestation I'll give you this <FC 0,128,0>Portal Amulet<END FC>. It's no good to me; I haven't got a clue how to use it.<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedBeasts": {
+    "message": "There are still some of the critters left. You'll have to clear the whole canal if you want the <FC 0,128,0>Portal Amulet<END FC>.<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_IdentificationAcceptedComplete": {
+    "message": "Excellent, you cleared the whole canal! Great work, my friend.<P>Okay, here is the <FC 0,128,0>Portal Amulet<END FC> I promised. I hope you find more use for it than me.<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_GiveBothPiranha": {
+    "message": "Here, you can have these Piranha critters I caught too. I don't really want them.<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_GiveOnePiranha": {
+    "message": "Here, you can have this Piranha critter I caught too. I don't really want him.<E>"
+  },
+  "HT_Text_Aby_Canal_GateGuard_CouncilChambers": {
+    "message": "This passage leads to <FC 128,64,0>Abydos Council Chambers<END FC> sir.<E>"
+  },
+  "HT_Text_Aby_Canal_Beggar_MoneyPrompt": {
+    "message": "Can you spare a few <FC 0,128,0>Scarabs<END FC>, my friend?<N>  <B 1> No<N>  <B 2> I suppose, here's <FC 0,128,0>2 Scarabs<END FC><N>  <B 3> Of course, here's <FC 0,128,0>10 Scarabs<END FC><E>"
+  },
+  "HT_Text_Aby_Canal_Beggar_NoMoneyPrompt": {
+    "message": "You've given me enough, friend. I'd feel guilty taking any more of your <FC 0,128,0>Scarabs<END FC>.<E>"
+  },
+  "HT_Text_Aby_Canal_Beggar_NotEnoughMoney": {
+    "message": "You don't have that many <FC 0,128,0>Scarabs<END FC> yourself, friend. Perhaps you should find a doorway and take up my profession.<E>"
+  },
+  "HT_Text_Aby_Canal_Beggar_GivenNone": {
+    "message": "Fine! You don't know what it's like to be in poverty. Aren't you lucky.<E>"
+  },
+  "HT_Text_Aby_Canal_Beggar_GivenMinimum": {
+    "message": "Wow, <FC 0,128,0>2 Scarabs<END FC>! Now I can go and buy that house I always wanted!<P>Mumble... tight fisted... grumble... stingy little...<E>"
+  },
+  "HT_Text_Aby_Canal_Beggar_GivenMaximum": {
+    "message": "Aw, thanks friend! You are a generous man, thank you.<E>"
+  },
+  "HT_Text_Aby_Canal_Beggar_GivenMaximumAgain": {
+    "message": "Gee, thanks! If everyone was like you we'd have no problems in this world. I wouldn't even be sat here!<E>"
+  },
+  "HT_Text_Aby_Canal_Beggar_GivenMaximumReward": {
+    "message": "Wow, you are a regular samaritan! You've been so generous, let me give you something in return.<P>I found this thing the other day in one of the sewers. Don't ask me what I was doing down there, you don't want to know!<P>Anyway, it's all I have and I want you to take it.<E>"
+  },
+  "HT_Text_Aby_Canal_Inventor_GoAway01": {
+    "message": "Can you not read? The sign says no visitors!<E>"
+  },
+  "HT_Text_Aby_Canal_Inventor_GoAway02": {
+    "message": "You are not on official business so go away!<E>"
+  },
+  "HT_Text_Aby_Canal_Inventor_GoAway03": {
+    "message": "Stop knocking on my door! Official visitors only!<E>"
+  },
+  "HT_Text_Aby_Canal_Inventor_Prompt01": {
+    "message": "At last, someone on official business! Is that note for me?<N>  <B 1> Yes<N>  <B 2> No<E>"
+  },
+  "HT_Text_Aby_Canal_Inventor_Prompt02": {
+    "message": "Is that note for me?<N>  <B 1> Yes<N>  <B 2> No<E>"
+  },
+  "HT_Text_Aby_Canal_Inventor_Accept01": {
+    "message": "Ahh, excellent! Let me see...<P>Oh dear, this is unwelcome news indeed. <FC 0,128,0>Healing Herbs<END FC>, hmmm...<P>These do grow around <FC 128,64,0>Abydos<END FC> but the plants are very fragile and will die very soon after they are picked.<P>What you need is a <FC 0,128,0>Medicine Bag<END FC> to keep them fresh. I'm afraid I don't have anything like that in my workshop.<P>The only thing I have that might be of interest to you at the moment is this. I'm not sure what it is for though; maybe you could shed some light on the matter?<E>"
+  },
+  "HT_Text_Aby_Canal_Inventor_Decline01": {
+    "message": "Bah! I think you are lying to me!<E>"
+  },
+  "HT_Text_Aby_Canal_Inventor_MedicineBag01": {
+    "message": "Hello again, stranger. What's that you've got there?<P>A <FC 0,128,0>Medicine Bag<END FC>? Very interesting. It looks like it will have no trouble preserving the <FC 0,128,0>Healing Herbs<END FC> that you need.<P>Don't waste any more time talking to me, get collecting those herbs for the Mayor!<E>"
+  },
+  "HT_Text_Aby_Canal_Inventor_Herbs01": {
+    "message": "You still haven't found any of the herbs? You'd better get a move on before it's too late!<E>"
+  },
+  "HT_Text_Aby_Canal_Inventor_Herbs02": {
+    "message": "Very good, you have found some of the herbs. Hurry and find the rest before it's too late!<E>"
+  },
+  "HT_Text_Aby_Canal_Inventor_Herbs03": {
+    "message": "Excellent, you have all the herbs! What are you doing chatting on to me?! Get back to the <FC 128,64,0>Council Chambers<END FC> immediately!<E>"
+  },
+  "HT_Text_Aby_Canal_Inventor_Done01": {
+    "message": "Hello again! You did a great job saving the Mayor. The citizens of <FC 128,64,0>Abydos<END FC> owe you a great debt of gratitude.<E>"
+  },
+  "HT_Text_Aby_Canal_Help_CanalCleared": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>That is the last of the creatures<N>infesting the <FC 128,64,0>Narrow Canal<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>You should report back to the<N>Abydosian Guard and claim your reward!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Aby_Canal_Help_GotHerbGood": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Healing Herb<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It is safely stored in your <FC 0,128,0>Medicine Bag<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Aby_Canal_Help_GotHerbBad": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Healing Herb<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>But it withered and died almost immediately!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Aby_Canal_Help_GotAnkhPiece": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh Piece<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Aby_Cana_StairsDoorLocked": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A <FC 0,128,0>Key<END FC> is needed to open this door.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Aby_Cana_Help_FoundPearl": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found an <FC 0,128,0>Abydosian Pearl<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Aby_Canal_Key_01": {
+    "message": "Yes, that's three <FC 0,128,0>Abydosian Pearls<END FC>! Thanks!<P>I think I'll take my wife to see the jewel collection in the museum. She'll love to wear the necklace for that.<E>"
+  },
+  "HT_Text_Aby_Canal_Key_02": {
+    "message": "You can use this key to open the door to the upper walkway if you wish.<E>"
+  },
+  "HT_Text_Aby_Generic": {
+    "message": "I've got no time to talk to the likes of you.<E>"
+  },
+  "HT_Text_Aby_Canal_WellNPC1_A": {
+    "message": "This juggling guy is brilliant, isn't he? A bit crazy, but brilliant nonetheless...<P>My sister would love to see this.<E>"
+  },
+  "HT_Text_Aby_Canal_WellNPC1_B": {
+    "message": "You look like an adventurer. When I was young I used to love stories about adventurers.<E>"
+  },
+  "HT_Text_Aby_Canal_WellNPC1_C": {
+    "message": "Have you visited the great <FC 128,64,0>Abydos Museum<END FC>? It's a fascinating place.<E> "
+  },
+  "HT_Text_Aby_Canal_WellNPC2_A": {
+    "message": "What's going on with all these monsters and the electrified water? Do you think we're under attack? <FC 128,64,0>Abydos<END FC> is a peaceful city!<E>"
+  },
+  "HT_Text_Aby_Canal_WellNPC2_B": {
+    "message": "When will the Mayor do something about the monsters and electrified water?<E>"
+  },
+  "HT_Text_Aby_Canal_WellNPC2_C": {
+    "message": "Business is pretty bad these days, everyone's just too scared.<E>"
+  },
+  "HT_Text_Aby_Canal_WellNPC3_A": {
+    "message": "I wonder what all this electrified water and wild monsters appearing means?<E>"
+  },
+  "HT_Text_Aby_Canal_WellNPC3_B": {
+    "message": "You're not from around here are you? Usually <FC 128,64,0>Abydos<END FC> is a lot busier than this, but the monsters and electrified water have gotten people scared...<E>"
+  },
+  "HT_Text_Aby_Canal_WellNPC3_C": {
+    "message": "I think the Mayor should give this man a job as official entertainer. I wish my sister were here to see him.<E>"
+  },
+  "HT_Text_Aby_Canal_PearlMan_A": {
+    "message": "Thanks again for your help! The necklace is perfect, the wife won't notice a thing now.<E>"
+  },
+  "HT_Text_Aby_Canal_PearlMan_B": {
+    "message": "My wife thinks the electrified water is part of some plot against the Mayor.<E>"
+  },
+  "HT_Text_Aby_Canal_PearlMan_C": {
+    "message": "Have you explored our beautiful city yet? There's lots of great things to do here.<E>"
+  },
+  "HT_Text_Aby_Canal_ZipHint01": {
+    "message": "If you had a <FC 0,128,0>Zip Line Handle<END FC>, you could use all the zip lines around <FC 128,64,0>Abydos<END FC> to get places.<P>I heard the museum was giving one away to anyone who donated a monster to the collection...<E>"
+  },
+  "HT_Text_Aby_Canal_ZipHint02": {
+    "message": "If you want to leave <FC 128,64,0>Abydos<END FC>, you'll need a <FC 0,128,0>Zip Line Handle<END FC> to get to the ferryman.<E>"
+  },
+  "HT_Text_Aby_Canal_ZipHint03": {
+    "message": "I understand that people who give monsters to the museum receive <FC 0,128,0>Zip Line Handles<END FC> so they can use the <FC 128,64,0>Abydos<END FC> zip lines.<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_Ramble": {
+    "message": "I bought this Goofy Lizard from a man called Jek who said it was very valuable, but I think he was lying.<P>It's useless! I've tried teaching it to do tricks or to fetch stuff, but it won't do anything!<P>I'll never impress my girlfriend with it.<P>If only I could find something else to impress my girlfriend with...<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_GotMedal": {
+    "message": "Hey! Is that a game medal? Wow!<P>If you get all four of them, I'll swap this usele- I mean valuable lizard for them!<P>What do you say?<N>  <B 1> Yes<N>  <B 2> No<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_GotMedals": {
+    "message": "Hey! Are those game medals? Wow!<P>If you get all four of them, I'll swap this usele-- I mean valuable lizard for them!<P>What do you say?<N>  <B 1> Yes<N>  <B 2> No<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_ItsADeal": {
+    "message": "Brilliant! Come back when you have them all!<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_NoDeal": {
+    "message": "Are you sure? Look at how green and... lizardy the lizard is! No? Well, the offer's always open.<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_AskDeal": {
+    "message": "Changed your mind yet? Do you want to swap all the game medals for my lizard?<N>  <B 1> Yes<N>  <B 2> No<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_NotGotAll": {
+    "message": "Haven't you got them all yet? Well, when you have got them all, come and see me.<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_DoDeal": {
+    "message": "You've got them all! Wow! Do you want to swap now?<N>  <B 1> Yes<N>  <B 2> No<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_NotYet": {
+    "message": "Not yet? Well, when you're ready to swap, just come and tell me.<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_Swapped": {
+    "message": "Excellent! My girlfriend's going to be so impressed!<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_Finished01": {
+    "message": "These medals are great. My girlfriend will be amazed!<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_Finished02": {
+    "message": "I think I should get a display cabinet for these medals.<E>"
+  },
+  "HT_Text_Aby_Canal_LizardOwner_Finished03": {
+    "message": "I wonder how the museum's doing after that terrible robbery?<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Introduction01": {
+    "message": "Well, well! A stranger! I would so like to know how you arrived here.<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Introduction02": {
+    "message": "Dear me! There is no ship on that side, and only an imbecile would try to swim through electrified water!<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Introduction03": {
+    "message": "<FC 128,64,0>Abydos<END FC> was the quintessential prosperous and peaceful city, until those Electric Eels came along.<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Introduction04": {
+    "message": "Nobody knows where they come from, but they are lowering the tone of the city beyond words!<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Hint1": {
+    "message": "I hear someone dropped something in the well. I wonder what it is?<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Hint2": {
+    "message": "Jars contain some interesting things sometimes.<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Mayor01": {
+    "message": "<EFF><EPO>What are we to do? The Mayor has been taken ill! I wonder what could be wrong with him?<P>Soon he won't even be strong enough to wear the <FC 0,128,0>Sacred Crown of Abydos<END FC> upon his head!<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Mayor02": {
+    "message": "Monsters, electrified water and now the Mayor! What a terrible state of affairs this is!<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Mayor03": {
+    "message": "I wonder who will take charge if the Mayor doesn't recover from his illness soon?<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Mayor04": {
+    "message": "I do hope the council Physician can help the Mayor.<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_MayorCured01": {
+    "message": "The Mayor has been cured? What luck!<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Defeated01": {
+    "message": "Who would've thought the Mayor's advisors were traitors?<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Defeated02": {
+    "message": "Now the Mayor is rid of his evil advisors, perhaps he will clean up city...<E>"
+  },
+  "HT_Text_Aby_Canal_Posh_Defeated03": {
+    "message": "I think Mayor has been very brave through all this.<E>"
+  },
+  "HT_Text_Aby_Canal_MuseumGuard_Block01": {
+    "message": "Sorry but I can’t allow you entrance to the museum until the grand unveiling of the <FC 128,64,0>Abydos<END FC> jewel collection is ready.<P>Please come back later sir.<E>"
+  },
+  "HT_Text_Aby_Canal_MuseumGuard_Block02": {
+    "message": "I'm sorry, I can't let you into the museum, sir.<E>"
+  },
+  "HT_Text_Aby_Canal_MuseumGuard_Block03": {
+    "message": "Please sir, I've already told you you're not allowed in.<P>Come back later when the grand unveiling of the jewel exhibit is ready.<E>"
+  },
+  "HT_Text_Aby_Canal_MuseumGuard_Open01": {
+    "message": "Enjoy the museum, sir.<E>"
+  },
+  "HT_Text_Aby_Canal_MuseumGuard_Open02": {
+    "message": "Move along, sir.<E>"
+  },
+  "HT_Text_Aby_Canal_MuseumGuard_Open03": {
+    "message": "Have a pleasant day, sir.<E>"
+  },
+  "HT_Text_Aby_Canal_Juggler01": {
+    "message": "Don’t distract me! You made me drop the balls!<E>"
+  },
+  "HT_Text_Aby_Canal_Juggler02": {
+    "message": "Stop distracting me! I tend to drop the balls if anyone talks to me!<E>"
+  },
+  "HT_Text_Aby_Canal_PearlMan01": {
+    "message": "The wife is gonna kill me if she finds out I lost her pearl necklace! <P>She's bound to notice this new one I bought has three missing.<P>Say, if you come across any <FC 0,128,0>Abydosian Pearls<END FC>, let me know! <E>"
+  },
+  "HT_Text_Aby_Canal_PearlMan02": {
+    "message": "Did you find any <FC 0,128,0>Abydosian Pearls<END FC>? No? Well keep looking!<E>"
+  },
+  "HT_Text_Aby_Canal_PearlMan03": {
+    "message": "You found an <FC 0,128,0>Abydosian Pearl<END FC>?! Thanks! Just two more and I'll be saved!<E>"
+  },
+  "HT_Text_Aby_Canal_PearlMan04": {
+    "message": "Another <FC 0,128,0>Abydosian Pearl<END FC>? Thank you so much friend! But I still need one more!<E>"
+  },
+  "HT_Text_Aby_Canal_PearlMan05": {
+    "message": "Two <FC 0,128,0>Abydosian Pearls<END FC>? Thanks! Thanks a lot! But I still need one more...<E>"
+  },
+  "HT_Text_Aby_Canal_PearlMan06": {
+    "message": "Did you find any more <FC 0,128,0>Abydosian Pearls<END FC> yet? No?<E>"
+  },
+  "HT_Text_Aby_Canal_PearlMan07": {
+    "message": "Yes, that's three <FC 0,128,0>Abydosian Pearls<END FC>! Thanks! You can use this key to open the door to the upper walkway if you wish.<P>I think I'll take my wife to see the jewel collection in the museum. She'll love to wear the necklace for that.<E>"
+  },
+  "HT_Text_Aby_Cana_ClosedDoors1": {
+    "message": "Whatever it is, I'm not buying it! <E>"
+  },
+  "HT_Text_Aby_Cana_ClosedDoors2": {
+    "message": "Go away, I'm busy! <E>"
+  },
+  "HT_Text_Aby_Cana_ClosedDoors3": {
+    "message": "I'm having dinner, come back later! <E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick1": {
+    "message": "Oooooooooh...<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick2": {
+    "message": "Ahhhhhhhhh...<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick3": {
+    "message": "Bluuuuurgh...<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Recover": {
+    "message": "I feel so much better now, thank you! Wait in the outer chambers while I gain my strength and I will come reward you <E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved1": {
+    "message": "I cannot believe my trusted advisors betrayed me like that!<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved2": {
+    "message": "It's so hard to find trustworthy advisors these days!<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted1": {
+    "message": "It's so hard to get honest advisors these days.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted2": {
+    "message": "Now the crown is safe and I am cured, I'll be able to turn my attention to solving the problem of the electrified water.<E>"
+  },
+  "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted3": {
+    "message": "I had no idea there was an underground cavern beneath that statue. Perhaps I should have the town plans examined to see what else the city hides.<E>"
+  }
+}

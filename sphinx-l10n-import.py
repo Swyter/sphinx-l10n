@@ -20,6 +20,7 @@ lang = {
     'MARKER_GREEK':      'el',
     'MARKER_ARABIC':     'ar',
     'MARKER_RUSSIAN':    'ru',
+    'MARKER_UKRAINIAN':  'uk',
 }
 
 

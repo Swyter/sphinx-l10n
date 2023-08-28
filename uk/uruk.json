@@ -1,0 +1,398 @@
+{
+  "HT_Text_Urk_3beams_Women_Freed1a": {
+    "message": "Дякую, сер! Дякую, що звільнили мене. Тут було так жахливо! <E>"
+  },
+  "HT_Text_Urk_3beams_Women_Freed1b": {
+    "message": "Я маю повернутися до свого чоловіка якомога швидше. Він, напевно, з глузду з'їхав від хвилювання!<E>"
+  },
+  "HT_Text_Urk_3beams_Women_Freed1c": {
+    "message": "Будь ласка, повернись зі мною. Мій чоловік із задоволенням подякує героя, який врятував його дружину!<E>"
+  },
+  "HT_Text_Uruk_Intro_Entrance1a": {
+    "message": "<EFF><EPO>Так, це сумно відомий <FC 128,64,0>Замок Урук<END FC>... <P>Ніхто не знає, що відбувається за цими мурами... Принаймні, ніхто не живий. Але я чітко відчуваю злу природу цієї жахливої споруди!<E>"
+  },
+  "HT_Text_Uruk_Intro_Entrance1b": {
+    "message": "Подивіться! Як бачите, пронизливий вогненний промінь активний, і це мене дуже непокоїть. <E>"
+  },
+  "HT_Text_Uruk_Intro_Entrance1b1": {
+    "message": "<EFF><EPO>Легенда розповідає, що він захищає замок і околиці <FC 128,64,0>Урук<END FC> величезною силою.<P>Ця територія повна пасток і перешкод, але немає нічого такого руйнівного, як промінь. <E>"
+  },
+  "HT_Text_Uruk_Intro_Entrance1c": {
+    "message": "Поза цим місцем мої сили марні... Боюся, я не зможу супроводжувати вас далі... <E>"
+  },
+  "HT_Text_Uruk_Intro_Entrance1c1": {
+    "message": "Тепер ви обидва повинні знайти чарівний <FC 0,128,0>Клинок Осіріса<END FC>. Тільки якщо ви працюватимете разом, у вас буде можливість знайти його!<E>"
+  },
+  "HT_Text_Uruk_Intro_Entrance1c2THQ": {
+    "message": "Тепер, вам обом потрібно розійтись. Хорус має пройти через пагорби <FC 128,64,0>Урук<END FC>, а ти, Сфінксе, маєш пройти через цей портал. <E>"
+  },
+  "HT_Text_Uruk_Intro_Entrance1d": {
+    "message": "Успіхів у ваших пошуках, мої відважні молоді шукачі пригод!<W 60>"
+  },
+  "HT_Text_Uruk_Intro_Entrance2a": {
+    "message": "Мені здається, я бачу щось цікаве в скелі. Піду перевірю. А ти продивись тут.<E>"
+  },
+  "HT_Text_Uruk_Intro_Entrance2a1THQ": {
+    "message": "Добре. Час діяти. Мені стало нудно від усіх цих розмов. Я піду туди й подивлюся, що знайду; ти пройдеш через ті двері. Ми зустрінемося в <FC 128,64,0>Хеліополісі<END FC>. <E>"
+  },
+  "HT_Text_Uruk_intro_01a_Horus_TooHigh": {
+    "message": "Агов, Сфінкс! Я тут біля спаду лави. Підходь, мені потрібно тобі дещо показати.<E>"
+  },
+  "HT_Text_Uruk_intro_01_Horus_CallingUpHere1": {
+    "message": "Хм, це занадто високо для тебе, чи не так? Я не розумію, чому Майстер наполіг, щоб ті пішов зі мною. Ти затримуєш мене!<E>"
+  },
+  "HT_Text_Uruk_intro_01_Horus_CallingUpHere2": {
+    "message": "Спробуй знайти інший шлях сюди. Я знайшов дещо, і мені потрібно показати тобі, як це працює.<E>"
+  },
+  "HT_Text_Uruk_intro_01_Horus_CallingUpHere3": {
+    "message": "Я достатньо вправний, щоб знайти Клинок сам. Тобі потрібно буде самостійно придумати, як сюди піднятися.<E>"
+  },
+  "HT_Text_Uruk_intro_02_Sphinx_TalkToad1": {
+    "message": "Ох! Ти надто слабкий!<E>"
+  },
+  "HT_Text_Uruk_intro_02_Sphinx_TalkToad2": {
+    "message": "Я голодний, але я не настільки відчайдушний, щоб їсти таких, як ти. Забагато одягу...<E>"
+  },
+  "HT_Text_Uruk_intro_02_Sphinx_TalkToad3": {
+    "message": "Якби я з'їв кілька <FC 0,128,0>Кокосів<END FC>... Я не їв <FC 0,128,0>Кокоси<END FC> багато років. Мммм... просто мрію про них весь час...<E>"
+  },
+  "HT_Text_Uruk_Intro_03_Horus_BloodPresentation1": {
+    "message": "Нарешті ти піднявся! Я не думав, що ти встигнеш. <E>"
+  },
+  "HT_Text_Uruk_Intro_03_Horus_BloodPresentation2": {
+    "message": "<EFF><EPO>Ти повільний, як равлик! У будь-якому разі Я знайшов Кров Ра...<P>Майстер Імхотеп сказав, що це дозволить нам ходити по потоках лави та парових гейзерах...<E>"
+  },
+  "HT_Text_Uruk_Intro_03_Horus_BloodPresentation3": {
+    "message": "...але підійти до нього неможливо. Треба щось придумати.<E>"
+  },
+  "HT_Text_Uruk_Intro_04_Horus_Blood_Shower1": {
+    "message": "Не знаю, чому я не подумав про це раніше.<E>"
+  },
+  "HT_Text_Uruk_Intro_04_Horus_Blood_Shower2": {
+    "message": "Можливо, тобі просто пощастило... точніше, я знав рішення і просто бавився з тобою!<E>"
+  },
+  "HT_Text_Uruk_Intro_04_Horus_Blood_Shower3": {
+    "message": "У будь-якому випадку я йду перший. Чекати на тебе дуже стомлює.<W 60>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Climb01": {
+    "message": "<EFF><EPO>Агов, Сфінкс! Тут нагорі! Треба поспішати.<P> Мені потрібна твоя допомога тут.<E>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Climb02": {
+    "message": "<EFF><EPO>Стрибніть до стіни та використовуйте <SB HT_PadAction_PLR_MovePlr>, щоб рухатись.<P>Щоб повільно підніматися, рухайтесь <SB HT_PadAction_PLR_MovePlr> повільно.<E>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Climb03": {
+    "message": "Проте, стережіться цих павуків; вони можуть вас боляче вкусити, якщо ви не будете обережні!<E>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_LedgeHang01": {
+    "message": "Ось тут! Використай перила, щоб перетнути щілину.<E>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
+    "message": "<EFF><EPO>Стрибніть і візьміться за поручні, а потім використовуйте <SB HT_PadAction_PLR_MovePlr>, щоб рухатись.<P>Щоб йти повільніше використай <SB HT_PadAction_PLR_MovePlr>.<E>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
+    "message": "Натисніть <SB HT_Action_Drop>, щоб впасти, але спершу переконайтеся, що ви безпечно перетнули проміжок!<E>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_UseRock01": {
+    "message": "Сфінкс!! Ось тут! Я думаю, що ти мені все-таки знадобишся...<W 60>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_UseRock02": {
+    "message": "Якщо ви кинете камінь у дупло, то, можливо, ви отримаєте щось корисне.<E>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_UseSlimBurble01": {
+    "message": "Будь обережний, Сфінкс, ці монстри виглядають досить нешкідливими, але вони вибухають!<E>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_UseSlimBurble02": {
+    "message": "<EFF><EPO>Коли вони розлючені, то блимають червоним і кидаються до ворога, вибухаючи при контакті.<P>Якщо ви швидкий, то можете використати їх у своїх цілях, заманивши їх до відповідного об’єкта.< E>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Blade01": {
+    "message": "Нарешті я його знайшов! Стародавній <FC 0,128,0>Клинок Осіріса<END FC>. Подивись, він ось там на скелі. Але, як ми можемо до нього дістатися?<E>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Blade01a": {
+    "message": "Це там, на тій скелі.<E>"
+  },
+  "HT_Text_Urk_Intro_HorusHD54_Blade02": {
+    "message": "<FC 0,128,0>Клинок Осіріса<END FC> зараз видно, але, я не бачу, як дістатися до нього!<E>"
+  },
+  "HT_Text_Urk_Intro_Help_LongJump": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Натисніть і утримуйте <SB HT_Action_Jump> протягом довшого періоду<N>часу, щоб стрибнути далі.<E>"
+  },
+  "HT_Text_Urk_Intro_Help_ZipLine": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Це зіплайн. Стрибніть і впіймайте<N>ручку, якщо хочете нею скористатися.<E>"
+  },
+  "HT_Text_Urk_Intro_Help_SavePoint": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ці священні статуї дозволяють зберегти ваш прогрес.<P><ES HT_Text_ES_S_HelpText><CNTR>Якщо було вибрано збережену гру; підійдіть до одного з них і натисніть <N><SB HT_Action_SavePoint>, щоб зберегти прогрес до цього моменту.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade01": {
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Клинок Осіріса<END FC>!<E>"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade02": {
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Сам великий бог Осіріс колись володів<N>цією потужною зброєю!<E>"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade03": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Натисніть і утримуйте <SB HT_Action_Attack>, щоб виконати удар мечем.<P><ES HT_Text_ES_S_HelpText><CNTR>Натисніть <SB HT_Action_Jump>, а потім натисніть <SB HT_Action_Attack> у повітрі<N>для виконання високого удару.<P><ES HT_Text_ES_S_HelpText><CNTR>Високий удар корисний для вражання<N>цілей, таких як підвісні лампи.<E>"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade04": {
+    "message": "Ви знайшли <FC 0,128,0>Клинок Осіріса<END FC>, але це насторожило людей у <FC 128,64,0>замку Урук<END FC>!<E>"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade05": {
+    "message": "Через ці печери проходить магічний портал — стародавній пристрій, які раніше використовували боги для подорожей між світами. <E>"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade06": {
+    "message": "Багато років тому я сховав <FC 0,128,0>портальний амулет<END FC> на високому виступі зовні порталу. <E>"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade07": {
+    "message": "Цей амулет дозволить вам швидко й безпечно повернутися до нашого храму. <E>"
+  },
+  "HT_Text_Urk_Intro_Help_GotBlade08": {
+    "message": "Але тобі треба поспішати, поки тебе не спіткає та сама доля, що й Хоруса!<E>"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed01": {
+    "message": "На жаль, ви потрапили в пастку тут, у камері порталу, і у вас немає правильного <FC 0,128,0>Амулета порталу<END FC>. <E>"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed02": {
+    "message": "Ми повинні бути вдячні, що ти ще живий. На жаль, захист замку занадто сильний для нас. <E>"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed03": {
+    "message": "Вам не вдалося зібрати амулет, який відправив би вас додому, але я бачу, що ви знайшли інший <FC 0,128,0>Таємничий амулет<END FC>.<E>"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed04": {
+    "message": "Я не знаю, куди це приведе, але здається, у вас немає вибору. Підійдіть до магічного кола перед Богом Портала і скористайтеся амулетом.<E>"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed05": {
+    "message": "Підійдіть до магічного кола перед порталом і використовуйте амулет.<E>"
+  },
+  "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed06": {
+    "message": "Сфінкс, сподіваюся, що він приведе тебе в безпечне місце.<E>"
+  },
+  "HT_Text_Urk_Intro_Help_GotPortalAmulet": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Амулет Порталу<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Цей золотий артефакт було зроблено на честь Бога Порталу. <E>"
+  },
+  "HT_Text_Urk_Intro_Help_AmuletAccepted": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу визнає вашу пропозицію та надасть переміщення до <FC 128,64,0>Люксор<END FC>...<E>"
+  },
+  "HT_Text_urk_intr_HorusNeedtoShowU": {
+    "message": "О, я забув... ти все ще розвиваєш свої навички... це занадто тяжко для тебе.<P> Спробуй знайти інший шлях сюди, я маю показати тобі, як це працює.<P> Як я маю це робити з тобою там, унизу?<E>"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_Hungry ": {
+    "message": "БУЕ! Занадто м’зистий!<P>Я голодую, але не можу їсти все, що попадеться! Забагато одягу...<N>Якби я мав трохи <FC 0,128,0>кокосових горіхів<END FC>... Я не їв <FC 0,128,0>кокосових горіхів<END FC> багато років. Мммм... просто мрію про них...<E>"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryShort": {
+    "message": "Охх, я такий голодний... Впевнений, що тут є декілька <FC 0,128,0>кокосових пальм<END FC>.<E>"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_Hungry1": {
+    "message": "Агов, ти, розфарбований! Що це я відчуваю на тобі? Це... так! <FC 0,128,0>Кокоси<END FC>!<P>Можна і мені?<N> <B 1> Звичайно, забирай собі!<N> <B 2> Ні! Знайди сам!<E>"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryYes": {
+    "message": "Смакота! Дякую!<P>Я хотів бі ще декілька таких. Якщо ви дасте мені ще трохи, то, можливо, я зможу вам допомогти... <E>"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryNo": {
+    "message": "Тоді йди геть і припини знущатися з мене!<E>"
+  },
+  "HT_Text_urk_intr_HorusTalk_01": {
+    "message": "Ви бачите статую, з якої капає кров? Кажуть, що це сама Кров Ра.<P>Той, хто стоїть під кров’ю, буде закутий у захисний щит, який дозволить йому неушкодженим ходити по киплячій гарячій лаві.<P>Однак, кажуть, що щит триває лише короткий час, перш ніж зникнути.<E>"
+  },
+  "HT_Text_urk_intr_HorusTalk_StoneNear": {
+    "message": "Сфінкс! Забери від мене цей брудний камінь! <E>"
+  },
+  "HT_Text_urk_intr_HorusTalk_StoneThrown": {
+    "message": "АГОВ! Ти цим комусь око виб'єш! <E>"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryYes1": {
+    "message": "Ще два, щоб насититися.<E>"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryYes2": {
+    "message": "Вони дуже смачні. Ще один будь-ласка.<E>"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_HungryYes3": {
+    "message": "О, дякую тобі! Це набагато краще!<P>Просто наступи на мій язик, і я допоможу тобі дістатися, куди тобі потрібно.<P>Спочатку виберіть горизонтальний напрямок, потім виберіть вертикальний напрямок, і я плюну вас у те положення, яке ви вибрали.<P>Однак вибирайте уважно. Якщо ви скажете мені плюнути вас у лаву, я зроблю саме так!<E>"
+  },
+  "HT_Text_urk_intr_SpittingToad_InLava_NotEnough": {
+    "message": "Я все ще голодний.<E>"
+  },
+  "HT_Text_urk_intr_PickupCocoon": {
+    "message": "Ви отримали Кокон.<E>"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall01": {
+    "message": "Хм... Щиро дякую, Сфінкс, ти був більш корисним, ніж я очікував. Тепер я можу дістатися до <FC 0,128,0>Клинка Осіріса<END FC>.<E>"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall02": {
+    "message": "Що відбувається? Все тремтить... <W 60>"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall03": {
+    "message": "Диви! Промінь!... Заряджається!!!... <W 60>"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall03a": {
+    "message": "Це не добре... <W 60>"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall04": {
+    "message": "Сфінкс, це НЕ віщує нічого доброго!!<W 60>"
+  },
+  "HT_Text_Urk_Intro_Horus_Fall05": {
+    "message": "Ого! Пощастило. О ні... куди це? Сфінкс?! Сфінкс!!<E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation01": {
+    "message": "<EFF><EPO>Час, якого я боявся, настав; пророчена темрява незабаром опуститься на нас... і ми повинні бути готові.<P>Я обрав вас обох, тому, що ви вже довели, що ви мої найгідніші учні.<E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation01a": {
+    "message": "Завдання, до якого ви збираєтесь приступити, стане випробуванням ваших сил і здібностей.<E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation02": {
+    "message": "Будьте готові, адже шлях попереду буде дуже небезпечним. Я не можу гарантувати безпечний прохід або те, що ти повернешся живим. <E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation02a": {
+    "message": "Але ви повинні йти за власним вибором. Ще є час відмовитися, якщо хочете.<E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation03": {
+    "message": "Розумію. Оскільки ви обоє прийняли завдання, я перевезу нас до <FC 128,64,0>Урука<END FC>, країни темряви.<E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation04": {
+    "message": "Там вам потрібно буде знайти <FC 0,128,0>Клинок Осіріса<END FC>, старий і могутній меч, захищений демонами <FC 128,64,0>Урука<END FC>.<E>"
+  },
+  "HT_Text_Urk_Intro_Temple_Presentation05": {
+    "message": "Готуйтеся до подорожі...<W 90>"
+  },
+  "HT_Text_Urk_Intro_Geyser_Off": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Цей гейзер неактивний. Схоже, для вибуху потрібен<N>додатковий потік лави.<E>"
+  },
+  "HT_Text_Urk_Intro_Pickup_Stone": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Зверніть увагу, як змінюється <SB HT_Action_PickupObject> у верхньому правому екрані<N>, коли ви наближаєтеся до певних об’єктів або елементів.<P><ES HT_Text_ES_S_HelpText><CNTR>Ви можете натиснути <SB HT_Action_PickupObject>, щоб підняти скелі<N>так, коли ти близько до них.<E>"
+  },
+  "HT_Text_Urk_Intro_Pushable_Stone": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Натисніть <SB HT_Action_Grab>, щоб схопити об’єкт...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...потім використовуйте <SB HT_PadAction_PLR_MovePlr>, щоб штовхнути або потягнути їх .<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1a": {
+    "message": "<EFF><EPO>Ласкаво просимо на <FC 128,64,0>Острови Урука<END FC> Сфінкс! Мій друг Імхотеп сказав мені, що ти прибудеш.<P>Я знаю, що ти шукаєш <FC 0,128,0>Священну корону Урука<END FC>, яку тримає смертоносна Королева Геб.<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1b": {
+    "message": "Але спочатку ви повинні подолати випробування розуму і тіла; мудрість і здібності.<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1c": {
+    "message": "Якщо ви досягнете успіху, це означатиме, що ви готові подолати могутню силу Королеви Геб...<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1d": {
+    "message": "...але якщо ви зазнаєте невдачі, у храмі за тими дверима на вас чекає похмура доля...<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1e": {
+    "message": "Отже, ви приймаєте цей тест?<N> <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fAccept": {
+    "message": "Добре, тоді заходьте до храму. Якщо ви виберетеся, принесіть мені те, що знайдете.<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fReject": {
+    "message": "Як я і підозрював, ти боягуз!<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestPrompt": {
+    "message": "Ви вирішили пройти випробування?<N> <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestAccepted": {
+    "message": "Добре, зайдіть у храм і, якщо зможете втекти, принесіть мені те, що знайдете.<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestRejected": {
+    "message": "Як я і підозрював, тобі страшно!<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestPromptAgain": {
+    "message": "Передумувати вже пізно. Храм чекає...<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestAlmostComplete": {
+    "message": "Якщо ви нічого не знайдете - ви провалили тест.<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestComplete": {
+    "message": "<EFF><EPO>Ааа, ти повернувся! Вітаю, Сфінкс! Я знав, що ти переможеш.<P>Небагато людей...або.. тварин?. Кхм. Здатні витримати випробування храмом.<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestComplete1": {
+    "message": "<EFF><EPO>Артефакт, який ви знайшли, можна використати для активації цієї <FC 0,128,0>Вогневої точки Ка Анкх<END FC>.<P>Я впевнений, що авантюрист з вашим досвідом добре знає про містичний Ка Анхс.<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestComplete2": {
+    "message": "<EFF><EPO>Перед тим, як піти, порада. Королева Ґебу — страшний ворог. Я сумніваюся, що ти зможеш перемогти її сам.<P>У запалі бою ти не повинен забувати, що інші істоти можуть надати тобі необхідну можливість перемогти Королеву...<P>Прощавай Сфінкс, удачі...<E>"
+  },
+  "HT_Text_Urk_2key_UrukiteHD60_QuestCompleteAgain": {
+    "message": "Ви добре впоралися, Сфінкс, але я більше не можу вам допомогти.<E>"
+  },
+  "HT_Text_Urk_4pat_Help_FoundBounce": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Стрибучі Дротики<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ці чарівні дротики можна використовувати, щоб вразити<N>цілі, до яких у вас немає прямого доступу.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Urk_4pat_Help_FoundBeetles": {
+    "message": "<N><CNTR>У вас є <FC 0,128,0>Вибухові жуки<END FC>!<P>Озбройте їх <FC 0,128,0>кнопкою направлення<END FC>, як ви зробили з <FC 0,128,0 >Духа<END FC>. Відпустивши, керуйте жуком за допомогою <SB HT_PadAction_PLR_MoveBeetle>.<P>Вони вибухають при контакті з монстрами та стінами, але ви також можете <FC 0,128,0>ВІДЗВАТИ<END FC> або <FC 0,128,0>ДЕТОНУВАТИ<END FC> їх.<E>"
+  },
+  "HT_Text_Urk_4pat_Help_DoubleJump": {
+    "message": "<DHP><DP>Стрибніть вище, утримуючи кнопку <FC 0,128,0>Стрибок<END FC>. Робіть сальто, натиснувши двічі кнопку <FC 0,128,0>JUMP<END FC>. <W 120>"
+  },
+  "HT_Text_Urk_4pat_WomanHelp1": {
+    "message": "Допоможіть!! Допоможіть мені!!.<W 60>"
+  },
+  "HT_Text_Urk_4pat_WomanHelp2": {
+    "message": "Сер, демонічна душа викрала моїх маленьких братів і мене. Будь ласка, допоможіть нам вибратися з цього диявольського храму!<E>"
+  },
+  "HT_Text_Urk_4pat_WomanHelp3": {
+    "message": "Благаю, допоможіть нам вибратися звідси!<E>"
+  },
+  "HT_Text_Urk_4pat_WomanHelp4": {
+    "message": "Дякую, пане, за ваші благородні вчинки...<W 60>"
+  },
+  "HT_Text_Urk_4pat_WomanHelp5": {
+    "message": "Ми з моїми малими братами хочемо винагородити ваші зусилля...<W 60>"
+  },
+  "HT_Text_Urk_Set_Presenation1": {
+    "message": "Я чекав на тебе, Сфінкс, ОДИН з пророцтва. <E>"
+  },
+  "HT_Text_Urk_Set_Presenation2": {
+    "message": "Я бачу, що мого брата Осіріса тут немає, щоб зустрітися зі мною. Він занадто слабкий для такого протистояння.<E>"
+  },
+  "HT_Text_Urk_Set_Presenation3": {
+    "message": "А може, він занадто боягузливий, щоб протистояти мені. ха-ха-ха!! <E>"
+  },
+  "HT_Text_Urk_Set_Presenation4": {
+    "message": "Ти добре зробив, що поки перешкодив моїм планам, але зрештою я контролюватиму силу ока Ра. <E>"
+  },
+  "HT_Text_Urk_Set_Presenation5": {
+    "message": "Ви та ваша купа нежиті виконали пророцтво.<E>"
+  },
+  "HT_Text_Urk_Set_Presenation6": {
+    "message": "Але я подбаю про те, щоб пророцтво закінчилося твоєю смертю та мною знищеним Осірісом...<E>"
+  },
+  "HT_Text_Urk_Set_Presenation6a": {
+    "message": "НАЗАВЖДИ!!!!! <W 60>"
+  },
+  "HT_Text_Urk_Set_Presenation7": {
+    "message": "Жалюгідна істота, Осіріс не розповідав тобі про мою справжню форму! Хахахахаха!!!!! <E>"
+  },
+  "HT_Text_Urk_Set_Presenation8": {
+    "message": "Тепер, настав час твоєї смерті! <W 60>"
+  },
+  "HT_Text_Urk_Set_BossDead1": {
+    "message": "Чудово, Сфінкс! Ви врятували мумію з рук Сета. Сет був сильно ослаблений, але бути знищеним не його доля.<E>"
+  },
+  "HT_Text_Urk_Set_BossDead2": {
+    "message": "Світ не може існувати без зла, так само, як денне світло має бути врівноважене з темрявою ночі. <E>"
+  },
+  "HT_Text_Urk_Set_BossDead3": {
+    "message": "З ослабленим Сетом він не зможе боротися зі своєю справжньою долею, об’єднається зі своїм братом Осірісом. Це відновить рівновагу Божого царства. <E>"
+  },
+  "HT_Text_Urk_Set_BossDead3a": {
+    "message": "Ось! Могутній Осіріс прибув! <E>"
+  },
+  "HT_Text_Urk_Set_BossDead4": {
+    "message": "Нарешті сповнилося <FC 0,128,0>Стародавнє пророцтво Ра<END FC>. Світло і темрява — одне ціле. Ми знову зможемо жити в злагоді. <E>"
+  },
+  "HT_Text_Urk_Set_BossDead5": {
+    "message": "Сфінкс та Тутанхамон, ви обидва були дуже сміливими, тазавершили цю небезпечне сказання. <E>"
+  },
+  "HT_Text_Urk_Set_BossDead6": {
+    "message": "Сфінкс, завдяки твоїм діям і хоробрості, твоє ім'я увійде в історію і залишиться в пам'яті назавжди. <E>"
+  },
+  "HT_Text_Urk_Set_BossDead7": {
+    "message": "Тутанхамоне, я можу дати тобі останню <FC 0,128,0>Канопічну вазу<END FC>, яка перетворить тебе на людську форму та дозволить тобі повернутися до свого королівства.<E>"
+  },
+  "HT_Text_Urk_Set_BossDead7a": {
+    "message": "<EFF><EPO>Завдяки вам обом баланс буде принесений у світи для багатьох майбутніх поколінь. <P>У майбутньому вас обох чекають більш небезпечні пригоди. Але, поки що відпочинь і насолоджуйся своїм тріумфом.<P>Тутанхамоне, я дарую тобі останню <FC 0,128,0>Канопічну вазу<END FC> з моєю вдячністю. <E>"
+  },
+  "HT_Text_Urk_Set_BossDead8": {
+    "message": "Не хвилюйся, Тутанхамоне, має бути інший спосіб повернути тебе назад. Можливо, в інших світах буде ключ до вашого порятунку. <E>"
+  },
+  "HT_Text_Urk_Set_BossDead9": {
+    "message": "Ми допоможемо вам знайти відповідь...<W 180>"
+  },
+  "HT_Text_Urk_2key_Help_FoundGlyphValuable01": {
+    "message": "<N><CNTR>Ви отримали рідкісний <FC 0,128,0>золотий гліф<END FC>!<E>"
+  }
+}

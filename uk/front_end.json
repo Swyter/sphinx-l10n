@@ -1,0 +1,563 @@
+{
+  "HT_Text_FE_Menu_NewGame": {
+    "message": "НОВА ГРА"
+  },
+  "HT_Text_FE_Menu_LoadGame": {
+    "message": "ЗАВАНТАЖИТИ ГРУ"
+  },
+  "HT_Text_FE_Menu_BonusMaterial": {
+    "message": "БОНУСИ"
+  },
+  "HT_Text_FE_Menu_Options": {
+    "message": "НАЛАШТУВАННЯ"
+  },
+  "HT_Text_FE_Menu_OptionsSubControl": {
+    "message": "КЕРУВАННЯ"
+  },
+  "HT_Text_FE_Menu_OptionsSubScreen": {
+    "message": "ГРАФІКА"
+  },
+  "HT_Text_FE_Menu_OptionsSubSound": {
+    "message": "ЗВУК"
+  },
+  "HT_Text_FE_Menu_MusicVolume": {
+    "message": "ГУЧНІСТЬ МУЗИКИ"
+  },
+  "HT_Text_FE_Menu_SoundVolume": {
+    "message": "ГУЧНІСТЬ ЗВУКІВ"
+  },
+  "HT_Text_FE_Menu_PadRumbleGC": {
+    "message": "ВІБРАЦІЯ"
+  },
+  "HT_Text_FE_Menu_PadRumbleXB": {
+    "message": "ВІБРАЦІЯ"
+  },
+  "HT_Text_FE_Menu_PadRumblePS2": {
+    "message": "ВІБРАЦІЯ"
+  },
+  "HT_Text_FE_Menu_ScreenAdjust": {
+    "message": "РЕГУЛЮВАННЯ ЕКРАНУ"
+  },
+  "HT_Text_FE_Menu_Widescreen": {
+    "message": "ШИРОКОЕКРАННИЙ РЕЖИМ"
+  },
+  "HT_Text_FE_Menu_Subtitles": {
+    "message": "СУБТИТРИ"
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonVert": {
+    "message": "ІНВЕРТ. ВЕРТИК. 3-Ї ОСОБ."
+  },
+  "HT_Text_FE_Menu_InvertThirdPersonHorz": {
+    "message": "ІНВЕРТ. ГОРИЗОНТ. 3-Ї ОСОБ."
+  },
+  "HT_Text_FE_Menu_InvertFirstPersonVert": {
+    "message": "ІНВЕРТ. ВЕРТИК. 1-Ї ОСОБ."
+  },
+  "HT_Text_FE_Menu_OK": {
+    "message": "ОК"
+  },
+  "HT_Text_FE_Menu_Cancel": {
+    "message": "ВІДМІНА"
+  },
+  "HT_Text_FE_Menu_ConfirmQuit": {
+    "message": "Ви впевнені, що бажаєте вийти"
+  },
+  "HT_Text_FE_Menu_ConfirmQuit_XB": {
+    "message": "Ви впевнені, що бажаєте вийти?\\nУвесь незбережений прогрес буде втрачено."
+  },
+  "HT_Text_FE_Menu_SoundStereo": {
+    "message": "СТЕРЕО"
+  },
+  "HT_Text_FE_Menu_SoundMono": {
+    "message": "МОНО"
+  },
+  "HT_Text_FE_Menu_SoundSurround": {
+    "message": "ОБ'ЄМНИЙ ЗВУК"
+  },
+  "HT_Text_FE_Menu_SoundStereoSurround": {
+    "message": "СТЕРЕО/\\nОБ'ЄМНИЙ ЗВУК"
+  },
+  "HT_Text_FE_Menu_SoundModeOption": {
+    "message": "РЕЖИМ ЗВУКУ"
+  },
+  "HT_Text_FE_Menu_On": {
+    "message": "ВКЛ"
+  },
+  "HT_Text_FE_Menu_Off": {
+    "message": "ВИМК"
+  },
+  "HT_Text_OptionsMenu_Back": {
+    "message": "НАЗАД"
+  },
+  "HT_Text_OptionsMenu_Select": {
+    "message": "ПРИЙНЯТИ"
+  },
+  "HT_Text_FE_Menu_ThirdPerson": {
+    "message": "3-ТЯ ОСОБА:"
+  },
+  "HT_Text_FE_Menu_FirstPerson": {
+    "message": "1-ША ОСОБА:"
+  },
+  "HT_Text_FE_Menu_InvertHorz": {
+    "message": "ІНВЕРТУВАТИ ГОРИЗОНТ."
+  },
+  "HT_Text_FE_Menu_InvertVert": {
+    "message": "ІНВЕРТУВАТИ ВЕРТИК."
+  },
+  "HT_Text_FE_MenuPause_Continue": {
+    "message": "ПРОДОВЖИТИ"
+  },
+  "HT_Text_FE_MenuPause_Options": {
+    "message": "НАЛАШТУВАННЯ"
+  },
+  "HT_Text_FE_MenuPause_QuitGame": {
+    "message": "ПОКИНУТИ ГРУ"
+  },
+  "HT_Text_FE_PressStart_PS2": {
+    "message": "НАТИСНІТЬ КНОПКУ СТАРТ"
+  },
+  "HT_Text_FE_PressStart_XB": {
+    "message": "НАТИСНІТЬ СТАРТ"
+  },
+  "HT_Text_FE_PressStart_GC": {
+    "message": "Натисніть старт"
+  },
+  "HT_Text_FE_PressStart_PC": {
+    "message": "Натисніть будь-яку кнопку"
+  },
+  "HT_Text_FE_Bonus1_Title": {
+    "message": "Виготовлення Сфінкса"
+  },
+  "HT_Text_FE_Bonus1_Description": {
+    "message": "Пориньте за лаштунки створення Сфінкса та Проклятої Мумії"
+  },
+  "HT_Text_FE_Bonus2_Title": {
+    "message": "Трейлер Сфінкса"
+  },
+  "HT_Text_FE_Bonus2_Description": {
+    "message": "Трейлер Сфінкс та Проклята Мумія"
+  },
+  "HT_Text_FE_Menu_SaveSlotA": {
+    "message": "Сфінкс А"
+  },
+  "HT_Text_FE_Menu_SaveSlotB": {
+    "message": "Сфінкс Б"
+  },
+  "HT_Text_FE_Menu_SaveSlotC": {
+    "message": "Сфінкс В"
+  },
+  "HT_Text_FE_Menu_SaveSlotA_XB": {
+    "message": "Сфінкс А"
+  },
+  "HT_Text_FE_Menu_SaveSlotB_XB": {
+    "message": "Сфінкс Б"
+  },
+  "HT_Text_FE_Menu_SaveSlotC_XB": {
+    "message": "Сфінкс В"
+  },
+  "HT_Text_FE_Menu_SaveSlotNone": {
+    "message": "Продовжити без збережень"
+  },
+  "HT_Text_FE_Menu_SaveSlotEmpty": {
+    "message": "Вільно"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_XB": {
+    "message": "Пошкоджено"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
+    "message": "Старі"
+  },
+  "HT_Text_FE_Menu_SaveSlotCorrupted_GC": {
+    "message": "ВІЛЬНО"
+  },
+  "HT_Text_MemCard_PromptSlotA": {
+    "message": "Сфінкс А"
+  },
+  "HT_Text_MemCard_PromptSlotB": {
+    "message": "Сфінкс Б"
+  },
+  "HT_Text_MemCard_PromptSlotC": {
+    "message": "Сфінкс В"
+  },
+  "HT_Text_MemCard_PromptNo": {
+    "message": "НІ"
+  },
+  "HT_Text_MemCard_PromptYes": {
+    "message": "ТАК"
+  },
+  "HT_Text_MemCard_PromptOK": {
+    "message": "ОК"
+  },
+  "HT_Text_MemCard_PromptRetry": {
+    "message": "ПЕРЕГРАТИ"
+  },
+  "HT_Text_MemCard_PromptCancel": {
+    "message": "ВІДМІНИТИ"
+  },
+  "HT_Text_MemCard_PromptHaventSaved_XB": {
+    "message": "Ви точно хочете продовжити без збережень?"
+  },
+  "HT_Text_MemCard_GameName": {
+    "message": "СФІНКС"
+  },
+  "HT_Text_Paused_PS2": {
+    "message": "Пауза"
+  },
+  "HT_Text_Paused_XB": {
+    "message": "Натисніть СТАРТ для продовження"
+  },
+  "HT_Text_Paused_GC": {
+    "message": "Пауза"
+  },
+  "HT_Text_ReplacePadPrompt_PS2_PAL": {
+    "message": "В порт не вставлено контролер. Щоб продовжити, повторно вставте аналоговий контролер (DUALSHOCK®) або аналоговий контролер (DUALSHOCK®2)."
+  },
+  "HT_Text_ReplacePadPrompt_PS2_NTSC": {
+    "message": "В порт не вставлено контролер. Щоб продовжити, повторно вставте аналоговий контролер DUALSHOCK® або аналоговий контролер DUALSHOCK®2."
+  },
+  "HT_Text_ReplacePadPrompt_XB_Start": {
+    "message": "Повторно підключіть контролер до порту (MISSINGPAD) і натисніть START, щоб продовжити."
+  },
+  "HT_Text_ReplacePadPrompt_XB": {
+    "message": "Повторно підключіть контролер до порту (MISSINGPAD)"
+  },
+  "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
+    "message": "Ви не зможете зберегти свій прогрес або параметри в будь-який момент гри. Ви впевнені, що бажаєте продовжити?"
+  },
+  "HT_Text_DeathScreen_Continue": {
+    "message": "ПРОДОВЖИТИ"
+  },
+  "HT_Text_DeathScreen_QuitGame": {
+    "message": "ВИЙТИ З ГРИ"
+  },
+  "HT_Text_DeathScreen_Text": {
+    "message": "ГРУ ЗАВЕРШЕНО"
+  },
+  "HT_Text_OptionsMenu_Reset": {
+    "message": "ПЕРЕЗАПУСК"
+  },
+  "HT_Text_ScreenAdjustText_PS2": {
+    "message": "Налаштуйте екран за допомогою\\nкнопок напрямку."
+  },
+  "HT_Text_ScreenAdjustText_GC": {
+    "message": "Налаштуйте екран за допомогою панелі керування Геймпаду."
+  },
+  "HT_Text_ScreenAdjustText_XB": {
+    "message": "Налаштуйте екран за допомогою Клавіатури."
+  },
+  "HT_Text_Memcard_SaveConfirm": {
+    "message": "Ви впевнені, що бажаєте\\nзберегти в цей слот?"
+  },
+  "HT_Text_Memcard_LoadConfirm": {
+    "message": "Ви впевнені, що хочете\\nзавантажити цю гру?"
+  },
+  "HT_Text_Memcard_OverwriteConfirm": {
+    "message": "Збережена гра вже існує.\\n\\nВи хочете перезаписати\\nпопередню гру?"
+  },
+  "HT_Text_Memcard_NoFormat": {
+    "message": "Карта пам’яті (PS2) у гнізді MEMORY CARD 1 не відформатована.\\n\\nВідформатувати картку пам’яті (PS2)?"
+  },
+  "HT_Text_Memcard_NoFormat_Boot": {
+    "message": "Карта пам’яті (PS2) у гнізді MEMORY CARD 1 не відформатована.\\n\\nВідформатувати картку пам’яті (PS2)?"
+  },
+  "HT_Text_Memcard_NoDirectory": {
+    "message": "Картка пам’яті (PS2) у гнізді MEMORY\\nCARD 1 не містить\\na папку Sphinx.\\nСтворити папку Sphinx зараз?"
+  },
+  "HT_Text_Memcard_FormatComplete": {
+    "message": "Відформатовано успішно."
+  },
+  "HT_Text_Memcard_SaveFailed": {
+    "message": "Помилка збереження гри."
+  },
+  "HT_Text_Memcard_SaveSuccess": {
+    "message": "Прогрес збережено."
+  },
+  "HT_Text_Memcard_LoadFail": {
+    "message": "Помилка завантаження."
+  },
+  "HT_Text_Memcard_NoCard": {
+    "message": "Увага! Sphinx використовує функцію автозбереження.\\nВставлення карти пам'яті (PS2) далі\\nцієї точки може спричинити перезапис даних\\. Однак, якщо ви бажаєте зберегти\\nсвої ігрові дані, вставте картку пам’яті (PS2)\\nз принаймні xKB вільного місця.\\n\\nНатисніть КНОПКУ «СТАРТ», щоб продовжити\\nбез збереження."
+  },
+  "HT_Text_Memcard_NoCard1": {
+    "message": "Картка пам’яті (8 МБ) (для PlayStation®2)\\n не вставлена в слот для карти пам’яті 1."
+  },
+  "HT_Text_Memcard_NoSpace_Boot": {
+    "message": "Недостатньо місця на карті пам'яті (PS2). Вставте\\nкарту пам'яті (PS2) із принаймні xKB вільного місця\\nабо не створіть трохи місця за допомогою внутрішньої консолі браузера."
+  },
+  "HT_Text_Memcard_NoSpace_Save": {
+    "message": "Недостатньо місця на карті пам’яті (PS2) у гнізді 1 MEMORY CARD\n. Sphinx вимагає xKB вільного місця для збереження даних."
+  },
+  "HT_Text_Memcard_PressKey": {
+    "message": "НАТИСНІТЬ СТАРТ, ЩОБ ПРОДОВЖИТИ БЕЗ ЗБЕРЕЖЕНЬ"
+  },
+  "HT_Text_Memcard_Loading": {
+    "message": "Завантаження..."
+  },
+  "HT_Text_Memcard_Saving": {
+    "message": "Збереження даних. Не виймайте картку пам’яті (PS2) із\\nгнізда 1 для КАРТКИ ПАМ’ЯТІ, не скидайте та не вимикайте консоль."
+  },
+  "HT_Text_Memcard_Formatting": {
+    "message": "Форматування...\\n\\n\\nФорматування карти пам'яті (PS2) у гнізді MEMORY CARD 1.\\nНе виймайте картку пам'яті (PS2),\\nне перезавантажуйте та не вимикайте консоль."
+  },
+  "HT_Text_Memcard_YesNo": {
+    "message": "<B 1>Так<N><B 2>Ні<E>"
+  },
+  "HT_Text_Menu_Cross": {
+    "message": "вибрати"
+  },
+  "HT_Text_Menu_Triangle": {
+    "message": "НАЗАД"
+  },
+  "HT_Text_Menu_Square": {
+    "message": "Центрувати зображення"
+  },
+  "HT_Text_Menu_StartPause": {
+    "message": "Продовжити гру"
+  },
+  "HT_Text_Menu_AdjustScreen": {
+    "message": "Використовуйте лівий аналоговий\\nджойстик або кнопку напрямку, щоб\\nналаштувати положення екрана"
+  },
+  "HT_Text_Menu_Accept": {
+    "message": "Так"
+  },
+  "HT_Text_Menu_Decline": {
+    "message": "Ні"
+  },
+  "HT_Text_Menu_Pause": {
+    "message": "Пауза"
+  },
+  "HT_Text_Menu_Empty": {
+    "message": "Нічого"
+  },
+  "HT_Text_Menu_BOS": {
+    "message": "Відкрити книгу про Сфінкса"
+  },
+  "HT_Text_Menu_Inventory": {
+    "message": "Інвентар"
+  },
+  "HT_Text_Menu_Jump": {
+    "message": "Стрибок"
+  },
+  "HT_Text_Menu_Attack": {
+    "message": "Атака"
+  },
+  "HT_Text_Menu_Context": {
+    "message": "Контекст"
+  },
+  "HT_Text_Menu_Shield": {
+    "message": "Щит"
+  },
+  "HT_Text_Menu_Pipe": {
+    "message": "Трубка"
+  },
+  "HT_Text_Menu_Camera": {
+    "message": "Керувати камерою"
+  },
+  "HT_Text_Menu_Move": {
+    "message": "Рухатись"
+  },
+  "HT_Text_Menu_Start": {
+    "message": "Меню гри на паузу"
+  },
+  "HT_Text_Menu_PadLayout1": {
+    "message": "ЗА ПРОМОВЧАННЯМ"
+  },
+  "HT_Text_Menu_PadLayout2": {
+    "message": "ЛІВО=РУКА"
+  },
+  "HT_Text_Menu_PadLayout3": {
+    "message": "П'ЯНИЦЯ"
+  },
+  "HT_Text_Menu_NoPad": {
+    "message": "Контролер \\nnпорту 1 видалено.\\nПовторно вставте контролер, щоб\\nпродовжити гру."
+  },
+  "HT_Text_Menu_Uruk1": {
+    "message": "Сфінкс=@=УРУК=ПАГОРБИ"
+  },
+  "HT_Text_Menu_Uruk2": {
+    "message": "МУМІЯ=@=УРУК=ПАЛАЦ"
+  },
+  "HT_Text_Menu_Making": {
+    "message": "СТВОРЕННЯ=:=:=:"
+  },
+  "HT_Text_Menu_Trailer": {
+    "message": "ТРЕЙЛЕР"
+  },
+  "HT_Text_Menu_Exit": {
+    "message": "ВИЙТИ=ДЕМО"
+  },
+  "HT_Text_Menu_Continue": {
+    "message": "ПРОДОВЖИТИ"
+  },
+  "HT_Text_Menu_Rumble": {
+    "message": "ВІБРАЦІЯ==ВКЛ"
+  },
+  "HT_Text_Menu_RumbleOff": {
+    "message": "ВІБРАЦІЯ==ВИМК"
+  },
+  "HT_Text_Menu_StartDemo": {
+    "message": "ГРА=ДЕМО"
+  },
+  "HT_Text_Menu_NewGame": {
+    "message": "НОВА=ГРА"
+  },
+  "HT_Text_Menu_Load": {
+    "message": "ЗАВАНТАЖИТИ=ГРУ"
+  },
+  "HT_Text_Menu_Save": {
+    "message": "ЗБЕРЕГТИ=ГРУ"
+  },
+  "HT_Text_Menu_Options": {
+    "message": "НАЛАШТУВАННЯ"
+  },
+  "HT_Text_Menu_EndGame": {
+    "message": "ЗАВЕРШЕННЯ=ГРИ"
+  },
+  "HT_Text_Menu_Screen": {
+    "message": "ВІДЕО=НАЛАШТУВАННЯ"
+  },
+  "HT_Text_Menu_Pad": {
+    "message": "НАЛАШТУВАННЯ=КЕРУВАННЯ"
+  },
+  "HT_Text_Menu_Sound": {
+    "message": "ЗВУК=НАЛАШТУВАННЯ"
+  },
+  "HT_Text_Menu_ScreenAdjust": {
+    "message": "РЕГУЛЮВАТИ=ЕКРАН"
+  },
+  "HT_Text_Menu_WidescreenON": {
+    "message": "ШИРОКОФОРМАТ==ON"
+  },
+  "HT_Text_Menu_WidescreenOFF": {
+    "message": "ШИРОКОФОРМАТ===OFF"
+  },
+  "HT_Text_Menu_Volume": {
+    "message": "ОБ'ЄМ"
+  },
+  "HT_Text_Menu_SoundFX": {
+    "message": "ЗВУК=FX"
+  },
+  "HT_Text_Menu_Music": {
+    "message": "МУЗИКА"
+  },
+  "HT_Text_Menu_SurroundON": {
+    "message": "ОБ'ЄМНИЙ ЗВУК"
+  },
+  "HT_Text_Menu_SurroundOFF": {
+    "message": "СТЕРЕО"
+  },
+  "HT_Text_Menu_Mono": {
+    "message": "МОНО"
+  },
+  "HT_Text_Menu_Videos": {
+    "message": "ВІДЕО"
+  },
+  "HT_Text_Menu_QuitLevel": {
+    "message": "ПОКИНУТИ=РІВЕНЬ"
+  },
+  "HT_Text_Menu_NTSC": {
+    "message": "FRAME=RATE==60"
+  },
+  "HT_Text_Menu_PAL": {
+    "message": "FRAME=RATE==50"
+  },
+  "HT_Text_Menu_QuitQuestion": {
+    "message": "Покинути гру?"
+  },
+  "HT_Text_Menu_Paused": {
+    "message": "ПАУЗА"
+  },
+  "HT_Text_Menu_QuitLevQuestion": {
+    "message": "Покинути рівень?"
+  },
+  "HT_Text_Menu_StartGame": {
+    "message": "Почати гру"
+  },
+  "HT_Text_Menu_SaveOver": {
+    "message": "Збережіть гру"
+  },
+  "HT_Text_Menu_UseSlot": {
+    "message": "Використати цей слот"
+  },
+  "HT_Text_Menu_LoadGame": {
+    "message": "Загрузити цю гру"
+  },
+  "HT_Text_Menu_EmptySlot": {
+    "message": "[ Порожньо ]"
+  },
+  "HT_Text_Menu_CorruptSlot": {
+    "message": "[ Зіпсовано ]"
+  },
+  "HT_Text_Menu_Scarabs": {
+    "message": "Скарабеї"
+  },
+  "HT_Text_Menu_InvertON": {
+    "message": "ІНВЕРТ=КАМЕРИ==ON"
+  },
+  "HT_Text_Menu_InvertOFF": {
+    "message": "ІНВЕРТ=КАМЕРИ==OFF"
+  },
+  "HT_Text_Menu_SwapXYON": {
+    "message": "ЗМІНИТИ=КАМЕРУ=X==ON"
+  },
+  "HT_Text_Menu_SwapXYOFF": {
+    "message": "ЗМІНИТИ=КАМЕРУ=X==OFF"
+  },
+  "HT_Text_Menu_Cancel": {
+    "message": "ВІДХИЛИТИ"
+  },
+  "HT_Text_Menu_Reset": {
+    "message": "ПЕРЕЗАПУСК"
+  },
+  "HT_Text_FE_Menu_ToggleReverb": {
+    "message": "РЕВЕРБЕРАЦІЯ"
+  },
+  "HT_Text_FE_Menu_FieldOfView": {
+    "message": "ПОЛЕ ЗОРУ"
+  },
+  "HT_Text_FE_Menu_Resolution": {
+    "message": "РОЗДІЛ"
+  },
+  "HT_Text_FE_Menu_ChooseScreen": {
+    "message": "ВИБРАТИ ЕКРАН"
+  },
+  "HT_Text_FE_Menu_ToggleParticles": {
+    "message": "ЧАСТИНКИ"
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Limited": {
+    "message": "ОБМЕЖЕННЯ"
+  },
+  "HT_Text_FE_Menu_ToggleParticles_Soft": {
+    "message": "М'ЯКИЙ"
+  },
+  "HT_Text_FE_Menu_Anisotropy": {
+    "message": "АНІЗАТРОПНА ФІЛЬТРАЦІЯ"
+  },
+  "HT_Text_FE_Menu_MultiSampling": {
+    "message": "МУЛЬТИСЕМПЛИНГ"
+  },
+  "HT_Text_FE_Menu_Vsync": {
+    "message": "ВЕРТИКАЛЬНА СИНХРОНІЗАЦІЯ"
+  },
+  "HT_Text_FE_Menu_VsyncAdaptive": {
+    "message": "АДАПТИВНО"
+  },
+  "HT_Text_FE_Menu_RestartGame": {
+    "message": "ПЕРЕЗАВАНТАЖИТИ ГРУ"
+  },
+  "HT_Text_FE_ResolutionRequiresRestart": {
+    "message": "Зміна роздільної здатності вимагає перезапуску гри."
+  },
+  "HT_Text_FE_ResolutionBorderless": {
+    "message": "БЕЗ МЕЖ"
+  },
+  "HT_Text_FE_ResolutionWindowed": {
+    "message": "ВІКНО"
+  },
+  "HT_Text_FE_ResolutionFovDegrees": {
+    "message": "градус"
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Духову трубу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Чарівні дротики, випущені з цього потужного інструменту,<N>регенеруються, що дає вам нескінченний запас.<P><ES HT_Text_ES_S_HelpText><CNTR>Дротиками можна вражати віддалені цілі, але вони<N>достатні лише для того, щоб пошкодити вибухонебезпечних монстрів.<P><ES HT_Text_ES_S_HelpText><N><CNTR> Використовуйте <SB HT_PadAction_HUD_ShowRotator>, щоб призначити <FC 0,128,0>Трубі<END FC> кнопку.<P><ES HT_Text_ES_S_HelpText><CNTR>Після призначення <FC 0,128,0>Труби<END FC> натисніть <N>кнопку, щоб увійти в режим від першої особи.<P><ES HT_Text_ES_S_HelpText><CNTR>Натисніть <SB HT_Action_FireDart>, щоб стріляти.<P><ES HT_Text_ES_S_HelpText><CNTR>Тримайте <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight> , <SB HT_PadAction_GYR_Left> або <SB HT_PadAction_GYR_Right> натисніть під час переміщення лівого стіку, щоб прицілитися за допомогою гіроскопічних елементів керування рухом.<P><ES HT_Text_ES_S_HelpText><CNTR>Натисніть <SB HT_Action_Cancel>, щоб вийти<N>з <FC 0,128, 0>з режиму труби<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  }
+}

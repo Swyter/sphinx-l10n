@@ -1,0 +1,242 @@
+{
+  "HT_Text_NoteTitle_FindBlade01": {
+    "message": "Знайдіть Клинок Осіріса"
+  },
+  "HT_Text_NoteTitle_GetLetter01": {
+    "message": "Отримайте лист Нефертіті"
+  },
+  "HT_Text_NoteTitle_CollectAmulets01": {
+    "message": "Зберіть старі амулети"
+  },
+  "HT_Text_NoteTitle_GetToHeliopolis01": {
+    "message": "Шукайте транспорт до Геліополіса"
+  },
+  "HT_Text_NoteTitle_FindPearls01": {
+    "message": "Знайдіть 3 Абідоські перлини"
+  },
+  "HT_Text_NoteTitle_DonateMuseum01": {
+    "message": "Зробіть пожертву Абідоському музею"
+  },
+  "HT_Text_NoteTitle_GetAbydosPasscard01": {
+    "message": "Обмежений доступ до Абідосу"
+  },
+  "HT_Text_NoteTitle_FindImhotep01": {
+    "message": "Знайдіть Імхотепа на острові Сан-Шрайн"
+  },
+  "HT_Text_NoteTitle_GetBookOfTheDead01": {
+    "message": "Знайдіть Книгу Мертвих"
+  },
+  "HT_Text_NoteTitle_VisitAnubis01": {
+    "message": "Відвідайте Анубіса біля Вхідної стіни "
+  },
+  "HT_Text_NoteTitle_AnubisQuest01": {
+    "message": "Принесіть 3 вогняних броненосця Анубісу"
+  },
+  "HT_Text_NoteTitle_VisitFarmers01": {
+    "message": "Відвідайте ферму в Геліополісі"
+  },
+  "HT_Text_NoteTitle_SaveNomadWife01": {
+    "message": "Врятуй дружину кочівника"
+  },
+  "HT_Text_NoteTitle_DeactivateBeams01": {
+    "message": "Вимкніть силове поле, що ув'язнює дружину кочівника"
+  },
+  "HT_Text_NoteTitle_VisitImhotep01": {
+    "message": "Відвідайте Імхотепа в храмі Сонця"
+  },
+  "HT_Text_NoteTitle_CrownQuest01": {
+    "message": "Отримайте священну корону Абідосу"
+  },
+  "HT_Text_NoteTitle_MayorIll01": {
+    "message": "Хвороба Мера"
+  },
+  "HT_Text_NoteTitle_SmallCanalCreatures01": {
+    "message": "Очистіть вузький канал від монстрів"
+  },
+  "HT_Text_NoteTitle_CureMayor01": {
+    "message": "Вилікуйте мера Абідоса"
+  },
+  "HT_Text_NoteTitle_VisitKemmet01": {
+    "message": "Доставте записку від лікаря Кеммету"
+  },
+  "HT_Text_NoteTitle_FindPoliticians01": {
+    "message": "Знайдіть політиків-зрадників"
+  },
+  "HT_Text_NoteTitle_CrownQuest02": {
+    "message": "Отримайте священну корону Урука"
+  },
+  "HT_Text_NoteTitle_FindHeliopolisDungeon01": {
+    "message": "Знайти втрачений храм Геліополя"
+  },
+  "HT_Text_NoteTitle_CollectRosettaPieces01": {
+    "message": "Отримайте стародавні фрагменти Розеттського каменю"
+  },
+  "HT_Text_NoteTitle_MeetArchaeologist01": {
+    "message": "Відвідайте археолога на заставі Бедуїнів"
+  },
+  "HT_Text_NoteTitle_TranslateObelisks01": {
+    "message": "Перекладіть Золоті обеліски Геліополя"
+  },
+  "HT_Text_NoteTitle_SmallObelisk01": {
+    "message": "Перекладений давній текст"
+  },
+  "HT_Text_NoteTitle_SmallObelisk02": {
+    "message": "Перекладений давній текст"
+  },
+  "HT_Text_NoteTitle_SmallObelisk03": {
+    "message": "Перекладений давній текст"
+  },
+  "HT_Text_NoteTitle_SmallObelisk04": {
+    "message": "Перекладений давній текст"
+  },
+  "HT_Text_NoteTitle_SmallObelisk05": {
+    "message": "Перекладений давній текст"
+  },
+  "HT_Text_NoteTitle_Prophecy": {
+    "message": "Стародавнє пророцтво Ра"
+  },
+  "HT_Text_NoteTitle_TempleTest01": {
+    "message": "Пройдіть випробування храму Урук"
+  },
+  "HT_Text_NoteTitle_CrownQuest03": {
+    "message": "Отримайте священну корону Геліополя"
+  },
+  "HT_Text_NoteTitle_MotherQuest01": {
+    "message": "Захопити зниклих собак"
+  },
+  "HT_Text_NoteTitle_DefeatSeth01": {
+    "message": "Поразка Сета в Уруку"
+  },
+  "HT_Text_Note_FindBlade01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ваш перший квест — знайти давно втрачений Клинок Осіріса. Ця потужна зброя давно зникла в негостинному ландшафті навколо замку Урук.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_GetLetter01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Отримайте лист Нефертіті та поверніть його їй.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_CollectAmulets01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Зберіть 8 старих амулетів і поверніть їх своїй тітці Сеті.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_GetToHeliopolis01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Як тільки ви використаєте амулет Абідосу, Імхотеп хоче, щоб ви шукали транспорт до Геліополіса та зустрілися з ним якомога швидше.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_FindPearls01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Знайдіть 3 перлини та віддайте їх Абідозькому чоловіку.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_DonateMuseum01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Куратор Абідоського музею пропонує подарунок, коли ви робите свою першу пожертву.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_GetAbydosPasscard01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Вартові в Абідоському каналі не дозволять доступ до палат Ради. Можливо, варто повернутися до Абідосу пізніше під час квесту, коли у вас буде відповідне посвідчення особи.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_FindImhotep01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Імхотепа можна знайти на острові Сан-Шрайн. Відвідайте його та дізнайтеся, яку інформацію він має.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_GetBookOfTheDead01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Знайдіть Книгу мертвих, щоб ви могли викликати Бас-Кета, коли знайдете Канопську вазу. Імхотеп вважає, що книга зберігається в Проклятому палаці.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_VisitAnubis01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Анубіс відповідає за прокляття мешканців Проклятого палацу. З Крилами Ібіса ви можете дістатися Великої стіни, та відвідати Анубіса.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_AnubisQuest01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Захопіть 3 вогняних броненосців за допомогою захоплених жуків і принесіть їх до Анубіса.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_VisitFarmers01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Брат фермера запросив вас відвідати їх ферму в Геліополісі.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SaveNomadWife01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Знайдіть, де тримають Дружину Кочівника, і врятуйте її.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_DeactivateBeams01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Здається, силове поле, що ув’язнює Дружину кочівника, живиться трьома кольоровими променями. Знайдіть спосіб вимкнути їх.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_VisitImhotep01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Імхотеп попросив вас прийти й поговорити з ним у Храм Сонця.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_CrownQuest01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ви повинні знайти Священну корону Абідосу та повернути її Анубісу в Геліополіс.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_MayorIll01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Схоже, що мер серйозно захворів. Можливо, людям із залів ради Абідосу знадобиться ваша допомога.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SmallCanalCreatures01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Охоронець біля входу у Вузький канал запропонував вам амулет порталу, якщо ви зможете очистити територію від монстрів.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_CureMayor01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ви повинні знайти 5 цілющих трав і принести їх Лікарю в зали Ради Абідоса.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>З травами Лікар зможе приготувати ліки від таємничої хвороби мера .<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_VisitKemmet01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ви повинні доставити записку від лікаря Кеммету, який живе біля Гранд-каналу. Можливо, він зможе допомогти вам знайти цілющі трави.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_FindPoliticians01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Знайдіть політиків-зрадників, які вкрали Священну корону Абідосу, і поверніть те, що належить вам по праву.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_CrownQuest02": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ви повинні знайти Священну корону Урука та повернути її Анубісу в Геліополіс.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_FindHeliopolisDungeon01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Знайдіть вхід до Загубленого храму Геліополію. Дружина фараона вважає, що він знаходиться в південній пустелі Геліополію.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_CollectRosettaPieces01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Знайдіть 6 частин Розеттського каменю, захованих у Втраченому храмі Геліополя, і віднесіть їх до археолога.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_MeetArchaeologist01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Перевірте знахідки археолога на заставі Бедуїнів. Форпост можна знайти, пропливши через підводний прохід від Проклятого палацу.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_TranslateObelisks01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Використовуйте Розеттський камінь, щоб перекласти 5 золотих обелісків Геліополя, і повідомте про свої знахідки археологу на Бедуїнському форпосту.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SmallObelisk01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Коли ера Осіріса підійде до кінця...<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SmallObelisk02": {
+    "message": "<ES HT_Text_ES_S_BOSStd> ...Тінь Сету зійде на нас...<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SmallObelisk03": {
+    "message": "<ES HT_Text_ES_S_BOSStd>...але великий воїн на ім'я Сфінкс...<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SmallObelisk04": {
+    "message": "<ES HT_Text_ES_S_BOSStd>...з’явиться як Обраний...<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_SmallObelisk05": {
+    "message": "<ES HT_Text_ES_S_BOSStd>...для захисту Вічного Ока Ра.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_Prophecy": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Коли доба Осіріса закінчиться, Тінь Сету зійде на нас, але великий воїн на ім’я Сфінкс з’явиться як Обраний, щоб захистити Вічне Око Ра.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_TempleTest01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Пройдіть випробування храму Урук і поверніть те, що знайдете, Урукітам.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_CrownQuest03": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ви повинні знайти Священну корону Геліополя та повернути її Анубісу.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_MotherQuest01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Захопіть собак у проклятому палаці Геліополіса та поверніть їх власнику.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Note_DefeatSeth01": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Ваша остання доля — зіткнутися з Сетом у спустошеному світі Урук.<ES HT_Text_ES_E_BOSStd><E>"
+  },
+  "HT_Text_Notes_Test_T1": {
+    "message": "Назва квесту."
+  },
+  "HT_Text_Notes_Test_D1": {
+    "message": "<FC 100,100,60> Опис квесту."
+  },
+  "HT_Text_Notes_Test_T2": {
+    "message": "Знайдіть палац Сета."
+  },
+  "HT_Text_Notes_Test_D2": {
+    "message": "<FC 100,100,60>Сет ховався у своєму таємному палаці, організовуючи знищення Геліополя...<END FC><P><FC 100,100,60>Ви повинні знайти його лігво та покласти кінець його планам. .<END FC><P><FC 100,100,60>Щоб дізнатися, де знаходиться його таємний палац, вам потрібно буде поговорити зі старійшиною Хетського села. Принеси йому трохи віскі, щоб розв’язати язика.<END FC>"
+  },
+  "HT_Text_Notes_Test_T3": {
+    "message": "Доставте записку від короля Собека з Акарії."
+  },
+  "HT_Text_Notes_Test_D3": {
+    "message": "<FC 100,100,60> Після розкриття плану Ішки щодо заохочення війни між жителями Абідоса та Акарії...<END FC><P><FC 100,100,60>Королю Собеку потрібно, щоб ви передали меру повідомлення про перемир’я Абідосу.<END FC>"
+  },
+  "HT_Text_Notes_Test_T4": {
+    "message": "Знайдіть ліки меру."
+  },
+  "HT_Text_Notes_Test_D4": {
+    "message": "<FC 100,100,60>Мер Абідоса хворий. Вам потрібно буде поговорити з Лікарем, щоб знайти ліки...<END FC><P><FC 100,100,60>Лікар живе в каналі, який розділяє північ і південь Абідоса.<END FC>"
+  }
+}

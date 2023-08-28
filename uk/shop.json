@@ -1,0 +1,170 @@
+{
+  "HT_Text_Shop_AskForMore": {
+    "message": "<END TT>Хочете купити більше?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_BuyFireDart": {
+    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Вогняні дротики коштують <FC 0,128,0>10 скарабеїв<END FC> кожен. Бажаєте придбати?<N><B 1>Так<N><B 2>Ні<E>"
+  },
+  "HT_Text_Shop_BuyIceDart": {
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Крижані дротики коштують <FC 0,128,0>12 скарабеїв<END FC> за кожен. Бажаєте придбати?<N><B 1>Так<N><B 2>Ні<E>"
+  },
+  "HT_Text_Shop_BuyAcidDart": {
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Кислотні дротики коштують <FC 0,128,0>12 скарабеїв<END FC> кожен. Бажаєте придбати?<N><B 1>Так<N><B 2>Ні<E>"
+  },
+  "HT_Text_Shop_BuyRemoteControlBeetle": {
+    "message": "<END TT><I HT_Texture_Icon_RemoteBeetle><N>Пійманий жук: може містити сліди арахісу. <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабей<END FC> за 5 жуків. Бажаєте купити?<N><B 1>Так<N><B 2>Ні<E>"
+  },
+  "HT_Text_Shop_BuyExplosiveBeetle": {
+    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Вибухонебезпечні жуки: незаконні в понад 20 штатах. <FC 0,128,0>10 скарабеїв<END FC> за 5 жуків. Хочете купити?<N><B 1>Так<N><B 2>Ні<E>"
+  },
+  "HT_Text_Shop_Flex_BuyFireDart": {
+    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Вогняні дротики коштують <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабей<END FC> за кожен. Бажаєте придбати?<N><B 1>Так<N><B 2>Ні<E>"
+  },
+  "HT_Text_Shop_Flex_BuyIceDart": {
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Крижані дротики коштують <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабей<END FC> за кожен. Бажаєте придбати?<N><B 1>Так<N><B 2>Ні<E>"
+  },
+  "HT_Text_Shop_Flex_BuyAcidDart": {
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Кислотні дротики коштують <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабей<END FC> за кожен. Бажаєте придбати?<N><B 1>Так<N><B 2>Ні<E>"
+  },
+  "HT_Text_Shop_Flex_BuyExplosiveBeetle": {
+    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Вибухонебезпечні жуки: незаконні в понад 20 штатах. <FC 0,128,0><SO HT_Objective_Shop_Price>Скарабей<END FC> за 5 жуків. Бажаєте купити?<N><B 1>Так<N><B 2>Ні<E>"
+  },
+  "HT_Text_Shop_DartBelt": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_DartBelt> Пояс для дротиків - містить максимум 50 дротиків кожного типу<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyDartBelt": {
+    "message": "<END TT>Купити пояс для дротиків за <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC>?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_Test": {
+    "message": "<END TT>Будь ласка, подивіться ще. Можливо, ви знайдете ще щось, що вас зацікавить.<E>"
+  },
+  "HT_Text_Shop_Sorry": {
+    "message": "<END TT>На жаль, у вас недостатньо коштів, щоб купити це.<E>"
+  },
+  "HT_Text_Shop_Full": {
+    "message": "<END TT>У вас їх уже стільки, що більше не зможете нести.<E>"
+  },
+  "HT_Text_Shop_NoStock": {
+    "message": "<END TT>На жаль, у нас їх більше немає.<E>"
+  },
+  "HT_Text_Shop_IceDart": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Крижані дротики<N>Стріляйте в предмети, щоб заморозити їх.<E>"
+  },
+  "HT_Text_Shop_FireDart": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_FireDart> Fire Darts<N>Давайте зробимо підпал!<E>"
+  },
+  "HT_Text_Shop_AcidDart": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Кислотні дротики<N>Високо корозійні снаряди з труби.<E>"
+  },
+  "HT_Text_Shop_RemoteControlBeetle": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Захоплені жуки<N>Заряди не входять.<E>"
+  },
+  "HT_Text_Shop_CaptureBeetles05": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Захопити Жуків x 5<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеїв<END FC><E>"
+  },
+  "HT_Text_Shop_BuyCaptureBeetles05": {
+    "message": "<END TT>Купити 5 захоплених жуків за <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеїв<END FC>?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_CaptureBeetles15": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Захопити жуків x 15<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеїв<END FC><E>"
+  },
+  "HT_Text_Shop_BuyCaptureBeetles15": {
+    "message": "<END TT>Купити 15 захоплених жуків за <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеїв<END FC>?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_CaptureBeetles30": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Захопити жуків x 30<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеїв<END FC><E>"
+  },
+  "HT_Text_Shop_BuyCaptureBeetles30": {
+    "message": "<END TT>Купити 30 захоплених жуків за <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеїв<END FC>?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_BeetleSatchel": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Сумка для жука - вміщує максимум 50 захоплених жуків<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеїв<END FC><E>"
+  },
+  "HT_Text_Shop_BuyBeetleSatchel": {
+    "message": "<END TT>Купити Сумка-Жук за <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_AcidDarts10": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Кислотні дротики x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyAcidDarts10": {
+    "message": "<END TT>Купити 10 кислотних дротиків за <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC>?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_IceDarts10": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Крижані дротики x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyIceDarts10": {
+    "message": "<END TT>Купити 10 льодових дротиків за <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеїв<END FC>?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_ExplosiveBeetle": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Вибухові жуки<N>У разі проковтування негайно зверніться до лікаря.<E>"
+  },
+  "HT_Text_Shop_GoldAnkh": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Золотий Анкх<N><FC 0,128,0><SO HT_Objective_Shop_Price> Оніксові скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyGoldAnkh": {
+    "message": "<END TT>Купити золотий анкх за <FC 0,128,0><SO HT_Objective_Shop_Price> Оніксові скарабеї<END FC>?<N> <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Shop_GoldAnkhPiece": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhPiece> Золотий анкх<N><FC 0,128,0><SO HT_Objective_Shop_Price> Оніксові скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyGoldAnkhPiece": {
+    "message": "<END TT>Купити золотий анкх за <FC 0,128,0><SO HT_Objective_Shop_Price> Оніксові скарабеї<END FC>?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_GateKey03": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GlyphKey02> Ключ від дверей печери<N><FC 0,128,0><SO HT_Objective_Shop_Price> Оніксові скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyGateKey03": {
+    "message": "<END TT>Купити ключ від дверей печери за <FC 0,128,0><SO HT_Objective_Shop_Price> Оніксові скарабеї<END FC>?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_AtunEyes04": {
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Око Атуна x 4<N><FC 0,128,0><SO HT_Objective_Shop_Price> Оніксові скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyAtunEyes04": {
+    "message": "<END TT>Купити 4 очі Атуна за <FC 0,128,0><SO HT_Objective_Shop_Price> Оніксові скарабеї<END FC>?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_Burble": {
+    "message": "<DHP><DP><END TT>Птах-Мумія<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyBurble": {
+    "message": "<END TT>Пташки-Мумії коштують <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC> за кожну. Бажаєте придбати?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_Pokemon": {
+    "message": "<DHP><DP><END TT>Панцирна Тварюка<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyPokemon": {
+    "message": "<END TT>Панцирні тварюки коштують <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC> за штуку. Бажаєте придбати?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_Rat": {
+    "message": "<DHP><DP><END TT>Щур<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyRat": {
+    "message": "<END TT>Щури коштують <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеїв<END FC> кожна. Бажаєте придбати?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_Armadillo": {
+    "message": "<DHP><DP><END TT>Птах-Волан<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyArmadillo": {
+    "message": "<END TT>Волани коштують <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеїв<END FC> за кожен. Бажаєте придбати?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_Lizard": {
+    "message": "<DHP><DP><END TT>Індичка без пір'я<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyLizard": {
+    "message": "<END TT>Індички коштують <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеїв<END FC> за штуку. Бажаєте придбати?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_Piranha": {
+    "message": "<DHP><DP><END TT>Маленька жаба<N><FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеї<END FC><E>"
+  },
+  "HT_Text_Shop_BuyPiranha": {
+    "message": "<END TT>Жаби коштують <FC 0,128,0><SO HT_Objective_Shop_Price> Скарабеїв<END FC> кожна. Бажаєте придбати?<N> <B 2> Ні<N> <B 1> Так<E>"
+  },
+  "HT_Text_Shop_BuyMonster": {
+    "message": "<END TT>Це чудовий зразок, я дам вам <SO HT_Objective_Shop_Price> за нього.<N> <B 2> Ні в якому разі<N> <B 1> Угода<E>"
+  },
+  "HT_Text_Shop_SuitYourself": {
+    "message": "Ваше право. Пропозиція завжди відкрита, якщо Ви передумаєте...<E>"
+  },
+  "HT_Text_Shop_NothingToSell": {
+    "message": "Якщо ти хочеш продати мені монстрів, тобі краще піти і спочатку зловити їх...<E>"
+  }
+}

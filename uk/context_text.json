@@ -1,0 +1,173 @@
+{
+  "HT_Text_Context_UseItem": {
+    "message": "Використати предмет"
+  },
+  "HT_Text_Context_Use": {
+    "message": "Використати"
+  },
+  "HT_Text_Context_PushObject": {
+    "message": "Натиснути"
+  },
+  "HT_Text_Context_PullObject": {
+    "message": "Тягнути"
+  },
+  "HT_Text_Context_Lever": {
+    "message": "Тягнути важіль"
+  },
+  "HT_Text_Context_OpenDoor": {
+    "message": "Відкрити"
+  },
+  "HT_Text_Context_PickupObject": {
+    "message": "Підібрати"
+  },
+  "HT_Text_Context_SavePoint": {
+    "message": "Зберегти"
+  },
+  "HT_Text_Context_NPC": {
+    "message": "Говорити"
+  },
+  "HT_Text_Context_Grab": {
+    "message": "Схопити"
+  },
+  "HT_Text_Context_Possession": {
+    "message": "Маєте"
+  },
+  "HT_Text_Context_Unpossession": {
+    "message": "Не маєте"
+  },
+  "HT_Text_Context_Release": {
+    "message": "Звільнити"
+  },
+  "HT_Text_Context_Clone": {
+    "message": "Клонувати"
+  },
+  "HT_Text_Context_Invisibility": {
+    "message": "Невидимість"
+  },
+  "HT_Text_Context_Hide": {
+    "message": "Сховати"
+  },
+  "HT_Text_Context_FreezeTime": {
+    "message": "Зупинити час"
+  },
+  "HT_Text_Context_KaTile": {
+    "message": "Стріляти"
+  },
+  "HT_Text_Context_Shop": {
+    "message": "Купити"
+  },
+  "HT_Text_Context_Linear": {
+    "message": "Лінія"
+  },
+  "HT_Text_Context_Recall": {
+    "message": "Згадайте"
+  },
+  "HT_Text_Context_Directed": {
+    "message": "Режисер"
+  },
+  "HT_Text_Context_Cancel": {
+    "message": "ВІДМІНА"
+  },
+  "HT_Text_Context_Jump": {
+    "message": "СТРИБОК"
+  },
+  "HT_Text_Context_Attack": {
+    "message": "АТАКА"
+  },
+  "HT_Text_Context_Detonate": {
+    "message": "ПІДІРВАТИ"
+  },
+  "HT_Text_Context_Beetle": {
+    "message": "Жук"
+  },
+  "HT_Text_Context_Throw": {
+    "message": "КИНУТИ"
+  },
+  "HT_Text_Context_Drop": {
+    "message": "ПОКЛАСТИ"
+  },
+  "HT_Text_Context_FireDart": {
+    "message": "СТРІЛЯТИ"
+  },
+  "HT_Text_Context_FirstPerson": {
+    "message": "1-ша особа"
+  },
+  "HT_Text_Context_Blowpipe": {
+    "message": "ТРУБКА"
+  },
+  "HT_Text_Context_ThirdPerson": {
+    "message": "3-тя особа"
+  },
+  "HT_Text_Context_Program": {
+    "message": "Програма"
+  },
+  "HT_Text_Context_SpittingToadV": {
+    "message": "Вертикально"
+  },
+  "HT_Text_Context_SpittingToadH": {
+    "message": "Горизонтально"
+  },
+  "HT_Text_Context_Flap": {
+    "message": "ЛЕГКИЙ УДАР"
+  },
+  "HT_Text_Context_Enter": {
+    "message": "Ентер"
+  },
+  "HT_Text_Context_Grow": {
+    "message": "Ріст"
+  },
+  "HT_Text_Context_Exit": {
+    "message": "ВИЙТИ"
+  },
+  "HT_Text_Context_SwapMummy": {
+    "message": "Змінити"
+  },
+  "HT_Text_Context_MummyCrawl": {
+    "message": "Повзти"
+  },
+  "HT_Text_Context_MummyStandUp": {
+    "message": "Встати"
+  },
+  "HT_Text_Context_Dive": {
+    "message": "Занирнути"
+  },
+  "HT_Text_Context_Swim": {
+    "message": "ПЛИСТИ"
+  },
+  "HT_Text_Context_SwimFast": {
+    "message": "ШВИДКО"
+  },
+  "HT_Text_Context_WallSneakPeek": {
+    "message": "Підглянути"
+  },
+  "HT_Text_Context_WallSneak": {
+    "message": "КРАСТИСЯ"
+  },
+  "HT_Text_Context_Take": {
+    "message": "ВЗЯТИ"
+  },
+  "HT_Text_Context_DJump": {
+    "message": "КУВИРОК"
+  },
+  "HT_Text_Context_Read": {
+    "message": "ЧИТАТИ"
+  },
+  "HT_Text_Context_Slam": {
+    "message": "СИЛЬНИЙ УДАР"
+  },
+  "HT_Text_Context_Wear": {
+    "message": "Вдягти"
+  },
+  "HT_Text_Context_UnHide": {
+    "message": "ПОКАЗАТИ"
+  },
+  "HT_Text_Context_Choose": {
+    "message": "ОБРАТИ"
+  },
+  "HT_Text_Context_Select": {
+    "message": "ПРИЙНЯТИ"
+  },
+  "HT_Text_Context_Shake": {
+    "message": "ТРЯСТИ"
+  }
+}

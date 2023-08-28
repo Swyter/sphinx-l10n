@@ -1,0 +1,23 @@
+{
+  "HT_Text_BOS_Tab_Artifacts": {
+    "message": "Артефакти"
+  },
+  "HT_Text_BOS_Tab_Notes": {
+    "message": "Записи"
+  },
+  "HT_Text_BOS_Tab_Monsters": {
+    "message": "Монстри"
+  },
+  "HT_Text_BOS_Instructions": {
+    "message": "<FC 30,10,0>Перемикайте сторінки за допомогою <SB HT_PadAction_BOS_NavigateDPad> <N>Змінюйте сторінки за допомогою <SB HT_PadAction_BOS_TABCycleLeft> та <SB HT_PadAction_BOS_TABCycleRight><N>Прокручуйте довгі описи за допомогою <SB HT_PadAction_BOS_PageUp>."
+  },
+  "HT_Text_BOS_NoNotes": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Записів ще нема.<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_NoAbilities": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Наразі у вас немає жодних здібностей.<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_NoQuestItems": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Наразі у вас немає квестових предметів.<ES HT_Text_ES_E_BOSStd>"
+  }
+}
