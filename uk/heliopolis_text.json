@@ -921,774 +921,774 @@
     "message": "Агов, ще раз дякую!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_TooSunny": {
-    "message": "Aww, man! It's still too sunny to rest on the beach.<E>"
+    "message": "Чувак! Ще занадто сонячно, щоб відпочивати на пляжі.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_Thanks1b": {
-    "message": "In return, you can take this <FC 0,128,0>Scarab Bag<END FC> if you want. I have no use for it now.<E>"
+    "message": "Натомість ви можете взяти цю <FC 0,128,0>Сумку Скарабеїв<END FC>, якщо хочете. Мені це не потрібно.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_AnkhIncrease": {
-    "message": "<N><CNTR>You got a <FC 0,128,0>Gold Ankh Piece<END FC>!<P><CNTR>Collect more <FC 0,128,0>Gold Ankh Pieces<END FC> to further increase your health capacity.<E>"
+    "message": "<N><CNTR>Ви отримали <FC 0,128,0>Золотий Анкх<END FC>!<P><CNTR>Зберіть більше <FC 0,128,0>Золотих Анкхів<END FC>, щоб ще більше підвищити свій рівень здоров’я .<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_GotLoyaltyCard": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Loyalty Card<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This card entitles the owner to half price beetles from the <FC 128,64,0>Bedouin Outpost<END FC> store.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Картку Лояльності<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ця картка дає власнику право на жуків за півціни від Магазину <FC 128,64,0>Бедуїнський форпост<END FC>.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Hel_BedouinOutpost_Complete1a": {
-    "message": "Oh my goodness! I can't believe it! I deciphered the <FC 0,128,0>Rosetta Stone<END FC>!<E>"
+    "message": "О Боже мій! Я не можу в це повірити! Я розшифрував <FC 0,128,0>Розеттський камінь<END FC>!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Complete1b": {
-    "message": "I did it, my friend! Finally, after all these long years, I have realized my dream! I couldn't have done it without you! You've made an old man very happy.<E>"
+    "message": "Я зробив це, друже! Нарешті, після багатьох років, я здійснив свою мрію! Без вас я б не зміг! Ви дуже порадували старого.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Complete1c": {
-    "message": "<EFF><EPO>Please, take the reassembled stone as a gift. You can use it to decipher the <FC 0,128,0>5 Golden Obelisks of Heliopolis<END FC>!<END FC><P>Once you’ve deciphered the 5 Obelisks, you must return and let me know what you’ve found.<P>I’m far too old to search for them myself, but I am extremely interested in what you will discover!<P>Don't forget, you can keep track of your findings in your notes. Good luck!<E>"
+    "message": "<EFF><EPO>Будь ласка, візьміть зібраний камінь у подарунок. Ви можете використовувати його, щоб розшифрувати <FC 0,128,0>5 золотих обелісків Геліополя<END FC>!<END FC><P>Після того, як ви розшифруєте 5 обелісків, ви повинні повернутися та повідомити мені, що ви зробили.<P>Я надто старий, щоб шукати їх сам, але мені надзвичайно цікаво, що ви знайдете!<P>Не забувайте, ви можете відстежувати свої знахідки у своїх нотатках. Удачі!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Wait1a": {
-    "message": "I still need time to assemble the pieces. <E>"
+    "message": "Мені ще потрібен час, щоб зібрати частини. <E>"
   },
   "HT_Text_Hel_BedouinOutpost_Wait1b": {
-    "message": "Just go, I need to concentrate! <W 25>"
+    "message": "Просто йди, мені потрібно зосередитися! <W 25>"
   },
   "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1a": {
-    "message": "Greetings, traveler! Welcome to our humble <FC 128,64,0>Bedouin Outpost<END FC>.<E>"
+    "message": "Вітаю, мандрівник! Ласкаво просимо в наш скромний <FC 128,64,0>Бедуїнський форпост<END FC>.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1b": {
-    "message": "If you are a connoisseur of fine <FC 0,128,0>Capture Beetles<END FC> then you have come to the right place.<E>"
+    "message": "Якщо ви цінитель чудових <FC 0,128,0>Захоплених Жуків<END FC>, тоді ви потрапили в потрібне місце.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1c": {
-    "message": "Browse my stock while you still can. If I don't find my <FC 0,128,0>Beetle Breeder Jar<END FC> soon there won't be any beetles left to buy!<E>"
+    "message": "Перегляньте мої запаси, поки ще можете. Якщо я не знайду свій <FC 0,128,0>Глек для розведення жуків<END FC> незабаром, то жуків не залишиться!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime": {
-    "message": "Years ago, I fell through a strange portal and got stuck in this world. Not that I mind though.<P>Now I can concentrate on my hobby of collecting and breeding beetles.<P>I used to have a collection of rare remote control explosive breeder beetles, but a few weeks ago a sandstorm came and blew them away, along with my spare <FC 0,128,0>Beetle Satchel<END FC>. Ah well, life goes up and down!<E>"
+    "message": "Багато років тому я провалився через дивний портал і застряг у цьому світі. Хоча я не проти.<P>Тепер я можу зосередитися на своєму хобі — колекціонуванні та розведенні жуків.<P>Раніше у мене була колекція рідкісних вибухонебезпечних жуків-розмножувачів з дистанційним керуванням, але кілька тижнів тому прийшла піщана буря й знесла їх. разом із моєю запасною <FC 0,128,0>Сумкою Жуків<END FC>. Ну, життя то вгору, то вниз!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_GotBeetleBreederItem": {
-    "message": "<N><CNTR>You found the <FC 0,128,0>Beetle Breeder Jar<END FC>!<P><CNTR>The Beetle Breeder in the <FC 128,64,0>Bedouin Outpost<END FC> will be very happy to see this.<E>"
+    "message": "<N><CNTR>Ви знайшли <FC 0,128,0>Глек для розведення жуків<END FC>!<P><CNTR>Колекціонер жуків у <FC 128,64,0>Бедуїнській заставі<END FC> буде дуже радий це побачити.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Help_GotRosettaStone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Rosetta Stone<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This ancient tablet allows you to<N><CNTR>decipher the text of the Ancients!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Розеттський камінь<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ця стародавня табличка дозволяє вам<N><CNTR >розшифрувати текст Стародавніх!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_Done01": {
-    "message": "Go on through. The Pharaoh has been expecting you.<E>"
+    "message": "Проходьте далі. Фараон чекав на вас.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_Done01": {
-    "message": "Do not keep the Pharaoh waiting.<E>"
+    "message": "Не змушуйте фараона чекати.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_Done02": {
-    "message": "I cannot believe I was fooled by that traitor!<E>"
+    "message": "Я не можу повірити, що мене обдурив той засранець!<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_Done02": {
-    "message": "If that creature was an impostor, then what has become of our real Pharaoh?<E>"
+    "message": "Якщо ця істота була самозванцем, то що сталося з нашим справжнім фараоном?<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_Prompt01": {
-    "message": "I foresee that you will cross my palm with <FC 0,128,0>30 Scarabs<END FC><N>  <B 1> Very well<N>  <B 2> No way<E>"
+    "message": "Я передбачаю, що ти схрестиш мою долоню на <FC 0,128,0>30 скарабеїв<END FC><N> <B 1> Добре<N> <B 2> Ні в якому разі<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_Accept01": {
-    "message": "Excellent, now I shall predict the location of a long lost <FC 0,128,0>Gold Ankh Piece<END FC>...<E>"
+    "message": "Чудово, тепер я передбачу місцезнаходження давно втраченого <FC 0,128,0>Золотого Анкха<END FC>...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_Decline01": {
-    "message": "Strange... my powers of prediction seem somewhat inaccurate today.<E>"
+    "message": "Дивно... сьогодні моя здатність передбачати дещо неточна.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_NotEnoughScarabs": {
-    "message": "Sorry, but you don't have enough <FC 0,128,0>Scarabs<END FC>.<E>"
+    "message": "Вибачте, але у вас недостатньо <FC 0,128,0>Скарабеїв<END FC>.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPiecesNoneValid": {
-    "message": "The outlook is unclear... I'm afraid I cannot foresee the locations of any more <FC 0,128,0>Gold Ankh Pieces<END FC> at the moment. Try again later and I may be able to help.<E>"
+    "message": "Прогноз незрозумілий... Наразі я не можу передбачити місцезнаходження інших <FC 0,128,0>Золотих Анкхів<END FC>. Поверніться пізніше, можливо, я зможу допомогти.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPiecesComplete": {
-    "message": "Unless my powers deceive me, I do believe that you have found all the ancient <FC 0,128,0>Gold Ankh Pieces<END FC>! Truly amazing!<E>"
+    "message": "Якщо мої сили не обманюють мене, я бачу, що ви знайшли всі стародавні <FC 0,128,0>Золоті частини Анкх<END FC>! Справді дивовижно!<E>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1a": {
-    "message": "What the...? What is this strange place?<W 30>"
+    "message": "Що за...? Що це за дивне місце?<W 30>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1b": {
-    "message": "Wah! You surprised me there, stranger!<W 30>"
+    "message": "Вау! Ти мене здивував, незнайомець!<W 30>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1c": {
-    "message": "I was summoned from <FC 128,64,0>Abydos<END FC> to write the Pharaoh's autobiography, when I started to feel ever so sleepy. Next thing I know, here I am with you.<E>"
+    "message": "Мене викликали з <FC 128,64,0>Абідоса<END FC>, щоб написати автобіографію фараона, коли я почав засинати. Наступне, що я побачив, це я з вами.<E>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1d": {
-    "message": "These strange events have given me a great idea for a gripping new book! I'm going back to <FC 128,64,0>Abydos<END FC> immediately to start work on it.<E>"
+    "message": "Ці дивні події дали мені чудову ідею для нової захоплюючої книги! Я негайно повертаюся до <FC 128,64,0>Абідосу<END FC>, щоб розпочати над цим роботу.<E>"
   },
   "HT_Text_Hel_CursedPalace_Scribe_WakeUp1e": {
-    "message": "Thank you for your help stranger, take this book of mine as a gift. When you're in <FC 128,64,0>Abydos<END FC>, don't hesitate to drop by for a chat. Toodle-pip!<E>"
+    "message": "Дякую за допомогу незнайомцю, прийми мою книгу в подарунок. Коли ви будете в <FC 128,64,0>Абідосі<END FC>, не соромтеся зайти привітатись!<E>"
   },
   "HT_Text_Hel_CursedPalace_Help_GotBookOfTheDead": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Book of the Dead<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>With this ancient tome you can summon Bas-Ket to<N><CNTR>transport <FC 0,128,0>Canopic Vases<END FC> to the Mummy!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Книгу мертвих<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Тепер ви можете викликати Бас-Кета, щоб<N><CNTR>перевезти <FC 0,128,0>Канопічні вази<END FC> до мумії!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp": {
-    "message": "What happened? Oh! My precious doggies are gone!<P>Please sir, you must help me! The last thing I remember is my doggies turning nasty and attacking me! Why would they do that?!<P>They seem to have run off now, but if you could find them for me I would be most grateful.<P>Be careful though. They were, shall we say, ill tempered when I last saw them...<E>"
+    "message": "Що сталося? О! Мої дорогоцінні песики зникли!<P>Будь ласка, пане, ви повинні мені допомогти! Останнє, що я пам’ятаю, це те, що мої собачки стали злими і напали на мене! Навіщо їм це робити?!<P>Знайдіть їх для мене, я буду дуже вдячний.<P>Однак будьте обережні. Вони були, скажімо так, поганого характеру, коли я бачив їх востаннє...<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsAllStillMissing": {
-    "message": "If you find my doggies please send them back to me, I'm ever so worried.<E>"
+    "message": "Якщо ви знайдете моїх песиків, надішліть їх мені, я дуже хвилююся.<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsStillMissing": {
-    "message": "Some of my precious doggies have returned but <FC 0,128,0><SO HT_Objective_Hel_CursedPalace_MotherNumChihuahuasLeft><END FC> are still missing. Oh, I do hope they're alright!<E>"
+    "message": "Деякі з моїх дорогоцінних песиків повернулися, але <FC 0,128,0><SO HT_Objective_Hel_CursedPalace_MotherNumChihuahuasLeft><END FC> досі відсутні. О, я сподіваюся, що з ними все гаразд!<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsOneStillMissing": {
-    "message": "Some of my precious doggies have returned but <FC 0,128,0>1<END FC> is still missing. Oh, I do hope he is alright!<E>"
+    "message": "Деякі з моїх дорогоцінних песиків повернулися, але <FC 0,128,0>1<END FC> досі відсутній. Сподіваюся, він в порядку!<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsAllFound": {
-    "message": "Thank you ever so much! All my doggies have returned so I can finally stop fretting.<P>Please, take this. You should run a kennel!<E>"
+    "message": "Дуже дякую! Усі мої песики повернулися, тому я можу нарешті не нервую.<P>Будь ласка, візьміть це. Ви повинні мати розплідник!<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_ThanksAgain": {
-    "message": "Thank you again for rescuing all my poor, cute doggies. Who would do such a thing to innocent creatures?<E>"
+    "message": "Ще раз дякую тобі за те, що врятував усіх моїх бідних милих песиків. Хто зробив таке з невинними створіннями?<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp": {
-    "message": "Oh my! How disorientating!<P>The last thing I remember is my husband the Pharaoh behaving in a most peculiar way.<P>He was obsessed with the construction of a tower beyond the <FC 128,64,0>Great Wall<END FC>.<P>He became quite short tempered and aggressive. I do hope he's feeling better now.<E>"
+    "message": "О Боже! Я в шоці!<P>Останнє, що я пам’ятаю, це мій чоловік, фараон, який поводився дуже дивно.<P>Він був одержимий будівництвом вежі за <FC 128,64,0>Великою стіною<END FC >.<P>Він став досить запальним і агресивним. Я сподіваюся, що зараз йому стало краще.<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_StillWorried": {
-    "message": "My dear Pharaoh! I do hope he is in good health.<E>"
+    "message": "Мій дорогий фараон! Я сподіваюся, що він здоровий.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp": {
-    "message": "Grrr! What kind of devilry was that?<P>The last I remember is the Pharaoh being very keen on security. Looks like he had every reason to be cautious.<E>"
+    "message": "Гррр! Що це було за диявольство?<P>Останнє, що я пам’ятаю, це те, що фараон дуже дбав про безпеку. Схоже, у нього були всі підстави для цього.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_GoAway": {
-    "message": "You cannot see the Pharaoh without an <FC 0,128,0>Invitation<END FC>.<E>"
+    "message": "Ви не можете побачити фараона без <FC 0,128,0>Запрошення<END FC>.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_OpenDoor": {
-    "message": "I see you have an <FC 0,128,0>Invitation<END FC>. The Pharaoh will gladly see you.<E>"
+    "message": "Я бачу, що у вас є <FC 0,128,0>Запрошення<END FC>. Фараон буде радий бачити вас.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp": {
-    "message": "Curses! What in the name of Ra was that?<P>Maybe the Pharaoh was right to encourage tighter palace security.<E>"
+    "message": "Прокляття! Що, в ім’я Ра, це було?<P>Можливо, фараон мав рацію, наказуючи посилити охорону палацу.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_GoAway": {
-    "message": "Strictly no visitors without an <FC 0,128,0>Invitation<END FC>.<E>"
+    "message": "Категорично заборонено відвідувати без <FC 0,128,0>Запрошення<END FC>.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_OpenDoor": {
-    "message": "Yes, your <FC 0,128,0>Invitation<END FC> appears to be in order, go on in.<E>"
+    "message": "Так, ваше <FC 0,128,0>Запрошення<END FC> здається в порядку, заходьте.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp": {
-    "message": "No! I will not let my Master's plans falter because of you!<P>Try to interfere and I will destroy you like the insect that you are!<E>"
+    "message": "Ні! Я не дозволю зруйнувати плани мого Господаря!!<P>Спробуйте втрутитися, і я знищу тебе, як комаху, якою ти є!<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_Thanks": {
-    "message": "Huh? Ohhh! Thank you for lifting the curse!<P>I'd better be off now. <E>"
+    "message": "Га? Ой! Дякую, що зняли прокляття!<P>Мені краще зараз піти. <E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1a": {
-    "message": "Arghhhh! Destroyed by a mere child!<P>I am defeated for now, but you have made a very grave mistake this day; you have interfered with the plans of the almighty Set.<E>"
+    "message": "Аааааа! Знищений простою дитиною!<P>Наразі я переможений, але сьогодні ви зробили дуже серйозну помилку; ви втрутилися в плани всемогутнього Сету.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1b": {
-    "message": "His fury will cause the earth to tremble, the skies will be scorched, and the hearts of all living things will wither in terror.<E>"
+    "message": "Його гнів змусить землю здригнутися, небо буде обпалене, а серця всіх живих істот зів’януть від жаху.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1c": {
-    "message": "In my final moments of life, I take pleasure in the fact that a slow, excruciatingly painful death is all that you have to look forward to.<E>"
+    "message": "В останні хвилини свого життя я отримую задоволення від того, що повільна, нестерпно болісна смерть — це все, на що ти маєш чекати.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1d": {
-    "message": "<END TT><TT 2>Set... will... destroy... you... <W 5><P><END TT><TT 6>Sphinx...<W 1>"
+    "message": "<END TT><TT 2>Сет... знищить... тебе... <W 5><P><END TT><TT 6>Сфінкс...<W 1>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a": {
-    "message": "Well, I have to admit, you are a persistent one. However, that persistence will not get you this crown.<E>"
+    "message": "Що ж, мушу визнати, ти наполегливий. Однак, ця наполегливість не допоможе вам відняти цієї корони.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a11": {
-    "message": "<EFF><EPO>I will not let it fall into hands as ignorant as yours. You will never understand its power!<P>Anubis tried to take the crown from me before, but he failed. He was forced to cast me into stone for eternity.<E>"
+    "message": "<EFF><EPO>Я не дозволю цьому потрапити в руки таких невігласів, як ваші. Ви ніколи не зрозумієте його силу!<P>Анубіс раніше намагався відібрати в мене корону, але йому це не вдалося. Він був змушений перетворити мене в камінь.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a1": {
-    "message": "<EFF><EPO>It was all he could do to stop me. Now he sends you, his little puppet, to take it from me.<P>He must be getting old and senile, festering away in that tower. Muahahahaha!!<E>"
+    "message": "<EFF><EPO>Це все, що він міг зробити, щоб зупинити мене. Тепер він посилає тебе, свою маленьку маріонетку, щоб подолати мене.<P>Він, мабуть, старіє й гноїться в своїй вежі. Муахахахах!!<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a2": {
-    "message": "I shall return this crown to my Lord Set...<E>"
+    "message": "Я поверну цю корону моєму лорду Сету...<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a3": {
-    "message": "...but not before I crush you!<E>"
+    "message": "...але спочатку я розчавлю тебе!<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1b": {
-    "message": "Killing me is the only way you will ever get your hands on the crown!<E>"
+    "message": "Єдиний спосіб отримати корону - ВБИТИ МЕНЕ!<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1a": {
-    "message": "Ungh! Huh? What is going on here? Where am I?<P>"
+    "message": "Уах? Що тут відбувається? Де я?<P>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1b": {
-    "message": "Wait a minute, this is the <FC 128,64,0>Pharaoh's Palace<END FC>. How in the world did I get here?<E>"
+    "message": "Зачекайте хвилинку, це <FC 128,64,0>Палац фараона<END FC>?! Як же я сюди потрапив?<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1c": {
-    "message": "<EFF><EPO>Of course! I was called to work on the Palace Gardens! I don't recognize any of these other people though...<P>I thought the Pharaoh had banned all visitors... I wonder how he will feel when he sees all these stone people everywhere.<E>"
+    "message": "<EFF><EPO>Звичайно! Мене покликали працювати над палацовими садами! Хоча я не впізнаю нікого з цих людей...<P>Я думав, що фараон заборонив відвідувати це місце... Цікаво, що він почуватиме, коли побачить усіх цих кам'яних людей всюди.<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1d": {
-    "message": "Anyway, I should get back to the farm and find my brother, he must be very worried about me. Thanks for freeing me, my friend.<E>"
+    "message": "У будь-якому випадку, я повинен повернутися на ферму і знайти свого брата, він, хвилюється за мене. Дякую, що звільнив мене, друже.<E>"
   },
   "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1e": {
-    "message": "You should come by the farm, it is just up the hill outside here. Come and see us and we'll help you if we can.<E> "
+    "message": "Вам треба підійти до ферми, вона тут на пагорбі. Приходьте до нас, та ми з радістю допоможемо вам, якщо зможемо.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1a": {
-    "message": "Wha? Where? Ahh, greetings young fellow. I foresaw that you would be the one to free me from the curse.<E>"
+    "message": "Що? Де? Кхм... Вітаю юначе. Я передбачив, що ти звільниш мене від прокляття.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1b": {
-    "message": "My skills of prediction are well known throughout <FC 128,64,0>Abydos<END FC>, but even I could not see the approach of the curse that trapped me here.<E>"
+    "message": "Мої навички передбачення добре відомі по всьому <FC 128,64,0>Абідосу<END FC>, але навіть Я не бачив наближення прокляття, яке утримувало мене тут.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1c": {
-    "message": "The Pharaoh's Wife summoned me to perform a prediction, but then... Wait a moment. Ahhhh, I can see something...<E>"
+    "message": "Дружина фараона покликала мене зробити передбачення, але потім... Зачекайте. Ахххх, я щось бачу...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1d": {
-    "message": "<FC 128,64,0>Heliopolis<END FC> was once a bright and peaceful place...<E>"
+    "message": "<FC 128,64,0>Геліополіс<END FC> колись був світлим і спокійним місцем...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1e": {
-    "message": "...then things began to change, the days started to get shorter and the nights became longer...<E>"
+    "message": "...потім усе почало змінюватися, дні стали коротшати, а ночі довшати...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1f": {
-    "message": "...strange monsters began to appear in the hills to the far north...<E>"
+    "message": "...дивні чудовиська почали з'являтися на пагорбах на далекій півночі...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1g": {
-    "message": "...the climate changed; volcanoes began to stir within the mountains; the earth began to crack spilling lava from beneath...<E>"
+    "message": "...змінився клімат; вулкани почали ворушитися в горах; земля почала тріскатися, розливаючись знизу лавою...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1h": {
-    "message": "<EFF><EPO>...but then a most mysterious thing occurred.<P>As dawn broke and the people of <FC 128,64,0>Heliopolis<END FC> rose to face another day, they saw something they could not believe nor understand...<E>"
+    "message": "<EFF><EPO>...але потім сталася загадкова річ.<P>Коли світало, і жителі <FC 128,64,0>Геліополісу<END FC> піднялися, щоб зустрітися з іншим днем, вони побачили те, що не міг ні повірити, ні зрозуміти...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1i": {
-    "message": "<EFF><EPO>...a monumental wall had appeared across the entire length of <FC 128,64,0>Heliopolis<END FC>.<P>They were stunned by its appearance but also thankful. This wall was apparently built to protect them from the turmoil in the north.<E>"
+    "message": "<EFF><EPO>...монументальна стіна з’явилася по всій довжині <FC 128,64,0>Геліополісу<END FC>.<P>Вони були приголомшені її появою, але водночас і вдячні. Ця стіна, очевидно, була побудована, щоб захистити їх від заворушень на півночі.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1j": {
-    "message": "Alas, there was a twist in the tale. The wall was built, but the inhabitants of the <FC 128,64,0>Pharaoh's Palace<END FC> were cursed and cast into stone.<E>"
+    "message": "На жаль, у казці був поворот. Стіна була, але мешканців <FC 128,64,0>Палацу Фараона<END FC> прокляли та перетворили в камінь.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1j1": {
-    "message": "This was the heavy price to pay for the protection of the wall.<E>"
+    "message": "Це була висока ціна, яку довелося заплатити за захист стіни.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k": {
-    "message": "From that point on, this place became known as the <FC 128,64,0>Cursed Palace<END FC>.<E>"
+    "message": "З цього моменту це місце стало відомим як <FC 128,64,0>Проклятий Палац<END FC>.<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k1": {
-    "message": "<EFF><EPO>Ahhhh, I also see many interesting things in your future... <P>I see that you are seeking a lost sacred crown... <E>"
+    "message": "<EFF><EPO>Аааа, я також бачу багато цікавого у вашому майбутньому... <P>Я бачу, що ви шукаєте втрачену священну корону... <E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k2": {
-    "message": "...I see an ancient lost temple, hidden amongst the sands of a great desert...<E>"
+    "message": "...Я бачу стародавній втрачений храм, захований серед пісків великої пустелі...<E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k3": {
-    "message": "...I see <FC 0,128,0>Golden Obelisks<END FC> with a secret hidden within... <E>"
+    "message": "...Я бачу <FC 0,128,0>Золоті обеліски<END FC> із секретом, прихованим у... <E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k4": {
-    "message": "...and I see a feat of great strength. <E>"
+    "message": "...і я бачу здвиг великої сили. <E>"
   },
   "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1l": {
-    "message": "That is all I can see for the moment, young fellow. Now I must return home to <FC 128,64,0>Abydos<END FC>. I foresee that we will meet again in the distant future. Goodbye.<E>"
+    "message": "Це все, що я бачу на даний момент, юначе. Тепер я мушу повернутися додому в <FC 128,64,0>Абідос<END FC>. Я передбачаю, що ми знову зустрінемося в далекому майбутньому. До зустрічі!<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp1a": {
-    "message": "Argh! What devilry was that?! What's going on here?<E>"
+    "message": "Арх! Що це за диявольство?! Що тут відбувається?<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp1b": {
-    "message": "I thank you stranger for freeing me, but I'm afraid I cannot allow you to see the Pharaoh.<E>"
+    "message": "Я дякую тобі, незнайомцю, що звільнив мене, але, боюся, я не можу дозволити тобі побачитися з фараоном.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp1c": {
-    "message": "I have strict orders: no visitors without an <FC 0,128,0>Invitation<END FC>.<E>"
+    "message": "У мене суворі розпорядження: жодних відвідувачів без <FC 0,128,0>Запрошення<END FC>.<E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp1a": {
-    "message": "Grrr! Aaaargh!  What kind of devilry was that?... You, what are you doing here?! You better leave the palace! <E>"
+    "message": "Гррр! Аааааа! Що це за біс?... Ти, що ти тут робиш?! Тобі краще покинути палац! <E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp1b": {
-    "message": "There've been some very weird things happening in the palace... but I'm not allowed to talk about it. You better leave before something awful happens to you! <E>"
+    "message": "У палаці відбувалися дуже дивні речі... але мені не дозволено про це говорити. Тобі краще піти, поки не сталося нічого поганого! <E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp1c": {
-    "message": "It's dangerous for you to remain here any longer! <E>"
+    "message": "Тобі небезпечно й далі тут залишатися! <E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard1_OpenDoor1a": {
-    "message": "Okay, I'll let you pass... but only if you bring X <E>"
+    "message": "Гаразд, я пропущу вас... але тільки якщо ви принесете X <E>"
   },
   "HT_Text_Hel_CursedPalace_PalaceGuard2_OpenDoor1b": {
-    "message": "The Pharaoh is graciously prepared to receive you now!  <E>"
+    "message": "Фараон милостиво готовий прийняти вас зараз! <E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_1stcaptured1a": {
-    "message": "Oh my goodness, you caught him! You are a most kind gentleman.<W 50>"
+    "message": "Боже мій, ти його зловив! Ви велокодушний джентльмен.<W 50>"
   },
   "HT_Text_Hel_CursedPalace_Mother_1stcaptured1b": {
-    "message": "I'm afraid there are still <FC 0,128,0><SO HT_Objective_Hel_CursedPalace_MotherNumChihuahuasLeft> doggies<END FC> left.<E>"
+    "message": "Боюся, що ще залишилися <FC 0,128,0><SO HT_Objective_Hel_CursedPalace_MotherNumChihuahuasLeft> песики<END FC>.<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_1stcaptured1c": {
-    "message": "I'm sure they must be in this building somewhere.<E> "
+    "message": "Я впевнений, що вони мають бути десь у цій споруді.<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp1a": {
-    "message": "Oh, I say! What happened? What is this strange place?<W 50>"
+    "message": "Ох... Що сталося? Що це за дивне місце?<W 50>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp1b": {
-    "message": "My doggies! Where have my precious doggies gone?! Oh my goodness! What am I going to do?<E>"
+    "message": "Мої собачки! Куди поділися мої дорогоцінні песики?! О Боже мій! Що я буду робити?<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp1c": {
-    "message": "Please, sir! you must help me! I cannot go back home to my sister in <FC 128,64,0>Abydos<END FC> without my precious doggies!<E> "
+    "message": "Будь ласка, пане! Допоможи мені! Я не можу повернутися додому до своєї сестри в <FC 128,64,0>Абідос<END FC> без моїх дорогоцінних песиків!<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp1d": {
-    "message": "They must be nearby. I'm sure they wouldn't wander too far all on their own. Goodness knows what I would do if something happened to them!<E>"
+    "message": "Вони мають бути поруч. Впевнений, що вони б не заблукали надто далеко самі по собі. Я просто в розпачі та розгублений...<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp1e": {
-    "message": "Look! Over there! It's one of my doggies, Mut!<E>"
+    "message": "Подивіться! Там! Це один із моїх песиків, Мут!<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_WakeUp1f": {
-    "message": "Please sir, capture him and bring him back to me.<E>"
+    "message": "Будь ласка, пане, схопіть його і приведіть до мене.<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsAllFound1a": {
-    "message": "Oh my goodness! Thank you ever so much. You have found all of my doggies! At last I can take them home and stop worrying.<E>"
+    "message": "О Боже мій! Дуже дякую. Ви знайшли всіх моїх песиків! Нарешті я можу забрати їх додому й перестати хвилюватися.<E>"
   },
   "HT_Text_Hel_CursedPalace_Mother_DogsAllFound1b": {
-    "message": "Please take this as a token of my appreciation.<E>"
+    "message": "Будь ласка, візьміть це, як знак моєї вдячності.<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1a": {
-    "message": "I have been waiting so very long for the end of this wretched curse!<E>"
+    "message": "Я так довго чекав кінця цього жалюгідного прокляття!<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1b": {
-    "message": "I suppose I have you to thank for liberating me from Anubis' foul enchantment...<E>"
+    "message": "Я маю подякувати вам за те, що ви звільнили мене від мерзенних чар Анубіса...<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1c": {
-    "message": "Anubis was smarter than I thought, stopping me before I had a chance to finish my task.  <E>"
+    "message": "Анубіс виявився розумнішим, і зупинив мене, перш ніж я встиг виконати свою задачу. <E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1d": {
-    "message": "Perchance, is Anubis looking for... this crown?!<E>"
+    "message": "Можливо, Анубіс шукає... ЦЮ КОРОНУ?!<E>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1e": {
-    "message": "If you want it you'll have to catch me first! <W 60>"
+    "message": "Якщо тобі це потрібно, то впіймай мене! <W 60>"
   },
   "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1f": {
-    "message": "Ha, ha, ha! Catch me if you can!<W 60>"
+    "message": "Ха-ха-ха! Впіймай мене, якщо зможеш!<W 60>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_HusbandDead1a": {
-    "message": "I was convinced there was something wrong with my husband, but it wasn't him! How could I have been deceived for so long?<E>"
+    "message": "Я була переконана, що з моїм чоловіком щось не так, але це був не він! Як довго мене так обманювали?<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_HusbandDead1b": {
-    "message": "But if that was not my husband, where is he? I do pray for his safety.<E>"
+    "message": "Але якщо це був не мій чоловік, то де він? Я встревожена....<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_HusbandDead1c": {
-    "message": "If you happen to find him, please send him back to me. I don't know what I'll do without him.<E>"
+    "message": "Якщо ви знайдете його, будь ласка, надішліть його назад. Я не знаю, що без нього робити.<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1a": {
-    "message": "Oh my! How disorientating. Where am I? Oh, hello there, I don't believe I've seen you before.<E>"
+    "message": "О Боже! Як дезорієнтує. Де я? О, привіт, не було нагоди бачити вас раніше.<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1b": {
-    "message": "What in the name of Ra has happened? What in the world are these statues doing here?<E>"
+    "message": "Що, в ім'я Ра, сталося? Звідки ці статуї??!<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1c": {
-    "message": "<EFF><EPO>I hope my husband's well. He was behaving very strangely the last time I saw him.<P>He was obsessed about a so called <FC 128,64,0>Lost Temple of Heliopolis<END FC>. I've never seen him like that before.<E>"
+    "message": "<EFF><EPO>Я сподіваюся, що мій чоловік почувається добре. Коли я його востаннє бачла, він поводився дуже дивно.<P>Він був одержимий так званим <FC 128,64,0>Втраченим храмом Геліополісу<END FC>. Він раніше не був  таким.<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1d": {
-    "message": "He said that the temple was hidden in the <FC 128,64,0>South Desert of Heliopolis<END FC> and that it housed an important ancient artifact.<E>"
+    "message": "Він казав, що храм заховано у <FC 128,64,0>Південній пустелі Геліополісу<END FC> і що там зберігається важливий стародавній артефакт.<E>"
   },
   "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1e": {
-    "message": "<EFF><EPO>He asked me to keep this key safe, it opens a gate to the <FC 128,64,0>South Desert<END FC>.<P>Please, take it. You have proved to me that you are trustworthy. Thank you for your help stranger.<E>"
+    "message": "<EFF><EPO>Та просив мене зберегти цей ключ у безпеці, він відкриває ворота до <FC 128,64,0>Південної пустелі<END FC>.<P>Будь ласка, візьміть його. Ти показав мені, що заслуговуєш довіри. Ще раз дякую!!<E>"
   },
   "HT_Text_Hel_CursedPalace_TakeCrown1": {
-    "message": "Ahh... excellent! With this third crown you will soon understand their power.<E>"
+    "message": "Ааах... відмінно! З третьою короною ви скоро відчуєте їх силу.<E>"
   },
   "HT_Text_Hel_CursedPalace_TakeCrown2": {
-    "message": "But there are still many perils yet to face.<E>"
+    "message": "Але, попереду ще забагато небезпек.<E>"
   },
   "HT_Text_Hel_CursedPalace_TakeCrown3": {
-    "message": "You are close to fulfilling your destiny...<E>"
+    "message": "Ти близько до здійснення своєї долі...<E>"
   },
   "HT_Text_Hel_CursedPalace_TakeCrown4": {
-    "message": "The conclusion of the Prophecy is close at hand.<E>"
+    "message": "Завершення пророцтва вже дуже близько.<E>"
   },
   "HT_Text_Hel_CursedPalace_TakeCrown5": {
-    "message": "Take this <FC 0,128,0>Gold Ankh<END FC> as a reward for your achievement.<P><ES HT_Text_ES_S_HelpText><CNTR>This magic artifact has increased your health capacity<N>by <FC 0,128,0>1 Ankh<END FC> and has fully replenished your health!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "Візьміть цей <FC 0,128,0>Золотий Анкх<END FC> як винагороду за ваші досягнення.<P><ES HT_Text_ES_S_HelpText><CNTR>Цей магічний артефакт збільшив ваше здоров’я<N>на <FC 0,128,0>1 Ankh<END FC> і повністю відновив втрачене!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_CursedPalace_Help_GotHelianCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Heliopolis<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Anubis will be very eager to see this ancient artifact.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Священну корону Геліополісу<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Анубіс дуже захоче побачити цей стародавній артефакт.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Hel_CursedPalace_Help_GotRoyalInvite": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Royal Invitation<END FC>!<P><CNTR>This official document invites you for a meeting with the Pharaoh of <FC 128,64,0>Heliopolis<END FC>.<E>"
+    "message": "<N><CNTR>Ви отримали <FC 0,128,0>Королівське Запрошення<END FC>!<P><CNTR>Це офіційне  запрошення на зустріч з фараоном <FC 128,64,0>Геліополісу< END FC>.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Intro02": {
-    "message": "You must succeed! It has been my lifelong dream to learn the secret of the <FC 0,128,0>Rosetta Stone<END FC>.<E>"
+    "message": "Ви повинні досягти успіху! Я мріяв усе життя дізнатися секрет <FC 0,128,0>Розетського Каменю<END FC>.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePiece01": {
-    "message": "Hello again, dear boy. Wait a minute... is that? Can it be? My lord, it is! You have found one of the <FC 0,128,0>Rosetta Stone Pieces<END FC>!<P>Well done, my boy! If you can find the remaining <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> Pieces<END FC> then I may be able to restore the stone and unravel the secret it holds!<E>"
+    "message": "Привіт ще раз, любий хлопче. Хвилинку... це так? Чи може це бути? Мій пане, це так! Ви знайшли одну з <FC 0,128,0>деталей Розетського Каменю<END FC>!<P>Молодець, мій хлопчику! Якщо ви знайдете залишки <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> частин<END FC>, можливо, я зможу відновити камінь і розгадати секрет, який він зберігає!<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePiece02": {
-    "message": "You only need <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> Pieces<END FC> more and we can try and learn the secret of the stone!<E>"
+    "message": "Вам потрібно ще <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> Pieces<END FC>, і ми спробуємо дізнатися таємницю каменю!<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePiece03": {
-    "message": "You only need <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> Piece<END FC> more and we can try and learn the secret of the stone!<E>"
+    "message": "Вам потрібно лише ще <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> частинок<END FC>, і ми спробуємо дізнатися таємницю каменю!<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePiece04": {
-    "message": "That's it! You've done it! You have found all of the <FC 0,128,0>Rosetta Stone Pieces<END FC>!<P>Now I must try and reassemble the pieces of the legendary <FC 0,128,0>Rosetta Stone<END FC> and try to understand its secret.<E>"
+    "message": "Це воно! Ви зробили це! Ви знайшли всі фрагменти <FC 0,128,0>Розетського каменю<END FC>!<P>Тепер я маю спробувати знову зібрати фрагменти легендарного <FC 0,128,0>Розеттського каменю<END FC> і спробувати зрозуміти його секрет.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePiecePrompt01": {
-    "message": "Will you allow me to take the <FC 0,128,0>Rosetta Stone Pieces<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Ви дозволите мені взяти <FC 0,128,0>Частини Розетського Каменю<END FC>?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_StonePieceDecline": {
-    "message": "Alas, they are yours to keep if you wish. But you will not find anyone more capable than I of learning the secret of the stone. To you they are quite useless.<E>"
+    "message": "Шкода, тоді вони залишаються у вас, якщо ви хочете. Але ви не знайдете нікого, більш здатного, ніж я, аби дізнатися таємницю каменю...<E>"
   },
   "HT_Text_Hel_Dungeon_Help_DoorChains": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Heavy chains are preventing<N>you from opening this door.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Важкі ланцюги заважають<N>відчинити ці двері.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Help_SkeletonClue": {
-    "message": "<CNTR>---[ The <FC 0,128,0>Bones of the Undead<END FC> must be offered in order from head to toe, from left to right ]---<E>"
+    "message": "<CNTR>---[ <FC 0,128,0>Кістки нежиті<END FC> потрібно ставити в порядку від голови до ніг, зліва направо ]---<E>"
   },
   "HT_Text_Hel_Dungeon_Help_GotBone01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Skeletal Skull<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Череп Скелета<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Help_GotBone02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Skeletal Pelvis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Таз Скелета<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Help_GotBone03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Skeletal Arm<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Руку Скелета<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Help_GotBone04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Skeletal Leg<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Ногу Скелета<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Help_ShrinePromptTakeItem": {
-    "message": "<ES HT_Text_ES_S_HelpText>Take the item from the shrine?<N>  <B 1> Yes<N>  <B 2> No<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText>Взяти предмет з храму?<N> <B 1> Так<N> <B 2> Ні<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Help_ShrineNoItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is a shrine for an item of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Це місце для якогось предмета.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_a": {
-    "message": "Greetings, young man. I am Urbain the Archeologist. <E>"
+    "message": "Вітаю, юначе. Я Урбен археолог. <E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_b": {
-    "message": "I have spent most of my life in search of the <FC 0,128,0>Rosetta Stone<END FC>. Obviously not in my formative years. <E>"
+    "message": "Більшу частину свого життя я провів у пошуках <FC 0,128,0>Розетський Камінь<END FC>. Очевидно, не в кращі роки. <E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_c": {
-    "message": "I have come so far but this task is impossible. Now I'll never discover the secret of the <FC 0,128,0>Rosetta Stone<END FC>. <E>"
+    "message": "Я зайшов так далеко, але це завдання тяжке. Тепер я ніколи не відкрию секрет <FC 0,128,0>Розетського Каменю<END FC>. <E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_c1": {
-    "message": "Please, follow me. Let me show you something very interesting. <E>"
+    "message": "Будь ласка, слідуй за мною. Дозволь показати щось дуже цікаве. <E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_d": {
-    "message": "<EFF><EPO>These ancient writings on the wall here say that the stone was shattered into six pieces, and that the pieces were hidden inside this temple.<P>However, it also says they are guarded by ferocious beasts. <E>"
+    "message": "<EFF><EPO>Ці стародавні написи на стіні говорять, що камінь розбитий на шість шматків, та ці шматки заховано в цьому храмі.<P>Однак там також сказано, що їх охороняють люті звірі. <E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_e": {
-    "message": "I am too old and frail to venture inside the temple. Alas, I shall die without realizing my dream.<E>"
+    "message": "Я надто старий і немічний, щоб ризикнути зайти в храм. На жаль, я помру, не здійснивши своєї мрії.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_f": {
-    "message": "But wait! You are young and strong, as I think I once was! Go forth into the temple, if you have the stomach for adventure.<E>"
+    "message": "Але зачекай! Ти молодий і сильний, яким я був колись! Йди до храму, якщо не боїшся додаткових випробувань.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Presentation_g": {
-    "message": "If you find the <FC 0,128,0>Rosetta Stone Pieces<END FC>, return them to me, and make an old man happy.<E>"
+    "message": "Якщо ви знайдете <FC 0,128,0>Розетські Камені<END FC>, принесіть їх мені та порадуйте старого.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_a": {
-    "message": "<EFF><EPO>Excellent, my boy! Excellent! Now I must get back to my tent in the <FC 128,64,0>Bedouin Outpost<END FC> and get to work.<P>You must come and visit me to check on my findings. The <FC 128,64,0>Bedouin Outpost<END FC> is easy to find if you approach through the underwater passage from the <FC 128,64,0>Cursed Palace<END FC>.<E>"
+    "message": "<EFF><EPO>Чудово, мій хлопчику! Чудово! Тепер я мушу повернутися до свого намету на <FC 128,64,0>Бедуїнському Форпосту<END FC> і взятися до роботи.<P>Прийди до мене, щоб перевірити мої знахідки. <FC 128,64,0>Бедуїнський форпост<END FC> легко знайти, якщо пройти через підводний хід біля <FC 128,64,0>Проклятого палацу<END FC>.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_b": {
-    "message": "Before I go, I want you to take these <FC 0,128,0>Underwater Projectiles<END FC>. They should prove a useful tool on your journey back to the <FC 128,64,0>Bedouin Outpost<END FC>.<E>"
+    "message": "Перш ніж я піду, візьми ці <FC 0,128,0>Підводні Снаряди<END FC>. Вони будуть в нагоді у вашій подорожі назад до <FC 128,64,0>Бедуїнського Форпосту<END FC>.<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_c": {
-    "message": "Don't forget to visit me to check on my findings! I hope to see you soon, young chap!<E>"
+    "message": "Не забудьте завітати до мене, щоб перевірити мої знахідки! Сподіваюся скоро побачити вас, юначе!<E>"
   },
   "HT_Text_Hel_Dungeon_Archeologist_Complete_no": {
-    "message": "Alas, they are yours to keep if you wish, but you will not find anyone more capable than I of unraveling the secret of the stone.<E>"
+    "message": "Ваше право, вони залишаються у вас, але ви не знайдете нікого, більш здатного, ніж я, аби розгадати таємницю каменю.<E>"
   },
   "HT_Text_Hel_WallSection1_Help_BlowpipeTargets": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Targets like this can be shot with the <FC 0,128,0>Blowpipe<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>В мішені можна стріляти за допомогою <FC 0,128,0>Трубки<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_WallSection2_Help_KaAnkh01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is a <FC 0,128,0>Ka Ankh Firing Point<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>They can be used to magically transport<N>you to the location of a nearby <FC 0,128,0>Ka Ankh<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_KaTile> while standing on the<N>firing point to enter first person mode.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Це <FC 0,128,0>Вогневий пункт Ка Анкх<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Їх можна використати, щоб магічно перенести<N>вас до розташування поблизу <FC 0,128,0>Ка Анкх<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Натисніть <SB HT_Action_KaTile>, стоячи на<N>вогневій точці, щоб увійти в режим від першої особи.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_WallSection2_Help_KaAnkh02": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Aim and shoot the glowing top of a nearby <FC 0,128,0>Ka Ankh<END FC> and<N>you will be magically transported to that location.<E><ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Приціліться та вистріліть у сяючу вершину неподалік <FC 0,128,0>Ка Анкх<END FC>, і<N>ви чарівним чином перенесетесь у це місце.<E><ES HT_Text_ES_E_HelpText><E >"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1a": {
-    "message": "So, you are Sphinx. How disappointing. I was expecting so much more.<E>"
+    "message": "Отже, Сфінксе. Я розчарований та очікував набагато більшого.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1a1": {
-    "message": "<EFF><EPO>I know why you have come here. You wish to attempt that which many others before you have failed.<P>If you wish to free the people of the <FC 128,64,0>Cursed Palace<END FC> you must prove to me that you are worthy. Your first test will be one of courage and faith...<E>"
+    "message": "<EFF><EPO>Я знаю, чому ви сюди прийшли. Ви бажаєте спробувати те, що не вдалося багатьом іншим до вас.<P>Якщо ви хочете звільнити людей <FC 128,64,0>Проклятого палацу<END FC>, ви повинні довести мені, що ви гідні цього. Вашим першим випробуванням буде мужність і віра...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1b": {
-    "message": "Come, Sphinx. Come closer to me. Do not be intimidated by this deadly chasm of lava.<E>"
+    "message": "Ходи, Сфінкс. Підійди ближче до мене. Не лякайся цієї смертоносної лавової прірви.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1c": {
-    "message": "Haha! That was merely a party trick in comparison to the full power I possess. Your second test will be one of skill and technique...<E>"
+    "message": "Ха-ха! Це був просто партійний трюк у порівнянні з повною владою, яку я маю. Ваш другий тест буде тестом на вміння та техніку...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1d": {
-    "message": "You must capture <FC 0,128,0>3 Fire Armadillos<END FC> from the area you have just passed through. Take these <FC 0,128,0>Capture Beetles<END FC>. They are the tool you will require. Use them wisely.<E>"
+    "message": "Ви повинні захопити <FC 0,128,0>3 вогняних броненосця<END FC> у зоні, через яку ви щойно пройшли. Візьміть цих <FC 0,128,0>Жуків<END FC>. Це інструмент, який вам знадобиться. Використовуйте з розумом.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_Presentation1e": {
-    "message": "Prove to me that you are worthy and I will grant the freedom of some of the <FC 128,64,0>Cursed Palace<END FC> inhabitants.<E>"
+    "message": "Доведіть мені, що ви гідні, і я дам свободу деяким із мешканців <FC 128,64,0>Проклятого палацу<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1a": {
-    "message": "Ahh, you succeeded! I expected you to fail like your friend Horus. It seems you are made of sterner stuff.<E>"
+    "message": "Ах, тобі вдалося! Я сподівався, що ти зазнаєш невдачі, як твій друг Хорус. Здається, ти сильніший.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1b": {
-    "message": "Very well! These <FC 0,128,0>Curse Stones<END FC> will free two of the inhabitants of the <FC 128,64,0>Cursed Palace<END FC>.<E>"
+    "message": "Дуже добре! Ці <FC 0,128,0>Камені Прокляття<END FC> звільнять двох мешканців <FC 128,64,0>Проклятого палацу<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1c": {
-    "message": "<EFF><EPO>Now you not only have the power to capture any enemy, you can also release <FC 0,128,0>Fire Armadillos<END FC> and <FC 0,128,0>Slim Burbles<END FC>.<P>These creatures are powerful tools that will aid you in your quest. Use them wisely.<P>I may call upon you again in the future, Sphinx...<E>"
+    "message": "<EFF><EPO>Тепер у вас є можливість не тільки захопити будь-якого ворога, але й випустити <FC 0,128,0>Вогняних броненосців<END FC> і <FC 0,128,0>Тонких Бурблів<END FC>.<P >Ці істоти допоможуть вам у пошуках. Використовуйте їх мудро.<P>Я можу знову звернутися до вас у майбутньому, Сфінксе...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1c1": {
-    "message": "At last, you have returned! I have a much more dangerous quest for you to undertake if you wish to free more of the <FC 128,64,0>Cursed Palace<END FC> inhabitants.<E>"
+    "message": "Нарешті ти повернувся! У мене є для вас набагато небезпечніший квест, якщо ви хочете звільнити більше мешканців <FC 128,64,0>Проклятого палацу<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1d": {
-    "message": "In the island city of <FC 128,64,0>Abydos<END FC> is a sacred artifact which I entrusted to the Mayor many years ago; the <FC 0,128,0>Sacred Crown of Abydos<END FC>.<E>"
+    "message": "В острівному місті <FC 128,64,0>Абідос<END FC> є священний артефакт, який я довірив меру багато років тому; <FC 0,128,0>Священна корона Абідосу<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1e": {
-    "message": "<EFF><EPO>The Mayor resides in the city's <FC 128,64,0>Council Chambers<END FC>. Convince him to return the Crown to me and I will give you the <FC 0,128,0>Curse Stones<END FC> you desire.<P>The portal beneath you will take you to <FC 128,64,0>Abydos<END FC> if you have the <FC 128,64,0>Abydos Portal Amulet<END FC>. Farewell, Sphinx.<E>"
+    "message": "<EFF><EPO>Мер проживає в <FC 128,64,0>палатах міської ради<END FC>. Переконайте його повернути мені Корону, і я дам вам <FC 0,128,0>Проклятий Камінь<END FC>, який вам так потрібен.<P>Портал під вами приведе вас до <FC 128,64,0>Абідоса< END FC>, якщо у вас є <FC 128,64,0>Портальний Амулет Абідосу<END FC>. Прощай, Сфінкс.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1a": {
-    "message": "Ahh... you have returned! I was beginning to think the challenge had proved beyond your capabilities! You have my artifact?<E>"
+    "message": "Ах... ти повернувся! Я почав думати, що виклик виявився надто тяжким для вас! Ви маєте є мій артефакт?<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1b": {
-    "message": "So the crown was in the possession of a demon? Hmmm... this is indeed an ominous revelation.<E>"
+    "message": "Отже, короною володів демон?! Хммм... це дуже неприємні новини...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1c": {
-    "message": "If Set has attempted to steal the <FC 0,128,0>Sacred Crown of Abydos<END FC>, then it is certain that he is also seeking the <FC 0,128,0>Sacred Crown of Uruk<END FC>.<E>"
+    "message": "Якщо Сет намагався вкрасти <FC 0,128,0>Священну корону Абідоса<END FC>, тоді він точно шукає <FC 0,128,0>Священну корону Урука<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1d": {
-    "message": "I will stay true to my word. These <FC 0,128,0>Curse Stones<END FC> will free more of the inhabitants of the <FC 128,64,0>Cursed Palace<END FC>.<E>"
+    "message": "Я залишусь вірним своєму слову. Ці <FC 0,128,0>Камені прокляття<END FC> звільнять більше мешканців <FC 128,64,0>Проклятого палацу<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1e": {
-    "message": "However, you must find the <FC 0,128,0>Sacred Crown of Uruk<END FC> and return it to me before Set lays his hands on it.<E>"
+    "message": "Однак ви повинні знайти <FC 0,128,0>Священну корону Урука<END FC> і повернути її мені, перш ніж Сет покладе на неї руки.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1f": {
-    "message": "These <FC 0,128,0>Acid Darts<END FC> should help you in your quest for the crown.<E>"
+    "message": "Ці <FC 0,128,0>Кислотні дротики<END FC> допоможуть вам у пошуках корони.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1g": {
-    "message": "Good luck on your new quest! You're going to need it!<W 90>"
+    "message": "Успіхів на завданні! Сподіваюсь на твої сили!<W 90>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1a": {
-    "message": "Excellent! You brought the <FC 0,128,0>Sacred Crown of Uruk<END FC>! You are proving that you are a true hero!<E>"
+    "message": "Чудово! Ви принесли <FC 0,128,0>Священну корону Урука<END FC>! Ти доводиш, що ти справжній герой!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1b": {
-    "message": "But you are not yet strong enough to defeat Set! I am glad that you did not confront him in <FC 128,64,0>Uruk<END FC>. He would have destroyed you with ease.<E>"
+    "message": "Але ти все ще недостатньо сильний, щоб перемогти Сета! Я радий, що ви не протистояли йому в <FC 128,64,0>Уруці<END FC>. Він би з легкістю вас знищив.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1c": {
-    "message": "Alas, time is running out! Set is close to his ultimate goal of destroying his brother Osiris!<E>"
+    "message": "На жаль, час спливає! Сет близький до своєї мети — знищити свого брата Осіріса!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1d": {
-    "message": "There was a time when only one God ruled over us. That God was known by the name... Ra.<E>"
+    "message": "Був час, коли тільки один Бог панував над нами. Цей Бог був відомий під ім'ям... Ра.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1d1": {
-    "message": "He personified both good and evil - the darkness and the light in one!<E>"
+    "message": "Він уособлював і добро, і зло - темряву і світло в одному!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1e": {
-    "message": "Osiris was the light and Set was the dark. They ruled in harmony; it was a time of peace.<E>"
+    "message": "Осіріс був світлом, а Сет — темрявою. Вони панували в злагоді; це був мирний час.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1f": {
-    "message": "But Set became greedy - as is in the nature of evil - and turned against Osiris.<E> "
+    "message": "Але Сет став жадібним - як це властиво природі зла - і обернувся проти Осіріса!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1f1": {
-    "message": "He attacked his brother in an attempt to become the single force in the universe... the power of evil!<E>"
+    "message": "Він напав на свого брата, намагаючись стати єдиною силою у всесвіті... силою зла!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1f2": {
-    "message": "If Set gathers every crown that controls the Eye and destroys Osiris, the shadow of evil will be cast upon us for eternity!<E>"
+    "message": "Якщо Сет збере кожну корону, яка контролює Око, і знищить Осіріса, тінь зла буде кинута на нас назавжди!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1g": {
-    "message": "Set is gathering strength while Osiris is weak, on the verge of death.<P>That you were able to stop the ritual he was using to spread the shadow of evil is perhaps why we are still alive.<E>"
+    "message": "Сет набирається сил, а Осіріс слабкий...  На межі смерті.<P>Вам вдалося зупинити ритуал, який він використовував для поширення тіні зла, можливо, тому ми досі живі.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1h": {
-    "message": "Now you must go to the <FC 128,64,0>Cursed Palace<END FC> and retrieve the <FC 0,128,0>Sacred Crown of Heliopolis<END FC>.<E>"
+    "message": "Тепер ви повинні піти до <FC 128,64,0>Проклятого палацу<END FC> і отримати <FC 0,128,0>Священну корону Геліополісу<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1i": {
-    "message": "These <FC 0,128,0>Curse Stones<END FC> will help you free the Pharaoh. I am sure he will be very pleased to see you! Muahaha!<E>"
+    "message": "Ці <FC 0,128,0>Камені прокляття<END FC> допоможутьтобі звільнити фараона. Впевнений, він буде дуже радий тебе бачити! Муахаха!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1a": {
-    "message": "You have brought the <FC 0,128,0>Sacred Crown of Heliopolis<END FC>! I knew that you would succeed!<E>"
+    "message": "Ви принесли <FC 0,128,0>Священну корону Геліополісу<END FC>! Я знав, що ти зможеш це зробити!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1c": {
-    "message": "Hmm, and also you have brought the very same Set's crown. <E>"
+    "message": "Хм, а ще ти приніс ту саму корону Сета... <E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1b": {
-    "message": "Congratulations, Sphinx. This is a magnificent achievement to finally give Osiris enough power to manifest once again! <E>"
+    "message": "Вітаю, Сфінкс. Це чудовий результат, яий нарешті дав Осірісу достатньо сили, щоб знову проявитися! <E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1b1": {
-    "message": "Behold his mighty power and splendor! <E>"
+    "message": "Подивіться на його могутню силу! <E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2a": {
-    "message": "I am the light of Ra, defender of the good and innocent, enemy of shadow, and the founder of the <FC 0,128,0>Ancient Prophecy of Ra<END FC>. A prophecy which is rapidly drawing to an end.<E>"
+    "message": "Я світло Ра, захисник добрих і невинних, ворог тіні та засновник <FC 0,128,0>Стародавнього пророцтва Ра<END FC>. Пророцтва, яке швидко побачить свій кінець.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2b": {
-    "message": "I built this wall eons ago to prevent my own destruction at the hands of my brother Set. All this time, my guardian Anubis has protected the wall from Set's onslaught.<E>"
+    "message": "Я побудував цю стіну багато років тому, щоб запобігти власному знищенню від рук мого брата Сета. Весь цей час мій опікун Анубіс захищав стіну від натиску Сета.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2c": {
-    "message": "Cursing the palace was necessary to protect <FC 128,64,0>Heliopolis<END FC> but now the inhabitants are free and the demon destroyed.<E>"
+    "message": "Прокляття палацу було необхідно, щоб захистити <FC 128,64,0>Геліополіс<END FC>, але тепер мешканці вільні, а демон знищений.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2d": {
-    "message": "You are the Chosen One who has fulfilled the Ancient Prophecy, but the ultimate outcome of your heroic actions is uncertain...<E>"
+    "message": "Ви обраний, який виконав стародавнє пророцтво, але остаточний результат ваших героїчних дій невідомий...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4a": {
-    "message": "Sphinx, there is one last quest you must undertake before you truly fulfill the <FC 0,128,0>Ancient Prophecy of Ra<END FC>...<E>"
+    "message": "Сфінкс, є ще один квест, який ти маєш виконати, перш ніж виконати <FC 0,128,0>Стародавнє пророцтво Ра<END FC>...<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4b": {
-    "message": "You must travel to the <FC 128,64,0>Castle of Uruk<END FC> and fight Set in a final battle for the crown! Anubis must stay and defend the wall! You are our only chance!<E>"
+    "message": "Ти маєш відправитися до <FC 128,64,0>Замку Урук<END FC> і битися із Сетом у фінальній битві за корону! Анубіс повинен залишитися і захистити стіну! Ти наш єдиний шанс!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4c": {
-    "message": "I will transport you to <FC 128,64,0>Uruk<END FC>... but you must jump into the lava!<E>"
+    "message": "Я направлю тебе в<FC 128,64,0>Урук<END FC>... але ти маєш стрибнути в лаву!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free5a": {
-    "message": "Sir! Using Set's own ethereal canals to transport him to the castle?! This is folly! That is much too dangerous!<E>"
+    "message": "Пане! Використати останні сили, щоб транспортувати його до замку?! Це дурість! Це надто небезпечно!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free6a": {
-    "message": "We have no choice! Set is getting stronger by the second! Now, Sphinx... NOW!!!<E>"
+    "message": "У нас немає вибору! Сет посилюється з кожною секундою! Зараз, Сфінкс... ЗАРАЗ!!!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Incomplete": {
-    "message": "Are you so feeble that you cannot even capture <FC 0,128,0>3 Fire Armadillos<END FC>?<E>"
+    "message": "Ви слабкі, що не можете навіть захопити <FC 0,128,0>3 Вогняних броненосця<END FC>?<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_LizardMission_NoBeetles": {
-    "message": "I warned you about using the <FC 0,128,0>Capture Beetles<END FC> wisely and yet you have squandered them.<P>I will grant you 20 more but if you do not use them to capture <FC 0,128,0>3 Fire Armadillos<END FC> I will be most unimpressed.<E>"
+    "message": "Я попереджав вас про мудре використання <FC 0,128,0>Жуків-Ловців<END FC>, але ви їх змарнували.<P>Я дам вам ще 20, але якщо ви не використаєте їх для захоплення <FC 0,128,0> 3 Вогняних броненосців<END FC> Мене це не вразить.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_GenericMeetAgain": {
-    "message": "I'm certain that fate will bring you to me again in the future, but now I have nothing more to give you.<E>"
+    "message": "Я певен, що в майбутньому доля знову приведе тебе до мене, але тепер мені більше нічого тобі дати.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_AbydosCrown_NotFound": {
-    "message": "You should not delay. There are other more sinister forces also looking for the <FC 0,128,0>Sacred Crown of Abydos<END FC>.<E>"
+    "message": "Не варто зволікати. Є й інші більш зловісні сили, які також шукають <FC 0,128,0>Священну корону Абідосу<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_AbydosCrown_Found": {
-    "message": "Finally, you have returned with the crown! Congratulations young hero, you have far surpassed my expectations.<P>I will stay true to my word and release more of the inhabitants of the <FC 128,64,0>Cursed Palace<END FC>.<P>However, I feel it is time to reveal to you the truth behind my sending you in search of the crown.<P>There are other crowns in different worlds, and the evil god Set is trying to recover them for himself.<P>We cannot let this happen! You must find the crowns before he does or the consequences could be devastating.<P>In the jungle world of <FC 128,64,0>Sakkara<END FC> you should find the ancient <FC 0,128,0>Sakkarian Crown<END FC>.<P>You should leave immediately. Good luck.<E>"
+    "message": "Нарешті ви повернулися з короною! Вітаю, молодий герою, ти значно перевершив мої сподівання.<P>Я залишатимусь вірним своєму слову та звільню більше мешканців <FC 128,64,0>Проклятого палацу<END FC>.<P>Однак я відчуваю, що настав час відкрити вам правду про те, що я відправив вас на пошуки корони.<P>У різних світах є інші корони, і злий бог Сет намагається повернути їх собі.<P>Ми не можемо дозволити цьому трапитись! Треба знайти корони раніше, ніж він, інакше наслідки можуть бути руйнівними.<P>У світі джунглів <FC 128,64,0>Саккара<END FC> ви повинні знайти стародавню <FC 0,128,0>Саккаріанську Корону< END FC>.<P>Ти маєш негайно піти. Удачі.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_SakkaraCrown_NotFound": {
-    "message": "Do not delay! If Set finds the <FC 0,128,0>Crown of Uruk<END FC> first, there is no telling what could happen!<E>"
+    "message": "Не зволікай! Якщо Сет першим знайде <FC 0,128,0>Корону Урука<END FC>, стануться страшні речі!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_SakkaraCrown_Found": {
-    "message": "Finally, you have returned with the crown! I knew that you would not fail.<P>As promised I will release the remaining inhabitants of the <FC 128,64,0>Cursed Palace<END FC>.<P>The <FC 0,128,0>Sacred Crown of Heliopolis<END FC> is within the palace, but I urge caution. The Pharaoh is not an easy man to deal with.<E>"
+    "message": "Нарешті ви повернулися з короною! Я знав, що ти не підведеш.<P>Як і обіцяв, я звільню решту мешканців <FC 128,64,0>Проклятого палацу<END FC>.<P><FC 0,128,0>Священна корона Геліополісу <END FC> знаходиться в палаці, але я прошу бути обережними. З Фараоном нелегко мати справу.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_NotFound": {
-    "message": "Do not delay. The Pharaoh and his crown await in the <FC 128,64,0>Cursed Palace<END FC>.<E>"
+    "message": "Не зволікай. Фараон і його корона чекають у <FC 128,64,0>Проклятому палаці<END FC>.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Found": {
-    "message": "You have performed with great courage and strength, hero, but now you must face your toughest challenge.<P>Set is already in possession of the <FC 0,128,0>Sacred Crown of Uruk<END FC> in the devastated world of <FC 128,64,0>Uruk<END FC>.<P>The only way he can be stopped now is to travel to <FC 128,64,0>Uruk<END FC> and destroy him once and for all.<P>You should prepare yourself for the arduous journey ahead. When you are ready, use this <FC 01,128,0>Portal Amulet<END FC> to travel to <FC 128,64,0>Uruk<END FC>.<P>Good luck, young hero.<E>"
+    "message": "Ти проявив велику мужність і силу, герою, але тепер тобі доведеться зустрітися з найскладнішим випробуванням.<P>Сет уже володіє <FC 0,128,0>Священною короною Урука<END FC> у спустошеному світі < FC 128,64,0>Урук<END FC>.<P>Єдиний спосіб зупинити його зараз — це потрапити до <FC 128,64,0>Урука<END FC> і знищити його раз і назавжди.< P>Підготуйтесь до важкої подорожі попереду. Коли будете готові, скористайтеся цим <FC 01,128,0>Портальним Амулетом<END FC>, щоб відправитися в <FC 128,64,0>Урук<END FC>.<P>Успіхів, юний герою.<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_NotFound": {
-    "message": "The more you linger, the stronger Set becomes. It is unwise to delay much longer.<E>"
+    "message": "Чим більше ви затримуєтеся, тим сильнішим стає Сет. Не зволікайте!!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_Accept": {
-    "message": "Very well, the portal is open. Good luck.<E>"
+    "message": "Дуже добре, портал відкрито.. Удачі!!<E>"
   },
   "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_Decline": {
-    "message": "The more you linger, the stronger Set becomes. It is unwise to delay much longer.<E>"
+    "message": "Чим більше ви затримуєтеся, тим сильнішим стає Сет. Не зволікайте!!<E>"
   },
   "HT_Text_Hel_DarkArea2_Help_KaAnkh01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is a <FC 0,128,0>Ka Ankh Firing Point<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>They can be used to magically transport<N>you to the location of a nearby <FC 0,128,0>Ka Ankh<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_KaTile> while standing on the<N>firing point to enter first person mode.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Це <FC 0,128,0>Вогневий пункт Ка Анкх<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Їх можна використати, щоб магічно перенести<N>вас до розташування поблизу <FC 0,128,0>Ка Анкх<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Натисніть <SB HT_Action_KaTile>, стоячи на<N>вогневій точці, щоб увійти в режим від першої особи.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_DarkArea2_Help_KaAnkh02": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Aim and shoot the glowing top of a nearby <FC 0,128,0>Ka Ankh<END FC> and<N>you will be magically transported to that location.<E><ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Приціліться та вистріліть у сяючу вершину неподалік <FC 0,128,0>Ка Анкх<END FC>, і<N>ви чарівним чином перенесетесь у це місце.<E><ES HT_Text_ES_E_HelpText><E >"
   },
   "HT_Text_Hel_DarkArea3_Teleport_Prompt01": {
-    "message": "<ES HT_Text_ES_S_HelpText>Use the magical teleport?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<ES HT_Text_ES_S_HelpText>Скористатись телепортом?<N> <B 2> Ні<N> <B 1> Так<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1a": {
-    "message": "At last you have arrived! I was wondering if you would return at all!<E>"
+    "message": "Нарешті ви прибули! Мені було цікаво, чи ти взагалі повернешся!<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1b": {
-    "message": "I didn't expect such complications in <FC 128,64,0>Abydos<END FC>. It appears that the forces of darkness are moving faster than I anticipated.<E>"
+    "message": "Я не очікував таких ускладнень у <FC 128,64,0>Абідосі<END FC>. Схоже, що сили темряви рухаються швидше, ніж я очікував.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1c": {
-    "message": "If you had not intervened, I am sure that eventually <FC 128,64,0>Abydos<END FC> would have suffered a similar fate to that of <FC 128,64,0>Heliopolis<END FC>.<E>"
+    "message": "Якби ви не втрутилися, я впевнений, що зрештою <FC 128,64,0>Абідос<END FC> спіткала б така ж доля, як і <FC 128,64,0>Геліополіс<END FC>.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1d": {
-    "message": "Now that you have interfered with his plans, the enemy will be watching you more closely, striving harder to hinder your progress.<E>"
+    "message": "Тепер, коли ви втрутилися в його плани, ворог спостерігатиме за вами пильніше, намагаючись перешкодити вашому успіху.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1e": {
-    "message": "You must be prepared for the more difficult and dangerous journey that lies ahead. I have confidence that you will rise to the challenges that you will face.<E>"
+    "message": "Ви повинні бути готові до більш складної та небезпечної подорожі, яка вас чекає попереду. Я впевнений, що ви впораєтеся з викликами, з якими зіткнетеся.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1f": {
-    "message": "You should go to Anubis now. He may have information about the enemy that I lack. Use your <FC 0,128,0>Portal Amulet<END FC> to get to his tower more quickly.<E>"
+    "message": "Тобі варто зараз піти до Анубіса. Він певно має інформацію про ворога, якої мені бракує. Використовуйте свій <FC 0,128,0>Амулет Порталу<END FC>, щоб швидше дістатися.<E>"
   },
   "HT_Text_Hel_Imhotep_Akaria1g": {
-    "message": "You should go to Anubis now. He may have information about the enemy that I lack. Use this <FC 0,128,0>Portal Amulet<END FC> to get to his tower more quickly.<E>"
+    "message": "Тобі варто зараз піти до Анубіса. Він певно має інформацію про ворога, якої мені бракує. Використовуйте свій <FC 0,128,0>Амулет Порталу<END FC>, щоб швидше дістатися.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1a": {
-    "message": "<EFF><EPO>Sphinx! It is good to see you again my friend! You have faced many deadly dangers and challenges and it is clear to me that you are no longer an inexperienced apprentice.<P>Ahh... I see that you now have the <FC 0,128,0>Shield of Osiris<END FC>; what a perfect companion for the <FC 0,128,0>Blade of Osiris<END FC>.<E>"
+    "message": "<EFF><EPO>О Сфінкс! Приємно бачити тебе знову, друже! Ви зіткнулися з багатьма смертельними небезпеками та викликами, і мені зрозуміло, що ви більше не недосвідчений учень.<P>Ааа... Я бачу, що тепер у вас є <FC 0,128,0>Щит Осіріса<END FC> ; ідеальний компаньйон для <FC 0,128,0>Клинка Осіріса<END FC>.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1a1": {
-    "message": "<EFF><EPO>Wielding these is a fine achievement indeed, for they will serve you well in your coming adventure.<P>Horus has already been here, but he would not wait for you. His impatience is equal to your enthusiasm.<E>"
+    "message": "<EFF><EPO>Володіння ними — справді чудове досягнення, оскільки вони будуть в нагоді вам у майбутніх пригодах.<P>Хорус уже був тут, але він не чекав вас. Його нетерпіння дорівнює вашому ентузіазму.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1b": {
-    "message": "It seems that you have been busy on your voyage; that <FC 0,128,0>Canopic Vase<END FC> is a most interesting artifact.<E>"
+    "message": "Здається, ви були зайняті під час подорожі; ця <FC 0,128,0>Канопічна Ваза<END FC> найцікавіший артефакт.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1c": {
-    "message": "It has been many years since I have seen one like this... But I might still be able to help release the soul that is trapped inside... <E> "
+    "message": "Минуло багато років з тих пір, як я бачив таку... Але, можливо, я все одно зможу допомогти звільнити душу, яка потрапила всередину... <E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1d": {
-    "message": "I see a place far to the north, inside a castle in the land of inferno; the land of <FC 128,64,0>Uruk<END FC>... Aha! I see the Prince of <FC 128,64,0>Luxor<END FC>... Tutankhamen.<E>"
+    "message": "Я бачу місце далеко на півночі, всередині замку в країні пекла; земля <FC 128,64,0>Урук<END FC>... Ага! Я бачу принца <FC 128,64,0>Люксор<END FC>... Тутанхамона.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1d1a": {
-    "message": "I will release the soul from the <FC 0,128,0>Canopic Vase<END FC> and send it back to its owner...<E>"
+    "message": "Я звільню душу з <FC 0,128,0>Канопічної Вази<END FC> і відішлю її назад до власника...<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1d1b": {
-    "message": "His body lies within the <FC 128,64,0>Castle of Uruk<END FC>! Once revived, he could be very useful; nobody has ever managed to get inside. I have an ominous feeling about events there...<E>"
+    "message": "Його тіло лежить у <FC 128,64,0>Замку Урук<END FC>! Після оживлення він міг би бути дуже корисним; нікому ніколи не вдавалося потрапити всередину. У мене погані відчуття щодо подій, які відбуваються там...<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1e": {
-    "message": "Yes, I can see him now. It is Tutankhamen, the Prince of <FC 128,64,0>Luxor<END FC>. He has been mummified, but has not yet crossed into the afterlife. Tutankhamen, wake up! Wake up!<E>"
+    "message": "Так, я бачу його зараз. Це Тутанхамон, принц <FC 128,64,0>Люксору<END FC>. Він був муміфікований, але ще не перейшов у потойбічний світ. Тутанхамон, прокинься! Прокинься!<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1f": {
-    "message": "No living thing can travel beyond the fierce protection of the castle. We will need to send a magical entity...<E>"
+    "message": "Жодна жива істота не може вийти за межі жорстокого захисту замку. Нам потрібно буде надіслати магічну сутність...<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1g": {
-    "message": "This basket is perfect. Nobody will suspect a thing.<E>"
+    "message": "Цей кошик ідеальний. Ніхто нічого не запідозрить.<E>"
   },
   "HT_Text_Hel_Imhotep_BookDead_1h": {
-    "message": "By the power of Osiris, instill this basket with the illusion of life!<E>"
+    "message": "Сила Осіріса, дай життя цьому кошику!<E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a": {
-    "message": "What have we here? <E>"
+    "message": "А? Що? <E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a1": {
-    "message": "It's one of the stolen jewels of <FC 128,64,0>Abydos<END FC>! <E>"
+    "message": "Це одна з викрадених коштовностей <FC 128,64,0>Абідосу<END FC>! <E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a2": {
-    "message": "I knew something suspicious was going on. We must find out exactly what treachery is afoot...<E>"
+    "message": "Я знав, що відбувається щось підозріле. Ми повинні з'ясувати, яка саме зрада відбувається...<E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1b": {
-    "message": "Ahh, this is very interesting... the Prince has managed to find the lost <FC 0,128,0>Wings of Ibis<END FC> within the castle.<E>"
+    "message": "Ах, це дуже цікаво... Принцу вдалося знайти втрачені <FC 0,128,0>Крила Ібіса<END FC> у замку.<E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1c": {
-    "message": "It is an ancient magical artifact that was stolen a long time ago. It gives its owner the agility of a bird, enabling them to jump greater heights and longer distances.<E>"
+    "message": "Це вкрадений стародавній магічний артефакт. Він надає своєму власникові спритність птаха, дозволяючи йому стрибати на більшу висоту та на більші відстані.<E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Basket1a": {
-    "message": "Keep Bas-Ket with you now, as well as these items. I am sure they will be very useful in your quest.<E>"
+    "message": "Тримайте Бас-Кета зараз із собою, а також ці предмети. Я впевнений, що вони будуть дуже корисними у ваших пошуках.<E>"
   },
   "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1d": {
-    "message": "If you had the <FC 0,128,0>Book of the Dead<END FC>, you could send Bas-Ket to Tutankhamen when you find a <FC 0,128,0>Canopic Vase<END FC>. <P>I have a feeling the book may be in the <FC 128,64,0>Cursed Palace<END FC> somewhere, so perhaps you should go and speak to Anubis about the palace's unfortunate inhabitants.<P>Horus already left to visit him, but I see your fate and his are diverging now.<E>"
+    "message": "Якби у вас була <FC 0,128,0>Книга мертвих<END FC>, ви могли б відправити Бас-Кета Тутанхамону, коли знайдете <FC 0,128,0>Канопічну вазу<END FC>. <P>Я відчуваю, що книга може бути десь у <FC 128,64,0>Проклятому палаці<END FC>, тож, можливо, вам варто піти й поговорити з Анубісом про нещасних мешканців палацу.<P>Хорус вже пішов відвідати його, але я бачу, що ваші долі тепер розходяться.<E>"
   },
   "HT_Text_Hel_Imhotep_Basket1a": {
-    "message": "Outstanding work Sphinx! You have the last two Sacred Crowns!<E>"
+    "message": "Неймовірна робота, Сфінксе! У вас є останні дві священні корони!<E>"
   },
   "HT_Text_Hel_Imhotep_Basket1b": {
-    "message": "You should take them to Anubis but be warned...<E>"
+    "message": "Ви повинні віднести їх до Анубіса, але майте на увазі...<E>"
   },
   "HT_Text_Hel_Imhotep_Basket1c": {
-    "message": "I sense that your quest is nearing its conclusion and once you have departed for the final battle, there will be no turning back.<E>"
+    "message": "Я відчуваю, що ваше завдання наближається до завершення, і коли ви вирушите на останню битву, дороги назад не буде.<E>"
   },
   "HT_Text_Hel_Imhotep_Basket1d": {
-    "message": "If you have any unfinished business, you should take care of it before you visit Anubis. Good luck Sphinx.<E>"
+    "message": "Якщо у вас є якісь незавершені справи, ви повинні подбати про них, перш ніж відвідати Анубіса. Удачі Сфінкс.<E>"
   },
   "HT_Text_Hel_Imhotep_Sakkara1a": {
-    "message": "Sphinx! Welcome back! The situation in <FC 128,64,0>Uruk Islands<END FC> was very dire indeed.<E>"
+    "message": "Сфінкс! З поверненням! Ситуація на <FC 128,64,0>Островах Урук<END FC> жахлива.<E>"
   },
   "HT_Text_Hel_Imhotep_Sakkara1c": {
-    "message": "I see that Set himself was present at the ceremony. This is a disturbing development.<E> "
+    "message": "Я знаю, що на церемонії був присутній сам Сет. Це мене непокоїть.<E>"
   },
   "HT_Text_Hel_Imhotep_Sakkara1d": {
-    "message": "If he had known of your presence there I am sure he would have destroyed you. He is becoming more powerful as every moment passes.<E> "
+    "message": "Якби він знав про вашу присутність там, я впевнений, він би вас знищив. З кожною миттю він стає все могутнішим.<E>"
   },
   "HT_Text_Hel_Imhotep_Sakkara1e": {
-    "message": "Despite such adversity, you managed to prevail and stop Set from completing his domination of <FC 128,64,0>Uruk<END FC>. You are indeed proving to be a most worthy apprentice.<E> "
+    "message": "Незважаючи на такі труднощі, вам вдалося перемогти та зупинити Сета від завершення його планів над <FC 128,64,0>Уруком<END FC>. Ви справді довели, що найгідніший учень.<E>"
   },
   "HT_Text_Hel_Imhotep_Sakkara1h": {
-    "message": "You should inform Anubis of Set's involvement. He will be most interested to learn that his nemesis has his plans for domination back in motion.<E>"
+    "message": "Ви повинні повідомити Анубіса про участь Сета. Йому буде дуже цікаво дізнатися, що його ворог знову запустив плани нападу.<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep01": {
-    "message": "Sphinx! You should visit Anubis by passing through <FC 128,64,0>Great Wall Entrance I<END FC>. He may have some answers about what happened to the poor people of the <FC 128,64,0>Cursed Palace<END FC>.<E>"
+    "message": "Сфінкс! Ви повинні відвідати Анубіса, пройшовши через <FC 128,64,0>Вхід Великої стіни I<END FC>. У нього можуть бути деякі відповіді про те, що сталося з бідними людьми <FC 128,64,0>Проклятого палацу<END FC>.<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep02": {
-    "message": "You should not keep Anubis waiting Sphinx! Complete his quest and he may have some valuable information!<E>"
+    "message": "Не варто змушувати Анубіса чекати! Виконайте його завдання, і він може отримати цінну інформацію!<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep03": {
-    "message": "Sphinx! So, Anubis is seeking the <FC 0,128,0>Sacred Crown of Abydos<END FC>. I wonder what he could want with that ancient artifact?<E>"
+    "message": "Сфінкс! Отже, Анубіс шукає <FC 0,128,0>Священну корону Абідоса<END FC>. Цікаво, чого він може хотіти від того стародавнього артефакту?<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep04": {
-    "message": "Sphinx, you should take the <FC 0,128,0>Sacred Crown of Abydos<END FC> to Anubis without delay!<E>"
+    "message": "Сфінкс, ти маєш негайно віднести <FC 0,128,0>Священну корону Абідосу<END FC> до Анубіса!<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep05": {
-    "message": "Now it's the <FC 0,128,0>Sacred Crown of Uruk<END FC> Anubis is seeking? This obsession with the sacred crowns makes me uneasy. I urge caution Sphinx.<E>"
+    "message": "Тепер Анубіс шукає <FC 0,128,0>Священну корону Урука<END FC>? Ця одержимість священними коронами викликає у мене занепокоєння. Я раджу вам бути обережнішим.<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep06": {
-    "message": "Sphinx, you should take the <FC 0,128,0>Sacred Crown of Uruk<END FC> to Anubis without delay!<E>"
+    "message": "Сфінкс, ти маєш негайно віднести <FC 0,128,0>Священну корону Урука<END FC> Анубісу!<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep07": {
-    "message": "Sphinx! It seems that Anubis will not be satisfied until he has all the crowns in his possession. With the <FC 0,128,0>Sacred Crown of Heliopolis<END FC> his collection will be almost complete.<E>"
+    "message": "Сфінкс! Схоже, що Анубіс не буде задоволений, поки він не отримає всі корони у своєму володінні. Завдяки <FC 0,128,0>Священній короні Геліополя<END FC> його колекція буде майже повною.<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep08": {
-    "message": "Sphinx, do not keep Anubis waiting! He has requested your presence in his tower.<E>"
+    "message": "Сфінкс, не змушуй Анубіса чекати! Він чекає тебе у своїй вежі.<E>"
   },
   "HT_Text_Hel_SunShrine_Imhotep09": {
-    "message": "Sphinx! It was Anubis who was responsible for cursing the palace inhabitants, just as the Helians decreed. I wonder what could motivate such a drastic action?<E>"
+    "message": "Сфінкс! Саме Анубіс був відповідальним за прокляття мешканців палацу, як постановили геліани. Цікаво, що могло спонукати до такого різкого вчинку?<E>"
   },
   "HT_Text_Hel_SunShrine_ImhotepCandles01": {
-    "message": "Really Sphinx, I think you have more important things to do than to go around destroying candles!<E>"
+    "message": "Агов, Сфінксе, я думаю, у тебе є важливіші справи, ніж ходити й нищити свічки!<E>"
   },
   "HT_Text_Hel_SunShrine_ImhotepCandles02": {
-    "message": "Are you happy now all the candles are destroyed? I would expect that sort of childish behavior from Horus but not from you Sphinx. <E> "
+    "message": "Ти щасливий, що всі свічки знищено? Я очікував би такої дитячої поведінки від Хоруса, але не від тебе, Сфінксе. <E>"
   },
   "HT_Text_Hel_SunShrine_ImhotepCandles03": {
-    "message": "It's good to see you have your priorities in order. I'm sure destroying candles is going to help you immensely in your quest.<E>"
+    "message": "Приємно бачити, що ваші пріоритети впорядковані. Я впевнений, що знищення свічок дуже допоможе вам у ваших пошуках.<E>"
   },
   "HT_Text_Hel_Imhotep_PortalAmulet01": {
-    "message": "Sphinx! I have some very interesting news. Anubis has informed me that he wants to see you in his tower.<E>"
+    "message": "Сфінкс! У мене є дуже цікаві новини. Анубіс повідомив мені, що хоче бачити вас у своїй вежі.<E>"
   },
   "HT_Text_Hel_Imhotep_PortalAmulet02": {
-    "message": "Take this <FC 0,128,0>Portal Amulet<END FC>, it will allow you to use the portal behind me to travel directly to <FC 128,64,0>Anubis Tower<END FC>.<E>"
+    "message": "Візьміть цей <FC 0,128,0>Портальний Амулет<END FC>, він дозволить вам скористатися порталом позаду мене, щоб потрапити безпосередньо до <FC 128,64,0>Вежі Анубіса<END FC>.<E>"
   },
   "HT_Text_Hel_Imhotep_PortalAmulet03": {
-    "message": "Good luck, my friend.<W 70>"
+    "message": "Щасти, мій друже.<W 70>"
   }
 }
