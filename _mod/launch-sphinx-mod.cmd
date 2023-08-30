@@ -3,7 +3,8 @@
 :: run this to automatically find either the GOG or the Steam version of the game (the former has priority)
 :: and launch it with the current folder's path in the mod parameter. easy peasy lemon squeezy :)
 
-@echo off && setlocal EnableExtensions && setlocal EnableDelayedExpansion && setlocal && set arguments="%*"
+@echo off && color 71 && mode con: cols=201 lines=12 && cls && title [trying to launch sphinx mod] && chcp 65001 > nul && setlocal EnableExtensions && setlocal EnableDelayedExpansion && setlocal && set arguments="%*"
+
 
 :: https://stackoverflow.com/a/23328830/674685
 
@@ -20,23 +21,44 @@ for /f "tokens=2*" %%a in ('reg query HKLM\SOFTWARE\Valve\Steam /v InstallPath  
 if exist "%sphinx_gog%" (
 	echo [i] The GOG version of Sphinx is installed in "%sphinx_gog%"
 	call :run_game_with_mod "%sphinx_gog%"
+) else (
+	echo [i] The GOG version of Sphinx does not seem to be installed right now
 )
 
 if exist "%steam_path%" (
 	echo [i] Steam is installed in "%steam_path%", searching in SteamLibraries
 	
-	:: swy: try first to locate the game in the default SteamLibrary, which is the Steam folder.
-	call :find_in_steam_library "%steam_path%"
-	
-	:: swy: get the number of lines in our libraryfolders.vdf and use it to iterate over all the possible
-	::      extra SteamLibraries in other drives where the game might be installed.
-	for /f "tokens=*" %%g in ('type "%steam_path%\steamapps\libraryfolders.vdf" ^| find /v /c ""') do set libraryfolders_line_count=%%g
+	rem swy: loop for each line in our libraryfolders.vdf and use it to iterate over all the possible
+	rem      extra SteamLibraries in other drives where the game might be installed.
+	for /f "usebackq tokens=*" %%l in ("%steam_path%\steamapps\libraryfolders.vdf") do (
+		set cur_line=%%l
+		set cur_key=!cur_line:~1,4!
 
-	:: https://stackoverflow.com/a/9102569/674685
-	for /l %%h in (1,1,!libraryfolders_line_count!) do ( 
-		for /f delims^=^"^ tokens^=4 %%g in ('type "%steam_path%\steamapps\libraryfolders.vdf" ^| find """%%h"""') do call :find_in_steam_library "%%g"
+		rem swy: if we've found a key-value line with something like this, get the value part:
+		rem      "path" "C:\\Program Files (x86)\\Steam"
+		if /i "!cur_key!" == "path" (
+			rem swy: escaped version of for /f "delims=" tokens=3" with working " as delimiter
+			rem      https://stackoverflow.com/a/13217838/674685
+			for /f delims^=^"^ tokens^=3 %%t in ("!cur_line!") do (
+				rem swy: move the contents of the %t token to %cur_path_val% and then
+				rem      replace the double backslashes from the VDF \\ to \.
+				rem      e.g. 'C:\\Program Files (x86)\\Steam' -> 'C:\Program Files (x86)\Steam'
+				set cur_path_val=%%t
+				set "cur_path_val=!cur_path_val:\\=\!"
+
+				if exist "!cur_path_val!\" (
+					call :find_in_steam_library  "!cur_path_val!"
+				) else (
+					echo     [e] Weird; the library folder seems missing: "!cur_path_val!"
+				)
+			)
+		) 
 	)
 )
+
+rem swy: if we arrived here at the end, then we probably didn't launch;
+rem      pause so that the user can see/copy any errors.
+pause
 
 endlocal
 goto :eof
@@ -70,3 +92,4 @@ goto :eof
 		echo [e] The game path to "%~1" does not exist, broken install?
 	)
 goto :eof
+
