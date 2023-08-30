@@ -47,7 +47,7 @@ if exist "%steam_path%" (
 				set "cur_path_val=!cur_path_val:\\=\!"
 
 				if exist "!cur_path_val!\" (
-					call :find_in_steam_library  "!cur_path_val!"
+					call :find_in_steam_library "!cur_path_val!"
 				) else (
 					echo     [e] Weird; the library folder seems missing: "!cur_path_val!"
 				)
@@ -92,4 +92,3 @@ goto :eof
 		echo [e] The game path to "%~1" does not exist, broken install?
 	)
 goto :eof
-
