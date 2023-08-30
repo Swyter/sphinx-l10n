@@ -1,0 +1,413 @@
+{
+  "HT_Text_Lux_pyra_sacrifice_2a": {
+    "message": "Пане, у будівлі зловмисник!<E>"
+  },
+  "HT_Text_Lux_pyra_sacrifice_2b": {
+    "message": "Що?! Знищіть його! Він не може перервати церемонію!<E>"
+  },
+  "HT_Text_Lux_pyra_sacrifice_2c": {
+    "message": "Секундочку... Я щось відчуваю...<W 60>"
+  },
+  "HT_Text_Lux_pyra_sacrifice_2d": {
+    "message": "Покинуті духи цієї будівлі, прокиньтеся! Встаньте і ВБИЙТЕ зловмисника!<W 120>"
+  },
+  "HT_Text_Lux_pyra_sacrifice_3a": {
+    "message": "<EFF><EPO>Що сталося? Дідько! Тепер нам доведеться починати знову...<P>Дивіться! Ось негідник, перервавший церемонію!!!<E>"
+  },
+  "HT_Text_Lux_pyra_sacrifice_3b": {
+    "message": "Ти дурень! Вимкніть чарівний пристрій! Ви не бачите?! Він зараз вибухне!<W 120><E>"
+  },
+  "HT_Text_Lux_pyra_sacrifice_3c": {
+    "message": "Воно поглинає нас! Ні!!!<W 60>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_a": {
+    "message": "О! Дякую, що врятував мене, я вічно вдячний. Але, Тут більше не з нами..! Як же мені жити?<E>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_b": {
+    "message": "Ця ваза — все, що залишилося. Я впевнений, що частина його душі всередині.<E>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_c": {
+    "message": "Я хочу, щоб ти взяв це. Ваші героїчні вчинки довелі мені, що ви можете повернути його назад.<E>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_c1": {
+    "message": "Будь ласка, знайдіть його і принесіть його мені. О Тут! Чому вони це зробили з тобою?<E>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_d": {
+    "message": "Перш ніж піти, візьміть це. Це амулет, який подарував мені Тут, він був  зачарований ним, але я не знаю чому. Для мене це просто амулет.<E>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_e": {
+    "message": "Сфінксе, ти повинен зустрітися зі мною в <FC 128,64,0>Геліополісі<END FC> якомога швидше.<E>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_e1": {
+    "message": "Ці події - явний доказ того, що відбувається щось надзвичайно зловісне та небезпечне.<E>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_f": {
+    "message": "<EFF><EPO>Сили, які діяли під час цієї церемонії, були надто потужними та демонічними.<P>Ми повинні знайти джерело цієї сили, перш ніж вона перетвориться на справжню загрозу.<E>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_g": {
+    "message": "З цим <FC 0,128,0>Амулетом порталу<END FC> ви можете скористатися порталом у вході, щоб покинути це місце.<E>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_g1": {
+    "message": "Знову ж таки, ми не можемо точно знати, куди ви потрапите, але, що б це не було, ви повинні знайти шлях до Геліополіса.<E>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_h": {
+    "message": "Не турбуйтеся про Нефертіті, я знайду спосіб допомогти їй втекти з цього жалюгідного місця.<E>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_I": {
+    "message": "Я хочу, щоб ви взяли цей <FC 0,128,0>Золотий Анкх<END FC>. Це допоможе вам подолати труднощі, з якими ви неминуче зіткнетеся в своїй подорожі.<E>"
+  },
+  "HT_Text_Lux_pyra_Nefertiti_Canopic_m": {
+    "message": "Щасти, Сфінксе.<W 60>"
+  },
+  "HT_Text_Lux_Pyramid_Help_GotShield": {
+    "message": "<N><CNTR>Ви отримали <FC 0,128,0>Щит Осіріса<END FC>!<P><CNTR>Цим найдавнішим артефактом, як кажуть, володів сам великий бог Осіріс!<P><CNTR >Ви можете використовувати щит, щоб захистити себе від багатьох видів атак ворога та інших небезпек.<E>"
+  },
+  "HT_Text_Lux_Pyramid_Help_NeedAmulet": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Без <FC 0,128,0>портального амулета<END FC> Бог Порталу не дозволить вам пройти.<E>"
+  },
+  "HT_Text_Lux_Pyramid_Help_AmuletAccepted": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу підтверджує вашу особистість та надасть транспорт до <FC 128,64,0>Абідосу<END FC>...<E>"
+  },
+  "HT_Text_Lux_Pyramid_Help_UsePortal": {
+    "message": "Телепортуватись?<N>  <B 1> Так<N>  <B 2> Ні<E>"
+  },
+  "HT_Text_Lux_Pyramid_Help_GotPortalAmulet": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Амулет Порталу<END FC>!<P><N><CNTR>Цей золотий артефакт було зроблено на честь Бога Порталу.<E>"
+  },
+  "HT_Text_Lux_Pyramid_Help_GotCanopicVase": {
+    "message": "<N><CNTR>Ви отримали <FC 0,128,0>Канопічну Вазу<END FC>!<P><N><CNTR>Усередині зберігається частина душі Тутанхамона.<E>"
+  },
+  "HT_Text_Lux_Pyramid_Help_GotGoldKey": {
+    "message": "<N><CNTR>Ви знайшли <FC 0,128,0>золотий ключ<END FC>!<E>"
+  },
+  "HT_Text_Lux_Pyramid_NefertitiHU17_KillEnemies": {
+    "message": "Немає часу на розмови! Позбудься цих жахливих монстрів!<E>"
+  },
+  "HT_Text_Lux_Pyramid_NefertitiHU17_Go": {
+    "message": "Тобі слід йти! Тут нема чого робити.<E>"
+  },
+  "HT_Text_Lux_pala_Guard_a": {
+    "message": "Доброго ранку, Принце, і з Днем Народження!<E>"
+  },
+  "HT_Text_Lux_pala_Guard_b": {
+    "message": "Леді Нефертіті шукала вас. Вона сказала, що це дуже важливо, і хоче, щоб ви зустрілися з нею на <FC 128,64,0>Подвір'ї<END FC> перед тим, як підете до парадних кімнат.<E>"
+  },
+  "HT_Text_Lux_pala_Guard_c": {
+    "message": "Ваша величносте, леді Нефертіті наполягає, щоб ви зустрілися з нею на <FC 128,64,0>Подвір'ї<END FC> перед тим, як піти до парадних кімнат. Це терміново... <E>"
+  },
+  "HT_Text_Lux_pala_Nefer1_Menes_letter_a": {
+    "message": "Пані Нефертіті, я знаю, що принц Тутанхамон просив вашої руки. <E>"
+  },
+  "HT_Text_Lux_pala_Nefer1_Menes_letter_a1": {
+    "message": "Як вам скаже будь-яка прониклива людина, логічний вибір не обов’язково є найрозумнішим. Шлюб із, скажімо, його братом Ехнатоном міг мати несподівані переваги...<E>"
+  },
+  "HT_Text_Lux_pala_Nefer1_Menes_letter_b": {
+    "message": "І хто знає, яким стане майбутнє? Ти повинна добре подумати про це, Нефертіті... <E>"
+  },
+  "HT_Text_Lux_pala_Nefer2_GetLetter_a": {
+    "message": "Тутанхамоне, нарешті ти тут!<E>"
+  },
+  "HT_Text_Lux_pala_Nefer2_GetLetter_b": {
+    "message": "Тут є важливий <FC 0,128,0>лист<END FC>, який я маю прочитати. Чи можете ви знайти його? Я хвилююсь...?<E>"
+  },
+  "HT_Text_Lux_pala_Nefer2_GetLetter_c": {
+    "message": "Я намагалась його дістати, але порив вітру його відніс. Тепер він прямо там, біля підніжжя тієї статуї. <E>"
+  },
+  "HT_Text_Lux_pala_Nefer2_GetLetter_d": {
+    "message": "Благаю скоріш! <W 60>"
+  },
+  "HT_Text_Lux_pala_Nefer3_Thanks_leave_a": {
+    "message": "Чудово! Ти зробив це! <W 60>"
+  },
+  "HT_Text_Lux_pala_Nefer3_Thanks_leave_b": {
+    "message": "Мені потрібно поговорити з тобою про цей лист, але не тут. Можливо, хтось підслуховує. Зустрінемося пізніше біля палацу. <E>"
+  },
+  "HT_Text_Lux_pala_Nefer3_Thanks_leave_c": {
+    "message": "Є деякі речі, які вам потрібно знати... <E>"
+  },
+  "HT_Text_Lux_pala_Nefer3_Thanks_leave_d": {
+    "message": "...і будь ласка, мій любий Тутанхамоне, бережи свою спину! <E>"
+  },
+  "HT_Text_Lux_pala_Seti_Presentation_a": {
+    "message": "Ах, мій улюблений племінник приїхав провідати свою улюблену тітку! З Днем Народження! Любий, ти дуже швидко ростеш!<E>"
+  },
+  "HT_Text_Lux_pala_Seti_Presentation_b": {
+    "message": "О, я бачу, ви знайшли декілька <FC 0,128,0>Старих амулетів<END FC>. Нині, ніхто про них не дбає, але, останнім часом я їх шукаю.<E>"
+  },
+  "HT_Text_Lux_pala_Seti_Presentation_b1": {
+    "message": "Ви бачили амулети, як цей, що в моїй руці? <E>"
+  },
+  "HT_Text_Lux_pala_Seti_Presentation_c": {
+    "message": "Всі амулети розкидано по всьому палацу, і Ехнатон наказав мені зібрати їх. Він хоче зберігати колекцію в <FC 128,64,0>Кімнаті Скарбів<END FC>.<E>"
+  },
+  "HT_Text_Lux_pala_Seti_Presentation_d": {
+    "message": "Ваш брат з кожним днем стає все більш мінливим. Чи не могли б ви знайти <FC 0,128,0>Старі амулети<END FC> для мене, мій любий племінник?<P>Мій вік не дозволяє мені зробити це...<E>"
+  },
+  "HT_Text_Lux_pala_Seti_Complete_a": {
+    "message": "О, чудово! Ось і всі <FC 0,128,0>Старі Амулети<END FC> знайдено! Ви дуже добрий до мене. <E>"
+  },
+  "HT_Text_Lux_pala_Seti_Complete_b": {
+    "message": "Якщо ви не заперечуєте, остання послуга. Чи можете ви залишити їх у <FC 128,64,0>Кімнаті Скарбів<END FC>? Мені треба відпочити, надто тяжка дорога.. <E>"
+  },
+  "HT_Text_Lux_pala_Seti_Complete_c": {
+    "message": "Ось ключ від <FC 128,64,0>Кімнати Скарбів<END FC>. Ви знаєте, де двері; вниз по сходах у сусідню кімнату.<E>"
+  },
+  "HT_Text_Lux_pala_Seti_Complete_d": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Ключ від Кімнати Скарбів<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_pala_Aken_Presentation_a": {
+    "message": "Гарного повернення, мій любий брате! <E>"
+  },
+  "HT_Text_Lux_pala_Aken_Presentation_b": {
+    "message": "Всі зайняті підготовкою до твого дня народження. Дивно... Я не пригадую такого ажіотажу на свій день народження. <E>"
+  },
+  "HT_Text_Lux_pala_Aken_Presentation_c": {
+    "message": "Будь ласка, брате, я займаюсь завершенням планування твого дня народження! <E>"
+  },
+  "HT_Text_Lux_pala_Aken_Presentation_d": {
+    "message": "Бачу, ти нарешті прокинувся... Надто пізно, як завжди.<E>"
+  },
+  "HT_Text_Lux_pala_Aken_Menes_conspiracy_a": {
+    "message": "Ехнатон, Нефертіті повинна мати лист. Я мав його ще до того, як з нею поговорив! <E>"
+  },
+  "HT_Text_Lux_pala_Aken_Menes_conspiracy_b": {
+    "message": "Хм, це стає ризиковано... нам потрібно прискорити наші плани. Саркофаги на місці? <E>"
+  },
+  "HT_Text_Lux_pala_Aken_Menes_conspiracy_c": {
+    "message": "Так, пане, все йде за планом. <W 60>"
+  },
+  "HT_Text_Lux_pala_Aken_Menes_conspiracy_d": {
+    "message": "Я залишу тут запасний <FC 0,128,0>Ключ від Саркофага<END FC> на випадок, якщо щось трапиться з іншими. <E>"
+  },
+  "HT_Text_Lux_pala_Aken_Menes_conspiracy_e": {
+    "message": "Цього року мій молодший брат отримає несподіваний сюрприз на день народження. <E>"
+  },
+  "HT_Text_Lux_pala_Aken_Menes_conspiracy_f": {
+    "message": "Дуже несподіваний сюрприз, пане! <E>"
+  },
+  "HT_Text_Lux_pala_Aken_Menes_conspiracy_g": {
+    "message": "Ха-ха-ха!!! Ха-ха-ха!!! Ця вечірка буде найкращою, яку коли-небудь бачив цей палац! <E>"
+  },
+  "HT_Text_Lux_pala_Aken_CaptureTut_a": {
+    "message": "Я хочу, щоб ви всі були готові використати змінені саркофаги, аби увійти до палацу, коли почнеться вечірка. Ми маємо діяти швидко. <E>"
+  },
+  "HT_Text_Lux_pala_Aken_CaptureTut_b": {
+    "message": "Цього вечера трон нарешті буде моїм! <E>"
+  },
+  "HT_Text_Lux_pala_Aken_CaptureTut_c": {
+    "message": "Ах, брате мій любий, яка приємна несподіванка! Після того, як я підготував для вас таку чудову вечірку сьогодні ввечері. <E>"
+  },
+  "HT_Text_Lux_pala_Aken_CaptureTut_d": {
+    "message": "Очевидно, ви занадто нетерплячі, щоб чекати, і хочете отримати подарунок зараз. <E>"
+  },
+  "HT_Text_Lux_pala_Aken_CaptureTut_e": {
+    "message": "Охорона, схопити його! <W 60>"
+  },
+  "HT_Text_Lux_pala_Tut_WakeUp_a": {
+    "message": "Гарного ранку, принце, і з днем народження! <E>"
+  },
+  "HT_Text_Lux_pala_Tut_WakeUp_b": {
+    "message": "Увесь палац дуже зайнятий підготовкою до церемонії вашого дня народження.<E>"
+  },
+  "HT_Text_Lux_pala_Tut_WakeUp_c": {
+    "message": "Принце, я розмовляв з леді Нефертіті. Вона попросила вас зустрітися з нею на <FC 128,64,0>Подвір'ї<END FC> сьогодні вранці.<E>"
+  },
+  "HT_Text_Lux_Pala_CleaningServant1": {
+    "message": "Принце, зараз я прибираю цю шафу.<E>"
+  },
+  "HT_Text_Lux_Pala_CleaningServant2": {
+    "message": "Ох, принце! Це був гарний вазон!<E>"
+  },
+  "HT_Text_Lux_Pala_CleaningServant3": {
+    "message": "Який безлад! Будь ласка, більше не роби так, принце.<E>"
+  },
+  "HT_Text_Lux_Pala_CleaningServant4": {
+    "message": "<DHP><DP>О ні, ще один!<W 30>"
+  },
+  "HT_Text_Lux_Pala_CleaningServant5": {
+    "message": "<DHP><DP>Будь ласка, принце, чи можете ви перестати створювати повний безлад у кімнаті?<W 60>"
+  },
+  "HT_Text_Lux_Pala_WardrobeLocked": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Щоб відкрити цю шафу, потрібен <FC 0,128,0>Ключ<END FC>.<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_Pala_WardrobeBlocked": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Схоже, ця шафа замкнена.<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_Pala_CorriderGuard": {
+    "message": "З Днем Народження, Принце! <E>"
+  },
+  "HT_Text_Lux_Pala_CorriderGuardBlock": {
+    "message": "Ваша величність, леді Нефертіті наполягає, щоб ви зустрілися з нею на <FC 128,64,0>Подвір'ї<END FC>.<E>"
+  },
+  "HT_Text_Lux_Pala_SetiPartner1": {
+    "message": "Доброго ранку, принце, ваш брат, здається, дуже зайнятий ремонтом палацу для церемонії. <E>"
+  },
+  "HT_Text_Lux_Pala_SetiPartner2": {
+    "message": "Фу! Яка огидна маленька дірка. Схоже на щуряче гніздо! <E>"
+  },
+  "HT_Text_Lux_Pala_SetiPartner3": {
+    "message": "Я думав, що про них всіх подбали? Принаймні тут було заблоковано. <E>"
+  },
+  "HT_Text_Lux_Pala_SetiSecret": {
+    "message": "Ні, любий, це, здається, один із старих таємних коридорів, які йдуть крізь палац. Вони старіші за мене! <E>"
+  },
+  "HT_Text_Lux_Pala_SetiQuestion": {
+    "message": "Чи не могли б ви знайти для мене амулети, мій дорогий племіннику? Я надто стара, щоб шукати їх у палаці.<N> <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Lux_Pala_SetiQuestionAgain": {
+    "message": "Дорогий племіннику, ти передумав?<N> <B 1> Так<N> <B 2> Ні<E>"
+  },
+  "HT_Text_Lux_Pala_SetiQuestionYes": {
+    "message": "Хвала, мій любий! Дякую за допомогу вашій любій тітці. <E>"
+  },
+  "HT_Text_Lux_Pala_SetiQuestionNo": {
+    "message": "Будь ласка, будь добрим до своєї тітки. Я не знаю, що я скажу, коли твій брат знову попросить у мене їх. <E>"
+  },
+  "HT_Text_Lux_Pala_SetiAccepted": {
+    "message": "Дуже люб'язно з твого боку, що допомагаєш мені в пошуку амулетів. <E>"
+  },
+  "HT_Text_Lux_Pala_Sorkon1": {
+    "message": "Принце, я знаю чутки про безпеку палацу, та просив посилити охорону, але ваш брат сказав, що впорається з цим. <E>"
+  },
+  "HT_Text_Lux_Pala_Sorkon2": {
+    "message": "Принц? Принц! Не лізь туди, це небезпечно! <W 60>"
+  },
+  "HT_Text_Lux_Pala_Sorkon3": {
+    "message": "Принц, ти мене ніколи не слухаєш! Ви не можете ризикувати собою, блукаючи цими небезпечними переходами. Вони настільки старі, що можуть завалитися будь-якої миті! <E>"
+  },
+  "HT_Text_Lux_Pala_Sorkon4": {
+    "message": "Принце, що відбувається? Я ніколи не думав, що в такому місці є потаємні двері. Я хвилююся за твою безпеку, коли блукаєш по цих небезпечних місцях! <E>"
+  },
+  "HT_Text_Lux_Pala_DishServant1": {
+    "message": "Зараз я займаюсь приготуванням столу, принце. Вам доведеться знайти розвагу в іншому місці. <E>"
+  },
+  "HT_Text_Lux_Pala_DishServant2": {
+    "message": "<DHP><DP>А! Принце, будь ласка, не ходи по гарних чистих тарілках! <W 30>"
+  },
+  "HT_Text_Lux_Pala_DishServant3": {
+    "message": "<DHP><DP>Ааа! Вази! Будь ласка, не стійте на стіл, принце! <W 30>"
+  },
+  "HT_Text_Lux_Pala_Dress1": {
+    "message": "<ES HT_Text_ES_S_HelpText><N>Ви хочете це одягнути?<N> <B 1> Так<N> <B 2> Ні<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_Pala_Dress2": {
+    "message": "<W 1>"
+  },
+  "HT_Text_Lux_Pala_TreasureGuard1": {
+    "message": "Можливо, вам варто поговорити про це з капітаном. <E>"
+  },
+  "HT_Text_Lux_Pala_TreasureCaptain1": {
+    "message": "Принце, сталося дещо жахливе. Охоронці помітили, що головні двері до <FC 128,64,0>Кімнати скарбів<END FC>ЗЛАМАНІ, а всі ковчеги порожні. <P>Єдине, що ми знайшли, це той дивний саркофаг у кімнаті. <P>Будь ласка, не торкайтеся цього, очевидно, це щось пов’язане з пограбуванням. Я намагався повідомити вашого брата Ехнатона, але ніде не можу його знайти.<E>"
+  },
+  "HT_Text_Lux_Pala_DressWrong": {
+    "message": "Принце, ти не збираєшся залишати свою спальню, не вдягнувшись, чи не так? <E>"
+  },
+  "HT_Text_Lux_Pala_DressWrong2": {
+    "message": "Будь ласка, принце! Тільки не рожевий! Він не гарний!<E>"
+  },
+  "HT_Text_Lux_Pala_Help_FoundWardrobeKey": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ви знайшли <FC 0,128,0>Ключ від Гардеробу<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_Pala_MenesCorrider1": {
+    "message": "Ох, принце, я бачу, що ти сьогодні дуже гарно одягнений. Як завжди, ваш смак бездоганний! <E>"
+  },
+  "HT_Text_Lux_Pala_MenesCorrider2": {
+    "message": "Ах, я не привітав тебе з днем народження. Мої вибачення, принце! <E>"
+  },
+  "HT_Text_Lux_Palace_GuardHU06_NefLookingForYou": {
+    "message": "Доброго ранку, пане, і з днем народження!<P>Пані Нефертіті шукала вас. Вона сказала, що це дуже важливо, і хотіла б, щоб ви зустрілися з нею на <FC 128,64,0>Подвір'ї<END FC>.<E>"
+  },
+  "HT_Text_Lux_Palace_GuardHU06_NefFound": {
+    "message": "Ви знайшли леді Нефертіті! Можливо, мій принц захотів би подивитися, як йдуть приготування до бенкету?<E>"
+  },
+  "HT_Text_Lux_Palace_ServantHU03_SarcophagusDecor": {
+    "message": "Ваш брат дуже наполягав на тому, щоб прикрасити палац цими саркофагами.<P>Вибачте мене за це, принце, але вони мені не дуже подобаються. Здається, їхні очі стежать за кожним вашим рухом...<E>"
+  },
+  "HT_Text_Lux_Palace_NefertitiHU17_MeetMeOutside": {
+    "message": "Чудово! Ти зрозумів! Мені потрібно поговорити з тобою про цей лист, але не тут. Можливо, хтось слухає.<P>Зустрінемося пізніше біля палацу, і ми поговоримо про це. Обережніше, Тутанхамоне.<E>"
+  },
+  "HT_Text_Lux_Palace_NefertitiHU17_GetMyItem": {
+    "message": "Тутанхамоне, нарешті ти тут! Будь ласка, ви повинні знайти мій <FC 0,128,0>Лист<END FC> звідти, перш ніж хтось інший знайде його.<P><FC 0,128,0>Лист<END FC> містить дуже важливу інформацію - будь ласка, поспішіть!< E>"
+  },
+  "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemNoCutscene": {
+    "message": "Тутанхамоне, будь ласка, знайди мій <FC 0,128,0>Лист<END FC>! Він десь тут.<E>"
+  },
+  "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemAgain": {
+    "message": "Будь ласка, покваптеся, поки хтось не знайде його!<E>"
+  },
+  "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemDone": {
+    "message": "Вибач, але я не можу говорити про лист в такому публічному місці.<E>"
+  },
+  "HT_Text_Lux_Palace_AkhenatenHU16_EvilHappyBirthday": {
+    "message": "Вітаю, мій любий брате! Дивно, але я не пам'ятаю такого ажіотажу на свій день народження.<E>"
+  },
+  "HT_Text_Lux_Palace_AkhenatenHU16_EvilHappyBirthdayAgain": {
+    "message": "Брате! Я зайнятий завершенням планування святкування тіого дня народження.<E>"
+  },
+  "HT_Text_Lux_Palace_AkhenatenHU16_Plotting01": {
+    "message": "Чи всі магічні саркофаги на місці?<E>"
+  },
+  "HT_Text_Lux_Palace_AkhenatenHU16_Plotting02": {
+    "message": "Чудово! Цього року мій розбещений маленький брат отримає несподіваний сюрприз на день народження.<P>Я залишу тут запасний <FC 0,128,0>Ключ від Саркофага<END FC> на випадок, якщо щось трапиться з іншими.<E>"
+  },
+  "HT_Text_Lux_Palace_AkhenatenHU16_Plotting03": {
+    "message": "Муахаха!!!<P>Муахахах!!!<P>Ця вечірка буде найкращою, яку коли-небудь бачив цей палац!<E>"
+  },
+  "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFound": {
+    "message": "Ой, ти такий добрий, племіннику. Але я боюся, що <N><FC 0,128,0><SO HT_Objective_Lux_Palace_SetiQuestItemsRemaining><END FC> ще бракує амулетів.<E>"
+  },
+  "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFoundOne": {
+    "message": "Чудово! Залишився лише <FC 0,128,0>1<END FC> амулет, дорогий племіннику.<E>"
+  },
+  "HT_Text_Lux_Palace_SetiHU18_LostItemsComplete": {
+    "message": "Дякую за допомогу, племіннику. Я впевнений, що ніколи б не знайшла амулети сама.<E>"
+  },
+  "HT_Text_Lux_Palace_MenesHU09_Plotting01": {
+    "message": "Так, пане, все йде за планом.<E>"
+  },
+  "HT_Text_Lux_Palace_MenesHU09_Plotting02": {
+    "message": "Дуже мудрий запобіжний захід, пане.<E>"
+  },
+  "HT_Text_Lux_Pala_Read_TreasureRoom": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Кімната Скарбів<END FC> ]---<E>"
+  },
+  "HT_Text_Lux_Pala_Help_UseLever": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Щоб керувати важелем, станьте ближче і натисніть <SB HT_Action_LeverDown><ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_Pala_Help_UseSarco": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>За допомогою <FC 0,128,0>Ключа Саркофага<END FC> ви можете використовувати саркофаг<N>, підійшовши поряд і натиснувши <SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_Palace_Help_Pushable": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Такі об’єкти можна штовхати та тягнути.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Натисніть <SB HT_Action_Grab>, коли ви наближаєтесь до об’єкта...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...потім використовуйте <SB HT_PadAction_PLR_MovePlr>, щоб штовхнути або тягти.<E>"
+  },
+  "HT_Text_Lux_Palace_Help_LedgeWalk": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви можете пробратися через кілька вузьких виступів.<P><ES HT_Text_ES_S_HelpText><CNTR>Підійдіть до огорожі та натисніть <SB HT_Action_WallSneak><N>, щоб рухатися по ній.<P><ES HT_Text_ES_S_HelpText><CNTR>Натиснувши на паркан, використовуйте<N><SB HT_PadAction_PLR_MovePlr>, щоб рухатися ліворуч і праворуч.<P><ES HT_Text_ES_S_HelpText><CNTR>Щоб повільно прокрастися, злегка пересувайте <SB HT_PadAction_PLR_MovePlr>.<P><ES HT_Text_ES_S _HelpText ><CNTR>Натисніть <SB HT_Action_WallSneakExit>, коли ви хочете<N>вийти з режиму прихованого виходу.<E>"
+  },
+  "HT_Text_Lux_Palace_Help_LedgeHang": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Деякі виступи на стінах можна схопити.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>Відійдіть і, падаючи, розверніться, щоб схопитися за виступ.<P> <ES HT_Text_ES_S_HelpText><CNTR>Потім використовуйте <SB HT_PadAction_PLR_MovePlr> для переміщення ліворуч і праворуч.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Lux_Palace_Help_DoorLocked": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ці двері замкнені, і для відкриття потрібен ключ.<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_Palace_Help_DoorLockedForever": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ці двері замкнено з іншого<N>боку, і їх неможливо відкрити.<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_Palace_Help_Crawl": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Натисніть <SB HT_Action_MummyCrawl>, щоб перемикатися між <N>ходьбою та повзанням.<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_Palace_Help_FoundBedroomKey": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>Ключ від Двору<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_Palace_Help_FoundNefertitiItem": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>Лист Нефертіті<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
+  },
+  "HT_Text_Lux_Palace_Help_FoundSarcophagusKey": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR><N>Ви знайшли <FC 0,128,0>Ключ від Саркофага<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_Palace_Help_FoundAmulet": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>Старий Амулет<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Lux_Palace_Help_FoundCourtyardKey": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>Ключ від Двору<END FC><ES HT_Text_ES_S_HelpText>!<E>"
+  }
+}
