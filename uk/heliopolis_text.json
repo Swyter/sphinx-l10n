@@ -264,328 +264,328 @@
     "message": "У вас не всі монстри зі списку. Поверніться, коли матимете по одному.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List01Complete": {
-    "message": "Excellent, you have captured all the monsters on the list! Ahh, I see they are fine specimens. They will be grand additions to my collection.<P>Now, about your payment. These monsters were quite common so I can only offer you <FC 0,128,0>100 Scarabs<END FC> for their capture.<E>"
+    "message": "Чудово, ви впіймали всіх монстрів зі списку! Ах, я бачу чудові зразки. Вони стануть великими доповненнями до моєї колекції.<P>Тепер про ваш платіж. Ці монстри досить поширені, тому я можу запропонувати  лише <FC 0,128,0>100 скарабеїв<END FC> за них.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List02Presentation": {
-    "message": "I have prepared another list of monsters for you. These are more exotic than those on the first list, and as I'm a fair man, your payment will increase accordingly.<P>Here's the list. Happy hunting!<E>"
+    "message": "Я підготував для вас ще один список монстрів. Вони більш рідкісні, ніж у першому списку, і, оскільки я чесна людина, ваша оплата відповідно збільшиться.<P>Ось список. Щасливого полювання!<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List02Incomplete": {
-    "message": "Sorry, but the list is incomplete. Come back when you have one of each monster.<E>"
+    "message": "Вибачте, але це не все. Поверніться, коли матимете по одному з кожного монстра.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List02Complete": {
-    "message": "Good work, my friend! I wasn't expecting you to complete the list so soon. I'm looking forward to adding these specimens to my collection.<P>As I said, this list contained some more exotic monsters. I can offer you <FC 0,128,0>200 Scarabs<END FC> for their capture.<E>"
+    "message": "Гарна робота, друже! Я не очікував, що ви завершите список так швидко. Я з нетерпінням чекаю можливості додати ці екземпляри до своєї колекції.<P>Як я вже сказав, цей список містив ще декілька рідкісних монстрів. Можу дати вам <FC 0,128,0>200 скарабеїв<END FC> за них.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List03Presentation": {
-    "message": "On this list are monsters I've dreamt of having all my life.<P>In far away lands, these monsters roam free. What a magnificent site that must be!<P>If you can complete this list then you will have made my dreams come true. Do this and I'll reward you with my most prized possession.<P>Happy hunting!<E>"
+    "message": "У цьому списку є монстри, про яких я мріяв все своє життя.<P>У далеких країнах ці монстри бродять на волі. Яке це має бути чудове місце!!<P>Якщо ви зможете завершити цей список, тоді ви здійсните мої мрії. Зробіть це, та я винагороджу вас.<P>Щасливого полювання!<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List03Incomplete": {
-    "message": "You don't have all the monsters on the list. Return when you have one of each. Building up my hopes like that!<E>"
+    "message": "У вас не всі монстри зі списку. Поверніться, коли матимете по одному. Ви дали мені надію!<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_List03Complete": {
-    "message": "......<P>It cannot be! You have completed the list! Yes! What magnificent specimens - this is truly a great day!<P>You have made me a very happy man indeed! Here, take this, my prized possession.<E>"
+    "message": "......<P>Не може бути! Ви зібрали все! Так! Які чудові екземпляри - це справді чудовий день!<P>Ви зробили мене справді дуже щасливою людиною! Ось, візьми це, все, що я маю.<E>"
   },
   "HT_Text_Hel_Exterior_CreatureCollector_Complete01": {
-    "message": "Thanks to you I have the finest monster collection in all of <FC 128,64,0>Heliopolis<END FC>!<E>"
+    "message": "Завдяки вам я маю найкращу колекцію монстрів у всьому <FC 128,64,0>Геліополісу<END FC>!<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro01": {
-    "message": "You shouldn't sneak up on people like that! I thought you were trying to steal my precious merchandise!<P>In fact, I'm still not sure I fully trust you. If you can give me <FC 0,128,0>10 Onyx Scarabs<END FC> then I might change my mind.<E>"
+    "message": "Не варто так підкрадатися! Я думав, що ти намагаєшся вкрасти мій дорогоцінний товар!<P>Насправді я досі не впевнений, чи повністю тобі довіряю. Якщо ви дасте мені <FC 0,128,0>10 оніксових скарабеїв<END FC>, я передумаю.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro02": {
-    "message": "<FC 0,128,0>Onyx Scarabs<END FC> used to be commonplace, but these days they are very rare and quite valuable.<E>"
+    "message": "<FC 0,128,0>Оніксові скарабеї<END FC> раніше були звичайною справою, але сьогодні вони дуже рідкісні та досить цінні.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro03": {
-    "message": "You got it! My favorite <FC 0,128,0>Glyph<END FC>! Now I think I can trust you. Please browse fantastic merchandise I have for sale.<E>"
+    "message": "О так! Мій улюблений <FC 0,128,0>Гліф<END FC>! Тепер я можу тобі довіряти. Погляньте на неймовірні товари, що я продаю.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro04": {
-    "message": "I only accept <FC 0,128,0>Onyx Scarabs<END FC> as payment. Rumor has it a mysterious man is hoarding them in his castle in the depths of <FC 128,64,0>Uruk<END FC>.<E>"
+    "message": "Я приймаю лише <FC 0,128,0>Оніксові скарабеї<END FC> як оплату. Ходять чутки, що загадковий чоловік накопичує їх у своєму замку в глибинах <FC 128,64,0>Урук<END FC>.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Intro05": {
-    "message": "I only accept <FC 0,128,0>Onyx Scarabs<END FC> as payment.<E>"
+    "message": "Я приймаю лише <FC 0,128,0>Оніксові скарабеї<END FC> в оплату.<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Prompt01": {
-    "message": "Aha! Can I have the <FC 0,128,0>10 Onyx Scarabs<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Чи можу я отримати <FC 0,128,0>10 оніксових скарабеїв<END FC>?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Accept01": {
-    "message": "Excellent! Now I think I can trust you. Look at the fantastic merchandise I have for sale!<E>"
+    "message": "Чудово! Тепер я думаю, що можу тобі довіряти. Подивіться на неймовірний товар, який я продаю!<E>"
   },
   "HT_Text_Hel_Exterior_GlyphCollector_Decline01": {
-    "message": "Suit yourself, but you'll never know what exotic merchandise I have for sale. Ha!<E>"
+    "message": "Як хочеш, але ти ніколи не дізнаєшся, які екзотичні товари я продаю. Ха!<E>"
   },
   "HT_Text_Hel_Exterior_Trader_Intro01": {
-    "message": "Welcome, young traveler! It is good to see a new customer around here. Business has been pretty slow recently.<P>I don't have much in stock at the moment but you may find something that interests you.<E>"
+    "message": "Ласкаво просимо, юний мандрівник! Приємно бачити тут нового клієнта. Останнім часом справа йде досить повільно.<P>На даний момент у мене небагато запасів, але ви можете знайти щось, що вас зацікавить.<E>"
   },
   "HT_Text_Hel_Exterior_Trader_General01": {
-    "message": "You won't find better deals anywhere else!<E>"
+    "message": "Лише в мене найкращий товар!<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Intro01": {
-    "message": "Greetings! It's good to see a fellow athlete around these parts, although I must admit that your physique isn't anywhere near as impressive as mine.<P>As is quite plain to see, my body is an impeccably functioning machine, honed to perfection by years of hard training.<P>I can run from here to the end of the next beach and back in less than <FC 0,128,0>70 seconds<END FC>.<E>"
+    "message": "Вітаю! Приємно бачити колегу-спортсмена в цих краях, хоча мушу визнати, що ваша статура далеко не така вражаюча, як моя.<P>Цілком очевидно, моє тіло бездоганне, відточене до досконалості, за роки наполегливих тренувань.<P>Я можу пробігти звідси до кінця наступного пляжу й назад менш ніж за <FC 0,128,0>70 секунд<END FC>.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Prompt01": {
-    "message": "Do you think you can beat my time?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Спробуєш поставити рекорд?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Prompt02": {
-    "message": "Do you want me to explain the rules?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Пояснити правила?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Decline01": {
-    "message": "Ahh, a man who knows his limits. Come back later if you think you can better my time.<E>"
+    "message": "Досить непогано. Повернись пізніше, якщо думаєш, що зможеш пройти краще.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Accept01": {
-    "message": "Very well. Good luck, kid! You're gonna need it!<P><N><CNTR>Ready...<P><N><CNTR>Set...<P><N><CNTR>Go!<W 30>"
+    "message": " Успіхів, малюк, подивимось на тебе!<P><N><CNTR>Приготуватись<P><N><CNTR>Таааа<P><N><CNTR>Вперед!<W 30>"
   },
   "HT_Text_Hel_Exterior_Athlete_Rules01": {
-    "message": "You must run from here to the hanging pendant, suspended on a ledge, at the end of the next beach and back again in less than <FC 0,128,0>70 seconds<END FC>.<P>So I can be sure you aren't cheating you must hit the pendant with your blade before running back.<P>When you get back, talk to me and I will stop the timer.<E>"
+    "message": "Пробіжи звідси до висячої підвіски, підвішеної на виступі, до кінця  та назад менш ніж за <FC 0,128,0>70 секунд<END FC>.<P>Щоб я був впевнений, що ти не обманеш, нанеси удар лезом по кулону, перш ніж повернутись.<P>Коли ви повернетесь, поговоріть зі мною, і я зупиню таймер.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_TimeSlow01": {
-    "message": "Well you managed to do it in <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> seconds<END FC>. Not bad, but as I expected still not as quick as me.<E>"
+    "message": "Тобі вдалося зробити це за <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> секунд<END FC>. Непогано, але, я швидше.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_TimeSame01": {
-    "message": "Wow, you did it in <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> seconds<END FC>. That's the same as my best time. Pretty impressive! You'll have to beat my time to really impress me, though.<E>"
+    "message": "Вау, ви зробили це за <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> секунд<END FC>. Майже мій рекорд. Досить вражаюче! Однак вам доведеться поквапитись, щоб справді справити на мене враження.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_TimeFast01": {
-    "message": "What?! You're back already?! You only took <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> seconds<END FC>! That's amazing!<P>Seeing as you've beaten my time so convincingly I'll concede to the better athlete. Here, take this. It has kept me fit, strong and healthy for as long as I can remember.<E>"
+    "message": "Що?! Ти вже повернувся?! Тобі знадобилося лише <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> секунд<END FC>! Це чудово!<P> Ти побив мій час, тепер ти кращий спортсмен. Ось, візьми це. Це підтримувало мене у формі, сильним і здоровим, скільки я себе пам’ятаю.<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_TimeVoid01": {
-    "message": "If you didn't hit the hanging pendant with your blade, then I can't accept your time. Sorry!<E>"
+    "message": "Якщо ти не вдарив по висячому кулону, то я не зарахую твій час. Вибачай!<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_TimeVoid02": {
-    "message": "Do you think I am blind?! I saw you use the boat! If you aren't going to attempt the challenge properly then begone!<E>"
+    "message": "Думаєш, я сліпий?! Я бачив, як ти користувався човном! Якщо ви не збираєтеся чесно виконувати завдання, то геть!<E>"
   },
   "HT_Text_Hel_Exterior_Athlete_Complete01": {
-    "message": "Your time was amazing! I guess I'll have to train harder if I'm going to better it. At least I have another goal, I suppose.<E>"
+    "message": "Ваш час був чудовим! Гадаю, мені доведеться більше тренуватися, якщо я хочу досягти кращого результату. Принаймні я маю іншу мету.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Prompt01": {
-    "message": "Aha! At last someone in good physical condition to take on my obstacle course!<P>I've been training for many years, perfecting my line through the course. I'm certain I have an unbeatable time.<P>Reckon you've got what it takes to beat my time?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Ага! Нарешті хтось у хорошій фізичній формі, щоб подолати мою смугу перешкод!<P>Я тренувався багато років, вдосконалюючи свій маршрут на трасі. Впевнений, що маю неперевершений час.<P>Ти готовий спробувати подолати мій час?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Prompt02": {
-    "message": "So, you think you have what it takes to beat my time?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Отже, ви думаєте, що у вас є все, що потрібно, щоб обійти мій час?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Prompt03": {
-    "message": "Doubtful! But we'll see. Do you want to hear the rules?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Сумнівно! Але ми побачимо. Розповісти правила?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Prompt04": {
-    "message": "You think you can go faster than <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> seconds<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Ви думаєте, що пройдете швидше, ніж <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> секунд<END FC>?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Decline01": {
-    "message": "A wise man knows when he's beaten. Still, come back if you change your mind.<E>"
+    "message": "Мудра людина признає поразку. І все ж поверніться, якщо передумаєте.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Rules01": {
-    "message": "The rules are simple; you must get to the shrine at the end of the course as fast as you possibly can.<P>If you fall from the course and land in the sea, you have failed.<E>"
+    "message": "Правила прості; ви повинні якомога швидше дістатися до храму в кінці.<P>Якщо ви впали з дороги та приземлилися в море, то ви програли.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_Start01": {
-    "message": "Good luck, there's no doubt you'll need it!<P><N><CNTR>Ready...<P><N><CNTR>Set...<P><N><CNTR>Go!<W 30>"
+    "message": "Удачі, безсумнівно, вона вам знадобиться!<P><N><CNTR>Один..<P><N><CNTR>Два...<P><N><CNTR>Вперед!!< W 30>"
   },
   "HT_Text_Hel_Exterior_Obstacle_MidRace01": {
-    "message": "What are you chatting to me for?! The clock is ticking...<E>"
+    "message": "Давай хутчіше?! Годинник цокає...<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeSlow01": {
-    "message": "Back again at last, eh? What took you so long? <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> seconds<END FC> is a pretty pathetic time, my friend.<P>You should come back when you've worked out a bit more!<E>"
+    "message": "Нарешті повернувся, еге ж? Чому так довго? <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> секунд<END FC> досить жалюгідний час, мій друже.<P>Повертайся, коли ти трохи потренуєшся!<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeSlow02": {
-    "message": "Not quick enough, I'm afraid.<P>You managed it in <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> seconds<END FC> and your best time is <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> seconds<END FC>.<E> "
+    "message": "На жаль, недостатньо швидко.<P>Ви впоралися з цим за <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> секунд<END FC>, а ваш найкращий час — <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> секунд<END FC >.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeMedium01": {
-    "message": "Not bad, <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> seconds<END FC>. Obviously not as fast as my record time.<P>With more training I'm sure you can do better.<E> "
+    "message": "Непогано, <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> секунд<END FC>. Очевидно, не так швидко, як мій рекордний час.<P>Спробуйте, я впевнений, ви зможете досягти кращих результатів.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeMedium02": {
-    "message": "Well, you managed to equal your record time of <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> seconds<END FC>. That's going to be a tough time to beat.<E>"
+    "message": "Що ж, вам вдалося зрівняти свій рекордний час у <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> секунд<END FC>.Замало для перемоги.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeFast01": {
-    "message": "Eh what?! How can you be back already? You must have cheated! <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> seconds<END FC>, that is amazing!<P>Such a time deserves a reward. Here, take this; may it bring you good health on your journey.<E>"
+    "message": "Ех що?! Як ти вже можеш повернутися? Ви, мабуть, обдурили! <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> секунд<END FC>, це неймовірно!<P>Це заслуговує винагороди. Ось, візьміть це; нехай це принесе тобі міцне здоров’я у твоїй подорожі.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeFast02": {
-    "message": "Excellent! <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> seconds<END FC> is a new record! That time is going to take some beating.<E>"
+    "message": "Чудово! <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> секунд<END FC> — новий рекорд! Перемога займе трохи більше часу.<E>"
   },
   "HT_Text_Hel_Exterior_Obstacle_TimeVoid01": {
-    "message": "Sorry, but you ended up in the sea, so you failed to beat my time. Dry yourself off and try again if you like.<E>"
+    "message": "Вибачте, але ви впали. Візьміть рушника та спробуйте ще раз, якщо хочете.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt01": {
-    "message": "Ahoy there! You look like someone who relishes a physical challenge - an important attribute in these dark and dangerous times.<P>I am the best swimmer in <FC 128,64,0>Heliopolis<END FC>. I'm definitely better than all those weaklings from <FC 128,64,0>Abydos<END FC>.<P>I've perfected my technique on a training course in the sea, between <FC 128,64,0>South Beach<END FC> and <FC 128,64,0>Sun Shrine Island<END FC>.<P>Do you think you can complete my training course?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Привіт! Ти схожий на людину, яка насолоджується фізичними труднощами — важливою рисою в ці темні й небезпечні часи.<P>Я найкращий плавець у <FC 128,64,0>Геліополісі<END FC>. Я точно кращий за всіх тих слабаків з <FC 128,64,0>Абідосу<END FC>.<P>Я вдосконалив свою техніку на тренувальних курсах у морі між <FC 128,64,0> Південному пляжі<END FC> і <FC 128,64,0>Остріві Сан-Шрайн<END FC>.<P>Як ви думаєте, ви можете пройти мій курс навчання?<N> <B 1> Так<N> <B 2 > Ні<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt02": {
-    "message": "Reckon you can complete my training course?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Вважаєте, що ви зможете пройти мій навчальний курс?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt03": {
-    "message": "Very well. Would you like to hear the rules?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Дуже добре. Хочете почути правила?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Prompt04": {
-    "message": "You think you can go faster than <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> seconds<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Гадаєте, що можете пройти швидше, ніж <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> секунд<END FC>?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Decline01": {
-    "message": "You've probably saved yourself some embarrassment, my friend. Come back if you change your mind.<E>"
+    "message": "Шкода, хотілось би побачити тебе в ділі. Поверніться, якщо передумаєте.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Rules01": {
-    "message": "The rules are simple: there are a series of checkpoints in the ocean which you must swim through.<P>The checkpoints will only stay active for a limited time, so you must reach them before they deactivate.<P>When you pass through a checkpoint, the next one will activate.<P>If you do not reach a checkpoint before it deactivates, then you've failed.<E>"
+    "message": "Правила прості: в океані є ряд контрольних точок, які ви повинні пропливти.<P>Контрольні точки залишатимуться активними протягом обмеженого часу, тому ви повинні досягти їх, перш ніж вони дезактивуються.<P>Коли ви проходите контрольну точку, наступна буде активована.<P>Якщо ви не досягнете контрольної точки до її дезактивації, це означає програш.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_Start01": {
-    "message": "Wishing you luck seems pointless, but good luck anyway!<P><N><CNTR>Ready...<P><N><CNTR>Set...<P><N><CNTR>Go!<W 30>"
+    "message": "Бажати вам удачі здається безглуздим, але удачі все одно!<P><N><CNTR>Один..<P><N><CNTR>Два...<P><N><CNTR>Вперед!<W 30>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeSlow01": {
-    "message": "My, you did take your time! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> seconds<END FC> is a touch on the slow side, friend!<P>Your best time is still <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> seconds<END FC>.<E> "
+    "message": "Ти навіть не наммагався! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> секунд<END FC> — це трохи повільно, друже!<P>Твій найкращий час <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> секунд<END FC>.< E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeMedium01": {
-    "message": "Well you managed to equal your record time of <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> seconds<END FC>. Given how tired you look, that'll be tough to beat.<E>"
+    "message": "Твій рекорд <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> секунд<END FC>. Зважаючи на те, наскільки ви втомлені, це буде важко перемогти.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeFast01": {
-    "message": "Excellent! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> seconds<END FC> is a new record! That time is going to take some beating. Surely a fluke!<E>"
+    "message": "Чудово! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> секунд<END FC> — новий рекорд! Напевно, випадковість!<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeReward01": {
-    "message": "Ahh, very impressive my friend! Few people have what it takes to complete my training course.<P>Because you managed to complete the course in only <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> seconds<END FC>, I want you to take this gift.<P>An Abydosian swimmer gave it to me a long time ago. Of course, I never use it. I can swim fast enough without the aid of silly magical trinkets.<E>"
+    "message": "Ах, дуже вражаюче, друже! Мало людей мають те, що потрібно, аби пройти мій навчальний курс.<P>Оскільки вам вдалося пройти курс лише за <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> секунд<END FC>, я хочу, щоб ви взяли цей подарунок.<P >Це мені давно подарував абідоський плавець. Звичайно, я ніколи ним не користуюся. Я можу досить швидко плавати без допомоги дурних чарівних дрібничок.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeReward02": {
-    "message": "If you want to try the course again and attempt to beat your time, then let me know.<E>"
+    "message": "Якщо ви хочете спробувати курс ще раз і спробувати подолати свій час, дайте мені знати.<E>"
   },
   "HT_Text_Hel_Exterior_Swimmer_TimeFailed01": {
-    "message": "Hahaha! I knew my course would be too much for you. Come back when you've done some more training, friend.<E>"
+    "message": "Ха-ха-ха! Я знав, що мій курс буде для вас занадто важким. Повертайся, коли ще трохи потренуєшся, друже.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_Normal01": {
-    "message": "Greetings! Welcome to <FC 128,64,0>Heliopolis<END FC>. Allow me to introduce you to my beautiful wife, Ketta.<E>"
+    "message": "Вітаю! Ласкаво просимо до <FC 128,64,0>Геліополісу<END FC>. Дозвольте познайомити вас із моєю прекрасною дружиною Кеттою.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_Normal02": {
-    "message": "Strange things have been going on recently, I just wish <FC 128,64,0>Heliopolis<END FC> was how it used to be.<E>"
+    "message": "Останнім часом відбуваються дивні речі, я б хотів, щоб <FC 128,64,0>Геліополіс<END FC> був таким, як раніше.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01a": {
-    "message": "Ketta! Ketta! Where are you? What am I going to do? My wife has gone missing!<E>"
+    "message": "Кетта! Кетта! Де ти? Що мені робити? Моя дружина зникла!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01b": {
-    "message": "I awoke this morning and she was gone! Oh dear! Something bad has happened to her! I can feel it!<E>"
+    "message": "Я прокинувся сьогодні вранці, а її вже немає! О Боже! З нею сталося щось погане! Я відчуваю це!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01c": {
-    "message": "I thought I heard her voice in this building, but I'm too afraid to go inside. Curse my cowardice!<E>"
+    "message": "Мені здалося, що я почув її голос у цій будівлі, але я дуже боюся заходити всередину. Прокляни моє боягузтво!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone01d": {
-    "message": "<EFF><EPO>Please, go inside and rescue her. I'm begging you!<P><FC 128,64,0>Heliopolis<END FC> has become such a terrible place. Monsters everywhere, people cursed and cast into stone and now my poor Ketta! Please, help me!<E>"
+    "message": "<EFF><EPO>Будь ласка, зайдіть всередину і врятуйте її. Я вас благаю!<P><FC 128,64,0>Геліополіс<END FC> став таким жахливим місцем. Скрізь монстри, люди закляті, а тепер моя бідна Кетта! Будь ласка, допоможіть мені!<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeGone02": {
-    "message": "Please, find my wife! You're a stranger to me, but where else can I turn? <E>"
+    "message": "Будь ласка, знайдіть мою дружину! Хоча ти і чужак, але куди мені ще звернутися? <E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeBack01": {
-    "message": "The hero has returned! You rescued my wife! How can I ever repay you?<E>"
+    "message": "Герой повернувся! Ви врятували мою дружину! Як я можу відплатити тобі?<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeBack02": {
-    "message": "I didn't realize when we first met that you were an apprentice of our friend Imhotep. He said that he wants to speak with you in the <FC 128,64,0>Sun Shrine<END FC>.<E>"
+    "message": "Коли ми вперше зустрілися, я не знав, що ти був учнем нашого друга Імхотепа. Він сказав, що хоче поговорити з вами в <FC 128,64,0>Храмі Сонця<END FC>.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeBack03": {
-    "message": "He also asked me to give you this. He seemed to think it would prove to be useful in your quest.<E>"
+    "message": "Він також просив мене дати вам це. Схоже, він думає, що це стане в нагоді.<E>"
   },
   "HT_Text_Hel_Exterior_NomadHusband_WifeBack04": {
-    "message": "It brings tears of joy having Ketta back home. Thanks again, stranger. Thank you!<E>"
+    "message": "Це викликає сльози радості, коли Кетта повернулася додому. Ще раз дякую, незнайомцю. Дякую!<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Normal01": {
-    "message": "My husband is worried about <FC 128,64,0>Heliopolis<END FC>. I can't blame him. It has become a dark, oppressive place.<E>"
+    "message": "Мій чоловік хвилюється за <FC 128,64,0>Геліополіс<END FC>. Я не можу звинувачувати його. Це стало темним, гнітючим місцем.<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Normal02": {
-    "message": "Even so, I'm sure <FC 128,64,0>Heliopolis<END FC> will return to normal soon.<E>"
+    "message": "Сподіваюсь, що <FC 128,64,0>Геліополіс<END FC> скоро повернеться до нормального стану.<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Trapped01": {
-    "message": "At last, someone to rescue me! Please, you must find a way to deactivate this force field!<P>I'm sure those three colored beams are powering the force field. If you could find a way to deactivate them, I might be able to escape!<E>"
+    "message": "Нарешті мене врятують! Будь ласка, ви повинні знайти спосіб деактивувати це силове поле!<P>Гадаю, що ці три кольорові промені живлять силове поле. Якщо ви знайдете спосіб їх дезактивувати, можливо, я зможу втекти!<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Trapped02": {
-    "message": "Please you must help me!<E>"
+    "message": "Благаю, допоможи!<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Back01": {
-    "message": "You are my hero, stranger!<E>"
+    "message": "О мій герой!<E>"
   },
   "HT_Text_Hel_Exterior_NomadWife_Back02": {
-    "message": "I will never forget what you've done for me, stranger. You have a place in my heart.<E>"
+    "message": "Я ніколи не забуду, що ти зробив для мене, незнайомцю. Ти маєш місце в моєму серці.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Intro01": {
-    "message": "Hello there! Say, are you one of those adventurers in search of treasure and the like?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Привіт! Скажіть, ви один із тих шукачів пригод, які шукають скарби?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Intro01Accept": {
-    "message": "Ahh... I thought so, you look the type.<E>"
+    "message": "Ах... я так і думав.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Intro01Decline": {
-    "message": "Well, looks can be deceiving I guess. I'm a Squirt Herdsman, but you wouldn't know it to look at me.<E>"
+    "message": "Зовнішність може бути оманливою. Я Сквуїрт-Пастух, але ви не дізнаєтеся про це, якби подивились на мене.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt01": {
-    "message": "So Mr. Adventurer, I'll make you an offer. I have a nice shiny piece of treasure here that I'm sure you would find very interesting.<P>If you can help me by herding my Squirts back into the pen here, then I'll give you this piece of treasure.<P>So do you accept my offer?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Отже, пане авантюристу, я зроблю вам пропозицію. У мене тут є гарний блискучий шматок скарбу, який, я впевнений, буде вам дуже цікавий.<P>Якщо ви можете допомогти мені, загнавши моїх Сквиртів назад у загін, я віддам вам його.< P>Тож ти приймаєш мою пропозицію?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt01Accept": {
-    "message": "Excellent! Round up the Squirts and come back and talk to me when you've finished.<E>"
+    "message": "Чудово! Зберіть Сквиртів і поверніться до мене, коли закінчите.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt01Decline": {
-    "message": "Ahh well... I guess I'll have to keep my nice shiny piece of treasure to myself.<E>"
+    "message": "Ах, добре... Мабуть, мені доведеться залишити свій гарний блискучий шматок скарбу собі.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt02": {
-    "message": "It's my Squirts, you see. They've all escaped and I need somebody to round them up for me. If you could help me I'd make it worth your while.<P>So will you help me?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Це мій Сквіртс, бачиш. Вони всі втекли, і мені потрібен хтось, щоб їх зібрати. Якби ви могли мені допомогти, я б гарно віддячив.<P>То ви мені допоможете?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt02Accept": {
-    "message": "Excellent! Round up the Squirts and come back and talk to me when you've finished.<E>"
+    "message": "Чудово! Зберіть Сквиртів і поверніться та поговоріть зі мною, коли закінчите.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt02Decline": {
-    "message": "Ahh well... I guess I'll have to keep my nice shiny piece of treasure to myself.<E>"
+    "message": "Ех... Доведеться залишити свій гарний блискучий шматок скарбу при собі.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt03": {
-    "message": "Have you decided to help me out?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Ви вирішили мені допомогти?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt03Accept": {
-    "message": "Excellent! Round up the Squirts and come back and talk to me when you've finished.<E>"
+    "message": "Чудово! Зберіть Сквиртів і поверніться та поговоріть зі мною, коли закінчите.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Prompt03Decline": {
-    "message": "Ahh well... I guess I'll have to keep my nice shiny piece of treasure to myself.<E>"
+    "message": "Ех... Доведеться залишити свій гарний блискучий шматок скарбу при собі.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Squirts01": {
-    "message": "There are still <FC 0,128,0><SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft> Squirts<END FC> out there my friend!<E>"
+    "message": "Є ще <FC 0,128,0><SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft> Сквіртли<END FC> там, друже!<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Squirts02": {
-    "message": "There is still <FC 0,128,0><SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft> Squirt<END FC> out there my friend!<E>"
+    "message": "Є ще <FC 0,128,0><SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft> Сквіртли<END FC> там, друже!<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Reward01": {
-    "message": "You did it! All my Squirts are safely back in their pen thanks to you, stranger. Here take this, you deserve it.<E>"
+    "message": "Ти зробив це! Завдяки тобі, незнайомцю, усі мої Сквиртли безпечно повернулися в свої загони. Ось візьміть, ви це заслужили.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Done01": {
-    "message": "My Squirts are doing great, my friend! One day I'm going to build a Squirt Ranch where I can keep hundreds of the little guys.<E>"
+    "message": "Мої Сквиртли почуваються чудово, друже! Одного разу я збираюся побудувати ранчо для них, там я триматиму їх сотнями.<E>"
   },
   "HT_Text_Hel_Exterior_SquirtHerd_Done02": {
-    "message": "Thanks for your help stranger. My Squirts are doing great now.<E>"
+    "message": "Дякую за допомогу незнайомцю. Мої Сквиртли зараз почуваються чудово.<E>"
   },
   "HT_Text_Hel_Ext_Horus_WallEntrance1": {
-    "message": "Sphinx, there you are! I knew that we would meet again. As you can see, I heroically managed to survive in <FC 128,64,0>Uruk<END FC>. Well, I won't bore you with the details.<E>"
+    "message": "Сфінкс, ось ти!. Як бачите, мені героїчно вдалося вижити в <FC 128,64,0>Урук<END FC>. Що ж, я не буду втомлювати вас подробицями.<E>"
   },
   "HT_Text_Hel_Ext_Horus_WallEntrance2": {
-    "message": "You got lucky in <FC 128,64,0>Uruk<END FC> and by rights that blade should be mine! You would never have found it without my help!<E>"
+    "message": "Тобі пощастило в <FC 128,64,0>Урук<END FC> і, за правом, цей клинок має бути моїм! Ти б ніколи не знайшов його без моєї допомоги!<E>"
   },
   "HT_Text_Hel_Ext_Horus_WallEntrance3": {
-    "message": "Yet again you credit yourself with greater skill than you possess. You can't get up here; you don't have the power to jump high enough! Your weakness is pathetic.<E>"
+    "message": "І знову приписуєш собі більшу майстерність, ніж є насправді. Ти не можеш піднятися сюди; ти не маєш сили стрибнути достатньо високо! Твоя слабкість жалюгідна.<E>"
   },
   "HT_Text_Hel_Ext_Horus_WallEntrance3a": {
-    "message": "I found Imhotep in the temple on <FC 128,64,0>Sun Shrine Island<END FC>. That crazy old fool told me he was looking for you.<E>"
+    "message": "Я знайшов Імхотепа в храмі на <FC 128,64,0>Острові Сан-Шрайн<END FC>. Той божевільний старий дурень сказав мені, що шукає тебе.<E>"
   },
   "HT_Text_Hel_Ext_Horus_WallEntrance4": {
-    "message": "As you can see, you can't even get inside! I will solve the problem that Anubis has created by myself, despite what Imhotep says. See you around!<E>"
+    "message": "Як бачитш, ти навіть не можеш потрапити всередину! Я сам вирішу проблему, яку створив Анубіс, незважаючи на слова Імхотепа. До зустрічі!<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility01": {
-    "message": "Sphinx, I hear you have convinced Anubis to free some of the people of the <FC 128,64,0>Cursed Palace<END FC>...<E>"
+    "message": "Сфінксе, я чув, що ти переконав Анубіса звільнити деяких людей із <FC 128,64,0>Проклятого палацу<END FC>...<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility02": {
-    "message": "I hate to admit it, but I was wrong about you. I admire your bravery and compassion for those poor people.<E>"
+    "message": "Мені неприємно визнавати це, але я помилявся щодо тебе. Я захоплююся твоєю хоробрістю та співчуттям до цих бідних людей.<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility03": {
-    "message": "You've proved yourself my equal. In demonstration of my good will, I have decided to give you a present.<E>"
+    "message": "Ти довів, що рівня меня. На знак доброї волі я вирішив зробити подарунок.<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility04": {
-    "message": "This is no ordinary gift. It is the <FC 0,128,0>Dark Stone of Invisibility<END FC>. It grants the power of invisibility to any person that uses it.<E>"
+    "message": "Це не звичайний подарунок. Це <FC 0,128,0>Темний камінь невидимості<END FC>. Він надає силу невидимості будь-кому, хто його використовує.<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility05": {
-    "message": "I am sure it will be very useful in your future quests. I hope you can forgive my arrogance towards you in the past. I apologize, Sphinx.<E>"
+    "message": "Я впевнений, що це буде дуже корисно у майбутніому. Сподіваюся, ти можеш пробачити мою поведінку по відношенню до тебе у минулому. Я перепрошую, Сфінкс.<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility06": {
-    "message": "Don't use it! It's a trap!<E>"
+    "message": "Не використовуй це! Це пастка!<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility07": {
-    "message": "That really is the <FC 0,128,0>Dark Stone of Invisibility<END FC>, but the power of invisibility has a nasty side effect: it causes instant death!<E>"
+    "message": "Це справді <FC 0,128,0>Темний камінь невидимості<END FC>, але сила невидимості має неприємний побічний ефект: вона спричиняє миттєву смерть!<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility08": {
-    "message": "Of course! Tutankhamen would be able to use it without danger to himself!<E>"
+    "message": "Звичайно! Тутанхамон міг би використовувати його безпечно!<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility09": {
-    "message": "Keep the stone for now. We will send it to our friend the Mummy when we get the opportunity.<E>"
+    "message": "Залиште це. Ми надішлемо його нашій Мумії.<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility10": {
-    "message": "I am afraid you must not trust Horus any further. Jealousy of your achievements has clearly affected his judgment. Who knows his true motives?<E>"
+    "message": "Боюся, ти не повинен більше довіряти Хорусу. Заздрість до ваших досягнень явно вплинула на його судження. Хто знає його справжні наміри?<E>"
   },
   "HT_Text_Hel_Ext_Horus_Invisibility11": {
-    "message": "Perhaps his survival in <FC 128,64,0>Uruk<END FC> was not simply a matter of good fortune...<E>"
+    "message": "Можливо, його виживання в <FC 128,64,0>Уруку<END FC> було не просто вдачею...<E>"
   },
   "HT_Text_Hel_Exterior_DuckBeliever_FirstVisit": {
     "message": "<FT HT_Font_Symbol>decadceabde ca bec deabca a becd edbeca dbace<END FT><E>"
@@ -600,121 +600,121 @@
     "message": "<FT HT_Font_Symbol>dceab dceabde ca be bebdba dacade cedaccbcba<END FT> ]---<E>"
   },
   "HT_Text_Hel_Exterior_DuckBeliever_SecondVisit": {
-    "message": "Only the One of the Prophecy will be able to unlock the secret of the Great Obelisk.<E>"
+    "message": "Лише Єдиний із Пророцтва зможе розкрити таємницю Великого Обеліска.<E>"
   },
   "HT_Text_Hel_Exterior_SlyBeliever_SecondVisit": {
-    "message": "The Great Obelisk will only reveal its secret to the One of the Prophecy.<E>"
+    "message": "Великий Обеліск відкриє свою таємницю лише Обранцю з Пророцтва.<E>"
   },
   "HT_Text_Hel_Exterior_ToothyBeliever_SecondVisit": {
-    "message": "Inside the Great Obelisk is an item of great importance to the One of the Prophecy.<E>"
+    "message": "Усередині Великого Обеліска знаходиться предмет, який має велике значення для Обранця з Пророцтва.<E>"
   },
   "HT_Text_Hel_Exterior_SquashBeliever_SecondVisit": {
-    "message": "The One of the Prophecy will conquer the <FC 128,64,0>Lost Temple of Heliopolis<END FC>, translate the text of the Ancients and discover the secret of the Great Obelisk.<E>"
+    "message": "Обранець із Пророцтва завоює <FC 128,64,0>Втрачений храм Геліополісу<END FC>, перекладе текст Древніх і відкриє таємницю Великого Обеліска.<E>"
   },
   "HT_Text_HT_Text_Hel_Exterior_DuckBeliever_ObeliskOpened": {
-    "message": "You have deciphered the ancient texts on the Obelisk. Are there are any more Obelisks that can be deciphered?<E>"
+    "message": "Ви розшифрували стародавні тексти на Обеліску. Чи є ще обеліски, які можна розшифрувати?<E>"
   },
   "HT_Text_HT_Text_Hel_Exterior_SlyBeliever_ObeliskOpened": {
-    "message": "It is true! You are the One. I am truly honored to be in your presence.<E>"
+    "message": "Це правда! Ти ОБРАНЕЦЬ. Для мене велика честь бути у вашій присутності.<E>"
   },
   "HT_Text_HT_Text_Hel_Exterior_ToothyBeliever_ObeliskOpened": {
-    "message": "You must be the one who has come to save <FC 128,64,0>Heliopolis<END FC> and the old kingdoms!<E>"
+    "message": "Ви, мабуть, прийшли врятувати <FC 128,64,0>Геліополіс<END FC> і старі королівства!<E>"
   },
   "HT_Text_Hel_Exterior_SquashBeliever_ObeliskOpened": {
-    "message": "The Gods have sent a messenger! We will pray for you, Chosen One.<E>"
+    "message": "Боги послали тебе! Ми будемо молитися за тебе, Обраний.<E>"
   },
   "HT_Text_Hel_Exterior_Basket_Obelisk": {
-    "message": "Hello again, Sphinx! I have some important information from Imhotep.<P>He is pleased with your progress and with the artifact that I have here; the <FC 0,128,0>Hands of Amun<END FC>. He sees that you are ready to begin your search for the <FC 0,128,0>Sacred Crown of Uruk<END FC>.<P>He believes that the crown may be in <FC 128,64,0>Uruk Islands<END FC> and that you will need to gain access to <FC 128,64,0>Great Wall Entrance III<END FC> to get there.<E>"
+    "message": "Привіт знову! У мене є важлива інформація від Імхотепа.<P>Він задоволений вашим прогресом і артефактом, який я тут маю; <FC 0,128,0>Руки Амона<END FC>. Він бачить, що ви готові розпочати пошуки <FC 0,128,0>Священної корони Урука<END FC>.<P>Він вважає, що корона може бути на <FC 128,64,0>Островах Урук<END FC> і що вам знадобиться отримати доступ до <FC 128,64,0>Вхіду до Великої стіни III<END FC>, щоб потрапити туди.<E>"
   },
   "HT_Text_Hel_Exterior_Sign_CursedPalace01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Cursed Palace<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Проклятий палац<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_BedouinOutpost01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Bedouin Outpost<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Бедуїнський форпост<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_WallEntrance01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Great Wall Entrance I<END FC> - leading to <FC 128,64,0>Anubis Tower<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Вхід до Великої стіни I<END FC> - веде до <FC 128,64,0>Вежі Анубіса<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_WallEntrance02": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Great Wall Entrance II<END FC> - leading to <FC 128,64,0>Uruk Canyon<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Вхід до Великої стіни II<END FC> - веде до <FC 128,64,0>Каньйону Урук<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_WallEntrance03": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Great Wall Entrance III<END FC> - leading to <FC 128,64,0>Uruk Islands<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Вхід до Великої стіни III<END FC> - веде до <FC 128,64,0>Островів Урук<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToHeliopolisPoint01": {
-    "message": "<CNTR>---[ To <FC 128,64,0>Heliopolis Point<END FC>, <FC 128,64,0>Great Wall Entrance III<END FC> ]---<N>---[ and <FC 128,64,0>South Desert<END FC> entrance ]---<E>"
+    "message": "<CNTR>---[ До <FC 128,64,0>Стоянка Геліополіс<END FC>, <FC 128,64,0>Входу до Великої стіни III<END FC> ]---<N>---[ і входу<FC 128,64,0>Південної пустелі<END FC>  ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToHeliopolisPoint02": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Heliopolis Point<END FC> and <FC 128,64,0>Great Wall Entrance III<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ До <FC 128,64,0>Геліополіс<END FC> і <FC 128,64,0>Вхід до Великої стіни III<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToBedouinOutpost01": {
-    "message": "<CNTR>---[ To <FC 128,64,0>Bedouin Outpost<END FC> ]---<N>---[ Warning! Strong Swimmers Only! ]---<E>"
+    "message": "<CNTR>---[ До <FC 128,64,0>Бедуїнський форпост<END FC> ]---<N>---[ Увага! Тільки сильні плавці! ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToBedouinOutpost02": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Bedouin Outpost<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ To <FC 128,64,0>Бедуїнський форпост<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToSouthDesert01": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>South Desert<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ To <FC 128,64,0>Південна пустеля<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToCursedPalace01": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Great Wall Entrance II<END FC>, <FC 128,64,0>Cursed Palace<END FC> ]---<N>---[ and <FC 128,64,0>Great Wall Entrance I<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ До <FC 128,64,0>Вхід до Великої стіни II<END FC>, <FC 128,64,0>Проклятий палац<END FC> ]---<N>- --[ і <FC 128,64,0>Вхід до Великої стіни I<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToCursedPalace02": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Cursed Palace<END FC> and <FC 128,64,0>Great Wall Entrance I<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ До <FC 128,64,0>Проклятого палацу<END FC> і <FC 128,64,0>Вхід до Великої стіни I<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToGreatObelisk01": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Great Obelisk<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ До <FC 128,64,0>Великого Обеліску<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ToSunShrine01": {
-    "message": "<CNTR>---[ To <FC 128,64,0>Sun Shrine Island<END FC> ]---<N>---[ Beware of Spinefish! ]---<E>"
+    "message": "<CNTR>---[ На <FC 128,64,0>Острів Сан Шрайн<END FC> ]---<N>---[ Стережіться Хребтової риби! ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SunShrine01": {
-    "message": "<N><CNTR>---[ Imhotep welcomes you to <FC 128,64,0>Sun Shrine Island<END FC>! ]---<E>"
+    "message": "<N><CNTR>---[ Імхотеп вітає вас на <FC 128,64,0>Острові Сан-Шрайн<END FC>! ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_HeliopolisPoint01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Heliopolis Point<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Геліополіс Пойнт<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SouthBeach01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>South Beach<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Південний пляж<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Cave01": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>South Beach<END FC> and <FC 128,64,0>Sun Shrine Island<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ До <FC 128,64,0>Південний пляж<END FC> і <FC 128,64,0>Острів Сан-Шрайн<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Cave02": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Cursed Palace<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ До <FC 128,64,0>Проклятого палацу<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Cave03": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>Heliopolis Point<END FC> and <FC 128,64,0>Great Wall Entrance III<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ До <FC 128,64,0>Геліополіс Пойнт<END FC> і <FC 128,64,0>Входу до Великої стіни III<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Cave04": {
-    "message": "<N><CNTR>---[ To <FC 128,64,0>South Beach<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ На <FC 128,64,0>Південний пляж<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SquirtHerd01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Sekhmet's Squirt Pen<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Сквіртли<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Trader01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Ben-Ben's Bazaar<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Базар Бен-Бен<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_GlyphShop01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Gebel's Glyph Shop<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Магазин гліфів Гебеля<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Farm01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Riverside Farm<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Ферма Ріверсайд<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_BeetleShop01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Khufu's Capture Beetle Shop<END FC> ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Крамниця жуків Хуфу<END FC> ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_BeetleShopClosed01": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Khufu's Capture Beetle Shop<END FC> ]---<N><CNTR>---[ Closed for refurbishment, please come back later ]---<E>"
+    "message": "<N><CNTR>---[ <FC 128,64,0>Крамниця жуків Хуфу<END FC> ]---<N><CNTR>---[ Зачинено на ремонт, завітайте пізніше ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_Healer01": {
-    "message": "<CNTR>---[ <FC 128,64,0>Shetta the Healer<END FC> ]---<N>---[ Healing and <FC 0,128,0>Ankh Piece<END FC> Rituals ]---<E>"
+    "message": "<CNTR>---[ <FC 128,64,0>Шетта Цілитель<END FC> ]---<N>---[ Зцілення та <FC 0,128,0>Анкх<END FC> Ритуали ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ArcheologistAway01": {
-    "message": "<N><CNTR>---[ Gone on expedition, back in a few months. ]---<N><CNTR>---[ Urbain the Archeologist ]---<E>"
+    "message": "<N><CNTR>---[ Поїхав в експедицію, повернувся за кілька місяців. ]---<AND><CNTR>---[ Урбен археолог ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_ArcheologistBack01": {
-    "message": "<N><CNTR>---[ The World Renowned Urbain the Archeologist ]---<N><CNTR>---[ Discoverer of the famous <FC 0,128,0>Rosetta Stone Pieces<END FC>! ]---<E>"
+    "message": "<N><CNTR>---[ Всесвітньо відомий археолог Урбен ]---<N><CNTR>---[ Відкривач знаменитого <FC 0,128,0>Розеттського каменю<END FC>! ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_GreatObelisk01": {
     "message": "<N><CNTR><FT HT_Font_Symbol>ade beda cdeabc ade decabde cabedacb a bedac<END FT> <E>"
@@ -735,190 +735,190 @@
     "message": "<N><CNTR><FT HT_Font_Symbol>...dceab dceabde ca be...<END FT><E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk01Translated": {
-    "message": "<N><CNTR>---[ When the Age of Osiris comes to an end... ]---<E>"
+    "message": "<N><CNTR>---[ Коли ера Осіріса підійде до кінця... ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk02Translated": {
-    "message": "<N><CNTR>---[ ...the Shadow of Set will descend upon us... ]---<E>"
+    "message": "<N><CNTR>---[ ...Тінь Сету зійде на нас... ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk03Translated": {
-    "message": "<N><CNTR>---[ ...but a great warrior by the name of Sphinx... ]---<E>"
+    "message": "<N><CNTR>---[ ...але великий воїн на ім'я Сфінкс... ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk04Translated": {
-    "message": "<N><CNTR>---[ ...will emerge as the Chosen One... ]---<E>"
+    "message": "<N><CNTR>---[ ...з'явиться як Обраний... ]---<E>"
   },
   "HT_Text_Hel_Exterior_Sign_SmallObelisk05Translated": {
-    "message": "<N><CNTR>---[ ...to defend the Eternal Eye of Ra. ]---<E>"
+    "message": "<N><CNTR>---[ ...для захисту Вічного Ока Ра. ]---<E>"
   },
   "HT_Text_Hel_Exterior_Help_SmallObeliskTranslated": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This translated Ancient Text<N>has been added to your notes!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Цей перекладений стародавній текст<N>додано до ваших нотаток!<E>"
   },
   "HT_Text_Hel_Exterior_Help_DoorLocked01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This door is locked from the other side.<E><ES HT_Text_ES_E_HelpText>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ці двері замкнені з іншого боку.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_CrackedRock01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>These boulders look cracked and fragile.<E><ES HT_Text_ES_E_HelpText>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ці валуни виглядають потрісканими та крихкими.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_SlamAttack01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Switches like this can only be activated by<N>performing a <FC 0,128,0>SLAM<END FC> attack on them.<P><ES HT_Text_ES_S_HelpText><CNTR>Perform a <FC 0,128,0>SOMERSAULT<END FC> and then press <SB HT_Action_Attack><N>while in mid air to perform a <FC 0,128,0>SLAM<END FC> attack.<P><ES HT_Text_ES_S_HelpText><CNTR>The <FC 0,128,0>SLAM<END FC> attack can also<N>be used to damage enemies.<E><ES HT_Text_ES_E_HelpText>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Подібні перемикачі можна активувати, лише <N>виконавши на них атаку <FC 0,128,0>SLAM<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Виконайте <FC 0,128,0>SOMERSAULT<END FC>, а потім натисніть <SB HT_Action_Attack><N>, перебуваючи в повітрі, щоб виконати атаку <FC 0,128,0>SLAM<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Атаку <FC 0,128,0>SLAM<END FC> також можна<N>використати, щоб завдати шкоди ворогам.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_EyePost01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This deadly <FC 0,128,0>Eye of Ra Post<END FC> is made of<N>cracked stone. It looks like some kind<N>of explosion would shatter it.<E><ES HT_Text_ES_E_HelpText>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Це смертоносне <FC 0,128,0>Око Ра<END FC> зроблено з<N>розколотого каменю. Схоже, якийсь<N>вибух міг би розбити його.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_AtunShrine01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This pedestal looks like a small statue would fit on top.<E><ES HT_Text_ES_E_HelpText>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Цей постамент виглядає так, ніби маленька статуя поміститься зверху.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_BurnBox01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This wooden box looks like it might burn<N>if a source of fire gets close enough to it.<E><ES HT_Text_ES_E_HelpText>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Схоже, що ця дерев’яна коробка може згоріти<N>якщо джерело вогню наблизиться до неї досить близько.<E><ES HT_Text_ES_E_HelpText>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>50 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>50 скарабеїв<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Bronze Ankh<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Your health is replenished by <FC 0,128,0>1 Ankh<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Бронзовий Анкх<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ваше здоров'я поповнюється <FC 0,128,0> 1 Ankh<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>200 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>200 скарабеїв<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Collect four of these and a person with the right<N>skills will be able to increase your health capacity.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Золоту фігуру Анкх<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Зберіть чотири з них<N>та вони підвищать ваше здоров’я.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot05": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Silver Ankh<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Your health is replenished by <FC 0,128,0>5 Ankhs<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Срібний Анкх<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ваше здоров'я поповниться з <FC 0,128,0> 5-ти Анкхів<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot06": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>400 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>400 скарабеїв<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot07": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>10 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>10 скарабеїв<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot08": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>100 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>100 скарабеїв<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot09": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>20 Capture Beetles<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>20 жуків<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot10": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>600 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>600 скарабеїв<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot11": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>20 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>20 скарабеїв<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot12": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Silver Ankh<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Your health is replenished by <FC 0,128,0>5 Ankhs<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Срібний Анкх<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ваше здоров'я поповниться за <FC 0,128,0> 5 Анкхів<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot13": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>200 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>200 скарабеїв<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot14": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>10 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>10 скарабеїв<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot15": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Collect four of these and a person with the right<N>skills will be able to increase your health capacity.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Золоту фігуру Анкх<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Зберіть чотири з них і <N> вони зможуть підвищити ваше здоров’я.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotFarmPlot16": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>500 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>500 скарабеїв<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_Exterior_Help_GotCreatureList01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Monster List<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>There are four monsters on the list. View the list by selecting the item in the Book of Sphinx.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>У вас є <FC 0,128,0>Список монстрів<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>У списку чотири монстри. Перегляньте список, вибравши елемент у Книзі Сфінкса.<E>"
   },
   "HT_Text_Hel_Exterior_Help_GotCreatureList02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Monster List<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>There are four monsters on the list. View the list by selecting the item in the Book of Sphinx.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>У вас є <FC 0,128,0>Список монстрів<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>У списку чотири монстри. Перегляньте список, вибравши елемент у Книзі Сфінкса.<E>"
   },
   "HT_Text_Hel_Exterior_Help_GotCreatureList03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Monster List<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>There are four monsters on the list. View the list by selecting the item in the Book of Sphinx.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>У вас є <FC 0,128,0>Список монстрів<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>У списку чотири монстри. Перегляньте список, вибравши елемент у Книзі Сфінкса.<E>"
   },
   "HT_Text_Hel_Exterior_Help_GotAbydosID": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got an <FC 0,128,0>Abydos Pass Card<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This official document gives unlimited<N>access to the city of <FC 128,64,0>Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Перепустку Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Цей офіційний документ надає необмежений<N>доступ до міста <FC 128,64,0>Абідос<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02a": {
-    "message": "You have done it! You have translated the <FC 0,128,0>5 Golden Obelisks of Heliopolis<END FC>!<E>"
+    "message": "Ви зробили це! Ви переклали <FC 0,128,0>5 золотих обелісків Геліополісу<END FC>!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02b": {
-    "message": "This message is incredible! The Ancients foresaw that darkness would descend upon us, and inscribed the <FC 0,128,0>Ancient Prophecy of Ra<END FC> on the Obelisks...<E>"
+    "message": "Це повідомлення неймовірне! Стародавні передбачили, що темрява опуститься на нас, і написали <FC 0,128,0>Стародавнє пророцтво Ра<END FC> на обелісках...<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02c": {
-    "message": "<EFF><EPO><FC 0,128,0>When the Age of Osiris comes to an end, the Shadow of Set will descend upon us...<END FC><P><FC 0,128,0>but a great warrior by the name of Sphinx, will emerge as the Chosen One, to defend the Eternal Eye of Ra.<END FC> <E>"
+    "message": "<EFF><EPO><FC 0,128,0>Коли доба Осіріса закінчиться, Тінь Сету зійде на нас...<END FC><P><FC 0,128,0>але великий воїн на ім’я Сфінкс, з’явиться як Обраний, щоб захистити Вічне Око Ра.<END FC> <E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02d": {
-    "message": "It is you! You are the Chosen One! I don't know what to say.<E>"
+    "message": "Це ти! Ти Обраний! Я не знаю, що сказати...<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02e": {
-    "message": "<EFF><EPO>I want you to take this to help you on your quest. It is a magical statue which is said to unlock the <FC 0,128,0>Great Obelisk<END FC> on the cliffs above <FC 128,64,0>South Beach<END FC>.<P>You must succeed in your quest. The fate of all lies in your hands. Good luck, great warrior! <E>"
+    "message": "<EFF><EPO>Я хочу, щоб ви взяли це, щоб допомогти вам у мандрах. Кажуть, що це чарівна статуя відкриває <FC 0,128,0>Великий обеліск<END FC> на скелях над <FC 128,64,0>Південним пляжем<END FC>.<P>Доля всіх у ваших руках. Удачі, великий воїне! <E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Obelisks01": {
-    "message": "The word of the Ancients is inscribed on <FC 0,128,0>Golden Obelisks<END FC> throughout <FC 128,64,0>Heliopolis<END FC>. I have always wondered what our ancient ancestors recorded in those texts.<E>"
+    "message": "Слова Древніх написано на <FC 0,128,0>Золотих обелісках<END FC> по всьому <FC 128,64,0>Геліополісу<END FC>. Мене завжди цікавило, що наші давні предки хотіли донести в тих текстах.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Obelisks02": {
-    "message": "Ahh, I see you have translated some of the <FC 0,128,0>Golden Obelisks<END FC>!<P>Hmm... this looks like it could be a very prophetic message. You should translate the rest of the Obelisks to find out what the Ancients had to say.<E>"
+    "message": "Ах, я бачу, що ви переклали деякі з <FC 0,128,0>Золотих обелісків<END FC>!<P>Хм... схоже, це може бути дуже пророчим повідомленням. Ви повинні перекласти решту Обелісків, щоб дізнатися, що сказали Стародавні.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Archeologist_Done01": {
-    "message": "You must succeed in your quest. Our fate lies in your hands!<E>"
+    "message": "Ви повинні досягти успіху у своїх пошуках. Наша доля у ваших руках!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_Intro01": {
-    "message": "Welcome, stranger! If you are a connoisseur of fine <FC 0,128,0>Capture Beetles<END FC>, then you have come to the right place!<P>I stock only the very best in trained beetles, guaranteed to go exactly where you desire.<P>Feel free to browse my stock.<E>"
+    "message": "Ласкаво просимо, незнайомцю! Якщо ви поціновувач вишуканих <FC 0,128,0>Пійманих жуків<END FC>, то ви потрапили в потрібне місце!<P>Я маю лише найкращиї дресированиї жуків. <P>Не соромтеся переглядати мої товари.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIntro01": {
-    "message": "Although I have plenty of stock at the moment, I fear that may change in the near future.<P>It's my special <FC 0,128,0>Beetle Breeding Jar<END FC>, you see It went missing several days ago.<P>If I don't get it back soon, I won't be able to breed any more beetles. I could go out of business!<P>You look like you do plenty of traveling, so if you happen to find my <FC 0,128,0>Beetle Breeding Jar<END FC>, please bring it back to me.<E>"
+    "message": "Хоча наразі я маю достатньо запасів, я боюся, що це може змінитися найближчим часом.<P>Це мій спеціальний <FC 0,128,0>Глек для розведення жуків<END FC>,він зник кілька днів тому.< P>Якщо я не отримаю його найближчим часом, я не зможу більше розводити жуків. Я можу втратити бізнес!<P>Ви, схоже, багато подорожуєте, тому, якщо випадково знайдете мій <FC 0,128,0>Глек для розведення жуків<END FC>, будь ласка, принесіть його мені.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIncomplete01": {
-    "message": "There is still enough stock to keep the shelves full, but that won't last long.<E>"
+    "message": "Запасів ще достатньо, щоб полиці були заповнені, але не надовго.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestComplete01": {
-    "message": "My <FC 0,128,0>Beetle Breeding Jar<END FC>! I can't believe you found it!<P>Now I'll be able to get busy building up my stock again! How can I possibly repay you?<P>Take this <FC 0,128,0>Loyalty Card<END FC>, it entitles you to half price beetles every time you visit my store.<P>Thanks again, stranger!<E>"
+    "message": "Мій <FC 0,128,0>Глек для розведення жуків<END FC>! Не можу повірити, що ти знайшов це!<P>Тепер я знову зможу зайнятися накопиченням своїх запасів!<P>Візьміть цю <FC 0,128,0>Картку Лояльності<END FC>, вона дає вам знижку 50% на мої товари.<P>Ще раз дякую, незнайомцю!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestComplete02": {
-    "message": "Welcome back, valued customer. Remember, your <FC 0,128,0>Loyalty Card<END FC> entitles you to a 50% discount on all beetles!<E>"
+    "message": "З поверненням, шановний клієнт. Пам’ятайте, що ваша <FC 0,128,0>Картка лояльності<END FC> дає вам 50% знижку на всіх жуків!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_Intro01": {
-    "message": "Greetings! It's always nice to see a new face around here. We rarely get any visitors.<P>I am Shetta, the local healer of the <FC 128,64,0>Bedouin Outpost<END FC>. I am quite skilled in ancient healing incantations and rituals.<E>"
+    "message": "Вітаю! Тут завжди приємно бачити нові обличчя. До нас рідко ходять відвідувачі.<P>Я Шетта, місцевий цілитель <FC 128,64,0>Бедуїнського форпосту<END FC>. Я маю досвід у стародавніх лікувальних заклинаннях і ритуалах.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_Prompt01": {
-    "message": "What brings you to our outpost today?<N>  <B 1> Healing<N>  <B 2> <FC 0,128,0>Ankh Piece<END FC> Ritual<N>  <B 3> Nothing in particular<E>"
+    "message": "Що привело вас сьогодні на наш форпост?<N> <B 1> Зцілення<N> <B 2> <FC 0,128,0>Анкх<END FC> Ритуал<N> <B 3> Нічого особливого<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingPrompt01": {
-    "message": "I can bring you back to full health for <FC 0,128,0>50 Scarabs<END FC>.<N>  <B 1> Heal me<N>  <B 2> Never mind<E>"
+    "message": "Я можу вилікувати тебе за <FC 0,128,0>50 скарабеїв<END FC>.<N> <B 1> Зціли мене<N> <B 2> Не хвилюйся<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingAccept01": {
-    "message": "Excellent! Now stand very still...<E>"
+    "message": "Чудово! А тепер стійте спокійно...<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingComplete01": {
-    "message": "There! You have been revitalized! I'm sure you feel the vigor of life pulsing through you!<E>"
+    "message": "Ви прямо ожили! Я бачу, що ви відчуваєте, як в вас пульсує сила життя!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_HealingFull01": {
-    "message": "You are healthy enough without my powers!<E>"
+    "message": "Ти цілком здоровий і без моїх сил!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_AnkhPrompt01": {
-    "message": "I will need <FC 0,128,0>4 Gold Ankh Pieces<END FC> for the ritual.<N>  <B 1> OK<N>  <B 2> No way<E>"
+    "message": "Для ритуалу мені знадобляться <FC 0,128,0>4 золотих анкх <END FC>.<N> <B 1> Зробімо це<N> <B 2> Не треба<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_AnkhPrompt02": {
-    "message": "The ritual costs <FC 0,128,0>200 Scarabs<END FC><N>  <B 1> OK<N>  <B 2> No way<E>"
+    "message": "Це коштує <FC 0,128,0>200 скарабеїв<END FC><N> <B 1> Давай<N> <B 2> Відмовлюсь<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_AnkhAccept01": {
-    "message": "Excellent! Now stand very still...<E>"
+    "message": "Чудово! А тепер стійте спокійно...<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_AnkhComplete01": {
-    "message": "Done! Your <FC 0,128,0>Gold Ankh Pieces<END FC> have been reformed!<E>"
+    "message": "Готово! Ваші <FC 0,128,0>Золоті фігури Ankh<END FC> були перетворені!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_AnkhNotEnough01": {
-    "message": "Sorry, but I need <FC 0,128,0>4 Gold Ankh Pieces<END FC> to perform the <FC 0,128,0>Ankh Piece<END FC> Ritual.<E>"
+    "message": "Вибачте, але мені потрібні <FC 0,128,0>4 золоті  Анкхи<END FC> для виконання ритуалу <FC 0,128,0>Перетворення Анкх<END FC>.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_GenericDecline01": {
-    "message": "As you wish. Come back if you change your mind.<E>"
+    "message": "Твоє право. Повертайся, якщо передумаєш.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Healer_NotEnoughScarabs": {
-    "message": "Sorry, but you don't have enough <FC 0,128,0>Scarabs<END FC>.<E>"
+    "message": "Вибачте, але у вас недостатньо <FC 0,128,0>Скарабеїв<END FC>.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_MyLife": {
-    "message": "Hi there! I didn't expect to see you around these parts. I guess you like to travel around a lot, just like me.<P>I like to come here to <FC 128,64,0>Heliopolis<END FC> now and then, just to chill out on the beach.<P>The only problem is that it's far too hot and sunny to lie around out there right now.<E>"
+    "message": "Привіт! Я не очікував побачити вас у цих краях. Гадаю, ти, як і я, любиш багато подорожувати.<P>Мені подобається час від часу приїжджати сюди, до <FC 128,64,0>Геліополісу<END FC>, щоб просто відпочити на пляжі.<P >Єдина проблема в тому, що зараз надто спекотно й сонячно, щоб лежати на сонечку.<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_ItemPrompt": {
-    "message": "Hey! A <FC 0,128,0>Parasol<END FC>! Can I have it to shade me from the sun?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "О! <FC 0,128,0>Парасолька<END FC>! Чи можу я отримати це, щоб захистити себе від сонця?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_ItemDecline": {
-    "message": "Aww, man! Way to bring me down!<E>"
+    "message": "Чуваче! Я мало не впав!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_ThanksAgain": {
-    "message": "Hey, thanks again man!<E>"
+    "message": "Агов, ще раз дякую!<E>"
   },
   "HT_Text_Hel_BedouinOutpost_Hippy_TooSunny": {
     "message": "Aww, man! It's still too sunny to rest on the beach.<E>"
