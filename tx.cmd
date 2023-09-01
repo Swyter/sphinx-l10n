@@ -14,13 +14,24 @@ MODE CON: COLS=110
 ::pull latest translations
 tx pull -a -f --skip --minimum-perc=3 --workers 20 --silent
 
-echo Pulled from Transifex! Press any key to run
-echo the import to CSV script and then turn that into XLS && pause
+echo. 
+echo --
+echo [i] Pulled from Transifex! Press any key to run the Transifex JSON
+echo     to CSV conversion script and then turn that into Excel.
+echo. 
+echo     Note: This will overwrite your local SphinxText.xls progress! && pause
+echo. 
 :: https://www.python.org/ftp/python/3.11.5/python-3.11.5-embed-win32.zip
 .tx\python\python sphinx-l10n-import.py
 
+echo. 
+echo --
+echo [i] Converted from Transifex JSON folders to SphinxTextImported.csv
+echo     Now converting the CSV into SphinxText.xls
 :: https://download.cnet.com/Gnumeric/3001-2077_4-10968476.html (1.10.16) extracted via 7-zip
 .tx\gnumeric\bin\ssconvert.exe --import-encoding=utf8 SphinxTextImported.csv _mod/Sphinx/Grafix/Spreadsheets/SphinxText.xls 2>nul
 
-echo Done! && pause
+echo --
+echo Done! You can either close the window or press Enter again to restart the whole thing && pause
+echo. 
 cls && goto :up
