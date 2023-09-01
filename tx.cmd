@@ -16,9 +16,11 @@ tx pull -a -f --skip --minimum-perc=3 --workers 20 --silent
 
 echo Pulled from Transifex! Press any key to run
 echo the import to CSV script and then turn that into XLS && pause
+:: https://www.python.org/ftp/python/3.11.5/python-3.11.5-embed-win32.zip
+.tx\python\python sphinx-l10n-import.py
 
-python sphinx-l10n-import.py
-wsl.exe -- ssconvert SphinxTextImported.csv _mod/Sphinx/Grafix/Spreadsheets/SphinxText.xls
+:: https://download.cnet.com/Gnumeric/3001-2077_4-10968476.html (1.10.16) extracted via 7-zip
+.tx\gnumeric\bin\ssconvert.exe --import-encoding=utf8 SphinxTextImported.csv _mod/Sphinx/Grafix/Spreadsheets/SphinxText.xls 2>nul
 
 echo Done! && pause
 cls && goto :up
