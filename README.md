@@ -28,9 +28,9 @@ Fan translation scripts and mod content for Sphinx and the Cursed Mummy.
 ```
 
 
-* On Linux, you would need to install the [Transifex Client](https://docs.transifex.com/client/installing-the-client) and Python.
-* Optionally, Gnumeric comes with a handy `ssconvert` tool, useful to turn CSV files into XLS (and vice versa) in a jiffy, without having to use LibreOffice or Excel.
-* It all boils down to opening your terminal and using something like this:
+* On Linux, you would need to install the [Transifex Client](https://docs.transifex.com/client/installing-the-client) and Python. This is already bundled for Windows.
+* Optionally, Gnumeric comes with a handy `ssconvert` tool, useful to turn CSV files into XLS (and vice versa) in a jiffy, without having to use LibreOffice or Excel. Also included for Windows.
+* For Linux users it all boils down to opening your terminal and using something like this:
 ```
 tx.sh && python sphinx-l10n-import.py && ssconvert SphinxTextImported.csv SphinxTextImported.xls
 ```
@@ -41,19 +41,23 @@ tx.sh && python sphinx-l10n-import.py && ssconvert SphinxTextImported.csv Sphinx
 >  3. `ssconvert` turns the CSV into a ready-to-use replacement of `SphinxText.xls`. Called `SphinxTextImported.xls`.
 
 
- # Making a mod
+ # Making a mod on Windows + pulling from Transifex
 
-Rename your file to `SphinxText.xls`, place it in `X:\Sphinx\Grafix\Spreadsheets\SphinxText.xls`, open `Text.elf` with Euroland Redux and output (export) the PC version of `Text.edb`, the game will read it and you can ship it as a mod.
+Get your text into `SphinxText.xls` either via the Transifex scripts or just typing in *Excel* or *LibreOffice* (free). Open `TextMod.elf` with *Euroland Redux* and output (export) the PC version of `Text.edb`, the game will read it and you can ship the `_mod` folder as a standalone mod.
 
 In more detail, here are the steps:
+1. Make a Transifex account to translate the project via the web interface.
+2. Run `tx.cmd` to automatically download/pull the latest translation progress from the site.
+   * The first time around it will ask you for a secret code that you need to generate from [here](https://www.transifex.com/user/settings/api/) and paste it into the window. The code looks like this: `1/1290349033429802359034903402339040767759`.
 1. Double-click to run `mount-virtual-x-drive.bat` from the `_mod` folder.
    * Now you should have a new `X:` drive in *My PC* with the same files you see under `_mod`; they are mirrored.
+   * You will only need to do this once, when the drive is missing.
 2. Enable and install the *Authoring Tools* DLC included with Sphinx and open your local game folder, the DLC is stored under `Tools`. Go to `Tools/EngineX/utils` and launch `EuroLandRedux.exe`; the all-in-one editor.
    * This will only work if the `X:` drive is around.
    * Also, keep in mind that the original EuroLand (`EuroLand.exe`) won't export spreadsheets correctly.
 3. Open `X:\Sphinx\Grafix\Maps\Misc\TextMod.ELF` with _EuroLand Redux_. Via the _File > Open_ menu.
 4. In the ELF tree, expand *App Targets*, right-click on _PC_ and click on _Output (Optimised)_.
-5. If everything goes well you should see a new `Text.edb` file appear in the `X:\Sphinx\Binary\_bin_PC` folder. That's what the game will ultimately read.
+   * If everything goes well you should see a new, exported `Text.edb` file appear in the `X:\Sphinx\Binary\_bin_PC` folder. That's what the game will ultimately read.
    * ELF stands for *EuroLand File*, and EDB is the final generated *EngineX DB* format.
 6. Launch the game with the `launch-sphinx-mod-dev.cmd` script under the `_mod` folder.
    * It will automatically find the game and call it with the `-dev -lang system -mod <_mod-path>` arguments.
