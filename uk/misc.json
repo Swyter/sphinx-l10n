@@ -117,642 +117,642 @@
     "message": "Пройдіть до магічної платформи. Спробуйте запам’ятати послідовність, яка з’являється перед вами.<P>Скопіюйте послідовність, щоб виграти.<N>Ви можете переглянути кожну послідовність знову, стрибнувши на центральну платформу, але лише один раз.<E>"
   },
   "HT_Text_MG_Simon_Fail": {
-    "message": "No, no, no, that wasn't right at all! You've failed this time.<E>"
+    "message": "Ні,ні,ні! Тільки не це! Невдала спроба...<E>"
   },
   "HT_Text_MG_Simon_Succeed": {
-    "message": "Well done! You passed round <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>!<E>"
+    "message": "Вітаю! Ви пройшли раунд <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>!<E>"
   },
   "HT_Text_MG_Simon_Win": {
-    "message": "Congratulations, you won! As a prize, you can have <FC 0,128,0><SO HT_Objective_Simon_Prize> Scarabs<END FC>!<E>"
+    "message": "Мої вітання! Як приз, ви отримаєте <FC 0,128,0><SO HT_Objective_Simon_Prize> Скарабеїв<END FC>!<E>"
   },
   "HT_Text_MG_Simon_Restart": {
-    "message": "You're in the middle of a game! What do you want?<N>  <B 1> Quit<PC 1><B 2> Restart<N>  <B 3> Carry on<PC 1><B 4> Instructions<E>"
+    "message": "Ви майже пройши! Що зробимо?<N> <B 1> Вийти<PC 1><B 2> Перезпустити<N> <B 3> Продовжити<ПК 1><B 4> Інструкції<E>"
   },
   "HT_Text_MG_Simon_CopyLimit": {
-    "message": "Oh no you don't! You only get two views per sequence!<E>"
+    "message": "Не вдалось? Ти отримуєш лише два очки!<E>"
   },
   "HT_Text_MG_Simon_NoMoney": {
-    "message": "Wait, you don't have enough <FC 0,128,0>Scarabs<END FC>. Come back when you have enough to play.<E>"
+    "message": "Зачекайте, у вас недостатньо <FC 0,128,0>Скрабеїв<END FC>. Повертайтеся, коли матимете достатньо.<E>"
   },
   "HT_Text_MG_Simon_CantLeave": {
-    "message": "Hey, you can't leave! You're in the middle of a game!<E>"
+    "message": "Агов, не йди! Ти в грі!<E>"
   },
   "HT_Text_MG_Simon_GameComplete": {
-    "message": "Excellent! You've beaten my game and earned the <FC 0,128,0>Medal of Sequences<END FC>.<E>"
+    "message": "Чудово! Ви виграли в моїй грі та заслужили <FC 0,128,0>Медаль Послідовності<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_Start": {
-    "message": "Welcome to my game! It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
+    "message": "Ласкаво прошу! Гра коштує <FC 0,128,0>10 Скарабеїв<END FC>.<P>Хочете пограти?<N> <B 1> Так<N> <B 2> Ні, дякую<E>"
   },
   "HT_Text_MG_Pairs_Scores": {
-    "message": "<DHP><DP><END TT>The fastest you've completed this game is:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> seconds<END FC>."
+    "message": "<DHP><DP><END TT>Твій найкращий результат:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> секунд<END FC>."
   },
   "HT_Text_MG_Pairs_NoScores": {
-    "message": "<DHP><DP><END TT>You've never completed this game... <END FC>"
+    "message": "<DHP><DP><END TT>Ви ще не проходили цю гру... <END FC>"
   },
   "HT_Text_MG_Pairs_Win": {
-    "message": "Congratulations! You've won <FC 0,128,0><SO HT_Objective_Pairs_Won> Scarabs<END FC>!<E>"
+    "message": "Щиро вітаю! Ви виграли <FC 0,128,0><SO HT_Objective_Pairs_Won> Scarabs<END FC>!<E>"
   },
   "HT_Text_MG_Pairs_Restart": {
-    "message": "You're in the middle of a game! What do you want?<N>  <B 1> Quit<PC 1><B 2> Restart<N>  <B 3> Carry on<PC 1><B 4> Instructions<E>"
+    "message": "Ви в грі! Чого ви хочете?<N> <B 1> Вийти<ПК 1><B 2> Перезавантажити<N> <B 3> Продовжити<ПК 1><B 4> Інструкції<E>"
   },
   "HT_Text_MG_Pairs_Instructions": {
-    "message": "Use your <FC 0,128,0>Blowpipe<END FC> to shoot open the doors at the end of the room.<P>Match each pair of items behind the doors to win.<E>"
+    "message": "Використовуйте свою <FC 0,128,0>Трубку<END FC>, щоб відчинити двері в кінці кімнати.<P>Вгадайте кожну пару предметів за дверима, щоб виграти.<E>"
   },
   "HT_Text_MG_Pairs_NoBlowpipe": {
-    "message": "Sorry, but you can't play unless you have a <FC 0,128,0>Blowpipe<END FC>.<E>"
+    "message": "Вибачте, але ви не можете грати, у вас немає <FC 0,128,0>Трубки<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_RestartPay": {
-    "message": "It'll cost you another <FC 0,128,0>10 Scarabs<END FC>...<N>  <B 1> OK, restart<N>  <B 2> No, carry on playing<E>"
+    "message": "Це коштуватиме вам ще <FC 0,128,0>10 скарабеїв<END FC>...<N> <B 1> Добре, перезапустіть<N> <B 2> Ні, продовжуйте гру<E>"
   },
   "HT_Text_MG_Pairs_NoMoney": {
-    "message": "I said it'll cost <FC 0,128,0>10 Scarabs<END FC>, you don't have <FC 0,128,0>10 Scarabs<END FC>.<E>"
+    "message": "Я сказав, що це коштуватиме <FC 0,128,0>10 скарабеїв<END FC>, у вас немає <FC 0,128,0>10 скарабеїв<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_NotWon": {
-    "message": "That took you forever! No prize for you!<E>"
+    "message": "Ти отримав все! Призи закінчились!<E>"
   },
   "HT_Text_MG_Pairs_WinInstructions": {
-    "message": "If you can complete the game within <FC 0,128,0>60 seconds<END FC>, you will have proven yourself worthy of the <FC 0,128,0>Medal of Memory<END FC>.<E>"
+    "message": "Якщо ви зможете завершити гру протягом <FC 0,128,0>60 секунд<END FC>, ви доведете, що гідні <FC 0,128,0>Медалі пам’яті<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_GameComplete": {
-    "message": "And you've earned the <FC 0,128,0>Medal of Memory<END FC>!<E>"
+    "message": "І ви заслужили <FC 0,128,0>Медаль Пам'яті<END FC>!<E>"
   },
   "HT_Text_MG_Pairs_TooLong": {
-    "message": "That's it, you're taking too long, I'm going to have to stop the game. Sorry.<E>"
+    "message": "Ось і все, ти надто довго думав, я зупиняю гру. Вибачте.<E>"
   },
   "HT_Text_Museum_BC01_Giant_Prawn": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Geb<END FC> ]---<P>Sharing the name of the ancient earth-god, Gebs used to be peaceful creatures.<P>Nowadays, they are little more than obedient muscle for the fearsome Geb Queen...<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Геб<END FC> ]---<P>Розділяє ім’я стародавнього бога землі, Геби були миролюбними створіннями.<P>Зараз, вони не більше ніж м’ясо для грізної Королеви Геб...<E>"
   },
   "HT_Text_Museum_BM09_Smiling_burble": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Smiling Burble<END FC> ]---<P>This little critter is one of the less harmful members of the Burble family, having lost the explosive properties indicative of its species.<P>Their powerful horns can shatter rock, although their lack of coordination lessens the threat this would normally pose.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Посміхающийся Бурбл<END FC> ]---<P>Це маленьке створіння є одним із менш шкідливих представників родини Бурблів, оскільки воно втратило характерні вибухові властивості свого виду.<P>Їхні потужні роги можуть розтрощити камінь, хоча відсутність координації зменшує загрозу, але вони так само небезпечні.<E>"
   },
   "HT_Text_Museum_BM10_i_Cyclops": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Cyclops<END FC> ]---<P>Named so for its single eye, this biped is capable of charging bolts of fire, teleportation and duplication.<P>Their combination of skin and hair color has sometimes seen them confused with a certain root vegetable...<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Циклоп<END FC> ]---<P>Назване так через своє єдине око, здатне заряджати вогняні стріли, телепортуватись і копіювати самого себе.< P>Через поєднання кольору шкіри та волосся іноді їх плутали з певним коренеплодом...<E>"
   },
   "HT_Text_Museum_BM12_slim_burble": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Slim Burble<END FC> ]---<P>Sporting spindlier limbs when compared to other Burbles, the Slim Burble is capable of laying eggs with alarming frequency.<P>Living in warrens built at the base of cliff faces, its fiery temperament derives from a diet that primarily consists of freshly-flowing lava.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Тощий бурбл<END FC> ]---<P>Тощий бурбл, маює більш гнучкі кінцівки порівняно з іншими Бурблами, відкладає яйця дуже швиидко. <P>Мешкає в лабиринтах, побудованих біля підніжжя скель, його запальний темперамент відходить від дієти, яка в основному складається зі свіжої лави.<E>"
   },
   "HT_Text_Museum_BR04_Goofy_Lizard": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Goofy Lizard<END FC> ]---<P>The Goofy Lizard's behavior implies a complete lack of common sense, matched only by their apparent lack of coordination.<P>The most popular domesticated animal in existence.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Гуфі Ящірка<END FC> ]---<P>Поведінка Гуфі ящірки свідчить про повну відсутність здорового глузду, що відповідає лише їхній очевидній відсутності координації. <P>Найпопулярніша домашня тварина з існуючих.<E>"
   },
   "HT_Text_Museum_BR05_Dino_Oaf": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Dino Oaf<END FC> ]---<P>Dino Oafs have been in existence for millions of years, as recently discovered cave etching attest to.<P>Docile and inquisitive herbivores, their strength is sometimes employed in assisting heavy farming tasks.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Діно Оаф<END FC> ]---<P>Діно Оафи існували мільйони років, що підтверджують нещодавно виявлені печерні гравюри.<P >Покірні та допитливі травоїдні тварини, їх силу іноді використовували для виконання важких сільськогосподарських завдань.<E>"
   },
   "HT_Text_Museum_BR06_Half_Brute": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Half Brute<END FC> ]---<P>The name Half Brute understates the nature of these aggressive two-legged monsters, predominantly found in desert regions.<P>A descendant of the Full Brute; a despicable lizard now widely acknowledged to be extinct.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Напів-Брут<END FC> ]---<P>Назва Напів-Брут применшує природу цих агресивних двоногих монстрів, які переважно зустрічаються в пустельних регіонах. <P>Нащадок Справжнього-Брута; мерзенна ящірка, тепер визнана вимерлою.<E>"
   },
   "HT_Text_Museum_BU01_Mummy_Minotaur": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Minotaur<END FC> ]---<P>Descended from the keeper of an ancient maze, Mummy Minotaurs prowl the darkest temples of <FC 128,64,0>Egypt<END FC>.<P>Consumed in flames which it can also breathe from its mouth, this fiery attack has been neutralized for the safety of the museum.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Мумія Мінотавра<END FC> ]---<P>Походження від хранителя стародавнього лабіринту, Мумії Мінотаври нишпорять найтемнішими храмами <FC 128,64 ,0>Єгипту<END FC>.<P>Охоплений полум'ям, яким він дихає зі свого рота, нейтралізовано заради безпеки музею.<E>"
   },
   "HT_Text_Museum_BU02_Skeletal_Axeman": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Skeletal Axeman<END FC> ]---<P>Rumored to be former warriors of an ancient dark Egyptian army. Members of the undead, their origin is unknown.<P>Now rarely seen in groups larger than three, in the past they formed whole battalions.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Скелет Сокирник<END FC> ]---<P>За чутками, вони були колишніми воїнами давньої темної єгипетської армії. Члени нежиті, їхнє походження невідоме.<P>Зараз рідко можна побачити в групах більше трьох осіб, у минулому вони формували цілі батальйони.<E>"
   },
   "HT_Text_Museum_BU03_zombie_man": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Zombie<END FC> ]---<P>Before entering the ranks of the undead, they were slaves who labored long and hard building immense temples.<P>Now, a Zombie is doomed to wander the lands of sand, in search of a gateway to the afterlife that will forever elude them...<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Зомбі<END FC> ]---<P>До того як увійти до лав нежиті, вони були рабами, які довго й наполегливо працювали над будівництвом величезних храмів.<P >Тепер зомбі приречений блукати піщаними землями в пошуках воріт у потойбічне життя, яке назавжди вислизає від них...<E>"
   },
   "HT_Text_Museum_BU05_almost_a_bull": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Almost-A-Bull<END FC> ]---<P>Often found in <FC 128,64,0>Heliopolis<END FC>, the Almost-A-Bull's defense mechanism sees it shrink in order to present a smaller target for any attacker.<P>A unique breeding mistake led to one hand being replaced with a third horn; almost an evolutionary anomaly.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Майже Бик<END FC> ]---<P>Часто зустрічається в <FC 128,64,0>Геліополісі<END FC>, Захисний механізм Майже Бика - зменшення в розмірі, та стає тяжкою ціллю для будь-якого нападника.<P>Унікальна помилка розведення призвела до того, що одну руку замінили третім рогом; майже еволюційна аномалія.<E>"
   },
   "HT_Text_Museum_BU06_MBird": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Bird<END FC> ]---<P>When mummified, bandages were wrapped around the Mummy Bird's eyes, to safeguard against superstition.<P>As a result, it relies on its sense of hearing to locate prey, leaping with claws extended in the approximate direction of the sound.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Пташка-мумія<END FC> ]---<P>Під час муміфікації на її очі намотували пов’язки, щоб захистити від забобонів.<P>В результаті він покладається на свій слух, щоб знайти здобич, стрибаючи з кігтями, витягнутими приблизно в напрямку звуку.<E>"
   },
   "HT_Text_Museum_FL02_Featherless_Turkey": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Featherless Turkey<END FC> ]---<P>Specially bred to enable quick and simple food processing, over the years the Featherless Turkey has developed a complex.<P>They ram into anyone nearby, seemingly blaming everything living they come across for the loss of their plumage.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Лиса Індичка<END FC> ]---<P>Спеціально вирощений для їжі, протягом багатьох років. <P>Вони врізаються в будь-кого поблизу, нібито звинувачуючи все живе, що їм трапляється, у втраті свого оперення.<E>"
   },
   "HT_Text_Museum_FL03_shuttlecock_bird": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Shuttlecock Bird<END FC> ]---<P>The Shuttlecock Bird may only be able to fly short distances at a time, but its one leg allows for some powerful hopping.<P>The unique arrangement of feathers around its head make it incredibly aerodynamic when lunging to attack.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Птах-волан<END FC> ]---<P>Птах-волан може літати лише на короткі відстані за раз, але його одна нога дозволяє робити потужні стрибки.<P>Унікальне розташування пір’я навколо голови робить його неймовірно аеродинамічним під час випаду для атаки.<E>"
   },
   "HT_Text_Museum_HD02_Cat": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Knives Cat<END FC> ]---<P>A much faster and more deadly relative of the Crabhands. Possess a remarkable sense of hearing.<P>While humanoid in shape, you have only to see a Knives Cat hunting to appreciate where the feline half of its name comes from.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Кіт-Ніж<END FC> ]---<P>Набагато швидший і смертоносніший родич Краборуких. Володіють надзвичайним слухом.<P>Незважаючи на людиноподібну форму, вам достатньо побачити одного, який полює, щоб зрозуміти, звідки походить котяча половина його назви.<E>"
   },
   "HT_Text_Museum_HD03_BigBull": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Big Bull<END FC> ]---<P>The hammer-wielding monstrosity is renowned for its bad temper.<P>Such is the size of its weapon, it acts as a shield without the need for a defensive pose.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Великий Бик<END FC> ]---<P>Потвора з молотом відома своєю поганою вдачею.<P>Такий розмір його зброя, вона діє як щит без необхідності займати захисну позу.<E>"
   },
   "HT_Text_Museum_HD14_Crab": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Crabhands<END FC> ]---<P>A combination of humanoid and shellfish makes up this monster, found throughout the land.<P>The gold armor plating adorning Crabhands is permanently welded to its body and enchanted to allow for growth.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Краборучки<END FC> ]---<P>Поєднання гуманоїда та молюсків утворює цього монстра, якого можна знайти по всій землі.<P>Золота броня Покриття, що прикрашає Краборуких, назавжди приварене до його тіла та зачаровано, щоб захистити.<E>"
   },
   "HT_Text_Museum_HD17_Sharpbeak": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Sharpbeak<END FC> ]---<P>The Sharpbeak's slender form makes it a lithe warrior, and they are well trained in swordsmanship techniques.<P>Dark magic is rumored to be the cause of this unusual blend of lizard and bird.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Гостродзьоб<END FC> ]---<P>Струнка форма Гостродзьоба робить його гнучким воїном, і вони добре навчені техніці володіння мечем.<P> За чутками, причиною цього незвичайного поєднання ящірки та птаха є темна магія.<E>"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Skull Worshipper<END FC> ]---<P>A powerful ally to the forces of evil - skillful and ruthless fighters.<P>The Skull Worshipper is precisely that - their dwellings are said to be adorned with skulls, by those who have lived to escape.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Поклонник черепа<END FC> ]---<P>Могутній союзник сил зла — вправні й безжальні бійці.<P>Кажуть, що їхні помешкання прикрашені черепами, тих, хто не зміг втекти.<E>"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Dark Worshipper<END FC> ]---<P>Adventurers should approach the shadows of any dungeon with caution, for a Dark Worshipper may be lurking in the darkness.<P>Said to be the tortured souls of former warriors, trapped between our world and the afterlife.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Темний Поклонник Черепа<END FC> ]---<P>Авантюристам слід обережно підходити до тіней будь-якого підземелля, оскільки Темний Поклонник Черепа може ховатися в темряві .<P>Кажуть, що це замучені душі колишніх воїнів, які потрапили в пастку між нашим світом і потойбічним життям.<E>"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Skull Swordsman<END FC> ]---<P>Highly trained in many swordsmanship techniques, and deadly opponents.<P>Similar to Skull Worshippers, they too can summon a ghostly skull, which drains the soul's essence on contact.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Скелет Мечник<END FC> ]---<P>Високо навчений багатьом технікам володіння фехтуванням і смертельні супротивники.<P>Подібно до Поклонників черепа, він також може викликати примарний череп, який виснажує сутність душі при контакті.<E>"
   },
   "HT_Text_Museum_IN01_Green_Giant_worm": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Green Giant Worm<END FC> ]---<P>The largest invertebrate creature known, it is also one of the few carnivorous worms in existence.<P>Green Giant Worms uniquely fortify the entrances to their subterranean tunnel networks, affording some forewarning as to their presence.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Зелений гігантський черв'як<END FC> ]---<P>Найбільша відома безхребетна істота, а також один із небагатьох існуючих м’ясоїдних черв’яків.<P >Зелені гігантські хробаки унікальним чином укріплюють входи в свої підземні тунельні мережі, надаючи певне попередження щодо їх присутності.<E>"
   },
   "HT_Text_Museum_IN07_Blade_Scorpion": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Blade Scorpion<END FC> ]---<P>This lobster-like arachnid has a very different jointed tail to the regular scorpion, with twice as much potential to harm.<P>As well as carrying a deadly sting at the tail's tip, the Blade Scorpion's tail itself is just that - a lethal, razor sharp blade capable of scything through armor.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Жало Скорпіона<END FC> ]---<P>Цей омароподібний павукоподібний має дуже відмінний від звичайного скорпіона з’єднаний хвіст із удвічі більшим потенціалом завдати шкоди.<P>Крім того, що несе смертельне жало на кінчику хвоста, сам хвіст Клинового Скорпіона є саме таким — смертоносним, гострим як бритва лезом, здатним пронизати броню.<E>"
   },
   "HT_Text_Museum_IN09_Sak_Spike_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Spike Spider<END FC> ]---<P>Perhaps the smallest member of the spider family, it is swifter than most thanks to its strong legs.<P>The Spike Spider is a pack hunter, and in groups they will surround their prey and attack from all directions simultaneously.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Павук-колос<END FC> ]---<P>Мабуть, найменший представник сімейства павуків, він швидший за більшість завдяки своїм міцним ногам.< P>Павук-колос є зграйним мисливцем, і групами вони оточують свою здобич та атакують з усіх боків одночасно.<E>"
   },
   "HT_Text_Museum_PI01_Piranha": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Piranha<END FC> ]---<P>A vicious fish native to a strange and far off land, those found on this continent have the voracious appetite of their overseas counterparts, but are also amphibious.<P>Similar to rats; in recent years the Piranha has become an increasing hazard in larger towns.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Піранья<END FC> ]---<P>Жорстока риба, яка походить із чужої та далекої землі, на цьому континенті має ненажерливий апетит їхніми заморськими побратимами, але також земноводними.<P>Подібні до щурів; Останніми роками піранья стає все більшою небезпекою у великих містах.<E>"
   },
   "HT_Text_Museum_PI01_Hard_Piranha": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Exo-Piranha<END FC> ]---<P>The Exo-Piranha's external skeleton makes them incredibly resilient.<P>Faster and more intelligent than other types of Piranha known, they are undeniably as ugly as the wounds they are known to inflict.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Екзо-Піранья<END FC> ]---<P>Зовнішній скелет Екзо-Піраньї робить їх неймовірно витривалими.<P>Швидші та розумніші за інших Відомі типи піраній, вони, безсумнівно, такі ж потворні, як і рани, які вони завдають.<E>"
   },
   "HT_Text_Museum_PL02_Tree_Creature": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Tree Creature<END FC> ]---<P>The Tree Creature is one of the few plants known to have magical abilities from birth.<P>It distracts any potential threat with a mesmerizing glow of light which emanates over its head, while underground roots rapidly burst through the ground to attack.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Створіння дерева<END FC> ]---<P>Одна з небагатьох рослин, які, як відомо, мають магічні здібності від народження.<P>Воно відволікає будь-яку потенційну загрозу зачаровуючим сяйвом світла, яке виходить над його головою, тоді як підземне коріння швидко проривається крізь землю, щоб атакувати.<E>"
   },
   "HT_Text_Museum_PL04_Sunflower_With_Face": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Sunflower<END FC> ]---<P>This perennial plant has been known to live for many centuries.<P>Immobile for most of the time, it springs to life when threatened and fires off three spore attacks simultaneously, to virtually guarantee harm befalls any potential threat.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Соняшник<END FC> ]---<P>Відомо, що ця багаторічна рослина живе багато століть.<P>Здебільшого нерухома, він оживає, коли йому загрожують, і запускає три атаки спор одночасно, щоб фактично гарантувати, що будь-яка потенційна загроза отримає шкоди.<E>"
   },
   "HT_Text_Museum_QC01_Pokemon": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Shell Critter<END FC> ]---<P>A shy, herbivorous reptile renowned for spending most of its life retreated inside its shell.<P>Despite being fairly commonplace, excessive cruelty to Shell Critters has given them protected species status.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Панцирний критер<END FC> ]---<P>Сором'язлива травоїдна рептилія, яка відома тим, що проводить більшу частину свого життя всередині свого панцира.<P>Незважаючи на оскільки надмірна жорстокість до ракушкових створінь є досить звичним явищем, вони отримали статус охоронців.<E>"
   },
   "HT_Text_Museum_QR04_Sak_Nose_Needler": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Nose Needler<END FC> ]---<P>The Nose Needler certainly does needle, provoking their prey until its judgment is clouded by anger.<P>Burrowing through soft soil at great speed, they emerge briefly and throw abrasive rocks at an enemy, before going underground once again and repeating the process.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Гострий Ніс<END FC> ]---<P>Безумовно робить голки, провокуючи свою здобич, доки його судження не затьмарюється гнівом.<P> Прориваючись у м’якому ґрунті на великій швидкості, вони ненадовго виринають і кидають у ворога абразивне каміння, перш ніж знову піти під землю та повторити процес.<E>"
   },
   "HT_Text_Museum_QU01_Skeletal_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Skeletal Spider<END FC> ]---<P>One of the most unique looking members of its species, the Skeletal Spider stands out with the unusual vertical growth of its spine.<P>Native to <FC 128,64,0>Uruk<END FC>, where their fleshless bodies are little affected by the scorching heat.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Павук-Скелет<END FC> ]---<P>Один із найбільш унікальних на вигляд представників свого виду, виділяється незвичайним вертикальним зростанням його хребта.<P>Уродженець <FC 128,64,0>Урук<END FC>, де на їхні безтілесні тіла незначно впливає палюча спека.<E>"
   },
   "HT_Text_Museum_QU02_Skeletal_Armadillo": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Armadillo<END FC> ]---<P>These peculiar, waddling quadrupeds normally walk along at a slow pace. Their hard shell doubles up as a weapon when spinning along the ground.<P>Certain popular children's tales claim their origins as the union of the hedgehog and tortoise.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Броненосець<END FC> ]---<P>Ці дивні чотирилапі, що перевалюються, зазвичай ходять повільно. Їх твердий панцир стає зброєю, коли обертається по землі.<P>Деякі популярні дитячі казки стверджують, що вони походять від союзу їжака та черепахи.<E>"
   },
   "HT_Text_Museum_QU04_Mummy_Chihuahua": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Chihuahua<END FC> ]---<P>A Chihuahua is a smooth-coated dog of diminutive stature. The mummification process makes their undead counterpart very aggressive.<P>A popular pet of a former Pharaoh, they went to the tomb with their master.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Мумія чихуахуа<END FC> ]---<P>Чіхуахуа — гладкошерста собака невеликого зросту. Процес муміфікації робить їхню нежить дуже агресивною.<P>Популярний улюбленець колишнього фараона, вони пішли до гробниці зі своїм господарем.<E>"
   },
   "HT_Text_Museum_QU05_skeletal_waspspider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Wasp Spider<END FC> ]---<P>One of the slower members of the spider family, the tips of their claws hold a powerful sting.<P>The Wasp Spider prefers the cool breezes found in coastal regions.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Павук-оса<END FC> ]---<P>Один із повільніших представників родини павуків, на кінчиках кігтів якого тримається потужне жало.< P>Павук-оса віддає перевагу прохолодному бризу, що зустрічається в прибережних регіонах.<E>"
   },
   "HT_Text_Museum_QU06_Mummy_Worm": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Worm<END FC> ]---<P>An undead invertebrate which spits out harmful balls of fire.<P>Rooted to the spot and unable to burrow, they are sometimes kept as sentries to ward off unwanted visitors.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Черв'як-мумія<END FC> ]---<P>Безхребетна нежить, яка випльовує шкідливі вогняні кулі.<P>Прикоренений на місці та нездатний у норі, їх іноді тримають як вартових, щоб відлякати небажаних відвідувачів.<E>"
   },
   "HT_Text_Museum_QU09_Rat": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Rat<END FC> ]---<P>A large rodent well known for its ability to spread diseases, often found in sewers and other poorly sanitized areas.<P>The name \"Rat\" is also used to signify a treacherous or untrustworthy person.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Щур<END FC> ]---<P>Великий гризун, добре відомий своєю здатністю поширювати хвороби, часто зустрічається в каналізаціях та інших погано продезінфікованих місцях. <P>Назва \"Щур\" також використовується для позначення підступної або ненадійної особи.<E>"
   },
   "HT_Text_Museum_PI04_Spinefish": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Spinefish<END FC> ]---<P>The Spinefish's deceptively beautiful display fins hide deadly poisonous spines which it uses to fend off would-be aggressors.<P>The Spinefish is an extremely territorial animal and is commonly used by the upper classes in their defensive moats.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Хребтова риба<END FC> ]---<P>Оманливо красиві демонстраційні плавники Хребтової риби приховують смертельно отруйні колючки, які він використовує, щоб відбиватися від потенційних агресорів.< P>Надзвичайно територіальна тварина, і її зазвичай використовують вищі класи для своїх оборонних рівів.<E>"
   },
   "HT_Text_Museum_PI02_Electric_Eel": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Electric Eel<END FC> ]---<P>The Electric Eel is quite a docile animal in its natural habitat.<P>However, due to the electric field it creates, any water in which it swims becomes electrified and very dangerous to unsuspecting animals.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Електричний вугор<END FC> ]---<P>Електричний вугор є досить слухняною твариною у своєму природному середовищі існування.<P>Однак через електричне поле, яке він створює, будь-яка вода, в якій він плаває, наелектризується і стає дуже небезпечною для нічого не підозрюючих тварин.<E>"
   },
   "HT_Text_Museum_PI03_Manta_Ray": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Manta Ray<END FC> ]---<P>The Manta Ray's natural habitat is the open ocean.<P>They usually prefer to prey upon small schools of fish but have been known to attack larger animals if provoked.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Скат Манта<END FC> ]---<P>Природнє середовище проживання ската Манта – відкритий океан.<P>Зазвичай вони віддають перевагу полюванню на невеликі зграї риби, але, як відомо, нападають на більших тварин, якщо їх спровокувати.<E>"
   },
   "HT_Text_Museum_FL05_Mummy_Eagle": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Eagle<END FC> ]---<P>The Mummy Eagle is one of the biggest birds known to exist. Its great size and strength mean that it can easily pick up people.<P>This ability has been known to have been exploited by the Ancients, who used an <FC 0,128,0>Eagle Stone<END FC> to summon the birds.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Орел-мумія<END FC> ]---<P>Орел-мумія є одним із найбільших птахів, які існують. Його великий розмір і сила означають, що він може легко підхоплювати людей.<P>Цю здатність, як відомо, використовували Стародавні, які мали<FC 0,128,0>Орлиний камінь<END FC>, щоб викликати птахів. <E>"
   },
   "HT_Text_Museum_IN11_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Alert Spider<END FC> ]---<P>The Alert Spider spends its life above the ground climbing over walls or ceilings.<P>From this high vantage point, it is able to drop down onto unsuspecting prey without drawing attention to itself.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Насторожений павук<END FC> ]---<P>Насторожений павук проводить своє життя над землею, перебираючись через стіни чи стелю.<P>З цієї висоти з точки зору, він може впасти на нічого не підозрюючу жертву, не привертаючи до себе уваги.<E>"
   },
   "HT_Text_Museum_QR01_Cobra": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Cobra<END FC> ]---<P>A hooded and highly poisonous snake.<P>The cobra commonly makes its home in dark and secluded areas, surprising many unsuspecting explorers.<E> "
+    "message": "<N><CNTR>---[ <FC 0,128,0>Кобра<END FC> ]---<P>Змія з капюшоном і дуже отруйна.<P>Кобра зазвичай живе в темних і відокремлених місцях, дивуючи багатьох дослідників, які нічого не підозрюють.<E>"
   },
   "HT_Text_Museum_QR02_Spitting_Toad": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Spitting Toad<END FC> ]---<P>The so called \"Spitting Toad\" got its name from its tendency to swallow first, think later.<P>Anything that is not to the Toad's rather picky taste is spat out quite forcefully.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Плююча жаба<END FC> ]---<P>Так звана \"Плююча жаба\" отримала свою назву через свою схильність спочатку ковтати, а потім думати .<P>Все, що не відповідає вибагливому смаку Жаби, випльовується досить сильно.<E>"
   },
   "HT_Text_Museum_QR03_Small_Frog": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Small Frog<END FC> ]---<P>The Small Frog originates from the toxic swamplands.<P>As a result, it is very resistant to toxic substances.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Маленька жаба<END FC> ]---<P>Мала жаба походить із токсичних боліт.<P>Як наслідок, вона дуже стійка до токсичних речовин.<E>"
   },
   "HT_Text_Museum_QU08_Normal_Chihuahua": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Chihuahua<END FC> ]---<P>A favorite pet of the rich, Chihuahuas are very energetic.<P>While the dog-loving community adore Chihuahuas, most find their incessant yapping highly irritating.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Чихуахуа<END FC> ]---<P>Улюблена домашня тварина багатих, чихуахуа дуже енергійні.<P>Хоча спільнота любителів собак обожнює, більшість чихуахуа дратують своїм тявканням.<E>"
   },
   "HT_Text_Museum_PI05_Aka_Turtle": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Sea Turtle<END FC> ]---<P>The Sea Turtle is a solitary creature fond of the open ocean. Its large size is a result of its immense lifespan.<P>The oldest Sea Turtle to have been found was aged in excess of three centuries.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Морська черепаха<END FC> ]---<P>Морська черепаха — це одиночна істота, яка любить відкритий океан. Її великі розміри є результатом її величезної тривалості життя.<P>Найстарішій знайденій морській черепахі було понад три століття.<E>"
   },
   "HT_Text_Museum_BM07_Squirt": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Squirt<END FC> ]---<P>The Squirt is a shy, easily frightened creature. The high value of the Squirt comes as a result of being immune to <FC 0,128,0>Capture Beetles<END FC>.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Сквиртл<END FC> ]---<P>Сквиртл — це сором’язлива істота, яку легко налякати. Високу цінність Сквиртл має через імунітету до <FC 0,128,0>захоплення жуками<END FC>.<E>"
   },
   "HT_Text_Museum_Name_BM09_Smiling_burble": {
-    "message": "A Smiling Burble! Uses its horns in a haphazard manner."
+    "message": "Усміхнений бурбл! Використовує свої роги безладно."
   },
   "HT_Text_Museum_Name_BM10_i_Cyclops": {
-    "message": "A Cyclops! Cute looking but very mischievous."
+    "message": "Циклоп! Милий на вигляд, але дуже пустотливий."
   },
   "HT_Text_Museum_Name_BM12_slim_burble": {
-    "message": "A Slim Burble! A quick breeder, and explosive too!"
+    "message": "Тощий бурбл! Швидкий розплідник, а також вибуховий!"
   },
   "HT_Text_Museum_Name_BR04_Goofy_Lizard": {
-    "message": "A Goofy Lizard! It’s a daft but friendly animal."
+    "message": "Гуфі ящірка! Це хитра, але доброзичлива тварина."
   },
   "HT_Text_Museum_Name_BR06_Half_Brute": {
-    "message": "A Half Brute! A shockingly aggressive monster."
+    "message": "Напів-Брут! Вражаючий агресивний монстр."
   },
   "HT_Text_Museum_Name_BU02_Skeletal_Axeman": {
-    "message": "A Skeletal Axeman! Lethal foot soldier from the dark side."
+    "message": "Скелет Сокирник! Смертоносний солдат з темної сторони."
   },
   "HT_Text_Museum_Name_BU05_almost_a_bull": {
-    "message": "Almost-A-Bull! Uses its horns to violent effect."
+    "message": "Майже Бик! Використовує свої роги для насильницького ефекту."
   },
   "HT_Text_Museum_Name_BU06_MBird": {
-    "message": "A Mummy Bird! Bandages cover most of its feathers."
+    "message": "Пташка-мумія! Пов'язки покривають більшу частину його пір'я."
   },
   "HT_Text_Museum_Name_FL02_Featherless_Turkey": {
-    "message": "A Featherless Turkey! A bald bird with a grumpy attitude."
+    "message": "Лиса Індичка! Птах зі сварливим характером."
   },
   "HT_Text_Museum_Name_FL03_shuttlecock_bird": {
-    "message": "A Shuttlecock Bird! One-legged with aerodynamic plumage."
+    "message": "Пташка волан! Однонога з аеродинамічним оперенням."
   },
   "HT_Text_Museum_Name_HD02_Cat": {
-    "message": "A Knives Cat! Not the friendliest feline around."
+    "message": "Кіт з ножами! Не найдружніший кіт."
   },
   "HT_Text_Museum_Name_HD03_BigBull": {
-    "message": "A Big Bull! Partial to swinging his hammer around."
+    "message": "Великий Бик! Схильний до розмахування молотком."
   },
   "HT_Text_Museum_Name_HD14_Crab": {
-    "message": "A Crabhands! A biped with a grumpy temperament."
+    "message": "Краборукий! Двонога зі сварливим темпераментом."
   },
   "HT_Text_Museum_Name_HD17_Sharpbeak": {
-    "message": "A Sharpbeak! A rare specimen of this battling creature."
+    "message": "Гостродзьоб! Рідкісний екземпляр цієї бойової істоти."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper": {
-    "message": "A Skull Worshipper! A powerful ally to the forces of evil."
+    "message": "Поклонник черепа! Потужний союзник сил зла."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "A Dark Worshipper! Rarely seen outside the shadows."
+    "message": "Темний поклонник! Рідко можна побачити поза тінню."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "A Skull Swordsman! Skillful warriors with ghostly attacks. "
+    "message": "Скелет-мечник! Вправні воїни з примарними атаками."
   },
   "HT_Text_Museum_Name_IN01_Green_Giant_worm": {
-    "message": "Green Giant Worm! A big worm with big teeth."
+    "message": "Зелений гігантський черв'як! Великий хробак з великими зубами."
   },
   "HT_Text_Museum_Name_IN07_Blade_Scorpion": {
-    "message": "A Blade Scorpion! Fast and deadly with a stinging tail."
+    "message": "Жало Скорпіона! Швидкий і смертоносний з жалючим хвостом."
   },
   "HT_Text_Museum_Name_IN09_Sak_Spike_Spider": {
-    "message": "A Spike Spider! Well known for dropping on their prey."
+    "message": "Павук-колос! Добре відомі тим, що кидаються на свою здобич."
   },
   "HT_Text_Museum_Name_PI01_Piranha": {
-    "message": "A Piranha! Fast-eating carnivorous fish."
+    "message": "Піранья! Хижа риба, що швидко поїдає."
   },
   "HT_Text_Museum_Name_PI01_Hard_Piranha": {
-    "message": "An Exo-Piranha! Quick and deadly little fish."
+    "message": "Екзо-піранья! Швидка і смертоносна рибка."
   },
   "HT_Text_Museum_Name_PL02_Tree_Creature": {
-    "message": "A Tree Creature! Don’t seek shade under this tree!"
+    "message": "Створіння дерева! Не шукай тіні під цим деревом!"
   },
   "HT_Text_Museum_Name_PL04_Sunflower_With_Face": {
-    "message": "A Sunflower! A dangerous spore-firing plant."
+    "message": "Соняшник! Небезпечна спорова рослина."
   },
   "HT_Text_Museum_Name_QC01_Pokemon": {
-    "message": "A Shell Critter! A timid little shelled reptile."
+    "message": "Мушляшник! Маленька полохлива рептилія."
   },
   "HT_Text_Museum_Name_QR04_Sak_Nose_Needler": {
-    "message": "A Nose Needler! A feisty subterranean mammal."
+    "message": "Гострий Ніс! Зухвалий підземний ссавець."
   },
   "HT_Text_Museum_Name_QU01_Skeletal_Spider": {
-    "message": "A Skeletal Spider! Head butts enemies into submission. "
+    "message": "Павук-скелет! Голова підкорює ворогів."
   },
   "HT_Text_Museum_Name_QU04_Mummy_Chihuahua": {
-    "message": "A Mummy Chihuahua! A pet that’s now undead."
+    "message": "Мумія чихуахуа! Домашня тварина, яка зараз живе."
   },
   "HT_Text_Museum_Name_QU04_Normal_Chihuahua": {
-    "message": "A Chihuahua! A popular pet amongst the rich."
+    "message": "Чихуахуа! Популярний вихованець серед багатіїв."
   },
   "HT_Text_Museum_Name_QU05_skeletal_waspspider": {
-    "message": "A Wasp Spider! Known for its nasty sting."
+    "message": "Павук-оса! Відомий своїм неприємним жалом."
   },
   "HT_Text_Museum_Name_QU06_Mummy_Worm": {
-    "message": "A Mummy Worm! Spits fireballs to ward off attackers."
+    "message": "Черв'як мумія! Викидає вогняні кулі, щоб відбити нападників."
   },
   "HT_Text_Museum_Name_QU09_Rat": {
-    "message": "A Rat! A dirty creature that scuttles around."
+    "message": "Щур! Брудна істота, яка снує навколо."
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "An Electric Armadillo! The most shocking of its species."
+    "message": "Електричний броненосець! Найбільш шокуючий у своєму роді."
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Fire": {
-    "message": "A Fire Armadillo! Spins around with scorching results."
+    "message": "Вогняний броненосець! Обертається з приголомшливими результатами."
   },
   "HT_Text_Museum_Name_QR01_Cobra": {
-    "message": "A Cobra! A hooded snake with a venomous bite."
+    "message": "Кобра! Капюшон змія з отруйним укусом."
   },
   "HT_Text_Museum_Name_QR03_Small_Frog": {
-    "message": "A Small Frog! It’s certainly small, but also toxic."
+    "message": "Маленька жаба! Він, звичайно, маленький, але також токсичний."
   },
   "HT_Text_Museum_Name_Jewel01": {
-    "message": "Jewel of Shu"
+    "message": "Коштовність Шу"
   },
   "HT_Text_Museum_Name_Jewel02": {
-    "message": "Jewel of Memphis"
+    "message": "Перлина Мемфіса"
   },
   "HT_Text_Museum_Name_Jewel03": {
-    "message": "Jewel of Edfu"
+    "message": "Перлина Едфу"
   },
   "HT_Text_Museum_Name_Jewel04": {
-    "message": "Jewel of Wedjat"
+    "message": "Перлина Веджата"
   },
   "HT_Text_Museum_Name_Jewel05": {
-    "message": "Jewel of Uraeus"
+    "message": "Коштовний камінь Урея"
   },
   "HT_Text_Museum_Name_Jewel06": {
-    "message": "Jewel of Weni"
+    "message": "Коштовність Вені"
   },
   "HT_Text_Gen_Help_GotAbyCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Священну корону Абідоса<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotSakCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Uruk<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Священну корону Урука<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHelCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Священну корону Геліополісу<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNoteFirst": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A new note has been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>To view the <FC 0,128,0>Book of Sphinx<END FC><N>press <SB HT_PadAction_BOS_Show><P><ES HT_Text_ES_S_HelpText><CNTR>The <FC 0,128,0>Notes<END FC> section contains<N>important information about your quest.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Нову примітку додано до<N><FC 0,128,0>Книги Сфінкса<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Для перегляду <FC 0,128,0>Книга Сфінкса<END FC><N>натисніть <SB HT_PadAction_BOS_Show><P><ES HT_Text_ES_S_HelpText><CNTR>Розділ <FC 0,128,0>Примітки<END FC> містить<N>важливу інформацію про ваш квест.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNote": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A new note has been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Нову примітку додано до<N><FC 0,128,0>Книги Сфінкса<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNotes": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>New notes have been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Нову примітку додано до<N><FC 0,128,0>Книги Сфінкса<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter2Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Atun Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the second <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрала в <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>Статую Атуна<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Кажуть, що ця золота статуя має магічну силу.<P><ES HT_Text_ES_S_HelpText> <N><CNTR>Ви отримали другу <FC 0,128,0>викрадену коштовність Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Куратори музею <FC 128,64,0>Абідосу<END FC ><N>будуть дуже раді це побачити.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter3Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Medicine Bag<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This specially lined bag will preserve any<N>delicate medicinal ingredients placed inside.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the third <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрала в <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>Сумку для ліківт<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Цей пакет із спеціальною підкладкою зберігає будь-які<N>делікатні лікарські інгредієнти, поміщені всередину.< P><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали третю <FC 0,128,0>Викрадену коштовність Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Куратори <FC 128,64,0 >Абідоського музею<END FC><N>будуть дуже раді це побачити.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter4Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Hands of Amun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This artifact gives Sphinx the strength to<N>push and pull extremely heavy objects.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the fourth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрала в <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>Руки Амона<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Цей артефакт дає Сфінксу силу<N>штовхати та тягнути надзвичайно важкі предмети.<P ><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали четверту <FC 0,128,0>Викрадену коштовність Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Куратори <FC 128,64,0> Абідоський музей<END FC><N>буде дуже радий побачити це.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter5Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Royal Invitation<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This official document invites you to<N>meet with the Pharaoh of <FC 128,64,0>Heliopolis<END FC>.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the fifth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрала в <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>королівське запрошення<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Цей офіційна перепустка на<N>зустріч з фараоном <FC 128,64, 0>Геліополісу<END FC>.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали п’яту <FC 0,128,0>викрадену коштовність Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> куратори <FC 128,64,0>Абідоського музею<END FC><N>будуть дуже раді побачити це.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter6Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Set<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>You got the sixth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрала в <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>Священну корону Сету<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ви отримали шосту <FC 0,128,0>викрадену коштовність Абідосу<END FC>! <P><ES HT_Text_ES_S_HelpText><CNTR>Куратори <FC 128,64,0>Абідоського музею<END FC><N>будуть дуже раді побачити це.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_AtunDisc": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is an ancient <FC 0,128,0>Atun Disc<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It is a magical point which, when passed over, imbues a mysterious energy that enables you to run at very high speed.<P><ES HT_Text_ES_S_HelpText><CNTR>Unfortunately the effect is only temporary but they should prove invaluable for getting around <FC 128,64,0>Heliopolis<END FC> more efficiently.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Це стародавній <FC 0,128,0>Диск Атуна<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Це магічна точка, якщо пройти біля неї, вона надає таємничу енергію, яка дає вам змогу бігати на дуже високій швидкості.<P><ES HT_Text_ES_S_HelpText><CNTR>На жаль, ефект лише тимчасовий, але вони ефективні для пересування <FC 128,64,0>Геліополісом<END FC> більш ефективно.<E>"
   },
   "HT_Text_Gen_Help_GotAtunEye": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found an <FC 0,128,0>Atun Eye<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It looks like it would fit into the eye<N>socket of a statue of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>Око Атуна<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Схоже, воно поміститься в очниці<N> якоїсь статуї.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAtunEyes04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>4 Atun Eyes<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>They look like they would fit into the eye<N>sockets of a statue of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>У вас <FC 0,128,0>4 Ока Атуна<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Вони виглядають так, ніби помістилися б в очниці<N> якась статуя.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotDoubleJump": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Wings of Ibis<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>With this magical artifact, Sphinx can<N>perform a second jump to reach greater<N>heights and longer distances!<P><CNTR><ES HT_Text_ES_S_HelpText>Press <SB HT_Action_Jump> to jump,<N>then press <SB HT_Action_Jump> again in mid air<N>to <FC 0,128,0>SOMERSAULT<END FC>.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Крила Ібіса<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>За допомогою цього магічного артефакту Сфінкс може<N>виконати другий стрибок, щоб досягти більшої<N>висоти та відстані!<P><CNTR><ES HT_Text_ES_S_HelpText>Натисніть <SB HT_Action_Jump>, щоб стрибнути,<N>потім знову натисніть <SB HT_Action_Jump> у повітрі<N>до <FC 0,128 ,0>САЛЬТО<END FC>.<E>"
   },
   "HT_Text_Gen_Help_GotShieldOfOsiris": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Shield of Osiris<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This magical shield was used in battle<N>by the great god Osiris himself.<P><ES HT_Text_ES_S_HelpText><CNTR>You can use the shield to protect yourself from<N>many types of enemy attacks and other hazards.<P><ES HT_Text_ES_S_HelpText><CNTR>To equip the <FC 0,128,0>Shield of Osiris<END FC> use <N><SB HT_PadAction_HUD_ShowRotator> to select the item...<P><ES HT_Text_ES_S_HelpText><CNTR>...then press the button you<N>want to assign the item to.<P><CNTR><ES HT_Text_ES_S_HelpText>Once assigned press and hold the<N>appropriate button to defend yourself.<P><ES HT_Text_ES_S_HelpText><CNTR>While defending yourself, use<N><SB HT_PadAction_PLR_MovePlr> to aim the shield.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Щит Осіріса<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Цей магічний щит використовував у битві<N>великий самого бога Осіріса.<P><ES HT_Text_ES_S_HelpText><CNTR>Ви можете використовувати щит, щоб захистити себе від<N>багатьох типів ворожих атак та інших небезпек.<P><ES HT_Text_ES_S_HelpText><CNTR>Щоб спорядити <FC 0,128,0>Щит Озіріса<END FC> скористайтеся <N><SB HT_PadAction_HUD_ShowRotator>, щоб вибрати елемент...<P><ES HT_Text_ES_S_HelpText><CNTR>...потім натисніть кнопку, якій<N>бажаєте призначити елемент.<P><CNTR><ES HT_Text_ES_S_HelpText>Після призначення натисніть і утримуйте<N>відповідну кнопку, щоб захиститися.<P><ES HT_Text_ES_S_HelpText><CNTR>Під час захисту використовуйте<N><SB HT_PadAction_PLR_MovePlr > аби націлити щит.<E>"
   },
   "HT_Text_Gen_Help_GotBlowpipe": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The magical darts fired from this powerful tool,<N>regenerate giving you an infinite supply.<P><ES HT_Text_ES_S_HelpText><CNTR>The darts can be used to hit remote targets but they<N>are only powerful enough to damage explosive monsters.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> to assign the <FC 0,128,0>Blowpipe<END FC> to a button.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the <FC 0,128,0>Blowpipe<END FC> is assigned, press<N>the button to enter first person mode.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_FireDart> to fire.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Cancel> to exit<N>from <FC 0,128,0>Blowpipe<END FC> mode.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Трубку<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Чарівні дротики, випущені з цього потужного інструменту,<N>регенерують, що дає вам нескінченний запас.<P><ES HT_Text_ES_S_HelpText><CNTR>Дротиками можна вражати віддалені цілі, але вони<N>достатні лише для того, щоб пошкодити вибухонебезпечних монстрів.<P><ES HT_Text_ES_S_HelpText><N><CNTR> Використовуйте <SB HT_PadAction_HUD_ShowRotator>, щоб призначити <FC 0,128,0>Blowpipe<END FC> кнопці.<P><ES HT_Text_ES_S_HelpText><CNTR>Після призначення <FC 0,128,0>Blowpipe<END FC> натисніть <N>кнопку, щоб увійти в режим від першої особи.<P><ES HT_Text_ES_S_HelpText><CNTR>Натисніть <SB HT_Action_FireDart>, щоб стріляти.<P><ES HT_Text_ES_S_HelpText><CNTR>Натисніть <SB HT_Action_Cancel>, щоб вийти<N>з режиму <FC 0,128,0>стрільби<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Hands Of Amun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This artifact gives Sphinx the strength to<N>push and pull extremely heavy objects.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Руки Амона<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Цей артефакт дає Сфінксу силу<N>штовхати та тягнути надзвичайно важкі предмети.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotMummyCash": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0><SO HT_Objective_Mum_CashCollected> Onyx Scarabs<END FC> that<N>the Mummy collected in the <FC 128,64,0>Castle of Uruk<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0><SO HT_Objective_Mum_CashCollected> Оніксові Скарабеї<END FC>, які<N>Мумія зібрав в <FC 128,64,0>Замку Урук< END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetlePouch": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Beetle Pouch<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This pouch enables you to carry up to<N><FC 0,128,0>20 Capture Beetles<END FC>, which can be used<N>to capture many different kinds of monster.<P><ES HT_Text_ES_S_HelpText><CNTR>To capture a monster, you must first attack it until<N>it becomes vulnerable to capture. When this is the case,<N>it will flash yellow in color.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the monster is vulnerable, release a capture beetle. Guide the beetle into the monster using <SB HT_PadAction_PLR_MoveBeetle>.<P><ES HT_Text_ES_S_HelpText><CNTR>When the beetle collides with the monster it will be captured and added to your inventory!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Сумку для жуків<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Вона містить до<N><FC 0,128 ,0>20 Жуків-Ловців<END FC>, яких можна використовувати<N>для захоплення багатьох різних видів монстрів.<P><ES HT_Text_ES_S_HelpText><CNTR>Щоб захопити монстра, ви повинні спочатку атакувати його, доки<N> він не стане вразливим для захоплення<N>.<P><ES HT_Text_ES_S_HelpText><CNTR>Якщо монстр стане вразливим, то засвітиться жовтим, випустіть жука-ловця. Наведіть жука на монстра за допомогою <SB HT_PadAction_PLR_MoveBeetle>.<P><ES HT_Text_ES_S_HelpText><CNTR>Коли жук зіткнеться з монстром, він буде схоплений і доданий до вашого інвентарю!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotScarabPurseUpgrade01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Large Scarab Bag<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can now carry up to <FC 0,128,0>900 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>велику сумку для скарабеїв<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Тепер ви можете носити до <FC 0,128, 0>900 скарабеїв<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetleSatchel": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Beetle Satchel<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can now carry up to 50 Capture Beetles!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Сумку з Жуками<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Тепер ви можете носити до 50 Жуків-Ловців!< ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotDartBelt": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Dart Belt<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can now carry up to 50 darts of each type!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Пояс для дротиків<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Тепер ви можете носити до 50 дротиків кожного типу!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAnkhPiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Collect four of these and a person with the right<N>skills will be able to increase your health capacity.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Золоту фігуру Анкх<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Зберіть чотири з них і вони<N>зможуть підвищити ваше здоров’я.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAnkhContainer": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This magic artifact has increased your health capacity<N>by <FC 0,128,0>1 Ankh<END FC> and has fully replenished your health!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Золотий Анкх<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Цей магічний артефакт збільшив ваші показники здоров’я<N>на <FC 0,128,0>1 Ankh<END FC> і повністю відновив втрачене!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_Got100Scarabs": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>100 Gold Scarabs<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Don't spend them all at once!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>100 золотих скарабеїв<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Не витрачайте їх усі одразу!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotIceDarts": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got some <FC 0,128,0>Ice Darts<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>These magical darts can be used<N>to freeze certain types of monster.<P><ES HT_Text_ES_S_HelpText><CNTR>Once a monster is frozen, you can push or pick up<N>the block of ice depending on its size.<P><ES HT_Text_ES_S_HelpText><CNTR>You can also stand on top of the block of ice<N>to reach an otherwise inaccessible area.<P><ES HT_Text_ES_S_HelpText><CNTR>Alternatively, you can shatter the block<N>by hitting it with your blade.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>У вас є <FC 0,128,0>крижані дротики<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ці чарівні дротики можна використовувати<N>для заморожування певних видів монстр.<P><ES HT_Text_ES_S_HelpText><CNTR>Якщо монстр замерз, ви можете штовхнути або підняти<N>брилу льоду залежно від її розміру.<P><ES HT_Text_ES_S_HelpText><CNTR>Ви також можете стояти на вершині брили льоду<N>, щоб дістатися до недоступної області.<P><ES HT_Text_ES_S_HelpText><CNTR>Крім того, ви можете розбити брилу<N>вдаривши по ній мечем.<ES HT_Text_ES_E_HelpText><E >"
   },
   "HT_Text_Gen_Help_GotAcidDarts": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got some <FC 0,128,0>Acid Darts<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>These magically corrosive darts can be used to dissolve certain metal chains!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>У вас є <FC 0,128,0>кислотні дротики<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ці чарівні корозійні дротики можна використовувати для розчинення певного металу та ланцюгів!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHippyItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Parasol<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This looks perfect for providing shade<N>on hot sunny days.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>У вас є <FC 0,128,0>парасолька<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Вона ідеально підходить для укриття<N>в спекотний сонячний день.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetleBreederItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Beetle Breeding Jar<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>The Beetle Breeder in the <FC 128,64,0>Bedouin Outpost<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Глек для розведення жуків<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Розвідник жуків у <FC 128,64 ,0>Бедуїнському форпості<END FC><N>буде дуже радий це побачити.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotUnderwaterProjectile": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Underwater Projectiles<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can use these to hit targets and<N>certain monsters while swimming underwater!<P><ES HT_Text_ES_S_HelpText><CNTR>Simply press <SB HT_Action_UnderwaterAttack> while underwater<N>to fire a projectile in the direction you are facing.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Підводні снаряди<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ви можете використовувати їх, щоб поразити цілі та<N>певних монстрів, плаваючи під водою!<P><ES HT_Text_ES_S_HelpText><CNTR>Просто натисніть <SB HT_Action_UnderwaterAttack> під водою<N>, щоб вистрілити снарядом у напрямку, куди ви дивитесь.<ES HT_Text_ES_E_HelpText><E >"
   },
   "HT_Text_Gen_Help_GotFastSwim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Crocodile Scales<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This ancient artifact allows you to<N>swim under water at great speed!<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_SwimFast> while under water<N>to swim with gusto!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Крокодилячу луску<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Цей стародавній артефакт дозволяє<N>швидко плавати під водою!<P><ES HT_Text_ES_S_HelpText><CNTR>Натисніть <SB HT_Action_SwimFast> під водою<N>, щоб плавати із задоволенням!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundGoldKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Gold Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>золотий ключ<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundGlyphKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Glyph Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>Ключ-Гліф<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundCanopicVase": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Canopic Vase<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Part of the soul of Tutankhamen<N>is stored inside.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Канопічну вазу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Частина душі Тутанхамона<N>зберігається всередині.< ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundRosettaStonePiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Rosetta Stone Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The Archeologist will be very interested in this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>Розетський камінь<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Це дуже зацікавить археолога.<ES HT_Text_ES_E_HelpText> <E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>South Desert Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This opens a gate leading to<N>the <FC 128,64,0>South Desert of Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Ключ південної Пустелі<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Це відкриває ворота, що ведуть до<N><N>FC 128 ,64,0>Південної пустелі Геліополіса<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Obelisk Gate Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This opens a gate leading to<N>the <FC 128,64,0>Great Obelisk of Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Ключ до воріт Обеліска<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Це відкриває ворота, що ведуть до<N><FC 128 ,64,0>Великого Обеліску Геліополісу<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Cave Door Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This opens a stone door in a cave between<N><FC 128,64,0>Heliopolis Point<END FC> and <FC 128,64,0>South Beach<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Ключ від дверей печери<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Це відкриває кам’яні двері в печері між<N>< FC 128,64,0>Геліополіс Пойнт<END FC> і <FC 128,64,0>Південний пляж<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPhysiciansNote": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Physician's Note<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>It is addressed to Kemmet the Inventor<N>who lives in <FC 128,64,0>Abydos Canal<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Примітку лікаря<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Вона адресована Кеммету Винахіднику<N>, який живе в <FC 128,64,0>Абідоському каналі<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHealingHerb": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Healing Herb<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>The Physician in <FC 128,64,0>Abydos Council Chambers<END FC><N>will be most pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Цілющу траву<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Лікар у <FC 128,64,0> Палатах ради Абідоса<END FC><N>буде дуже радий побачити це.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAtunStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Atun Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Статую Атуна<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Кажуть, що ця золота статуя має магічну силу.< ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHathorStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Hathor Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Статую Хатор<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Кажуть, що ця золота статуя має магічну силу.< ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotMedicineBag": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Medicine Bag<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This specially lined bag will preserve any<N>delicate medicinal ingredients placed inside.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>сумку для ліків<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ця спеціально обшита сумка збереже будь-які<N>делікатні лікарські інгредієнти, розміщені всередині.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotEagleStone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Eagle Stone<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This charmed stone allows you to summon<N>a Great Eagle when stood on special points.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Орлиний Камінь<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Зачарований камінь дозволяє вам викликати<N>великого орла, коли встанете на спеціальні точки.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotWallSection2Key": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Great Wall Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Ключ Великої стіни<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotWallSection3Key": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Great Wall Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Ключ Великої стіни<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NoBookOfDead": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Without the <FC 0,128,0>Book of the Dead<END FC> you are unable to summon Bas-Ket to transport the <FC 0,128,0>Canopic Vase<END FC> to the Mummy.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Без <FC 0,128,0>Книги Мертвих<END FC> ви не зможете викликати Бас-Кета, щоб транспортувати <FC 0,128,0>Канопічну вазу<END FC> до Мумії. <ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NoHandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This object is much too heavy for you to move.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Цей об’єкт занадто важкий для вас.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>There is a recess for an item of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Є заглиблення для якогось предмета.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A <FC 0,128,0>key<END FC> is needed to activate this device.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Для активації цього пристрою потрібен <FC 0,128,0>Ключ<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>An image of a large bird is painted on this structure.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_Help Text><IN><CENTER>На цій конструкції намальовано зображення великого птаха.<IS HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The eye socket of this stone statue is empty.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Очна ямка цієї кам’яної статуї порожня.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>That item cannot be used here.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Цей елемент не можна використовувати тут.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>That key doesn't fit.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Цей ключ не підходить.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>That <FC 0,128,0>Curse Stone<END FC> is the wrong color.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Цей <FC 0,128,0>Камінь прокляття<END FC> неправильного кольору.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>2 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>2 камені прокляття<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Кожен з ниє може зняти прокляття<N>< CNTR>з одного мешканця <FC 128,64,0>Проклятого палацу<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>2 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>2 камені прокляття<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Кожен з ниє може зняти прокляття<N>< CNTR>з одного мешканця <FC 128,64,0>Проклятого палацу<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>3 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>3 камені прокляття<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Кожен з ниє може зняти прокляття<N>< CNTR>з одного мешканця <FC 128,64,0>Проклятого палацу<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Mysterious Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The strange symbols on this ancient artifact<N>indicate transport to a mysterious location.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Таємничий Амулет<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Дивні символи на цьому стародавньому артефакті<N>вказують на транспортування в таємничі місця.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Abydos Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The oceanic symbols on this ancient<N>artifact indicate transport to Abydos.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Абідоський амулет<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Океанські символи на цьому стародавньому<N>артефакті вказують на транспортування до Абідосу .<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Heliopolis Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The sand etched symbols on this ancient <N>artifact indicate transport to Heliopolis.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Амулет Геліополісу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Символи, вигравірувані піском на цьому стародавньому <N>артефакті, вказують на транспортування до Геліополісу.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Anubis Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The symbols on this ancient artifact<N>indicate transport to Anubis Tower.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Амулет Анубіса<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Символи на цьому стародавньому артефакті<N>вказують на транспортування до вежі Анубіса .<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_Portal_HaveAmulet": {
-    "message": "Show me your <FC 0,128,0>Portal Amulet<END FC>, small one, and I shall open the gates to your destiny.<E>"
+    "message": "Покажи мені свій <FC 0,128,0>Портальний Амулет<END FC>, та я відчиню ворота до твоєї долі.<E>"
   },
   "HT_Text_Gen_Help_Portal_NoAmulet": {
-    "message": "Why do you summon me, strange creature? Without a <FC 0,128,0>Portal Amulet<END FC> I cannot allow you to pass.<E>"
+    "message": "Чому ти викликаєш мене, дивне створіння? Без <FC 0,128,0>Портального Амулета<END FC> я не можу дозволити вам пройти.<E>"
   },
   "HT_Text_Gen_Help_Portal_AlreadyHere": {
-    "message": "What foolishness do you request of me? You are already here.<E>"
+    "message": "Ви просите якісь дурниці? Ви вже тут.<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to a <FC 128,64,0>Mysterious Location<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Бог Порталу приймає вашу пропозицію та<N>надасть транспорт до <FC 128,64,0>Таємничого Місця<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Abydos<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Бог Порталу транспортує<N>вас до <FC 128,64,0>Абідосу<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedAkaria01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Akaria<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Бог Порталу транспортує<N>вас до <FC 128,64,0>Акарії<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Heliopolis<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Бог Порталу транспортує<N>вас до<FC 128,64,0>Геліополіса<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedSakkara01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to <FC 128,64,0>Sakkara<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу транспортує<N>вас до<FC 128,64,0>Саккари<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedUruk01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to the <FC 128,64,0>Castle of Uruk<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу транспортує<N>вас до<FC 128,64,0>Замку Урук<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Anubis Tower<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Бог Порталу транспортує<N>вас до<FC 128,64,0>Вежі Анубіса<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to <FC 128,64,0>Uruk Valley<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу транспортує<N>вас до<FC 128,64,0>Долини Урук<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in a <FC 128,64,0>Mysterious Location<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ваша дурість розсмішила Бога Порталу.<N>Ви й так біля<FC 128,64,0>Таємничого Місця<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in <FC 128,64,0>Abydos<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ваша дурість розсмішила Бога Порталу.<N>Ви й так біля<FC 128,64,0>Абідосу<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in <FC 128,64,0>Heliopolis<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ваша дурість розсмішила Бога Порталу.<N>Ви й так біля<FC 128,64,0>Геліополісу<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in <FC 128,64,0>Anubis Tower<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ваша дурість розсмішила Бога Порталу.<N>Ви й так біля<FC 128,64,0>Вежі Анубіса<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDenied01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God will not allow you to pass at this time...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу не дозволяє вам пройти зараз...<E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem05": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A <FC 0,128,0>Key<END FC> is needed to open this door.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Щоб відкрити ці двері, потрібен <FC 0,128,0>ключ<END FC>.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Sewer_King_Challenge1": {
-    "message": "Light all of these torches around me and I will give you this ancient artifact. Be careful though; it's just as easy to extinguish them as it is to light them.<E>"
+    "message": "Запаліть усі ці факели навколо мене, і я віддам вам цей стародавній артефакт. Але будьте обережні; їх так само легко загасити, як і запалити.<E>"
   },
   "HT_Text_Mum_Chapter1_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Wings of Ibis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Крила Ібіса<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter2_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Atun Statue<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>Статую Атуна<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter3_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Medicine Bag<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>сумку з ліками<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter4_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Hands of Amun<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>Руки Амона<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter5_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Royal Invitation<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>Королівське запрошення<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter1_FoundJewel1": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the first <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><W 90>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли першу <FC 0,128,0>викрадену дорогоцінність Абідосу<END FC>!<ES HT_Text_ES_E_HelpText><W 90>"
   },
   "HT_Text_Mum_Chapter2_FoundJewel2": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the second <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли другу <FC 0,128,0>викрадену коштовність Абідосу<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter3_FoundJewel3": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the third <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли третю <FC 0,128,0>викрадену коштовність Абідосу<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter4_FoundJewel4": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the fourth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли четверту <FC 0,128,0>викрадену коштовність Абідосу<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter5_FoundJewel5": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the fifth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли п’яту <FC 0,128,0>викрадену коштовність Абідосу<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter6_FoundJewel6": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the sixth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли шосту <FC 0,128,0>викрадену коштовність Абідосу<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_GotStairsKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Stairs Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Use it to open the stairs to the well area balcony.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>ключ від сходів<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Використовуйте його, щоб відкрити сходи до балкону колодязя.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotZipHandle": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Zip Line Handle<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>You can now use the zip lines in <FC 128,64,0>Abydos<END FC><N>to get around the city.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Зіп-Лайн<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Тепер ви можете використовувати його в <FC 128,64 ,0>Абідосі<END FC><N>щоб пересуватися містом.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotParasol": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Parasol<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It's great for those hot sunny days.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Парасолю<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Це чудово в спекотні сонячні дні.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Cast_Urukite1": {
-    "message": "Go away, evil creature!!! Set can kill me but he's not going to steal my soul! <E>"
+    "message": "Геть, зле створіння!!! Сет може вбити мене, але він не збирається красти мою душу! <E>"
   },
   "HT_Text_Mum_Cast_Urukite2": {
-    "message": "Why are you freeing me? Who are you? You don't want to kill me? <E>"
+    "message": "Чому ти мене звільняєш? Хто ти? Ти не хочеш мене вбити? <E>"
   },
   "HT_Text_Mum_Cast_Urukite3": {
-    "message": "Hmm... you don't look so frightening outside of the cage... Why are you helping me? <E>"
+    "message": "Хм... поза кліткою ти виглядаєш не так страшно... Чому ти мені допомагаєш? <E>"
   },
   "HT_Text_Mum_Cast_Urukite4": {
-    "message": "They say that I have stolen jewels from the castle, but I never did it!<P>My name is Khensu. I'm an Urukite. We were the habitants of this region before Set appeared. Our numbers are few, hidden in the castle trying to survive.<P>We've avoided Set until now because we know the region better, but that won't last long. In the end he will find us, if someone doesn't help. <E>"
+    "message": "Кажуть, я вкрав коштовності із замку, але я ніколи цього не робив!<P>Мене звуть Хенсу. Я урукіт. Ми були мешканцями цього регіону до появи Сета. Нас небагато, ми ховаємось в замку, намагаючись вижити.<P>Досі ми уникали Сету, тому що знаємо регіон краще, але це триватиме недовго. Зрештою він нас знайде, якщо хтось не допоможе. <E>"
   },
   "HT_Text_Mum_Cast_Urukite5": {
-    "message": "Anyway, we can't remain in this room for long. Set's guards could come at any moment. Follow me. I will help you escape from this cell. <E>"
+    "message": "Ми не можемо залишатися в цій кімнаті довго. Охорона Сету може прийти будь-якої миті. Ходім за мною. Я допоможу тобі втекти звідси. <E>"
   },
   "HT_Text_Mum_Cast_Urukite6": {
-    "message": "This secret door connects with other sections of the castle. We must separate now. It is too risky for us to stay together. Good luck. <E>"
+    "message": "Ці таємні двері з’єднуються з іншими частинами замку. Ми повинні зараз розлучитися. Для нас занадто ризиковано залишатися разом. Удачі. <E>"
   },
   "HT_Text_Mum_Cast_CageLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This cage requires a <FC 0,128,0>Key<END FC> to open.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Для відкриття цієї клітки потрібен <FC 0,128,0>ключ<END FC>.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Cast_Help_FoundCageKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Cage Key<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>Ключ ві Клітки<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
   }
 }

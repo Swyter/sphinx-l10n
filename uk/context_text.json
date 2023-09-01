@@ -1,9 +1,9 @@
 {
   "HT_Text_Context_UseItem": {
-    "message": "Використати предмет"
+    "message": "ВИКОРИСТАТИ"
   },
   "HT_Text_Context_Use": {
-    "message": "Використати"
+    "message": "ЗАСТОСУВАТИ"
   },
   "HT_Text_Context_PushObject": {
     "message": "Натиснути"
@@ -36,7 +36,7 @@
     "message": "Не маєте"
   },
   "HT_Text_Context_Release": {
-    "message": "Звільнити"
+    "message": "ВІДПУСТИТИ"
   },
   "HT_Text_Context_Clone": {
     "message": "Клонувати"
@@ -45,7 +45,7 @@
     "message": "Невидимість"
   },
   "HT_Text_Context_Hide": {
-    "message": "Сховати"
+    "message": "Сховатись"
   },
   "HT_Text_Context_FreezeTime": {
     "message": "Зупинити час"
@@ -66,7 +66,7 @@
     "message": "Режисер"
   },
   "HT_Text_Context_Cancel": {
-    "message": "ВІДМІНА"
+    "message": "ВІДМІНИТИ"
   },
   "HT_Text_Context_Jump": {
     "message": "СТРИБОК"
@@ -78,13 +78,13 @@
     "message": "ПІДІРВАТИ"
   },
   "HT_Text_Context_Beetle": {
-    "message": "Жук"
+    "message": "ЖУК"
   },
   "HT_Text_Context_Throw": {
     "message": "КИНУТИ"
   },
   "HT_Text_Context_Drop": {
-    "message": "ПОКЛАСТИ"
+    "message": "ВІДПУСТИТИ"
   },
   "HT_Text_Context_FireDart": {
     "message": "СТРІЛЯТИ"
@@ -102,10 +102,10 @@
     "message": "Програма"
   },
   "HT_Text_Context_SpittingToadV": {
-    "message": "Вертикально"
+    "message": "Вертикаль"
   },
   "HT_Text_Context_SpittingToadH": {
-    "message": "Горизонтально"
+    "message": "Горизонталь"
   },
   "HT_Text_Context_Flap": {
     "message": "ЛЕГКИЙ УДАР"
@@ -120,13 +120,13 @@
     "message": "ВИЙТИ"
   },
   "HT_Text_Context_SwapMummy": {
-    "message": "Змінити"
+    "message": "ЗМІНИТИ"
   },
   "HT_Text_Context_MummyCrawl": {
-    "message": "Повзти"
+    "message": "ПОВЗТИ"
   },
   "HT_Text_Context_MummyStandUp": {
-    "message": "Встати"
+    "message": "ВСТАТИ"
   },
   "HT_Text_Context_Dive": {
     "message": "Занирнути"
@@ -135,7 +135,7 @@
     "message": "ПЛИСТИ"
   },
   "HT_Text_Context_SwimFast": {
-    "message": "ШВИДКО"
+    "message": "ПРИСКОРИТИСЬ"
   },
   "HT_Text_Context_WallSneakPeek": {
     "message": "Підглянути"

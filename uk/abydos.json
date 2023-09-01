@@ -522,7 +522,7 @@
     "message": "Ах, Гуфі Ящірка. Боюся, я не зможу у вас його купити. Не з тих пір, що сталися минулого разу...<E>"
   },
   "HT_Text_Aby_Shop_NoPiranhas": {
-    "message": "Sorry, I can't stock Piranha's anymore. The Mayor has banned me from having any in the shop after that unfortunate incident last year...<P>I don't blame him either. He couldn't sit down for weeks!<E>"
+    "message": "Вибачте, я більше не можу зберігати піраньї. Мер заборонив мені мати подібних в магазині після того прикрого випадку минулого року...<P>Мені шкода його. Він не міг сидіти тижнями!<E>"
   },
   "HT_Text_Aby_Sewer_GateBlocked": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Для відкриття цих воріт треба <FC 0,128,0>Ключ<END FC>.<ES HT_Text_ES_E_HelpText><E>"
@@ -771,153 +771,153 @@
     "message": "Чудово! Повертайтеся, коли матимете їх усі!<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_NoDeal": {
-    "message": "Are you sure? Look at how green and... lizardy the lizard is! No? Well, the offer's always open.<E>"
+    "message": "Ти впевнений? Подивіться, яка вона зелена... Ящірка!! Ні? Що ж, пропозиція завжди відкрита.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_AskDeal": {
-    "message": "Changed your mind yet? Do you want to swap all the game medals for my lizard?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Ви вже передумали? Ви хочете обміняти всі ігрові медалі на мою ящірку?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_NotGotAll": {
-    "message": "Haven't you got them all yet? Well, when you have got them all, come and see me.<E>"
+    "message": "Ви ще не маєте всіх медалей? Повертайтесь, коли матимете їх усі.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_DoDeal": {
-    "message": "You've got them all! Wow! Do you want to swap now?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Вони у вас! Ого! Ви хочете обмінятися зараз?<N> <B 1> Так<N> <B 2> Ні<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_NotYet": {
-    "message": "Not yet? Well, when you're ready to swap, just come and tell me.<E>"
+    "message": "Ще ні? Що ж, коли ви будете готові обмінятися - повертайтесь.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Swapped": {
-    "message": "Excellent! My girlfriend's going to be so impressed!<E>"
+    "message": "Чудово! Моя дівчина буде дуже вражена!<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished01": {
-    "message": "These medals are great. My girlfriend will be amazed!<E>"
+    "message": "Ці медалі чудові. Моя дівчина буде вражена!<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished02": {
-    "message": "I think I should get a display cabinet for these medals.<E>"
+    "message": "Гадаю мені варто придбати вітрину для цих медалей.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished03": {
-    "message": "I wonder how the museum's doing after that terrible robbery?<E>"
+    "message": "Цікаво, як справи в музеї після того жахливого пограбування?<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction01": {
-    "message": "Well, well! A stranger! I would so like to know how you arrived here.<E>"
+    "message": "Хм.. Незнайомцю, як ти потрапив сюди?<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction02": {
-    "message": "Dear me! There is no ship on that side, and only an imbecile would try to swim through electrified water!<E>"
+    "message": "Боже мій! Там немає корабля, і лише недоумок спробував би пропливти через наелектризовану воду!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction03": {
-    "message": "<FC 128,64,0>Abydos<END FC> was the quintessential prosperous and peaceful city, until those Electric Eels came along.<E>"
+    "message": "<FC 128,64,0>Абідос<END FC> був прикладом процвітаючого та мирного міста, поки не з’явилися електричні вугри!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction04": {
-    "message": "Nobody knows where they come from, but they are lowering the tone of the city beyond words!<E>"
+    "message": "Ніхто не знає, звідки вони, але вони невимовно знижують тон міста та лякають усіх!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Hint1": {
-    "message": "I hear someone dropped something in the well. I wonder what it is?<E>"
+    "message": "Я чув, щось впустили у колодязь. Цікаво, що це? Хотів би я знати...<E>"
   },
   "HT_Text_Aby_Canal_Posh_Hint2": {
-    "message": "Jars contain some interesting things sometimes.<E>"
+    "message": "Іноді в глечиках є цікаві речі.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor01": {
-    "message": "<EFF><EPO>What are we to do? The Mayor has been taken ill! I wonder what could be wrong with him?<P>Soon he won't even be strong enough to wear the <FC 0,128,0>Sacred Crown of Abydos<END FC> upon his head!<E>"
+    "message": "<EFF><EPO>Що нам робити? Мер захворів! Цікаво, що з ним стане?<P>Незабаром він навіть не буде достатньо сильним, щоб носити <FC 0,128,0>Священну корону Абідосу<END FC> на своїй голові!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor02": {
-    "message": "Monsters, electrified water and now the Mayor! What a terrible state of affairs this is!<E>"
+    "message": "Монстри, електрифікована вода і тепер мер!Все йде шкереберть... Це не просто так..<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor03": {
-    "message": "I wonder who will take charge if the Mayor doesn't recover from his illness soon?<E>"
+    "message": "Цікаво, хто візьметься за все, якщо мер найближчим часом не одужає від хвороби?<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor04": {
-    "message": "I do hope the council Physician can help the Mayor.<E>"
+    "message": "Я сподіваюся, що Міський Лікар може допомогти меру.<E>"
   },
   "HT_Text_Aby_Canal_Posh_MayorCured01": {
-    "message": "The Mayor has been cured? What luck!<E>"
+    "message": "Мер вилікувався? Нам пощастило!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Defeated01": {
-    "message": "Who would've thought the Mayor's advisors were traitors?<E>"
+    "message": "Хто б міг подумати, що радники мера - зрадники?!!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Defeated02": {
-    "message": "Now the Mayor is rid of his evil advisors, perhaps he will clean up city...<E>"
+    "message": "Тепер, мер позбувся своїх зрадників, можливо, він очистить місто...<E>"
   },
   "HT_Text_Aby_Canal_Posh_Defeated03": {
-    "message": "I think Mayor has been very brave through all this.<E>"
+    "message": "Думаю, мер став більш сміливим. Стільки проблем...<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block01": {
-    "message": "Sorry but I can’t allow you entrance to the museum until the grand unveiling of the <FC 128,64,0>Abydos<END FC> jewel collection is ready.<P>Please come back later sir.<E>"
+    "message": "Вибачте, але я не можу дозволити вам увійти до музею, доки не буде готове урочисте відкриття колекції коштовностей <FC 128,64,0>Абідосу<END FC>.<P>Поверніться пізніше, пане.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block02": {
-    "message": "I'm sorry, I can't let you into the museum, sir.<E>"
+    "message": "Вибачте, я не можу впустити вас до музею, пане.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block03": {
-    "message": "Please sir, I've already told you you're not allowed in.<P>Come back later when the grand unveiling of the jewel exhibit is ready.<E>"
+    "message": "Будь ласка, пане, я вже сказав вам.<P>Поверніться пізніше, коли буде готове урочисте відкриття виставки коштовностей.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open01": {
-    "message": "Enjoy the museum, sir.<E>"
+    "message": "Насолоджуйтесь музеєм, пане.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open02": {
-    "message": "Move along, sir.<E>"
+    "message": "Продовжуйте, пане.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open03": {
-    "message": "Have a pleasant day, sir.<E>"
+    "message": "Гарного дня, пане.<E>"
   },
   "HT_Text_Aby_Canal_Juggler01": {
-    "message": "Don’t distract me! You made me drop the balls!<E>"
+    "message": "Не відволікай! Ти змусив мене впустити яйця!<E>"
   },
   "HT_Text_Aby_Canal_Juggler02": {
-    "message": "Stop distracting me! I tend to drop the balls if anyone talks to me!<E>"
+    "message": "Перестань мене відволікати! Я зазвичай кидаюсь, якщо хтось зі мною розмовляє!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan01": {
-    "message": "The wife is gonna kill me if she finds out I lost her pearl necklace! <P>She's bound to notice this new one I bought has three missing.<P>Say, if you come across any <FC 0,128,0>Abydosian Pearls<END FC>, let me know! <E>"
+    "message": "Дружина вб’є мене, якщо дізнається, що я загубив її перлове намисто! <P>Вона обов’язково помітить, що в новому, який я купив, бракує трьох.<P>Якщо ви натрапите на якісь <FC 0,128,0>Абідозькі перли<END FC>, дайте мені знати! <E>"
   },
   "HT_Text_Aby_Canal_PearlMan02": {
-    "message": "Did you find any <FC 0,128,0>Abydosian Pearls<END FC>? No? Well keep looking!<E>"
+    "message": "Ви знайшли якісь <FC 0,128,0>Абідозькі перлини<END FC>? Ні.. Продовжіть пошуки!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan03": {
-    "message": "You found an <FC 0,128,0>Abydosian Pearl<END FC>?! Thanks! Just two more and I'll be saved!<E>"
+    "message": "Ви знайшли <FC 0,128,0>Абідосійську перлину<END FC>?! Дякую! Ще дві, та я врятований!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan04": {
-    "message": "Another <FC 0,128,0>Abydosian Pearl<END FC>? Thank you so much friend! But I still need one more!<E>"
+    "message": "Ще одна <FC 0,128,0>Абідоська перлина<END FC>? Дуже дякую, друже! Але мені все одно потрібна ще одна.<E>"
   },
   "HT_Text_Aby_Canal_PearlMan05": {
-    "message": "Two <FC 0,128,0>Abydosian Pearls<END FC>? Thanks! Thanks a lot! But I still need one more...<E>"
+    "message": "Дві <FC 0,128,0>Абідозькі перлини<END FC>? Дякую! Дуже дякую! Але мені все одно потрібна ще одна...<E>"
   },
   "HT_Text_Aby_Canal_PearlMan06": {
-    "message": "Did you find any more <FC 0,128,0>Abydosian Pearls<END FC> yet? No?<E>"
+    "message": "Чи знайшли ви ще якісь <FC 0,128,0>Абідозькі перли<END FC>? Ні?<E>"
   },
   "HT_Text_Aby_Canal_PearlMan07": {
-    "message": "Yes, that's three <FC 0,128,0>Abydosian Pearls<END FC>! Thanks! You can use this key to open the door to the upper walkway if you wish.<P>I think I'll take my wife to see the jewel collection in the museum. She'll love to wear the necklace for that.<E>"
+    "message": "Так, це три <FC 0,128,0>Абідозькі перлини<END FC>! Дякую! дарую цей ключ, щоб відкрити двері до верхньої доріжки, якщо хочете.<P>Я думаю, що відведу свою дружину, аби побачити колекцію коштовностей у музеї. Їй подобається носити намисто.<E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors1": {
-    "message": "Whatever it is, I'm not buying it! <E>"
+    "message": "Що б це не було, я не куплюся! <E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors2": {
-    "message": "Go away, I'm busy! <E>"
+    "message": "Геть! Я зайнятий! <E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors3": {
-    "message": "I'm having dinner, come back later! <E>"
+    "message": "Я обідаю, повертайся пізніше! <E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick1": {
-    "message": "Oooooooooh...<E>"
+    "message": "Ооооооооох...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick2": {
-    "message": "Ahhhhhhhhh...<E>"
+    "message": "Аххххххххх...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick3": {
-    "message": "Bluuuuurgh...<E>"
+    "message": "Блууууургх...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Recover": {
-    "message": "I feel so much better now, thank you! Wait in the outer chambers while I gain my strength and I will come reward you <E>"
+    "message": "Зараз я почуваюся набагато краще, дякую! Зачекайте в зовнішні кімнати, я підійду віддячити вам<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved1": {
-    "message": "I cannot believe my trusted advisors betrayed me like that!<E>"
+    "message": "Я не можу повірити, що мої довірені радники так мене зрадили!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved2": {
-    "message": "It's so hard to find trustworthy advisors these days!<E>"
+    "message": "Зараз так важко знайти надійних порадників!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted1": {
-    "message": "It's so hard to get honest advisors these days.<E>"
+    "message": "Зараз так важко знайти чесних порадників.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted2": {
-    "message": "Now the crown is safe and I am cured, I'll be able to turn my attention to solving the problem of the electrified water.<E>"
+    "message": "Тепер корона в безпеці, а я вилікуваний. Треба щось вирішити з електрифікованою водою. Хм...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted3": {
-    "message": "I had no idea there was an underground cavern beneath that statue. Perhaps I should have the town plans examined to see what else the city hides.<E>"
+    "message": "Я й гадки не мав, що під цією статуєю є підземна печера. Можливо, мені варто вивчити плани міста, щоб побачити, що ще приховує місто.<E>"
   }
 }
