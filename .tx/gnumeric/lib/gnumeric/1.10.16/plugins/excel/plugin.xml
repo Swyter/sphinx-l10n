@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="Gnumeric_Excel">
+	<information>
+		<name>MS Excel (tm)</name>
+		<name xml:lang="ast">MS Excel™</name>
+		<name xml:lang="az">MS Excel (tm)</name>
+		<name xml:lang="bg">MS Excel (tm)</name>
+		<name xml:lang="ca">MS Excel (R)</name>
+		<name xml:lang="ca@valencia">MS Excel (R)</name>
+		<name xml:lang="cs">MS Excel™</name>
+		<name xml:lang="da">MS Excel (tm)</name>
+		<name xml:lang="de">MS Excel (tm)</name>
+		<name xml:lang="dz">ཨེམ་ཨེསི་ ཨེགསི་སེལ་ (ཊི་ཨེམ་)</name>
+		<name xml:lang="el">MS Excel (tm)</name>
+		<name xml:lang="en_CA">MS Excel (tm)</name>
+		<name xml:lang="en_GB">MS Excel (tm)</name>
+		<name xml:lang="es">MS Excel™</name>
+		<name xml:lang="et">MS Excel (tm)</name>
+		<name xml:lang="eu">MS Excel (tm)</name>
+		<name xml:lang="fi">MS Excel™</name>
+		<name xml:lang="fr">MS Excel™</name>
+		<name xml:lang="ga">MS Excel (tm)</name>
+		<name xml:lang="gu">MS Excel (tm)</name>
+		<name xml:lang="he">מייקרוסופט אקסל (tm)</name>
+		<name xml:lang="hr">MS Excel (tm)</name>
+		<name xml:lang="hu">MS Excel (tm)</name>
+		<name xml:lang="id">MS Excel (tm)</name>
+		<name xml:lang="it">MS Excel™</name>
+		<name xml:lang="ja">MS Excel (tm)</name>
+		<name xml:lang="kk">MS Excel (tm)</name>
+		<name xml:lang="ko">MS 엑셀 (tm)</name>
+		<name xml:lang="lt">MS Excel (tm)</name>
+		<name xml:lang="lv">MS Excel (tm)</name>
+		<name xml:lang="mk">MS Excel (tm)</name>
+		<name xml:lang="ml">MS എക്സല് (tm)</name>
+		<name xml:lang="ms">MS Excel (tm)</name>
+		<name xml:lang="nb">MS Excel (tm)</name>
+		<name xml:lang="ne">एमएस एक्सेल (टीएम)</name>
+		<name xml:lang="nl">MS Excel (tm)</name>
+		<name xml:lang="nn">MS Excel (tm)</name>
+		<name xml:lang="pl">MS Excel (tm)</name>
+		<name xml:lang="pt">MS Excel (tm)</name>
+		<name xml:lang="pt_BR">MS Excel™</name>
+		<name xml:lang="ru">MS Excel (tm)</name>
+		<name xml:lang="sk">MS Excel (tm)</name>
+		<name xml:lang="sl">MS Excel (tm)</name>
+		<name xml:lang="sr">MS Excel (tm)</name>
+		<name xml:lang="sr@latin">MS Excel (tm)</name>
+		<name xml:lang="sv">MS Excel (tm)</name>
+		<name xml:lang="tr">MS Excel (tm)</name>
+		<name xml:lang="uk">MS Excel (tm)</name>
+		<name xml:lang="vi">MS Excel™</name>
+		<name xml:lang="zh_CN">MS Excel (tm)</name>
+		<name xml:lang="zh_TW">微軟 Excel™</name>
+		<description>Imports/Exports MS Excel (tm) files</description>
+		<description xml:lang="ast">Importa/esporta ficheros Ms Excel™</description>
+		<description xml:lang="bg">Внасяне/изнасяне на файлове, формат MS Excel (tm)</description>
+		<description xml:lang="ca">Importa fitxers de l'MS Excel (R)</description>
+		<description xml:lang="ca@valencia">Importa fitxers de l'MS Excel (R)</description>
+		<description xml:lang="cs">Import a export souborů MS Excel™</description>
+		<description xml:lang="da">Importerer/eksporterer MS Excel(tm)-filer</description>
+		<description xml:lang="de">Import/Export von MS Excel-Dateien</description>
+		<description xml:lang="dz">ཨེམ་ཨེསི་ ཨེགསི་སེལ་་(ཊི་ཨེམ་) ཡིག་སྣོད་ཚུ་ ནང་འདྲེན་/ཕྱིར་འདྲེན་འབདཝ་ཨིན་</description>
+		<description xml:lang="el">Εισάγει/Εξάγει αρχεία MS Excel (tm)</description>
+		<description xml:lang="en_CA">Imports/Exports MS Excel (tm) files</description>
+		<description xml:lang="en_GB">Imports/Exports MS Excel (tm) files</description>
+		<description xml:lang="es">Importa/exporta archivos Ms Excel™</description>
+		<description xml:lang="et">Impordib/Ekspordib MS Excel (tm) faile</description>
+		<description xml:lang="eu">MS Excel (tm) fitxategiak inportatzen/esportatzen ditu</description>
+		<description xml:lang="fi">Tuo ja vie MS Excel™ -tiedostoja</description>
+		<description xml:lang="fr">Importe/exporte des fichiers au format MS Excel™ </description>
+		<description xml:lang="gu">MS Excel (tm) ફાઇલો ને આયાત/નિકાસ કરો</description>
+		<description xml:lang="he">מייבא/מייצא קבצי אקסל (tm)</description>
+		<description xml:lang="hr">Uvozi/izvozi datoteke oblika MS Excel (tm)</description>
+		<description xml:lang="hu">Microsoft Excel (tm) fájlokat importál/exportál</description>
+		<description xml:lang="id">Impor/Ekspor berkas MS Excel (tm)</description>
+		<description xml:lang="it">Import/Esporta file MS Excel™</description>
+		<description xml:lang="ja">MS Excel (tm) ファイルのインポート/エクスポート</description>
+		<description xml:lang="ko">MS 엑셀 (tm) 파일 가져오기/내보내기</description>
+		<description xml:lang="lt">Importuoja / eksportuoja MS Excel (tm) failus</description>
+		<description xml:lang="lv">Importē/Eksportē MS Excel (tm) failus</description>
+		<description xml:lang="mk">Увезува/Извезува MS Excel (tm) датотеки</description>
+		<description xml:lang="ms">Import/Eksport fail MS Excel (tm)</description>
+		<description xml:lang="nb">Importerer/eksporterer MS Excel (tm) filer</description>
+		<description xml:lang="ne">एमएस एक्सेल (टिएम) फाइलहरू आयात गर्नुहोस्/निर्यात गर्नुहोस्</description>
+		<description xml:lang="nl">Importeert/Exporteert MS Excel (tm) bestanden</description>
+		<description xml:lang="nn">Importerar/eksporterar MS Excel (tm) filer</description>
+		<description xml:lang="pl">Importuje i eksportuje pliki programu MS Excel (tm)</description>
+		<description xml:lang="pt">Importa/Exporta ficheiros MS Excel (tm)</description>
+		<description xml:lang="pt_BR">Importa e exporta arquivos do MS Excel™</description>
+		<description xml:lang="ru">Импортирует/экспортирует файлы MS Excel (tm)</description>
+		<description xml:lang="sk">Importuje a exportuje súbory MS Excel 9(tm)</description>
+		<description xml:lang="sl">Uvažanje in izvažanje datotek programa MS Excel (tm)</description>
+		<description xml:lang="sr">Увози/извози MS Excel(tm) датотеке</description>
+		<description xml:lang="sr@latin">Uvozi/izvozi MS Excel(tm) datoteke</description>
+		<description xml:lang="sv">Importerar/Exporterar MS Excel (tm)-filer</description>
+		<description xml:lang="tr">MS Excel (tm) dosyalarını okur/kaydeder</description>
+		<description xml:lang="uk">Імпортує і експортує файли MS Excel (tm)</description>
+		<description xml:lang="vi">Nhập/Xuất tập tin MS Excel™</description>
+		<description xml:lang="zh_CN">导入/导出 MS Excel (tm) 文件</description>
+		<description xml:lang="zh_TW">可匯入/匯出微軟 Excel™ 檔案</description>
+	</information>
+	<loader type="Gnumeric_Builtin:module">
+		<attribute value="excel" name="module_file"/>
+	</loader>
+	<services>
+		
+		<service type="file_opener" probe="TRUE" priority="100" id="excel">
+			<information>
+				<description>MS Excel (tm) (*.xls)</description>
+				<description xml:lang="ast">MS Excel™ (*.xls)</description>
+				<description xml:lang="az">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="bg">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="ca">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="ca@valencia">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="cs">MS Excel™ (*.xls)</description>
+				<description xml:lang="da">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="de">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="dz">ཨེམ་ཨེསི་ ཨེགསི་སེལ་ (ཊི་ཨེམ་) (*.xls)</description>
+				<description xml:lang="el">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="en_CA">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="en_GB">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="es">MS Excel™ (*.xls)</description>
+				<description xml:lang="et">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="eu">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="fi">MS Excel™ (*.xls)</description>
+				<description xml:lang="fr">MS Excel™ (*.xls)</description>
+				<description xml:lang="ga">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="gu">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="he">קבצי אקסל (tm) (*.xls)</description>
+				<description xml:lang="hr">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="hu">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="id">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="it">MS Excel™ (*.xls)</description>
+				<description xml:lang="ja">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="kk">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="ko">MS 엑셀 (tm) (*.xls)</description>
+				<description xml:lang="lt">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="lv">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="mk">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="ml">MS എക്സല് (tm) (*.xls)</description>
+				<description xml:lang="ms">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="nb">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="ne">एमएस एक्सेल (टीएम) (*.xls)</description>
+				<description xml:lang="nl">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="nn">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="pl">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="pt">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="pt_BR">MS Excel™ (*.xls)</description>
+				<description xml:lang="ru">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="sk">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="sl">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="sr">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="sr@latin">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="sv">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="tr">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="uk">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="vi">MS Excel™ (*.xls)</description>
+				<description xml:lang="zh_CN">MS Excel (tm) (*.xls)</description>
+				<description xml:lang="zh_TW">微軟 Excel™ (*.xls)</description>
+			</information>
+			<suffixes>
+				<suffix>xls</suffix>
+				<suffix>xlw</suffix>
+				<suffix>xlt</suffix>
+			</suffixes>
+			<mime-types>
+				<mime-type>application/vnd.ms-excel</mime-type>
+				<mime-type>application/excel</mime-type>
+				<mime-type>application/msexcel</mime-type>
+				<mime-type>application/x-excel</mime-type>
+				<mime-type>application/x-ms-excel</mime-type>
+				<mime-type>application/x-msexcel</mime-type>
+				<mime-type>application/x-xls</mime-type>
+				<mime-type>application/xls</mime-type>
+				<mime-type>application/x-dos_ms_excel</mime-type>
+				<mime-type>zz-application/zz-winassoc-xls</mime-type>
+			</mime-types>
+		</service>
+
+		<service type="file_saver" overwrite_files="TRUE" mime_type="application/vnd.ms-excel" id="excel_biff8" format_level="auto" file_extension="xls" default_saver_priority="1">
+			     
+			<information>
+				<description>MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="ast">MS Excel™ 97/2000/XP</description>
+				<description xml:lang="az">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="bg">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="ca">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="ca@valencia">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="cs">MS Excel™ 97/2000/XP</description>
+				<description xml:lang="da">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="de">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="dz">ཨེམ་ཨེསི་ ཨེགསི་སེལ་ (ཊི་ཨེམ་) ༩༧/༢༠༠༠/ཨེགསི་པི་</description>
+				<description xml:lang="el">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="en_CA">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="en_GB">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="es">MS Excel™ 97/2000/XP</description>
+				<description xml:lang="et">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="eu">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="fi">MS Excel™ 97/2000/XP</description>
+				<description xml:lang="fr">MS Excel™ 97/2000/XP</description>
+				<description xml:lang="ga">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="gu">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="he">קבצי אקסל (tm) 97/2000/XP</description>
+				<description xml:lang="hr">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="hu">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="id">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="it">MS Excel™ 97/2000/XP</description>
+				<description xml:lang="ja">MS Excel (tm) 97/2000/XP ファイル形式</description>
+				<description xml:lang="kk">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="ko">MS 엑셀 (tm) 97/2000/XP</description>
+				<description xml:lang="lt">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="mk">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="ml">MS എക്സല് (tm) 97/2000/XP</description>
+				<description xml:lang="ms">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="nb">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="ne">एमएस एक्सेल (टीएम) ९७/२०००/एक्स पी</description>
+				<description xml:lang="nl">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="nn">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="pl">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="pt">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="pt_BR">MS Excel™ 97/2000/XP</description>
+				<description xml:lang="ru">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="sk">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="sl">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="sr">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="sr@latin">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="sv">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="tr">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="vi">MS Excel™ 97/2000/XP</description>
+				<description xml:lang="zh_CN">MS Excel (tm) 97/2000/XP</description>
+				<description xml:lang="zh_TW">微軟 Excel™ 97/2000/XP</description>
+			</information>
+		</service>
+		<service type="file_saver" overwrite_files="TRUE" mime_type="application/vnd.ms-excel" id="excel_biff7" format_level="auto" file_extension="xls">
+			<information>
+				<description>MS Excel (tm) 5.0/95</description>
+				<description xml:lang="ast">MS Excel™ 5.0/95</description>
+				<description xml:lang="az">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="bg">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="ca">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="ca@valencia">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="cs">MS Excel™ 5.0/95</description>
+				<description xml:lang="da">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="de">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="dz">ཨེམ་ཨེསི་ ཨེགསི་སེལ་ (ཊི་ཨེམ་) ༥.༠/༩༥</description>
+				<description xml:lang="el">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="en_CA">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="en_GB">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="es">MS Excel™ 5.0/95</description>
+				<description xml:lang="et">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="eu">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="fi">MS Excel™ 5.0/95</description>
+				<description xml:lang="fr">MS Excel™ 5.0/95</description>
+				<description xml:lang="ga">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="gu">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="he">קבצי אקסל (tm) 5.0/95</description>
+				<description xml:lang="hr">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="hu">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="id">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="it">MS Excel™ 5.0/95</description>
+				<description xml:lang="ja">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="kk">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="ko">MS 엑셀 (tm) 5.0/95</description>
+				<description xml:lang="lt">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="mk">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="ml">MS എക്സല് (tm) 5.0/95</description>
+				<description xml:lang="ms">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="nb">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="ne">एमएस एक्सेल (टीएम) ५.०/९५</description>
+				<description xml:lang="nl">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="nn">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="pl">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="pt">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="pt_BR">MS Excel™ 5.0/95</description>
+				<description xml:lang="ru">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="sk">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="sl">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="sr">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="sr@latin">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="sv">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="tr">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="vi">MS Excel™ 5.0/95</description>
+				<description xml:lang="zh_CN">MS Excel (tm) 5.0/95</description>
+				<description xml:lang="zh_TW">微軟 Excel™ 5.0/95</description>
+			</information>
+		</service>
+		<service type="file_saver" overwrite_files="TRUE" mime_type="application/vnd.ms-excel" id="excel_dsf" format_level="auto" file_extension="xls">
+			<information>
+				<description>MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="ast">MS Excel™ 97/2000/XP y 5.0/95</description>
+				<description xml:lang="bg">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="ca">MS Excel (tm) 97/2000/XP i 5.0/95</description>
+				<description xml:lang="ca@valencia">MS Excel (tm) 97/2000/XP i 5.0/95</description>
+				<description xml:lang="cs">MS Excel™ 97/2000/XP a 5.0/95</description>
+				<description xml:lang="da">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="de">MS Excel (tm) 97/2000/XP u. 5.0/95</description>
+				<description xml:lang="dz">ཨེམ་ཨེསི་ ཨེགསི་སེལ་ (ཊི་ཨེམ་) ༩༧/༢༠༠༠/ཨེགསི་པི་ &amp; ༥.༠/༩༥</description>
+				<description xml:lang="el">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="en_CA">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="en_GB">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="es">MS Excel™ 97/2000/XP y 5.0/95</description>
+				<description xml:lang="et">MS Excel (tm) 97/2000/XP ja 5.0/95</description>
+				<description xml:lang="eu">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="fi">MS Excel™ 97/2000/XP ja 5.0/95</description>
+				<description xml:lang="fr">MS Excel™ 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="gu">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="he">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="hu">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="id">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="it">MS Excel™ 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="ja">MS Excel (tm) 97/2000/XP 及び 5.0/95 ファイル形式</description>
+				<description xml:lang="kk">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="ko">MS 엑셀 (tm) 97/2000/XP 및 5.0/95</description>
+				<description xml:lang="lt">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="mk">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="nb">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="ne">एमएस एक्सेल (टीएम) ९७/२०००/एक्स पी &amp; ५.०/९५</description>
+				<description xml:lang="nl">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="nn">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="pt">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="pt_BR">MS Excel™ 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="ru">MS Excel (tm) 97/2000/XP и 5.0/95</description>
+				<description xml:lang="sl">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="sv">MS Excel (tm) 97/2000/XP och 5.0/95</description>
+				<description xml:lang="vi">MS Excel™ 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="zh_CN">MS Excel (tm) 97/2000/XP &amp; 5.0/95</description>
+				<description xml:lang="zh_TW">微軟 Excel™ 97/2000/XP 及 5.0/95</description>
+			</information>
+		</service>
+
+		
+		<service type="file_opener" probe="TRUE" priority="1" id="excel_xml">
+			<information>
+				<description>MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="ast">MS Excel™ 2003 SpreadsheetML</description>
+				<description xml:lang="ca">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="ca@valencia">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="cs">MS Excel™ 2003 SpreadsheetML</description>
+				<description xml:lang="da">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="de">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="dz">ཨེམ་ཨེསི་ ཨེགསི་སེལ་ (ཊི་ཨེམ་) ༢༠༠༣ ཤོག་ཁྲམ་ཨེམ་ཨེལ་</description>
+				<description xml:lang="el">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="en_GB">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="es">MS Excel™ 2003 SpreadsheetML</description>
+				<description xml:lang="et">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="eu">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="fi">MS Excel™ 2003 SpreadsheetML</description>
+				<description xml:lang="fr">MS Excel™ 2003 Feuille de calcul ML</description>
+				<description xml:lang="gu">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="he">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="hu">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="kk">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="lt">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="mk">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="nb">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="ne">एमएस एक्सेल (टीएम) २००३ स्प्रेडशिट एमएल</description>
+				<description xml:lang="nl">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="pt_BR">MS Excel™ 2003 SpreadsheetML</description>
+				<description xml:lang="ru">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="sl">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="sv">MS Excel (tm) 2003 SpreadsheetML</description>
+				<description xml:lang="vi">MS Excel™ 2003 SpreadsheetML</description>
+				<description xml:lang="zh_TW">微軟 Excel™ 2003 SpreadsheetML</description>
+			</information>
+			<suffixes>
+				<suffix>xml</suffix>
+			</suffixes>
+		</service>
+
+		
+		<service type="file_opener" probe="TRUE" priority="100" id="xlsx">
+			<information>
+				<description>MS Excel (tm) 2007</description>
+				<description xml:lang="ast">MS Excel™ 2007</description>
+				<description xml:lang="ca">MS Excel (tm) 2007</description>
+				<description xml:lang="ca@valencia">MS Excel (tm) 2007</description>
+				<description xml:lang="cs">MS Excel™ 2007</description>
+				<description xml:lang="da">MS Excel (tm) 2007</description>
+				<description xml:lang="de">MS Excel (tm) 2007</description>
+				<description xml:lang="dz">ཨེམ་ཨེསི་ ཨེགསི་སེལ་ (ཊི་ཨེམ་) ༢༠༠༧</description>
+				<description xml:lang="el">MS Excel (tm) 2007</description>
+				<description xml:lang="en_GB">MS Excel (tm) 2007</description>
+				<description xml:lang="es">MS Excel™ 2007</description>
+				<description xml:lang="et">MS Excel (tm) 2007</description>
+				<description xml:lang="eu">MS Excel (tm) 2007</description>
+				<description xml:lang="fi">MS Excel™ 2007</description>
+				<description xml:lang="fr">MS Excel™ 2007</description>
+				<description xml:lang="gu">MS Excel (tm) 2007</description>
+				<description xml:lang="he">MS Excel (tm) 2007</description>
+				<description xml:lang="hu">MS Excel (tm) 2007</description>
+				<description xml:lang="kk">MS Excel (tm) 2007</description>
+				<description xml:lang="lt">MS Excel (tm) 2007</description>
+				<description xml:lang="mk">MS Excel (tm) 2007</description>
+				<description xml:lang="nb">MS Excel (tm) 2007</description>
+				<description xml:lang="ne">एमएस एक्सेल (टीएम) २००७</description>
+				<description xml:lang="nl">MS Excel (tm) 2007</description>
+				<description xml:lang="pt_BR">MS Excel™ 2007</description>
+				<description xml:lang="ru">MS Excel (tm) 2007</description>
+				<description xml:lang="sl">MS Excel (tm) 2007</description>
+				<description xml:lang="sv">MS Excel (tm) 2007</description>
+				<description xml:lang="vi">MS Excel™ 2007</description>
+				<description xml:lang="zh_TW">微軟 Excel™ 2007</description>
+			</information>
+			<suffixes>
+				<suffix>xlsx</suffix>
+				<suffix>xltx</suffix>
+				<suffix>xlsb</suffix>
+				<suffix>xlsm</suffix>
+				<suffix>xltm</suffix>
+			</suffixes>
+
+		</service>
+
+		<service type="file_saver" overwrite_files="TRUE" id="xlsx" format_level="auto" file_extension="xlsx">
+			<information>
+				<description>MS Excel (tm) 2007 (ECMA 376 1st edition (2006))</description>
+			</information>
+		</service>
+
+		<service type="file_saver" overwrite_files="TRUE" id="xlsx2" format_level="auto" file_extension="xlsx">
+			<information>
+				<description>MS Excel (tm) 2010 (ECMA 376 2nd edition (2008))</description>
+			</information>
+		</service>
+	</services>
+</plugin>

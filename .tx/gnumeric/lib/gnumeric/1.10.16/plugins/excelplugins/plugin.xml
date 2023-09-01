@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="Gnumeric_excelplugins">
+	<information>
+		<name>Excel plugins</name>
+		<name xml:lang="cs">Zásuvné moduly Excel</name>
+		<name xml:lang="da">Udvidelsesmoduler til Excel</name>
+		<name xml:lang="de">Excel-Plugins</name>
+		<name xml:lang="el">Πρόσθετες λειτουργίες Excel</name>
+		<name xml:lang="en_GB">Excel plugins</name>
+		<name xml:lang="es">Complementos de excel</name>
+		<name xml:lang="fi">Excel-liitännäiset</name>
+		<name xml:lang="fr">Greffons Excel</name>
+		<name xml:lang="lt">Excel papildiniai</name>
+		<name xml:lang="nb">Excel-tillegg</name>
+		<name xml:lang="ru">Дополнения Excel</name>
+		<name xml:lang="sl">Vstavki Excel</name>
+		<name xml:lang="zh_TW">Excel 外掛</name>
+		<description>Adapter interface to load Excel plugins (also known as XLLs). Only operational for worksheet functions that expect only arguments of LPXLOPER type (type 'P' or 'R') and return an LPXLOPER (type 'P' or 'R').</description>
+		<description xml:lang="cs">Rozhraní adaptéru pro načítání zásuvných modulů Excel (známých také jako XLLs). Funkční pouze pro funkce sešitu, které očekávají jen argumenty typu LPXLOPER (typ „P“ nebo „R“) a vrací LPXLOPER (typ „P“ nebo „R“).</description>
+		<description xml:lang="de">Adapterschnittstelle zum Laden von Excel-Plugins (auch als XLLs bekannt). Funktioniert nur für Arbeitsblattfunktionen, die nur Argumente des Typs LPXLOPER erwarten (Typ »P« oder »R«) und den Typ LPXLOPER (Tye »P« oder »R«) zurückgeben.</description>
+		<description xml:lang="el">Διεπαφή προσαρμογής για τη φόρτωση πρόσθετων λειτουργιών Excel (γνωστών και ως XLL). Είναι λειτουργική μόνο για συναρτήσεις φύλλων εργασίας που δέχονται μόνο ορίσματα με τύπο LPXLOPER (τύπος 'P' ή 'R') και επιστρέφει ένα LPXLOPER (τύπος 'P' ή 'R').</description>
+		<description xml:lang="en_GB">Adapter interface to load Excel plugins (also known as XLLs). Only operational for worksheet functions that expect only arguments of LPXLOPER type (type 'P' or 'R') and return an LPXLOPER (type 'P' or 'R').</description>
+		<description xml:lang="es">Interfaz de adaptación para cargar complementos Excel (también conocidos como XLL). Sólo válida para hojas de trabajo de funciones que esperan exclusivamente argumentos de tipo LPXLOPER (tipo «P» o «R»)  y devuelven un LPXLOPER (tipo «P» o «R»).</description>
+		<description xml:lang="fi">Sovitinrajapinta Excel-liitännäisten (XLL) lataamiseen. Toimii vain taulukkofunktioissa, jotka odottavat vain LPXLOPER-tyypin (tyyppi P tai R) argumentteja ja palauttavat LPXLOPER (tyyppi P tai R) -objektin.</description>
+		<description xml:lang="fr">Interface d'adaptation pour charger les greffons Excel (également connu sous le nom XLL). Opérationnel seulement pour les fonctions tableurs qui ne prennent que des paramètres de type LPXLOPER (type « P » ou « R ») et retournent un LPXLOPER (type « P » ou « R »).</description>
+		<description xml:lang="lt">Excel papildinių (dar žinomų kaip XLL) įkėlimo sąsaja. Veikia tik tos lakštų funkcijos, kurios priima LPXLOPER tipo argumentus ('P' arba 'R' tipas) ir išveda LPXLOPER ('P' arba 'R' tipas).</description>
+		<autoload/>
+	</information>
+	<loader type="Gnumeric_Builtin:module">
+		<attribute value="plugin" name="module_file"/>
+	</loader>
+</plugin>
