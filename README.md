@@ -47,8 +47,8 @@ Get your text into `SphinxText.xls` either via the Transifex scripts or just typ
 
 In more detail, here are the steps:
 1. Make a Transifex account to translate the project via the web interface.
-2. Run `tx.cmd` to automatically download/pull the latest translation progress from the site.
-   * The first time around it will ask you for a secret code that you need to generate from [here](https://www.transifex.com/user/settings/api/) and paste it into the window. The code looks like this: `1/1290349033429802359034903402339040767759`.
+2. Run `tx.cmd` to automatically download/pull the latest translation progress from the site and write it into `SphinxText.xls`.
+   * The first time around it will ask you for a secret code that you need to generate from [here](https://www.transifex.com/user/settings/api/), paste it into the window by right-clicking once and then press *Enter*. The code looks like this: `1/1290349033429802359034903402339040767759`.
 1. Double-click to run `mount-virtual-x-drive.bat` from the `_mod` folder.
    * Now you should have a new `X:` drive in *My PC* with the same files you see under `_mod`; they are mirrored.
    * You will only need to do this once, when the drive is missing.
