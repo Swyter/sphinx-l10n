@@ -43,7 +43,7 @@ tx.sh && python sphinx-l10n-import.py && ssconvert SphinxTextImported.csv Sphinx
 
  # Making a mod on Windows + pulling from Transifex
 
-Get your text into `SphinxText.xls` either via the Transifex scripts or just typing in *Excel* or *LibreOffice* (free). Open `TextMod.elf` with *Euroland Redux* and output (export) the PC version of `Text.edb`, the game will read it and you can ship the `_mod` folder as a standalone mod.
+Get your text into `SphinxText.xls` either via the Transifex scripts or just typing in *Excel* or *LibreOffice* (free). Open `TextMod.elf` with *Euroland Redux* and output (export) the PC version of `Text.edb`, the game will read it and you can ship the `_mod` folder as a standalone mod. To see how it works from the game side, see the [*Localization*](https://sphinxandthecursedmummy.wikia.com/wiki/Localization) wiki page.
 
 In more detail, here are the steps:
 1. Make a Transifex account to translate the project via the web interface.
