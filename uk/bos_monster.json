@@ -12,13 +12,13 @@
     "message": "Сила Атаки"
   },
   "HT_Text_BOS_Monster_DefenceRating": {
-    "message": "Захищеність"
+    "message": "Захист"
   },
   "HT_Text_BOS_Monster_DR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Чим більший рейтинг захисту вашого монстра, тим більше ударів він може витримати під час бою.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Чим більший рейтинг захисту  монстра, тим більше ударів він може витримати під час бою.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_AR_Exp": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Чим більше рейтинг атаки вашого монстра, тим більше шкоди він може завдати противникам.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Чим більший рейтинг атаки  монстра, тим більше шкоди він завдає.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_Monster_Health_Exp": {
     "message": "<ES HT_Text_ES_S_BOSStd>Це здоров'я вашого монстра. Якщо він повністю втратить своє здоров’я, ви більше не зможете його використовувати, поки не захопите іншого!<ES HT_Text_ES_E_BOSStd>"

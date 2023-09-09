@@ -12,7 +12,7 @@
     "message": "Яку рукавицю ви хотіли б спробувати?<N> <B 1> Рукавиця 1<N> <B 2> Рукавица 2<E>"
   },
   "HT_Text_MG_WallDodge_Choose2": {
-    "message": "Яку рукавицю ви хотіли б спробувати?<N> <B 1> Рукавиця 1<N> <B 2> Рукавиця 2<N> <B 3> Рукавица 3<E>"
+    "message": "Яку Арену ви хотіли б спробувати?<N> <B 1> Арена 1<N> <B 2> Арена 2<N> <B 3> Арена 3<E>"
   },
   "HT_Text_MG_WallDodge_NotReady": {
     "message": "Ви ще не готові до цього.<E>"
@@ -24,7 +24,7 @@
     "message": "Неймовірно! Ви завершили його за <FC 0,128,0><SO HT_Objective_WallDodge_Time> секунд<END FC>! Це новий рекорд!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed1": {
-    "message": "Ви заслуговуєте на винагороду за ці зусилля.<N>Ви виграєте <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Скарабеїв<END FC>!<E>"
+    "message": "Ви заслуговуєте на винагороду за ці зусилля.<N>Ви отримаєте <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Скарабеїв<END FC>!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed2": {
     "message": "Відмінний час!<N>Ваш грошовий приз становить <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Скарабеїв<END FC>!<E>"
@@ -39,7 +39,7 @@
     "message": "Нормальний результат, ви завершили це за <FC 0,128,0><SO HT_Objective_WallDodge_Time> секунд<END FC>. Але ви можете покращити час...<P>Ваш найшвидший час — <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> секунд<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_HighScores": {
-    "message": "<DP><DHP><END TT><CNTR>Рукавиця 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>Рукавиця 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC> <N>Рукавиця 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>"
+    "message": "<DP><DHP><END TT><CNTR>Арена 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>Арена 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC> <N>Арена 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>"
   },
   "HT_Text_MG_WallDodge_Test": {
     "message": "Ласкаво просимо до <FC 128,64,0>Коридора чемпіонів<END FC>.<P>Тут справжні герої можуть перевірити свої здібності. Ви хочете протистояти нашій рукавичці?<N> <B 1> Так<N> <B 2> Ні<E>"
@@ -48,31 +48,31 @@
     "message": "Сміливий і благородний вибір! Однак, перш ніж ви зможете продовжити, ви повинні пройти невеликий тест.<E>"
   },
   "HT_Text_MG_WallDodge_TestYesPearl": {
-    "message": "Поверніть мені цей <FC 0,128,0>Діамант<END FC> за огорожею протягом <FC 0,128,0>20 секунд<END FC>, і ви доведете, що здатні впоратися з рукавичкою.<E>"
+    "message": "Дістаньте цей <FC 0,128,0>Діамант<END FC> за огорожею протягом <FC 0,128,0>20 секунд<END FC>, і ви доведете, що здатні впоратися з ареною.<E>"
   },
   "HT_Text_MG_WallDodge_TestNo": {
-    "message": "Добре, <FC 128,64,0>Коридор чемпіонів<END FC> не для всіх.<E>"
+    "message": "Добре, <FC 128,64,0>Коридор Чемпіонів<END FC> не для всіх.<E>"
   },
   "HT_Text_MG_WallDodge_TestComplete": {
     "message": "Відмінно, ви склали тест.<E>"
   },
   "HT_Text_MG_WallDodge_TestFail": {
-    "message": "Цілком зрозуміло, що ви не готові зустріти рукавичку. Поверніться, коли ви отримаєте навички здобути <FC 0,128,0>Діамант<END FC>.<E>"
+    "message": "Схоже, ви не готові до Арени. Поверніться, коли ви отримаєте навички здобути <FC 0,128,0>Діамант<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_TestInProgress": {
     "message": "У вас залишилося лише кілька секунд!<E>"
   },
   "HT_Text_MG_WallDodge_TestGiveUp": {
-    "message": "Якщо ви не можете виконати тест, ви не можете випробувати рукавичку. Повертайся, коли  зможеш зробити все успішно... <E>"
+    "message": "Якщо ви не можете виконати тест, то я допущу вас до Арени. Повертайтесь, коли  зможете зробити все успішно... <E>"
   },
   "HT_Text_MG_WallDodge_NoMoney": {
     "message": "Що ти намагаєшся зробити? У тебе немає 10 <FC 0,128,0>Скарабеїв<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_GameComplete": {
-    "message": "Ви впоралися з рукавичкою! Ви справжній чемпіон!<P>Ось <FC 0,128,0>Медаль чемпіона<END FC>, якою нагороджуються лише тих, хто зуміє подолати рукавичку.<E>"
+    "message": "Ви впоралися з Ареною! Ви справжній чемпіон!<P>Ось <FC 0,128,0>Медаль чемпіона<END FC>, якою нагороджуються лише ті, хто зуміє подолати шлях.<E>"
   },
   "HT_Text_MG_Shooting_Start": {
-    "message": "Ласкаво просимо до таверни <FC 128,64,0>Таверна Тефнутової мішені<END FC>. Гра коштує <FC 0,128,0>10 Скарабеїв<END FC>.<P>Хочете пограти?<N> <B 1> Так<N> <B 2> Ні, дякую<E>"
+    "message": "Ласкаво прошу до таверни <FC 128,64,0>Таверна Тефнутової мішені<END FC>. Гра коштує <FC 0,128,0>10 Скарабеїв<END FC>.<P>Хочете пограти?<N> <B 1> Так<N> <B 2> Ні, дякую<E>"
   },
   "HT_Text_MG_Shooting_Instructions": {
     "message": "Стріляйте по мішенях, щоб заробити очки. Влучання по черепах віднімають очки та час.<E>"
@@ -81,7 +81,7 @@
     "message": "Не дуже погано. Ви вразили багато цілей. <P>Однак раніше ви досягали кращих результатів, ніж <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> очок<END FC>.<P>Як приз за ваш рахунок, ось <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> скарабеїв <END FC>. Не соромтеся спробувати ще раз, якщо вважаєте, що можете зробити краще.<E>"
   },
   "HT_Text_MG_Shooting_Won_HighScore": {
-    "message": "Ви досягли нового рекорду з <FC 0,128,0><SO HT_Objective_Shooting_Score1> очок<END FC>! Ваші результати будуть додані до настінної діаграми для нащадків.<P>Як приз за такий високий результат, ось <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Скарабеїв<END FC>!<E>"
+    "message": "Ви досягли нового рекорду з <FC 0,128,0><SO HT_Objective_Shooting_Score1> очок<END FC>! Ваші результати будуть додані до настінної грамоти для нащадків.<P>Як приз за такий високий результат, ось <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Скарабеїв<END FC>!<E>"
   },
   "HT_Text_MG_Shooting_Lost": {
     "message": "Отакої! Це було справді жахливо! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> балів<END FC> жалюгідно! Можливо, вам потрібно ще трохи практики?<E>"
@@ -93,7 +93,7 @@
     "message": "<DP><DHP><END TT>Ваш найкращий результат: <FC 0,128,0><SO HT_Objective_Shooting_Score1> балів<END FC>!"
   },
   "HT_Text_MG_Shooting_NoMoney": {
-    "message": "Я сказав <FC 0,128,0>10 Скарабеїв<END FC>, це не <FC 0,128,0>10  Скарабеїв<END FC>! Більше немає, чи не так?<E>"
+    "message": "Я сказав <FC 0,128,0>10 Скарабеїв<END FC>, але це не <FC 0,128,0>10  Скарабеїв<END FC>! Більше немає, чи не так?<E>"
   },
   "HT_Text_MG_Shooting_GameComplete": {
     "message": "Ви довели свою майстерність <FC 0,128,0>Трубкою<END FC>! Мені приємно вручити вам <FC 0,128,0>Медаль стрільця<END FC>. Молодець.<E>"
@@ -117,7 +117,7 @@
     "message": "Пройдіть до магічної платформи. Спробуйте запам’ятати послідовність, яка з’являється перед вами.<P>Скопіюйте послідовність, щоб виграти.<N>Ви можете переглянути кожну послідовність знову, стрибнувши на центральну платформу, але лише один раз.<E>"
   },
   "HT_Text_MG_Simon_Fail": {
-    "message": "Ні,ні,ні! Тільки не це! Невдала спроба...<E>"
+    "message": "Яка невдача... Спробуйте знов, або прийдіть пізніше...<E>"
   },
   "HT_Text_MG_Simon_Succeed": {
     "message": "Вітаю! Ви пройшли раунд <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>!<E>"
@@ -150,7 +150,7 @@
     "message": "<DHP><DP><END TT>Ви ще не проходили цю гру... <END FC>"
   },
   "HT_Text_MG_Pairs_Win": {
-    "message": "Щиро вітаю! Ви виграли <FC 0,128,0><SO HT_Objective_Pairs_Won> Scarabs<END FC>!<E>"
+    "message": "Щиро вітаю! Ви виграли <FC 0,128,0><SO HT_Objective_Pairs_Won> Скарабеїв<END FC>!<E>"
   },
   "HT_Text_MG_Pairs_Restart": {
     "message": "Ви в грі! Чого ви хочете?<N> <B 1> Вийти<ПК 1><B 2> Перезавантажити<N> <B 3> Продовжити<ПК 1><B 4> Інструкції<E>"
@@ -171,7 +171,7 @@
     "message": "Ти отримав все! Призи закінчились!<E>"
   },
   "HT_Text_MG_Pairs_WinInstructions": {
-    "message": "Якщо ви зможете завершити гру протягом <FC 0,128,0>60 секунд<END FC>, ви доведете, що гідні <FC 0,128,0>Медалі пам’яті<END FC>.<E>"
+    "message": "Якщо закінчите гру протягом <FC 0,128,0>60 секунд<END FC>, ви доведете, що гідні <FC 0,128,0>Медалі Пам’яті<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_GameComplete": {
     "message": "І ви заслужили <FC 0,128,0>Медаль Пам'яті<END FC>!<E>"
@@ -189,7 +189,7 @@
     "message": "<N><CNTR>---[ <FC 0,128,0>Циклоп<END FC> ]---<P>Назване так через своє єдине око, здатне заряджати вогняні стріли, телепортуватись і копіювати самого себе.< P>Через поєднання кольору шкіри та волосся іноді їх плутали з певним коренеплодом...<E>"
   },
   "HT_Text_Museum_BM12_slim_burble": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Тощий бурбл<END FC> ]---<P>Тощий бурбл, маює більш гнучкі кінцівки порівняно з іншими Бурблами, відкладає яйця дуже швиидко. <P>Мешкає в лабиринтах, побудованих біля підніжжя скель, його запальний темперамент відходить від дієти, яка в основному складається зі свіжої лави.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Малий Бурбл<END FC> ]---<P>Малий Бурбл, маює більш гнучкі кінцівки порівняно з іншими Бурблами, відкладає яйця дуже швиидко. <P>Мешкає в лабиринтах, побудованих біля підніжжя скель, його запальний темперамент відходить від дієти, яка в основному складається зі свіжої лави.<E>"
   },
   "HT_Text_Museum_BR04_Goofy_Lizard": {
     "message": "<N><CNTR>---[ <FC 0,128,0>Гуфі Ящірка<END FC> ]---<P>Поведінка Гуфі ящірки свідчить про повну відсутність здорового глузду, що відповідає лише їхній очевидній відсутності координації. <P>Найпопулярніша домашня тварина з існуючих.<E>"
@@ -327,7 +327,7 @@
     "message": "Циклоп! Милий на вигляд, але дуже пустотливий."
   },
   "HT_Text_Museum_Name_BM12_slim_burble": {
-    "message": "Тощий бурбл! Швидкий розплідник, а також вибуховий!"
+    "message": "Малий Бурбл! Швидкий розплідник, а також вибуховий!"
   },
   "HT_Text_Museum_Name_BR04_Goofy_Lizard": {
     "message": "Гуфі ящірка! Це хитра, але доброзичлива тварина."
@@ -465,19 +465,19 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Нову примітку додано до<N><FC 0,128,0>Книги Сфінкса<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter2Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрала в <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>Статую Атуна<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Кажуть, що ця золота статуя має магічну силу.<P><ES HT_Text_ES_S_HelpText> <N><CNTR>Ви отримали другу <FC 0,128,0>викрадену коштовність Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Куратори музею <FC 128,64,0>Абідосу<END FC ><N>будуть дуже раді це побачити.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрв у <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>Статую Атуна<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Кажуть, що ця золота статуя має магічну силу.<P><ES HT_Text_ES_S_HelpText> <N><CNTR>Ви отримали другу <FC 0,128,0>викрадену коштовність Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Куратори музею <FC 128,64,0>Абідосу<END FC ><N>будуть дуже раді це побачити.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter3Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрала в <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>Сумку для ліківт<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Цей пакет із спеціальною підкладкою зберігає будь-які<N>делікатні лікарські інгредієнти, поміщені всередину.< P><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали третю <FC 0,128,0>Викрадену коштовність Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Куратори <FC 128,64,0 >Абідоського музею<END FC><N>будуть дуже раді це побачити.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрала в <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>Сумку для ліків<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Цей пакет із спеціальною підкладкою зберігає будь-які<N>делікатні лікарські інгредієнти, поміщені всередину.< P><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали третю <FC 0,128,0>Викрадену коштовність Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Куратори <FC 128,64,0 >Абідоського музею<END FC><N>будуть дуже раді це побачити.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter4Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрала в <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>Руки Амона<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Цей артефакт дає Сфінксу силу<N>штовхати та тягнути надзвичайно важкі предмети.<P ><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали четверту <FC 0,128,0>Викрадену коштовність Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Куратори <FC 128,64,0> Абідоський музей<END FC><N>буде дуже радий побачити це.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрв у <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>Руки Амона<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Цей артефакт дає Сфінксу силу<N>штовхати та тягнути надзвичайно важкі предмети.<P ><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали четверту <FC 0,128,0>Викрадену коштовність Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Куратори <FC 128,64,0> Абідоський музей<END FC><N>буде дуже радий побачити це.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter5Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрала в <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>королівське запрошення<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Цей офіційна перепустка на<N>зустріч з фараоном <FC 128,64, 0>Геліополісу<END FC>.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали п’яту <FC 0,128,0>викрадену коштовність Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> куратори <FC 128,64,0>Абідоського музею<END FC><N>будуть дуже раді побачити це.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрв у <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>королівське запрошення<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Цей офіційна перепустка на<N>зустріч з фараоном <FC 128,64, 0>Геліополісу<END FC>.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали п’яту <FC 0,128,0>викрадену коштовність Абідосу<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR> куратори <FC 128,64,0>Абідоського музею<END FC><N>будуть дуже раді побачити це.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter6Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрала в <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>Священну корону Сету<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ви отримали шосту <FC 0,128,0>викрадену коштовність Абідосу<END FC>! <P><ES HT_Text_ES_S_HelpText><CNTR>Куратори <FC 128,64,0>Абідоського музею<END FC><N>будуть дуже раді побачити це.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали предмети, які Мумія<N>зібрв у <FC 128,64,0>замку Урук<END FC>...<P><ES HT_Text_ES_S_HelpText><N ><CNTR>Ви отримали <FC 0,128,0>Священну корону Сету<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ви отримали шосту <FC 0,128,0>викрадену коштовність Абідосу<END FC>! <P><ES HT_Text_ES_S_HelpText><CNTR>Куратори <FC 128,64,0>Абідоського музею<END FC><N>будуть дуже раді побачити це.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_AtunDisc": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Це стародавній <FC 0,128,0>Диск Атуна<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Це магічна точка, якщо пройти біля неї, вона надає таємничу енергію, яка дає вам змогу бігати на дуже високій швидкості.<P><ES HT_Text_ES_S_HelpText><CNTR>На жаль, ефект лише тимчасовий, але вони ефективні для пересування <FC 128,64,0>Геліополісом<END FC> більш ефективно.<E>"
@@ -489,22 +489,22 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>У вас <FC 0,128,0>4 Ока Атуна<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Вони виглядають так, ніби помістилися б в очниці<N> якась статуя.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotDoubleJump": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Крила Ібіса<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>За допомогою цього магічного артефакту Сфінкс може<N>виконати другий стрибок, щоб досягти більшої<N>висоти та відстані!<P><CNTR><ES HT_Text_ES_S_HelpText>Натисніть <SB HT_Action_Jump>, щоб стрибнути,<N>потім знову натисніть <SB HT_Action_Jump> у повітрі<N>до <FC 0,128 ,0>САЛЬТО<END FC>.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Крила Ібіса<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>За допомогою цього магічного артефакту Сфінкс може<N>виконати другий стрибок, щоб досягти більшої<N>висоти та відстані!<P><CNTR><ES HT_Text_ES_S_HelpText>Натисніть <SB HT_Action_Jump>, щоб стрибнути,<N>потім знову натисніть <SB HT_Action_Jump> у повітрі<N>для <FC 0,128 ,0>САЛЬТО<END FC>.<E>"
   },
   "HT_Text_Gen_Help_GotShieldOfOsiris": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Щит Осіріса<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Цей магічний щит використовував у битві<N>великий бог Осіріс.<P><ES HT_Text_ES_S_HelpText><CNTR>Використовуйте щит, щоб захистити себе від<N>багатьох типів ворожих атак та інших небезпек.<P><ES HT_Text_ES_S_HelpText><CNTR>Щоб спорядити <FC 0,128,0>Щит Озіріса<END FC> скористайтеся <N><SB HT_PadAction_HUD_ShowRotator>, щоб вибрати елемент...<P><ES HT_Text_ES_S_HelpText><CNTR>...потім натисніть кнопку, якій<N>бажаєте призначити елемент.<P><CNTR><ES HT_Text_ES_S_HelpText>Після призначення натисніть і утримуйте<N>відповідну кнопку, щоб захиститися.<P><ES HT_Text_ES_S_HelpText><CNTR>Під час захисту використовуйте <N><SB HT_PadAction_PLR_MovePlr> аби націлити щит.<E>"
   },
   "HT_Text_Gen_Help_GotBlowpipe": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Трубку<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Чарівні дротики, випущені з цього потужного інструменту,<N>регенерують, що дає вам нескінченний запас.<P><ES HT_Text_ES_S_HelpText><CNTR>Дротиками можна вражати віддалені цілі, але вони<N>достатні лише для того, щоб пошкодити вибухонебезпечних монстрів.<P><ES HT_Text_ES_S_HelpText><N><CNTR> Використовуйте <SB HT_PadAction_HUD_ShowRotator>, щоб призначити <FC 0,128,0>Blowpipe<END FC> кнопці.<P><ES HT_Text_ES_S_HelpText><CNTR>Після призначення <FC 0,128,0>Blowpipe<END FC> натисніть <N>кнопку, щоб увійти в режим від першої особи.<P><ES HT_Text_ES_S_HelpText><CNTR>Натисніть <SB HT_Action_FireDart>, щоб стріляти.<P><ES HT_Text_ES_S_HelpText><CNTR>Натисніть <SB HT_Action_Cancel>, щоб вийти<N>з режиму <FC 0,128,0>стрільби<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Трубку<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Чарівні дротики, випущені з цього потужного інструменту,<N>регенерують, що дає вам нескінченний запас.<P><ES HT_Text_ES_S_HelpText><CNTR>Дротиками можна вражати віддалені цілі, але вони<N>достатні лише для того, щоб пошкодити вибухонебезпечних монстрів.<P><ES HT_Text_ES_S_HelpText><N><CNTR> Використовуйте <SB HT_PadAction_HUD_ShowRotator>, щоб призначити <FC 0,128,0>Трубці<END FC> кнопку.<P><ES HT_Text_ES_S_HelpText><CNTR>Після призначення <FC 0,128,0>Трубки<END FC> натисніть <N>кнопку, щоб увійти в режим від першої особи.<P><ES HT_Text_ES_S_HelpText><CNTR>Натисніть <SB HT_Action_FireDart>, щоб стріляти.<P><ES HT_Text_ES_S_HelpText><CNTR>Натисніть <SB HT_Action_Cancel>, щоб вийти<N>з режиму <FC 0,128,0>стрільби<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHandsOfAmun": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Руки Амона<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Цей артефакт дає Сфінксу силу<N>штовхати та тягнути надзвичайно важкі предмети.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotMummyCash": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0><SO HT_Objective_Mum_CashCollected> Оніксові Скарабеї<END FC>, які<N>Мумія зібрав в <FC 128,64,0>Замку Урук< END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0><SO HT_Objective_Mum_CashCollected> Оніксових Скарабеїв<END FC>, які<N>Мумія зібрав в <FC 128,64,0>Замку Урук< END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetlePouch": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Сумку для жуків<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Вона містить до<N><FC 0,128 ,0>20 Жуків-Ловців<END FC>, яких можна використовувати<N>для захоплення багатьох різних видів монстрів.<P><ES HT_Text_ES_S_HelpText><CNTR>Щоб захопити монстра, ви повинні спочатку атакувати його, доки<N> він не стане вразливим для захоплення<N>.<P><ES HT_Text_ES_S_HelpText><CNTR>Якщо монстр стане вразливим, то засвітиться жовтим, випустіть жука-ловця. Наведіть жука на монстра за допомогою <SB HT_PadAction_PLR_MoveBeetle>.<P><ES HT_Text_ES_S_HelpText><CNTR>Коли жук зіткнеться з монстром, він буде схоплений і доданий до вашого інвентарю!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Сумку для жуків<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Вона містить до<N><FC 0,128 ,0>20 Жуків-Ловців<END FC>, яких можна використовувати<N>для захоплення багатьох різних видів монстрів.<P><ES HT_Text_ES_S_HelpText><CNTR>Щоб захопити монстра, ви повинні спочатку атакувати його, доки<N> він не стане вразливим для захоплення.<N> <P><ES HT_Text_ES_S_HelpText><CNTR>Якщо монстр стане вразливим, то засвітиться жовтим, випустіть жука-ловця. Наведіть жука на монстра за допомогою <SB HT_PadAction_PLR_MoveBeetle> <P><ES HT_Text_ES_S_HelpText><CNTR>Коли жук зіткнеться з монстром, його буде схоплено і додано до вашого інвентарю!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotScarabPurseUpgrade01": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>велику сумку для скарабеїв<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Тепер ви можете носити до <FC 0,128, 0>900 скарабеїв<END FC>!<ES HT_Text_ES_E_HelpText><E>"
@@ -555,7 +555,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви знайшли <FC 0,128,0>Розетський камінь<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Це дуже зацікавить археолога.<ES HT_Text_ES_E_HelpText> <E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Ключ південної Пустелі<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Це відкриває ворота, що ведуть до<N><N>FC 128 ,64,0>Південної пустелі Геліополіса<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Ключ південної Пустелі<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Це відкриває ворота, що ведуть до <N><FC 128,64,0>Південної пустелі Геліополіса<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey02": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Ключ до воріт Обеліска<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Це відкриває ворота, що ведуть до<N><FC 128 ,64,0>Великого Обеліску Геліополісу<END FC>!<ES HT_Text_ES_E_HelpText><E>"
@@ -564,16 +564,16 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Ключ від дверей печери<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Це відкриває кам’яні двері в печері між<N>< FC 128,64,0>Геліополіс Пойнт<END FC> і <FC 128,64,0>Південний пляж<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPhysiciansNote": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Примітку лікаря<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Вона адресована Кеммету Винахіднику<N>, який живе в <FC 128,64,0>Абідоському каналі<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Записку від Лікаря<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Вона адресована Кеммету Винахіднику,<N> який живе в <FC 128,64,0>Абідоському Каналі<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHealingHerb": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Цілющу траву<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Лікар у <FC 128,64,0> Палатах ради Абідоса<END FC><N>буде дуже радий побачити це.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAtunStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Статую Атуна<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Кажуть, що ця золота статуя має магічну силу.< ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Статую Атуна<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Кажуть, що ця золота статуя має магічну силу.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHathorStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Статую Хатор<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Кажуть, що ця золота статуя має магічну силу.< ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Статую Хатор<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Кажуть, що ця золота статуя має магічну силу.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotMedicineBag": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>сумку для ліків<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ця спеціально обшита сумка збереже будь-які<N>делікатні лікарські інгредієнти, розміщені всередині.<ES HT_Text_ES_E_HelpText><E>"
@@ -615,13 +615,13 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Цей <FC 0,128,0>Камінь прокляття<END FC> неправильного кольору.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>2 камені прокляття<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Кожен з ниє може зняти прокляття<N>< CNTR>з одного мешканця <FC 128,64,0>Проклятого палацу<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>2 камені прокляття<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Кожен з них може зняти прокляття<N>< CNTR>з одного мешканця <FC 128,64,0>Проклятого палацу<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>2 камені прокляття<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Кожен з ниє може зняти прокляття<N>< CNTR>з одного мешканця <FC 128,64,0>Проклятого палацу<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>2 камені прокляття<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Кожен з них може зняти прокляття<N>< CNTR>з одного мешканця <FC 128,64,0>Проклятого палацу<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>3 камені прокляття<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Кожен з ниє може зняти прокляття<N>< CNTR>з одного мешканця <FC 128,64,0>Проклятого палацу<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>3 камені прокляття<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Кожен з них може зняти прокляття<N>< CNTR>з одного мешканця <FC 128,64,0>Проклятого палацу<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletLuxor01": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ви отримали <FC 0,128,0>Таємничий Амулет<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Дивні символи на цьому стародавньому артефакті<N>вказують на транспортування в таємничі місця.<ES HT_Text_ES_E_HelpText><E>"
@@ -654,31 +654,31 @@
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>Бог Порталу транспортує<N>вас до <FC 128,64,0>Акарії<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Бог Порталу транспортує<N>вас до<FC 128,64,0>Геліополіса<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Бог Порталу транспортує<N>вас до <FC 128,64,0>Геліополіса<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedSakkara01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу транспортує<N>вас до<FC 128,64,0>Саккари<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу транспортує<N>вас до <FC 128,64,0>Саккари<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedUruk01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу транспортує<N>вас до<FC 128,64,0>Замку Урук<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу транспортує<N>вас до <FC 128,64,0>Замку Урук<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Бог Порталу транспортує<N>вас до<FC 128,64,0>Вежі Анубіса<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Бог Порталу транспортує<N>вас до <FC 128,64,0>Вежі Анубіса<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу транспортує<N>вас до<FC 128,64,0>Долини Урук<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу транспортує<N>вас до <FC 128,64,0>Долини Урук<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ваша дурість розсмішила Бога Порталу.<N>Ви й так біля<FC 128,64,0>Таємничого Місця<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ваша дурість розсмішила Бога Порталу.<N>Ви й так біля <FC 128,64,0>Таємничого Місця<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ваша дурість розсмішила Бога Порталу.<N>Ви й так біля<FC 128,64,0>Абідосу<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ваша дурість розсмішила Бога Порталу.<N>Ви й так біля <FC 128,64,0>Абідосу<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ваша дурість розсмішила Бога Порталу.<N>Ви й так біля<FC 128,64,0>Геліополісу<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ваша дурість розсмішила Бога Порталу.<N>Ви й так біля <FC 128,64,0>Геліополісу<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ваша дурість розсмішила Бога Порталу.<N>Ви й так біля<FC 128,64,0>Вежі Анубіса<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ваша дурість розсмішила Бога Порталу.<N>Ви й так біля <FC 128,64,0>Вежі Анубіса<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDenied01": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Порталу не дозволяє вам пройти зараз...<E>"

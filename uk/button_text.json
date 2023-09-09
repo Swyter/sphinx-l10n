@@ -6,10 +6,10 @@
     "message": "ВИЙТИ"
   },
   "HT_Text_Button_Select": {
-    "message": "Вибрати опції"
+    "message": "ВИБРАТИ"
   },
   "HT_Text_Button_SpeedUp": {
-    "message": "БІГТИ"
+    "message": "ПРИСКОРИТИСЬ"
   },
   "HT_Text_Button_Attack": {
     "message": "УДАР"
@@ -18,9 +18,9 @@
     "message": "Контекст"
   },
   "HT_Text_Button_Jump": {
-    "message": "Стрибок"
+    "message": "СТРИБОК"
   },
   "HT_Text_Button_NA": {
-    "message": "Невідомо"
+    "message": "NA"
   }
 }
