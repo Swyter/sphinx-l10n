@@ -5,6 +5,15 @@ Fan translation scripts and mod content for Sphinx and the Cursed Mummy.
 > Transifex project and then edit your translation from the web interface. That's it:
 > https://transifex.com/swyter/sphinx-l10n
 
+# Install the *Unofficial Language Pack* from the *Steam Workshop*
+If you just want to play in one of the supported community languages, follow the steps below:
+1. Join [here](https://steamcommunity.com/groups/satcm) first while logged-in to see the beta Steam Workshop page.
+   * Without this you will get an error in the second step.
+2. Click on the green *Subscribe* button [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3138744735) and make sure the base game is installed.
+   * Steam will download the mod automatically.
+3. Copy and paste the launch arguments shown in the [Workshop entry description](https://steamcommunity.com/sharedfiles/filedetails/?id=3138744735#highlightContent) to enable the mod.
+4. Launch the game from Steam, and play.
+   * Remove the launch arguments if you want to play the normal game or any other mod.
 
 # How to use
 
