@@ -1,12 +1,12 @@
 {
   "HT_Text_Urk_3beams_Women_Freed1a": {
-    "message": "Thank you sir, thank you for freeing me. It's been so horrible in here! <E>"
+    "message": "Спасибо, господин! Спасибо, что освободили меня. Здесь было так ужасно! <E>"
   },
   "HT_Text_Urk_3beams_Women_Freed1b": {
-    "message": "I must get back to my husband as soon as possible. He must be out of his mind with worry!<E>"
+    "message": "Я должна вернуться к своему мужу как можно скорее. Он, наверное, с ума сходит от волнения!<E>"
   },
   "HT_Text_Urk_3beams_Women_Freed1c": {
-    "message": "Please, come back with me. I'm sure my husband will be eager to thank the hero who rescued his beloved wife!<E>"
+    "message": "Пожалуйста, вернись со мной. Муж с удовольствием поблагодарит вас за моё спасение!<E>"
   },
   "HT_Text_Uruk_Intro_Entrance1a": {
     "message": "<EFF><EPO>Да, это бесславный <FC 128,64,0>замок Урук<END FC>... <P>Никто не знает, что там за этими стенами... во всяком случае, никто живой. Но я ясно чувствую злую силу этого ужасного здания!<E>"
@@ -24,7 +24,7 @@
     "message": "Сейчас вы оба должны отыскать магический <FC 0,128,0>клинок Осириса<END FC>. Только если вы будете действовать вместе, вы сможете найти его.<E>"
   },
   "HT_Text_Uruk_Intro_Entrance1c2THQ": {
-    "message": "Now, you both need to separate at this point. Horus must continue through the <FC 128,64,0>Uruk<END FC> hills and you, Sphinx, must go through this portal. <E>"
+    "message": "Теперь вам обоим нужно разойтись. Хорус должен пройти через холмы <FC 128,64,0>Урук<END FC>, а ты, Сфинкс, должен пройти через этот портал. <E>"
   },
   "HT_Text_Uruk_Intro_Entrance1d": {
     "message": "Удачи в поисках, мои храбрые искатели приключений!<W 60>"
@@ -33,7 +33,7 @@
     "message": "Думаю, там в скале можно увидеть кое-что интересное. Пойду, осмотрю её. А ты проверь этот участок.<E>"
   },
   "HT_Text_Uruk_Intro_Entrance2a1THQ": {
-    "message": "Good. Action time. I was getting bored with all that talking. I'll go down there and see what I can find; you go through that door. We'll meet in <FC 128,64,0>Heliopolis<END FC>. <E>"
+    "message": "Хорошо. Пора действовать. Мне скучно от всех этих разговоров! Пойду посмотрю, что могу найти. Ты иди через ту дверь. Позже встретимся в <FC 128,64,0>Хелиополисе<END FC>. <E>"
   },
   "HT_Text_Uruk_intro_01a_Horus_TooHigh": {
     "message": "Эй, Сфинкс! Я здесь, у лавового водопада. Иди сюда, мне нужно кое-что показать.<E>"
@@ -42,7 +42,7 @@
     "message": "Хм, высоковато, не так ли? Я не понимаю, почему учитель настоял на том, чтобы ты сопровождал меня. Ты только задерживаешь меня!<E> "
   },
   "HT_Text_Uruk_intro_01_Horus_CallingUpHere2": {
-    "message": "Try and find another way up here. I've found something interesting and I need to show you how it works.<E> "
+    "message": "Найди способ забраться сюда. Здесь есть кое-что интересное, приходи и увидишь сам.<E> "
   },
   "HT_Text_Uruk_intro_01_Horus_CallingUpHere3": {
     "message": "Я смогу найти клинок и без твоей помощи. Ты уж тут сам думай, как сюда забраться.<E>"
@@ -90,7 +90,7 @@
     "message": "<EFF><EPO>Прыгни и схватись за перила, затем используй <SB HT_PadAction_PLR_MovePlr> для перемещения влево и вправо.<P>Чтобы медленно перебраться, слегка нажимай <SB HT_PadAction_PLR_MovePlr>.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
-    "message": "Press <SB HT_Action_Drop> to let go of the rail, but make sure you are safely across the gap first!<E>"
+    "message": "Нажмите <SB HT_Action_Drop>, чтобы отпустить, но сначала убедитесь, что это безопасно!<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_UseRock01": {
     "message": "Сфинкс!! Сюда! Думаю, ты мне всё-таки пригодишься...<W 60>"
@@ -108,7 +108,7 @@
     "message": "Наконец-то я нашёл его! Древний <FC 0,128,0>клинок Осириса<END FC>. Смотри, он лежит вон там, на вершине скалы. Но как нам добраться до него?<E> "
   },
   "HT_Text_Urk_Intro_HorusHD54_Blade01a": {
-    "message": "Look, it's over there on that rock pinnacle.<E>"
+    "message": "Вот там, на скале!<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Blade02": {
     "message": "<FC 0,128,0>Клинок Осириса<END FC> уже близок, но я не вижу способа добраться до него!<E>"
@@ -141,37 +141,37 @@
     "message": "Много лет назад я спрятал <FC 0,128,0>портальный амулет<END FC> на высоком выступе на внешней стороне камеры портала. <E>"
   },
   "HT_Text_Urk_Intro_Help_GotBlade07": {
-    "message": "That amulet will allow you to return swiftly and safely to our temple. <E>"
+    "message": "Этот амулет позволит вам быстро и безопасно вернуться в наш храм. <E>"
   },
   "HT_Text_Urk_Intro_Help_GotBlade08": {
-    "message": "But you must hurry, Sphinx, before you suffer the same fate as Horus!<E>"
+    "message": "Но тебе надо спешить, пока тебя не постигнет та же участь, что и Хоруса!<E>"
   },
   "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed01": {
-    "message": "Alas, you are trapped here in the portal chamber and you do not have the correct <FC 0,128,0>Portal Amulet<END FC>. <E>"
+    "message": "К сожалению, вы попали в ловушку здесь, в камере портала, и у вас нет нужного <FC 0,128,0>амулета портала<END FC>. <E>"
   },
   "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed02": {
-    "message": "We should be grateful that you are still alive. Unfortunately, the defenses of the castle are simply too strong for us. <E>"
+    "message": "Нам невероятно повезло, что ты ещё жив. К сожалению, защита замка слишком сильна для нас. <E>"
   },
   "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed03": {
-    "message": "You failed to collect the amulet that would send you home, but I see you found another <FC 0,128,0>Mysterious Amulet<END FC>.<E>"
+    "message": "Вам не удалось достать амулет, который отправил бы вас домой, но я вижу, что вы нашли другой <FC 0,128,0>таинственный амулет<END FC>.<E>"
   },
   "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed04": {
-    "message": "I have no idea where it will take you but it seems you have no choice. Step up to the magic circle in front of the Portal God and use the amulet.<E>"
+    "message": "Я не знаю, куда он приведёт, но кажется, у вас нет выбора. Подойдите к магическому кругу перед Богом Портала и воспользуйтесь амулетом.<E>"
   },
   "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed05": {
-    "message": "Approach the magic circle in front of the portal and use the amulet.<E>"
+    "message": "Подойдите к магическому кругу перед порталом и используйте амулет.<E>"
   },
   "HT_Text_Urk_Intro_Sphinx_Eye_Expulsed06": {
-    "message": "Sphinx, I only hope it takes you to a safe destination.<E>"
+    "message": "Сфинкс, надеюсь, что он приведёт тебя в безопасное место.<E>"
   },
   "HT_Text_Urk_Intro_Help_GotPortalAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Portal Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This gold artifact was made to honor the Portal God.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>амулет портала<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Этот золотой артефакт был сделан в честь Бога Портала.<E>"
   },
   "HT_Text_Urk_Intro_Help_AmuletAccepted": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to <FC 128,64,0>Luxor<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Бог Портала признаёт ваше предложение и предоставит перемещение в <FC 128,64,0>Люксор<END FC>...<E>"
   },
   "HT_Text_urk_intr_HorusNeedtoShowU": {
-    "message": "Oh, I forgot... you're still developing your skills... this is too high for you.<P> Try and find another way up here, I have to show you how this thing works.<P> How am I supposed to do that with you down there?<E>"
+    "message": "О, я забыл... ты всё ещё развиваешь свои навыки... это слишком тяжело для тебя.<P> Попробуй найти другой путь сюда, я должен показать тебе, как это работает.<P> Как я должен это делать с тобой там, внизу?<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_Hungry ": {
     "message": "Пь-фу! Слишком мясисто!<P>Я умираю с голоду, но я не могу есть ничего, что носит одежду! Слишком много ткани...<N>Если бы только у меня было несколько <FC 0,128,0>кокосов<END FC>... Я уже сто лет не ел <FC 0,128,0>кокосы<END FC>. Мммм... одной мысли о них...<E>"
@@ -183,34 +183,34 @@
     "message": "Эй, ты, с краской на лице! Что это за запах на тебе? Это... да! <FC 0,128,0>Кокосы<END FC>!<P>Можно мне немного?<N>  <B 1> Конечно, угощайся!<N>  <B 2> Нет! Найди себе сам!<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes": {
-    "message": "Delicious! Thanks!<P>I could do with a few more like that. If you get me some more, I might be able to help you... <E> "
+    "message": "Вкуснятина! Спасибо!<P>Я бы хотел ещё несколько таких же. Если вы дадите мне ещё немного, то, возможно, я смогу вам помочь... <E> "
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryNo": {
-    "message": "Then go away and stop taunting me!<E>"
+    "message": "Тогда уходи и прекрати издеваться надо мной!<E>"
   },
   "HT_Text_urk_intr_HorusTalk_01": {
-    "message": "You see the statue with the dripping blood? It is said that this is the Blood of Ra himself.<P>Whoever stands under the blood will be encased in a protective shield which will allow them to walk unharmed on boiling hot lava.<P>However, it is said that the shield only lasts for a short time before wearing off.<E>"
+    "message": "Вы видите статую, с которой капает кровь? Говорят, что это кровь самого Бога Ра.<P>Тот, кто стоит под кровью, будет закован в защитный щит, который позволит ему невредимым ходить по кипящей горячей лаве.<P>Однако, говорят, что щит длится лишь короткое время, прежде чем исчезнуть.<E>"
   },
   "HT_Text_urk_intr_HorusTalk_StoneNear": {
-    "message": "Sphinx! Get that dirty rock away from me! <E>"
+    "message": "Сфинкс! Забери от меня этот грязный камень! <E>"
   },
   "HT_Text_urk_intr_HorusTalk_StoneThrown": {
-    "message": "Hey! You'll have someone's eye out with that! <E>"
+    "message": "Эй! Ты этим кому-то глаз выбьешь! <E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes1": {
-    "message": "Just two more to fill me up.<E>"
+    "message": "Ещё два, чтобы насытиться.<E>"
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes2": {
-    "message": "These taste so good. Just one more should do it.<E> "
+    "message": "Они очень вкусные. Ещё один, пожалуйста.<E> "
   },
   "HT_Text_urk_intr_SpittingToad_InLava_HungryYes3": {
     "message": "О, спасибо! Полегчало!<P>Становись на мой язык, и я помогу добраться туда, куда тебе нужно.<P>Сначала выбери горизонтальное направление, затем вертикальное, и я выплюну тебя в то место, которое ты выбрал.<P>Выбирай с умом. Если скажешь мне плюнуть тебя в лаву, я сделаю именно так!<E> "
   },
   "HT_Text_urk_intr_SpittingToad_InLava_NotEnough": {
-    "message": "I'm still hungry.<E>"
+    "message": "Я всё ещё голоден.<E>"
   },
   "HT_Text_urk_intr_PickupCocoon": {
-    "message": "You got a Cocoon.<E>  "
+    "message": "Вы получили кокон.<E>  "
   },
   "HT_Text_Urk_Intro_Horus_Fall01": {
     "message": "Хм... Большое спасибо Sphinx, ты оказался полезнее, чем я думал. Теперь я могу добраться до <FC 0,128,0>клинка Осириса<END FC>.<E>"
@@ -222,7 +222,7 @@
     "message": "Смотри! Луч!... Он заряжается!!!  <W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall03a": {
-    "message": "This is not good... <W 60>"
+    "message": "Это нехорошо... <W 60>"
   },
   "HT_Text_Urk_Intro_Horus_Fall04": {
     "message": "Сфинкс, это НЕ предвещает ничего хорошего!!<W 60>"
@@ -261,138 +261,138 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Нажмите <SB HT_Action_Grab>, чтобы схватить объект...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...затем используйте <SB HT_PadAction_PLR_MovePlr>, чтобы нажать или потянуть их.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1a": {
-    "message": "<EFF><EPO>Welcome to <FC 128,64,0>Uruk Islands<END FC> Sphinx! My friend Imhotep told me you would be arriving.<P>I know that you are seeking the <FC 0,128,0>Sacred Crown of Uruk<END FC> which is being held by the deadly Geb Queen.<E>"
+    "message": "<EFF><EPO>Добро пожаловать на <FC 128,64,0>острова Урука<END FC>, Сфинкс! Мой друг Имхотеп сказал мне, что ты прибудешь.<P>Я знаю, что ты ищешь <FC 0,128,0>священную корону Урука<END FC>, которую держит смертоносная королева Геб.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1b": {
-    "message": "But first you must overcome a test of mind and body; wisdom and ability.<E>"
+    "message": "Но сначала вы должны преодолеть испытания разума и тела; мудрость и способности.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1c": {
-    "message": "If you are successful, it will mean that you are prepared to overcome the mighty power of the Geb Queen...<E>"
+    "message": "Если вы добьётесь успеха, это будет означать, что вы готовы преодолеть могущественную силу королевы Геб...<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1d": {
-    "message": "...but should you fail, a grim fate awaits you in the temple beyond those doors...<E>"
+    "message": "...но если вы потерпите неудачу, в храме за этой дверью вас ждёт мрачная судьба...<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1e": {
-    "message": "So, do you accept this test?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Итак, вы принимаете это испытание?<N>  <B 1> Да<N>  <B 2> Нет<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fAccept": {
-    "message": "Very well then, enter the temple. If you can escape, bring me what you find.<E>"
+    "message": "Хорошо, тогда заходите в храм. Если выберетесь, принесите мне то, что найдёте.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_CS_Presentation1fReject": {
-    "message": "As I suspected, you're a coward!<E>"
+    "message": "Как я и подозревал, ты трус!<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestPrompt": {
-    "message": "Have you decided to take on the test?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Вы хотите пройти испытание?<N>  <B 1> Да<N>  <B 2> Нет<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestAccepted": {
-    "message": "Very well, go into the temple and if you can escape, bring me what you find.<E>"
+    "message": "Хорошо, зайди в храм и, если выживешь, принеси мне то, что найдешь.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestRejected": {
-    "message": "As I suspected, you are a coward!<E>"
+    "message": "Как я и подозревал, ты боишься!<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestPromptAgain": {
-    "message": "It is too late to change your mind now. The temple awaits.<E>"
+    "message": "Передумывать уже поздно. Храм ждёт...<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestAlmostComplete": {
-    "message": "If you didn't find anything you have failed the test.<E>"
+    "message": "Если вы ничего не найдёте - провалите испытание.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestComplete": {
-    "message": "<EFF><EPO>Ahh, you have returned! Congratulations, Sphinx! I knew that you would prevail.<P>Few people are able to survive the test of the temple.<E>"
+    "message": "<EFF><EPO>Ааа, ты вернулся! Поздравляю, Сфинкс! Я знал, что ты победишь.<P>Немногие люди... или... животные? Кхм. Способны выдержать испытание храма.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestComplete1": {
-    "message": "<EFF><EPO>The artifact you have retrieved can be used to activate this <FC 0,128,0>Ka Ankh Firing Point<END FC>.<P>I'm sure an adventurer of your experience is well aware of the mystical mechanics of Ka Ankhs.<E>"
+    "message": "<EFF><EPO>Артефакт, который вы нашли, можно использовать для активации этой <FC 0,128,0>огневой точки Ка Анкх<END FC>.<P>Я уверен, что авантюрист с вашим опытом хорошо знает о мистическом Ка Анхс.<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestComplete2": {
-    "message": "<EFF><EPO>Before you go, a word of advice. The Geb Queen is a fearsome adversary. I doubt that you will be able to defeat her all by yourself.<P>In the heat of the battle, you should not forget that other creatures may provide you with the opportunity you require to defeat the Queen...<P>Farewell Sphinx, and good luck.<E>"
+    "message": "<EFF><EPO>Перед тем, как уйти, совет. Королева Гебу - страшный враг. Я сомневаюсь, что ты сможешь победить её сам.<P>В пылу сражения ты не должен забывать, что другие существа могут предоставить тебе необходимую возможность победить Королеву...<P>Прощай Сфинкс, удачи...<E>"
   },
   "HT_Text_Urk_2key_UrukiteHD60_QuestCompleteAgain": {
-    "message": "You have done well Sphinx, but I cannot help you any further.<E>"
+    "message": "Вы хорошо справились, Сфинкс, но я больше не могу вам помочь.<E>"
   },
   "HT_Text_Urk_4pat_Help_FoundBounce": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Bouncing Darts<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>These magical darts can be used to hit<N>targets which you don't have direct access to.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>отпрыгивающие дротики<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Эти волшебные дротики можно использовать, чтобы поразить<N>цели, к которым у вас нет прямого доступа.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Urk_4pat_Help_FoundBeetles": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Explosive Beetles<END FC>!<P>Equip them with <FC 0,128,0>directional button<END FC> like you did with the <FC 0,128,0>Blowpipe<END FC>. Once released, guide the beetle using <SB HT_PadAction_PLR_MoveBeetle>.<P>They explode on contact with monsters and walls but you can also <FC 0,128,0>RECALL<END FC> or <FC 0,128,0>DETONATE<END FC> them.<E>"
+    "message": "<N><CNTR>Вы получили <FC 0,128,0>взрывные жуки<END FC>!<P>Выберите их <FC 0,128,0>кнопкой направления<END FC>, как вы сделали с <FC 0,128,0>трубкой<END FC>. Отпустив, управляйте жуком с помощью <SB HT_PadAction_PLR_MoveBeetle>.<P>Они взрываются при столкновении с монстрами и стенами, но вы также можете <FC 0,128,0>ОТОЗВАТЬ<END FC> или <FC 0,128,0>ПОДОРВАТЬ<END FC> их.<E>"
   },
   "HT_Text_Urk_4pat_Help_DoubleJump": {
-    "message": "<DHP><DP>Jump higher by holding down the <FC 0,128,0>JUMP<END FC> button. Somersault by pressing the <FC 0,128,0>JUMP<END FC> button twice. <W 120>"
+    "message": "<DHP><DP>Прыгните выше, удерживая кнопку <FC 0,128,0>ПРЫЖКА<END FC> button. Делайте сальто, нажав кнопку <FC 0,128,0>ПРЫЖКА<END FC> дважды. <W 120>"
   },
   "HT_Text_Urk_4pat_WomanHelp1": {
-    "message": "Help!... Help!... Help me, sir...<W 60>"
+    "message": "Помогите!! Помогите мне!!<W 60>"
   },
   "HT_Text_Urk_4pat_WomanHelp2": {
-    "message": "Sir, a demonic soul has kidnapped my little brothers and I. Please, help us get out of this devilish temple!<E>"
+    "message": "Сэр, демоническая душа похитила моих маленьких братьев и меня. Пожалуйста, помогите нам выбраться из этого дьявольского храма!<E>"
   },
   "HT_Text_Urk_4pat_WomanHelp3": {
-    "message": "Please, sir, help us get out of here!<E>"
+    "message": "Умоляю вас, помогите нам выбраться отсюда!<E>"
   },
   "HT_Text_Urk_4pat_WomanHelp4": {
-    "message": "Thank you sir, for your noble actions...<W 60>"
+    "message": "Спасибо, сэр, за ваши благородные поступки...<W 60>"
   },
   "HT_Text_Urk_4pat_WomanHelp5": {
-    "message": "My little brothers and I want to reward your effort...<W 60>"
+    "message": "Мы с моими маленькими братьями хотим вознаградить ваши усилия...<W 60>"
   },
   "HT_Text_Urk_Set_Presenation1": {
-    "message": "I have been waiting for you Sphinx, the One of prophecy. <E>"
+    "message": "Я ждал тебя, Сфинкс, ОДИН из пророчества. <E>"
   },
   "HT_Text_Urk_Set_Presenation2": {
-    "message": "I see that my brother Osiris is not here to face me. He is too weak for such a confrontation.<E>"
+    "message": "Мой брат Осирис не пришёл, чтобы встретиться со мной. Он слишком слаб для такого противостояния.<E>"
   },
   "HT_Text_Urk_Set_Presenation3": {
-    "message": "Or perhaps he is just too cowardly to stand against me. Hahaha!! <E>"
+    "message": "Или, может быть, он слишком труслив, чтобы противостоять мне. Ха-ха-ха!! <E>"
   },
   "HT_Text_Urk_Set_Presenation4": {
-    "message": "You have done well to thwart my plans so far, but ultimately I will control the power of the eye of Ra. <E>"
+    "message": "Ты хорошо сделал, что пока препятствия в моих планах, но в конце концов я буду контролировать силу глаза Ра. <E>"
   },
   "HT_Text_Urk_Set_Presenation5": {
-    "message": "You and your undead cohort have fulfilled the prophecy thus far.<E>"
+    "message": "Вы и ваша куча нежити исполнили пророчество.<E>"
   },
   "HT_Text_Urk_Set_Presenation6": {
-    "message": "But I will see to it that the prophecy ends with your death and Osiris being destroyed by me...<E>"
+    "message": "Но я позабочусь о том, чтобы пророчество закончилось твоей смертью и мною уничтоженным Осирисом...<E>"
   },
   "HT_Text_Urk_Set_Presenation6a": {
-    "message": "FOREVER!!!!! <W 60>"
+    "message": "НАВСЕГДА!!!!! <W 60>"
   },
   "HT_Text_Urk_Set_Presenation7": {
-    "message": "Pathetic creature, Osiris didn't tell you about my true form! Hahahahaha!!!!! <E>"
+    "message": "Жалкое существо, Осирис не рассказывал тебе о моей настоящей форме! Ха-ха-ха-ха-ха-ха-ха-ха!!!!! <E>"
   },
   "HT_Text_Urk_Set_Presenation8": {
-    "message": "Now the time has come for you to die. <W 60>"
+    "message": "Теперь, пришло время твоей смерти! <W 60>"
   },
   "HT_Text_Urk_Set_BossDead1": {
-    "message": "Excellent, Sphinx! You saved the Mummy from Set’s hands. Set has been severely weakened, but it is not his destiny to be destroyed.<E>"
+    "message": "Отлично, Сфинкс! Вы спасли мумию из рук Сета. Сет был сильно ослаблен, но быть уничтоженным не его удел.<E>"
   },
   "HT_Text_Urk_Set_BossDead2": {
-    "message": "The world cannot exist without evil, just as the light of day needs to be balanced with the darkness of night. <E>"
+    "message": "Мир не может существовать без зла, так же, как дневной свет должен быть уравновешен с темнотой ночи. <E>"
   },
   "HT_Text_Urk_Set_BossDead3": {
-    "message": "With Set weakened he will not be able to fight his true destiny, to unite with his brother Osiris. This will restore balance to the Godly kingdom. <E>"
+    "message": "С ослабленным Сетом он не сможет бороться со своей истинной судьбой, объединится со своим братом Осирисом. Это восстановит равновесие Божьего царства. <E>"
   },
   "HT_Text_Urk_Set_BossDead3a": {
-    "message": "Behold! The mighty Osiris has arrived! <E>"
+    "message": "Вот! Могучий Осирис прибыл! <E>"
   },
   "HT_Text_Urk_Set_BossDead4": {
-    "message": "Finally the <FC 0,128,0>Ancient Prophecy of Ra<END FC> has been fulfilled. Light and darkness are one together. We will be able to live in harmony again. <E>"
+    "message": "Наконец исполнилось <FC 0,128,0>древнее пророчество Ра<END FC>. Свет и тьма - одно целое. Мы снова сможем жить в согласии. <E>"
   },
   "HT_Text_Urk_Set_BossDead5": {
-    "message": "Sphinx and Tutankhamen, you have both been very brave to conclude this dangerous saga. <E>"
+    "message": "Сфинкс и Тутанхамон, вы оба были очень смелыми, и завершили это опасное сказание. <E>"
   },
   "HT_Text_Urk_Set_BossDead6": {
-    "message": "Sphinx, because of your actions and bravery, your name will go down in history and be remembered forever. <E>"
+    "message": "Сфинкс, благодаря твоим действиям и храбрости, твоё имя войдёт в историю и останется в памяти навсегда. <E>"
   },
   "HT_Text_Urk_Set_BossDead7": {
-    "message": "Tutankhamen, I can give you the last <FC 0,128,0>Canopic Vase<END FC> that will transform you back to your human shape and let you return to your kingdom.<E>"
+    "message": "Тутанхамон, я могу дать тебе последнюю <FC 0,128,0>канопическую вазу<END FC>, которая превратит тебя в человеческую форму и позволит тебе вернуться в своё королевство.<E>"
   },
   "HT_Text_Urk_Set_BossDead7a": {
-    "message": "<EFF><EPO>Thanks to both of you, balance will be brought to the worlds for many generations to come. <P>More dangerous adventures will come in the future for both of you. But for the moment, rest and enjoy your triumph.<P>Tutankhamen, I give you the last <FC 0,128,0>Canopic Vase<END FC> with my gratitude. <E>"
+    "message": "<EFF><EPO>Благодаря вам обоим баланс будет принесён в миры для многих будущих поколений. <P>В будущем вас обоих ждут более опасные приключения. Но, пока что отдохни и наслаждайся своим триумфом.<P>Тутанхамон, я дарю тебе последнюю <FC 0,128,0>канопическую вазу<END FC> с моей благодарностью. <E>"
   },
   "HT_Text_Urk_Set_BossDead8": {
-    "message": "Don't worry Tutankhamen, there must be another way to change you back. Perhaps other worlds will hold the key to your salvation. <E>"
+    "message": "Не волнуйся, Тутанхамон, должен быть другой способ вернуть тебя обратно. Возможно, в других мирах будет ключ к вашему спасению. <E>"
   },
   "HT_Text_Urk_Set_BossDead9": {
-    "message": "We will help you find the answer...<W 180>"
+    "message": "Мы поможем вам найти ответ...<W 180>"
   },
   "HT_Text_Urk_2key_Help_FoundGlyphValuable01": {
-    "message": "<N><CNTR>You found a rare <FC 0,128,0>Gold Glyph<END FC>!<E>"
+    "message": "<N><CNTR>Вы получили редкий <FC 0,128,0>золотой глиф<END FC>!<E>"
   }
 }

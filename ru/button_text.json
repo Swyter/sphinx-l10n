@@ -1,26 +1,26 @@
 {
   "HT_Text_Button_NextPage": {
-    "message": "NEXT PAGE"
+    "message": "СЛЕД. СТР."
   },
   "HT_Text_Button_Exit": {
     "message": "ВЫХОД"
   },
   "HT_Text_Button_Select": {
-    "message": "OPTION SELECT"
+    "message": "ВЫБРАТЬ"
   },
   "HT_Text_Button_SpeedUp": {
-    "message": "FAST EFFECT"
+    "message": "УСКОРИТЬ"
   },
   "HT_Text_Button_Attack": {
-    "message": "ATTACK"
+    "message": "УДАР"
   },
   "HT_Text_Button_Context": {
-    "message": "CONTEXT"
+    "message": "Контекст"
   },
   "HT_Text_Button_Jump": {
-    "message": "JUMP"
+    "message": "ПРЫЖОК"
   },
   "HT_Text_Button_NA": {
-    "message": "NA"
+    "message": "Н/Д"
   }
 }
