@@ -33,7 +33,6 @@ _fold_start_ '[Deploying Steam Workshop build]'
     if [ -z $steam_ac ]; then read -p "Enter your Steam account name: " steam_ac; clear; fi
     if [ -z $steam_tk ]; then read -p "Enter your Steam password: "     steam_tk; clear; fi
 
-    
 
     # do the actual submission using this (totally stable) work of art
     ./steamcmd.sh +login "$steam_ac" "$steam_tk" +workshop_build_item workshop_entry.vdf +quit | tee workshop.log

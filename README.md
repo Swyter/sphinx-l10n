@@ -37,7 +37,7 @@ If you just want to play in one of the supported community languages, follow the
 ```
 
 
-* On Linux, you would need to install the [Transifex Client](https://docs.transifex.com/client/installing-the-client) and Python. This is already bundled for Windows.
+* On Linux, you would need to install the [Transifex Client](https://developers.transifex.com/docs/cli) and Python. This is already bundled for Windows.
 * Optionally, Gnumeric comes with a handy `ssconvert` tool, useful to turn CSV files into XLS (and vice versa) in a jiffy, without having to use LibreOffice or Excel. Also included for Windows.
 * For Linux users it all boils down to opening your terminal and using something like this:
 ```
@@ -57,7 +57,7 @@ Get your text into `SphinxText.xls` either via the Transifex scripts or just typ
 In more detail, here are the steps:
 1. Make a Transifex account to translate the project via the web interface.
 2. Run `tx.cmd` to automatically download/pull the latest translation progress from the site and write it into `SphinxText.xls`.
-   * The first time around it will ask you for a secret code that you need to generate from [here](https://www.transifex.com/user/settings/api/), paste it into the window by right-clicking once and then press *Enter*. The code looks like this: `1/1290349033429802359034903402339040767759`.
+   * The first time around it will ask you for a secret code that you need to generate from [here](https://app.transifex.com/user/settings/api/), paste it into the window by right-clicking once and then press *Enter*. The code looks like this: `1/1290349033429802359034903402339040767759`.
 1. Double-click to run `mount-virtual-x-drive.bat` from the `_mod` folder.
    * Now you should have a new `X:` drive in *My PC* with the same files you see under `_mod`; they are mirrored.
    * You will only need to do this once, when the drive is missing.
