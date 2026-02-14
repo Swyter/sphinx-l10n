@@ -1,0 +1,1694 @@
+{
+  "HT_Text_Hel_Exterior_GlyphCollector_InitialText1a": {
+    "message": "А-а-ах!!! Ты кто такой? Что тебе нужно? Ты пришёл украсть мой бесценный товар?!<W 60>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_InitialText1b": {
+    "message": "Хм-м, на вора ты не похож...<E>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_InitialText1c": {
+    "message": "Хе-хе, извини. Я думал, ты один из этих вороватых урукитов с той стороны стены.<E>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_InitialText1d": {
+    "message": "Им нельзя доверять. Да и в тебе я всё ещё не уверен. Вот если дашь мне <FC 0,128,0>10 ониксовых скарабеев<END FC>, я, может быть, передумаю.<E>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_InitialText1e": {
+    "message": "О-о, прелестно! <FC 0,128,0>Ониксовые скарабеи<END FC>! А теперь позволь мне показать тебе фантастический товар, который у меня есть на продажу.<E>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_InitialText1f": {
+    "message": "Пожалуйста, пожалуйста, заходи...<W 60>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_CSFreed01": {
+    "message": "И снова здравствуй! Как же здорово вернуться на ферму вместе с братом. Не знаю, как и благодарить тебя за помощь.<E>"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_CSFreed01": {
+    "message": "Да, благодаря тебе мы с братом можем вернуться к работе в поле.<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_CSFreed02": {
+    "message": "В знак благодарности за помощь мы хотим отдать тебе это. Мы нашли этот предмет во время работы, и он выглядит очень ценным.<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother": {
+    "message": "Я не могу заставить себя работать, пока мой брат проклят и заперт в том дворце. Будь проклят Анубис за все страдания, что он принёс! <E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother1a": {
+    "message": "С меня хватит этого <FC 128,64,0>Гелиополя<END FC>. Раньше здесь было чудесно жить, пока Анубис не решил вмешаться.<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother1b": {
+    "message": "Он проклял моего брата вместе со всеми остальными в том <FC 128,64,0>Проклятом дворце<END FC>...<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother1b1": {
+    "message": "Он заставил эти смертоносные <FC 0,128,0>столбы Ока Ра<END FC> появиться в каждом уголке нашей земли...<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother1b2": {
+    "message": "Он сделал почву сухой и бесплодной; я ничего не могу вырастить на ферме...<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother1c": {
+    "message": "Да, во всём виноват Анубис. Спорим, он сидит в своей башне, смотрит на <FC 128,64,0>Гелиополь<END FC> сверху вниз и смеётся над нашими бедами и страданиями.<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_MissMyBrother1c1": {
+    "message": "Кто-нибудь должен навестить его... и преподать ему урок...<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_Reunion01": {
+    "message": "А вот и ты! Огромное спасибо. Я правда не знаю, как отблагодарить тебя за освобождение брата.<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_Reunion02": {
+    "message": "Я уже начал впадать в отчаяние. Думал, что больше никогда его не увижу, но благодаря тебе мы снова вместе!<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_Reunion03": {
+    "message": "Мы с братом очень хотим вернуться к работе, но только не пока эти смертоносные <FC 0,128,0>Очи Ра<END FC> повсюду.<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_Reunion04": {
+    "message": "Похоже, неудачи не спешат нас покидать.<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_ReunionGoHome01": {
+    "message": "<EFF><EPO>А вот и ты! Огромное спасибо. Я правда не знаю, как благодарить тебя за освобождение брата.<P>Я уже впадал в отчаяние и думал, что никогда его не увижу, но благодаря тебе мы снова вместе!<P>Будет здорово вернуться к работе на ферме, особенно теперь, когда ты уничтожил все эти <FC 0,128,0>столбы Ока Ра<END FC>. Еще раз спасибо!<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_ReunionGoHome02": {
+    "message": "Помни, друг мой, заходи к нам на ферму. Мы поможем тебе, чем сможем...<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_KillEyes01": {
+    "message": "Мы с братом очень хотим вернуться к работе, но только не пока эти смертоносные <FC 0,128,0>Очи Ра<END FC> повсюду.<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_KillEyes02a": {
+    "message": "Великолепно! Все <FC 0,128,0>Очи Ра<END FC> уничтожены!<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_KillEyes02b": {
+    "message": "Теперь мы с братом можем вернуться к работе на ферме. Спасибо!<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_KillEyes02c": {
+    "message": "Не забывай заходить к нам, друг мой. Мы поможем тебе, чем сможем...<W 60>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_KillEyes03a": {
+    "message": "Осталось ещё <FC 0,128,0><SO HT_Objective_Temp> Очей Ра<END FC>, друг мой!<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_KillEyes03b": {
+    "message": "Осталось всего <FC 0,128,0>1 Око Ра<END FC>, друг мой!<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_BrotherFreed": {
+    "message": "Это чудо! Мой брат вернулся!<P>Он сказал, что это твоя заслуга. Не знаю, как и благодарить тебя.<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_PickPlot": {
+    "message": "Пожалуйста, друг мой, выбери любой участок на ферме, и мы с радостью отдадим тебе всё, что там найдем. Это меньшее, что мы можем сделать после всего, что ты для нас совершил.<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_NotDoneYet": {
+    "message": "Мы еще не закончили; земля пока почти непригодна для работы. Пожалуйста, зайди позже.<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_FoundThis": {
+    "message": "С возвращением, друг мой! Тебе будет приятно узнать, что мы нашли это, пока копали. Пожалуйста, прими это в знак нашей признательности.<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_Complete": {
+    "message": "Теперь, когда ферма готова, мы можем расслабиться и ждать дождей. Спасибо за помощь!<E>"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_Thanks": {
+    "message": "Как же здорово снова быть с братом. Как только кто-нибудь избавится от этих <FC 0,128,0>Очей Ра<END FC>, мы сможем вернуться к работе в поле.<E>"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_KillEyes01a": {
+    "message": "Как только эти последние <FC 0,128,0><SO HT_Objective_Temp> Очей Ра<END FC> будут уничтожены, мы вернемся на ферму!<E>"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_KillEyes01b": {
+    "message": "Как только это последнее <FC 0,128,0>Око Ра<END FC> будет уничтожено, мы вернемся на ферму!<E>"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_AskMyBrother": {
+    "message": "Тебе стоит поговорить с моим братом, друг. Он заправляет делами на ферме.<E>"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_NotDoneYet": {
+    "message": "Вспахивать эту землю — тяжелый труд. Зайди попозже, когда закончим.<E>"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_Complete": {
+    "message": "Подготовка фермы была нелегкой задачей, но теперь мы можем отдохнуть и ждать дождей. Спасибо за помощь, друг!<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_BrotherFreed1a": {
+    "message": "Это чудо! Мой брат вернулся!<E>"
+  },
+  "HT_Text_Hel_Exterior_Farmer_BrotherFreed1b": {
+    "message": "Я должен благодарить тебя, но ума не приложу, как отплатить за доброту.<E>"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_Thanks1a": {
+    "message": "Прекрасно, что мы снова вместе. Теперь можно и за ферму приниматься.<E>"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_Thanks1b": {
+    "message": "Пора бы заняться хозяйством... но мы не знаем, с чего начать. Как думаешь, где нам стоит копнуть?<E>"
+  },
+  "HT_Text_Hel_Exterior_FarmersBrother_Thanks1c": {
+    "message": "Я объясню тебе, как всё устроено. Возможно, ты сможешь нам помочь. <E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_CSIntro01": {
+    "message": "Ну вот мы и в <FC 128,64,0>Гелиополе<END FC>, наконец-то!<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_CSIntro01a": {
+    "message": "Когда-то это было великое царство. Теперь же — не более чем забытая богом пустынная пустошь.<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_CSIntro02": {
+    "message": "Лично я считаю, что тебе стоило остаться в <FC 128,64,0>Абидосе<END FC>. Здесь ты не найдешь ничего, кроме песка и злобных монстров.<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_CSIntro03": {
+    "message": "Собственно, именно поэтому я немедленно отплываю обратно в <FC 128,64,0>Абидос<END FC>.<E> "
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_CSIntro04": {
+    "message": "Я вернусь в эти края через несколько дней. Может, тогда и увидимся...<W 90>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_WhereTo00": {
+    "message": "Привет! Рад снова тебя видеть.<P>Куда сегодня отправимся?<P>  <B 1> <FC 128,64,0>Абидос<END FC><PC 1><B 7> Никуда<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_WhereTo01": {
+    "message": "Привет! Рад снова тебя видеть.<P>Куда сегодня отправимся?<P>  <B 1> <FC 128,64,0>Абидос<END FC><PC 1><B 4> <FC 128,64,0>Проклятый дворец<END FC><N>  <B 3> <FC 128,64,0>Южный пляж<END FC><PC 1><B 7> Никуда<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_WhereTo02": {
+    "message": "Привет! Рад снова тебя видеть.<P>Куда сегодня отправимся?<P>  <B 1> <FC 128,64,0>Абидос<END FC><PC 1><B 4> <FC 128,64,0>Проклятый дворец<END FC><N>  <B 3> <FC 128,64,0>Южный пляж<END FC><PC 1><B 5> <FC 128,64,0>Мыс Гелиополя<END FC><N>  <B 7> Никуда<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_WhereTo03": {
+    "message": "Привет! Рад снова тебя видеть.<P>Куда сегодня отправимся?<P>  <B 1> <FC 128,64,0>Абидос<END FC><PC 1><B 4> <FC 128,64,0>Проклятый дворец<END FC><N>  <B 3> <FC 128,64,0>Южный пляж<END FC><PC 1><B 5> <FC 128,64,0>Мыс Гелиополя<END FC><N>  <B 6> <FC 128,64,0>Аванпост бедуинов<END FC><PC 1><B 7> Никуда<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_Return01": {
+    "message": "Готовы вернуться на материк?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_Return02": {
+    "message": "Готовы вернуться в <FC 128,64,0>Гелиополь<END FC>?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_GenericLetsGo": {
+    "message": "Ну что ж, в путь!<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToImhotepPrice": {
+    "message": "Это обойдется тебе в <FC 0,128,0>10 скарабеев<END FC><N>  <B 1> Идёт<N>  <B 2> Забудь об этом<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToImhotepConfirm": {
+    "message": "Следующая остановка — <FC 128,64,0>Остров Храма Солнца<END FC>!<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_DestinationDecline": {
+    "message": "Хорошо, дай знать, если передумаешь.<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToAbydosPrice": {
+    "message": "Это будет стоить <FC 0,128,0>25 скарабеев<END FC><N>  <B 1> Идёт<N>  <B 2> Забудь об этом<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToAbydosConfirm": {
+    "message": "Следующая остановка — <FC 128,64,0>Абидос<END FC>!<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToCursedPalacePrice": {
+    "message": "С тебя <FC 0,128,0>5 скарабеев<END FC><N>  <B 1> Идёт<N>  <B 2> Забудь об этом<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToCursedPalaceConfirm": {
+    "message": "Следующая остановка — <FC 128,64,0>Проклятый дворец<END FC>!<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToBedouinOutpostPrice": {
+    "message": "Это обойдется в <FC 0,128,0>5 скарабеев<END FC><N>  <B 1> Идёт<N>  <B 2> Забудь об этом<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToBedouinOutpostConfirm": {
+    "message": "Следующая остановка — <FC 128,64,0>Аванпост бедуинов<END FC>!<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToHeliopolisPointPrice": {
+    "message": "С тебя <FC 0,128,0>5 скарабеев<END FC><N>  <B 1> Идёт<N>  <B 2> Забудь об этом<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToHeliopolisPointConfirm": {
+    "message": "Следующая остановка — <FC 128,64,0>Мыс Гелиополя<END FC>!<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToSouthBeachPrice": {
+    "message": "Это будет стоить <FC 0,128,0>5 скарабеев<END FC><N>  <B 1> Идёт<N>  <B 2> Забудь об этом<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToSouthBeachConfirm": {
+    "message": "Следующая остановка — <FC 128,64,0>Южный пляж<END FC>!<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_AtHeliopolisPoint": {
+    "message": "Так это И ЕСТЬ <FC 128,64,0>Мыс Гелиополя<END FC>! Боже мой, друг, у тебя совсем плохо с географией, верно?<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_AtCursedPalace": {
+    "message": "Так это И ЕСТЬ <FC 128,64,0>Проклятый дворец<END FC>! Ты что, не видишь эту огромную постройку прямо перед собой?<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_AtSouthBeach": {
+    "message": "Так это И ЕСТЬ <FC 128,64,0>Южный пляж<END FC>! Тебе стоит повнимательнее смотреть по сторонам, приятель!<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_AtBedouinOutpost": {
+    "message": "Так это И ЕСТЬ <FC 128,64,0>Аванпост бедуинов<END FC>! Ты что, не заметил все эти палатки у себя за спиной?<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_QuestIntro": {
+    "message": "Я бы отвез тебя в <FC 128,64,0>Абидос<END FC>, но мой <FC 0,128,0>парус<END FC> украли, а даже я не смогу грести так далеко.<P>Если найдешь <FC 0,128,0>парус<END FC>, я с радостью доставлю тебя в <FC 128,64,0>Абидос<END FC> совершенно бесплатно.<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_QuestReminder": {
+    "message": "Я же сказал: я смогу отвезти тебя в <FC 128,64,0>Абидос<END FC> только если ты найдешь мой <FC 0,128,0>парус<END FC>.<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_QuestComplete": {
+    "message": "Превосходно! Ты нашел мой <FC 0,128,0>парус<END FC>!<P>Мы можем отправиться в <FC 128,64,0>Абидос<END FC> прямо сейчас, если хочешь.<N>  <B 1> Поплыли<N>  <B 2> Не сейчас<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_ToAbydosFree": {
+    "message": "В этот раз отвезу тебя бесплатно, раз уж ты нашел мой парус.<N>  <B 1> Поплыли<N>  <B 2> Не сейчас<E>"
+  },
+  "HT_Text_Hel_Exterior_BoatOwner_NotEnoughMoney": {
+    "message": "Извини, но у тебя не хватает <FC 0,128,0>скарабеев<END FC>.<E>"
+  },
+  "HT_Text_Hel_Exterior_DungeonGuard_Intro01": {
+    "message": "<CNTR>---[ <FC 128,64,0>Затерянный храм Гелиополя<END FC> ]---<N>---[ Лишь те, кто докажет свою доблесть в бою,<N>получат доступ в это священное место ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_DungeonGuard_Defeated01": {
+    "message": "Что ж, ты неоспоримо доказал мне, что достоин войти в <FC 128,64,0>Священный храм<END FC>.<P>Прощай, юный воин.<E>"
+  },
+  "HT_Text_Hel_Exterior_DungeonGuard_Defeated02": {
+    "message": "Ты волен входить в <FC 128,64,0>Священный храм<END FC>, когда пожелаешь, юный воин.<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_Intro01": {
+    "message": "Приветствую! Кажется, я раньше не видел тебя в наших краях. Позволь поприветствовать тебя в <FC 128,64,0>Гелиополе<END FC>.<P>Хотя здешние места выглядят неприветливо, <FC 128,64,0>Гелиополь<END FC> является домом для множества видов монстров.<P>Моё давнее хобби — собирать образцы монстров из этого и других миров.<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_Intro02": {
+    "message": "Боюсь, если у тебя нет <FC 0,128,0>жуков-ловушек<END FC>, ты не сможешь мне помочь.<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_Prompt01": {
+    "message": "Я вижу, у тебя есть <FC 0,128,0>сумка для жуков<END FC>.<P>Не хочешь стать моим ассистентом?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_Prompt02": {
+    "message": "Не хочешь стать моим ассистентом?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_PromptAccept01": {
+    "message": "Отлично! Как мой ассистент, ты будешь помогать мне расширять коллекцию образцов монстров.<P>Возьми этот список. Когда поймаешь по одному монстру каждого вида, возвращайся ко мне, и мы обсудим оплату.<P>Удачной охоты!<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_PromptDecline01": {
+    "message": "Что ж, ты многое теряешь. Знаешь ли, помощники коллекционеров могут весьма неплохо зарабатывать.<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List01Incomplete": {
+    "message": "У тебя есть не все монстры из списка. Возвращайся, когда соберешь всех до единого.<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List01Complete": {
+    "message": "Великолепно, ты поймал всех монстров из списка! О, я вижу, это прекрасные экземпляры. Они станут отличным дополнением к моей коллекции.<P>Теперь об оплате. Эти монстры довольно обычные, так что я могу предложить тебе только <FC 0,128,0>100 скарабеев<END FC> за их поимку.<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List02Presentation": {
+    "message": "Я подготовил для тебя еще один список монстров. Эти куда более экзотичны, чем первые, и так как я человек честный, твоя награда соответственно возрастет.<P>Вот список. Удачной охоты!<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List02Incomplete": {
+    "message": "Прости, но список не полон. Возвращайся, когда у тебя будет по одному монстру каждого вида.<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List02Complete": {
+    "message": "Хорошая работа, мой друг! Не ожидал, что ты так скоро закроешь этот список. С нетерпением жду возможности добавить эти образцы в свою коллекцию.<P>Как я и говорил, здесь были более редкие монстры. Я предлагаю тебе <FC 0,128,0>200 скарабеев<END FC> за их поимку.<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List03Presentation": {
+    "message": "В этом списке — монстры, о которых я мечтал всю свою жизнь.<P>В далеких землях эти существа разгуливают на свободе. Какое же это, должно быть, величественное зрелище!<P>Если ты закроешь этот список, то исполнишь мою заветную мечту. Сделай это, и я вознагражу тебя своей самой ценной вещью.<P>Удачной охоты!<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List03Incomplete": {
+    "message": "У тебя не все монстры из списка. Возвращайся, когда соберешь всех. А ведь я уже так надеялся!<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_List03Complete": {
+    "message": "......<P>Этого не может быть! Ты заполнил весь список! Да! Какие великолепные экземпляры — это поистине великий день!<P>Ты сделал меня очень счастливым человеком! Прошу, возьми это — мою самую ценную вещь.<E>"
+  },
+  "HT_Text_Hel_Exterior_CreatureCollector_Complete01": {
+    "message": "Благодаря тебе у меня лучшая коллекция монстров во всем <FC 128,64,0>Гелиополе<END FC>!<E>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Intro01": {
+    "message": "Не стоит так подкрадываться к людям! Я думал, ты хочешь украсть мой драгоценный товар!<P>Честно говоря, я всё еще не до конца тебе доверяю. Вот если дашь мне <FC 0,128,0>10 ониксовых скарабеев<END FC>, я, может быть, передумаю.<E>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Intro02": {
+    "message": "<FC 0,128,0>Ониксовые скарабеи<END FC> раньше встречались на каждом шагу, но в наши дни они большая редкость и стоят немало.<E>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Intro03": {
+    "message": "Вот он! Мой любимый <FC 0,128,0>глиф<END FC>! Теперь, думаю, я могу тебе доверять. Пожалуйста, взгляни на мой фантастический товар.<E>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Intro04": {
+    "message": "В качестве оплаты я принимаю только <FC 0,128,0>ониксовых скарабеев<END FC>. Ходят слухи, что какой-то таинственный человек копит их в своем замке в глубинах <FC 128,64,0>Урука<END FC>.<E>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Intro05": {
+    "message": "Я принимаю в оплату только <FC 0,128,0>ониксовых скарабеев<END FC>.<E>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Prompt01": {
+    "message": "Ага! Можно мне получить <FC 0,128,0>10 ониксовых скарабеев<END FC>?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Accept01": {
+    "message": "Отлично! Теперь я верю, что тебе можно доверять. Взгляни на великолепные товары, что у меня есть на продажу!<E>"
+  },
+  "HT_Text_Hel_Exterior_GlyphCollector_Decline01": {
+    "message": "Как знаешь, но ты никогда не узнаешь, какой экзотический товар я припас. Ха!<E>"
+  },
+  "HT_Text_Hel_Exterior_Trader_Intro01": {
+    "message": "Добро пожаловать, юный путешественник! Приятно видеть нового покупателя. Торговля в последнее время идет довольно вяло.<P>Сейчас у меня не так много товара, но, возможно, ты найдешь что-то интересное для себя.<E>"
+  },
+  "HT_Text_Hel_Exterior_Trader_General01": {
+    "message": "Лучших цен ты не найдешь ни в одном другом месте!<E>"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Intro01": {
+    "message": "Приветствую! Приятно встретить коллегу-атлета в этих краях, хотя должен признать — твоё телосложение и близко не так впечатляюще, как моё.<P>Как нетрудно заметить, моё тело — это безупречно отлаженная машина, доведённая до совершенства годами упорных тренировок.<P>Я могу добежать отсюда до конца следующего пляжа и обратно менее чем за <FC 0,128,0>70 секунд<END FC>.<E>"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Prompt01": {
+    "message": "Думаешь, сможешь побить моё время?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Prompt02": {
+    "message": "Хочешь, чтобы я объяснил правила?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Decline01": {
+    "message": "А-а, человек, который знает свои пределы. Возвращайся позже, если решишь, что можешь превзойти мой результат.<E>"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Accept01": {
+    "message": "Что ж, ладно. Удачи, парень! Она тебе понадобится!<P><N><CNTR>На старт...<P><N><CNTR>Внимание...<P><N><CNTR>Марш!<W 30>"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Rules01": {
+    "message": "Ты должен добежать отсюда до кулона, подвешенного на уступе в конце следующего пляжа, и вернуться обратно менее чем за <FC 0,128,0>70 секунд<END FC>.<P>Чтобы я был уверен, что ты не жульничаешь, ты должен ударить по кулону своим клинком, прежде чем бежать назад.<P>Когда вернёшься, поговори со мной, и я остановлю таймер.<E>"
+  },
+  "HT_Text_Hel_Exterior_Athlete_TimeSlow01": {
+    "message": "Что ж, тебе удалось сделать это за <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> сек.<END FC>. Неплохо, но, как я и ожидал, всё же не так быстро, как я.<E>"
+  },
+  "HT_Text_Hel_Exterior_Athlete_TimeSame01": {
+    "message": "Ого, ты уложился в <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> сек.<END FC>. Это в точности мой лучший результат. Весьма впечатляюще! Но чтобы по-настоящему поразить меня, тебе придётся превзойти моё время.<E>"
+  },
+  "HT_Text_Hel_Exterior_Athlete_TimeFast01": {
+    "message": "Что?! Ты уже вернулся?! Тебе понадобилось всего <FC 0,128,0><SO HT_Objective_Hel_Exterior_AthleteTime> сек.<END FC>! Невероятно!<P>Раз уж ты так убедительно побил мой рекорд, я признаю твоё превосходство. Вот, возьми это. Этот предмет поддерживал мою форму, силу и здоровье столько, сколько я себя помню.<E>"
+  },
+  "HT_Text_Hel_Exterior_Athlete_TimeVoid01": {
+    "message": "Если ты не ударил мечом по висящему кулону, я не могу принять твой результат. Извини!<E>"
+  },
+  "HT_Text_Hel_Exterior_Athlete_TimeVoid02": {
+    "message": "Ты за кого меня принимаешь, за слепца?! Я видел, как ты использовал лодку! Если не собираешься проходить испытание честно, то проваливай!<E>"
+  },
+  "HT_Text_Hel_Exterior_Athlete_Complete01": {
+    "message": "Твоё время было потрясающим! Полагаю, мне придётся тренироваться ещё усерднее, чтобы его улучшить. По крайней мере, теперь у меня есть новая цель.<E>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Prompt01": {
+    "message": "Ага! Наконец-то кто-то в хорошей физической форме готов бросить вызов моей полосе препятствий!<P>Я тренировался много лет, оттачивая идеальную траекторию. Я уверен, что мой результат непобедим.<P>Считаешь, у тебя хватит сил превзойти моё время?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Prompt02": {
+    "message": "Итак, ты думаешь, что сможешь побить моё время?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Prompt03": {
+    "message": "Сомневаюсь! Но посмотрим. Хочешь услышать правила?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Prompt04": {
+    "message": "Думаешь, сможешь пройти быстрее, чем за <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> сек.<END FC>?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Decline01": {
+    "message": "Мудрый человек знает, когда он побеждён. Тем не менее, возвращайся, если передумаешь.<E>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Rules01": {
+    "message": "Правила просты: ты должен добраться до алтаря в конце полосы препятствий так быстро, как только сможешь.<P>Если сорвёшься с дистанции и упадёшь в море — ты проиграл.<E>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_Start01": {
+    "message": "Удачи, она тебе несомненно понадобится!<P><N><CNTR>На старт...<P><N><CNTR>Внимание...<P><N><CNTR>Марш!<W 30>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_MidRace01": {
+    "message": "Ты чего со мной болтаешь?! Время-то идёт...<E>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeSlow01": {
+    "message": "Наконец-то вернулся, а? Что так долго? <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> сек.<END FC> — это довольно жалкое время, друг мой.<P>Тебе стоит зайти попозже, когда побольше потренируешься!<E>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeSlow02": {
+    "message": "Недостаточно быстро, боюсь.<P>Ты справился за <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> сек.<END FC>, а твой лучший результат — <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTimeBest> сек.<END FC>.<E> "
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeMedium01": {
+    "message": "Неплохо, <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> сек.<END FC>. Но, очевидно, не так быстро, как мой рекорд.<P>Если будешь больше тренироваться, уверен, сможешь лучше.<E> "
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeMedium02": {
+    "message": "Что ж, тебе удалось повторить свой рекорд в <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> сек.<END FC>. Победить такое время будет непросто.<E>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeFast01": {
+    "message": "Э-э, что?! Как ты уже успел вернуться? Ты наверняка жульничал! <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> сек.<END FC> — это поразительно!<P>Такой результат заслуживает награды. Вот, возьми это; пусть оно дарует тебе крепкое здоровье в твоём странствии.<E>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeFast02": {
+    "message": "Отлично! <FC 0,128,0><SO HT_Objective_Hel_Exterior_ObstacleTime> сек.<END FC> — это новый рекорд! Побить такое время будет очень трудно.<E>"
+  },
+  "HT_Text_Hel_Exterior_Obstacle_TimeVoid01": {
+    "message": "Извини, но ты свалился в море, а значит, тебе не удалось побить моё время. Обсохни и попробуй ещё раз, если хочешь.<E>"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Prompt01": {
+    "message": "Эй, на палубе! Ты похож на человека, который обожает физические испытания — а это важное качество в наши тёмные и опасные времена.<P>Я — лучший пловец в <FC 128,64,0>Гелиополе<END FC>. Я уж точно получше всех тех слабаков из <FC 128,64,0>Абидоса<END FC>.<P>Я отточил свою технику на тренировочном маршруте в море, между <FC 128,64,0>Южным пляжем<END FC> и <FC 128,64,0>Островом Храма Солнца<END FC>.<P>Думаешь, сможешь пройти мою дистанцию?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Prompt02": {
+    "message": "Считаешь, тебе под силу пройти мою тренировочную дистанцию?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Prompt03": {
+    "message": "Очень хорошо. Хочешь услышать правила?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Prompt04": {
+    "message": "Думаешь, сможешь проплыть быстрее, чем за <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> сек.<END FC>?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Decline01": {
+    "message": "Что ж, ты наверняка избавил себя от позора, мой друг. Возвращайся, если передумаешь.<E>"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Rules01": {
+    "message": "Правила просты: в океане есть ряд контрольных точек, через которые ты должен проплыть.<P>Контрольные точки остаются активными лишь ограниченное время, так что ты должен достичь их, пока они не отключились.<P>Когда ты проходишь одну точку, активируется следующая.<P>Если ты не успеешь добраться до точки вовремя — ты проиграл.<E>"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_Start01": {
+    "message": "Желать тебе удачи, кажется, бессмысленно, но всё равно — удачи!<P><N><CNTR>На старт...<P><N><CNTR>Внимание...<P><N><CNTR>Марш!<W 30>"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_TimeSlow01": {
+    "message": "Ого, да ты не особо торопился! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> сек.<END FC> — это всё-таки медленновато, друг!<P>Твой лучший результат по-прежнему <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTimeBest> сек.<END FC>.<E> "
+  },
+  "HT_Text_Hel_Exterior_Swimmer_TimeMedium01": {
+    "message": "Что ж, тебе удалось повторить свой рекорд в <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> сек.<END FC>. Судя по тому, каким уставшим ты выглядишь, побить его будет непросто.<E>"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_TimeFast01": {
+    "message": "Отлично! <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> сек.<END FC> — это новый рекорд! Побить такое время будет очень трудно. Наверняка тебе просто повезло!<E>"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_TimeReward01": {
+    "message": "А-а, весьма впечатляюще, мой друг! Немногим под силу пройти мою дистанцию.<P>Раз уж ты уложился всего в <FC 0,128,0><SO HT_Objective_Hel_Exterior_SwimmerTime> сек.<END FC>, я хочу вручить тебе этот подарок.<P>Его отдал мне один абидосский пловец давным-давно. Само собой, я им никогда не пользуюсь. Я и так плаваю достаточно быстро без помощи всяких глупых магических безделушек.<E>"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_TimeReward02": {
+    "message": "Если захочешь пройти дистанцию снова и попытаться побить свой рекорд, дай мне знать.<E>"
+  },
+  "HT_Text_Hel_Exterior_Swimmer_TimeFailed01": {
+    "message": "Ха-ха! Я знал, что мой маршрут тебе не по зубам. Возвращайся, когда побольше потренируешься, приятель.<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_Normal01": {
+    "message": "Приветствую! Добро пожаловать в <FC 128,64,0>Гелиополь<END FC>. Позволь представить тебе мою красавицу-жену, Кетту.<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_Normal02": {
+    "message": "В последнее время творятся странные вещи. Как бы я хотел, чтобы в <FC 128,64,0>Гелиополе<END FC> всё стало как прежде.<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeGone01a": {
+    "message": "Кетта! Кетта! Где ты? Что же мне делать? Моя жена пропала!<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeGone01b": {
+    "message": "Я проснулся сегодня утром, а её нет! О боже! С ней случилось что-то плохое! Я чувствую это!<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeGone01c": {
+    "message": "Мне показалось, я слышал её голос в этом здании, но я слишком напуган, чтобы войти внутрь. Будь проклята моя трусость!<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeGone01d": {
+    "message": "<EFF><EPO>Пожалуйста, войди и спаси её. Я умоляю тебя!<P><FC 128,64,0>Гелиополь<END FC> стал ужасным местом. Повсюду монстры, люди прокляты и обращены в камень, а теперь ещё и моя бедная Кетта! Пожалуйста, помоги мне!<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeGone02": {
+    "message": "Пожалуйста, найди мою жену! Ты для меня чужак, но к кому ещё мне обратиться? <E>"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeBack01": {
+    "message": "Герой вернулся! Ты спас мою жену! Как мне тебя отблагодарить?<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeBack02": {
+    "message": "При нашей первой встрече я и не понял, что ты ученик нашего друга Имхотепа. Он сказал, что хочет поговорить с тобой в <FC 128,64,0>Храме Солнца<END FC>.<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeBack03": {
+    "message": "Он также просил передать тебе это. Сказал, что эта вещь пригодится тебе в твоём странствии.<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadHusband_WifeBack04": {
+    "message": "Возвращение Кетты домой — это слёзы радости. Ещё раз спасибо, незнакомец. Спасибо!<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadWife_Normal01": {
+    "message": "Мой муж беспокоится о <FC 128,64,0>Гелиополе<END FC>. Я не могу его винить. Это место стало мрачным и гнетущим.<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadWife_Normal02": {
+    "message": "И всё же я уверена, что скоро жизнь в <FC 128,64,0>Гелиополе<END FC> вернётся в норму.<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadWife_Trapped01": {
+    "message": "Наконец-то хоть кто-то пришёл меня спасти! Пожалуйста, ты должен найти способ отключить это силовое поле!<P>Я уверена, что те три цветных луча питают его. Если ты найдёшь способ их погасить, я смогу выбраться!<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadWife_Trapped02": {
+    "message": "Пожалуйста, ты должен мне помочь!<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadWife_Back01": {
+    "message": "Ты мой герой, незнакомец!<E>"
+  },
+  "HT_Text_Hel_Exterior_NomadWife_Back02": {
+    "message": "Я никогда не забуду того, что ты для меня сделал. Твоё имя навсегда останется в моем сердце.<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Intro01": {
+    "message": "Привет! Скажи-ка, ты один из тех искателей приключений, что охотятся за сокровищами и всё в таком духе?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Intro01Accept": {
+    "message": "А-а... я так и думал, ты как раз из таких.<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Intro01Decline": {
+    "message": "Ну, внешность бывает обманчива. Я вот пастух сквиртов, хотя по мне и не скажешь.<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt01": {
+    "message": "Так вот, господин искатель приключений, у меня есть к тебе предложение. Тут завалялась одна блестящая вещица, которая тебя наверняка заинтересует.<P>Если поможешь мне и загонишь моих сквиртов обратно в загон, я отдам это сокровище тебе.<P>Ну что, принимаешь моё предложение?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt01Accept": {
+    "message": "Отлично! Загоняй сквиртов и возвращайся ко мне, когда закончишь.<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt01Decline": {
+    "message": "Ну что ж... Пожалуй, оставлю это чудесное блестящее сокровище себе.<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt02": {
+    "message": "Видишь ли, дело в моих сквиртах. Все они разбежались, и мне нужен кто-то, кто поможет их собрать. Если выручишь меня, я в долгу не останусь.<P>Так ты поможешь мне?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt02Accept": {
+    "message": "Отлично! Собери сквиртов и возвращайся ко мне, когда закончишь.<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt02Decline": {
+    "message": "Ну что ж... Пожалуй, оставлю это чудесное блестящее сокровище себе.<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt03": {
+    "message": "Ты решился мне помочь?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt03Accept": {
+    "message": "Отлично! Собери сквиртов и возвращайся ко мне, когда закончишь.<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Prompt03Decline": {
+    "message": "Ну что ж... Пожалуй, оставлю это чудесное блестящее сокровище себе.<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Squirts01": {
+    "message": "Там всё ещё бегает <FC 0,128,0><SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft> сквиртов<END FC>, мой друг!<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Squirts02": {
+    "message": "Там всё ещё бегает <FC 0,128,0><SO HT_Objective_Hel_Exterior_SquirtHerdSquirtsLeft> сквирт<END FC>, мой друг!<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Reward01": {
+    "message": "У тебя получилось! Благодаря тебе все мои сквирты в безопасности в своём загоне. Вот, держи, ты это заслужил.<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Done01": {
+    "message": "Мои сквирты в полном порядке, друг мой! Когда-нибудь я построю целое ранчо для сквиртов, где смогу держать сотни этих малюток.<E>"
+  },
+  "HT_Text_Hel_Exterior_SquirtHerd_Done02": {
+    "message": "Спасибо за помощь, незнакомец. Теперь мои сквирты в полной безопасности.<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_WallEntrance1": {
+    "message": "Сфинкс, а вот и ты! Я знал, что мы встретимся снова. Как видишь, мне героически удалось выжить в <FC 128,64,0>Уруке<END FC>. Впрочем, не буду утомлять тебя подробностями.<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_WallEntrance2": {
+    "message": "Тебе просто повезло в <FC 128,64,0>Уруке<END FC>, а этот клинок по праву должен принадлежать мне! Ты бы никогда не нашёл его без моей помощи!<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_WallEntrance3": {
+    "message": "И снова ты приписываешь себе таланты, которыми не обладаешь. Тебе сюда не подняться; у тебя просто не хватит сил прыгнуть так высоко! Твоя слабость жалка.<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_WallEntrance3a": {
+    "message": "Я нашёл Имхотепа в храме на <FC 128,64,0>Острове Храма Солнца<END FC>. Этот безумный старый дурак сказал, что ищет тебя.<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_WallEntrance4": {
+    "message": "Как видишь, ты даже войти не можешь! Я сам решу проблему, которую создал Анубис, что бы там ни говорил Имхотеп. Ещё увидимся!<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility01": {
+    "message": "Сфинкс, я слышал, ты убедил Анубиса освободить некоторых жителей <FC 128,64,0>Проклятого дворца<END FC>...<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility02": {
+    "message": "Мне неприятно это признавать, но я был о тебе неверного мнения. Я восхищаюсь твоей храбростью и состраданием к этим беднягам.<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility03": {
+    "message": "Ты доказал, что равен мне. В знак доброй воли я решил сделать тебе подарок.<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility04": {
+    "message": "Это не обычный подарок. Это — <FC 0,128,0>Тёмный камень невидимости<END FC>. Он дарует силу невидимости любому, кто его использует.<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility05": {
+    "message": "Уверен, он сослужит тебе добрую службу в твоих будущих поисках. Надеюсь, ты сможешь простить мне былую заносчивость. Приношу свои извинения, Сфинкс.<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility06": {
+    "message": "Не используй его! Это ловушка!<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility07": {
+    "message": "Это действительно <FC 0,128,0>Тёмный камень невидимости<END FC>, но у этой силы есть скверный побочный эффект: она вызывает мгновенную смерть!<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility08": {
+    "message": "Конечно! Тутанхамон сможет использовать его без всякой опасности для себя!<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility09": {
+    "message": "Оставь камень себе. Мы передадим его нашему другу Мумии при первой же возможности.<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility10": {
+    "message": "Боюсь, Гору больше нельзя доверять. Зависть к твоим успехам явно помутила его рассудок. Кто знает, каковы его истинные мотивы?<E>"
+  },
+  "HT_Text_Hel_Ext_Horus_Invisibility11": {
+    "message": "Возможно, его спасение в <FC 128,64,0>Уруке<END FC> было вовсе не вопросом везения...<E>"
+  },
+  "HT_Text_Hel_Exterior_DuckBeliever_FirstVisit": {
+    "message": "<FT HT_Font_Symbol>decadceabde ca bec deabca a becd edbeca dbace<END FT><E>"
+  },
+  "HT_Text_Hel_Exterior_SlyBeliever_FirstVisit": {
+    "message": "<FT HT_Font_Symbol>abdecca cabeddec ab ac dece bedac deb cbdbeba dbdba<END FT><E>"
+  },
+  "HT_Text_Hel_Exterior_ToothyBeliever_FirstVisit": {
+    "message": "<FT HT_Font_Symbol>edebec bec debba acbeda deb bedab<END FT><E>"
+  },
+  "HT_Text_Hel_Exterior_SquashBeliever_FirstVisit": {
+    "message": "<FT HT_Font_Symbol>dceab dceabde ca be bebdba dacade cedaccbcba<END FT> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_DuckBeliever_SecondVisit": {
+    "message": "Только Избранный из Пророчества сможет разгадать тайну Великого обелиска.<E>"
+  },
+  "HT_Text_Hel_Exterior_SlyBeliever_SecondVisit": {
+    "message": "Великий обелиск раскроет свою тайну только Избранному из Пророчества.<E>"
+  },
+  "HT_Text_Hel_Exterior_ToothyBeliever_SecondVisit": {
+    "message": "Внутри Великого обелиска скрыт предмет, имеющий огромное значение для Избранного из Пророчества.<E>"
+  },
+  "HT_Text_Hel_Exterior_SquashBeliever_SecondVisit": {
+    "message": "Избранный из Пророчества покорит <FC 128,64,0>Затерянный храм Гелиополя<END FC>, переведёт письмена Древних и раскроет тайну Великого обелиска.<E>"
+  },
+  "HT_Text_HT_Text_Hel_Exterior_DuckBeliever_ObeliskOpened": {
+    "message": "Ты расшифровал древние тексты на Обелиске. Есть ли ещё Обелиски, которые можно расшифровать?<E>"
+  },
+  "HT_Text_HT_Text_Hel_Exterior_SlyBeliever_ObeliskOpened": {
+    "message": "Это правда! Ты — Тот Самый. Для меня огромная честь находиться в твоём присутствии.<E>"
+  },
+  "HT_Text_HT_Text_Hel_Exterior_ToothyBeliever_ObeliskOpened": {
+    "message": "Должно быть, ты и есть тот, кто пришёл спасти <FC 128,64,0>Гелиополь<END FC> и древние царства!<E>"
+  },
+  "HT_Text_Hel_Exterior_SquashBeliever_ObeliskOpened": {
+    "message": "Боги прислали вестника! Мы будем молиться за тебя, Избранный.<E>"
+  },
+  "HT_Text_Hel_Exterior_Basket_Obelisk": {
+    "message": "И снова здравствуй, Сфинкс! У меня важные новости от Имхотепа.<P>Он доволен твоими успехами и артефактом, который у меня с собой — <FC 0,128,0>Руки Амона<END FC>. Он видит, что ты готов начать поиски <FC 0,128,0>Священной короны Урука<END FC>.<P>Он полагает, что корона может находиться на <FC 128,64,0>Островах Урука<END FC>, и чтобы попасть туда, тебе нужно найти проход к <FC 128,64,0>Входу III в Великую стену<END FC>.<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_CursedPalace01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Проклятый дворец<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_BedouinOutpost01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Аванпост бедуинов<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_WallEntrance01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Вход I в Великую стену<END FC> — к <FC 128,64,0>Башне Анубиса<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_WallEntrance02": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Вход II в Великую стену<END FC> — к <FC 128,64,0>Каньону Урука<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_WallEntrance03": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Вход III в Великую стену<END FC> — к <FC 128,64,0>Островам Урука<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToHeliopolisPoint01": {
+    "message": "<CNTR>---[ К <FC 128,64,0>мысу Гелиополя<END FC>, <FC 128,64,0>Входу III в Великую стену<END FC> ]---<N>---[ и входу в <FC 128,64,0>Южную пустыню<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToHeliopolisPoint02": {
+    "message": "<N><CNTR>---[ К <FC 128,64,0>мысу Гелиополя<END FC> и <FC 128,64,0>Входу III в Великую стену<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToBedouinOutpost01": {
+    "message": "<CNTR>---[ К <FC 128,64,0>аванпосту бедуинов<END FC> ]---<N>---[ Внимание! Только для сильных пловцов! ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToBedouinOutpost02": {
+    "message": "<N><CNTR>---[ К <FC 128,64,0>аванпосту бедуинов<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToSouthDesert01": {
+    "message": "<N><CNTR>---[ К <FC 128,64,0>Южной пустыне<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToCursedPalace01": {
+    "message": "<N><CNTR>---[ Ко <FC 128,64,0>Входу II в Великую стену<END FC>, <FC 128,64,0>Проклятому дворцу<END FC> ]---<N>---[ и <FC 128,64,0>Входу I в Великую стену<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToCursedPalace02": {
+    "message": "<N><CNTR>---[ К <FC 128,64,0>Проклятому дворцу<END FC> и <FC 128,64,0>Входу I в Великую стену<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToGreatObelisk01": {
+    "message": "<N><CNTR>---[ К <FC 128,64,0>Великому обелиску<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_ToSunShrine01": {
+    "message": "<CNTR>---[ К <FC 128,64,0>острову Храма Солнца<END FC> ]---<N>---[ Остерегайтесь иглобрюхов! ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SunShrine01": {
+    "message": "<N><CNTR>---[ Имхотеп приветствует вас на <FC 128,64,0>острове Храма Солнца<END FC>! ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_HeliopolisPoint01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Мыс Гелиополя<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SouthBeach01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Южный пляж<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_Cave01": {
+    "message": "<N><CNTR>---[ К <FC 128,64,0>Южному пляжу<END FC> и <FC 128,64,0>острову Храма Солнца<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_Cave02": {
+    "message": "<N><CNTR>---[ К <FC 128,64,0>Проклятому дворцу<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_Cave03": {
+    "message": "<N><CNTR>---[ К <FC 128,64,0>мысу Гелиополя<END FC> и <FC 128,64,0>Входу III в Великую стену<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_Cave04": {
+    "message": "<N><CNTR>---[ К <FC 128,64,0>Южному пляжу<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SquirtHerd01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Загон для сквиртов Сехмет<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_Trader01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Базар Бен-Бена<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_GlyphShop01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Лавка глифов Гебела<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_Farm01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Прибрежная ферма<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_BeetleShop01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Лавка жуков-ловушек Хуфу<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_BeetleShopClosed01": {
+    "message": "<N><CNTR>---[ <FC 128,64,0>Лавка жуков-ловушек Хуфу<END FC> ]---<N><CNTR>---[ Закрыто на ремонт, пожалуйста, зайдите позже ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_Healer01": {
+    "message": "<CNTR>---[ <FC 128,64,0>Целительница Шетта<END FC> ]---<N>---[ Исцеление и ритуалы <FC 0,128,0>осколков Анкха<END FC> ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_ArcheologistAway01": {
+    "message": "<N><CNTR>---[ Ушёл в экспедицию, вернусь через несколько месяцев. ]---<N><CNTR>---[ Археолог Урбэн ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_ArcheologistBack01": {
+    "message": "<N><CNTR>---[ Всемирно известный археолог Урбэн ]---<N><CNTR>---[ Первооткрыватель знаменитых <FC 0,128,0>осколков Розеттского камня<END FC>! ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_GreatObelisk01": {
+    "message": "<N><CNTR><FT HT_Font_Symbol>ade beda cdeabc ade decabde cabedacb a bedac<END FT> <E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk01": {
+    "message": "<N><CNTR><FT HT_Font_Symbol>decabde cabedacb a bedac...<END FT><E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk02": {
+    "message": "<N><CNTR><FT HT_Font_Symbol>...decadceabde ca bec deabca...<END FT><E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk03": {
+    "message": "<N><CNTR><FT HT_Font_Symbol>...abdecca cabeddec ab ac dece...<END FT><E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk04": {
+    "message": "<N><CNTR><FT HT_Font_Symbol>...edebec bec debba acbeda deb...<END FT><E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk05": {
+    "message": "<N><CNTR><FT HT_Font_Symbol>...dceab dceabde ca be...<END FT><E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk01Translated": {
+    "message": "<N><CNTR>---[ Когда эпоха Осириса подойдёт к концу... ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk02Translated": {
+    "message": "<N><CNTR>---[ ...Тень Сета падёт на нас... ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk03Translated": {
+    "message": "<N><CNTR>---[ ...но великий воин по имени Сфинкс... ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk04Translated": {
+    "message": "<N><CNTR>---[ ...явится миру как Избранный... ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Sign_SmallObelisk05Translated": {
+    "message": "<N><CNTR>---[ ...чтобы защитить Вечное Око Ра. ]---<E>"
+  },
+  "HT_Text_Hel_Exterior_Help_SmallObeliskTranslated": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Этот перевод древнего текста<N>был добавлен в ваши заметки!<E>"
+  },
+  "HT_Text_Hel_Exterior_Help_DoorLocked01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Эта дверь заперта с другой стороны.<E><ES HT_Text_ES_E_HelpText>"
+  },
+  "HT_Text_Hel_Exterior_Help_CrackedRock01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Эти валуны выглядят треснувшими и хрупкими.<E><ES HT_Text_ES_E_HelpText>"
+  },
+  "HT_Text_Hel_Exterior_Help_SlamAttack01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Переключатели такого типа можно активировать, только<N>выполнив <FC 0,128,0>УДАР СВЕРХУ<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Сделайте <FC 0,128,0>САЛЬТО<END FC>, а затем нажмите <SB HT_Action_Attack>,<N>находясь в воздухе, чтобы выполнить <FC 0,128,0>УДАР СВЕРХУ<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>УДАР СВЕРХУ<END FC> также можно использовать,<N>чтобы наносить урон врагам.<E><ES HT_Text_ES_E_HelpText>"
+  },
+  "HT_Text_Hel_Exterior_Help_EyePost01": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Этот смертоносный <FC 0,128,0>столб Ока Ра<END FC> сделан из<N>потрескавшегося камня. Похоже, какой-то<N>взрыв может его разрушить.<E><ES HT_Text_ES_E_HelpText>"
+  },
+  "HT_Text_Hel_Exterior_Help_AtunShrine01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Этот пьедестал выглядит так, будто сверху на нём<N>должна стоять небольшая статуя.<E><ES HT_Text_ES_E_HelpText>"
+  },
+  "HT_Text_Hel_Exterior_Help_BurnBox01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Этот деревянный ящик выглядит так, будто он может<N>сгореть, если источник огня окажется достаточно близко.<E><ES HT_Text_ES_E_HelpText>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>50 скарабеев<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot02": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>бронзовый анкх<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ваше здоровье восстановлено на <FC 0,128,0>1 анкх<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot03": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>200 скарабеев<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot04": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>осколок золотого анкха<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Соберите четыре таких осколка, и знающий человек<N>сможет увеличить ваш максимальный запас здоровья.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot05": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>серебряный анкх<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ваше здоровье восстановлено на <FC 0,128,0>5 анкхов<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot06": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>400 скарабеев<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot07": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>10 скарабеев<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot08": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>100 скарабеев<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot09": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>20 жуков-ловушек<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot10": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>600 скарабеев<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot11": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>20 скарабеев<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot12": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>серебряный анкх<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ваше здоровье восстановлено на <FC 0,128,0>5 анкхов<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot13": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>200 скарабеев<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot14": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>10 скарабеев<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot15": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>осколок золотого анкха<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Соберите четыре таких осколка, и знающий человек<N>сможет увеличить ваш максимальный запас здоровья.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotFarmPlot16": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>500 скарабеев<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotCreatureList01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>список монстров<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>В списке четыре монстра. Просмотрите его, выбрав предмет в Книге Сфинкса.<E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotCreatureList02": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>список монстров<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>В списке четыре монстра. Просмотрите его, выбрав предмет в Книге Сфинкса.<E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotCreatureList03": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>список монстров<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>В списке четыре монстра. Просмотрите его, выбрав предмет в Книге Сфинкса.<E>"
+  },
+  "HT_Text_Hel_Exterior_Help_GotAbydosID": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>пропуск в Абидос<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Этот официальный документ дает неограниченный<N>доступ в город <FC 128,64,0>Абидос<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02a": {
+    "message": "У тебя получилось! Ты расшифровал все <FC 0,128,0>5 золотых обелисков Гелиополя<END FC>!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02b": {
+    "message": "Это послание невероятно! Древние предвидели, что на нас падет тьма, и начертали на обелисках <FC 0,128,0>Древнее пророчество Ра<END FC>...<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02c": {
+    "message": "<EFF><EPO><FC 0,128,0>Когда эпоха Осириса подойдет к концу, тень Сета падет на нас...<END FC><P><FC 0,128,0>но великий воин по имени Сфинкс явится миру как Избранный, чтобы защитить Вечное Око Ра.<END FC> <E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02d": {
+    "message": "Это ты! Ты и есть Избранный! У меня просто слов нет.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Reward02e": {
+    "message": "<EFF><EPO>Я хочу, чтобы ты взял это — оно поможет тебе в поисках. Это магическая статуя, которая, по преданию, открывает <FC 0,128,0>Великий обелиск<END FC> на скалах над <FC 128,64,0>Южным пляжем<END FC>.<P>Ты должен преуспеть в своём задании. Судьба всех нас в твоих руках. Удачи, великий воин! <E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Obelisks01": {
+    "message": "Слова Древних начертаны на <FC 0,128,0>Золотых обелисках<END FC> по всему <FC 128,64,0>Гелиополю<END FC>. Мне всегда было любопытно, что же наши древние предки запечатлели в этих текстах.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Obelisks02": {
+    "message": "О, я вижу, ты расшифровал часть <FC 0,128,0>Золотых обелисков<END FC>!<P>Хм... похоже, это может быть очень важное пророчество. Тебе стоит расшифровать остальные обелиски, чтобы узнать всё, что хотели сказать Древние.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Archeologist_Done01": {
+    "message": "Ты должен преуспеть в своём задании. Наша судьба в твоих руках!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_BeetleBreeder_Intro01": {
+    "message": "Добро пожаловать, незнакомец! Если вы ценитель отборных <FC 0,128,0>жуков-ловушек<END FC>, то вы пришли по адресу!<P>У меня в наличии только самые лучшие обученные жуки — гарантирую, они полетят именно туда, куда вы пожелаете.<P>Можете ознакомиться с моим ассортиментом.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIntro01": {
+    "message": "Хотя сейчас у меня полно товара, боюсь, в ближайшем будущем всё может измениться.<P>Видите ли, мой особый <FC 0,128,0>кувшин для разведения жуков<END FC>... он пропал несколько дней назад.<P>Если я не получу его обратно в ближайшее время, я не смогу разводить новых жуков. Моё дело может прогореть!<P>Вы выглядите как человек, который много путешествует, так что если вам доведется найти мой <FC 0,128,0>кувшин для разведения жуков<END FC>, пожалуйста, верните его мне.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestIncomplete01": {
+    "message": "Товара пока хватает, чтобы полки не пустовали, но это ненадолго.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestComplete01": {
+    "message": "Мой <FC 0,128,0>кувшин для разведения жуков<END FC>! Не верится, что ты его нашёл!<P>Теперь я смогу снова заняться пополнением запасов! Как мне тебя отблагодарить?<P>Возьми эту <FC 0,128,0>карту постоянного покупателя<END FC>. Она даёт тебе право покупать жуков вполцены при каждом визите.<P>Ещё раз спасибо, незнакомец!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_BeetleBreeder_QuestComplete02": {
+    "message": "С возвращением, дорогой клиент. Помни, твоя <FC 0,128,0>карта постоянного покупателя<END FC> даёт скидку 50% на всех жуков!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_Intro01": {
+    "message": "Приветствую! Всегда приятно видеть новое лицо. У нас редко бывают гости.<P>Я Шетта, местная целительница <FC 128,64,0>аванпоста бедуинов<END FC>. Я искусна в древних исцеляющих заклинаниях и ритуалах.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_Prompt01": {
+    "message": "Что привело тебя в наш аванпост сегодня?<N>  <B 1> Исцеление<N>  <B 2> Ритуал <FC 0,128,0>осколков Анкха<END FC><N>  <B 3> Ничего особенного<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_HealingPrompt01": {
+    "message": "Я могу полностью восстановить твоё здоровье за <FC 0,128,0>50 скарабеев<END FC>.<N>  <B 1> Исцели меня<N>  <B 2> Неважно<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_HealingAccept01": {
+    "message": "Отлично! Теперь стой смирно...<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_HealingComplete01": {
+    "message": "Готово! Ты полон сил! Уверена, ты чувствуешь, как жизненная энергия пульсирует в твоих жилах!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_HealingFull01": {
+    "message": "Ты и так достаточно здоров, мои силы тебе не нужны!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_AnkhPrompt01": {
+    "message": "Для ритуала мне понадобится <FC 0,128,0>4 золотых осколка Анкха<END FC>.<N>  <B 1> Хорошо<N>  <B 2> Ни за что<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_AnkhPrompt02": {
+    "message": "Ритуал стоит <FC 0,128,0>200 скарабеев<END FC><N>  <B 1> Хорошо<N>  <B 2> Ни за что<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_AnkhAccept01": {
+    "message": "Отлично! Теперь стой смирно...<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_AnkhComplete01": {
+    "message": "Готово! Твои <FC 0,128,0>золотые осколки Анкха<END FC> воссоединились!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_AnkhNotEnough01": {
+    "message": "Извини, но мне нужно <FC 0,128,0>4 золотых осколка Анкха<END FC>, чтобы провести этот ритуал.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_GenericDecline01": {
+    "message": "Как пожелаешь. Заходи, если передумаешь.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Healer_NotEnoughScarabs": {
+    "message": "Извини, но у тебя недостаточно <FC 0,128,0>скарабеев<END FC>.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Hippy_MyLife": {
+    "message": "Привет! Не ожидал увидеть тебя в этих краях. Похоже, ты любишь путешествовать так же сильно, как и я.<P>Я заглядываю сюда, в <FC 128,64,0>Гелиополь<END FC>, время от времени — просто чтобы порелаксировать на пляже.<P>Проблема только в том, что сейчас здесь слишком жарко и солнечно, чтобы просто так валяться.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Hippy_ItemPrompt": {
+    "message": "Опа! <FC 0,128,0>Зонтик<END FC>! Отдашь его мне, чтобы я мог спрятаться в тени?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Hippy_ItemDecline": {
+    "message": "Ну и облом, чувак! Весь настрой мне сбил!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Hippy_ThanksAgain": {
+    "message": "Эй, ещё раз спасибо, чувак!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Hippy_TooSunny": {
+    "message": "Эх, чувак... всё ещё слишком солнечно, чтобы отдыхать на пляже.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Hippy_Thanks1b": {
+    "message": "Взамен можешь забрать этот <FC 0,128,0>кошель для скарабеев<END FC>, если хочешь. Мне он теперь без надобности.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Help_AnkhIncrease": {
+    "message": "<N><CNTR>Вы получили <FC 0,128,0>осколок золотого анкха<END FC>!<P><CNTR>Соберите больше <FC 0,128,0>золотых осколков Анкха<END FC>, чтобы ещё сильнее увеличить свой запас здоровья.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Help_GotLoyaltyCard": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>карту постоянного покупателя<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Эта карта даёт владельцу право покупать жуков в лавке <FC 128,64,0>аванпоста бедуинов<END FC> вполцены.<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Complete1a": {
+    "message": "О боги! Я не верю своим глазам! Я расшифровал <FC 0,128,0>Розеттский камень<END FC>!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Complete1b": {
+    "message": "У меня получилось, мой друг! Наконец-то, спустя столько долгих лет, я осуществил свою мечту! Я бы не справился без тебя! Ты сделал старика по-настоящему счастливым.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Complete1c": {
+    "message": "<EFF><EPO>Пожалуйста, прими этот восстановленный камень в дар. С его помощью ты сможешь расшифровать <FC 0,128,0>5 золотых обелисков Гелиополя<END FC>!<END FC><P>Как только расшифруешь все 5 обелисков, возвращайся и расскажи мне, что удалось узнать.<P>Я слишком стар, чтобы искать их самому, но мне безумно интересно, что же ты откроешь!<P>Не забывай, что за своими находками можно следить в заметках. Удачи!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Wait1a": {
+    "message": "Мне всё ещё нужно время, чтобы собрать осколки воедино. <E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Wait1b": {
+    "message": "Просто уходи, мне нужно сосредоточиться! <W 25>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1a": {
+    "message": "Приветствую, путник! Добро пожаловать в наш скромный <FC 128,64,0>аванпост бедуинов<END FC>.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1b": {
+    "message": "Если ты ценитель отборных <FC 0,128,0>жуков-ловушек<END FC>, то ты пришёл по адресу.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime1c": {
+    "message": "Присмотрись к моему товару, пока есть возможность. Если я скоро не найду свой <FC 0,128,0>кувшин для разведения жуков<END FC>, продавать будет просто некого!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Breeder_FirstTime": {
+    "message": " Много лет назад я провалился в странный портал и застрял в этом мире. Не то чтобы я сильно возражал.<P>Теперь я могу полностью посвятить себя любимому хобби — коллекционированию и разведению жуков.<P>Раньше у меня была коллекция редких взрывных жуков на дистанционном управлении, но несколько недель назад песчаная буря унесла их прочь вместе с моим запасным <FC 0,128,0>ранцем для жуков<END FC>. Ну да ладно, жизнь — штука переменчивая!<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Help_GotBeetleBreederItem": {
+    "message": "<N><CNTR>Вы нашли <FC 0,128,0>кувшин для разведения жуков<END FC>!<P><CNTR>Разводчик жуков в <FC 128,64,0>аванпосте бедуинов<END FC> будет очень рад его возвращению.<E>"
+  },
+  "HT_Text_Hel_BedouinOutpost_Help_GotRosettaStone": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>Розеттский камень<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Эта древняя плита позволяет вам<N><CNTR>расшифровывать письмена Древних!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_Done01": {
+    "message": "Проходи. Фараон тебя уже заждался.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_Done01": {
+    "message": "Не заставляй Фараона ждать.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_Done02": {
+    "message": "Поверить не могу, что этот предатель обвёл меня вокруг пальца!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_Done02": {
+    "message": "Если то существо было самозванцем, то что стало с нашим настоящим Фараоном?<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_Prompt01": {
+    "message": "Я предвижу, что ты позолотишь мне ручку, дав <FC 0,128,0>30 скарабеев<END FC><N>  <B 1> Хорошо<N>  <B 2> Ни за что<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_Accept01": {
+    "message": "Отлично, теперь я предскажу местонахождение давно утерянного <FC 0,128,0>осколка золотого анкха<END FC>...<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_Decline01": {
+    "message": "Странно... мои способности к предсказанию сегодня явно барахлят.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_NotEnoughScarabs": {
+    "message": "Извини, но у тебя недостаточно <FC 0,128,0>скарабеев<END FC>.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPiecesNoneValid": {
+    "message": "Будущее туманно... Боюсь, сейчас я не могу узреть местоположение других <FC 0,128,0>осколков золотого анкха<END FC>. Попробуй зайти позже, возможно, я смогу помочь.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_AnkhPiecesComplete": {
+    "message": "Если моё чутье меня не обманывает, я верю, что ты нашёл все древние <FC 0,128,0>осколки золотого анкха<END FC>! Поистине невероятно!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1a": {
+    "message": "Что за...? Что это за странное место?<W 30>"
+  },
+  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1b": {
+    "message": "Ой! Напугал ты меня, незнакомец!<W 30>"
+  },
+  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1c": {
+    "message": "Меня призвали из <FC 128,64,0>Абидоса<END FC>, чтобы я написал автобиографию Фараона, и вдруг на меня навалилась такая сонливость... А в следующий миг я уже здесь, с тобой.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1d": {
+    "message": "Все эти странные события натолкнули меня на идею для захватывающей новой книги! Я немедленно возвращаюсь в <FC 128,64,0>Абидос<END FC>, чтобы начать работу над ней.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Scribe_WakeUp1e": {
+    "message": "Спасибо за помощь, незнакомец, прими эту мою книгу в подарок. Будешь в <FC 128,64,0>Абидосе<END FC> — заскакивай поболтать. Бывай!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Help_GotBookOfTheDead": {
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>Книгу Мёртвых<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>С этим древним фолиантом вы сможете призывать Бас-Кет,<N><CNTR>чтобы передавать <FC 0,128,0>канопы<END FC> Мумии!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp": {
+    "message": "Что случилось? О нет! Мои любимые пёсики пропали!<P>Прошу вас, господин, вы должны мне помочь! Последнее, что я помню — как мои собачки озлобились и напали на меня! С чего бы им это делать?!<P>Кажется, сейчас они убежали, но если бы вы смогли найти их, я была бы вам крайне признательна.<P>Только будьте осторожны. Когда я видела их в последний раз, у них был, скажем так, скверный нрав...<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_DogsAllStillMissing": {
+    "message": "Если найдёте моих пёсиков, пожалуйста, направьте их ко мне, я так за них волнуюсь.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_DogsStillMissing": {
+    "message": "Некоторые из моих любимцев вернулись, но <FC 0,128,0><SO HT_Objective_Hel_CursedPalace_MotherNumChihuahuasLeft><END FC> всё ещё где-то бродят. Ох, надеюсь, с ними всё в порядке!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_DogsOneStillMissing": {
+    "message": "Некоторые из моих любимцев вернулись, но <FC 0,128,0>1<END FC> всё ещё не найден. Ох, надеюсь, с ним всё хорошо!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_DogsAllFound": {
+    "message": "Огромное вам спасибо! Все мои пёсики вернулись, наконец-то я могу перестать нервничать.<P>Прошу, возьмите это. Вам стоит открыть собственный питомник!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_ThanksAgain": {
+    "message": "Ещё раз спасибо за спасение моих бедных милых собачек. Кто мог сотворить такое с невинными созданиями?<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp": {
+    "message": "О боже! Голова кругом!<P>Последнее, что я помню — мой муж, Фараон, вёл себя крайне странно.<P>Он был одержим постройкой башни за <FC 128,64,0>Великой стеной<END FC>.<P>Он стал очень вспыльчивым и агрессивным. Надеюсь, сейчас ему лучше.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_StillWorried": {
+    "message": "Мой дорогой Фараон! Надеюсь, он в добром здравии.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp": {
+    "message": "Гр-р-р! Что это за дьявольщина была?<P>Помню только, что Фараон очень пёкся о безопасности. Похоже, у него были все причины для осторожности.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_GoAway": {
+    "message": "Аудиенция у Фараона невозможна без <FC 0,128,0>приглашения<END FC>.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_OpenDoor": {
+    "message": "Я вижу, у вас есть <FC 0,128,0>приглашение<END FC>. Фараон с радостью примет вас.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp": {
+    "message": "Проклятье! Что это было, во имя Ра?<P>Возможно, Фараон был прав, настаивая на усилении охраны дворца.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_GoAway": {
+    "message": "Посетители без <FC 0,128,0>приглашения<END FC> строго не допускаются.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_OpenDoor": {
+    "message": "Да, ваше <FC 0,128,0>приглашение<END FC>, похоже, в порядке, проходите.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp": {
+    "message": "Нет! Я не позволю планам моего Повелителя рухнуть из-за тебя!<P>Попробуй вмешаться, и я раздавлю тебя, как ничтожное насекомое!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FarmersBrother_Thanks": {
+    "message": "А? О-о-о! Спасибо, что сняли заклятье!<P>Мне пора бежать. <E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1a": {
+    "message": "А-аргх-х-х! Повержен каким-то ребёнком!<P>Сейчас я разбит, но в этот день ты совершил роковую ошибку: ты встал на пути у всемогущего Сета.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1b": {
+    "message": "От его ярости содрогнётся земля, небеса будут выжжены, а сердца всех живых существ иссохнут от ужаса.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1c": {
+    "message": "В свои последние мгновения я нахожу утешение в том, что впереди тебя ждёт лишь долгая и мучительная смерть.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossDead1d": {
+    "message": "<END TT><TT 2>Сет... уничтожит... тебя... <W 5><P><END TT><TT 6>Сфинкс...<W 1>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a": {
+    "message": "Что ж, должен признать, ты настойчив. Однако эта настойчивость не поможет тебе заполучить корону.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a11": {
+    "message": "<EFF><EPO>Я не позволю ей попасть в столь невежественные руки. Тебе никогда не понять её мощи!<P>Анубис уже пытался отобрать у меня корону, но потерпел неудачу. Ему лишь оставалось навечно обратить меня в камень.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a1": {
+    "message": "<EFF><EPO>Это было единственное, что могло меня остановить. И теперь он посылает тебя, свою мелкую марионетку, чтобы забрать её.<P>Должно быть, он совсем состарился и впал в маразм, гния в своей башне. Ха-ха-ха-ха!!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a2": {
+    "message": "Я верну эту корону моему господину Сету...<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1a3": {
+    "message": "...но сперва я прикончу тебя!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_BossStart1b": {
+    "message": "Ты получишь корону только через мой труп!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1a": {
+    "message": "М-м-м... А? Что здесь происходит? Где я?<P>"
+  },
+  "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1b": {
+    "message": "Погодите-ка, это же <FC 128,64,0>Дворец Фараона<END FC>. Как же я здесь оказался?<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1c": {
+    "message": "<EFF><EPO>Точно! Меня же позвали работать в дворцовых садах! Но я не узнаю никого из этих людей...<P>Я думал, Фараон запретил принимать посетителей... Интересно, что он скажет, когда увидит все эти каменные изваяния повсюду.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1d": {
+    "message": "Как бы то ни было, мне пора возвращаться на ферму к брату — он, должно быть, с ума сходит от волнения. Спасибо, что освободил меня, друг мой.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FarmersBrother_WakeUp1e": {
+    "message": "Заглядывай к нам на ферму, она тут совсем рядом, на холме. Приходи, мы поможем тебе, чем сможем.<E> "
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1a": {
+    "message": "А? Что? Где?.. А-а, приветствую тебя, юноша. Я предвидела, что именно ты освободишь меня от проклятия.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1b": {
+    "message": "Мой дар предсказания известен во всём <FC 128,64,0>Абидосе<END FC>, но даже я не смогла узреть приближение проклятия, заточившего меня здесь.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1c": {
+    "message": "Жена Фараона призвала меня, чтобы узнать будущее, но затем... Погоди-ка. О-о-о, я что-то вижу...<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1d": {
+    "message": "<FC 128,64,0>Гелиополь<END FC> когда-то был светлым и мирным краем...<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1e": {
+    "message": "...но затем всё начало меняться: дни становились короче, а ночи — всё длиннее и длиннее...<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1f": {
+    "message": "...странные монстры начали появляться на холмах далеко на севере...<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1g": {
+    "message": "...климат изменился; в горах пробудились вулканы; земля начала трескаться, извергая лаву из своих глубин...<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1h": {
+    "message": "<EFF><EPO>...но затем произошло нечто в высшей степени таинственное.<P>Когда забрезжил рассвет и жители <FC 128,64,0>Гелиополя<END FC> проснулись, чтобы встретить новый день, они увидели то, во что не могли ни поверить, ни осознать...<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1i": {
+    "message": "<EFF><EPO>...монументальная стена выросла через весь <FC 128,64,0>Гелиополь<END FC>.<P>Они были потрясены её появлением, но в то же время благодарны. Очевидно, эта стена была воздвигнута, чтобы защитить их от хаоса, творящегося на севере.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1j": {
+    "message": "Увы, в этой истории был горький финал. Стена появилась, но все обитатели <FC 128,64,0>Дворца Фараона<END FC> были прокляты и обращены в камень.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1j1": {
+    "message": "Это была непомерная цена за защиту, дарованную стеной.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k": {
+    "message": "С тех пор это место стали называть <FC 128,64,0>Проклятым дворцом<END FC>.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k1": {
+    "message": "<EFF><EPO>О-о-о, я также вижу много интересного в твоём будущем... Я вижу, что ты ищешь утраченную священную корону... <E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k2": {
+    "message": "...вижу древний затерянный храм, скрытый среди песков великой пустыни...<E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k3": {
+    "message": "...вижу <FC 0,128,0>Золотые обелиски<END FC>, хранящие в себе тайну... <E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1k4": {
+    "message": "...и вижу проявление великой силы. <E>"
+  },
+  "HT_Text_Hel_CursedPalace_FortuneTeller_WakeUp1l": {
+    "message": "Это всё, что я могу разглядеть на данный момент, юноша. Теперь я должна вернуться домой в <FC 128,64,0>Абидос<END FC>. Я предвижу, что мы ещё встретимся в будущем. Прощай.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp1a": {
+    "message": "Аргх! Что за дьявольщина?! Что здесь происходит?<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp1b": {
+    "message": "Благодарю тебя, незнакомец, за моё освобождение, но боюсь, что не могу позволить тебе увидеться с Фараоном.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_WakeUp1c": {
+    "message": "У меня строгий приказ: никаких посетителей без <FC 0,128,0>приглашения<END FC>.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp1a": {
+    "message": "Гр-р-р! А-а-аргх! Что это за дьявольщина была?.. Ты! Ты что здесь делаешь?! Тебе лучше убраться из дворца подобру-поздорову! <E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp1b": {
+    "message": "Во дворце творятся очень странные дела... но мне запрещено об этом говорить. Уходи, пока с тобой не случилось чего-нибудь ужасного! <E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_WakeUp1c": {
+    "message": "Тебе опасно здесь оставаться! <E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard1_OpenDoor1a": {
+    "message": "Ладно, я пропущу тебя... но только если принесёшь нужную вещь. <E>"
+  },
+  "HT_Text_Hel_CursedPalace_PalaceGuard2_OpenDoor1b": {
+    "message": "Фараон любезно согласился принять тебя прямо сейчас! <E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_1stcaptured1a": {
+    "message": "О боже мой, вы поймали его! Вы — предобрейший господин.<W 50>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_1stcaptured1b": {
+    "message": "Боюсь, там всё ещё бегают <FC 0,128,0><SO HT_Objective_Hel_CursedPalace_MotherNumChihuahuasLeft> собачек<END FC>.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_1stcaptured1c": {
+    "message": "Уверена, они где-то в этом здании.<E> "
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp1a": {
+    "message": "Ох, батюшки! Что произошло? Что это за странное место?<W 50>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp1b": {
+    "message": "Мои пёсики! Куда же делись мои драгоценные пёсики?! О боже! Что же мне делать?<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp1c": {
+    "message": "Прошу вас, сэр! Вы должны мне помочь! Я не могу вернуться домой к сестре в <FC 128,64,0>Абидос<END FC> без моих любимых собачек!<E> "
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp1d": {
+    "message": "Они должны быть где-то рядом. Уверена, они бы не стали убегать далеко сами по себе. Видит Ра, я не переживу, если с ними что-то случится!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp1e": {
+    "message": "Смотрите! Вон там! Это один из моих пёсиков, Мут!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_WakeUp1f": {
+    "message": "Пожалуйста, сэр, поймайте его и верните мне.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_DogsAllFound1a": {
+    "message": "О боже мой! Огромное вам спасибо. Вы нашли всех моих собачек! Наконец-то я могу забрать их домой и перестать волноваться.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_Mother_DogsAllFound1b": {
+    "message": "Пожалуйста, примите это в знак моей признательности.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1a": {
+    "message": "Я так долго ждал конца этого гнусного проклятия!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1b": {
+    "message": "Полагаю, я должен благодарить тебя за избавление от мерзких чар Анубиса...<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1c": {
+    "message": "Анубис оказался хитрее, чем я думал, остановив меня прежде, чем я успел завершить задуманное. <E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1d": {
+    "message": "Неужели Анубис ищет... эту корону?!<E>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1e": {
+    "message": "Если хочешь получить её, сперва поймай меня! <W 60>"
+  },
+  "HT_Text_Hel_CursedPalace_CursedPharaoh_WakeUp1f": {
+    "message": "Ха-ха-ха! Поймай, если сможешь!<W 60>"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_HusbandDead1a": {
+    "message": "Я была уверена, что с моим мужем что-то не так, но это был не он! Как я могла так долго заблуждаться?<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_HusbandDead1b": {
+    "message": "Но если это был не мой муж, то где же он сам? Я молюсь за его спасение.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_HusbandDead1c": {
+    "message": "Если вам доведётся его найти, пожалуйста, направьте его ко мне. Я не знаю, что буду делать без него.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1a": {
+    "message": "О боже! Голова кругом. Где я? О, здравствуйте, кажется, я вас раньше не видела.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1b": {
+    "message": "Что, во имя Ра, произошло? Откуда здесь взялись все эти статуи?<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1c": {
+    "message": "<EFF><EPO>Надеюсь, мой муж в порядке. Когда я видела его в последний раз, он вёл себя очень странно.<P>Он был буквально одержим так называемым <FC 128,64,0>Затерянным храмом Гелиополя<END FC>. Я никогда его таким не видела.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1d": {
+    "message": "Он говорил, что храм спрятан в <FC 128,64,0>Южной пустыне Гелиополя<END FC> и что в нём хранится важный древний артефакт.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_PharaohsWife_WakeUp1e": {
+    "message": "<EFF><EPO>Он просил меня сохранить этот ключ в тайне, он открывает ворота в <FC 128,64,0>Южную пустыню<END FC>.<P>Прошу, возьмите его. Вы доказали, что вам можно доверять. Спасибо за помощь, незнакомец.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_TakeCrown1": {
+    "message": "Ах... великолепно! С этой третьей короной ты скоро познаешь их истинную мощь.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_TakeCrown2": {
+    "message": "Но впереди тебя ждёт ещё немало опасностей.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_TakeCrown3": {
+    "message": "Ты близок к исполнению своего предназначения...<E>"
+  },
+  "HT_Text_Hel_CursedPalace_TakeCrown4": {
+    "message": "Развязка Пророчества уже близка.<E>"
+  },
+  "HT_Text_Hel_CursedPalace_TakeCrown5": {
+    "message": "Прими этот <FC 0,128,0>Золотой анкх<END FC> в награду за свои свершения.<P><ES HT_Text_ES_S_HelpText><CNTR>Этот магический артефакт увеличил ваше здоровье на <FC 0,128,0>1 анкх<END FC> и полностью восстановил его!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_CursedPalace_Help_GotHelianCrown": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>Священную корону Гелиополя<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Анубис наверняка захочет поскорее увидеть этот древний артефакт.<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Hel_CursedPalace_Help_GotRoyalInvite": {
+    "message": "<N><CNTR>Вы получили <FC 0,128,0>Королевское приглашение<END FC>!<P><CNTR>Этот официальный документ дает вам право на встречу с Фараоном <FC 128,64,0>Гелиополя<END FC>.<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Intro02": {
+    "message": "Ты должен преуспеть! Узнать секрет <FC 0,128,0>Розеттского камня<END FC> — мечта всей моей жизни.<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_StonePiece01": {
+    "message": "И снова здравствуй, мой мальчик. Погоди-ка... это он? Неужели? Боги мои, так и есть! Ты нашел один из <FC 0,128,0>осколков Розеттского камня<END FC>!<P>Отличная работа, юноша! Если ты найдешь остальные <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> осколков<END FC>, я смогу восстановить камень и разгадать тайну, которую он хранит!<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_StonePiece02": {
+    "message": "Тебе осталось найти всего <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> осколков<END FC>, и мы сможем приоткрыть завесу тайны!<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_StonePiece03": {
+    "message": "Тебе остался всего <FC 0,128,0><SO HT_Objective_Hel_Dungeon_ArcheologistPiecesRemaining> осколок<END FC>, и мы сможем наконец разгадать секрет камня!<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_StonePiece04": {
+    "message": "Вот оно! У тебя получилось! Ты собрал все <FC 0,128,0>осколки Розеттского камня<END FC>!<P>Теперь я должен попытаться воссоединить части легендарного <FC 0,128,0>Розеттского камня<END FC> и познать его секрет.<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_StonePiecePrompt01": {
+    "message": "Позволишь мне забрать <FC 0,128,0>осколки Розеттского камня<END FC>?<N>  <B 1> Да<N>  <B 2> Нет<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_StonePieceDecline": {
+    "message": "Что ж, можешь оставить их себе, если желаешь. Но ты не найдешь никого, кто смыслил бы в секретах камня больше меня. Для тебя они совершенно бесполезны.<E>"
+  },
+  "HT_Text_Hel_Dungeon_Help_DoorChains": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Тяжелые цепи мешают вам<N>открыть эту дверь.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Dungeon_Help_SkeletonClue": {
+    "message": "<CNTR>---[ <FC 0,128,0>Кости нежити<END FC> должны быть подношением; в порядке от головы до пят, слева направо ]---<E>"
+  },
+  "HT_Text_Hel_Dungeon_Help_GotBone01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>череп скелета<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Dungeon_Help_GotBone02": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>таз скелета<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Dungeon_Help_GotBone03": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>руку скелета<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Dungeon_Help_GotBone04": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>ногу скелета<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Dungeon_Help_ShrinePromptTakeItem": {
+    "message": "<ES HT_Text_ES_S_HelpText>Забрать предмет из алтаря?<N>  <B 1> Да<N>  <B 2> Нет<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Dungeon_Help_ShrineNoItem": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Это алтарь для какого-то предмета.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_a": {
+    "message": "Приветствую, молодой человек. Я — Урбэн, археолог. <E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_b": {
+    "message": "Я посвятил большую часть жизни поискам <FC 0,128,0>Розеттского камня<END FC>. Разумеется, не считая юных лет. <E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_c": {
+    "message": "Я проделал такой долгий путь, но эта задача мне не под силу. Теперь я никогда не узнаю секрет <FC 0,128,0>Розеттского камня<END FC>. <E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_c1": {
+    "message": "Пожалуйста, следуй за мной. Позволь мне показать тебе кое-что любопытное. <E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_d": {
+    "message": "<EFF><EPO>Эти древние письмена на стене гласят, что камень был разбит на шесть частей и осколки были спрятаны внутри этого храма.<P>Однако там также сказано, что их охраняют свирепые твари. <E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_e": {
+    "message": "Я слишком стар и немощен, чтобы отважиться войти в храм. Увы, я умру, так и не исполнив свою мечту.<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_f": {
+    "message": "Но постой! Ты молод и силен, каким когда-то, кажется, был и я! Ступай в храм, если у тебя есть тяга к приключениям.<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Presentation_g": {
+    "message": "Если найдешь <FC 0,128,0>осколки Розеттского камня<END FC>, верни их мне и сделай старика счастливым.<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_a": {
+    "message": "<EFF><EPO>Превосходно, мой мальчик! Превосходно! Теперь я должен вернуться в свою палатку в <FC 128,64,0>аванпосте бедуинов<END FC> и приступить к работе.<P>Обязательно наведайся ко мне, чтобы узнать о результатах моих исследований. <FC 128,64,0>Аванпост бедуинов<END FC> легко найти, если пройти через подводный туннель из <FC 128,64,0>Проклятого дворца<END FC>.<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_b": {
+    "message": "Прежде чем я уйду, я хочу отдать тебе эти <FC 0,128,0>подводные снаряды<END FC>. Они пригодятся тебе на обратном пути в <FC 128,64,0>аванпост бедуинов<END FC>.<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Complete_Yes_c": {
+    "message": "Не забудь навестить меня и узнать, что я выяснил! Надеюсь на скорую встречу, молодой человек!<E>"
+  },
+  "HT_Text_Hel_Dungeon_Archeologist_Complete_no": {
+    "message": "Увы, можешь оставить их себе, но тебе не найти никого, кто был бы более искусен в разгадывании тайн этого камня, чем я.<E>"
+  },
+  "HT_Text_Hel_WallSection1_Help_BlowpipeTargets": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>В такие мишени можно стрелять из <FC 0,128,0>духовой трубки<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_WallSection2_Help_KaAnkh01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Это <FC 0,128,0>точка запуска Ка-Анкха<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>С её помощью можно магическим образом перенестись<N>к местоположению ближайшего <FC 0,128,0>Ка-Анкха<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_KaTile>, стоя на точке запуска,<N>чтобы войти в режим прицеливания.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_WallSection2_Help_KaAnkh02": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Прицельтесь и выстрелите в светящуюся верхушку<N>ближайшего <FC 0,128,0>Ка-Анкха<END FC>, и вы мгновенно<N>перенесетесь в это место.<E><ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_Presentation1a": {
+    "message": "Так вот ты какой, Сфинкс. Какое разочарование. Я ожидал куда большего.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_Presentation1a1": {
+    "message": "<EFF><EPO>Я знаю, зачем ты здесь. Ты желаешь совершить то, в чём многие до тебя потерпели неудачу.<P>Если хочешь освободить жителей <FC 128,64,0>Проклятого дворца<END FC>, ты должен доказать мне, что достоин этого. Твоим первым испытанием станет проверка мужества и веры...<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_Presentation1b": {
+    "message": "Подойди, Сфинкс. Подойди ближе. Пусть эта смертоносная огненная бездна не пугает тебя.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_Presentation1c": {
+    "message": "Ха-ха! Это был всего лишь фокус в сравнении с той мощью, которой я обладаю. Твоим вторым испытанием станет проверка мастерства и сноровки...<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_Presentation1d": {
+    "message": "Ты должен поймать <FC 0,128,0>3 огненных броненосцев<END FC> в области, которую только что миновал. Возьми эти <FC 0,128,0>жуки-ловушки<END FC>. Это инструмент, который тебе понадобится. Используй их с умом.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_Presentation1e": {
+    "message": "Докажи мне свою доблесть, и я дарую свободу некоторым из обитателей <FC 128,64,0>Проклятого дворца<END FC>.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1a": {
+    "message": "А-а, тебе удалось! Я ожидал, что ты провалишься, как и твой друг Гор. Похоже, ты сделан из более крепкого теста.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1b": {
+    "message": "Что ж, отлично! Эти <FC 0,128,0>камни проклятия<END FC> освободят двух обитателей <FC 128,64,0>Проклятого дворца<END FC>.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1c": {
+    "message": "<EFF><EPO>Теперь ты не только обладаешь силой ловить любого врага, но и можешь выпускать <FC 0,128,0>огненных броненосцев<END FC> и <FC 0,128,0>слизких пузырей<END FC>.<P>Эти существа — мощные инструменты, которые помогут тебе в твоих поисках. Используй их с умом.<P>Возможно, я ещё призову тебя в будущем, Сфинкс...<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1c1": {
+    "message": "Наконец-то ты вернулся! У меня есть для тебя куда более опасное задание, если ты хочешь освободить остальных жителей <FC 128,64,0>Проклятого дворца<END FC>.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1d": {
+    "message": "В островном городе <FC 128,64,0>Абидос<END FC> находится священный артефакт, который я много лет назад доверил Мэру — <FC 0,128,0>Священная корона Абидоса<END FC>.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Complete1e": {
+    "message": "<EFF><EPO>Мэр находится в <FC 128,64,0>зале заседаний<END FC>. Убеди его вернуть Корону мне, и я дам тебе <FC 0,128,0>камни проклятия<END FC>, которые ты желаешь.<P>Портал под тобой перенесёт тебя в <FC 128,64,0>Абидос<END FC>, если у тебя есть <FC 128,64,0>амулет портала Абидоса<END FC>. Прощай, Сфинкс.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1a": {
+    "message": "А-а... ты вернулся! Я уже начал думать, что это испытание оказалось тебе не по зубам! Мой артефакт у тебя?<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1b": {
+    "message": "Так корона была во владении демона? Хм-м... это воистину зловещее откровение.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1c": {
+    "message": "Если Сет попытался украсть <FC 0,128,0>Священную корону Абидоса<END FC>, то нет сомнений, что он ищет и <FC 0,128,0>Священную корону Урука<END FC>.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1d": {
+    "message": "Я сдержу своё слово. Эти <FC 0,128,0>камни проклятия<END FC> освободят ещё часть обитателей <FC 128,64,0>Проклятого дворца<END FC>.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1e": {
+    "message": "Однако ты должен найти <FC 0,128,0>Священную корону Урука<END FC> и вернуть её мне прежде, чем Сет наложит на неё свои руки.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1f": {
+    "message": "Эти <FC 0,128,0>кислотные дротики<END FC> должны помочь тебе в поисках короны.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GoToSakkara1g": {
+    "message": "Удачи в твоём новом странствии! Она тебе понадобится!<W 90>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1a": {
+    "message": "Великолепно! Ты принёс <FC 0,128,0>Священную корону Урука<END FC>! Ты доказываешь, что являешься истинным героем!<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1b": {
+    "message": "Но ты ещё недостаточно силён, чтобы победить Сета! Я рад, что ты не столкнулся с ним в <FC 128,64,0>Уруке<END FC>. Он бы уничтожил тебя без труда.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1c": {
+    "message": "Увы, время на исходе! Сет близок к своей конечной цели — уничтожению своего брата Осириса!<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1d": {
+    "message": "Было время, когда над нами властвовал лишь один Бог. И имя тому Богу было... Ра.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1d1": {
+    "message": "Он олицетворял собой и добро, и зло — тьму и свет в едином целом!<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1e": {
+    "message": "Осирис был светом, а Сет — тьмой. Они правили в согласии; то было время мира.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1f": {
+    "message": "Но Сет стал алчным — такова природа зла — и восстал против Осириса.<E> "
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1f1": {
+    "message": "Он напал на своего брата в попытке стать единственной силой во вселенной... силой зла!<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1f2": {
+    "message": "Если Сет соберёт все короны, управляющие Оком, и уничтожит Осириса, тень зла падет на нас навеки!<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1g": {
+    "message": "Сет копит силы, в то время как Осирис слаб и находится при смерти.<P>То, что тебе удалось прервать ритуал, с помощью которого он распространял тень зла, возможно, и есть причина, по которой мы всё ещё живы.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1h": {
+    "message": "Теперь ты должен отправиться в <FC 128,64,0>Проклятый дворец<END FC> и забрать <FC 0,128,0>Священную корону Гелиополя<END FC>.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_OsirisVsSet1i": {
+    "message": "Эти <FC 0,128,0>камни проклятия<END FC> помогут тебе освободить Фараона. Уверен, он будет очень рад тебя видеть! Ха-ха-ха!<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1a": {
+    "message": "Ты принёс <FC 0,128,0>Священную корону Гелиополя<END FC>! Я знал, что ты добьёшься успеха!<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1c": {
+    "message": "Хм, и ты также принёс ту самую корону Сета. <E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1b": {
+    "message": "Поздравляю, Сфинкс. Это выдающееся достижение — наконец-то дать Осирису достаточно сил, чтобы он снова смог воплотиться! <E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free1b1": {
+    "message": "Узри же его великое могущество и сияние! <E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2a": {
+    "message": "Я — свет Ра, защитник добра и невинных, враг теней и создатель <FC 0,128,0>Древнего пророчества Ра<END FC>. Пророчества, которое стремительно близится к завершению.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2b": {
+    "message": "Я воздвиг эту стену эоны лет назад, чтобы уберечь себя от гибели от рук моего брата Сета. Всё это время мой страж Анубис защищал стену от натиска Сета.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2c": {
+    "message": "Проклясть дворец было необходимо для защиты <FC 128,64,0>Гелиополя<END FC>, но теперь жители свободны, а демон повержен.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free2d": {
+    "message": "Ты — Избранный, исполнивший Древнее пророчество, но окончательный исход твоих героических деяний всё ещё не определён...<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4a": {
+    "message": "Сфинкс, осталось последнее задание, которое ты должен выполнить, прежде чем <FC 0,128,0>Древнее пророчество Ра<END FC> окончательно исполнится...<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4b": {
+    "message": "Ты должен отправиться в <FC 128,64,0>замок Урука<END FC> и сразиться с Сетом в последней битве за корону! Анубис должен остаться и защищать стену! Ты — наш единственный шанс!<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free4c": {
+    "message": "Я перенесу тебя в <FC 128,64,0>Урук<END FC>... но для этого ты должен прыгнуть в лаву!<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free5a": {
+    "message": "Господин! Использовать собственные эфирные каналы Сета, чтобы перенести его в замок?! Это безумие! Это слишком опасно!<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Free6a": {
+    "message": "У нас нет выбора! Сет становится сильнее с каждой секундой! Теперь, Сфинкс... СЕЙЧАС!!!<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_Incomplete": {
+    "message": "Неужели ты настолько слаб, что не можешь поймать даже <FC 0,128,0>3 огненных броненосцев<END FC>?<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_LizardMission_NoBeetles": {
+    "message": "Я предупреждал тебя, что <FC 0,128,0>жуков-ловушек<END FC> нужно использовать с умом, и всё же ты растратил их впустую.<P>Я дам тебе ещё 20, но если ты не поймаешь на них <FC 0,128,0>3 огненных броненосцев<END FC>, я буду крайне разочарован.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_GenericMeetAgain": {
+    "message": "Я уверен, что судьба снова приведёт тебя ко мне, но сейчас мне больше нечего тебе дать.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_AbydosCrown_NotFound": {
+    "message": "Тебе не следует медлить. Есть и другие, более зловещие силы, которые тоже ищут <FC 0,128,0>Священную корону Абидоса<END FC>.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_AbydosCrown_Found": {
+    "message": "Наконец-то ты вернулся с короной! Поздравляю, юный герой, ты превзошёл мои ожидания.<P>Я сдержу своё слово и освобожу ещё часть обитателей <FC 128,64,0>Проклятого дворца<END FC>.<P>Однако, я чувствую, что пришло время раскрыть истинную причину, по которой я отправил тебя на поиски короны.<P>Существуют и другие короны в иных мирах, и злой бог Сет пытается забрать их себе.<P>Мы не можем этого допустить! Ты должен найти короны раньше него, иначе последствия могут быть катастрофическими.<P>В мире джунглей, <FC 128,64,0>Саккаре<END FC>, ты должен найти древнюю <FC 0,128,0>корону Саккары<END FC>.<P>Отправляйся немедленно. Удачи.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_SakkaraCrown_NotFound": {
+    "message": "Не медли! Если Сет первым найдёт <FC 0,128,0>корону Урука<END FC>, последствия будут непредсказуемы!<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_SakkaraCrown_Found": {
+    "message": "Наконец-то ты вернулся с короной! Я знал, что ты не подведёшь.<P>Как и обещал, я освобожу оставшихся жителей <FC 128,64,0>Проклятого дворца<END FC>.<P><FC 0,128,0>Священная корона Гелиополя<END FC> находится во дворце, но я призываю тебя к осторожности. Фараон — человек непростой.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_NotFound": {
+    "message": "Не медли. Фараон и его корона ждут в <FC 128,64,0>Проклятом дворце<END FC>.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_HeliopolisCrown_Found": {
+    "message": "Ты проявил великое мужество и силу, герой, но теперь тебе предстоит самое тяжёлое испытание.<P>Сет уже завладел <FC 0,128,0>Священной короной Урука<END FC> в опустошённом мире <FC 128,64,0>Урука<END FC>.<P>Единственный способ остановить его теперь — отправиться в <FC 128,64,0>Урук<END FC> и уничтожить его раз и навсегда.<P>Тебе следует подготовиться к предстоящему трудному пути. Когда будешь готов, используй этот <FC 01,128,0>амулет портала<END FC>, чтобы отправиться в <FC 128,64,0>Урук<END FC>.<P>Удачи, юный герой.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_NotFound": {
+    "message": "Чем дольше ты медлишь, тем сильнее становится Сет. Неразумно откладывать это надолго.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_Accept": {
+    "message": "Что ж, портал открыт. Удачи.<E>"
+  },
+  "HT_Text_Hel_DarkArea1_Anubis_UrukCrown_Decline": {
+    "message": "Чем дольше ты медлишь, тем сильнее становится Сет. Неразумно откладывать это надолго.<E>"
+  },
+  "HT_Text_Hel_DarkArea2_Help_KaAnkh01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Это <FC 0,128,0>точка запуска Ка-Анкха<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>С её помощью можно магическим образом перенестись<N>к местоположению ближайшего <FC 0,128,0>Ка-Анкха<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_KaTile>, стоя на точке запуска,<N>чтобы войти в режим прицеливания.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_DarkArea2_Help_KaAnkh02": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Прицельтесь и выстрелите в светящуюся верхушку<N>ближайшего <FC 0,128,0>Ка-Анкха<END FC>, и вы мгновенно<N>перенесетесь в это место.<E><ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Hel_DarkArea3_Teleport_Prompt01": {
+    "message": "<ES HT_Text_ES_S_HelpText>Использовать магический телепорт?<N>  <B 2> Нет<N>  <B 1> Да<E>"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1a": {
+    "message": "Наконец-то ты прибыл! Я уже начал гадать, вернешься ли ты вообще!<E>"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1b": {
+    "message": "Я не ожидал таких осложнений в <FC 128,64,0>Абидосе<END FC>. Похоже, силы тьмы движутся быстрее, чем я предполагал.<E>"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1c": {
+    "message": "Если бы ты не вмешался, я уверен, что со временем <FC 128,64,0>Абидос<END FC> постигла бы та же участь, что и <FC 128,64,0>Гелиополь<END FC>.<E>"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1d": {
+    "message": "Теперь, когда ты нарушил планы врага, он будет следить за тобой пристальнее, стараясь еще сильнее помешать твоему продвижению.<E>"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1e": {
+    "message": "Ты должен быть готов к еще более трудному и опасному путешествию, которое ждет тебя впереди. Я верю, что ты окажешься достоин тех испытаний, с которыми столкнешься.<E>"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1f": {
+    "message": "Тебе стоит отправиться к Анубису прямо сейчас. У него может быть информация о враге, которой не хватает мне. Используй свой <FC 0,128,0>амулет портала<END FC>, чтобы быстрее добраться до его башни.<E>"
+  },
+  "HT_Text_Hel_Imhotep_Akaria1g": {
+    "message": "Тебе стоит отправиться к Анубису прямо сейчас. У него может быть информация о враге, которой не хватает мне. Используй этот <FC 0,128,0>амулет портала<END FC>, чтобы быстрее добраться до его башни.<E>"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1a": {
+    "message": "<EFF><EPO>Сфинкс! Рад видеть тебя снова, мой друг! Ты столкнулся со множеством смертельных опасностей, и для меня очевидно, что ты больше не неопытный ученик.<P>А-а... я вижу, теперь у тебя есть <FC 0,128,0>Щит Осириса<END FC>; идеальный спутник для <FC 0,128,0>Клинка Осириса<END FC>.<E>"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1a1": {
+    "message": "<EFF><EPO>Завладеть ими — великое достижение, они сослужат тебе добрую службу в предстоящих приключениях.<P>Гор уже был здесь, но не стал тебя ждать. Его нетерпение может сравниться лишь с твоим энтузиазмом.<E>"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1b": {
+    "message": "Похоже, во время странствия ты не бездельничал; эта <FC 0,128,0>канопа<END FC> — крайне любопытный артефакт.<E>"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1c": {
+    "message": "Много лет я не видел ничего подобного... Но, возможно, я всё еще смогу помочь освободить душу, запертую внутри... <E> "
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1d": {
+    "message": "Я вижу место далеко на севере, внутри замка в пылающей стране; в земле <FC 128,64,0>Урука<END FC>... Ага! Я вижу принца <FC 128,64,0>Луксора<END FC>... Тутанхамона.<E>"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1d1a": {
+    "message": "Я высвобожу душу из <FC 0,128,0>канопы<END FC> и отправлю её законному владельцу...<E>"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1d1b": {
+    "message": "Его тело покоится в <FC 128,64,0>замке Урука<END FC>! Будучи оживленным, он может оказаться очень полезен; еще никому не удавалось пробраться внутрь. У меня дурное предчувствие насчет событий, происходящих там...<E>"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1e": {
+    "message": "Да, теперь я вижу его. Это Тутанхамон, принц <FC 128,64,0>Луксора<END FC>. Он мумифицирован, но еще не перешел в мир иной. Тутанхамон, проснись! Проснись!<E>"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1f": {
+    "message": "Ни одно живое существо не может миновать яростную защиту замка. Нам придется отправить магическую сущность...<E>"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1g": {
+    "message": "Эта корзина идеальна. Никто ничего не заподозрит.<E>"
+  },
+  "HT_Text_Hel_Imhotep_BookDead_1h": {
+    "message": "Силой Осириса, надели эту корзину иллюзией жизни!<E>"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a": {
+    "message": "Что тут у нас? <E>"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a1": {
+    "message": "Это же одна из украденных драгоценностей <FC 128,64,0>Абидоса<END FC>! <E>"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1a2": {
+    "message": "Я знал, что здесь творится неладное. Мы должны выяснить, что за предательство замышляется...<E>"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1b": {
+    "message": "О-о, это очень интересно... Принцу удалось найти в замке затерянные <FC 0,128,0>Крылья Ибиса<END FC>.<E>"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1c": {
+    "message": "Это древний магический артефакт, украденный давным-давно. Он наделяет владельца ловкостью птицы, позволяя прыгать выше и на большие расстояния.<E>"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Basket1a": {
+    "message": "Держи Бас-Кета при себе, как и эти предметы. Уверен, они сослужат тебе добрую службу в твоих поисках.<E>"
+  },
+  "HT_Text_Hel_Imhotep_Connect_Chapter_Imhotep1d": {
+    "message": "Если бы у тебя была <FC 0,128,0>Книга Мёртвых<END FC>, ты мог бы отправлять Бас-Кета к Тутанхамону всякий раз, когда найдешь <FC 0,128,0>канопу<END FC>. <P>У меня предчувствие, что книга где-то в <FC 128,64,0>Проклятом дворце<END FC>, так что тебе стоит поговорить с Анубисом о несчастных обитателях дворца.<P>Гор уже отправился к нему, но я вижу, что ваши судьбы теперь расходятся.<E>"
+  },
+  "HT_Text_Hel_Imhotep_Basket1a": {
+    "message": "Блестящая работа, Сфинкс! У тебя последние две Священные Короны!<E>"
+  },
+  "HT_Text_Hel_Imhotep_Basket1b": {
+    "message": "Тебе стоит отнести их Анубису, но будь начеку...<E>"
+  },
+  "HT_Text_Hel_Imhotep_Basket1c": {
+    "message": "Я чувствую, что твои поиски близки к завершению, и как только ты отправишься на финальную битву, пути назад уже не будет.<E>"
+  },
+  "HT_Text_Hel_Imhotep_Basket1d": {
+    "message": "Если у тебя остались незаконченные дела, разберись с ними прежде, чем идти к Анубису. Удачи, Сфинкс.<E>"
+  },
+  "HT_Text_Hel_Imhotep_Sakkara1a": {
+    "message": "Сфинкс! С возвращением! Ситуация на <FC 128,64,0>Островах Урука<END FC> и впрямь была отчаянной.<E>"
+  },
+  "HT_Text_Hel_Imhotep_Sakkara1c": {
+    "message": "Я вижу, что сам Сет присутствовал на церемонии. Это тревожный знак.<E> "
+  },
+  "HT_Text_Hel_Imhotep_Sakkara1d": {
+    "message": "Знай он о твоем присутствии, уверен, он бы уничтожил тебя. С каждым мгновением он становится всё могущественнее.<E> "
+  },
+  "HT_Text_Hel_Imhotep_Sakkara1e": {
+    "message": "Несмотря на все преграды, тебе удалось выстоять и помешать Сету завершить захват <FC 128,64,0>Урука<END FC>. Ты действительно доказываешь, что достоин звания моего ученика.<E> "
+  },
+  "HT_Text_Hel_Imhotep_Sakkara1h": {
+    "message": "Тебе следует сообщить Анубису о вмешательстве Сета. Ему будет крайне любопытно узнать, что его заклятый враг снова привел свои планы по захвату мира в действие.<E>"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep01": {
+    "message": "Сфинкс! Тебе нужно навестить Анубиса, пройдя через <FC 128,64,0>Вход I в Великую стену<END FC>. Возможно, у него найдутся ответы о том, что случилось с несчастными жителями <FC 128,64,0>Проклятого дворца<END FC>.<E>"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep02": {
+    "message": "Не заставляй Анубиса ждать, Сфинкс! Выполни его задание, и у него может найтись ценная информация!<E>"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep03": {
+    "message": "Сфинкс! Значит, Анубис ищет <FC 0,128,0>Священную корону Абидоса<END FC>. Интересно, зачем ему этот древний артефакт?<E>"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep04": {
+    "message": "Сфинкс, тебе стоит без промедления отнести <FC 0,128,0>Священную корону Абидоса<END FC> Анубису!<E>"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep05": {
+    "message": "Теперь Анубис ищет <FC 0,128,0>Священную корону Урука<END FC>? Эта одержимость священными коронами меня тревожит. Будь осторожен, Сфинкс.<E>"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep06": {
+    "message": "Сфинкс, тебе стоит без промедления отнести <FC 0,128,0>Священную корону Урука<END FC> Анубису!<E>"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep07": {
+    "message": "Сфинкс! Похоже, Анубис не успокоится, пока не соберет все короны. Со <FC 0,128,0>Священной короной Гелиополя<END FC> его коллекция будет почти полной.<E>"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep08": {
+    "message": "Сфинкс, не заставляй Анубиса ждать! Он требует твоего присутствия в своей башне.<E>"
+  },
+  "HT_Text_Hel_SunShrine_Imhotep09": {
+    "message": "Сфинкс! Это Анубис был виновен в проклятии обитателей дворца, как и велели гелианцы. Интересно, что могло заставить его пойти на столь крайние меры?<E>"
+  },
+  "HT_Text_Hel_SunShrine_ImhotepCandles01": {
+    "message": "Право слово, Сфинкс, мне кажется, у тебя есть дела поважнее, чем бегать кругом и крушить свечи!<E>"
+  },
+  "HT_Text_Hel_SunShrine_ImhotepCandles02": {
+    "message": "Ну что, доволен теперь, когда все свечи уничтожены? Я ожидал такого ребячества от Гора, но не от тебя, Сфинкс. <E> "
+  },
+  "HT_Text_Hel_SunShrine_ImhotepCandles03": {
+    "message": "Приятно видеть, что ты правильно расставляешь приоритеты. Уверен, битье свечей неимоверно поможет тебе в твоем странствии.<E>"
+  },
+  "HT_Text_Hel_Imhotep_PortalAmulet01": {
+    "message": "Сфинкс! У меня крайне интересные новости. Анубис сообщил мне, что хочет видеть тебя в своей башне.<E>"
+  },
+  "HT_Text_Hel_Imhotep_PortalAmulet02": {
+    "message": "Возьми этот <FC 0,128,0>амулет портала<END FC>, он позволит тебе воспользоваться порталом позади меня, чтобы переместиться прямиком в <FC 128,64,0>Башню Анубиса<END FC>.<E>"
+  },
+  "HT_Text_Hel_Imhotep_PortalAmulet03": {
+    "message": "Удачи, мой друг.<W 70>"
+  }
+}

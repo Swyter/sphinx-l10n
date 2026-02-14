@@ -1,18 +1,18 @@
 {
   "HT_Text_Context_UseItem": {
-    "message": "ИСПОЛЬЗОВАТЬ"
+    "message": "ИСПОЛЬЗ. ПРЕДМЕТ"
   },
   "HT_Text_Context_Use": {
-    "message": "ПРИМЕНИТЬ"
+    "message": "ИСПОЛЬЗОВАТЬ"
   },
   "HT_Text_Context_PushObject": {
-    "message": "НАЖАТЬ"
+    "message": "ТОЛКАТЬ"
   },
   "HT_Text_Context_PullObject": {
-    "message": "ПОТЯНУТЬ"
+    "message": "ТЯНУТЬ"
   },
   "HT_Text_Context_Lever": {
-    "message": "ПОТЯНУТЬ РЫЧАГ"
+    "message": "ИСПОЛЬЗОВАТЬ"
   },
   "HT_Text_Context_OpenDoor": {
     "message": "ОТКРЫТЬ"
@@ -30,16 +30,16 @@
     "message": "СХВАТИТЬ"
   },
   "HT_Text_Context_Possession": {
-    "message": "ЕСТЬ"
+    "message": "ЗАВЛАДЕТЬ"
   },
   "HT_Text_Context_Unpossession": {
-    "message": "НЕТУ"
+    "message": "ВЫЙТИ"
   },
   "HT_Text_Context_Release": {
     "message": "ОТПУСТИТЬ"
   },
   "HT_Text_Context_Clone": {
-    "message": "КЛОНИРОВАТЬ"
+    "message": "КЛОН"
   },
   "HT_Text_Context_Invisibility": {
     "message": "НЕВИДИМОСТЬ"
@@ -48,22 +48,22 @@
     "message": "СПРЯТАТЬСЯ"
   },
   "HT_Text_Context_FreezeTime": {
-    "message": "ОСТАНОВИТЬ ВРЕМЯ"
+    "message": "ЗАМР. ВРЕМЯ"
   },
   "HT_Text_Context_KaTile": {
-    "message": "СТРЕЛЬНУТЬ"
+    "message": "ВЫСТРЕЛ КА"
   },
   "HT_Text_Context_Shop": {
     "message": "КУПИТЬ"
   },
   "HT_Text_Context_Linear": {
-    "message": "ЛИНИЯ"
+    "message": "ЛИНЕЙНО"
   },
   "HT_Text_Context_Recall": {
     "message": "ОТОЗВАТЬ"
   },
   "HT_Text_Context_Directed": {
-    "message": "РЕЖИССЁР"
+    "message": "НАПРАВЛЕННО"
   },
   "HT_Text_Context_Cancel": {
     "message": "ОТМЕНА"
@@ -75,19 +75,19 @@
     "message": "АТАКА"
   },
   "HT_Text_Context_Detonate": {
-    "message": "ПОДОРВАТЬ"
+    "message": "ВЗОРВАТЬ"
   },
   "HT_Text_Context_Beetle": {
     "message": "ЖУК"
   },
   "HT_Text_Context_Throw": {
-    "message": "КИНУТЬ"
+    "message": "БРОСИТЬ"
   },
   "HT_Text_Context_Drop": {
-    "message": "ОСТАВИТЬ"
+    "message": "СБРОСИТЬ"
   },
   "HT_Text_Context_FireDart": {
-    "message": "СТРЕЛЬНУТЬ"
+    "message": "ОГОНЬ"
   },
   "HT_Text_Context_FirstPerson": {
     "message": "1-Е ЛИЦО"
@@ -99,25 +99,25 @@
     "message": "3-Е ЛИЦО"
   },
   "HT_Text_Context_Program": {
-    "message": "ПРОГРАММА"
+    "message": "ПРОГРАМ."
   },
   "HT_Text_Context_SpittingToadV": {
-    "message": "ВЕРТИКАЛЬ"
+    "message": "ВЕРТИКАЛЬНО"
   },
   "HT_Text_Context_SpittingToadH": {
-    "message": "ГОРИЗОНТАЛЬ"
+    "message": "ГОРИЗОНТАЛЬНО"
   },
   "HT_Text_Context_Flap": {
-    "message": "МАХАТЬ КРЫЛЬЯМИ"
+    "message": "ВЗМАХ"
   },
   "HT_Text_Context_Enter": {
-    "message": "ВОСПОЛЬЗОВАТЬСЯ"
+    "message": "ВОЙТИ"
   },
   "HT_Text_Context_Grow": {
-    "message": "РОСТ"
+    "message": "РАСТИ"
   },
   "HT_Text_Context_Exit": {
-    "message": "ВЫЙТИ"
+    "message": "ВЫХОД"
   },
   "HT_Text_Context_SwapMummy": {
     "message": "СМЕНИТЬ"
@@ -129,16 +129,16 @@
     "message": "ВСТАТЬ"
   },
   "HT_Text_Context_Dive": {
-    "message": "ЗАНЫРНУТЬ"
+    "message": "НЫРНУТЬ"
   },
   "HT_Text_Context_Swim": {
     "message": "ПЛЫТЬ"
   },
   "HT_Text_Context_SwimFast": {
-    "message": "УСКОРИТЬСЯ"
+    "message": "БЫСТРО"
   },
   "HT_Text_Context_WallSneakPeek": {
-    "message": "ПОДСМОТРЕТЬ"
+    "message": "ВЫГЛЯНУТЬ"
   },
   "HT_Text_Context_WallSneak": {
     "message": "КРАСТЬСЯ"
@@ -150,24 +150,24 @@
     "message": "САЛЬТО"
   },
   "HT_Text_Context_Read": {
-    "message": "ПРОЧЕСТЬ"
+    "message": "ЧИТАТЬ"
   },
   "HT_Text_Context_Slam": {
-    "message": "СИЛЬНЫЙ УДАР"
+    "message": "УДАР"
   },
   "HT_Text_Context_Wear": {
     "message": "НАДЕТЬ"
   },
   "HT_Text_Context_UnHide": {
-    "message": "ПОКАЗАТЬ"
+    "message": "ВЫЙТИ"
   },
   "HT_Text_Context_Choose": {
     "message": "ВЫБРАТЬ"
   },
   "HT_Text_Context_Select": {
-    "message": "ПРИНЯТЬ"
+    "message": "ВЫБРАТЬ"
   },
   "HT_Text_Context_Shake": {
-    "message": "СТРЯХНУТЬ"
+    "message": "ТРЯСТИ"
   }
 }

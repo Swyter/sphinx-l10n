@@ -1,0 +1,329 @@
+{
+  "HT_Text_Mum_Test_SarcophagusLocked": {
+    "message": "<DHP><DP><ES HT_Text_ES_S_HelpText><N><CNTR>Этот саркофаг заперт.<ES HT_Text_ES_S_HelpText><W 30>"
+  },
+  "HT_Text_Mum_Eyei_UrukiteGoodbye01": {
+    "message": "Дальше мы идти не можем. Это слишком опасно. <E>"
+  },
+  "HT_Text_Mum_Eyei_UrukiteGoodbye02": {
+    "message": "Удачи. Мы все ждем твоей победы.<W 90>"
+  },
+  "HT_Text_Mum_Eye_SetMummy_Encounter01": {
+    "message": "Ты! Так это ты досаждал мне в последнее время!<E>"
+  },
+  "HT_Text_Mum_Eye_SetMummy_Encounter02": {
+    "message": "У тебя хватило дерзости остановить луч! Ума не приложу, как тебе это удалось, но я знаю, чем всё закончится...<E>"
+  },
+  "HT_Text_Mum_Eye_SetMummy_Encounter03": {
+    "message": "Он больше не будет помехой. Снова активируйте луч!<E>"
+  },
+  "HT_Text_Mum_Eye_SetMummy_Encounter04": {
+    "message": "Повелитель, я могу активировать луч, но... нет! Этого не может быть!<E>"
+  },
+  "HT_Text_Mum_Eye_SetMummy_Encounter05": {
+    "message": "Корона исчезла! Луч больше не будет таким мощным, как раньше!<E>"
+  },
+  "HT_Text_Mum_Eye_SetMummy_Encounter06": {
+    "message": "Неважно. Его защиты хватит, пока я не найду решение.<E>"
+  },
+  "HT_Text_Mum_Sewr_Sarcophagus_Presentation01": {
+    "message": "Я — король всех обитателей саркофагов. Можешь называть меня Рамзесом.<E>"
+  },
+  "HT_Text_Mum_Sewr_Sarcophagus_Presentation02": {
+    "message": "Если сможешь зажечь все факелы вокруг меня, я отдам тебе древний артефакт. <E>"
+  },
+  "HT_Text_Mum_Sewr_Sarcophagus_Presentation03": {
+    "message": "Но будь осторожен: погасить их так же легко, как и зажечь.<E>"
+  },
+  "HT_Text_Mum_Sewr_Sarcophagus_Complete01": {
+    "message": "Хм... полагаю, новичкам везет... <E>"
+  },
+  "HT_Text_Mum_Sewr_Sarcophagus_Complete02": {
+    "message": "Как бы то ни было, я держу свое слово. Вот твоя награда. Надеюсь, найдешь ей применение! <W 90>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro1a": {
+    "message": "Ар-р-р-гх!!!!!! Не верю своим глазам! Нас одолел какой-то юнец, которого я даже не знаю! Магическое устройство вернуло нас в этот мрачный замок!<E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro2a": {
+    "message": "Хм-м.<E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro1b": {
+    "message": "И вот результат. Мы не можем использовать его жизненную энергию, чтобы принять его облик. Теперь он бесполезен. Прикажу моим помощникам бросить его в темницу — пусть гниет вместе с остальными трупами.<E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro2b": {
+    "message": "Да, к сожалению, церемония была прервана прежде, чем мы извлекли из него все <FC 0,128,0>канопы<END FC>. Мы не сможем использовать его энергию, чтобы создать двойника.<E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro1c": {
+    "message": "<EFF><EPO>Потеря амулетов перемещения из-за этого незваного гостя тоже меня беспокоит. Это болезненный удар...<P>Без этих амулетов на достижение наших целей уйдет гораздо больше времени, чем планировалось.<E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro2c": {
+    "message": "Возможно, это и неудача, но поражение? Пф-ф! Всё идет строго по плану. <E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro1c1": {
+    "message": "Повелитель, как вы можете такое говорить? <E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro2c1": {
+    "message": "<EFF><EPO>Теперь, когда с Тутанхамоном покончено, я приму облик Эхнатона и объявлю всем, что Тут погиб в результате несчастного случая. <P>Это даст мне власть в <FC 128,64,0>Луксоре<END FC>. Остальное будет делом техники. <E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro1d": {
+    "message": "Да! Это верно! Никто не посмеет усомниться в том, что вы — его брат!<E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro2d": {
+    "message": "Разумеется! Моя маскировка безупречна.<E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro2e": {
+    "message": "<EFF><EPO>А что касается того мальчишки, сорвавшего церемонию... я знаю, кто он. Это ученик Имхотепа, того выжившего из ума старого мага.<P>Это мнимое поражение поможет еще сильнее запутать его немощный разум. Он никогда не узнает правды. Он даже не понял, что я был там!<E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro1e": {
+    "message": "Повелитель, вы гений! <E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro2f": {
+    "message": "Пока нам нужно быть осторожными, но когда луч наберет полную мощь, ничто нас не остановит. Раздавить Имхотепа будет так же просто, как прихлопнуть насекомое. <E>"
+  },
+  "HT_Text_Mum_PreChapter_Palace_Intro2g": {
+    "message": "Ха-ха-ха-ха! <W 90>"
+  },
+  "HT_Text_Mum_Imp2_ShrinePromptTakeItem": {
+    "message": "<ES HT_Text_ES_S_HelpText><N>Забрать предмет из алтаря?<N>  <B 1> Да<N>  <B 2> Нет<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Mum_Imp2_Help_GotPlanetariumKey01": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>Солнечный ключ от планетария<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Mum_Imp2_Help_GotPlanetariumKey02": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>Земной ключ от планетария<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Mum_Imp2_Help_GotPlanetariumKey02a": {
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>Земной ключ от планетария<END FC>!<P><CNTR><ES HT_Text_ES_S_HelpText>Этот предмет очень похож на тот,<N>что находится в алтаре центрального зала...<E>"
+  },
+  "HT_Text_Mum_Imp2_Help_GotPlanetariumKey03": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>Лунный ключ от планетария<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Mum_Imp2_Help_GotPlanetariumKey03a": {
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>Лунный ключ от планетария<END FC>!<P><CNTR><ES HT_Text_ES_S_HelpText>Этот предмет очень похож на тот,<N>что находится в алтаре центрального зала.<E>"
+  },
+  "HT_Text_Mum_Imp2_Help_FoundKeyStone": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>ключ от выхода<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Mum_Imp2_Help_FoundImpulseKey": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>ключ от выхода<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Mum_Imp2_Help_ElectricDevice": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Похоже на какое-то электрическое устройство.<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Mum_Imp2_Help_Furnace": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Чувствуется сильный запах газа.<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Mum_Imp2_Help_ImpulseKey": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Чтобы открыть эту дверь,<N>нужен <FC 0,128,0>ключ<END FC>.<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Mum_Imp2_Help_SarcophagusHide": {
+    "message": "Не волнуйся, друг мой. Ты такой же мертвый, как и я. Электричество не может причинить тебе вреда. Напротив, тебе стоит попробовать использовать его в своих интересах.<E>"
+  },
+  "HT_Text_Mum_Imp2_Help_SarcophagusHide1": {
+    "message": "Впрочем, если захочешь избавиться от заряда электричества в будущем, я могу помочь. Просто нажми <SB HT_Action_Enter>, когда будешь рядом со мной.<E>"
+  },
+  "HT_Text_Mum_Imp2_Help_ElectricExpired": {
+    "message": "<ES HT_Text_ES_S_HelpText><DHP><DP><N><CNTR>Способности Мумии не вечны. Шкала в верхней<N>части экрана показывает время действия способности.<ES HT_Text_ES_S_HelpText><W 60>"
+  },
+  "HT_Text_Mum_Imp2_Help_ElectricLost": {
+    "message": "<ES HT_Text_ES_S_HelpText><DHP><DP><N><CNTR>Заряд электричества будет потерян при контакте с водой.<ES HT_Text_ES_S_HelpText><W 60>"
+  },
+  "HT_Text_Mum_Imp2_Help_Pushable": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Цилиндрические объекты, подобные этим, можно толкать и тянуть в любом направлении.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Нажмите <SB HT_Action_Grab>, находясь рядом с объектом...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...затем используйте <SB HT_PadAction_PLR_MovePlr>, чтобы толкать или тянуть.<E>"
+  },
+  "HT_Text_Mum_Imp2_Help_WallSneak": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>По некоторым узким выступам можно прокрасться.<P><ES HT_Text_ES_S_HelpText><CNTR>Подойдите к стене и нажмите <SB HT_Action_WallSneak>, когда появится подсказка.<P><ES HT_Text_ES_S_HelpText><CNTR>Прижавшись к стене, используйте <SB HT_PadAction_PLR_MovePlr>, чтобы двигаться влево или вправо.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_WallSneakExit> еще раз, когда захотите выйти из этого режима.<E>"
+  },
+  "HT_Text_Mum_Imp2_Help_LowFence": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Где-то поблизости должен быть другой рычаг,<N>который открывает эти ворота.<E>"
+  },
+  "HT_Text_Mum_Towr_Help_DoorLockedForever": {
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Эта дверь заперта с другой стороны<N>и не может быть открыта.<ES HT_Text_ES_S_HelpText><E>"
+  },
+  "HT_Text_Mum_Towr_Help_Pushable": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Такие объекты можно толкать и тянуть вперед или назад.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Нажмите <SB HT_Action_Grab>, находясь рядом с объектом...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...затем используйте <SB HT_PadAction_PLR_MovePlr>, чтобы толкать или тянуть.<E>"
+  },
+  "HT_Text_Mum_Pala_Chap1_Basket_Presentation1": {
+    "message": "Не бойся. Я тебя не укушу! <E>"
+  },
+  "HT_Text_Mum_Pala_Chap1_Basket_Presentation2": {
+    "message": "М-ммм... <W 60>"
+  },
+  "HT_Text_Mum_Pala_Chap1_Basket_Presentation3": {
+    "message": "Ты даже говорить не можешь! Мне очень жаль, но у меня была только одна <FC 0,128,0>канопа<END FC> для тебя. <E>"
+  },
+  "HT_Text_Mum_Pala_Chap1_Basket_Presentation4": {
+    "message": "??? <W 60>"
+  },
+  "HT_Text_Mum_Pala_Chap1_Basket_Presentation5": {
+    "message": "<EFF><EPO>Позволь представиться. Я — Бас-Кет. Я расскажу тебе всё, что смогу, но у нас мало времени. Сомневаюсь, что ты помнишь последнее, что с тобой произошло. <P>Предательство в твой день рождения; странная, пугающая церемония, которую провел над тобой твой брат.<E>"
+  },
+  "HT_Text_Mum_Pala_Chap1_Basket_Presentation6": {
+    "message": "Герой по имени Сфинкс прервал церемонию. Но он смог спасти только одну из ваз. <E>"
+  },
+  "HT_Text_Mum_Pala_Chap1_Basket_Presentation7": {
+    "message": "Она дарует тебе частицу жизни, но ты всё ещё, по большому счету, мертвец. Нам понадобятся остальные <FC 0,128,0>канопы<END FC>, чтобы вернуть тебе прежний облик. <E>"
+  },
+  "HT_Text_Mum_Pala_Chap1_Basket_Presentation8": {
+    "message": "<EFF><EPO>Сейчас ты находишься в <FC 128,64,0>Замке Урука<END FC>. Нет времени объяснять детали, но поверь мне...<P>...твой единственный шанс — помочь нам здесь, в глубинах этого проклятого места. Мы должны понять значение этого зловещего замка и узнать, кто за всем этим стоит.<P>Тебе также нужно обыскать замок в поисках любых улик или предметов, которые помогут нам снова сделать тебя человеком.<E>"
+  },
+  "HT_Text_Mum_Pala_Chap1_Basket_Presentation9": {
+    "message": "Прощай, мой друг. Скоро увидимся. <W 90>"
+  },
+  "HT_Text_Mum_Pala_Chap1_Menes_Assistants1": {
+    "message": "Убедитесь, что все ловушки работают. Я не должен сомневаться в том, что замок неприступен. Драгоценности Абидоса должны быть под защитой! <E>"
+  },
+  "HT_Text_Mum_Pala_Chap1_Menes_Assistants2": {
+    "message": "Если в замок попытается пробраться хоть крыса — сотрите её в порошок! <E>"
+  },
+  "HT_Text_Mum_Pala_Chap1_Menes_Assistants3": {
+    "message": "Разумеется, господин. <W 90>"
+  },
+  "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney1a": {
+    "message": "Господин! В замке лазутчик! Некоторые <FC 0,128,0>драгоценности Абидоса<END FC> исчезли! <E>"
+  },
+  "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney2a": {
+    "message": "Что?! Это невозможно! Луч надежно защищает замок. <E>"
+  },
+  "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney1b": {
+    "message": "Должен защищать, но клянусь всеми богами! Кто-то нашел способ проникнуть внутрь! <E>"
+  },
+  "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney2b": {
+    "message": "<EFF><EPO>Пф-ф, наверняка это один из урукитов, прежних обитателей <FC 128,64,0>Урука<END FC>. Ничего серьезного.<P>Мы истребили почти всех, но нужно помешать им разгуливать по замку. <E>"
+  },
+  "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney1c": {
+    "message": "Да, господин. Я уже принял необходимые меры. Урукиты, вероятно, используют старую сеть потайных коридоров. <E>"
+  },
+  "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney1d": {
+    "message": "Я внедрил новый тип ловушки. Мы испытали её на пленниках и получили весьма впечатляющие результаты. Позвольте мне продемонстрировать это на данном страже.<E>"
+  },
+  "HT_Text_Mum_Pala_Chap3_Menes_Set_Chimney2c": {
+    "message": "Ха-ха-ха... чудесно! Менес, какой поистине изысканный способ приветствовать наших гостей. Я не ожидал от тебя меньшего. Ха-ха-ха! <E>"
+  },
+  "HT_Text_Mum_Pala_Chap4_Menes_CadaverRoom1": {
+    "message": "Хм-м... здесь ничего. О, если не считать нескольких сотен трупов... <E>"
+  },
+  "HT_Text_Mum_Pala_Chap4_Menes_CadaverRoom2": {
+    "message": "Я хочу, чтобы каждый угол замка был тщательно осмотрен. Сет в ярости из-за того, что мы до сих пор не нашли лазутчика. Если понадобится, будем искать круглосуточно! <E>"
+  },
+  "HT_Text_Mum_Pala_Chap4_Menes_CadaverRoom3": {
+    "message": "Мы только зря тратим здесь время. Идем, проверим северное крыло. <E>"
+  },
+  "HT_Text_Mum_Pala_Chap5_Urukite_Presentation1": {
+    "message": "А-аргх!!! Монстр!!!! Я думал, что умру от голода, но это куда хуже. Аргх!!<E>"
+  },
+  "HT_Text_Mum_Pala_Chap5_Urukite_Presentation2": {
+    "message": "Назад, я сказал, чудовище!!! Сет может убить меня, но мою душу ему не заполучить!<E>"
+  },
+  "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage0": {
+    "message": "Оставь меня в покое! Не убивай меня! А-аргх-х-х!"
+  },
+  "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage1": {
+    "message": "Что это? Ты освобождаешь меня? Кто ты такой? <E>"
+  },
+  "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage2": {
+    "message": "Хм-м... вне клетки ты кажешься не таким уж и страшным... Почему ты мне помогаешь?<E>"
+  },
+  "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage3": {
+    "message": "Они обвинили меня в краже драгоценностей из замка, но я этого не делал!<E>"
+  },
+  "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage4": {
+    "message": "Меня зовут Хенсу. Я урукит. Мы жили здесь еще до появления Сета. Теперь нас осталось совсем мало, мы пытаемся выжить в этом замке.<E>"
+  },
+  "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage5": {
+    "message": "До сих пор нам удавалось избегать встречи с Сетом и его прихвостнями, потому что мы хорошо знаем эти края. Но их становится всё больше, и наше время на исходе. <E>"
+  },
+  "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage6": {
+    "message": "Если никто не поможет нам, рано или поздно он найдет всех до единого...<E>"
+  },
+  "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage7": {
+    "message": "В любом случае, нам нельзя здесь оставаться. Стражники Сета коварны и могут нагрянуть в любой момент. <E>"
+  },
+  "HT_Text_Mum_Pala_Chap5_Urukite_OpenCage8": {
+    "message": "Иди за мной! Я помогу тебе выбраться из камеры.<E>"
+  },
+  "HT_Text_Mum_pala_Chap2_Start_Basket01": {
+    "message": "Рад снова видеть тебя, друг мой! Как и обещал, я доставил вторую <FC 0,128,0>канопу<END FC>, и ты выглядишь здоровее прежнего!<E>"
+  },
+  "HT_Text_Mum_pala_Chap2_Start_Basket02": {
+    "message": "Сфинкс также прислал кое-что еще, что может тебя заинтересовать...<E>"
+  },
+  "HT_Text_Mum_pala_Chap2_Start_Basket03": {
+    "message": "...<FC 0,128,0>Темный камень невидимости<END FC>. Это магический артефакт, который делает тебя невидимым всякий раз, когда ты его активируешь! <E>"
+  },
+  "HT_Text_Mum_pala_Chap2_Start_Basket04": {
+    "message": "Однако у него есть одно серьезное ограничение. Его можно использовать, только когда ты стоишь неподвижно. Стоит начать движение, и ты снова станешь виден всем.<E>"
+  },
+  "HT_Text_Mum_pala_Chap2_Start_Basket05": {
+    "message": "<EFF><EPO>С этим новым артефактом ты сможешь лучше изучить это мрачное место. Нам нужно как можно скорее выяснить, что здесь происходит.<P>Удачи!<E>"
+  },
+  "HT_Text_Mum_pala_Chap2_Start_Basket06": {
+    "message": "Удачи! <W 90>"
+  },
+  "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility1a": {
+    "message": "Повелитель, наш шпион в <FC 128,64,0>Гелиополе<END FC> вернулся с вестями о Сфинксе.<E>"
+  },
+  "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2a": {
+    "message": "Великолепно! Гор, наш новый союзник, какие новости ты нам принёс? <E>"
+  },
+  "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility3a": {
+    "message": "Повелитель, мне очень жаль, но я должен сообщить, что Сфинкс вступил в контакт с Анубисом.<E>"
+  },
+  "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2b": {
+    "message": "Что? Не ожидал, что он зайдёт так далеко. Интересно, что этому старому лису Анубису от него нужно...<E>"
+  },
+  "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility1b": {
+    "message": "Впрочем, неважно; он мало что сможет сделать. Я заблокировал доступ к <FC 128,64,0>мысу Гелиополя<END FC> магической печатью Атуна. <E>"
+  },
+  "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2c": {
+    "message": "Чудесно! Эта печать неразрушима. Даже моей мощи было бы недостаточно!<E>"
+  },
+  "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility1c": {
+    "message": "Только <FC 0,128,0>статуя Атуна<END FC>, с помощью которой была создана печать, может разрушить её, а она хранится наверху под усиленной охраной.<E>"
+  },
+  "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility3b": {
+    "message": "Печать — излишняя предосторожность. Я решил, что мудрее будет проявить «дружелюбие», и вручил ему небольшой подарок: <FC 0,128,0>Тёмный камень невидимости<END FC>. <E>"
+  },
+  "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility3c": {
+    "message": "Стоит ему воспользоваться им, и его ждёт самая мучительная смерть.<E>"
+  },
+  "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2d": {
+    "message": "Ха-ха-ха-ха! Только дурак станет использовать этот камень! <E>"
+  },
+  "HT_Text_Mum_pala_Chap2_MenesSet_Invisibility2e": {
+    "message": "Гор, я вознагражу тебя за твою хитрость. Отличный обман, который, без сомнения, пойдёт нам на пользу.<E>"
+  },
+  "HT_Text_Mum_pala_Chap3_Basket1": {
+    "message": "<EFF><EPO>Снова привет, мой друг! О, эта <FC 0,128,0>канопа<END FC> явно придала тебе румянца!<P>Не теряй времени, обыщи замок и разузнай всё, что сможешь!<P>Прощай и удачи!<E> "
+  },
+  "HT_Text_Mum_pala_Chap4_Basket1": {
+    "message": "<EFF><EPO>Давно не виделись, друг мой! Доставлена ещё одна <FC 0,128,0>канопа<END FC>. Уверен, скоро ты станешь прежним!<P>А пока нам всё ещё нужно, чтобы ты собрал как можно больше артефактов и сведений.<P>Ты отлично справляешься, так держать! До скорого!<E>"
+  },
+  "HT_Text_Mum_pala_Chap6_Urukites_Start01": {
+    "message": "Здравствуй, я — Собек, вождь урукитов. Хенсу рассказал нам, что ты освободил его. Дерзкий поступок. <E>"
+  },
+  "HT_Text_Mum_pala_Chap6_Urukites_Start02": {
+    "message": "Мы долго гадали, кто этот герой, что раз за разом бросает вызов Сету и крадёт сокровища прямо у него из-под носа, в его собственном замке. <E>"
+  },
+  "HT_Text_Mum_pala_Chap6_Urukites_Start03": {
+    "message": "Для моего народа ты настоящий герой и единственный, кто осмелился пойти против Сета. <E>"
+  },
+  "HT_Text_Mum_pala_Chap6_Urukites_Start04": {
+    "message": "Хенсу также поведал нам, что некий магический союзник подпитывает тебя энергией через <FC 0,128,0>канопу<END FC>. <E>"
+  },
+  "HT_Text_Mum_pala_Chap6_Urukites_Start05": {
+    "message": "Мы нашли вот эту, затерянную в одной из комнат замка. До сих пор мы не понимали её назначения.<E>"
+  },
+  "HT_Text_Mum_pala_Chap6_Urukites_Start06": {
+    "message": "Пожалуйста, помоги нам. Наш род так же древен, как сама земля <FC 128,64,0>Урука<END FC>. С приходом Сета мы превратились в добычу, на которую охотятся эти дикие твари. <E>"
+  },
+  "HT_Text_Mum_pala_Chap6_Urukites_Start07": {
+    "message": "Мы знаем, откуда Сет черпает свою силу. Он использует мощное магическое устройство для создания луча — его главного оружия. <E>"
+  },
+  "HT_Text_Mum_pala_Chap6_Urukites_Start08": {
+    "message": "К сожалению, эта задача не под силу урукитам, но если ты сможешь отключить его, Сет лишится своей главной опоры и решающего преимущества. <E>"
+  },
+  "HT_Text_Mum_pala_Chap6_Urukites_Start09": {
+    "message": "Следуй за нами, мы покажем тебе это место... <W 90>"
+  }
+}
