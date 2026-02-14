@@ -1,0 +1,14 @@
+{
+  "HT_Text_BOS_Arti_Artifacts": {
+    "message": "Артефакты"
+  },
+  "HT_Text_BOS_Arti_Quest": {
+    "message": "Квестовые предметы"
+  },
+  "HT_Text_BOS_Arti_Monsters": {
+    "message": "Предметы монстров"
+  },
+  "HT_Text_BOS_Arti_GotNoItems": {
+    "message": "<ES HT_Text_ES_S_BOSStd>В данный момент у вас нет предметов этого типа.<ES HT_Text_ES_E_BOSStd>"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "HT_Text_BOS_Monster_CapturedMonsters": {
+    "message": "Монстры"
+  },
+  "HT_Text_BOS_Monster_Moves": {
+    "message": "Приёмы"
+  },
+  "HT_Text_BOS_Monster_Health": {
+    "message": "Здоровье"
+  },
+  "HT_Text_BOS_Monster_AttackRating": {
+    "message": "Рейтинг атаки"
+  },
+  "HT_Text_BOS_Monster_DefenceRating": {
+    "message": "Рейтинг защиты"
+  },
+  "HT_Text_BOS_Monster_DR_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Чем выше рейтинг защиты вашего монстра, тем больше ударов он сможет выдержать в бою.<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_Monster_AR_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Чем выше рейтинг атаки вашего монстра, тем больше урона он сможет нанести противникам.<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_Monster_Health_Exp": {
+    "message": "<ES HT_Text_ES_S_BOSStd>Это здоровье вашего монстра. Если он потеряет всё здоровье, вы больше не сможете выпускать монстров этого типа — пока не поймаете нового, разумеется!<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_Monster_NoMoves": {
+    "message": "<ES HT_Text_ES_S_BOSStd>В данный момент у вас нет приёмов, которые можно выбрать.<ES HT_Text_ES_E_BOSStd>"
+  },
+  "HT_Text_BOS_Monster_NoMonsters": {
+    "message": "<ES HT_Text_ES_S_BOSStd>В данный момент у вас нет монстров.<ES HT_Text_ES_E_BOSStd>"
+  }
+}

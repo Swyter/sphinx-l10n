@@ -78,93 +78,93 @@
     "message": "<END TT>Купить 30 ловчих жуков за <FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC>?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_BeetleSatchel": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Beetle Satchel - Holds a maximum of 50 Capture Beetles<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Сумка для жуков — вмещает до 50 ловчих жуков<N><FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyBeetleSatchel": {
-    "message": "<END TT>Buy Beetle Satchel for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Купить сумку для жуков за <FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC>?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_AcidDarts10": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Acid Darts x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Кислотные дротики x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyAcidDarts10": {
-    "message": "<END TT>Buy 10 Acid Darts for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Купить 10 кислотных дротиков за <FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC>?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_IceDarts10": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Ice Darts x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Ледяные дротики x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyIceDarts10": {
-    "message": "<END TT>Buy 10 Ice Darts for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Купить 10 ледяных дротиков за <FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC>?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_ExplosiveBeetle": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Explosive beetles<N>If swallowed seek medical attention immediately.<E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Взрывные жуки<N>При проглатывании немедленно обратитесь к врачу.<E>"
   },
   "HT_Text_Shop_GoldAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Gold Ankh<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Золотой анкх<N><FC 0,128,0><SO HT_Objective_Shop_Price> ониксовых скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyGoldAnkh": {
-    "message": "<END TT>Buy Gold Ankh for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "<END TT>Купить золотой анкх за <FC 0,128,0><SO HT_Objective_Shop_Price> ониксовых скарабеев<END FC>?<N> <B 1> Да<N> <B 2> Нет<E>"
   },
   "HT_Text_Shop_GoldAnkhPiece": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhPiece> Gold Ankh Piece<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhPiece> Часть золотого анкха<N><FC 0,128,0><SO HT_Objective_Shop_Price> ониксовых скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyGoldAnkhPiece": {
-    "message": "<END TT>Buy Gold Ankh Piece for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Купить часть золотого анкха за <FC 0,128,0><SO HT_Objective_Shop_Price> ониксовых скарабеев<END FC>?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_GateKey03": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GlyphKey02> Cave Door Key<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GlyphKey02> Ключ от пещеры<N><FC 0,128,0><SO HT_Objective_Shop_Price> ониксовых скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyGateKey03": {
-    "message": "<END TT>Buy Cave Door Key for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Купить ключ от пещеры за <FC 0,128,0><SO HT_Objective_Shop_Price> ониксовых скарабеев<END FC>?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_AtunEyes04": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Atun Eye x 4<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Глаз Атуна x 4<N><FC 0,128,0><SO HT_Objective_Shop_Price> ониксовых скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyAtunEyes04": {
-    "message": "<END TT>Buy 4 Atun Eyes for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Купить 4 глаза Атуна за <FC 0,128,0><SO HT_Objective_Shop_Price> ониксовых скарабеев<END FC>?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_Burble": {
-    "message": "<DHP><DP><END TT>Mummy Bird<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>Птица-мумия<N><FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyBurble": {
-    "message": "<END TT>Mummy Birds cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Птицы-мумии стоят по <FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC> за штуку. Хотите купить одну?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_Pokemon": {
-    "message": "<DHP><DP><END TT>Shell Critter<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>Панцирная зверушка<N><FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyPokemon": {
-    "message": "<END TT>Shell Critters cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Панцирные зверушки стоят по <FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC> за штуку. Хотите купить одну?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_Rat": {
-    "message": "<DHP><DP><END TT>Rat<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>Крыса<N><FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyRat": {
-    "message": "<END TT>Rats cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Крысы стоят по <FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC> за штуку. Хотите купить одну?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_Armadillo": {
-    "message": "<DHP><DP><END TT>Shuttlecock Bird<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>Птица-волан<N><FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyArmadillo": {
-    "message": "<END TT>Shuttlecocks cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Птицы-воланы стоят по <FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC> за штуку. Хотите купить одну?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_Lizard": {
-    "message": "<DHP><DP><END TT>Featherless Turkey<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>Ощипанная индейка<N><FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyLizard": {
-    "message": "<END TT>Turkeys cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Индейки стоят по <FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC> за штуку. Хотите купить одну?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_Piranha": {
-    "message": "<DHP><DP><END TT>Small Frog<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>Маленькая лягушка<N><FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC><E>"
   },
   "HT_Text_Shop_BuyPiranha": {
-    "message": "<END TT>Frogs cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Лягушки стоят по <FC 0,128,0><SO HT_Objective_Shop_Price> скарабеев<END FC> за штуку. Хотите купить одну?<N> <B 2> Нет<N> <B 1> Да<E>"
   },
   "HT_Text_Shop_BuyMonster": {
-    "message": "<END TT>That's a fine specimen, I'll give you <SO HT_Objective_Shop_Price> for it.<N>  <B 2> No way<N>  <B 1> It's a deal<E>"
+    "message": "<END TT>Отличный экземпляр, я дам за него <SO HT_Objective_Shop_Price>.<N> <B 2> Ни за что<N> <B 1> По рукам<E>"
   },
   "HT_Text_Shop_SuitYourself": {
-    "message": "Suit yourself then. The offer's always open if you change your mind...<E>"
+    "message": "Как знаешь. Если передумаешь — предложение в силе...<E>"
   },
   "HT_Text_Shop_NothingToSell": {
-    "message": "If you want to sell me monsters, you'd better go and catch some first...<E>"
+    "message": "Если хочешь продать мне монстров, лучше сходи сначала поймай парочку...<E>"
   }
 }
