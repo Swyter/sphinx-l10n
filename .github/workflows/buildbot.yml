@@ -1,0 +1,62 @@
+name: Nightly builds
+on:
+  push:
+    branches:
+        - master
+        - actions
+    tags:
+      - 'workshop-*'
+jobs:
+  build-lnx:
+    name: Buildbot
+    runs-on: ubuntu-latest
+      
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 1
+      
+    - name: Install dependencies
+      run: | 
+        sudo apt-get update # swy: avoid 404 errors, you'd think the package manager would be smart enough to do this :)
+        sudo apt install p7zip       \
+                         tree        \
+                         git         \
+                         flip        \
+                         imagemagick \
+                         curl        \
+                         sed         \
+                         grep        \
+                         lib32gcc-s1 \
+                         python2     \
+                         jq
+
+    - name: Find if we're a normal nightly run or a Workshop build
+      id: find_tag
+      run: |
+        echo ${GITHUB_REF#refs/tags/}
+        echo ${GITHUB_REF}
+        
+        # swy: https://stackoverflow.com/a/18558871/674685
+        case ${GITHUB_REF} in refs/tags/workshop-*)
+          echo "TRAVIS_TAG_VAR=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+          echo 'swy: this seems like a workshop release; setting TRAVIS_TAG_VAR variable.'
+        esac
+
+    - name: Pack things up - Here's the real meat
+      id: pack
+      run: |
+        bash ./workshop.sh
+      env:
+        ghuser:   ${{ secrets.GHUSER   }}
+        ghtoken:  ${{ secrets.GHTOKEN  }}
+        ghauth:   ${{ secrets.GHAUTH   }}
+        
+        bbuser:   ${{ secrets.BBUSER   }}
+        bbpass:   ${{ secrets.BBPASS   }}
+        bbpage:   ${{ secrets.BBPAGE   }}
+        
+        steam_ac: ${{ secrets.STEAM_AC }}
+        steam_tk: ${{ secrets.STEAM_TK }}
+
+        TRAVIS_TAG: ${{ steps.find_tag.outputs.TRAVIS_TAG_VAR }}
