@@ -1,0 +1,1 @@
+call launch-sphinx-mod.cmd -dev -lang lv
