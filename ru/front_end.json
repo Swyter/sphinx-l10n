@@ -549,7 +549,7 @@
     "message": "Изменение разрешения требует перезапуска игры."
   },
   "HT_Text_FE_ResolutionBorderless": {
-    "message": "В ОКНЕ (БЕЗ РАМКИ)"
+    "message": "ОКНО БЕЗ РАМКИ"
   },
   "HT_Text_FE_ResolutionWindowed": {
     "message": "В ОКНЕ"
@@ -558,6 +558,6 @@
     "message": " град."
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>духовую трубку<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Магические дротики, выпущенные из этого мощного оружия,<N>восстанавливаются сами собой, давая вам бесконечный запас.<P><ES HT_Text_ES_S_HelpText><CNTR>Дротики можно использовать для поражения отдаленных целей, но их силы<N>достаточно лишь для того, чтобы нанести урон взрывающимся монстрам.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Используйте <SB HT_PadAction_HUD_ShowRotator>, чтобы назначить <FC 0,128,0>духовую трубку<END FC> на кнопку.<P><ES HT_Text_ES_S_HelpText><CNTR>Как только <FC 0,128,0>духовая трубка<END FC> будет назначена, нажмите<N>кнопку, чтобы войти в режим от первого лица.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_FireDart>, чтобы выстрелить.<P><ES HT_Text_ES_S_HelpText><CNTR>Удерживайте <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> или <SB HT_PadAction_GYR_Right> нажатой, перемещая левый Joy-Con, чтобы целиться с помощью гироскопа.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_Cancel>, чтобы выйти<N>из режима <FC 0,128,0>духовой трубки<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>духовую трубку<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Магические дротики в этом мощном оружии восстанавливаются сами собой, обеспечивая бесконечный запас.<P><ES HT_Text_ES_S_HelpText><CNTR>Дротики поражают удалённые цели, но их силы достаточно лишь для того, чтобы нанести урон взрывающимся монстрам.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Используйте <SB HT_PadAction_HUD_ShowRotator>, чтобы назначить <FC 0,128,0>духовую трубку<END FC> на кнопку.<P><ES HT_Text_ES_S_HelpText><CNTR>После этого нажмите кнопку, чтобы войти в режим от первого лица.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_FireDart> для выстрела.<P><ES HT_Text_ES_S_HelpText><CNTR>Удерживайте <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> или <SB HT_PadAction_GYR_Right> и перемещайте левый стик, чтобы целиться гироскопом.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_Cancel>, чтобы убрать <FC 0,128,0>духовую трубку<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   }
 }

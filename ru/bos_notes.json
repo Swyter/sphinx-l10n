@@ -1,24 +1,24 @@
 {
   "HT_Text_NoteTitle_FindBlade01": {
-    "message": "Найти Меч Осириса"
+    "message": "Найти Клинок Осириса"
   },
   "HT_Text_NoteTitle_GetLetter01": {
-    "message": "Забрать письмо Нефертити"
+    "message": "Добыть письмо Нефертити"
   },
   "HT_Text_NoteTitle_CollectAmulets01": {
-    "message": "Собрать старые амулеты"
+    "message": "Собрать древние амулеты"
   },
   "HT_Text_NoteTitle_GetToHeliopolis01": {
-    "message": "Найти способ добраться до Гелиополя"
+    "message": "Найти путь в Гелиополь"
   },
   "HT_Text_NoteTitle_FindPearls01": {
     "message": "Найти 3 абидосские жемчужины"
   },
   "HT_Text_NoteTitle_DonateMuseum01": {
-    "message": "Сделать пожертвование в Музей Абидоса"
+    "message": "Сделать взнос в Музей Абидоса"
   },
   "HT_Text_NoteTitle_GetAbydosPasscard01": {
-    "message": "Абидос: Доступ ограничен"
+    "message": "Абидос: Доступ закрыт"
   },
   "HT_Text_NoteTitle_FindImhotep01": {
     "message": "Найти Имхотепа на острове Храма Солнца"
@@ -30,7 +30,7 @@
     "message": "Посетить Анубиса у первого входа в Стену"
   },
   "HT_Text_NoteTitle_AnubisQuest01": {
-    "message": "Принести 3 огненных броненосцев Анубису"
+    "message": "Принести 3 огненных броненосца Анубису"
   },
   "HT_Text_NoteTitle_VisitFarmers01": {
     "message": "Посетить ферму в Гелиополе"
@@ -57,10 +57,10 @@
     "message": "Исцелить мэра Абидоса"
   },
   "HT_Text_NoteTitle_VisitKemmet01": {
-    "message": "Доставить записку лекаря Кеммету"
+    "message": "Отдать записку лекаря Кеммету"
   },
   "HT_Text_NoteTitle_FindPoliticians01": {
-    "message": "Найти политиков-предателей"
+    "message": "Найти предателей в совете"
   },
   "HT_Text_NoteTitle_CrownQuest02": {
     "message": "Вернуть Священную корону Урука"
@@ -72,10 +72,10 @@
     "message": "Собрать осколки древнего Розеттского камня"
   },
   "HT_Text_NoteTitle_MeetArchaeologist01": {
-    "message": "Посетить археолога в аванпосте бедуинов"
+    "message": "Навестить археолога в аванпосте бедуинов"
   },
   "HT_Text_NoteTitle_TranslateObelisks01": {
-    "message": "Перевести надписи золотых обелисков"
+    "message": "Расшифровать надписи золотых обелисков"
   },
   "HT_Text_NoteTitle_SmallObelisk01": {
     "message": "Перевод древнего текста"
@@ -102,88 +102,88 @@
     "message": "Вернуть Священную корону Гелиополя"
   },
   "HT_Text_NoteTitle_MotherQuest01": {
-    "message": "Поймать пропавших собак"
+    "message": "Поймать пропавших псов"
   },
   "HT_Text_NoteTitle_DefeatSeth01": {
     "message": "Победить Сета в Уруке"
   },
   "HT_Text_Note_FindBlade01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Твое первое задание — найти давно утраченный Меч Осириса. Это могущественное оружие исчезло много лет назад в суровых краях вокруг Замка Урука.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Твоё первое задание — отыскать давно утраченный Клинок Осириса. Это могущественное оружие исчезло много лет назад в суровых землях вокруг Замка Урука.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetLetter01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Забери письмо Нефертити и верни его ей.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Разыщи письмо Нефертити и верни его владелице.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CollectAmulets01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Собери 8 старых амулетов и верни их своей тете Сети.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Собери 8 древних амулетов и принеси их своей тёте Сети.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetToHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Как только воспользуешься амулетом Абидоса, Имхотеп попросит тебя найти способ добраться до Гелиополя и встретиться с ним как можно скорее.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Как только используешь амулет Абидоса, Имхотеп будет ждать, что ты найдёшь путь в Гелиополь и встретишься с ним как можно скорее.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindPearls01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Найди 3 жемчужины и отдай их жителю Абидоса.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_DonateMuseum01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Смотритель музея Абидоса обещает награду за твое первое пожертвование.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Смотритель музея Абидоса обещает награду за твой первый взнос.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetAbydosPasscard01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Стражники в канале Абидоса не пускают в Палаты Совета. Возможно, тебе стоит вернуться в Абидос позже, когда у тебя будет подходящее удостоверение.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Стража в канале Абидоса не пускает посторонних в Залы Совета. Возможно, тебе стоит вернуться сюда позже, когда раздобудешь подходящий пропуск.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindImhotep01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Имхотепа можно найти на острове Храма Солнца. Навести его и узнай, какие новости у него для тебя есть.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Имхотепа можно найти на острове Храма Солнца. Навести его и узнай, что ему удалось выяснить.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_GetBookOfTheDead01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Найди Книгу Мертвых, чтобы призывать Бас-Кет, когда найдешь канопу. Имхотеп верит, что книга спрятана в Проклятом дворце.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Найди Книгу Мёртвых, чтобы призвать Бас-Кет, когда отыщешь канопу. Имхотеп считает, что книга хранится в Проклятом дворце.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitAnubis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Анубис в ответе за проклятие, павшее на жителей Проклятого дворца. С помощью Крыльев Ибиса ты сможешь попасть ко входу I в Великую Стену и навестить Анубиса.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Анубис повинен в проклятии, павшем на жителей Проклятого дворца. С Крыльями Ибиса ты сможешь попасть к первому входу в Великую стену и навестить Анубиса.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_AnubisQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Поймай 3 огненных броненосцев с помощью жуков-ловушек и принеси их Анубису.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Поймай 3 огненных броненосцев с помощью ловчих жуков и принеси их Анубису.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitFarmers01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Брат фермера пригласил тебя посетить их ферму в Гелиополе.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Брат фермера пригласил тебя заглянуть на их ферму в Гелиополе.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SaveNomadWife01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Найди место, где удерживают жену кочевника, и спаси её.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Отыщи место, где удерживают жену кочевника, и спаси её.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_DeactivateBeams01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Силовое поле, удерживающее жену кочевника, судя по всему, питается от трех цветных лучей. Найди способ отключить их.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Похоже, силовое поле, в котором заточена жена кочевника, питается от трёх цветных лучей. Найди способ отключить их.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitImhotep01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Имхотеп попросил тебя прийти и поговорить с ним в Храме Солнца.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Имхотеп просит тебя прийти и поговорить с ним в Храме Солнца.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CrownQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ты должен найти Священную корону Абидоса и вернуть её Анубису в Гелиополе.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Тебе нужно отыскать Священную корону Абидоса и вернуть её Анубису в Гелиополе.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MayorIll01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Похоже, мэр серьезно заболел. Возможно, людям в Палатах Совета Абидоса не помешает твоя помощь.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Похоже, мэр серьезно заболел. Возможно, в Залах Совета Абидоса не кому-то пригодится твоя помощь.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallCanalCreatures01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Стражник у входа в Узкий канал предложил тебе Амулет портала, если ты очистишь это место от монстров.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Страж у входа в Узкий канал пообещал тебе амулет портала, если ты очистишь эти земли от монстров.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CureMayor01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Тебе нужно найти 5 целебных трав и принести их лекарю в Палаты Совета Абидоса.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>С помощью этих трав лекарь сможет приготовить лекарство от загадочной болезни мэра.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Тебе нужно найти 5 целебных трав и принести их лекарю в Залы Совета Абидоса.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>С ними лекарь сможет приготовить снадобье от загадочного недуга мэра.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_VisitKemmet01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ты должен доставить записку лекаря Кеммету, который живет у Великого канала. Он может помочь тебе в поисках целебных трав.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Тебе нужно передать записку лекаря Кеммету — он живёт у Великого канала и может помочь тебе в поисках целебных трав.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindPoliticians01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Найди политиков-предателей, укравших Священную корону Абидоса, и верни то, что принадлежит тебе по праву.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Отыщи предателей-политиков, похитивших Священную корону Абидоса, и верни то, что принадлежит тебе по праву.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CrownQuest02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ты должен найти Священную корону Урука и вернуть её Анубису в Гелиополе.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Тебе нужно найти Священную корону Урука и вернуть её Анубису в Гелиополе.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_FindHeliopolisDungeon01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Найди вход в Затерянный храм Гелиополя. Жена фараона верит, что он находится в Южной пустыне Гелиополя.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Найди вход в Затерянный храм Гелиополя. Жена фараона считает, что он скрыт где-то в Южной пустыне.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CollectRosettaPieces01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Найди 6 осколков Розеттского камня, спрятанных внутри Затерянного храма Гелиополя, и приниси их археологу.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Отыщи 6 осколков Розеттского камня, сокрытых в Затерянном храме Гелиополя, и принеси их археологу.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MeetArchaeologist01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Проверь находки археолога в аванпосте бедуинов. Аванпост можно найти, проплыв через подводный туннель из Проклятого дворца.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Узнай о результатах поисков археолога в аванпосте бедуинов. Туда можно попасть через подводный туннель из Проклятого дворца.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_TranslateObelisks01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Используй Розеттский камень, чтобы перевести надписи на 5 золотых обелисках Гелиополя, и доложи о результатах археологу в аванпосте бедуинов.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Используй Розеттский камень, чтобы расшифровать надписи на 5 золотых обелисках Гелиополя, и расскажи о своих находках археологу.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Когда эпоха Осириса подойдет к концу...<ES HT_Text_ES_E_BOSStd><E>"
@@ -195,7 +195,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>...но великий воин по имени Сфинкс...<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>...станет Избранным...<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>...станет тем самым Избранным...<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_SmallObelisk05": {
     "message": "<ES HT_Text_ES_S_BOSStd>...чтобы защитить Вечное Око Ра.<ES HT_Text_ES_E_BOSStd><E>"
@@ -204,16 +204,16 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Когда эпоха Осириса подойдет к концу, тень Сета падет на нас, но великий воин по имени Сфинкс станет Избранным, чтобы защитить Вечное Око Ра.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_TempleTest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Пройди испытание Храма Урука и верни найденное жителю Урука.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Пройди испытание Храма Урука и верни добычу жителю Урука.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_CrownQuest03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ты должен найти Священную корону Гелиополя и вернуть её Анубису.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Тебе нужно отыскать Священную корону Гелиополя и вернуть её Анубису.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_MotherQuest01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Поймай собак в Проклятом дворце Гелиополя и верни их владельцу.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Поймай псов в Проклятом дворце Гелиополя и верни их хозяину.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Note_DefeatSeth01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Твое последнее испытание — сразиться с Сетом в опустошенном мире Урука.<ES HT_Text_ES_E_BOSStd><E>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Твое последнее испытание — сразиться с Сетом в опустошённом мире Урука.<ES HT_Text_ES_E_BOSStd><E>"
   },
   "HT_Text_Notes_Test_T1": {
     "message": "Название задания."
@@ -225,18 +225,18 @@
     "message": "Найти дворец Сета."
   },
   "HT_Text_Notes_Test_D2": {
-    "message": "<FC 100,100,60>Сет скрывался в своем секретном дворце, замышляя уничтожение Гелиополя...<END FC><P><FC 100,100,60>Ты должен найти его логово и положить конец его планам...<END FC><P><FC 100,100,60>Чтобы узнать, где находится его секретный дворец, тебе нужно поговорить со старейшиной хеттской деревни. Принеси ему немного виски, чтобы развязать язык.<END FC>"
+    "message": "<FC 100,100,60>Сет скрывался в своей тайной обители, сплетая сеть заговоров для уничтожения Гелиополя...<END FC><P><FC 100,100,60>Ты должен отыскать его логово и разрушить его планы...<END FC><P><FC 100,100,60>Чтобы узнать, где прячется Сет, тебе придётся поговорить со старейшиной хеттов. Принеси ему немного виски, чтобы развязать язык.<END FC>"
   },
   "HT_Text_Notes_Test_T3": {
-    "message": "Доставить послание от царя Собека из Акарии."
+    "message": "Передать послание от царя Собека из Акарии."
   },
   "HT_Text_Notes_Test_D3": {
-    "message": "<FC 100,100,60> Раскрыв коварный план Исхи по разжиганию войны между жителями Абидоса и Акарии...<END FC><P><FC 100,100,60>Царь Собек поручил тебе доставить уведомление о перемирии мэру Абидоса.<END FC>"
+    "message": "<FC 100,100,60> Раскрыт коварный замысел Ишки, поссорившей жителей Абидоса и Акарии...<END FC><P><FC 100,100,60>Царь Собек поручил тебе доставить весть о перемирии мэру Абидоса.<END FC>"
   },
   "HT_Text_Notes_Test_T4": {
-    "message": "Найти лекарство для мэра."
+    "message": "Найти снадобье для мэра."
   },
   "HT_Text_Notes_Test_D4": {
-    "message": "<FC 100,100,60>Мэр Абидоса болен. Тебе нужно поговорить с лекарем о поиске лекарства...<END FC><P><FC 100,100,60>Лекарь живет у канала, разделяющего северную и южную части Абидоса.<END FC>"
+    "message": "<FC 100,100,60>Мэр Абидоса болен. Тебе нужно поговорить с лекарем о поиске снадобья...<END FC><P><FC 100,100,60>Лекарь живет у канала, что делит Абидос на северную и южную части.<END FC>"
   }
 }

@@ -1,6 +1,6 @@
 {
   "HT_Text_Inv_BladeOfOsiris": {
-    "message": "Меч Осириса"
+    "message": "Клинок Осириса"
   },
   "HT_Text_Inv_AncientClaws": {
     "message": "Древние когти"
@@ -39,16 +39,16 @@
     "message": "Большой кошель для скарабеев"
   },
   "HT_Text_Inv_BeetlePouch": {
-    "message": "Сумка для жуков"
+    "message": "Мешочек для жуков"
   },
   "HT_Text_Inv_DartBelt": {
     "message": "Пояс для дротиков"
   },
   "HT_Text_Inv_RosettaTablePiece": {
-    "message": "Часть Розеттской плиты"
+    "message": "Осколок Розеттской плиты"
   },
   "HT_Text_Inv_BeetleStachel": {
-    "message": "Ранец для жуков"
+    "message": "Подсумок для жуков"
   },
   "HT_Text_Inv_WingsOfRa": {
     "message": "Крылья Ра"
@@ -66,7 +66,7 @@
     "message": "Кольцо Маат"
   },
   "HT_Text_Inv_SnakeCollar": {
-    "message": "Змеиный ошейник"
+    "message": "Змеиное ожерелье"
   },
   "HT_Text_Inv_SandsOfTime": {
     "message": "Пески времени"
@@ -81,7 +81,7 @@
     "message": "Крылья Тота"
   },
   "HT_Text_Inv_NoteFromNefertiti": {
-    "message": "Записка от Нефертити"
+    "message": "Письмо от Нефертити"
   },
   "HT_Text_Inv_Crown": {
     "message": "Корона"
@@ -90,7 +90,7 @@
     "message": "Книга Мертвых"
   },
   "HT_Text_Inv_Lizard": {
-    "message": "Глупая ящерица"
+    "message": "Чокнутая ящерица"
   },
   "HT_Text_Inv_AnubisAmulet": {
     "message": "Амулет Анубиса"
@@ -102,13 +102,13 @@
     "message": "Целебные травы"
   },
   "HT_Text_Inv_MayersCureIngredient1": {
-    "message": "Ингредиент лекарства мэра 1"
+    "message": "Компонент снадобья мэра I"
   },
   "HT_Text_Inv_MayorsCureIngredient2": {
-    "message": "Ингредиент лекарства мэра 2"
+    "message": "Компонент снадобья мэра II"
   },
   "HT_Text_Inv_MayorsCureIngredient3": {
-    "message": "Ингредиент лекарства мэра 3"
+    "message": "Компонент снадобья мэра III"
   },
   "HT_Text_Inv_MessageForAkarianKing": {
     "message": "Послание для царя Акарии"
@@ -135,7 +135,7 @@
     "message": "Кристальный скарабей"
   },
   "HT_Text_Inv_ConstructionBeetle": {
-    "message": "Строительный жук"
+    "message": "Жук-строитель"
   },
   "HT_Text_Inv_EnigmaBeetle": {
     "message": "Жук-загадка"
@@ -147,10 +147,10 @@
     "message": "Радиоуправляемый жук"
   },
   "HT_Text_Inv_StandardDart": {
-    "message": "Стандартный дротик"
+    "message": "Обычный дротик"
   },
   "HT_Text_Inv_CaptureBeetle": {
-    "message": "Жук-ловушка"
+    "message": "Ловчий жук"
   },
   "HT_Text_Inv_IceDart": {
     "message": "Ледяной дротик"
@@ -195,7 +195,7 @@
     "message": "Кристальный ключ 3"
   },
   "HT_Text_Inv_Pearl": {
-    "message": "Голубой бриллиант"
+    "message": "Синий алмаз"
   },
   "HT_Text_Inv_Cabbage": {
     "message": "Капуста"
@@ -231,22 +231,22 @@
     "message": "Исполинская креветка"
   },
   "HT_Text_Inv_BM09_Smiling_burble": {
-    "message": "Улыбчивый барбл"
+    "message": "Улыбчивый Бульк"
   },
   "HT_Text_Inv_BM10_i_Cyclops": {
     "message": "Циклоп"
   },
   "HT_Text_Inv_BM12_slim_burble": {
-    "message": "Тонкий барбл"
+    "message": "Стройный Бульк"
   },
   "HT_Text_Inv_BR04_Goofy_Lizard": {
-    "message": "Глупая ящерица"
+    "message": "Чокнутая ящерица"
   },
   "HT_Text_Inv_BR05_Dino_Oaf": {
     "message": "Динозавр-увалень"
   },
   "HT_Text_Inv_BR06_Half_Brute": {
-    "message": "Полубрут"
+    "message": "Полузверь"
   },
   "HT_Text_Inv_BU01_Mummy_Minotaur": {
     "message": "Минотавр-мумия"
@@ -258,7 +258,7 @@
     "message": "Зомби"
   },
   "HT_Text_Inv_BU05_almost_a_bull": {
-    "message": "Почти-бык"
+    "message": "Недо-бык"
   },
   "HT_Text_Inv_BU06_MBird": {
     "message": "Птица-мумия"
@@ -270,25 +270,25 @@
     "message": "Птица-волан"
   },
   "HT_Text_Inv_FL04_Skeletal_Bat": {
-    "message": "Скелет летучей мыши"
+    "message": "Костяная летучая мышь"
   },
   "HT_Text_Inv_FL04_Skeletal_Bat_Fire": {
-    "message": "Огненный скелет летучей мыши"
+    "message": "Огненная костяная мышь"
   },
   "HT_Text_Inv_FL05_Mummy_Eagle": {
-    "message": "Мумия орла"
+    "message": "Орёл-мумия"
   },
   "HT_Text_Inv_FL06_Undead_Man": {
-    "message": "Ходячий мертвец"
+    "message": "Мертвяк"
   },
   "HT_Text_Inv_HD02_Cat": {
-    "message": "Кошка-ножи"
+    "message": "Кошка-клинки"
   },
   "HT_Text_Inv_HD13_S02_Aby_Bourgeoisie_Racist": {
     "message": "Расист"
   },
   "HT_Text_Inv_HD14_Crab": {
-    "message": "Краборуки"
+    "message": "Краборук"
   },
   "HT_Text_Inv_HD15_GuardTest": {
     "message": "Человек-черепаха"
@@ -297,19 +297,19 @@
     "message": "Остроклюв"
   },
   "HT_Text_Inv_HD43_Skull_Aka_Worshipper": {
-    "message": "Почитатель черепов"
+    "message": "Адепт черепа"
   },
   "HT_Text_Inv_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "Темный почитатель"
+    "message": "Темный Адепт"
   },
   "HT_Text_Inv_HD43_Skull_Aka_Worshipper_Sword": {
     "message": "Мечник черепа"
   },
   "HT_Text_Inv_IN01_Green_Giant_worm": {
-    "message": "Зеленый гигантский червь"
+    "message": "Гигантский зелёный червь"
   },
   "HT_Text_Inv_IN07_Blade_Scorpion": {
-    "message": "Лезвийный скорпион"
+    "message": "Клинок-скорпион"
   },
   "HT_Text_Inv_IN08_Tacked_Spider": {
     "message": "Шипастый паук"
@@ -336,7 +336,7 @@
     "message": "Манта"
   },
   "HT_Text_Inv_PI04_Aka_Spinefish": {
-    "message": "Иглобрюх"
+    "message": "Шипорыб"
   },
   "HT_Text_Inv_PI05_Aka_Turtle": {
     "message": "Черепаха"
@@ -348,13 +348,13 @@
     "message": "Глаз"
   },
   "HT_Text_Inv_PL02_Tree_Creature": {
-    "message": "Древесное создание"
+    "message": "Древесное существо"
   },
   "HT_Text_Inv_PL04_Sunflower_With_Face": {
     "message": "Подсолнух"
   },
   "HT_Text_Inv_QC01_Pokemon": {
-    "message": "Панцирная малютка"
+    "message": "Панцирник"
   },
   "HT_Text_Inv_QR01_Cobra": {
     "message": "Кобра"
@@ -369,7 +369,7 @@
     "message": "Носоигл"
   },
   "HT_Text_Inv_QU01_Skeletal_Spider": {
-    "message": "Скелетный паук"
+    "message": "Костяной паук"
   },
   "HT_Text_Inv_QU02_Skeletal_Armadillo": {
     "message": "Броненосец"
@@ -399,10 +399,10 @@
     "message": "Большой бык"
   },
   "HT_Text_Inv_HD09_Horned_ReptileMan": {
-    "message": "Человек-рептилия"
+    "message": "Человек-ящер"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_BedroomKey": {
-    "message": "Ключ от внутреннего двора"
+    "message": "Ключ от двора"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_NefertitiItem": {
     "message": "Письмо Нефертити"
@@ -411,16 +411,16 @@
     "message": "Ключ от саркофага"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_WardrobeKey": {
-    "message": "Ключ от шкафа"
+    "message": "Ключ от гардероба"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_Trophy": {
     "message": "Трофей"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_Amulet": {
-    "message": "Старый амулет"
+    "message": "Древний амулет"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_CourtyardKey": {
-    "message": "Ключ от внутреннего двора"
+    "message": "Ключ от двора"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_TreasureChamberKey": {
     "message": "Ключ от сокровищницы"
@@ -444,10 +444,10 @@
     "message": "Глаз голема"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_Key01": {
-    "message": "Ключ Урука 1"
+    "message": "Ключ Урука I"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_Key02": {
-    "message": "Ключ Урука 2"
+    "message": "Ключ Урука II"
   },
   "HT_Text_Inv_Item_Quest_Urk_2key_Key03": {
     "message": "Ключ от моста"
@@ -477,7 +477,7 @@
     "message": "Листья"
   },
   "HT_Text_Inv_Sticks": {
-    "message": "Палки"
+    "message": "Ветки"
   },
   "HT_Text_Inv_LightColumnMap": {
     "message": "Карта световых колонн"
@@ -531,7 +531,7 @@
     "message": "Кувшин для разведения жуков"
   },
   "HT_Text_Inv_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": "Карта лояльности"
+    "message": "Карта почётного гостя"
   },
   "HT_Text_Inv_Mum_LedgeKey": {
     "message": "Ключ от двери на уступе"
@@ -552,7 +552,7 @@
     "message": "Ключ от Великой стены"
   },
   "HT_Text_Inv_IshkaRing": {
-    "message": "Кольцо Исхи"
+    "message": "Кольцо Ишки"
   },
   "HT_Text_Inv_HonourTalisman": {
     "message": "Талисман чести"
@@ -645,7 +645,7 @@
     "message": "Флакон кислоты Геба"
   },
   "HT_Text_Inv_Proclomation": {
-    "message": "Царское воззвание"
+    "message": "Царский указ"
   },
   "HT_Text_Inv_DiaryPage": {
     "message": "Страница из дневника Сета"
@@ -654,13 +654,13 @@
     "message": "Зонтик"
   },
   "HT_Text_Inv_CreatureList01": {
-    "message": "Список монстров I"
+    "message": "Бестиарий I "
   },
   "HT_Text_Inv_CreatureList02": {
-    "message": "Список монстров II"
+    "message": "Бестиарий II"
   },
   "HT_Text_Inv_CreatureList03": {
-    "message": "Список монстров III"
+    "message": "Бестиарий III"
   },
   "HT_Text_Inv_StatueHead": {
     "message": "Головы статуй"
@@ -669,10 +669,10 @@
     "message": "Кокос"
   },
   "HT_Text_Inv_ZipLineHook": {
-    "message": "Рукоятка для зиплайна"
+    "message": "Рукоять для троса"
   },
   "HT_Text_Inv_MedicineRoot": {
-    "message": "Лекарственный корень"
+    "message": "Лечебный корень"
   },
   "HT_Text_Inv_WarriorTrophy": {
     "message": "Трофей воина"
@@ -681,7 +681,7 @@
     "message": "Деревянное колесо"
   },
   "HT_Text_Inv_AbyWellKey": {
-    "message": "Старый ключ"
+    "message": "Древний ключ"
   },
   "HT_Text_Inv_AbyStairsKey": {
     "message": "Ключ от лестницы"
@@ -690,10 +690,10 @@
     "message": "Ключ от 3-го участка Стены"
   },
   "HT_Text_Inv_MedicineBag": {
-    "message": "Сумка для лекарств"
+    "message": "Сумка лекаря"
   },
   "HT_Text_Inv_AtunStatue": {
-    "message": "Статуя Атуна"
+    "message": "Статуя Атума"
   },
   "HT_Text_Inv_HathorStatue": {
     "message": "Статуя Хатор"
@@ -720,7 +720,7 @@
     "message": "Камень орла"
   },
   "HT_Text_Inv_AtunEye": {
-    "message": "Око Атуна"
+    "message": "Око Атума"
   },
   "HT_Text_Inv_Medal_Shoot": {
     "message": "Медаль стрелка"
@@ -732,7 +732,7 @@
     "message": "Медаль за память"
   },
   "HT_Text_Inv_Medal_Simon": {
-    "message": "Медаль за цепочки"
+    "message": "Медаль последовательностей"
   },
   "HT_Text_Inv_Museum_Certificate": {
     "message": "Мастер-охотник"

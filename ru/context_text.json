@@ -33,7 +33,7 @@
     "message": "ЗАВЛАДЕТЬ"
   },
   "HT_Text_Context_Unpossession": {
-    "message": "ВЫЙТИ"
+    "message": "ВЕРНУТЬСЯ"
   },
   "HT_Text_Context_Release": {
     "message": "ОТПУСТИТЬ"
@@ -102,10 +102,10 @@
     "message": "ПРОГРАМ."
   },
   "HT_Text_Context_SpittingToadV": {
-    "message": "ВЕРТИКАЛЬНО"
+    "message": "ВЕРТИКАЛЬ"
   },
   "HT_Text_Context_SpittingToadH": {
-    "message": "ГОРИЗОНТАЛЬНО"
+    "message": "ГОРИЗОНТАЛЬ"
   },
   "HT_Text_Context_Flap": {
     "message": "ВЗМАХ"
@@ -159,7 +159,7 @@
     "message": "НАДЕТЬ"
   },
   "HT_Text_Context_UnHide": {
-    "message": "ВЫЙТИ"
+    "message": "ПОКАЗАТЬСЯ"
   },
   "HT_Text_Context_Choose": {
     "message": "ВЫБРАТЬ"

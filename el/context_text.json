@@ -18,7 +18,7 @@
     "message": "ΑΝΟΙΓΜΑ"
   },
   "HT_Text_Context_PickupObject": {
-    "message": "ΑΝΑΣΗΚΩΜΑ"
+    "message": "ΛΗΨΗ"
   },
   "HT_Text_Context_SavePoint": {
     "message": "ΑΠΟΘΗΚΕΥΣΗ"
@@ -45,13 +45,13 @@
     "message": "ΑΟΡΑΤΟΣ"
   },
   "HT_Text_Context_Hide": {
-    "message": "HIDE"
+    "message": "ΑΠΟΚΡΥΨΗ"
   },
   "HT_Text_Context_FreezeTime": {
     "message": "ΠΑΓΩΜΑ ΧΡΟΝΟΥ"
   },
   "HT_Text_Context_KaTile": {
-    "message": "ΡΙΨΗ ΒΕΛΟΥΣ ΚΑ"
+    "message": "ΒΟΛΗ ΚΑ"
   },
   "HT_Text_Context_Shop": {
     "message": "ΑΓΟΡΑ"
@@ -84,90 +84,90 @@
     "message": "ΡΙΨΗ"
   },
   "HT_Text_Context_Drop": {
-    "message": "DROP"
+    "message": "ΑΠΟΡΡΙΨΗ"
   },
   "HT_Text_Context_FireDart": {
-    "message": "FIRE"
+    "message": "ΒΟΛΗ"
   },
   "HT_Text_Context_FirstPerson": {
-    "message": "1st PERSON"
+    "message": "1ο ΠΡΟΣΩΠΟ"
   },
   "HT_Text_Context_Blowpipe": {
-    "message": "BLOW PIPE"
+    "message": "ΦΥΣΟΚΑΛΑΜΟ"
   },
   "HT_Text_Context_ThirdPerson": {
-    "message": "3rd PERSON"
+    "message": "3ο ΠΡΟΣΩΠΟ"
   },
   "HT_Text_Context_Program": {
-    "message": "PROGRAM"
+    "message": "ΠΡΟΓΡΑΜΜΑ"
   },
   "HT_Text_Context_SpittingToadV": {
-    "message": "VERTICAL"
+    "message": "ΚΑΚΑΤΟΚΟΡΥΦΑ"
   },
   "HT_Text_Context_SpittingToadH": {
-    "message": "HORIZONTAL"
+    "message": "ΟΡΙΖΟΝΤΙΑ"
   },
   "HT_Text_Context_Flap": {
-    "message": "FLAP"
+    "message": "ΦΤΕΡΟΥΓΙΣΜΑ"
   },
   "HT_Text_Context_Enter": {
-    "message": "ENTER"
+    "message": "ΕΙΣΟΔΟΣ"
   },
   "HT_Text_Context_Grow": {
-    "message": "GROW"
+    "message": "ΜΕΓΕΘΥΝΣΗ"
   },
   "HT_Text_Context_Exit": {
-    "message": "EXIT"
+    "message": "ΕΞΟΔΟΣ"
   },
   "HT_Text_Context_SwapMummy": {
-    "message": "SWAP"
+    "message": "ΕΝΑΛΛΑΓΗ"
   },
   "HT_Text_Context_MummyCrawl": {
-    "message": "CRAWL"
+    "message": "ΜΠΟΥΣΟΥΛΗΜΑ"
   },
   "HT_Text_Context_MummyStandUp": {
-    "message": "STAND"
+    "message": "ΟΡΘΙΟΣ"
   },
   "HT_Text_Context_Dive": {
-    "message": "DIVE"
+    "message": "ΚΑΤΑΔΥΣΗ"
   },
   "HT_Text_Context_Swim": {
-    "message": "SWIM"
+    "message": "ΚΟΛΥΜΒΗΣΗ"
   },
   "HT_Text_Context_SwimFast": {
-    "message": "FAST"
+    "message": "ΓΡΗΓΟΡΟ"
   },
   "HT_Text_Context_WallSneakPeek": {
-    "message": "PEEK"
+    "message": "ΜΑΤΙΑ"
   },
   "HT_Text_Context_WallSneak": {
-    "message": "SNEAK"
+    "message": "ΣΥΡΣΙΜΟ"
   },
   "HT_Text_Context_Take": {
-    "message": "TAKE"
+    "message": "ΛΗΨΗ"
   },
   "HT_Text_Context_DJump": {
-    "message": "SOMERSAULT"
+    "message": "ΤΟΥΜΠΑ"
   },
   "HT_Text_Context_Read": {
-    "message": "READ"
+    "message": "ΑΝΑΓΝΩΣΗ"
   },
   "HT_Text_Context_Slam": {
-    "message": "SLAM"
+    "message": "ΧΤΥΠΗΜΑ"
   },
   "HT_Text_Context_Wear": {
-    "message": "WEAR"
+    "message": "ΕΦΑΡΜΟΓΗ"
   },
   "HT_Text_Context_UnHide": {
-    "message": "UNHIDE"
+    "message": "ΕΜΦΑΝΙΣΗ"
   },
   "HT_Text_Context_Choose": {
-    "message": "CHOOSE"
+    "message": "ΕΠΙΛΟΓΗ"
   },
   "HT_Text_Context_Select": {
-    "message": "SELECT"
+    "message": "ΕΠΙΛΟΓΗ"
   },
   "HT_Text_Context_Shake": {
-    "message": "SHAKE"
+    "message": "ΤΙΝΑΓΜΑ"
   }
 }

@@ -1,23 +1,23 @@
 {
   "HT_Text_BOS_Tab_Artifacts": {
-    "message": "Артефакты"
+    "message": "Реликвии"
   },
   "HT_Text_BOS_Tab_Notes": {
-    "message": "Заметки"
+    "message": "Записи"
   },
   "HT_Text_BOS_Tab_Monsters": {
     "message": "Монстры"
   },
   "HT_Text_BOS_Instructions": {
-    "message": "<FC 30,10,0>Навигация по страницам: <SB HT_PadAction_BOS_NavigateDPad> <N>Смена вкладок: <SB HT_PadAction_BOS_TABCycleLeft> и <SB HT_PadAction_BOS_TABCycleRight><N>Прокрутка описаний: <SB HT_PadAction_BOS_PageUp>."
+    "message": "<FC 30,10,0>Навигация: <SB HT_PadAction_BOS_NavigateDPad> <N>Переключение вкладок: <SB HT_PadAction_BOS_TABCycleLeft> и <SB HT_PadAction_BOS_TABCycleRight><N>Прокрутка текста: <SB HT_PadAction_BOS_PageUp>."
   },
   "HT_Text_BOS_NoNotes": {
-    "message": "<ES HT_Text_ES_S_BOSStd>В данный момент у вас нет заметок.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>У вас пока нет никаких записей.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_NoAbilities": {
-    "message": "<ES HT_Text_ES_S_BOSStd>В данный момент у вас нет способностей.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>У вас пока нет способностей.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_BOS_NoQuestItems": {
-    "message": "<ES HT_Text_ES_S_BOSStd>В данный момент у вас нет квестовых предметов.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>У вас пока нет квестовых предметов.<ES HT_Text_ES_E_BOSStd>"
   }
 }

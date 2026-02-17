@@ -66,19 +66,19 @@
     "message": "Σίγουρα επιθυμείς την έξοδο από το παιχνίδι;\\nΌλη η πρόοδος που δεν έχει αποθηκευτεί θα χαθεί."
   },
   "HT_Text_FE_Menu_SoundStereo": {
-    "message": "STEREO"
+    "message": "ΣΤΕΡΕΟΦΩΝΙΚΟΣ ΗΧΟΣ"
   },
   "HT_Text_FE_Menu_SoundMono": {
-    "message": "MONO"
+    "message": "ΜΟΝΟΦΩΝΙΚΟΣ ΗΧΟΣ"
   },
   "HT_Text_FE_Menu_SoundSurround": {
-    "message": "SURROUND"
+    "message": "ΗΧΟΣ SURROUND"
   },
   "HT_Text_FE_Menu_SoundStereoSurround": {
-    "message": "STEREO/\\nSURROUND"
+    "message": "ΣΤΕΡΕΟΦΩΝΙΚΟΣ/\\nSURROUND"
   },
   "HT_Text_FE_Menu_SoundModeOption": {
-    "message": "ΤΡΟΠΟΣ ΛΕΙΤΟΥΡΓΙΑΣ ΗΧΟΥ"
+    "message": "ΛΕΙΤΟΥΡΓΙΑ ΗΧΟΥ"
   },
   "HT_Text_FE_Menu_On": {
     "message": "ΝΑΙ"
@@ -93,10 +93,10 @@
     "message": "ΕΠΙΛΟΓΗ"
   },
   "HT_Text_FE_Menu_ThirdPerson": {
-    "message": "3ο ΠΡΟΣΩΠΟ"
+    "message": "3ο ΠΡΟΣΩΠΟ:"
   },
   "HT_Text_FE_Menu_FirstPerson": {
-    "message": "1ο ΠΡΟΣΩΠΟ"
+    "message": "1ο ΠΡΟΣΩΠΟ:"
   },
   "HT_Text_FE_Menu_InvertHorz": {
     "message": "ΑΝΤΙΣΤΡΟΦΗ ΟΡΙΖΟΝΤΙΩΝ ΧΕΙΡΙΣΜΩΝ"
@@ -165,7 +165,7 @@
     "message": "ΚΑΤΕΣΤΡΑΜΜΕΝΟ"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_PS2": {
-    "message": "ΑΛΛΟΙΩΜΕΝΟ"
+    "message": "ΚΑΤΕΣΤΡΑΜΜΕΝΟ"
   },
   "HT_Text_FE_Menu_SaveSlotCorrupted_GC": {
     "message": "ΑΔΕΙΟ"
@@ -210,10 +210,10 @@
     "message": "Παύση"
   },
   "HT_Text_ReplacePadPrompt_PS2_PAL": {
-    "message": "Δεν έχει εισαχθεί χειριστήριο στη θύρα χειριστηρίου (MISSINGPAD). Παρακαλώ επανεισήγαγε ένα αναλογικό χειριστήριο (DUALSHOCK®) ή ένα αναλογικό χειριστήριο (DUALSHOCK®2) για να συνεχίσεις."
+    "message": "Δεν έχει συνδεθεί χειριστήριο στη θύρα χειριστηρίου (MISSINGPAD). Παρακαλώ επανασύνδεσε ένα αναλογικό χειριστήριο (DUALSHOCK®) ή ένα αναλογικό χειριστήριο (DUALSHOCK®2) για να συνεχίσεις."
   },
   "HT_Text_ReplacePadPrompt_PS2_NTSC": {
-    "message": "Δεν έχει εισαχθεί χειριστήριο στη θύρα χειριστηρίου (MISSINGPAD). Παρακαλώ επανεισήγαγε ένα DUALSHOCK® αναλογικό χειριστήριο ή ένα DUALSHOCK®2 αναλογικό χειριστήριο για να συνεχίσεις."
+    "message": "Δεν έχει συνδεθεί χειριστήριο στη θύρα χειριστηρίου (MISSINGPAD). Παρακαλώ επανασύνδεσε ένα DUALSHOCK® αναλογικό χειριστήριο ή ένα DUALSHOCK®2 αναλογικό χειριστήριο για να συνεχίσεις."
   },
   "HT_Text_ReplacePadPrompt_XB_Start": {
     "message": "Παρακαλώ επανασύνδεσε το χειριστήριο στη θύρα (MISSINGPAD) και πάτησε START για να συνεχίσεις."
@@ -222,7 +222,7 @@
     "message": "Παρακαλώ επανασύνδεσε το χειριστήριο στη θύρα (MISSINGPAD)."
   },
   "HT_Text_MemCard_PromptContinueWithoutSave_XB": {
-    "message": "Δε θα έχεις τη δυνατότητα να αποθηκεύσεις την πρόοδο σου ή τις επιλογές σου σε οποιοδήποτε σημείο του παιχνιδιού. Σίγουρα επιθυμείς να συνεχίσεις;"
+    "message": "Δε θα έχεις τη δυνατότητα να αποθηκεύσεις την πρόοδό σου ή τις επιλογές σου σε οποιοδήποτε σημείο του παιχνιδιού. Σίγουρα επιθυμείς να συνεχίσεις;"
   },
   "HT_Text_DeathScreen_Continue": {
     "message": "ΣΥΝΕΧΕΙΑ"
@@ -267,19 +267,19 @@
     "message": "Διαμόρφωση επιτυχής."
   },
   "HT_Text_Memcard_SaveFailed": {
-    "message": "Αποτυχία να αποθηκευτεί το παιχνίδι."
+    "message": "Αποτυχία αποθήκευσης του παιχνιδιού."
   },
   "HT_Text_Memcard_SaveSuccess": {
     "message": "Επιτυχής αποθήκευση παιχνιδιού."
   },
   "HT_Text_Memcard_LoadFail": {
-    "message": "Αποτυχία να φορτωθεί το παιχνίδι."
+    "message": "Αποτυχία φόρτωσης του παιχνιδιού."
   },
   "HT_Text_Memcard_NoCard": {
     "message": "Προσοχή! Το Σφιγξ χρησιμοποιεί λειτουργία αυτόματης αποθήκευσης.\\nΗ εισαγωγή κάρτας μνήμης (PS2) πέρα\\nαπό αυτό το σημείο μπορεί να προκαλέσει την αντικατάσταση\\n δεδομένων. Ωστόσο αν επιθυμείς να αποθηκεύσεις\\nτα δεδομένα παιχνιδιού σου, εισήγαγε μία κάρτα μνήμης (PS2)\\nμε τουλάχιστον xKB ελεύθερου χώρου.\\n\\nΠάτησε το START για να συνεχίσεις\\n χωρίς αποθήκευση."
   },
   "HT_Text_Memcard_NoCard1": {
-    "message": "Δεν έχει εισαχθεί κάρτα μνήμης (8MB)(για PlayStation®2)\\n στη θύρα 1."
+    "message": "Δεν έχει συνδεθεί κάρτα μνήμης (8MB)(για PlayStation®2)\\n στη θύρα 1."
   },
   "HT_Text_Memcard_NoSpace_Boot": {
     "message": "Ανεπαρκής χώρος στην κάρτα μνήμης (PS2). Εισήγαγε μία\\nκάρτα μνήμης με τουλάχιστον xKB ελεύθερου χώρου,\\nή ελευθέρωσε χώρο χρησιμοποιώντας τον εσωτερικό broswer την κονσόλας."
@@ -330,16 +330,16 @@
     "message": "Τίποτα"
   },
   "HT_Text_Menu_BOS": {
-    "message": "Άνοιξε το βιβλίο του Σφιγξ"
+    "message": "Άνοιγμα του Βιβλίου του Σφιγξ"
   },
   "HT_Text_Menu_Inventory": {
     "message": "Συλλογή Αντικειμένων"
   },
   "HT_Text_Menu_Jump": {
-    "message": "Πήδα"
+    "message": "Άλμα"
   },
   "HT_Text_Menu_Attack": {
-    "message": "Επιθέσου"
+    "message": "Επίθεση"
   },
   "HT_Text_Menu_Context": {
     "message": "Γενικό πλαίσιο"
@@ -441,13 +441,13 @@
     "message": "ΜΟΥΣΙΚΗ"
   },
   "HT_Text_Menu_SurroundON": {
-    "message": "SURROUND"
+    "message": "ΗΧΟΣ SURROUND"
   },
   "HT_Text_Menu_SurroundOFF": {
-    "message": "STEREO"
+    "message": "ΣΤΕΡΕΟΦΩΝΙΚΟΣ ΗΧΟΣ"
   },
   "HT_Text_Menu_Mono": {
-    "message": "MONO"
+    "message": "ΜΟΝΟΦΩΝΙΚΟΣ ΗΧΟΣ"
   },
   "HT_Text_Menu_Videos": {
     "message": "ΒΙΝΤΕΟ"
@@ -477,7 +477,7 @@
     "message": "Αποθήκευση παιχνιδιού"
   },
   "HT_Text_Menu_UseSlot": {
-    "message": "Χρησιμοποίηση αυτής της θύρας"
+    "message": "Χρήση αυτής της θύρας"
   },
   "HT_Text_Menu_LoadGame": {
     "message": "Φόρτωση αυτού του παιχνιδιού"
@@ -486,7 +486,7 @@
     "message": "[ άδειο ]"
   },
   "HT_Text_Menu_CorruptSlot": {
-    "message": "[ αλλοιωμένο]"
+    "message": "[ κατεστραμμένο ]"
   },
   "HT_Text_Menu_Scarabs": {
     "message": "Σκαραβαίοι"

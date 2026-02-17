@@ -1,33 +1,33 @@
 {
   "HT_Text_Inv_Dsc_IceDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ледяные дротики можно использовать, чтобы замораживать некоторых монстров.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ледяные дротики позволяют замораживать определённых монстров.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FireDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Огненные дротики можно использовать, чтобы поджигать некоторых монстров.<ES HT_Text_ES_S_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Огненные дротики позволяют поджигать определённых монстров.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Acid": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Кислотные дротики можно использовать, чтобы растворять тяжелые металлические цепи и наносить урон монстрам.<ES HT_Text_ES_S_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Кислотные дротики позволяют разъедать тяжёлые металлические цепи и наносить урон монстрам.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BladeOfOsiris": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Могущественный меч, которым когда-то владел великий бог Осирис.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Могущественный клинок, которым когда-то владел великий бог Осирис.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BronzeScarab": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Стандартная валюта, которую можно использовать для покупки различных предметов.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Обычная валюта, на которую можно выменять множество различных предметов.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_WingsOfIbis": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Древний артефакт, дающий возможность совершать второй прыжок в воздухе.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Древний артефакт, дарующий способность совершать второй прыжок в воздухе.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Blowpipe": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Мощное оружие и инструмент, стреляющий магическими дротиками в отдаленные цели.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Мощное оружие, позволяющее поражать далёкие цели магическими дротиками.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CrocodileScales": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Магический артефакт, который позволяет плавать под водой с огромной скоростью.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Магический артефакт, позволяющий развивать огромную скорость под водой.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_UnderwaterProjectile": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Запас этих снарядов магически восполняется, делая их бесконечными. Можно использовать для поражения целей и некоторых монстров во время плавания под водой.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Запас этих снарядов бесконечен. Их можно использовать для поражения целей и монстров во время плавания.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Древний артефакт, наделяющий вас силой, позволяющей толкать чрезвычайно тяжелые объекты.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Древний артефакт, наделяющий вас силой толкать невероятно тяжёлые объекты.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ScarabPurse": {
     "message": "<ES HT_Text_ES_S_BOSStd>В этот кошель помещается до 400 золотых скарабеев.<ES HT_Text_ES_E_BOSStd>"
@@ -36,49 +36,49 @@
     "message": "<ES HT_Text_ES_S_BOSStd>В этот кошель помещается до 900 золотых скарабеев.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BeetlePouch": {
-    "message": "<ES HT_Text_ES_S_BOSStd>В этой сумке можно хранить до 20 жуков-ловушек и до 10 пойманных монстров каждого типа.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>В этот мешочек помещается до 20 ловчих жуков и до 10 пойманных монстров каждого вида.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_DartBelt": {
     "message": "<ES HT_Text_ES_S_BOSStd>Этот пояс вмещает до 50 дротиков каждого типа.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BeetleStachel": {
-    "message": "<ES HT_Text_ES_S_BOSStd>В этом ранце можно хранить до 50 жуков-ловушек и до 10 пойманных монстров каждого типа.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Этот подсумок вмещает до 50 ловчих жуков и до 10 пойманных монстров каждого вида.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HandsOfAmunRa": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Они позволяют толкать даже самые огромные объекты.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Эти руки позволяют толкать даже самые колоссальные объекты.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ShieldOfOsiris": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Магический щит, который великий бог Осирис использовал в сражениях.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Магический щит, который великий бог Осирис использовал в былых сражениях.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CloakOfInvisibility": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Этот магический камень дарует владельцу силу невидимости... и мгновенную смерть!<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Этот магический камень дарует невидимость... и мгновенную смерть!<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AnkhContainer": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Сущность жизни; каждый дополнительный золотой анкх увеличивает максимальный запас здоровья.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Сама суть жизни; каждый золотой анкх увеличивает ваш максимальный запас здоровья.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AnkhPiece": {
-    "message": "<ES HT_Text_ES_S_BOSStd>4 осколка золотого анкха могут быть воссоединены в целый анкх умелым мастером.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>4 осколка можно воссоединить в целый золотой анкх, если найти умелого мастера.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CanopicVase": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Священная канопа, в которой заключен фрагмент души Тутанхамона.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Священная канопа, в которой заключён фрагмент души Тутанхамона.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Pearl": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Голубой бриллиант, принадлежащий мастеру игр Коридора чемпионов. Верните его ему, чтобы доказать, что вы достойны настенных рукавиц.<ES HT_Text_ES_S_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Синий алмаз, принадлежащий мастеру игр в Коридоре чемпионов. Верните его, чтобы доказать своё право на испытание со стенами.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Herbs": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Целебные травы для приготовления лекарства мэру.<ES HT_Text_ES_E_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Целебные травы для приготовления снадобья мэру.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BookOfTheDead": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Этот том содержит заклинания, позволяющие отправить Бас-Кет в замок Урука с канопами для Мумии.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Этот том содержит заклинания, позволяющие отправить Бас-Кета в замок Урука с канопами для Мумии.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Жуки, которых можно использовать для поимки монстров.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Жуки, которых можно натравливать на монстров для их поимки.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_StandardDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Запас этих дротиков магически восполняется, делая их бесконечными. Их силы хватает лишь на то, чтобы нанести урон взрывающимся монстрам.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Запас этих дротиков бесконечен. Их силы хватает лишь на то, чтобы наносить урон взрывающимся монстрам.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BounceDart": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Запас этих дротиков магически восполняется, делая их бесконечными. Они рикошетят от поверхностей, позволяя поражать цели непрямым попаданием, но их силы хватает лишь на урон взрывающимся монстрам.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Запас этих дротиков бесконечен. Они рикошетят от стен, позволяя поражать скрытые цели, но урон наносят только взрывающимся монстрам.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PhysNote": {
     "message": "<ES HT_Text_ES_S_BOSStd>Записка лекаря, адресованная изобретателю Кеммету.<ES HT_Text_ES_E_BOSStd>"
@@ -87,145 +87,145 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Эти воины королевы Геб обладают исполинскими размерами и крайне свирепым нравом...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Удачи любому, кто осмелится сойтись с ними в бою.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM09_Smiling_burble": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Эксцентричный представитель вида Барблов, использующий свои рога для атаки...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Их матерчатые шляпы носило столько поколений предков, что теперь они растут у них прямо на головах с самого рождения.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Эксцентричный представитель вида Бульков, использующий свои рога для атаки...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Их матерчатые шляпы носило столько поколений предков, что теперь они растут у них прямо на головах с самого рождения.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM10_i_Cyclops": {
     "message": "<ES HT_Text_ES_S_BOSStd>Эти неуловимые твари выпускают мощный огненный луч из своего единственного глаза и способны телепортироваться на короткие расстояния...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>При ранении Циклоп разделяется надвое — двойная опасность.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BM12_slim_burble": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Обладает суицидальным методом защиты: создает взрывной заряд, после чего бросается на цель и детонирует...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Это может быть полезно, если выпускать пойманных Тонких барблов в сторону препятствий.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Обладает суицидальным методом защиты: создает взрывной заряд, после чего бросается на цель и детонирует...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Это может быть полезно, если выпускать пойманных Стройных Бульков в сторону препятствий.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BR04_Goofy_Lizard": {
-    "message": "<ES HT_Text_ES_S_BOSStd>С самого рождения Глупые ящерицы неуклюжи и забывчивы, но в душе добродушны. Известны тем, что могут часами тщетно атаковать собственную тень.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>С самого рождения Нелепые ящерицы неуклюжи и забывчивы, но в душе добродушны. Известны тем, что могут часами тщетно атаковать собственную тень.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BR05_Dino_Oaf": {
     "message": "НУЖНО СДЕЛАТЬ<E>"
   },
   "HT_Text_Inv_Dsc_BR06_Half_Brute": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Название «Полубрут» недооценивает истинную натуру этих агрессивных двуногих монстров...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Хотя из-за неуклюжей походки они медлительны, они способны топать по земле с такой силой, что создают мощную ударную волну, поражающую всех вокруг.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Название «Полузверь» недооценивает истинную натуру этих агрессивных двуногих монстров...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Хотя из-за неуклюжей походки они медлительны, они способны топать по земле с такой силой, что создают мощную ударную волну.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU01_Mummy_Minotaur": {
     "message": "НУЖНО СДЕЛАТЬ<E>"
   },
   "HT_Text_Inv_Dsc_BU02_Skeletal_Axeman": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Остерегайтесь этих неживых воинов, вооруженных топорами...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Они используют свое оружие как бумеранг и даже могут призывать защитный щит, который укрывает их до тех пор, пока топор не вернется.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Остерегайтесь этих неживых воинов с топорами...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Они используют оружие как бумеранг и могут призывать магический щит, который укрывает их до тех пор, пока топор не вернется в руки.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU03_zombie_man": {
     "message": "НУЖНО СДЕЛАТЬ<E>"
   },
   "HT_Text_Inv_Dsc_BU05_almost_a_bull": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Монстр «Почти-бык» назван так не только из-за двух рогов на голове, но и из-за пугающей привычки бросаться на любого, кто носит красный цвет.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Недо-бык назван так не только из-за рогов, но и из-за пугающей привычки впадать в ярость и атаковать любого, на ком есть хоть что-то красное.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BU06_MBird": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Пусть они и мертвы, дружелюбнее они от этого не стали. Будут пикировать клювом вперед на любого, в ком почуют угрозу.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Пусть они и мертвы, дружелюбнее они не стали. Эти птицы пикируют клювом вперед на любого, в ком почуют угрозу.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL02_Featherless_Turkey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ощипанная индейка получила свое название из-за полного отсутствия оперения. Считается изысканным деликатесом на любом пиру в зимний сезон.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ощипанная индейка получила свое название из-за полного отсутствия оперения. Считается изысканным деликатесом на любом зимнем пиру.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL03_shuttlecock_bird": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Птица-волан может быть и одноногой, но она очень проворна...<P><ES HT_Text_ES_S_BOSStd>Проносясь по воздуху во время атаки, она напоминает стрелу и способна нанести не меньший урон.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Птица-волан может быть и одноногой, но она очень проворна...<P><ES HT_Text_ES_S_BOSStd>В полете она напоминает стрелу и способна нанести не меньший урон.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_FL05_Mummy_Eagle": {
-    "message": "Мумия орла — одна из крупнейших птиц в округе. Будучи нежитью, они гораздо более устойчивы к атакам, чем их живые сородичи.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Мумия орла — одна из крупнейших птиц в мире. Будучи нежитью, они гораздо выносливее своих живых сородичей.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD02_Cat": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Кошки-ножи быстро сбивают противников с толку ловкими прыжками и выпадами, после чего бросаются в атаку с пугающей скоростью, выпустив свои острые как бритва когти.<ES HT_Text_ES_S_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Кошки-клинки сбивают противника с толку ловкими прыжками, после чего наносят удары с пугающей скоростью, выпустив свои бритвенно-острые когти.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD14_Crab": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Краборуки атакуют врагов острыми клешнями в несколько неуклюжей манере. Однако, если подпустить их достаточно близко, последствия будут крайне болезненными.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Краборуки атакуют врагов острыми клешнями в несколько неуклюжей манере. Однако, если подпустить их близко, последствия будут болезненными.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD17_Sharpbeak": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Остроклювы держат по мечу в каждой лапе, которыми владеют с дезориентирующим и поразительным мастерством...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Они известны тем, что медленно, но верно теснят противника, используя флорентийскую школу боя на двух рапирах с убийственной эффективностью.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Остроклювы мастерски владеют мечами в обеих лапах...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Они известны тем, что неумолимо теснят врага, используя флорентийскую школу боя на парных клинках с убийственной эффективностью.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Почитатели черепов используют свои огненные посохи и способность призывать призрачные летающие черепа с убийственным мастерством...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Встреча с одним из них означает, что силы зла наверняка где-то поблизости.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Адепты черепа используют огненные посохи и призывают призрачные черепа, сея вокруг смерть...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Встреча с ними — верный признак того, что силы зла затаились где-то рядом.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Способные проходить сквозь твердые тела, они движутся с быстротой зимнего облака и атакуют словно из ниоткуда...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Приберегите метательное оружие для других целей, так как оно пролетит сквозь Темного почитателя, не причинив вреда.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Способные проходить сквозь стены, они движутся быстро, как тень, и атакуют из ниоткуда...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Не тратьте на них снаряды — они пролетят сквозь Тёмного адепта, не причинив ему вреда.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "<ES HT_Text_ES_S_BOSStd>В дополнение к отточенному мастерству фехтования, они способны выпускать зловещий мерцающий череп, который преследует противника...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Благодаря их защитным навыкам, град ударов часто не причиняет им никакого вреда.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Помимо мастерства фехтования, они способны выпускать зловещий череп, преследующий врага...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Благодаря их защитным навыкам, даже град ударов часто не наносит им вреда.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN01_Green_Giant_worm": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Они взвиваются из своих нор с пугающей скоростью, используя огромную массу, чтобы обрушиться вниз и раздавить всё под собой...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Известно, что они невосприимчивы ко всему, что могло бы оглушить монстров поменьше.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Они вырываются из нор с пугающей скоростью и обрушивают свою массу на врага, раздавливая всё на пути...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Эти гиганты невосприимчивы к эффектам, которые оглушают обычных монстров.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN07_Blade_Scorpion": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Лезвийный скорпион быстр в движении и еще быстрее в атаке. Опасайтесь его хвоста и темных нор, в которых он предпочитает спать.<ES HT_Text_ES_S_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Клинок-скорпион молниеносен в атаке. Опасайтесь его хвоста и темных расщелин, в которых он любит прятаться.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN08_Tacked_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Шипастый паук любит поджидать жертву в самых разных местах...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Поглядывайте на потолки в пещерных туннелях — он может свалиться на вас сверху.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Шипастый паук подстерегает жертву повсюду...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Следите за сводами туннелей — эти твари обожают падать на голову сверху.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN09_Sak_Spike_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Прыгает и вцепляется в добычу, кусая с исключительным упорством, пока его не стряхнут или пока он не насытится...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Встретив одного, знайте — другие наверняка рядом, так как они охотятся стаями.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Вцепляется в добычу и кусает с исключительным упорством, пока не насытится. Они охотятся стаями, так что один — никогда не бывает последним.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN11_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Членистоногое, способное стремительно передвигаться по вертикальным и горизонтальным поверхностям...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Опасаться стоит не только ядовитых клыков; каждая его лапа заканчивается смертоносными когтями, похожими на кинжалы.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Членистоногое, способное бегать по любой поверхности...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Бояться стоит не только клыков: каждая лапа заканчивается когтями, острыми как кинжалы.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Их походка может показаться комичной, но их укус — точно нет. Свирепы как на суше, так и в воде...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Благодаря уникальному метаболизму они невосприимчивы к холоду.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Их походка комична, но укус — смертелен. Свирепы и на суше, и в воде. Благодаря особому метаболизму не боятся холода.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Экзо-пиранья — новая эволюционная ветвь пираний. Обнаруженные лишь недавно, они быстрее и сильнее других представителей своего вида.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Экзо-пиранья — новый вид, обнаруженный лишь недавно. Они намного быстрее и сильнее обычных сородичей.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Змеевидная рыба, способная испускать электрические разряды.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Электрические угри — агрессивные и территориальные существа. Известны случаи, когда их большие скопления наэлектризовывали целые участки воды.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Змеевидная рыба, способная испускать электрические разряды.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Электрические угри — агрессивные и территориальные существа. В больших скоплениях они способны наэлектризовать огромные участки воды.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI03_Aka_Manta_Rays": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Крупная съедобная морская рыба, примечательная своим плоским телом и грациозным стилем плавания.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Годы охоты на них ради кулинарных деликатесов сделали это существо крайне подозрительным ко всему незнакомому.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Крупная съедобная морская рыба, примечательная плоским телом и грациозным стилем плавания.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Годы кулинарной славы сделали это существо крайне подозрительным ко всему незнакомому, что подплывает слишком близко.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI04_Aka_Spinefish": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Быстрый и яростно защищающий свои владения иглобрюх — любимый выбор высшего сословия для охраны крепостных рвов от незваных гостей.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Двигаясь с поразительной легкостью, они часто атакуют добычу еще до того, как будут замечены.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Быстрый и яростно защищающий свои владения, Шипорыб — излюбленный выбор знати для охраны крепостных рвов от незваных гостей.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Двигаясь с поразительной лёгкостью, они часто атакуют добычу ещё до того, как будут замечены.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PL02_Tree_Creature": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Древесное создание обладает прекрасной магической способностью, но стоит поддаться чарам его фосфоресцирующего свечения, как снизу вас ждет неприятный сюрприз.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Древесное чудище обладает прекрасной магической способностью, но стоит поддаться чарам его фосфоресцирующего свечения, как вас ждёт скверный сюрприз снизу.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PL04_Sunflower_With_Face": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Подсолнух не так миролюбив, как может показаться. Стоит попасть под удар его спор, и спокойного сна этой ночью вам не видать.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Подсолнух не так миролюбив, как кажется. Стоит попасть под его споры, и спокойного сна этой ночью вам не видать.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QC01_Pokemon": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Медлительные, пугливые и безобидные панцирные малютки почти бесполезны. Представители буржуазии часто используют их панцири в качестве украшений.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Медлительные, пугливые и безобидные Панцирники почти бесполезны. Знать часто использует их панцири в качестве украшений.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR01_Cobra": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Кобра — ядовитая змея с капюшоном, обитающая на деревьях и среди растений. Стоит потревожить дом кобры, и она без колебаний нападет на незваного гостя.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Кобра — ядовитая змея, обитающая на деревьях и в густой зелени. Потревожьте её дом, и она без колебаний нападёт на нарушителя.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR02_Sak_Spitting_Toad": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Несмотря на свои внушительные размеры, плюющаяся жаба — спокойное существо, известное своей любовью к кокосам.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Известно, что плюющиеся жабы помогают искателям приключений, которые кормят их этим кокосовым лакомством.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Несмотря на внушительные размеры, Плюющаяся жаба — спокойное существо, известное своей слабостью к кокосам.<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>Известно, что эти жабы помогают искателям приключений, если накормить их этим лакомством.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR03_Sak_Small_Frog": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Эта лягушка может и мала, но дружелюбием она не отличается. Обитающие в болотах, эти маленькие существа весьма ядовиты.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Эта лягушка хоть и мала, но дружелюбием не отличается. Обитающие в болотах, эти крохотные твари весьма ядовиты.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QR04_Sak_Nose_Needler": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Носоигл — роющее млекопитающее, обитающее в засушливых регионах. Удачи любому, кто попытается нанести удар по этому изворотливому зверьку.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Носоигл — роющее млекопитающее, обитающее в засушливых краях. Удачи любому, кто попытается попасть по этому изворотливому зверьку.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU01_Skeletal_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Известен тем, что использует свою необычно длинную шею, чтобы бодать добычу. Оглушив жертву, скелетный паук может не спеша ею полакомиться.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Известен тем, что использует свою длинную шею, чтобы бодать жертву. Оглушив добычу, Костяной паук может не спеша ею полакомиться.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Почуяв угрозу, они начинают вращаться на месте всё быстрее и быстрее, после чего стремительно бросаются на врага.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Почуяв угрозу, Костяной броненосец вращается на месте всё быстрее, после чего стремительно идёт на таран.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Fire": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Используя ту же атаку вращением и тараном, что и обычный скелетный броненосец, огненный броненосец также создает огненный шар, обжигающий противников...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Пойманных особей можно использовать для сожжения деревянных препятствий.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Используя таран, как и обычный сородич, Костяной огненный броненосец также создаёт огненный шар, обжигающий врагов.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Пойманных броненосцев можно использовать для сожжения деревянных преград.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Электрический скелетный броненосец вращается на месте, накапливая электрический заряд, который бьет током любого, кто к нему прикоснется.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Костяной электрический броненосец вращается на месте, накапливая заряд, который бьёт током любого, кто к нему прикоснётся.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU04_Mummy_Chihuahua": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Эти маленькие собачки не в восторге от того, что их мумифицировали, так что лучше к ним не приближаться. Если совершите такую ошибку, они вцепятся в вас и будут кусать, пока их не стряхнут.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Эти собачки не в восторге от того, что их мумифицировали. Если подойдёте близко, они вцепятся в вас мёртвой хваткой, пока вы их не стряхнёте.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU05_skeletal_waspspider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Паук-оса представляет угрозу своими острыми передними лапами, которые рассекают воздух... и добычу.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Костяной паук-оса крайне опасен своими острыми передними лапами, которые рассекают воздух... и добычу.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU06_Mummy_Worm": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Поскольку они прикованы к одному месту, они не могут видеть во всех направлениях. Если зайти к нему со спины, червь становится совершенно безобидным.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Так как Червь-мумия прикован к месту, он не может видеть всё вокруг. Если зайти к нему со спины, он становится совершенно безобидным.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU09_Rat": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Назойливое существо, которое не прекратит погоню, пока не вопьется в кого-нибудь зубами. Чаще всего встречается в населенных пунктах и рядом с ними.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Назойливая тварь, которая не прекратит погоню, пока не вопьётся в кого-нибудь зубами. Чаще всего обитает в населённых пунктах.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QU08_Normal_Chihuahua": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Чихуахуа — гладкошерстная собака миниатюрного телосложения. Хотя любители собак относятся к ним с уважением, большинство находит их непрекращающийся тявк крайне раздражающим.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Чихуахуа — миниатюрная гладкошёрстная собака. Хотя собаководы их уважают, большинство находит их непрекращающийся тявк крайне раздражающим.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD03_BigBull": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Этого огромного быка правильнее было бы назвать «большим задирой»...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>С ним невозможно договориться: он будет упорно размахивать своим молотом, круша всё, что ему помешает. Не стойте у него на пути!<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Этого огромного быка правильнее было бы назвать «большим задирой»...<ES HT_Text_ES_S_BOSStd><P><ES HT_Text_ES_S_BOSStd>С ним невозможно договориться: он будет упорно размахивать своим молотом, круша всё, что ему вздумается. Не стойте у него на пути!<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_BedroomKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Ключ от внутреннего двора дворца.<ES HT_Text_ES_E_BOSStd>"
@@ -237,10 +237,10 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Ключ для открытия магических саркофагов.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_WardrobeKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ключ от шкафа.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ключ от гардероба.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_Amulet": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Старые амулеты, найденные во дворце Луксора.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Древние амулеты, найденные во дворце Луксора.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Lux_Palace_CourtyardKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Ключ от внутреннего двора дворца.<ES HT_Text_ES_E_BOSStd>"
@@ -264,7 +264,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Лунный ключ для планетария в центральном зале.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Basket": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Бас-Кет — это магический предмет, способный переносить вещи между Сфинксом и Мумией, если у вас есть Книга Мертвых.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Бас-Кет — это магический предмет, способный переносить вещи между Сфинксом и Мумией, если у вас есть Книга Мёртвых.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyPass": {
     "message": "<ES HT_Text_ES_S_BOSStd>Идентификационный пропуск Абидоса.<ES HT_Text_ES_E_BOSStd>"
@@ -297,7 +297,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Большой кувшин, используемый для разведения жуков.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Карта лояльности, дающая право на покупку жуков за полцены в магазине аванпоста бедуинов.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Карта почётного гостя, дающая право на покупку жуков за полцены в аванпосте бедуинов.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CageKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Ключ от клетки урукита.<ES HT_Text_ES_E_BOSStd>"
@@ -306,7 +306,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Редкая валюта, встречающаяся только в замке Урука.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Mum_OldKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ключ от старого подвала.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ключ от древнего подвала.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Mum_GlyphKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Золотой ключ-глиф.<ES HT_Text_ES_E_BOSStd>"
@@ -315,49 +315,49 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Приглашение на аудиенцию к фараону Гелиополя.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень, связанный с богиней Нут; говорят, он снимает даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень, связанный с богиней Нут. Говорят, он способен снять даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень, знаменующий земное блаженство; говорят, он снимает даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень, знаменующий земное блаженство. Говорят, он способен снять даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень, связанный с плодородием; говорят, он снимает даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень, связанный с плодородием. Говорят, он способен снять даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone04": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень, который, как считается, сильнее меча; говорят, он снимает даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень, который, как считается, сильнее клинка. Говорят, он способен снять даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone05": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень пророческого происхождения; говорят, он снимает даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень пророческого происхождения. Говорят, он способен снять даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone06": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень великого дома; говорят, он снимает даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень великого дома. Говорят, он способен снять даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone07": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень защиты и бдительности; говорят, он снимает даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень защиты и бдительности. Говорят, он способен снять даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CurseStone08": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень защиты и бдительности; говорят, он снимает даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Магический камень защиты и бдительности. Говорят, он способен снять даже самое сильное проклятие.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Luxor01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Амулет портала со странными символами, указывающими на перемещение в Таинственное место.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Амулет портала со странными символами, указывающими путь в таинственное место.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Abydos01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Амулет портала с океаническими символами, указывающими на перемещение в Абидос.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Амулет портала с символами водной стихии, указывающими путь в Абидос.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_Heliopolis01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Амулет портала с символами на песке, указывающими на перемещение в Гелиополь.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Амулет портала с высеченными на песке символами, указывающими путь в Гелиополь.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_PortalAmulet_DarkArea01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Амулет портала с древними символами, указывающими на перемещение в Башню Анубиса.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Амулет портала с древними символами, указывающими путь в Башню Анубиса.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GoldKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Золотой ключ.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GlyphKey01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Золотой глиф, который подходит к определенным постаментам.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Золотой глиф, который подходит к определённым постаментам.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_GlyphKey02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Золотой глиф, который подходит к определенным постаментам.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Золотой глиф, который подходит к определённым постаментам.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_HeliopolisGateKey01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Ключ, открывающий ворота в Южную пустыню Гелиополя.<ES HT_Text_ES_E_BOSStd>"
@@ -384,34 +384,34 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Этот зонтик идеально подходит для создания тени в солнечный день.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList01": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. Огненный броненосец<PC 1>2. Червь-мумия<N>3. Почти-бык<PC 1>4. Полубрут<E><ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>1. Огненный броненосец<PC 1>2. Червь-мумия<N>3. Недо-бык<PC 1>4. Полузверь<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. Темный почитатель<PC 1>2. Паук-оса<N>3. Крыса<PC 1>4. Шипастый паук<E><ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>1. Тёмный адепт<PC 1>2. Паук-оса<N>3. Крыса<PC 1>4. Игольчатый паук<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList03": {
-    "message": "<ES HT_Text_ES_S_BOSStd>1. Древесное создание<PC 1>2. Скелетный паук<N>3. Большой бык<PC 1>4. Почитатель черепов<E><ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>1. Древесное чудище<PC 1>2. Костяной паук<N>3. Большой бык<PC 1>4. Адепт черепа<E><ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Coconut": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Кокосы — излюбленная пища уруканской лавовой жабы. Известно, что лавовые жабы помогают искателям приключений в обмен на эти ценные лакомства.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Кокосы — излюбленное лакомство уруканских лавовых жаб. Известно, что они помогают искателям приключений в обмен на это угощение.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_ZipLineHook": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Съемная рукоятка, позволяющая пользоваться зиплайнами.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Съёмная рукоять, позволяющая скользить по тросам.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyWellKey": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Старый ключ.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Древний ключ.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyStairsKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Ключ от лестницы во дворе с колодцем, открывающий доступ к каналам Абидоса.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_MedicineBag": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Сумка со специальной подкладкой для хранения хрупких лекарственных ингредиентов.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Сумка с особой подкладкой, сохраняющая хрупкие компоненты снадобья.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AtunStatue": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Золотая статуя бога Атуна. Говорят, это единственный способ разрушить магическую печать Атуна.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Золотая статуя бога Атума. Говорят, это единственный способ разрушить магическую печать Атума.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HathorStatue": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Золотая статуя богини Хатор, наделенная магической силой.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Золотая статуя богини Хатор, наделённая магической силой.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Jewel01": {
     "message": "<ES HT_Text_ES_S_BOSStd>Одна из драгоценностей, украденных из музея Абидоса.<ES HT_Text_ES_E_BOSStd>"
@@ -438,19 +438,19 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Каменный глаз, который, судя по всему, подходит к глазнице какой-то статуи.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Shoot": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Впечатляющая медаль, доказывающая, что вы — настоящий мастер стрельбы из духовой трубки.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Впечатляющая медаль, подтверждающая ваше мастерство владения духовой трубкой.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Walls": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Впечатляющая медаль, доказывающая, что вы — чемпион коридоров.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Впечатляющая медаль, подтверждающая ваш титул чемпиона коридоров.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Pairs": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Впечатляющая медаль, доказывающая, что вы прошли игру Панеба «Найди пару».<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Впечатляющая медаль, подтверждающая, что вы прошли игру Панеба «Найди пару».<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Medal_Simon": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Впечатляющая медаль, доказывающая, что вы прошли игру Соркона «Последовательность».<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Впечатляющая медаль, подтверждающая, что вы прошли игру Соркона «Последовательность».<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_Certificate": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Сертификат музея Абидоса, вручаемый за сбор полной коллекции по естествознанию.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Сертификат музея Абидоса, вручаемый за сбор полной естественнонаучной коллекции.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Museum_HunterA": {
     "message": "<ES HT_Text_ES_S_BOSStd>Сертификат музея Абидоса, вручаемый за поимку 30 монстров.<ES HT_Text_ES_E_BOSStd>"
