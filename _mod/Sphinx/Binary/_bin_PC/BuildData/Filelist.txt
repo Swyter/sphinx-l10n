@@ -13,5 +13,6 @@ x:\sphinx\binary\_bin_pc\o01_japa.edb              : Len   12328000 : Ver  182 :
 x:\sphinx\binary\_bin_pc\o01_latv.edb              : Len    1942848 : Ver  182 : Hash 0x01ffffce : Loc     957a800:000
 x:\sphinx\binary\_bin_pc\o01_russ.edb              : Len    1944864 : Ver  182 : Hash 0x01ffffec : Loc     9755000:000
 x:\sphinx\binary\_bin_pc\o01_ukra.edb              : Len    1945152 : Ver  182 : Hash 0x01ffffca : Loc     9930000:000
-x:\sphinx\binary\_bin_pc\oo_lsdps.edb              : Len     179584 : Ver  182 : Hash 0x01000271 : Loc     9b0b000:000
-x:\sphinx\binary\_bin_pc\text.edb                  : Len      35072 : Ver  182 : Hash 0x010000e7 : Loc     9c38800:000
+x:\sphinx\binary\_bin_pc\oo_ldata.edb              : Len       4672 : Ver  182 : Hash 0x01000273 : Loc     9b0b000:000
+x:\sphinx\binary\_bin_pc\oo_lsdps.edb              : Len     179584 : Ver  182 : Hash 0x01000271 : Loc     9b0c800:000
+x:\sphinx\binary\_bin_pc\text.edb                  : Len      35072 : Ver  182 : Hash 0x010000e7 : Loc     9c3a000:000
