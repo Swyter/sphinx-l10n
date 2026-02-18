@@ -1,96 +1,96 @@
 {
   "HT_Text_Lux_pyra_sacrifice_2a": {
-    "message": "Sir, there is an intruder in the building!<E>"
+    "message": "Κύριε, υπάρχει εισβολέας στο κτίριο!<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_2b": {
-    "message": "What?! Destroy him! He cannot interrupt the ceremony!<E>"
+    "message": "Τι; Καταστρέψτε τον! Δεν πρέπει να διακόψει την τελετή!<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_2c": {
-    "message": "Wait a second... I sense something...<W 60>"
+    "message": "Περιμένετε μια στιγμή... αισθάνομαι κάτι...<W 60>"
   },
   "HT_Text_Lux_pyra_sacrifice_2d": {
-    "message": "Forsaken spirits of this building, wake up! Arise and kill the intruder!<W 120>"
+    "message": "Ξεχασμένα πνεύματα αυτού του κτιρίου, ξυπνήστε! Εγερθείτε και σκοτώστε τον εισβολέα!<W 120>"
   },
   "HT_Text_Lux_pyra_sacrifice_3a": {
-    "message": "<EFF><EPO>What happened? Curses! Now we will have to start again...<P>Look! There's the saboteur who ruined the ceremony...<E>"
+    "message": "<EFF><EPO>Τι συνέβη; Κατάρα! Τώρα θα πρέπει να ξεκινήσουμε από την αρχή...<P>Κοιτάξτε! Εκεί είναι ο σαμποτέρ που κατέστρεψε την τελετή...<E>"
   },
   "HT_Text_Lux_pyra_sacrifice_3b": {
-    "message": "You fool! Deactivate the magical device! Can't you see it is going to explode!<W 120><E>"
+    "message": "Ανόητε! Απενεργοποίησε τη μαγική συσκευή! Δεν βλέπεις ότι πρόκειται να εκραγεί!<W 120><E>"
   },
   "HT_Text_Lux_pyra_sacrifice_3c": {
-    "message": "It's sucking us in! No!!!<W 60>"
+    "message": "Μας ρουφάει μέσα! Όχι!!!<W 60>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_a": {
-    "message": "Oh! Thank you for saving me, I'm eternally grateful. But now my beloved Tut is dead! How can I live without him?<E>"
+    "message": "Ω! Σε ευχαριστώ που με έσωσες, σου είμαι αιώνια ευγνώμων. Αλλά τώρα ο αγαπημένος μου Τουτ είναι νεκρός! Πώς θα ζήσω χωρίς αυτόν;<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_b": {
-    "message": "This vase is all that remains of him. I'm sure that part of his soul is inside.<E>"
+    "message": "Αυτό το βάζο είναι ό,τι απέμεινε από εκείνον. Είμαι σίγουρη ότι ένα μέρος της ψυχής του βρίσκεται μέσα.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_c": {
-    "message": "I want you to take it. Your heroic actions assure me that you might be the one to bring him back.<E>"
+    "message": "Θέλω να το πάρεις εσύ. Οι ηρωικές σας πράξεις με πείθουν ότι είσαι ο μόνος που μπορεί να τον φέρει πίσω.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_c1": {
-    "message": "Please, find him and bring him back to me. Oh Tut! Why did they do this to you?<E>"
+    "message": "Σε παρακαλώ, βρες τον και φερ'τον πίσω σε μένα. Ω, Τουτ! Γιατί σου το έκαναν αυτό;<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_d": {
-    "message": "Before you go, take this. It's an amulet that Tut gave to me, he was fascinated by it, but I don't know why. To me it's just an amulet.<E>"
+    "message": "Πριν φύγεις, πάρε αυτό. Είναι ένα φυλαχτό που μου έδωσε ο Τουτ. Ήταν γοητευμένος από αυτό, αλλά δεν ξέρω γιατί. Για μένα είναι απλώς ένα φυλαχτό.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_e": {
-    "message": "Sphinx, you must meet with me in <FC 128,64,0>Heliopolis<END FC> as soon as possible.<E>"
+    "message": "Σφιγξ, πρέπει να με συναντήσεις στην <FC 128,64,0>Ηλιούπολη<END FC> το συντομότερο δυνατό.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_e1": {
-    "message": "These events are clear evidence that something extremely sinister is taking place.<E>"
+    "message": "Αυτά τα γεγονότα είναι σαφής απόδειξη ότι κάτι εξαιρετικά σκοτεινό συμβαίνει.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_f": {
-    "message": "<EFF><EPO>The forces at work during this ceremony were far too powerful and demonic for my liking.<P>We must find the source of this power before it grows to be a real menace.<E>"
+    "message": "<EFF><EPO>Οι δυνάμεις που έδρασαν κατά την τελετή ήταν υπερβολικά ισχυρές και δαιμονικές για τα γούστα μου.<P>Πρέπει να βρούμε την πηγή αυτής της δύναμης προτού εξελιχθεί σε πραγματική απειλή.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_g": {
-    "message": "With that <FC 0,128,0>Portal Amulet<END FC> you can use the portal in the entrance to leave this place.<E>"
+    "message": "Με αυτό το <FC 0,128,0>Φυλαχτό Πύλης<END FC> μπορείς να χρησιμοποιήσεις την πύλη στην είσοδο για να φύγεις από αυτό το μέρος.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_g1": {
-    "message": "Again we have no way of knowing exactly where is going to send you but wherever it may be, you must find a way to Heliopolis.<E>"
+    "message": "Και πάλι, δεν έχουμε τρόπο να γνωρίζουμε ακριβώς πού θα σε στείλει, αλλά όπου κι αν είναι, πρέπει να βρεις τρόπο να φτάσεις στην Ηλιούπολη.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_h": {
-    "message": "Do not worry about Nefertiti, I will find a way to help her to escape from this wretched place.<E>"
+    "message": "Μην ανησυχείς για τη Νεφερτίτη, θα βρω έναν τρόπο να τη βοηθήσω να αποδράσει από αυτό το άθλιο μέρος.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_I": {
-    "message": "I want you to take this <FC 0,128,0>Gold Ankh<END FC>. It will help you to face the challenges you will inevitably face on your journey.<E>"
+    "message": "Θέλω να πάρεις αυτό το <FC 0,128,0>Χρυσό Ανκχ<END FC>. Θα σε βοηθήσει να αντιμετωπίσεις τις προκλήσεις που αναπόφευκτα θα βρεις στο ταξίδι σου.<E>"
   },
   "HT_Text_Lux_pyra_Nefertiti_Canopic_m": {
-    "message": "Good luck, Sphinx.<W 60>"
+    "message": "Καλή τύχη, Σφιγξ.<W 60>"
   },
   "HT_Text_Lux_Pyramid_Help_GotShield": {
-    "message": "<N><CNTR>You got the <FC 0,128,0>Shield of Osiris<END FC>!<P><CNTR>This most ancient artifact was said to be wielded by the great god Osiris himself!<P><CNTR>You can use the shield to protect yourself from many types of enemy attack and other hazards.<E>"
+    "message": "<N><CNTR>Πήρες την <FC 0,128,0>Ασπίδα του Οσίριδος<END FC><P><CNTR>! Λέγεται ότι αυτό το πανάρχαιο κειμήλιο το κρατούσε ο ίδιος ο μέγας θεός Όσιρις!<P><CNTR>Μπορείς να χρησιμοποιήσεις την ασπίδα για να προστατευτείς από πολλά είδη εχθρικών επιθέσεων και άλλους κινδύνους.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_NeedAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Without a <FC 0,128,0>Portal Amulet<END FC> the Portal God will not allow you to pass.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Χωρίς ένα <FC 0,128,0>Φυλαχτό Πύλης<END FC> ο Θεός της Πύλης δεν θα σου επιτρέψει να περάσεις.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_AmuletAccepted": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your credentials and will provide transport to <FC 128,64,0>Abydos<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ο Θεός της Πύλης αναγνωρίζει το φυλαχτό σου και θα σου παράσχει μεταφορά στην <FC 128,64,0>Άβυδο<END FC>...<E>"
   },
   "HT_Text_Lux_Pyramid_Help_UsePortal": {
-    "message": "Use the portal?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Χρήση της πύλης;<N> <B 1> Ναι<N> <B 2> Όχι<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotPortalAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Portal Amulet<END FC>!<P><N><CNTR>This gold artifact was made to honor the Portal God.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Φυλαχτό Πύλης<END FC>!<P><N><CNTR>Αυτό το χρυσό κειμήλιο φτιάχτηκε για να τιμήσει τον Θεό της Πύλης.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotCanopicVase": {
-    "message": "<N><CNTR>You got a <FC 0,128,0>Canopic Vase<END FC>!<P><N><CNTR>Part of the soul of Tutankhamen is stored inside.<E>"
+    "message": "<N><CNTR>Πήρες ένα <FC 0,128,0>Κανοπικό Βάζο<END FC>!<P><N><CNTR>Μέρος της ψυχής του Τουταγχαμών είναι αποθηκευμένο μέσα.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotGoldKey": {
-    "message": "<N><CNTR>You found a <FC 0,128,0>Gold Key<END FC>!<E>"
+    "message": "<N><CNTR>Βρήκες ένα <FC 0,128,0>Χρυσό Κλειδί<END FC>!<E>"
   },
   "HT_Text_Lux_Pyramid_NefertitiHU17_KillEnemies": {
-    "message": "There's no time to talk to me! Get rid of those awful monsters!<E>"
+    "message": "Δεν υπάρχει χρόνος για κουβέντες! Ξεφορτώσου αυτά τα απαίσια τέρατα!<E>"
   },
   "HT_Text_Lux_Pyramid_NefertitiHU17_Go": {
-    "message": "You should go! There is nothing that can be done here.<E>"
+    "message": "Πρέπει να φύγεις! Δεν μπορεί να γίνει τίποτα άλλο εδώ.<E>"
   },
   "HT_Text_Lux_pala_Guard_a": {
-    "message": "Good morning, Prince, and happy birthday!<E>"
+    "message": "Καλημέρα, Πρίγκιπα, και χρόνια πολλά!<E>"
   },
   "HT_Text_Lux_pala_Guard_b": {
-    "message": "Lady Nefertiti was looking for you. She said it was very important, and wants you to meet her in the <FC 128,64,0>Courtyard<END FC> before you go to the state rooms.<E>"
+    "message": "Η Λαίδη Νεφερτίτη σας έψαχνε. Είπε ότι ήταν πολύ σημαντικό και θέλει να τη συναντήσετε στην <FC 128,64,0>Αυλή<END FC> πριν πάτε στις επίσημες αίθουσες.<E>"
   },
   "HT_Text_Lux_pala_Guard_c": {
     "message": "Your Majesty, Lady Nefertiti insists you meet her in the <FC 128,64,0>Courtyard<END FC> before going to the state rooms. Might I say, it appeared to be urgent... <E>"

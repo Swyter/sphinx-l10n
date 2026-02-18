@@ -1,170 +1,170 @@
 {
   "HT_Text_Shop_AskForMore": {
-    "message": "<END TT>Would you like to buy more?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Θα ήθελες να αγοράσεις κι άλλα;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_BuyFireDart": {
-    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Fire Darts cost <FC 0,128,0>10 Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Τα Βέλη Φωτιάς κοστίζουν <FC 0,128,0>10 Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Yes<N><B 2>No<E>"
   },
   "HT_Text_Shop_BuyIceDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Ice Darts cost <FC 0,128,0>12 Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Τα Βέλη Πάγου κοστίζουν <FC 0,128,0>12 Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_BuyAcidDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Acid Darts cost <FC 0,128,0>12 Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Τα Βέλη Οξέος κοστίζουν <FC 0,128,0>12 Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_BuyRemoteControlBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_RemoteBeetle><N>Capture beetles: may contain traces of peanut. <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> for 5 beetles.Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT><I HT_Texture_Icon_RemoteBeetle><N>Σκαθάρια αιχμαλώτισης: μπορεί να περιέχουν ίχνη φυστικιών. <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC> για 5 σκαθάρια. Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_BuyExplosiveBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Explosive beetles: illegal in over 20 states. <FC 0,128,0>10 Scarabs<END FC> for 5 beetles. Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Εκρηκτικά σκαθάρια: παράνομα σε πάνω από 20 χώρες. <FC 0,128,0>10 Σκαραβαίοι<END FC> για 5 σκαθάρια. Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_Flex_BuyFireDart": {
-    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Fire Darts cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Τα Βέλη Φωτιάς κοστίζουν <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_Flex_BuyIceDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Ice Darts cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Τα Βέλη Πάγου κοστίζουν <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_Flex_BuyAcidDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Acid Darts cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Τα Βέλη Οξέος κοστίζουν <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_Flex_BuyExplosiveBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Explosive beetles: illegal in over 20 states. <FC 0,128,0><SO HT_Objective_Shop_Price>Scarabs<END FC> for 5 beetles.Would you like to buy some?<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Εκρηκτικά σκαθάρια: παράνομα σε πάνω από 20 χώρες. <FC 0,128,0><SO HT_Objective_Shop_Price>Σκαραβαίους<END FC> για 5 σκαθάρια. Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_DartBelt": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_DartBelt> Dart Belt - Holds a maximum of 50 darts of each type<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_DartBelt> Ζώνη για Βέλη - Χωράει το πολύ 50 βέλη από κάθε τύπο<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC><E>"
   },
   "HT_Text_Shop_BuyDartBelt": {
-    "message": "<END TT>Buy Dart Belt for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Αγορά Ζώνης για Βέλη για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>?<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_Test": {
-    "message": "<END TT>Please, look around. Maybe you'll find something else that interests you.<E>"
+    "message": "<END TT>Παρακαλώ, ρίξε μια ματιά. Ίσως βρεις κάτι που να σου αρέσει.<E>"
   },
   "HT_Text_Shop_Sorry": {
-    "message": "<END TT>Sorry, you don't have enough money to buy that.<E>"
+    "message": "<END TT>Λυπάμαι, αλλά δεν έχεις αρκετά χρήματα να το αγοράσεις.<E>"
   },
   "HT_Text_Shop_Full": {
-    "message": "<END TT>You've already got as many of those as you can carry.<E>"
+    "message": "<END TT>Έχεις ήδη όσα περισσότερα μπορείς να κουβαλήσεις.<E>"
   },
   "HT_Text_Shop_NoStock": {
-    "message": "<END TT>I'm sorry, we don't have any more of those.<E>"
+    "message": "<END TT>Λυπάμαι, αλλά μας τελείωσαν.<E>"
   },
   "HT_Text_Shop_IceDart": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Ice Darts<N>Shoot these at things to freeze them.<E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Βέλη Πάγου<N>Ριξ'τα για να παγώσεις αντικείμενα.<E>"
   },
   "HT_Text_Shop_FireDart": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_FireDart> Fire Darts<N>Lets make with the arson already!<E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_FireDart> Βέλη Φωτιάς<N>Ας βάλουμε φωτιά!<E>"
   },
   "HT_Text_Shop_AcidDart": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Acid Darts<N>Highly corrosive pipe launched projectiles.<E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Βέλη Οξέος<N>Εξαιρετικά διαβρωτικά βέλη.<E>"
   },
   "HT_Text_Shop_RemoteControlBeetle": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture beetles<N>Batteries not included.<E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Σκαθάρια αιχμαλώτισης<N>Δεν περιλαμβάνονται μπαταρίες.<E>"
   },
   "HT_Text_Shop_CaptureBeetles05": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 5<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Σκαθάρια Αιχμαλώτισης x 5<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles05": {
-    "message": "<END TT>Buy 5 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Αγορά 5 Σκαθαριών Αιχμαλώτισης για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_CaptureBeetles15": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 15<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Σκαθάρια Αιχμαλώτισης x 15<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles15": {
-    "message": "<END TT>Buy 15 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Αγορά 15 Σκαθαριών Αιχμαλώτισης για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_CaptureBeetles30": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Capture Beetles x 30<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Σκαθάρια Αιχμαλώτισης x 30<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyCaptureBeetles30": {
-    "message": "<END TT>Buy 30 Capture Beetles for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Αγορά 30 Σκαθαριών Αιχμαλώτισης για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_BeetleSatchel": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Beetle Satchel - Holds a maximum of 50 Capture Beetles<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_RemoteBeetle> Σάκος Σκαθαριών - Χωράει το πολύ 50 Σκαθάρια Αιχμαλώτισης <N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyBeetleSatchel": {
-    "message": "<END TT>Buy Beetle Satchel for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Αγορά Σάκου Σκαθαριών για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_AcidDarts10": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Acid Darts x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AcidDart> Βέλη Οξέος x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyAcidDarts10": {
-    "message": "<END TT>Buy 10 Acid Darts for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Αγορά 10 Βελών Οξέος για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_IceDarts10": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Ice Darts x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Βέλη Πάγου x 10<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyIceDarts10": {
-    "message": "<END TT>Buy 10 Ice Darts for <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Αγορά 10 Βελών Πάγου για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_ExplosiveBeetle": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Explosive beetles<N>If swallowed seek medical attention immediately.<E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_ExplosiveBeetle> Εκρηκτικά σκαθάρια<N>Αν καταποθούν, ζητήστε άμεσα ιατρική περίθαλψη.<E>"
   },
   "HT_Text_Shop_GoldAnkh": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Gold Ankh<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhContainer> Χρυσό Ανκχ<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι Όνυχος<END FC><E>"
   },
   "HT_Text_Shop_BuyGoldAnkh": {
-    "message": "<END TT>Buy Gold Ankh for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "<END TT>Αγορά Χρυσού Ανκχ για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους Όνυχος<END FC>;<N>  <B 1> Ναι<N>  <B 2> Όχι<E>"
   },
   "HT_Text_Shop_GoldAnkhPiece": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhPiece> Gold Ankh Piece<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_AnkhPiece> Κομμάτι Χρυσού Ανκχ<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι Όνυχος<END FC><E>"
   },
   "HT_Text_Shop_BuyGoldAnkhPiece": {
-    "message": "<END TT>Buy Gold Ankh Piece for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Αγορά Κομματιού Χρυσού Ανκχ για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους Όνυχος<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_GateKey03": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GlyphKey02> Cave Door Key<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GlyphKey02> Κλειδί Σπηλιάς<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι Όνυχος<END FC><E>"
   },
   "HT_Text_Shop_BuyGateKey03": {
-    "message": "<END TT>Buy Cave Door Key for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Αγορά Κλειδιού Σπηλιάς για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους Όνυχος<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_AtunEyes04": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Atun Eye x 4<N><FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Μάτι του Ατούν x 4<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι Όνυχος<END FC><E>"
   },
   "HT_Text_Shop_BuyAtunEyes04": {
-    "message": "<END TT>Buy 4 Atun Eyes for <FC 0,128,0><SO HT_Objective_Shop_Price> Onyx Scarabs<END FC>?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Αγορά 4 Ματιών του Αυτούν για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους Όνυχος<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_Burble": {
-    "message": "<DHP><DP><END TT>Mummy Bird<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>Πτηνό Μούμια<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyBurble": {
-    "message": "<END TT>Mummy Birds cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Το Πτηνό Μούμια κοστίζει <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_Pokemon": {
-    "message": "<DHP><DP><END TT>Shell Critter<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>Οστρακόζωο <N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyPokemon": {
-    "message": "<END TT>Shell Critters cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Το Οστρακόζωο κοστίζει <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>. Θα ήθελες να αγοράσεις;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_Rat": {
-    "message": "<DHP><DP><END TT>Rat<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>Αρουραίος<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyRat": {
-    "message": "<END TT>Rats cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Ο Αρουραίος κοστίζει <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_Armadillo": {
-    "message": "<DHP><DP><END TT>Shuttlecock Bird<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>Πουλί-Φτερό<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyArmadillo": {
-    "message": "<END TT>Shuttlecocks cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Το Πουλί-Φτερό κοστίζει <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>. Θα ήθελες να αγοράσεις;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_Lizard": {
-    "message": "<DHP><DP><END TT>Featherless Turkey<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>Μαδημένη Γαλοπούλα<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyLizard": {
-    "message": "<END TT>Turkeys cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Η Γαλοπούλα κοστίζει <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_Piranha": {
-    "message": "<DHP><DP><END TT>Small Frog<N><FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC><E>"
+    "message": "<DHP><DP><END TT>Μικρός Βάτραχος<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyPiranha": {
-    "message": "<END TT>Frogs cost <FC 0,128,0><SO HT_Objective_Shop_Price> Scarabs<END FC> each. Would you like to buy one?<N>  <B 2> No<N>  <B 1> Yes<E>"
+    "message": "<END TT>Ο Βάτραχος κοστίζει <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_BuyMonster": {
-    "message": "<END TT>That's a fine specimen, I'll give you <SO HT_Objective_Shop_Price> for it.<N>  <B 2> No way<N>  <B 1> It's a deal<E>"
+    "message": "<END TT>Αυτό είναι ένα εξαίρετο δείγμα, θα σου δώσω<SO HT_Objective_Shop_Price> .<N>  <B 2> Σε καμία περίπτωση<N>  <B 1> Σύμφωνοι<E>"
   },
   "HT_Text_Shop_SuitYourself": {
-    "message": "Suit yourself then. The offer's always open if you change your mind...<E>"
+    "message": "Όπως θες. Η προσφορά μου ισχύει πάντα αν αλλάξεις γνώμη...<E>"
   },
   "HT_Text_Shop_NothingToSell": {
-    "message": "If you want to sell me monsters, you'd better go and catch some first...<E>"
+    "message": "Αν θες να μου πουλήσεις τέρατα, καλό θα ήταν να πας και να πιάσεις μερικά πρώτα...<E>"
   }
 }

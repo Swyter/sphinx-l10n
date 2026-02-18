@@ -1,41 +1,41 @@
 {
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1a": {
-    "message": "Lord Set, the Gebs are eternally grateful to you for bringing the <FC 0,128,0>Sacred Crown of Uruk<END FC>. The Crown will be totally secure in our hands.<E>"
+    "message": "Κύριε μας Σετ, οι Γκεμπ είναι αιώνια ευγνώμονες σε σένα που μας έφερες το <FC 0,128,0>Ιερό Στέμμα της Ουρούκ<END FC>. Το Στέμμα θα είναι απόλυτα ασφαλές στα χέρια μας.<E>"
   },
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1b": {
-    "message": "I am sure that you speak the truth. If not, the consequences for you will be terrible indeed.<E>"
+    "message": "Είμαι σίγουρος ότι λες την αλήθεια. Αλλιώς οι συνέπεις θα είναι όντως ολέθριες."
   },
   "HT_Text_Sakk_5_Cer_1_Seth_Crown_Gebqueen1c": {
-    "message": "Do not worry, my Lord Set. Nobody has ever been able to overcome the power of the Geb Queen...<E>"
+    "message": "Μην ανησυχείς, Κύριε μου Σετ. Κανείς δεν έχει καταφέρει να υπερνικήσει τη δύναμη της Βασίλισσας Γκεμπ...<E>"
   },
   "HT_Text_Sakk_5_Boss_Fight_Gebqueen1a": {
-    "message": "How dare you enter into the palace of the Geb Queen?!<E>"
+    "message": "Πώς τολμάς να εισέρχεσαι στο παλάτι της Βασίλισσας Γκεμπ;;;"
   },
   "HT_Text_Sakk_5_Boss_Fight_Gebqueen1b": {
-    "message": "You will pay the ultimate price for your insolence. Prepare to die!<E>"
+    "message": "Θα πληρώσεις το υπέρτατο τίμημα για το θράσος σου. Ετοιμάσου να πεθάνεις!<E>"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1a": {
-    "message": "You may have defeated me, but Set will annihilate you.<P>Your efforts were all for nothing... it's too late... you will never defeat him...<E>"
+    "message": "Μπορείς να με νίκησες, αλλά ο Σετ θα σε εξολοθρεύσει.<P>Οι προσπάθειες σου ήταν ανούσιες... είναι πολύ αργά... δε θα τον νικήσεις ποτέ...<E>"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1b": {
-    "message": "Aaaaaaiiiiiiiiiiiiee!!!! <E>"
+    "message": "Ααααααααααααααααααααα!!!"
   },
   "HT_Text_Sakk_5_Boss_Death_Gebqueen1c": {
-    "message": "Aaaaaaiiiiiiiiiiiiee!!!! <E>"
+    "message": "Ααααααααααααααααααααα!!!"
   },
   "HT_Text_Sakk_5_TakeCrown1a": {
-    "message": "Another crown whose power you do not understand.<E>"
+    "message": "Άλλο ένα στέμμα του οποίου τη δύναμη δεν καταλαβαίνεις.<E>"
   },
   "HT_Text_Sakk_5_TakeCrown1b": {
-    "message": "The path that you choose is one of grave danger...<E>"
+    "message": "Το μονοπάτι που επέλεξες ενέχει μεγάλο κίνδυνο...<E>"
   },
   "HT_Text_Sakk_5_TakeCrown1c": {
-    "message": "Only the most determined of heroes will succeed.<E>"
+    "message": "Μόνο οι πιο αποφασισμένοι ήρωες θα επιτύχουν.<E>"
   },
   "HT_Text_Sakk_5_TakeCrown1d": {
-    "message": "The Prophecy is beginning to be realized at last... But will you be the one to bring about its conclusion?<E>"
+    "message": "Η Προφητεία αρχίζει να πραγματοποιείται επιτέλους... Αλλά θα είσαι ο ένας να την ολοκληρώσει;"
   },
   "HT_Text_Sakk_5_TakeCrown1e": {
-    "message": "Take this <FC 0,128,0>Gold Ankh<END FC> as a reward for your achievement.<P><ES HT_Text_ES_S_HelpText><CNTR>This magic artifact has increased your health capacity<N>by <FC 0,128,0>1 Ankh<END FC> and has fully replenished your health!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "Πάρε αυτό το <FC 0,128,0>Χρυσό Ανκχ<END FC> ως ανταμοιβή για το κατόρθωμα σου.<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτό το μαγικό κειμήλιο αύξησε τη ζωή σου <N>κατά <FC 0,128,0>1 Ανκχ<END FC> και έχει πλήρως αναπληρώσει τη ζωή σου!<ES HT_Text_ES_E_HelpText><E>"
   }
 }

@@ -666,13 +666,13 @@
     "message": "Αυτό το σημέιωμα είναι για μένα;<N>  <B 1> Ναι<N>  <B 2> Όχι<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Accept01": {
-    "message": "Ααα, τέλεια! Ας δούμε... <P>Ωχ όχι, δυσάρεστα νέα. <FC 0,128,0>Θεραπευτικά Βότανα<END FC>, χμμμ...<P>Αυτά όντως φυτρώνουν στην <FC 128,64,0>Άβυδο<END FC> αλλά τα φυτά είναι πολύ ευαίσθητα και πεθαίνουν πολύ γρήγορα αφότου τα μαζέψεις.<P>Αυτό που χρειάζεσαι είναι μια <FC 0,128,0>Τσάντα Φαρμάκων<END FC> για να τα διατηρήσεις φρέσκα. Φοβάμαι ότι δεν έχω κάτι τέτοιο στο εργαστήριό μου.<P>Το μόνο πράγμα που μπορεί να σε ενδιαφέρει αυτή τη στιγμή είναι αυτό. Δεν είμαι σίγουρος που χρησιμεύει. Ίσως μπορείς να με διαφωτίσες σχετικά με αυτό;<E>"
+    "message": "Ααα, τέλεια! Ας δούμε... <P>Ωχ όχι, δυσάρεστα νέα. <FC 0,128,0>Θεραπευτικά Βότανα<END FC>, χμμμ...<P>Αυτά όντως φυτρώνουν στην <FC 128,64,0>Άβυδο<END FC> αλλά τα φυτά είναι πολύ ευαίσθητα και πεθαίνουν πολύ γρήγορα αφότου τα μαζέψεις.<P>Αυτό που χρειάζεσαι είναι ένας <FC 0,128,0>Σάκος Φαρμάκων<END FC> για να τα διατηρήσεις φρέσκα. Φοβάμαι ότι δεν έχω κάτι τέτοιο στο εργαστήριό μου.<P>Το μόνο πράγμα που μπορεί να σε ενδιαφέρει αυτή τη στιγμή είναι αυτό. Δεν είμαι σίγουρος που χρησιμεύει. Ίσως μπορείς να με διαφωτίσες σχετικά με αυτό;<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Decline01": {
     "message": "Όχι! Πιστεύω ότι μου λες ψέματα!"
   },
   "HT_Text_Aby_Canal_Inventor_MedicineBag01": {
-    "message": "Γεια σου ξανά, ξένε. Τι είναι αυτό που έχεις εκεί; <P>Μια <FC 0,128,0>Τσάντα Φαρμάκων<END FC>; Πολύ ενδιαφέρον. Φαίνεται ότι δε θα έχεις πια πρόβλημα να διατηρήσεις τα <FC 0,128,0>Φαρμακευτικά Βότανα<END FC> που χρειάζεσαι.<P>Μην χάνεις χρόνο μιλώντας μαζί μου, ξεκίνα να μαζεύεις τα βότανα για το Δήμαρχο!<E>"
+    "message": "Γεια σου ξανά, ξένε. Τι είναι αυτό που έχεις εκεί; <P>Ένας <FC 0,128,0>Σάκος Φαρμάκων<END FC>; Πολύ ενδιαφέρον. Φαίνεται ότι δε θα έχεις πια πρόβλημα να διατηρήσεις τα <FC 0,128,0>Φαρμακευτικά Βότανα<END FC> που χρειάζεσαι.<P>Μην χάνεις χρόνο μιλώντας μαζί μου, ξεκίνα να μαζεύεις τα βότανα για το Δήμαρχο!<E>"
   },
   "HT_Text_Aby_Canal_Inventor_Herbs01": {
     "message": "Ακόμα δε βρήκες τα βότανα; Βιάσου προτού να είναι αργά!<E>"
@@ -690,7 +690,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><CNTR>Αυτό είναι το τελευταίο από τα πλάσματα<N>που κατακλύζουν το  <FC 128,64,0>Στενό Κανάλι<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Πρέπει να το αναφέρεις στον<N>Φρουρό της Αβύδου και να πάρεις την ανταμοιβή σου!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_Help_GotHerbGood": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Θεραπευτικό Βότανο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αποθηκεύτηκε με ασφάλεια στην <FC 0,128,0>Τσάντα Φαρμάκων<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Θεραπευτικό Βότανο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αποθηκεύτηκε με ασφάλεια στον <FC 0,128,0>Σάκο Φαρμάκων<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_Help_GotHerbBad": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Φαρμακευτικό Βότανο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αλλά μαράθηκε και πέθανε σχεδόν αμέσως!<ES HT_Text_ES_E_HelpText><E>"
@@ -750,174 +750,174 @@
     "message": "Έχεις εξερευνήσει την όμορφη πόλη μας; Υπάρχουν πολλά υπέροχα πράγματα να κάνεις εδώ.<E>"
   },
   "HT_Text_Aby_Canal_ZipHint01": {
-    "message": "If you had a <FC 0,128,0>Zip Line Handle<END FC>, you could use all the zip lines around <FC 128,64,0>Abydos<END FC> to get places.<P>I heard the museum was giving one away to anyone who donated a monster to the collection...<E>"
+    "message": "Αν είχες μία <FC 0,128,0>Λαβή Εναέριας Τροχαλίας<END FC>, θα μπορούσες να χρησιμοποιήσεις τις εναέριες τροχαλίες της <FC 128,64,0>Αβύδου<END FC> για να μετακινείσαι.<P>Άκουσα ότι το μουσείο χαρίζει μια λαβή σε όποιον δωρίσει ένα τέρας στη συλλογή...<E>"
   },
   "HT_Text_Aby_Canal_ZipHint02": {
-    "message": "If you want to leave <FC 128,64,0>Abydos<END FC>, you'll need a <FC 0,128,0>Zip Line Handle<END FC> to get to the ferryman.<E>"
+    "message": "Αν θες να φύγεις από την <FC 128,64,0>Άβυδο<END FC>, θα χρειαστείς μία <FC 0,128,0>Λαβή Εναέριας Τροχαλίας<END FC> για να πας στον πορθμέα. <E>"
   },
   "HT_Text_Aby_Canal_ZipHint03": {
-    "message": "I understand that people who give monsters to the museum receive <FC 0,128,0>Zip Line Handles<END FC> so they can use the <FC 128,64,0>Abydos<END FC> zip lines.<E>"
+    "message": "Από ό,τι κατάλαβα, ο κόσμος που δίνει τέρατα στο μουσείο κερδίζει μία <FC 0,128,0>Λαβή Εναέριας Τροχαλίας<END FC> για να μπορούν να χρησιμοποιούν της εναέριες τροχαλίες της <FC 128,64,0>Αβύδου<END FC> .<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Ramble": {
-    "message": "I bought this Goofy Lizard from a man called Jek who said it was very valuable, but I think he was lying.<P>It's useless! I've tried teaching it to do tricks or to fetch stuff, but it won't do anything!<P>I'll never impress my girlfriend with it.<P>If only I could find something else to impress my girlfriend with...<E>"
+    "message": "Αγόρασα αυτή τη Χαζή Σαύρα από κάποιον που λέγεται Τζεκ και είπε ότι είναι πολύτιμη, αλλά νομίζω ότι έλεγε ψέματα.<P>Είναι άχρηστη! Δοκίμασα να της μάθω κόλπα ή να φέρνει πράγματα αλλά δεν κάνει τίποτα!<P>Δε θα εντυπωσιάσω την κοπέλα μου έτσι.<P>Μακάρι να μπορούσα να βρω κάτι να την εντυπωσιάσω...<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_GotMedal": {
-    "message": "Hey! Is that a game medal? Wow!<P>If you get all four of them, I'll swap this usele- I mean valuable lizard for them!<P>What do you say?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Ωπ! Μετάλλιο παιχνιδιού είναι αυτό; Ουάου! <P>Αν βρεις και τα τέσσερα, θα ανταλλάξω αυτήν την άχρη- θέλω να πω πολύτιμη σαύρα για τα μετάλλια!<P>Τι λες;<N>  <B 1> Ναι<N>  <B 2> Όχι<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_GotMedals": {
-    "message": "Hey! Are those game medals? Wow!<P>If you get all four of them, I'll swap this usele-- I mean valuable lizard for them!<P>What do you say?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Ωπ! Μετάλλια παιχνιδιού είναι αυτά; Ουάου!<P>Αν βρεις και τα τέσσερα, θα ανταλλάξω αυτήν την άχρη- θέλω να πω πολύτιμη σαύρα για τα μετάλλια!<P>Τι λες;<N>  <B 1> Ναι<N>  <B 2> Όχι<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_ItsADeal": {
-    "message": "Brilliant! Come back when you have them all!<E>"
+    "message": "Θαυμάσια! Έλα πάλι όταν τα βρεις όλα!<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_NoDeal": {
-    "message": "Are you sure? Look at how green and... lizardy the lizard is! No? Well, the offer's always open.<E>"
+    "message": "Είσαι σίγουρος; Δες πόσο πράσινη και... σαυρωτή είναι η σαύρα! Όχι; Εντάξει η προσφορά μου ισχύει ακόμα.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_AskDeal": {
-    "message": "Changed your mind yet? Do you want to swap all the game medals for my lizard?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Άλλαξες γνώμη; Θες να ανταλλάξουμε τα μετάλλια για τη σαύρα μου; <N>  <B 1> Ναι<N>  <B 2> Όχι<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_NotGotAll": {
-    "message": "Haven't you got them all yet? Well, when you have got them all, come and see me.<E>"
+    "message": "Δεν τα έχεις όλα ακόμα; Λοιπόν, όταν τα μαζέψεις όλα, έλα να με βρεις.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_DoDeal": {
-    "message": "You've got them all! Wow! Do you want to swap now?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Τα βρήκες όλα! Ουάου! Θές να ανταλλάξουμε τώρα;<N>  <B 1> Ναι<N>  <B 2> Όχι<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_NotYet": {
-    "message": "Not yet? Well, when you're ready to swap, just come and tell me.<E>"
+    "message": "Όχι ακόμα; Εντάξει, όταν είσαι έτοιμος για ανταλλαγή, έλα και πες μου.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Swapped": {
-    "message": "Excellent! My girlfriend's going to be so impressed!<E>"
+    "message": "Τέλεια! Η κοπέλα μου σίγουρα θα εντυπωσιαστεί!<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished01": {
-    "message": "These medals are great. My girlfriend will be amazed!<E>"
+    "message": "Τα μετάλλια είναι τέλεια. Η κοπέλα μου θα εντυπωσιαστεί!<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished02": {
-    "message": "I think I should get a display cabinet for these medals.<E>"
+    "message": "Νομίζω πρέπει να πάρω μια προθήκη για τα μετάλλια.<E>"
   },
   "HT_Text_Aby_Canal_LizardOwner_Finished03": {
-    "message": "I wonder how the museum's doing after that terrible robbery?<E>"
+    "message": "Αναρωτιέμαι πώς είναι τα πράγματα στο μουσείο μετά την τραγική κλοπή;<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction01": {
-    "message": "Well, well! A stranger! I would so like to know how you arrived here.<E>"
+    "message": "Κοίτα να δεις! Ένα ξένος! Θα ήθελα πολύ να μάθω πώς έφτασες εδώ.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction02": {
-    "message": "Dear me! There is no ship on that side, and only an imbecile would try to swim through electrified water!<E>"
+    "message": "Πω πω! Δεν υπάρχει πλοίο σε αυτήν την πλευρά, και μόνος ένας βλάκας θα προσπαθούσε να κολυμπήσει σε ηλεκτρισμένο νερό!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction03": {
-    "message": "<FC 128,64,0>Abydos<END FC> was the quintessential prosperous and peaceful city, until those Electric Eels came along.<E>"
+    "message": "Η <FC 128,64,0>Άβυδος<END FC> ήταν η επιτομή της ευκατάστατης και ειρηνικής πόλης, μέχρι που ήρθαν τα Ηλεκτρικά Χέλια.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Introduction04": {
-    "message": "Nobody knows where they come from, but they are lowering the tone of the city beyond words!<E>"
+    "message": "Κανείς δεν ξέρει από πού ήρθαν, αλλά ρίχνουν τη διάθεση στην πόλη υπερβολικά!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Hint1": {
-    "message": "I hear someone dropped something in the well. I wonder what it is?<E>"
+    "message": "Άκουσα ότι κάποιος έριξε κάτι στο πηγάδι. Αναρωτιέμαι τι είναι;<E>"
   },
   "HT_Text_Aby_Canal_Posh_Hint2": {
-    "message": "Jars contain some interesting things sometimes.<E>"
+    "message": "Τα βάζα περιέχουν ενδιαφέροντα πράγματα κάποιες φορές.<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor01": {
-    "message": "<EFF><EPO>What are we to do? The Mayor has been taken ill! I wonder what could be wrong with him?<P>Soon he won't even be strong enough to wear the <FC 0,128,0>Sacred Crown of Abydos<END FC> upon his head!<E>"
+    "message": "<EFF><EPO>Τι θα κάνουμε; Ο Δήμαρχος αρρώστησε! Αναρωτιέμαι τι να έχει;<P>Σύντομα δε θα έχει δυνάμεις να φορέσει το <FC 0,128,0>Ιερό Στέμμα της Αβύδου<END FC> στο κεφάλι του!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor02": {
-    "message": "Monsters, electrified water and now the Mayor! What a terrible state of affairs this is!<E>"
+    "message": "Τέρατα, ηλεκτρισμένο νερό και τώρα ο Δήμαρχος! Πόσο τραγική κατάσταση!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor03": {
-    "message": "I wonder who will take charge if the Mayor doesn't recover from his illness soon?<E>"
+    "message": "Αναρωτιέμαι ποιος θα αναλάβει καθήκοντα αν ο Δήμαρχος δεν αναρρώσει σύντομα;<E>"
   },
   "HT_Text_Aby_Canal_Posh_Mayor04": {
-    "message": "I do hope the council Physician can help the Mayor.<E>"
+    "message": "Ελπίζω ο Γιατρός του συμβουλίου να μπορεί να βοηθήσει το Δήμαρχο.<E>"
   },
   "HT_Text_Aby_Canal_Posh_MayorCured01": {
-    "message": "The Mayor has been cured? What luck!<E>"
+    "message": "Ο Δήμαρχος γιατρεύτηκε; Τι καλά!<E>"
   },
   "HT_Text_Aby_Canal_Posh_Defeated01": {
-    "message": "Who would've thought the Mayor's advisors were traitors?<E>"
+    "message": "Ποιος θα περίμενε ότι οι σύμβουλοι του Δημάρχου θα ήταν προδότες;<E>"
   },
   "HT_Text_Aby_Canal_Posh_Defeated02": {
-    "message": "Now the Mayor is rid of his evil advisors, perhaps he will clean up city...<E>"
+    "message": "Τώρα που ο Δήμαρχος ξεφορτώθκε τους σατανικούς συμβούλους του, ίσως καθαρίσει η πόλη..."
   },
   "HT_Text_Aby_Canal_Posh_Defeated03": {
-    "message": "I think Mayor has been very brave through all this.<E>"
+    "message": "Πιστεύω ότι ο Δήμαρχος υπήρξε πολύ γενναίος σε όλο αυτό.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block01": {
-    "message": "Sorry but I can’t allow you entrance to the museum until the grand unveiling of the <FC 128,64,0>Abydos<END FC> jewel collection is ready.<P>Please come back later sir.<E>"
+    "message": "Συγγνώμη αλλά δεν μπορώ να σου επιτρέψω την είσοδο μέχρι να είναι έτοιμα τα αποκαλυπτήρια της συλλογής κοσμημάτων της <FC 128,64,0>Αβύδου<END FC> .<P>Παρακαλώ έλα πάλι αργότερα κύριε.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block02": {
-    "message": "I'm sorry, I can't let you into the museum, sir.<E>"
+    "message": "Λυπάμαι, αλλά δε μπορώ να σου επιτρέψω την είσοδο στο μουσείο, κύριε. <E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Block03": {
-    "message": "Please sir, I've already told you you're not allowed in.<P>Come back later when the grand unveiling of the jewel exhibit is ready.<E>"
+    "message": "Σε παρακαλώ κύριε, σου είπα ήδη ότι δεν επιτρέπεται να μπεις. <P>Έλα πάλι αργότερα όταν τα αποκαλυπτήρια της έκθεσης κοσμημάτων είναι έτοιμα.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open01": {
-    "message": "Enjoy the museum, sir.<E>"
+    "message": "Να απολαύσετε το μουσείο, κύριε.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open02": {
-    "message": "Move along, sir.<E>"
+    "message": "Περάστε, κύριε.<E>"
   },
   "HT_Text_Aby_Canal_MuseumGuard_Open03": {
-    "message": "Have a pleasant day, sir.<E>"
+    "message": "Καλή σας ημέρα, κύριε.<E>"
   },
   "HT_Text_Aby_Canal_Juggler01": {
-    "message": "Don’t distract me! You made me drop the balls!<E>"
+    "message": "Μη μου αποσπάς την προσοχή! Με έκανες να ρίξω τα μπαλάκια μου!<E>"
   },
   "HT_Text_Aby_Canal_Juggler02": {
-    "message": "Stop distracting me! I tend to drop the balls if anyone talks to me!<E>"
+    "message": "Σταμάτα να μου αποσπάς την προσοχή! Έχω την τάση να μου πέφτουν τα μπαλάκια αν κάποιος μου μιλήσει!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan01": {
-    "message": "The wife is gonna kill me if she finds out I lost her pearl necklace! <P>She's bound to notice this new one I bought has three missing.<P>Say, if you come across any <FC 0,128,0>Abydosian Pearls<END FC>, let me know! <E>"
+    "message": "Η σύζυγος θα με σκοτώσει αν μάθει ότι έχασα το περιδέραιο με τις πέρλες!<P>Σίγουρα θα παρατηρήσει ότι αυτό το καινούργιο έχει τρεις πέρλες λιγότερες.<P>Αν βρεις καμία <FC 0,128,0>Πέρλα της Αβύδου<END FC>, πες μου!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan02": {
-    "message": "Did you find any <FC 0,128,0>Abydosian Pearls<END FC>? No? Well keep looking!<E>"
+    "message": "Βρήκες καμία <FC 0,128,0>Πέρλα της Αβύδου<END FC>; Όχι; Θα συνεχίσουμε το ψάξιμο!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan03": {
-    "message": "You found an <FC 0,128,0>Abydosian Pearl<END FC>?! Thanks! Just two more and I'll be saved!<E>"
+    "message": "Βρήκες μια <FC 0,128,0>Πέρλα της Αβύδου<END FC>! Ευχαριστώ! Δύο ακόμα και θα με έχεις σώσει!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan04": {
-    "message": "Another <FC 0,128,0>Abydosian Pearl<END FC>? Thank you so much friend! But I still need one more!<E>"
+    "message": "Άλλη μία <FC 0,128,0>Πέρλα της Αβύδου<END FC>; Σε ευχαριστώ πολύ φίλε! Αλλά χρειάζομαι ακόμα μία!<E>"
   },
   "HT_Text_Aby_Canal_PearlMan05": {
-    "message": "Two <FC 0,128,0>Abydosian Pearls<END FC>? Thanks! Thanks a lot! But I still need one more...<E>"
+    "message": "Δύο <FC 0,128,0>Πέρλες της Αβύδου<END FC>; Ευχαριστώ! Ευχαριστώ πολύ! Αλλά χρειάζομαι ακόμα μία...<E>"
   },
   "HT_Text_Aby_Canal_PearlMan06": {
-    "message": "Did you find any more <FC 0,128,0>Abydosian Pearls<END FC> yet? No?<E>"
+    "message": "Βρήκες καμία <FC 0,128,0>Πέρλα της Αβύδου<END FC> ; Όχι;<E>"
   },
   "HT_Text_Aby_Canal_PearlMan07": {
-    "message": "Yes, that's three <FC 0,128,0>Abydosian Pearls<END FC>! Thanks! You can use this key to open the door to the upper walkway if you wish.<P>I think I'll take my wife to see the jewel collection in the museum. She'll love to wear the necklace for that.<E>"
+    "message": "Ναι, τώρα έχω τρεις <FC 0,128,0>Πέρλες της Αβύδου<END FC>! Ευχαριστώ! Μπορείς να χρησιμοποιήσεις αυτό το κλειδί για να ανοίξεις την πόρτα για τον πάνω διάδρομο αν θες.<P>Πιστεύω ότι θα πάω τη σύζυγο μου να δει τη συλλογή κοσμημάτων στο μουσείο. Θα ξετρελαθεί να φορέσει το περιδέραιο για αυτήν την περίσταση.<E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors1": {
-    "message": "Whatever it is, I'm not buying it! <E>"
+    "message": "Ό,τι και να πουλάς, δεν ενδιαφέρομαι!<E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors2": {
-    "message": "Go away, I'm busy! <E>"
+    "message": "Φύγε, έχω δουλειά!<E>"
   },
   "HT_Text_Aby_Cana_ClosedDoors3": {
-    "message": "I'm having dinner, come back later! <E>"
+    "message": "Τρώω βραδινό, έλα πάλι αργότερα!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick1": {
-    "message": "Oooooooooh...<E>"
+    "message": "Ωωωωωωω...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick2": {
-    "message": "Ahhhhhhhhh...<E>"
+    "message": "Ααααααα...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Sick3": {
-    "message": "Bluuuuurgh...<E>"
+    "message": "Αααααχ...<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_Recover": {
-    "message": "I feel so much better now, thank you! Wait in the outer chambers while I gain my strength and I will come reward you <E>"
+    "message": "Νιώθω πολύ καλύτερα τώρα, ευχαριστώ! Περίμενε στην εξωτερική αίθουσα μέχρι να ανακτήσω τις δυνάμεις μου και θα έρθω να σε ανταμείψω.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved1": {
-    "message": "I cannot believe my trusted advisors betrayed me like that!<E>"
+    "message": "Δεν μπορώ να πιστέψω ότι σύμβουλοι που εμπιστεύτηκα με πρόδωσαν έτσι!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_MayorSaved2": {
-    "message": "It's so hard to find trustworthy advisors these days!<E>"
+    "message": "Είναι δύσκολο να βρεις έμπιστους συμβούλους στις μέρες μας!<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted1": {
-    "message": "It's so hard to get honest advisors these days.<E>"
+    "message": "Είναι τόσο δύσκολο να έχεις ειλικρινείς συμβούλους στις μέρες μας.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted2": {
-    "message": "Now the crown is safe and I am cured, I'll be able to turn my attention to solving the problem of the electrified water.<E>"
+    "message": "Τώρα το στέμμα είναι ασφαλές και εγώ θεραπεύτηκα, θα μπορέσω να στρέψω την προσοχή μου στην επίλυση του προβλήματος του ηλεκτρισμένου νερού.<E>"
   },
   "HT_Text_Aby_CouncilChambersInterior2_MayorHD22_AllSorted3": {
-    "message": "I had no idea there was an underground cavern beneath that statue. Perhaps I should have the town plans examined to see what else the city hides.<E>"
+    "message": "Δεν είχα ιδέα ότι υπήρχε ένα υπόγειο σπήλαιο πίσω από το άγαλμα. Ίσως θα έπρεπε να εξετάσουμε τα σχέδια της πόλης για να βρούμε τι άλλο είναι κρυμμένο.<E>"
   }
 }
