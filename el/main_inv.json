@@ -24,7 +24,7 @@
     "message": "Φολίδες Κροκόδειλου"
   },
   "HT_Text_Inv_UnderwaterProjectile": {
-    "message": "Υποβρύχιο Βλήμα"
+    "message": "Υποβρύχιο Βέλος"
   },
   "HT_Text_Inv_HandsOfAmun": {
     "message": "Χέρια του Άμωνος"
@@ -93,7 +93,7 @@
     "message": "Χαζή Σαύρα"
   },
   "HT_Text_Inv_AnubisAmulet": {
-    "message": "Φυλαχτό του Άνουβι"
+    "message": "Φυλαχτό του Ανούβιδος"
   },
   "HT_Text_Inv_AbydosGateKey": {
     "message": "Κλειδί της Αβύδου"
@@ -120,7 +120,7 @@
     "message": "Κομμάτι Χρυσού Ανκχ"
   },
   "HT_Text_Inv_CanopicVase": {
-    "message": "Κανοπικό Βάζο"
+    "message": "Κανωπικό Αγγείο"
   },
   "HT_Text_Inv_BronzeScarab": {
     "message": "Χρυσός Σκαραβαίος"
@@ -306,7 +306,7 @@
     "message": "Ξιφομάχος Κρανίου"
   },
   "HT_Text_Inv_IN01_Green_Giant_worm": {
-    "message": "Μεγάλο Πράσινο Σκουλήκι"
+    "message": "Γιγαντιαίο Πράσινο Σκουλήκι"
   },
   "HT_Text_Inv_IN07_Blade_Scorpion": {
     "message": "Σκορπιός Λεπίδα"
@@ -321,13 +321,13 @@
     "message": "Αράχνη"
   },
   "HT_Text_Inv_PI01_Piranha": {
-    "message": "Πιράνχα"
+    "message": "Πιράνχας"
   },
   "HT_Text_Inv_PI01_Hard_Piranha": {
-    "message": "Εξο-Πιράχνα"
+    "message": "Εξο-Πιράχνας"
   },
   "HT_Text_Inv_PI01_Green_Piranha": {
-    "message": "Πράσινο Πιράχνα"
+    "message": "Πράσινο Πιράχνας"
   },
   "HT_Text_Inv_PI02_Electric_Eel": {
     "message": "Ηλεκτρικό Χέλι"
@@ -336,7 +336,7 @@
     "message": "Σαλάχι Μάντα"
   },
   "HT_Text_Inv_PI04_Aka_Spinefish": {
-    "message": "Ακιδόψαρο"
+    "message": "Αγκαθόψαρο"
   },
   "HT_Text_Inv_PI05_Aka_Turtle": {
     "message": "Χελώνα"
@@ -423,7 +423,7 @@
     "message": "Κλειδί της Αυλής"
   },
   "HT_Text_Inv_Item_Quest_Lux_Palace_TreasureChamberKey": {
-    "message": "Κλειδί της Αίθουσας των Θησαυρών"
+    "message": "Κλειδί του Θησαυροφυλακίου"
   },
   "HT_Text_Inv_Item_Quest_Mum_Imp2_KeyStone": {
     "message": "Κλειδί της Εξόδου"
@@ -438,7 +438,7 @@
     "message": "Γήινο Κλειδί"
   },
   "HT_Text_Inv_Item_Quest_Mum_Imp2_PlanetariumKey03": {
-    "message": "Σεληνιακός Κλειδί"
+    "message": "Σεληνιακό Κλειδί"
   },
   "HT_Text_Inv_Item_Quest_Urk_GolemsEye": {
     "message": "Μάτι του Γκόλεμ"
@@ -528,10 +528,10 @@
     "message": "Φύλλο Μπογιάς"
   },
   "HT_Text_Inv_Item_Quest_Hel_BeetleBreederItem": {
-    "message": "Βάζο Εκτροφέας Σκαθαριών"
+    "message": "Βάζο Εκτροφής Σκαθαριών"
   },
   "HT_Text_Inv_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": "Κάρτα Αφοσίωσης"
+    "message": "Κάρτα Μέλους"
   },
   "HT_Text_Inv_Mum_LedgeKey": {
     "message": "Κλειδί του Περβαζιού"
@@ -606,7 +606,7 @@
     "message": "Κομμάτι Φυλαχτού"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_DarkArea01": {
-    "message": "Φυλαχτό του Άνουβι"
+    "message": "Φυλαχτό του Ανούβιδος"
   },
   "HT_Text_Inv_Item_Quest_PortalAmulet_DarkArea03": {
     "message": "Φυλαχτό της Κοιλάδας της Ουρούκ"
@@ -693,7 +693,7 @@
     "message": "Σάκος Φαρμάκων"
   },
   "HT_Text_Inv_AtunStatue": {
-    "message": "Άγαλμα του Ατούν"
+    "message": "Άγαλμα του Ατούμ"
   },
   "HT_Text_Inv_HathorStatue": {
     "message": "Άγαλμα της Άθωρ"
@@ -717,10 +717,10 @@
     "message": "Κλεμμένο Κόσμημα"
   },
   "HT_Text_Inv_EagleStone": {
-    "message": "Άγαλμα Αετού"
+    "message": "Πέτρα Αετού"
   },
   "HT_Text_Inv_AtunEye": {
-    "message": "Μάτι του Ατούν"
+    "message": "Μάτι του Ατούμ"
   },
   "HT_Text_Inv_Medal_Shoot": {
     "message": "Μετάλλιο Σκοποβολής"

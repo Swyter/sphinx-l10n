@@ -75,7 +75,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Φυλαχτό Πύλης<END FC>!<P><N><CNTR>Αυτό το χρυσό κειμήλιο φτιάχτηκε για να τιμήσει τον Θεό της Πύλης.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotCanopicVase": {
-    "message": "<N><CNTR>Πήρες ένα <FC 0,128,0>Κανοπικό Βάζο<END FC>!<P><N><CNTR>Μέρος της ψυχής του Τουταγχαμών είναι αποθηκευμένο μέσα.<E>"
+    "message": "<N><CNTR>Πήρες ένα <FC 0,128,0>Κανωπικό Αγγείο<END FC>!<P><N><CNTR>Μέρος της ψυχής του Τουταγχαμών είναι αποθηκευμένο μέσα.<E>"
   },
   "HT_Text_Lux_Pyramid_Help_GotGoldKey": {
     "message": "<N><CNTR>Βρήκες ένα <FC 0,128,0>Χρυσό Κλειδί<END FC>!<E>"
@@ -87,327 +87,327 @@
     "message": "Πρέπει να φύγεις! Δεν μπορεί να γίνει τίποτα άλλο εδώ.<E>"
   },
   "HT_Text_Lux_pala_Guard_a": {
-    "message": "Καλημέρα, Πρίγκιπα, και χρόνια πολλά!<E>"
+    "message": "Καλημέρα, Υψηλότατε, και χρόνια πολλά!<E>"
   },
   "HT_Text_Lux_pala_Guard_b": {
     "message": "Η Λαίδη Νεφερτίτη σας έψαχνε. Είπε ότι ήταν πολύ σημαντικό και θέλει να τη συναντήσετε στην <FC 128,64,0>Αυλή<END FC> πριν πάτε στις επίσημες αίθουσες.<E>"
   },
   "HT_Text_Lux_pala_Guard_c": {
-    "message": "Your Majesty, Lady Nefertiti insists you meet her in the <FC 128,64,0>Courtyard<END FC> before going to the state rooms. Might I say, it appeared to be urgent... <E>"
+    "message": "Μεγαλειότατε, η Λαίδη Νεφερτίτη επιμένει να τη συναντήσετε στην <FC 128,64,0>Αυλή<END FC> πριν πάτε στο σαλόνι. Αν μου επιτρέπετε, φαινόταν να είναι επείγον...<E>"
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_a": {
-    "message": "Lady Nefertiti, I am aware that Prince Tutankhamen has asked for your hand in marriage. <E> "
+    "message": "Λαίδη Νεφερτίτη, πληροφορήθηκα ότι ο Πρίγκιπας Τουταγχαμών ζήτησε το χέρι σας σε γάμο.<E>"
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_a1": {
-    "message": "As any astute man will tell you, the logical choice is not necessarily the wisest. A marriage with, say, his brother Akhenaten could have unexpected advantages...<E>"
+    "message": "Όπως θα σας έλεγε κάθε διορατικός άνδρας, η λογική επιλογή δεν είναι απαραίτητα και η σοφότερη. Ένας γάμος με, ας πούμε, τον αδελφό του τον Ακενατόν, θα μπορούσε να έχει απροσδόκητα πλεονεκτήματα...<E>"
   },
   "HT_Text_Lux_pala_Nefer1_Menes_letter_b": {
-    "message": "And who knows what the future will bring? You should think carefully about that, Nefertiti... <E>"
+    "message": "Και ποιος ξέρει τι θα φέρει το μέλλον; Θα πρέπει να το σκεφτείτε προσεκτικά, Νεφερτίτη...<E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_a": {
-    "message": "Tutankhamen, at last you are here!<E>"
+    "message": "Τουταγχαμών, επιτέλους ήρθες!<E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_b": {
-    "message": "There's an important <FC 0,128,0>Letter<END FC> here I have to read. Can you get it before someone else finds it?<E>"
+    "message": "Υπάρχει ένα σημαντικό <FC 0,128,0>Γράμμα<END FC> εδώ που πρέπει να διαβάσω. Μπορείς να το πάρεις πριν το βρει κάποιος άλλος;<E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_c": {
-    "message": "I tried to get it but a gust of wind carried it away. Now it's right up there, at the foot of that statue. <E>"
+    "message": "Προσπάθησα να το πιάσω, αλλά μια ριπή ανέμου το παρέσυρε. Τώρα είναι ακριβώς εκεί πάνω, στη βάση εκείνου του αγάλματος. <E>"
   },
   "HT_Text_Lux_pala_Nefer2_GetLetter_d": {
-    "message": "Please hurry! <W 60>"
+    "message": "Σε παρακαλώ, βιάσου!<W 60>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_a": {
-    "message": "Wonderful! You got it! <W 60>"
+    "message": "Θαυμάσια! Το βρήκες!<W 60>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_b": {
-    "message": "I need to talk to you about this letter, but not here. Someone might be listening. Meet me outside the palace later. <E>"
+    "message": "Πρέπει να σου μιλήσω για αυτό το γράμμα, αλλά όχι εδώ. Κάποιος μπορεί να μας ακούσει. Συνάντησέ με έξω από το παλάτι αργότερα.<E>"
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_c": {
-    "message": "There are some things that you need to know... <E>"
+    "message": "Υπάρχουν κάποια πράγματα που πρέπει να ξέρεις..."
   },
   "HT_Text_Lux_pala_Nefer3_Thanks_leave_d": {
-    "message": "...and please, my dear Tutankhamen, watch your back! <E>"
+    "message": "...και σε παρακαλώ, αγαπημένε μου Τουταγχαμών, πρόσεχε τα νώτα σου!<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_a": {
-    "message": "Ahh, my favorite nephew has come to see his favorite aunt! Happy birthday! My dear, you are growing very fast!<E>"
+    "message": "Α, ο αγαπημένος μου ανιψιός ήρθε να δει την αγαπημένη του θεία! Χρόνια πολλά! Παιδί μου, μεγαλώνεις πολύ γρήγορα!<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_b": {
-    "message": "Oh, I see you have found some <FC 0,128,0>Old Amulets<END FC>. Nobody really cares about them these days, but I've been searching for them lately.<E>"
+    "message": "Ω, βλέπω ότι βρήκες μερικά <FC 0,128,0>Παλιά Φυλαχτά<END FC>. Κανείς δεν νοιάζεται πια για αυτά, αλλά εγώ τα αναζητώ τελευταία.<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_b1": {
-    "message": "Have you seen any amulets like the one I hold in my hand? <E>"
+    "message": "Έχεις δει καθόλου φυλαχτά σαν αυτό που κρατάω στο χέρι μου;<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_c": {
-    "message": "The whole collection is scattered throughout the palace, and Akhenaten has ordered me to collect them. He wants to store the collection in the <FC 128,64,0>Treasure Room<END FC>.<E>"
+    "message": "Ολόκληρη η συλλογή είναι διάσπαρτη σε όλο το παλάτι, και ο Ακενατόν με διέταξε να τα συγκεντρώσω. Θέλει να φυλάξει τη συλλογή στο <FC 128,64,0>Θησαυροφυλάκιο<END FC>.<E>"
   },
   "HT_Text_Lux_pala_Seti_Presentation_d": {
-    "message": "Your brother seems to get more fickle with each passing day. Could you please find the <FC 0,128,0>Old Amulets<END FC> for me, my dear nephew?<P>I'm far too old to be hunting around the palace for them.<E>"
+    "message": "Ο αδελφός σου φαίνεται να γίνεται όλο και πιο άστατος κάθε μέρα που περνάει. Θα μπορούσες σε παρακαλώ να βρεις τα <FC 0,128,0>Παλιά Φυλαχτά<END FC> για μένα, αγαπημένε μου ανιψιέ; Είμαι πολύ γριά για να τα ψάχνω σε όλο το παλάτι.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_a": {
-    "message": "Oh, splendid! That's all the <FC 0,128,0>Old Amulets<END FC> returned! You are too kind to me. <E>"
+    "message": "Ω, υπέροχα! Βρήκες όλα τα <FC 0,128,0>Παλιά Φυλαχτά<END FC>! Είσαι τόσο καλός μαζί μου.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_b": {
-    "message": "If you don't mind, my dear, one last favor. Can you leave them in the <FC 128,64,0>Treasure Room<END FC>? I'm too tired to walk there myself. <E>"
+    "message": "Αν δεν σε πειράζει, παιδί μου, μια τελευταία χάρη. Μπορείς να τα αφήσεις στο <FC 128,64,0>Θησαυροφυλάκιο<END FC>; Είμαι πολύ κουρασμένη για να περπατήσω μέχρι εκεί.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_c": {
-    "message": "Here is the key to the <FC 128,64,0>Treasure Room<END FC>. You know where the door is; down the stairs in the next room.<E>"
+    "message": "Ορίστε το κλειδί για το <FC 128,64,0>Θησαυροφυλάκιο<END FC>. Ξέρεις πού είναι η πόρτα. Κάτω από τις σκάλες στο διπλανό δωμάτιο.<E>"
   },
   "HT_Text_Lux_pala_Seti_Complete_d": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Treasure Room Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Κλειδί του Θησαυροφυλακίου<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_a": {
-    "message": "Many happy returns, my dear brother! <E>"
+    "message": "Χρόνια πολλά, αγαπημένε μου αδελφέ!<E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_b": {
-    "message": "Everyone is busy preparing for your birthday. It's strange... I don't recall such excitement on my birthday. <E>"
+    "message": "Όλοι είναι απασχολημένοι με τις προετοιμασίες για τα γενέθλιά σου. Περίεργο... δεν θυμάμαι τέτοιον ενθουσιασμό στα δικά μου γενέθλια.<E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_c": {
-    "message": "Please, brother, I'm busy finalizing the plans for your birthday ceremony! <E>"
+    "message": "Σε παρακαλώ, αδελφέ, είμαι απασχολημένος με την οριστικοποίηση των λεπτομερειών για τα γενέθλια σου!<E>"
   },
   "HT_Text_Lux_pala_Aken_Presentation_d": {
-    "message": "I see you're finally awake... predictably late as usual.<E>"
+    "message": "Βλέπω ότι επιτέλους ξύπνησες... αργοπορημένος, ως συνήθως.<E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_a": {
-    "message": "Akhenaten, Nefertiti must have the letter. I had it before I talked to her! <E>"
+    "message": "Ακενατόν, η Νεφερτίτη πρέπει να έχει το γράμμα. Το είχα πριν της μιλήσω!<E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_b": {
-    "message": "Hmm, this is getting risky... we need to accelerate our plans. Are the sarcophagi in place? <E>"
+    "message": "Χμ, έχει αρχίσει να γίνεται ριψυκίνδυνο...πρέπει να επιταχύνουμε τα σχέδιά μας. Είναι οι σαρκοφάγοι στη θέση τους;<E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_c": {
-    "message": "Yes sir, everything is going as planned. <W 60>"
+    "message": "Ναι κύριε, όλα πάνε βάσει σχεδίου.<W 60>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_d": {
-    "message": "I'm going to leave a spare <FC 0,128,0>Sarcophagus Key<END FC> here in case anything happens to the others.  <E>"
+    "message": "Θα αφήσω ένα εφεδρικό <FC 0,128,0>Κλειδί Σαρκοφάγου<END FC> εδώ, σε περίπτωση που συμβεί κάτι στα άλλα.<E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_e": {
-    "message": "My little brother is going to get an unexpected birthday surprise this year. <E>"
+    "message": "Ο μικρός μου αδελφός θα έχει μια απροσδόκητη έκπληξη γενεθλίων φέτος.<E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_f": {
-    "message": "A very unexpected surprise, sir! <E>"
+    "message": "Μια πολύ απροσδόκητη έκπληξη, κύριε!<E>"
   },
   "HT_Text_Lux_pala_Aken_Menes_conspiracy_g": {
-    "message": "Hahaha!!! Hahaha!!! This party is going to be the best this palace has ever seen! <E>"
+    "message": "Χαχαχα!!! Χαχαχα!!! Αυτή η γιορτή θα είναι η καλύτερη που έχει δει ποτέ αυτό το παλάτι!<E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_a": {
-    "message": "I want you all to be ready to use the warping sarcophagi to enter the palace when the party begins. We must overrun the palace quickly. <E>"
+    "message": "Θέλω να είστε όλοι έτοιμοι να χρησιμοποιήσετε τις σαρκοφάγους τηλεμεταφοράς για να μπείτε στο παλάτι όταν αρχίσει η γιορτή. Πρέπει να καταλάβουμε το παλάτι γρήγορα.<E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_b": {
-    "message": "Tonight the throne will finally be mine! <E>"
+    "message": "Απόψε ο θρόνος θα γίνει επιτέλους δικός μου!<E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_c": {
-    "message": "Ahh, my dear brother, what a pleasant surprise! And after I had prepared such a wonderful party for you tonight. <E>"
+    "message": "Α, αγαπημένε μου αδελφέ, τι ευχάριστη έκπληξη! Κι εγώ που σου είχα ετοιμάσει μια τόσο ωραία γιορτή για απόψε.<E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_d": {
-    "message": "However, you're obviously too impatient to wait and you want your present now. <E>"
+    "message": "Ωστόσο, είσαι προφανώς πολύ ανυπόμονος για να περιμένεις και θέλεις το δώρο σου τώρα.<E>"
   },
   "HT_Text_Lux_pala_Aken_CaptureTut_e": {
-    "message": "Guards, seize him! <W 60>"
+    "message": "Φρουροί, συλλάβετέ τον!<W 60>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_a": {
-    "message": "Good morning Prince, and happy birthday! <E>"
+    "message": "Καλημέρα Υψηλότατε, και χρόνια πολλά!<E>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_b": {
-    "message": "The entire palace is very busy preparing for your birthday ceremony.<E>"
+    "message": "Ολόκληρο το παλάτι είναι πολύ απασχολημένο με την προετοιμασία της τελετής των γενεθλίων σας.<E>"
   },
   "HT_Text_Lux_pala_Tut_WakeUp_c": {
-    "message": "Prince, I spoke with Lady Nefertiti earlier. She requested you meet her in the <FC 128,64,0>Courtyard<END FC> this morning.<E>"
+    "message": "Υψηλότατε, μίλησα με τη Λαίδη Νεφερτίτη νωρίτερα. Ζήτησε να τη συναντήσετε στην <FC 128,64,0>Αυλή<END FC> σήμερα το πρωί.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant1": {
-    "message": "Prince, I'm busy cleaning this wardrobe at the moment.<E>"
+    "message": "Υψηλότατε, είμαι απασχολημένη με το καθάρισμα αυτής της ντουλάπας αυτή τη στιγμή.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant2": {
-    "message": "Oh, Prince! That was a nice flowerpot!<E>"
+    "message": "Αχ, Υψηλότατε! Και ήταν τόσο ωραία γλάστρα!<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant3": {
-    "message": "What a mess! Please don't knock over any more, Prince.<E>"
+    "message": "Τι χάλι! Σας παρακαλώ μην ρίξετε άλλα, Υψηλότατε.<E>"
   },
   "HT_Text_Lux_Pala_CleaningServant4": {
-    "message": "<DHP><DP>Oh no, not another one!<W 30>"
+    "message": "<DHP><DP>Ωχ όχι, όχι πάλι!<W 30>"
   },
   "HT_Text_Lux_Pala_CleaningServant5": {
-    "message": "<DHP><DP>Please, Prince, can you stop making a complete mess of the room?<W 60>"
+    "message": "<DHP><DP>Σας παρακαλώ, Υψηλότατε, μπορείτε να σταματήσετε να αναστατώνετε το δωμάτιο;<W 60>"
   },
   "HT_Text_Lux_Pala_WardrobeLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This wardrobe needs a <FC 0,128,0>Key<END FC> to open it.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Αυτή η ντουλάπα χρειάζεται ένα <FC 0,128,0>Κλειδί<END FC> για να ανοίξει.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_WardrobeBlocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This wardrobe seems to be locked.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Αυτή η ντουλάπα φαίνεται να είναι κλειδωμένη.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_CorriderGuard": {
-    "message": "Happy birthday, Prince! <E>"
+    "message": "Χρόνια πολλά, Υψηλότατε!<E>"
   },
   "HT_Text_Lux_Pala_CorriderGuardBlock": {
-    "message": "Your Majesty, Lady Nefertiti insists you meet her in the <FC 128,64,0>Courtyard<END FC>.<E>"
+    "message": "Υψηλότατε, η Λαίδη Νεφερτίτη επιμένει να τη συναντήσετε στην <FC 128,64,0>Αυλή<END FC>.<E>"
   },
   "HT_Text_Lux_Pala_SetiPartner1": {
-    "message": "Good morning Prince, your brother seems very busy redecorating the palace for the ceremony. <E>"
+    "message": "Καλημέρα Υψηλότατε, ο αδελφός σας φαίνεται πολύ απασχολημένος με τη διακόσμηση του παλατιού για την τελετή.<E>"
   },
   "HT_Text_Lux_Pala_SetiPartner2": {
-    "message": "Eurrgh! What a grotty little hole. It looks like a rat's nest! <E>"
+    "message": "Ιου! Τι βρωμερή μικρή τρύπα. Μοιάζει με φωλιά αρουραίων!<E>"
   },
   "HT_Text_Lux_Pala_SetiPartner3": {
-    "message": "I thought they were all taken care of? At least this one has been blocked off. <E>"
+    "message": "Νόμιζα ότι τα είχαν φροντίσει όλα; Τουλάχιστον αυτό εδώ έχει σφραγιστεί.<E>"
   },
   "HT_Text_Lux_Pala_SetiSecret": {
-    "message": "No dear, it appears to be one of the old secret corridors which riddle the palace. They've been in the palace longer than I have! <E>"
+    "message": "Όχι αγαπητέ μου, φαίνεται να είναι ένας από τους παλιούς μυστικούς διαδρόμους που διασχίζουν το παλάτι. Βρίσκονται εδώ περισσότερο καιρό από εμένα!<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestion": {
-    "message": "Could you please find the amulets for me, my dear nephew? I'm far too old to be hunting around the palace for them.<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Θα μπορούσες σε παρακαλώ να βρεις τα φυλαχτά για μένα, ανιψιέ μου; Είμαι πολύ γριά για να ψάχνω σε όλο το παλάτι.<N> <B 1> Ναι<N> <B 2> Όχι<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionAgain": {
-    "message": "Dear nephew, have you changed your mind?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Αγαπημένε ανιψιέ, άλλαξες γνώμη;<N> <B 1> Ναι<N> <B 2> Όχι<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionYes": {
-    "message": "Bless you, my dear! Thank you for helping your dear aunt. <E>"
+    "message": "Να'σαι καλά, παιδί μου! Σε ευχαριστώ που βοηθάς τη θεία σου.<E>"
   },
   "HT_Text_Lux_Pala_SetiQuestionNo": {
-    "message": "Please, be nice to your aunt. I don't know what I'm going to say when your brother asks me for them again. <E>"
+    "message": "Σε παρακαλώ, κάνε τη χάρη στη θεία σου. Δεν ξέρω τι θα πω στον αδελφό σου όταν μου τα ζητήσει ξανά.<E>"
   },
   "HT_Text_Lux_Pala_SetiAccepted": {
-    "message": "It is very nice of you to offer to help me find the amulets. <E>"
+    "message": "Είναι πολύ ευγενικό εκ μέρους σου που προσφέρθηκες να με βοηθήσεις να βρω τα φυλαχτά.<E>"
   },
   "HT_Text_Lux_Pala_Sorkon1": {
-    "message": "Prince, I have heard rumors concerning palace security. I requested strengthening the guard, but your brother said he would handle it. <E> "
+    "message": "Υψηλότατε, άκουσα φήμες σχετικά με την ασφάλεια του παλατιού. Ζήτησα την ενίσχυση της φρουράς, αλλά ο αδελφός σας είπε ότι θα το χειριστεί εκείνος.<E>"
   },
   "HT_Text_Lux_Pala_Sorkon2": {
-    "message": "Prince? Prince! Don't go in there, it's not safe! <W 60>"
+    "message": "Υψηλότατε; Υψηλότατε! Μην πηγαίνετε εκεί μέσα, δεν είναι ασφαλές!<W 60>"
   },
   "HT_Text_Lux_Pala_Sorkon3": {
-    "message": "Prince, you never listen to me! You can't risk yourself wandering around those dangerous passages. They are so old that they could collapse at any moment! <E>"
+    "message": "Υψηλότατε, δεν με ακούτε ποτέ! Δεν μπορείτε να ριψοκινδυνεύετε περιπλανώμενος σε αυτούς τους επικίνδυνους διαδρόμους. Είναι τόσο παλιοί που θα μπορούσαν να καταρρεύσουν ανά πάσα στιγμή!<E>"
   },
   "HT_Text_Lux_Pala_Sorkon4": {
-    "message": "Prince, what is going on? I never thought that there was a secret door in such a place. I'm worried about your safety wandering around those dangerous places! <E>"
+    "message": "Υψηλότατε, τι συμβαίνει; Ποτέ δεν πίστευα ότι υπήρχε μυστική πόρτα σε τέτοιο μέρος. Ανησυχώ για την ασφάλειά σας περιπλανώμενος σε αυτά τα επικίνδυνα μέρη!<E>"
   },
   "HT_Text_Lux_Pala_DishServant1": {
-    "message": "I'm a bit busy with the table arrangements at the moment, Prince. You'll have to entertain yourself for a while. <E>"
+    "message": "Είμαι λίγο απασχολημένη με τις προετοιμασίες του τραπεζιού αυτή τη στιγμή, Υψηλότατε. Θα πρέπει να ασχοληθείτε με κάτι άλλο για λίγο.<E>"
   },
   "HT_Text_Lux_Pala_DishServant2": {
-    "message": "<DHP><DP>Ack! Prince, please don't walk on my nice clean plates! <W 30>"
+    "message": "<DHP><DP>Αχ! Υψηλότατε, παρακαλώ μην περπατάτε πάνω στα ωραία καθαρά μου πιάτα!<W 30>"
   },
   "HT_Text_Lux_Pala_DishServant3": {
-    "message": "<DHP><DP>Ahh! The vases! Please don't stand on the table, Prince! <W 30>"
+    "message": "<DHP><DP>Αχ! Τα βάζα! Παρακαλώ μην ανεβαίνετε πάνω στο τραπέζι, Πρίγκιπα!<W 30>"
   },
   "HT_Text_Lux_Pala_Dress1": {
-    "message": "<ES HT_Text_ES_S_HelpText><N>Do you want to wear this?<N>  <B 1> Yes<N>  <B 2> No<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N>Θέλετε να το φορέσετε αυτό;<N><B 1> Ναι<N> <B 2> Όχι<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_Dress2": {
     "message": "<W 1>"
   },
   "HT_Text_Lux_Pala_TreasureGuard1": {
-    "message": "Perhaps you should talk to the captain about this. <E>"
+    "message": "Ίσως θα έπρεπε να μιλήσετε στον επικεφαλής για αυτό.<E>"
   },
   "HT_Text_Lux_Pala_TreasureCaptain1": {
-    "message": "Prince, something terrible has happened. The guards have found the main door to the <FC 128,64,0>Treasure Room<END FC> broken down and all of the arks are empty. <P>The only thing that we found is that odd sarcophagus in the room. <P>Please don't touch it, it is obviously something related to the robbery. I have tried to inform your brother Akhenaten, but I can't find him anywhere.<E>"
+    "message": "Υψηλότατε, κάτι τρομερό συνέβη. Οι φρουροί βρήκαν την κύρια πόρτα του <FC 128,64,0>Θησαυροφυλακίου<END FC> παραβιασμένη και όλες οι κιβωτοί είναι άδειες. <P>Το μόνο που βρήκαμε είναι εκείνη η περίεργη σαρκοφάγος στο δωμάτιο. <P>Σας παρακαλώ μην την αγγίζετε, προφανώς σχετίζεται με τη ληστεία. Προσπάθησα να ενημερώσω τον αδελφό σας τον Ακενατόν, αλλά δεν τον βρίσκω πουθενά.<E>"
   },
   "HT_Text_Lux_Pala_DressWrong": {
-    "message": "Oh, Prince, you're not planning on leaving your bedroom without dressing, are you?<E>"
+    "message": "Αχ, Υψηλότατε, δεν σκοπεύετε να βγείτε από την κρεβατοκάμαρά σας χωρίς να ντυθείτε, έτσι δεν είναι;<E>"
   },
   "HT_Text_Lux_Pala_DressWrong2": {
-    "message": "Please, Prince! Not the pink one! It's really ugly!<E>"
+    "message": "Σας παρακαλώ, Υψηλότατε! Όχι το ροζ! Είναι πολύ άσχημο!<E>"
   },
   "HT_Text_Lux_Pala_Help_FoundWardrobeKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>You found a <FC 0,128,0>Wardrobe Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Βρήκες ένα <FC 0,128,0>Κλειδί Ντουλάπας<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_MenesCorrider1": {
-    "message": "Ah, Prince, I see you are very nicely attired today. As always, your taste is impeccable! <E>"
+    "message": "Α, Υψηλότατε, βλέπω ότι είστε πολύ κομψά ντυμένος σήμερα. Όπως πάντα, το γούστο σας είναι άψογο!<E>"
   },
   "HT_Text_Lux_Pala_MenesCorrider2": {
-    "message": "Ah, I neglected to wish you a happy birthday. My apologies, Prince. <E>"
+    "message": "Α, παρέλειψα να σας ευχηθώ για τα γενέθλιά σας. Με συγχωρείτε, Υψηλότατε.<E>"
   },
   "HT_Text_Lux_Palace_GuardHU06_NefLookingForYou": {
-    "message": "Good morning sir and happy birthday!<P>Lady Nefertiti was looking for you. She said it was very important, and would like you to meet her in the <FC 128,64,0>Courtyard<END FC>.<E>"
+    "message": "Καλημέρα σας και χρόνια πολλά!<P>Η Λαίδη Νεφερτίτη σας έψαχνε. Είπε ότι ήταν πολύ σημαντικό και θα ήθελε να τη συναντήσετε στην <FC 128,64,0>Αυλή<END FC>.<E>"
   },
   "HT_Text_Lux_Palace_GuardHU06_NefFound": {
-    "message": "You found Lady Nefertiti then! Perhaps my Prince would care to see how the preparations for the banquet are going?<E>"
+    "message": "Επιτέλους βρήκατε τη Λαίδη Νεφερτίτη! Μήπως ο Πρίγκιπας θα ήθελε να δει πώς πάνε οι προετοιμασίες για το δείπνο;<E>"
   },
   "HT_Text_Lux_Palace_ServantHU03_SarcophagusDecor": {
-    "message": "Your brother has been most insistent on decorating the palace with these sarcophagi.<P>Forgive me for saying this, Prince, but I don't really like them. Their eyes seem to follow your every move...<E>"
+    "message": "Ο αδελφός σας επέμενε πολύ να διακοσμήσει το παλάτι με αυτές τις σαρκοφάγους.<P>Συγχωρέστε με που το λέω αυτό, Υψηλότατε, αλλά δεν μου αρέσουν καθόλου. Τα μάτια τους φαίνεται να ακολουθούν κάθε σας κίνηση...<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_MeetMeOutside": {
-    "message": "Wonderful! You got it! I need to talk to you about this letter, but not here. Someone might be listening.<P>Meet me outside the palace later and we can talk about it. Watch your back, Tutankhamen.<E>"
+    "message": "Θαυμάσια! Το βρήκες! Πρέπει να σου μιλήσω για αυτό το γράμμα, αλλά όχι εδώ. Κάποιος μπορεί να μας ακούει.<P>Συνάντησέ με έξω από το παλάτι αργότερα και θα μιλήσουμε. Πρόσεχε τα νώτα σου, Τουταγχαμών.<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItem": {
-    "message": "Tutankhamen, at last you are here! Please, you must get my <FC 0,128,0>Letter<END FC> from up there before someone else finds it.<P>The <FC 0,128,0>Letter<END FC> contains very important information - please hurry!<E>"
+    "message": "Τουταγχαμών, επιτέλους ήρθες! Σε παρακαλώ, πρέπει να πάρεις το <FC 0,128,0>Γράμμα<END FC> μου από εκεί πάνω πριν το βρει κάποιος άλλος.<P>Το <FC 0,128,0>Γράμμα<END FC> περιέχει πολύ σημαντικές πληροφορίες - σε παρακαλώ βιάσου!<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemNoCutscene": {
-    "message": "Tutankhamen, please find my <FC 0,128,0>Letter<END FC>! It's around here somewhere.<E>"
+    "message": "Τουταγχαμών, σε παρακαλώ βρες το <FC 0,128,0>Γράμμα<END FC> μου! Είναι κάπου εδώ γύρω.<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemAgain": {
-    "message": "Please hurry, before someone else finds it!<E>"
+    "message": "Σε παρακαλώ βιάσου, πριν το βρει κάποιος άλλος!<E>"
   },
   "HT_Text_Lux_Palace_NefertitiHU17_GetMyItemDone": {
-    "message": "Sorry, but I can't talk about the letter in such a public place.<E>"
+    "message": "Συγγνώμη, αλλά δεν μπορώ να μιλήσω για το γράμμα σε δημόσιο χώρο.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_EvilHappyBirthday": {
-    "message": "Many happy returns, my dear brother! It's strange that I don't remember such excitement on my birthday.<E>"
+    "message": "Χρόνια πολλά, αγαπημένε μου αδελφέ! Είναι παράξενο, δεν θυμάμαι τέτοιον ενθουσιασμό στα δικά μου γενέθλια.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_EvilHappyBirthdayAgain": {
-    "message": "Please, brother! I am busy finalizing the plans for your birthday celebrations.<E>"
+    "message": "Σε παρακαλώ, αδελφέ, είμαι απασχολημένος με την οριστικοποίηση των λεπτομερειών για τα γενέθλια σου!<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting01": {
-    "message": "Are all the magical sarcophagi in place?<E>"
+    "message": "Είναι όλες οι μαγικές σαρκοφάγοι στη θέση τους;<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting02": {
-    "message": "Excellent! My spoilt little brother is going to get an unexpected birthday surprise this year.<P>I'm going to leave a spare <FC 0,128,0>Sarcophagus Key<END FC> here in case anything happens to the others.<E>"
+    "message": "Εξαιρετικά! Ο κακομαθημένος μικρός μου αδελφός θα έχει μια απροσδόκητη έκπληξη γενεθλίων φέτος.<P>Θα αφήσω ένα εφεδρικό <FC 0,128,0>Κλειδί Σαρκοφάγου<END FC> εδώ σε περίπτωση που συμβεί κάτι στα άλλα.<E>"
   },
   "HT_Text_Lux_Palace_AkhenatenHU16_Plotting03": {
-    "message": "Muahahaha!!!<P>Muahahaha!!!<P>This party is going to be the best this palace has ever seen!<E>"
+    "message": "Μουαχαχαχα!!!<P>Μουαχαχαχα!!!<P>Αυτή η γιορτή θα είναι η καλύτερη που έχει δει ποτέ αυτό το παλάτι!<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFound": {
-    "message": "Oh, you are so kind, nephew. But I'm afraid there are still<N><FC 0,128,0><SO HT_Objective_Lux_Palace_SetiQuestItemsRemaining><END FC> more amulets missing.<E>"
+    "message": "Ω, είσαι τόσο ευγενικός, ανιψιέ. Αλλά φοβάμαι ότι λείπουν ακόμα <N><FC 0,128,0><SO HT_Objective_Lux_Palace_SetiQuestItemsRemaining><END FC>φυλαχτά.<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsNotFoundOne": {
-    "message": "Excellent! There is only <FC 0,128,0>1<END FC> amulet left, dear nephew.<E>"
+    "message": "Εξαίρετα! Έμεινε μόνο <FC 0,128,0>1<END FC> φυλακτό ακόμα, αγαπημένε ανιψιέ.<E>"
   },
   "HT_Text_Lux_Palace_SetiHU18_LostItemsComplete": {
-    "message": "Thank you for your help, nephew. I'm sure I would never have found the amulets on my own.<E>"
+    "message": "Σε ευχαριστώ για τη βοήθεια, ανιψιέ. Είμαι σίγουρη ότι δεν θα είχα βρει ποτέ τα φυλαχτά μόνη μου.<E>"
   },
   "HT_Text_Lux_Palace_MenesHU09_Plotting01": {
-    "message": "Yes, sir, everything is going as planned.<E>"
+    "message": "Ναι, κύριε, όλα πάνε βάσει σχεδίου.<E>"
   },
   "HT_Text_Lux_Palace_MenesHU09_Plotting02": {
-    "message": "A very wise precaution, sir.<E>"
+    "message": "Μια πολύ σοφή προφύλαξη, κύριε.<E>"
   },
   "HT_Text_Lux_Pala_Read_TreasureRoom": {
-    "message": "<N><CNTR>---[ <FC 128,64,0>Treasure Room<END FC> ]---<E>"
+    "message": "<N>---[ <FC 128,64,0>Θησαυροφυλάκιο<END FC> ]---<E>"
   },
   "HT_Text_Lux_Pala_Help_UseLever": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>To operate levers, stand close and press <SB HT_Action_LeverDown><ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Για να χεριστείς μοχλούς, στάσου κοντά και πάτησε <SB HT_Action_LeverDown><ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Pala_Help_UseSarco": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>With the <FC 0,128,0>Sarcophagus Key<END FC> you can use a sarcophagus<N>by standing close and pressing <SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Με το <FC 0,128,0>Κλειδί Σαρκοφάγου<END FC> μπορείς να χρησιμοποιήσεις μια σαρκοφάγο.<N>Πλησίασε την και πάτησε<SB HT_Action_Enter><ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Pushable": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Objects like this can be pushed and pulled.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_Grab> when close to the object...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...then use <SB HT_PadAction_PLR_MovePlr> to push or pull.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Μπορείς να σπρώξεις και να τραβήξεις αντικείμενα σαν κι αυτό.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Πάτησε <SB HT_Action_Grab> όταν είσαι κοντά στο αντικείμενο...<P><ES HT_Text_ES_S_HelpText><N><CNTR>...μετά χρησιμοποίησε το <SB HT_PadAction_PLR_MovePlr> για να σπρώξεις ή να τραβήξεις.<E>"
   },
   "HT_Text_Lux_Palace_Help_LedgeWalk": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You can sneak across some narrow ledges.<P><ES HT_Text_ES_S_HelpText><CNTR>Approach the fence and press <SB HT_Action_WallSneak><N>to move against it.<P><ES HT_Text_ES_S_HelpText><CNTR>Once against the fence use<N><SB HT_PadAction_PLR_MovePlr> to move left and right.<P><ES HT_Text_ES_S_HelpText><CNTR>To sneak slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_WallSneakExit> when you wish to<N>come out of sneak mode.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Μπορείς να περάσεις προσεκτικά από μερικά στενά περβάζια.<P><ES HT_Text_ES_S_HelpText><CNTR>Πλησίασε το κιγκλίδωμα και πάτησε<SB HT_Action_WallSneak><N>για να κινηθείς πάνω του.<P><ES HT_Text_ES_S_HelpText><CNTR>Μόλις είσαι στο κιγκλίδωμα χρησιμοποίησε<N><SB HT_PadAction_PLR_MovePlr> για να κινηθείς αριστερά και δεξιά.<P><ES HT_Text_ES_S_HelpText><CNTR>Για να κινηθείς αργά, κίνησε το <SB HT_PadAction_PLR_MovePlr> ελαφρά.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε<SB HT_Action_WallSneakExit> όταν επιθυμείς<N>να βγεις από αυτή τη λειτουργία.<E>"
   },
   "HT_Text_Lux_Palace_Help_LedgeHang": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Some ledges on walls can be grabbed.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>Walk off and turn around whilst falling to grab the ledge.<P><ES HT_Text_ES_S_HelpText><CNTR>Then use <SB HT_PadAction_PLR_MovePlr> to move left and right.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Μπορείς να πιαστείς από ορισμένα περβάζια στους τοίχους.<ES HT_Text_ES_E_HelpText><P><ES HT_Text_ES_S_HelpText><N><CNTR>Πέσε και γύρισε ενώ πέφτεις για να πιαστείς από το περβάζι.<P><ES HT_Text_ES_S_HelpText><CNTR>Μετά χρησιμοποίησε το <SB HT_PadAction_PLR_MovePlr> για να κινηθείς αριστερά και δεξιά.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_DoorLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This door is locked and will require a key to open.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Αυτή η πόρτα είναι κλειδωμένη και χρειάζεται κλειδί για να ανοίξει.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_DoorLockedForever": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This door is locked from the other<N>side and cannot be opened.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Αυτή η πόρτα είναι κλειδωμένη από την άλλη<N>πλευρά και δεν μπορεί να ανοίξει.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_Crawl": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Press <SB HT_Action_MummyCrawl> to toggle between<N>walking and crawling.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πάτησε<SB HT_Action_MummyCrawl> για εναλλαγή μεταξύ<N>βαδίσματος και μπουσουλήματος.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundBedroomKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Courtyard Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες το <FC 0,128,0>Κλειδί της Αυλής<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundNefertitiItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found <FC 0,128,0>Nefertiti's Letter<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες το <FC 0,128,0>Γράμμα της Νεφερτίτης<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
   },
   "HT_Text_Lux_Palace_Help_FoundSarcophagusKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR><N>You found the <FC 0,128,0>Sarcophagus Key<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR><N>Βρήκες το <FC 0,128,0>Κλειδί της Σαρκοφάγου<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found an <FC 0,128,0>Old Amulet<END FC>!<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες ένα <FC 0,128,0>Παλιά Φυλαχτό<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Lux_Palace_Help_FoundCourtyardKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Courtyard Key<END FC><ES HT_Text_ES_S_HelpText>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες το <FC 0,128,0>Κλειδί της Αυλής<END FC><ES HT_Text_ES_S_HelpText>!<E>"
   }
 }

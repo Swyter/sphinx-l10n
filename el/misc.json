@@ -3,756 +3,756 @@
     "message": "Hello there!<E>"
   },
   "HT_Text_MG_WallDodge_Start": {
-    "message": "Welcome to the <FC 128,64,0>Corridor of Champions<END FC>. It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
+    "message": "Καλώς ήρθες στο <FC 128,64,0>Μονοπάτι των Πρωταθλητών<END FC>. Κόστος συμμετοχής: <FC 0,128,0>10 Σκαραβαίοι<END FC>.<P>Θέλεις να παίξεις;<N> <B 1> Ναι<N> <B 2> Όχι, ευχαριστώ<E>"
   },
   "HT_Text_MG_WallDodge_Instructions": {
-    "message": "Just dodge the moving walls, smash all the statues, then make it to the exit within the time limit.<E>"
+    "message": "Απλώς απόφυγε τους κινούμενους τοίχους, σπάσε όλα τα αγάλματα και φτάσε στην έξοδο εντός του χρονικού ορίου.<E>"
   },
   "HT_Text_MG_WallDodge_Choose": {
-    "message": "Which gauntlet would you like to attempt?<N>  <B 1> Gauntlet 1<N>  <B 2> Gauntlet 2<E>"
+    "message": "Ποια δοκιμασία θα ήθελες να επιχειρήσεις;<N> <B 1> Δοκιμασία 1<N> <B 2> Δοκιμασία 2<E>"
   },
   "HT_Text_MG_WallDodge_Choose2": {
-    "message": "Which gauntlet would you like to attempt?<N>  <B 1> Gauntlet 1<N>  <B 2> Gauntlet 2<N>  <B 3> Gauntlet 3<E>"
+    "message": "Ποια δοκιμασία θα ήθελες να επιχειρήσεις;<N> <B 1> Δοκιμασία 1<N> <B 2> Δοκιμασία 2<N> <B 3> Δοκιμασία 3<E>"
   },
   "HT_Text_MG_WallDodge_NotReady": {
-    "message": "You're not ready for that yet.<E>"
+    "message": "Δεν είσαι έτοιμος ακόμα για αυτό.<E>"
   },
   "HT_Text_MG_WallDodge_Fail": {
-    "message": "Sorry, you failed this time. Try again.<E>"
+    "message": "Κρίμα, απέτυχες αυτή τη φορά. Δοκίμασε ξανά.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed": {
-    "message": "Well done! You completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>! That's a new record!<E>"
+    "message": "Μπράβο! Ολοκλήρωσες τη δοκιμασία σε <FC 0,128,0><SO HT_Objective_WallDodge_Time> δευτερόλεπτα<END FC>! Έσπασες το ρεκόρ!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed1": {
-    "message": "You deserve a reward for that effort.<N>You win <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Scarabs<END FC>!<E>"
+    "message": "Αξίζεις μια ανταμοιβή για αυτή την προσπάθεια.<N>Κέρδισες<FC 0,128,0><SO HT_Objective_MGWalls_Prize> Σκαραβαίους<END FC>!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed2": {
-    "message": "What an outstanding time that is!<N>Your prize money is <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Scarabs<END FC>!<E>"
+    "message": "Εξαιρετικός χρόνος!<N>Το έπαθλό σου είναι <FC 0,128,0><SO HT_Objective_MGWalls_Prize> Σκαραβαίοι<END FC>!<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore1": {
-    "message": "Not bad - you completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>. But you could do better...<P>Your fastest time is <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> seconds<END FC>.<E>"
+    "message": "Όχι άσχημα - τερμάτισες σε χρόνο <FC 0,128,0><SO HT_Objective_WallDodge_Time> δευτερολέπτων<END FC>. Αλλά μπορείς και καλύτερα...<P>Ο ταχύτερος χρόνος σου είναι <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1> δευτερόλεπτα<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore2": {
-    "message": "Not bad - you completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>. But you could do better...<P>Your fastest time is <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2> seconds<END FC>.<E>"
+    "message": "Όχι άσχημα - τερμάτισες σε χρόνο <FC 0,128,0><SO HT_Objective_WallDodge_Time> δευτερολέπτων<END FC>. Αλλά μπορείς και καλύτερα...<P>Ο ταχύτερος χρόνος σου είναι <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2> δευτερόλεπτα<END FC>.<E>\""
   },
   "HT_Text_MG_WallDodge_Succeed_HighScore3": {
-    "message": "That was okay - you completed it in a time of <FC 0,128,0><SO HT_Objective_WallDodge_Time> seconds<END FC>. But you could improve...<P>Your fastest time is <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> seconds<END FC>.<E>"
+    "message": "Καλή προσπάθεια - τερμάτισες σε χρόνο <FC 0,128,0><SO HT_Objective_WallDodge_Time> δευτερολέπτων<END FC>. Αλλά επιδέχεται βελτίωση...<P>Ο ταχύτερος χρόνος σου είναι <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3> δευτερόλεπτα<END FC>.<E>\""
   },
   "HT_Text_MG_WallDodge_HighScores": {
-    "message": "<DP><DHP><END TT><CNTR>Gauntlet 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>Gauntlet 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N>Gauntlet 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>"
+    "message": "<DP><DHP><END TT><CNTR>Δοκιμασία 1: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_1><END FC><N>Δοκιμασία 2: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_2><END FC><N>Δοκιμασία 3: <FC 0,128,0><SO HT_Objective_WallDodge_HighScore_3><END FC><E>"
   },
   "HT_Text_MG_WallDodge_Test": {
-    "message": "Welcome to the <FC 128,64,0>Corridor of Champions<END FC>.<P>Here, true heroes can test their abilities. Do you want to pit yourself against our gauntlet?<N>  <B 1> Yes<N>  <B 2> No<E>  "
+    "message": "Καλώς ήρθες στο <FC 128,64,0>Μονοπάτι των Πρωταθλητών<END FC>.<P>Εδώ, οι αληθινοί ήρωες μπορούν να δοκιμάσουν τις ικανότητές τους. Θέλεις να αντιμετωπίσεις τη δοκιμασία μας;<N> <B 1> Ναι<N> <B 2> Όχι<E> "
   },
   "HT_Text_MG_WallDodge_TestYes": {
-    "message": "A brave and noble choice! However, before you can proceed, you must complete a small test.<E>"
+    "message": "Μια γενναία επιλογή! Ωστόσο, προτού προχωρήσεις, πρέπει να περάσεις ένα μικρό τεστ.<E>"
   },
   "HT_Text_MG_WallDodge_TestYesPearl": {
-    "message": "Return that <FC 0,128,0>Diamond<END FC> behind the fence to me within <FC 0,128,0>20 seconds<END FC>, and you will have proven yourself capable of the gauntlet.<E>"
+    "message": "Φέρε μου εκείνο το <FC 0,128,0>Διαμάντι<END FC> πίσω από τον φράχτη μέσα σε <FC 0,128,0>20 δευτερόλεπτα<END FC>, και θα έχεις αποδείξει ότι είσαι ικανός για τη δοκιμασία.<E>"
   },
   "HT_Text_MG_WallDodge_TestNo": {
-    "message": "Very well, the <FC 128,64,0>Corridor of Champions<END FC> is not for all.<E>"
+    "message": "Πολύ καλά, το <FC 128,64,0>Μονοπάτι των Πρωταθλητών<END FC> δεν είναι για όλους.<E>"
   },
   "HT_Text_MG_WallDodge_TestComplete": {
-    "message": "Excellent, you have passed the test.<E>"
+    "message": "Εξαιρετικά, πέρασες το τεστ.<E>"
   },
   "HT_Text_MG_WallDodge_TestFail": {
-    "message": "It is quite clear that you are not ready to face the gauntlet. Return when you have gained the skill to retrieve the <FC 0,128,0>Diamond<END FC>.<E>"
+    "message": "Είναι ξεκάθαρο ότι δεν είσαι έτοιμος να αντιμετωπίσεις τη δοκιμασία. Έλα πάλι όταν αποκτήσεις την ικανότητα να πάρεις το <FC 0,128,0>Διαμάντι<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_TestInProgress": {
-    "message": "You've only got a few seconds left!<E>"
+    "message": "Σου απομένουν μόνο λίγα δευτερόλεπτα!<E>"
   },
   "HT_Text_MG_WallDodge_TestGiveUp": {
-    "message": "If you cannot complete the test, you cannot attempt the gauntlet. Come back when you think you can succeed... <E>"
+    "message": "Αν δεν μπορείς να ολοκληρώσεις το τεστ, δεν μπορείς να επιχειρήσεις τη δοκιμασία. Έλα πάλι όταν πιστεύεις ότι μπορείς να τα καταφέρεις... <E>"
   },
   "HT_Text_MG_WallDodge_NoMoney": {
-    "message": "What are you trying to pull? You don't have 10 <FC 0,128,0>Scarabs<END FC>.<E>"
+    "message": "Τι προσπαθείς να κάνεις; Δεν έχεις 10 <FC 0,128,0>Σκαραβαίους<END FC>.<E>"
   },
   "HT_Text_MG_WallDodge_GameComplete": {
-    "message": "You mastered the gauntlet! You are a true champion!<P>Here is the <FC 0,128,0>Medal of Champions<END FC>, awarded only to those who manage to beat the gauntlet.<E>"
+    "message": "Πέρασες τη δοκιμασία! Είσαι ένας αληθινός πρωταθλητής!<P>Ορίστε το <FC 0,128,0>Μετάλλιο των Πρωταθλητών<END FC>, που απονέμεται μόνο σε όσους καταφέρουν να νικήσουν τη δοκιμασία.<E>"
   },
   "HT_Text_MG_Shooting_Start": {
-    "message": "Welcome to <FC 128,64,0>Tefnut's Target Tavern<END FC>. It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
+    "message": "Καλώς ήρθες στην <FC 128,64,0>Ταβέρνα Σκοποβολής του Τεφνούτ<END FC>. Κόστος συμμετοχής: <FC 0,128,0>10 Σκαραβαίοι<END FC>.<P>Θέλεις να παίξεις;<N> <B 1> Ναι<N> <B 2> Όχι, ευχαριστώ<E>"
   },
   "HT_Text_MG_Shooting_Instructions": {
-    "message": "Shoot the targets to earn points. Hitting the skulls causes very bad things... you will lose points and time if this happens.<E>"
+    "message": "Πέτυχε τους στόχους για να κερδίσεις πόντους. Αν πετύχεις τα κρανία θα συμβούν πολύ κακά πράγματα... θα χάσεις πόντους και χρόνο.<E>"
   },
   "HT_Text_MG_Shooting_Won": {
-    "message": "Not too bad. You hit a lot of the targets. <P>You've done better than <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> points<END FC> before, though.<P>As a prize for your score, here's <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Scarabs<END FC>. Feel free to try again if you think you can do better.<E>"
+    "message": "Όχι και άσχημα. Πέτυχες πολλούς από τους στόχους. <P>Έχεις όμως πετύχει καλύτερο σκορ από <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> πόντους<END FC> στο παρελθόν.<P>Ως έπαθλο για το σκορ σου, ορίστε <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Σκαραβαίοι<END FC>. Μη διστάσεις να ξαναδοκιμάσεις αν νομίζεις ότι μπορείς και καλύτερα.<E>"
   },
   "HT_Text_MG_Shooting_Won_HighScore": {
-    "message": "You achieved a new high score with <FC 0,128,0><SO HT_Objective_Shooting_Score1> points<END FC>! Your score will be added to the wall chart for posterity.<P>As a prize for such a great high score, here's <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Scarabs<END FC>!<E>"
+    "message": "Έσπασες νέο ρεκόρ με <FC 0,128,0><SO HT_Objective_Shooting_Score1> πόντους<END FC>! Το σκορ σου θα προστεθεί στον πίνακα για τις επόμενες γενιές.<P>Ως έπαθλο για ένα τόσο σπουδαίο ρεκόρ, ορίστε <FC 0,128,0><SO HT_Objective_Shooting_PrizeHolder> Σκαραβαίοι<END FC>!<E>"
   },
   "HT_Text_MG_Shooting_Lost": {
-    "message": "Pah! That was truly abysmal! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> points<END FC> is pathetic! Maybe you need some more practice?<E>"
+    "message": "Πφφ! Αισχρή επίδοση! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> πόντοι<END FC> είναι αξιολύπητοι! Μήπως χρειάζεσαι περισσότερη εξάσκηση;<E>"
   },
   "HT_Text_MG_Shooting_LostSingle": {
-    "message": "Pah! That was truly abysmal! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> point<END FC> is pathetic! Maybe you need some more practice?<E>"
+    "message": "Πφφ! Αισχρή επίδοση! <FC 0,128,0><SO HT_Objective_Shooting_CurrScore> πόντος<END FC> είναι αξιολύπητος! Μήπως χρειάζεσαι περισσότερη εξάσκηση;<E>"
   },
   "HT_Text_MG_Shooting_HighScores": {
-    "message": "<DP><DHP><END TT>Your best score is: <FC 0,128,0><SO HT_Objective_Shooting_Score1> points<END FC>!"
+    "message": "<DP><DHP><END TT>Το καλύτερο σκορ σου είναι: <FC 0,128,0><SO HT_Objective_Shooting_Score1> πόντοι<END FC>!"
   },
   "HT_Text_MG_Shooting_NoMoney": {
-    "message": "I said <FC 0,128,0>10 Scarabs<END FC>, that's not <FC 0,128,0>10 Scarabs<END FC>! You don't have enough, do you?<E>"
+    "message": "Είπα <FC 0,128,0>10 Σκαραβαίους<END FC>, αυτοί δεν είναι <FC 0,128,0>10 Σκαραβαίοι<END FC>! Δεν έχεις αρκετούς, έτσι δεν είναι;<E>"
   },
   "HT_Text_MG_Shooting_GameComplete": {
-    "message": "You have proven your mastery of the <FC 0,128,0>Blowpipe<END FC>! It is my pleasure to present you with the <FC 0,128,0>Marksman Medal<END FC>. Well done.<E>"
+    "message": "Απέδειξες τις ικανότητες σου στο <FC 0,128,0>Φυσοκάλαμο<END FC>! Με χαρά σου απονέμω το <FC 0,128,0>Μετάλλιο του Σκοπευτή<END FC>. Μπράβο.<E>"
   },
   "HT_Text_MG_Shooting_WinInstructions": {
-    "message": "To prove your mastery of the <FC 0,128,0>Blowpipe<END FC> and earn the <FC 0,128,0>Marksman Medal<END FC>, you must score <FC 0,128,0>40 points<END FC> or more.<E>"
+    "message": "Για να αποδείξεις την ικανότητά σου στο <FC 0,128,0>Φυσοκάλαμο<END FC> και να κερδίσεις το <FC 0,128,0>Μετάλλιο του Σκοπευτή<END FC>, πρέπει να συγκεντρώσεις <FC 0,128,0>40 πόντους<END FC> ή περισσότερους.<E>"
   },
   "HT_Text_MG_Simon_Start": {
-    "message": "Welcome to the mystical game of sequences, stranger. In my shrine you will be tested in your ability to remember patterns of sound and color.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Καλώς ήρθες στο μυστικιστικό παιχνίδι των ακολουθιών, ξένε. Στο ναό μου θα δοκιμαστεί η ικανότητά σου να θυμάσαι μοτίβα ήχων και χρωμάτων.<P>Θα ήθελες να παίξεις;<N> <B 1> Ναι<N> <B 2> Όχι<E>"
   },
   "HT_Text_MG_Simon_StartEasy": {
-    "message": "Welcome to the mystical sequence game. For the reasonable price of <FC 0,128,0>5 Scarabs<END FC>, you may test your skills in my magical shrine.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No<E>"
+    "message": "Καλώς ήρθες στο μυστικιστικό παιχνίδι ακολουθιών. Για τη λογική τιμή των <FC 0,128,0>5 Σκαραβαίων<END FC>, μπορείς να δοκιμάσεις τις ικανότητές σου στον μαγικό μου ναό.<P>Θα ήθελες να παίξεις;<N> <B 1> Ναι<N> <B 2> Όχι<E>"
   },
   "HT_Text_MG_Simon_Choose1": {
-    "message": "What level of skill would you like to test in my magical shrine?<N>  <B 1> Beginner - <FC 0,128,0>5 Scarabs<END FC><N>  <B 2> Intermediate - <FC 0,128,0>10 Scarabs<END FC><E>"
+    "message": "Σε τι επίπεδο δυσκολίας θα ήθελες να δοκιμαστείς στο ναό;<N> <B 1> Αρχάριος - <FC 0,128,0>5 Σκαραβαίοι<END FC><N> <B 2> Προχωρημένος - <FC 0,128,0>10 Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_MG_Simon_Choose2": {
-    "message": "What level of skill would you like to test in the shrine?<N>  <B 1> Beginner - <FC 0,128,0>5 Scarabs<END FC><N>  <B 2> Intermediate - <FC 0,128,0>10 Scarabs<END FC><N>  <B 3> Expert - <FC 0,128,0>20 Scarabs<END FC><E>"
+    "message": "Σε τι επίπεδο δυσκολίας θα ήθελες να δοκιμαστείς στο ναό;<N> <B 1> Αρχάριος - <FC 0,128,0>5 Σκαραβαίοι<END FC><N> <B 2> Προχωρημένος - <FC 0,128,0>10 Σκαραβαίοι<END FC><N> <B 3> Εξπέρ - <FC 0,128,0>20 Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_MG_Simon_Instructions": {
-    "message": "Walk down the walkway to the center platform. Try and remember the sequence that appears before you.<P>Copy the sequence to win.<N>You can view each sequence again by jumping on the center platform, but only once.<E>"
+    "message": "Περπάτησε στο διάδρομο προς την κεντρική πλατφόρμα. Προσπάθησε να θυμηθείς την ακολουθία που εμφανίζεται μπροστά σου.<P>Αντίγραψε την ακολουθία για να νικήσεις.<N>Μπορείς να δείς κάθε ακολουθία ξανά πηδώντας στην κεντρική πλατφόρμα, αλλά μόνο μία φορά.<E>"
   },
   "HT_Text_MG_Simon_Fail": {
-    "message": "No, no, no, that wasn't right at all! You've failed this time.<E>"
+    "message": "Όχι, όχι, όχι, δεν ήταν καθόλου σωστό! Απέτυχες αυτή τη φορά.<E>"
   },
   "HT_Text_MG_Simon_Succeed": {
-    "message": "Well done! You passed round <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>!<E>"
+    "message": "Μπράβο! Πέρασες το γύρο <FC 0,128,0><SO HT_Objective_Simon_Round><END FC>!<E>"
   },
   "HT_Text_MG_Simon_Win": {
-    "message": "Congratulations, you won! As a prize, you can have <FC 0,128,0><SO HT_Objective_Simon_Prize> Scarabs<END FC>!<E>"
+    "message": "Συγχαρητήρια, νίκησες! Ως έπαθλο, ορίστε <FC 0,128,0><SO HT_Objective_Simon_Prize> Σκαραβαίοι<END FC>!<E>"
   },
   "HT_Text_MG_Simon_Restart": {
-    "message": "You're in the middle of a game! What do you want?<N>  <B 1> Quit<PC 1><B 2> Restart<N>  <B 3> Carry on<PC 1><B 4> Instructions<E>"
+    "message": "Είσαι στη μέση ενός παιχνιδιού! Τι θέλεις;<N> <B 1> Έξοδος<PC 1><B 2> Επανεκκίνηση<N> <B 3> Συνέχεια<PC 1><B 4> Οδηγίες<E>"
   },
   "HT_Text_MG_Simon_CopyLimit": {
-    "message": "Oh no you don't! You only get two views per sequence!<E>"
+    "message": "Α, όχι! Έχεις δικαίωμα μόνο για δύο προβολές ανά ακολουθία!<E>"
   },
   "HT_Text_MG_Simon_NoMoney": {
-    "message": "Wait, you don't have enough <FC 0,128,0>Scarabs<END FC>. Come back when you have enough to play.<E>"
+    "message": "Μισό λεπτό, δεν έχεις αρκετούς <FC 0,128,0>Σκαραβαίους<END FC>. Έλα πάλι όταν θα έχεις το αντίτιμο για να παίξεις.<E>"
   },
   "HT_Text_MG_Simon_CantLeave": {
-    "message": "Hey, you can't leave! You're in the middle of a game!<E>"
+    "message": "Ε, δεν μπορείς να φύγεις! Είσαι στη μέση ενός παιχνιδιού!<E>"
   },
   "HT_Text_MG_Simon_GameComplete": {
-    "message": "Excellent! You've beaten my game and earned the <FC 0,128,0>Medal of Sequences<END FC>.<E>"
+    "message": "Εξαιρετικά! Νίκησες και κέρδισες το <FC 0,128,0>Μετάλλιο των Ακολουθιών<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_Start": {
-    "message": "Welcome to my game! It costs <FC 0,128,0>10 Scarabs<END FC> to play.<P>Would you like to play?<N>  <B 1> Yes<N>  <B 2> No thanks<E>"
+    "message": "Καλώς ήρθες στο παιχνίδι μου! Κόστος συμμετοχής: <FC 0,128,0>10 Σκαραβαίοι<END FC>.<P>Θέλεις να παίξεις;<N> <B 1> Ναι<N> <B 2> Όχι, ευχαριστώ<E>"
   },
   "HT_Text_MG_Pairs_Scores": {
-    "message": "<DHP><DP><END TT>The fastest you've completed this game is:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> seconds<END FC>."
+    "message": "<DHP><DP><END TT>Ο ταχύτερος χρόνος σου σε αυτό το παιχνίδι είναι:<N><FC 0,128,0><SO HT_Objective_Pairs_HighScore> δευτερόλεπτα<END FC>."
   },
   "HT_Text_MG_Pairs_NoScores": {
-    "message": "<DHP><DP><END TT>You've never completed this game... <END FC>"
+    "message": "<DHP><DP><END TT>Δεν έχεις ολοκληρώσει ποτέ αυτό το παιχνίδι... <END FC>"
   },
   "HT_Text_MG_Pairs_Win": {
-    "message": "Congratulations! You've won <FC 0,128,0><SO HT_Objective_Pairs_Won> Scarabs<END FC>!<E>"
+    "message": "Συγχαρητήρια! Κέρδισες <FC 0,128,0><SO HT_Objective_Pairs_Won> Σκαραβαίους<END FC>!<E>"
   },
   "HT_Text_MG_Pairs_Restart": {
-    "message": "You're in the middle of a game! What do you want?<N>  <B 1> Quit<PC 1><B 2> Restart<N>  <B 3> Carry on<PC 1><B 4> Instructions<E>"
+    "message": "Είσαι στη μέση ενός παιχνιδιού! Τι θέλεις;<N> <B 1> Έξοδος<PC 1><B 2> Επανεκκίνηση<N> <B 3> Συνέχεια<PC 1><B 4> Οδηγίες<E>"
   },
   "HT_Text_MG_Pairs_Instructions": {
-    "message": "Use your <FC 0,128,0>Blowpipe<END FC> to shoot open the doors at the end of the room.<P>Match each pair of items behind the doors to win.<E>"
+    "message": "Χρησιμοποίησε το <FC 0,128,0>Φυσοκάλαμο<END FC> σου για να πετύχεις τις πόρτες στο βάθος του δωματίου.<P>Ταίριαξε κάθε ζευγάρι αντικειμένων πίσω από τις πόρτες για να νικήσεις.<E>"
   },
   "HT_Text_MG_Pairs_NoBlowpipe": {
-    "message": "Sorry, but you can't play unless you have a <FC 0,128,0>Blowpipe<END FC>.<E>"
+    "message": "Συγγνώμη, αλλά δεν μπορείς να παίξεις αν δεν έχεις <FC 0,128,0>Φυσοκάλαμο<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_RestartPay": {
-    "message": "It'll cost you another <FC 0,128,0>10 Scarabs<END FC>...<N>  <B 1> OK, restart<N>  <B 2> No, carry on playing<E>"
+    "message": "Θα σου κοστίσει άλλους <FC 0,128,0>10 Σκαραβαίους<END FC>...<N> <B 1> Εντάξει, επανεκκίνηση<N> <B 2> Όχι, συνέχεια παιχνιδιού<E>"
   },
   "HT_Text_MG_Pairs_NoMoney": {
-    "message": "I said it'll cost <FC 0,128,0>10 Scarabs<END FC>, you don't have <FC 0,128,0>10 Scarabs<END FC>.<E>"
+    "message": "Είπα ότι κοστίζει <FC 0,128,0>10 Σκαραβαίους<END FC>, δεν έχεις <FC 0,128,0>10 Σκαραβαίους<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_NotWon": {
-    "message": "That took you forever! No prize for you!<E>"
+    "message": "Σου πήρε μια αιωνιότητα! Δεν έχει έπαθλο για σένα!<E>"
   },
   "HT_Text_MG_Pairs_WinInstructions": {
-    "message": "If you can complete the game within <FC 0,128,0>60 seconds<END FC>, you will have proven yourself worthy of the <FC 0,128,0>Medal of Memory<END FC>.<E>"
+    "message": "Αν καταφέρεις να ολοκληρώσεις το παιχνίδι μέσα σε <FC 0,128,0>60 δευτερόλεπτα<END FC>, θα έχεις αποδείξει την αξία σου για το <FC 0,128,0>Μετάλλιο της Μνήμης<END FC>.<E>"
   },
   "HT_Text_MG_Pairs_GameComplete": {
-    "message": "And you've earned the <FC 0,128,0>Medal of Memory<END FC>!<E>"
+    "message": "Κέρδισες το <FC 0,128,0>Μετάλλιο της Μνήμης<END FC>!<E>"
   },
   "HT_Text_MG_Pairs_TooLong": {
-    "message": "That's it, you're taking too long, I'm going to have to stop the game. Sorry.<E>"
+    "message": "Τέλος. Καθυστέρησες πάρα πολύ. Πρέπει να σταματήσω το παιχνίδι. Συγγνώμη.<E>"
   },
   "HT_Text_Museum_BC01_Giant_Prawn": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Geb<END FC> ]---<P>Sharing the name of the ancient earth-god, Gebs used to be peaceful creatures.<P>Nowadays, they are little more than obedient muscle for the fearsome Geb Queen...<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Γκεμπ<END FC> ]---<P>Φέροντας το όνομα του αρχαίου θεού της γης, οι Γκεμπ ήταν κάποτε ειρηνικά πλάσματα.<P>Στις μέρες μας, δεν είναι παρά υπάκουοι στην τρομακτική Βασίλισσα Γκεμπ...<E>"
   },
   "HT_Text_Museum_BM09_Smiling_burble": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Smiling Burble<END FC> ]---<P>This little critter is one of the less harmful members of the Burble family, having lost the explosive properties indicative of its species.<P>Their powerful horns can shatter rock, although their lack of coordination lessens the threat this would normally pose.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Χαμογελαστή Φουσκάλα<END FC> ]---<P>Αυτό το μικρό πλάσμα είναι ένα από τα λιγότερο επικίνδυνα μέλη της οικογένειας των Φουσκάλων, έχοντας χάσει τις εκρηκτικές ιδιότητες του είδους του.<P>Τα ισχυρά κέρατά τους μπορούν να θρυμματίσουν βράχια, αν και η έλλειψη συντονισμού τους μειώνει την απειλητικότητά τους.<E>"
   },
   "HT_Text_Museum_BM10_i_Cyclops": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Cyclops<END FC> ]---<P>Named so for its single eye, this biped is capable of charging bolts of fire, teleportation and duplication.<P>Their combination of skin and hair color has sometimes seen them confused with a certain root vegetable...<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Κύκλωπας<END FC> ]---<P>Ονομασμένος έτσι για το μοναδικό του μάτι, αυτό το δίποδο μπορεί να εκτοξεύει πύρινες βολές, να τηλεμεταφέρεται και να αντιγράφεται.<P>Ο συνδυασμός του χρώματος του δέρματος και των μαλλιών τους έχει κάνει ορισμένους να τους μπερδεύουν με ένα συγκεκριμένο λαχανικό...<E>"
   },
   "HT_Text_Museum_BM12_slim_burble": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Slim Burble<END FC> ]---<P>Sporting spindlier limbs when compared to other Burbles, the Slim Burble is capable of laying eggs with alarming frequency.<P>Living in warrens built at the base of cliff faces, its fiery temperament derives from a diet that primarily consists of freshly-flowing lava.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Λεπτή Φουσκάλα<END FC> ]---<P>Διαθέτοντας πιο λεπτά άκρα σε σύγκριση με άλλες Φουσκάλες, η Λεπτή Φουσκάλα μπορεί να γεννά αυγά με ανησυχητική συχνότητα.<P>Ζώντας σε φωλιές χτισμένες στη βάση γκρεμών, η φλογερή ιδιοσυγκρασία της προέρχεται από μια διατροφή που αποτελείται κυρίως από φρέσκια λάβα.<E>"
   },
   "HT_Text_Museum_BR04_Goofy_Lizard": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Goofy Lizard<END FC> ]---<P>The Goofy Lizard's behavior implies a complete lack of common sense, matched only by their apparent lack of coordination.<P>The most popular domesticated animal in existence.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Χαζή Σαύρα<END FC> ]---<P>Η συμπεριφορά της Χαζής Σαύρας υποδηλώνει παντελή έλλειψη κοινής λογικής, η οποία συνοδεύεται από την εμφανή έλλειψη συντονισμού της.<P>Το πιο δημοφιλές κατοικίδιο ζώο που υπάρχει.<E>"
   },
   "HT_Text_Museum_BR05_Dino_Oaf": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Dino Oaf<END FC> ]---<P>Dino Oafs have been in existence for millions of years, as recently discovered cave etching attest to.<P>Docile and inquisitive herbivores, their strength is sometimes employed in assisting heavy farming tasks.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Χαζόσαυρος<END FC> ]---<P>Αυτοί οι Χαζόσαυροι υπάρχουν εδώ και εκατομμύρια χρόνια, όπως μαρτυρούν πρόσφατα ανακαλυφθείσες σπηλαιογραφίες.<P>Είναι υπάκουα και περίεργα φυτοφάγα, ενώ η δύναμή τους χρησιμοποιείται μερικές φορές για τη βοήθεια σε βαριές αγροτικές εργασίες.<E>"
   },
   "HT_Text_Museum_BR06_Half_Brute": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Half Brute<END FC> ]---<P>The name Half Brute understates the nature of these aggressive two-legged monsters, predominantly found in desert regions.<P>A descendant of the Full Brute; a despicable lizard now widely acknowledged to be extinct.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Μισό Κτήνος<END FC> ]---<P>Το όνομα Μισό Κτήνος υποτιμά τη φύση αυτών των επιθετικών δίποδων τεράτων, που βρίσκονται κυρίως σε περιοχές ερήμου.<P>Απόγονος του Πλήρους Κτήνους, μιας απεχθούς σαύρας που πλέον θεωρείται ευρέως ως εξαφανισμένο είδος.<E>"
   },
   "HT_Text_Museum_BU01_Mummy_Minotaur": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Minotaur<END FC> ]---<P>Descended from the keeper of an ancient maze, Mummy Minotaurs prowl the darkest temples of <FC 128,64,0>Egypt<END FC>.<P>Consumed in flames which it can also breathe from its mouth, this fiery attack has been neutralized for the safety of the museum.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Μινώταυρος Μούμια<END FC> ]---<P>Απόγονος του φύλακα ενός αρχαίου λαβυρίνθου, οι Μινώταυροι Μούμιες περιφέρονται στους πιο σκοτεινούς ναούς της <FC 128,64,0>Αιγύπτου<END FC>.<P>Τυλιγμένο σε φλόγες τις οποίες μπορεί επίσης να βγάλει από το στόμα του, αυτή η πύρινη επίθεση έχει εξουδετερωθεί για την ασφάλεια του μουσείου.<E>"
   },
   "HT_Text_Museum_BU02_Skeletal_Axeman": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Skeletal Axeman<END FC> ]---<P>Rumored to be former warriors of an ancient dark Egyptian army. Members of the undead, their origin is unknown.<P>Now rarely seen in groups larger than three, in the past they formed whole battalions.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Σκελετικός Πολεμιστής<END FC> ]---<P>Φημολογείται ότι είναι πρώην πολεμιστές ενός αρχαίου σκοτεινού αιγυπτιακού στρατού. Είναι απέθαντοι με άγνωστη προέλευση.<P>Πλέον σπάνια παρατηρούνται σε ομάδες μεγαλύτερες των τριών, ενώ στο παρελθόν σχημάτιζαν ολόκληρα τάγματα.<E>"
   },
   "HT_Text_Museum_BU03_zombie_man": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Zombie<END FC> ]---<P>Before entering the ranks of the undead, they were slaves who labored long and hard building immense temples.<P>Now, a Zombie is doomed to wander the lands of sand, in search of a gateway to the afterlife that will forever elude them...<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Ζόμπι<END FC> ]---<P>Πριν ενταχθούν στις τάξεις των απέθαντων, ήταν σκλάβοι που εργάζονταν σκληρά χτίζοντας τεράστιους ναούς.<P>Τώρα, ένα Ζόμπι είναι καταδικασμένο να περιπλανιέται στην έρημο, αναζητώντας μια πύλη για τη μεταθανάτια ζωή που θα του διαφεύγει για πάντα...<E>"
   },
   "HT_Text_Museum_BU05_almost_a_bull": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Almost-A-Bull<END FC> ]---<P>Often found in <FC 128,64,0>Heliopolis<END FC>, the Almost-A-Bull's defense mechanism sees it shrink in order to present a smaller target for any attacker.<P>A unique breeding mistake led to one hand being replaced with a third horn; almost an evolutionary anomaly.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Σχεδόν Ταύρος<END FC> ]---<P>Συχνά απαντάται στην <FC 128,64,0>Ηλιούπολη<END FC>. Ο αμυντικός μηχανισμός του Σχεδόν Ταύρου τον κάνει να συρρικνώνεται ώστε να αποτελεί μικρότερο στόχο για κάθε επιτιθέμενο.<P>Ένα γενετικό σφάλμα οδήγησε στην αντικατάσταση του ενός χεριού με ένα τρίτο κέρας, σχεδόν μια εξελικτική ανωμαλία.<E>"
   },
   "HT_Text_Museum_BU06_MBird": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Bird<END FC> ]---<P>When mummified, bandages were wrapped around the Mummy Bird's eyes, to safeguard against superstition.<P>As a result, it relies on its sense of hearing to locate prey, leaping with claws extended in the approximate direction of the sound.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Πουλί Μούμια<END FC> ]---<P>Κατά τη μουμιοποίηση, τυλίχθηκαν επίδεσμοι γύρω από τα μάτια του Πουλιού Μούμια, ως προστασία από τις δεισιδαιμονίες.<P>Ως αποτέλεσμα, βασίζεται στην ακοή του για να εντοπίσει τη λεία, πηδώντας με νύχια προς την κατεύθυνση του ήχου.<E>"
   },
   "HT_Text_Museum_FL02_Featherless_Turkey": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Featherless Turkey<END FC> ]---<P>Specially bred to enable quick and simple food processing, over the years the Featherless Turkey has developed a complex.<P>They ram into anyone nearby, seemingly blaming everything living they come across for the loss of their plumage.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Μαδημένη Γαλοπούλα<END FC> ]---<P>Μέσω επιλεκτικής αναπαραγωγής απέκτησαν γρήγορη και απλή επεξεργασία τροφής, αλλά με την πάροδο των ετών η Μαδημένη Γαλοπούλα έχει αναπτύξει κόμπλεξ.<P>Εμβολίζει οποιονδήποτε βρίσκεται κοντά και φαίνεται να κατηγορεί κάθε ζωντανό ον που συναντά για την απώλεια του φτερώματός της.<E>"
   },
   "HT_Text_Museum_FL03_shuttlecock_bird": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Shuttlecock Bird<END FC> ]---<P>The Shuttlecock Bird may only be able to fly short distances at a time, but its one leg allows for some powerful hopping.<P>The unique arrangement of feathers around its head make it incredibly aerodynamic when lunging to attack.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Πουλί-Βέλος<END FC> ]---<P>Το Πουλί-Βέλος μπορεί να πετάει μόνο σε μικρές αποστάσεις κάθε φορά, αλλά το ένα του πόδι επιτρέπει ψηλά άλματα.<P>Η μοναδική διάταξη των φτερών γύρω από το κεφάλι του το καθιστά απίστευτα αεροδυναμικό όταν εφορμά για επίθεση.<E>"
   },
   "HT_Text_Museum_HD02_Cat": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Knives Cat<END FC> ]---<P>A much faster and more deadly relative of the Crabhands. Possess a remarkable sense of hearing.<P>While humanoid in shape, you have only to see a Knives Cat hunting to appreciate where the feline half of its name comes from.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Κοφτερή Γάτα<END FC> ]---<P>Ένας πολύ ταχύτερος και πιο θανατηφόρος συγγενής των Καβουροχέρηδων. Διαθέτει αξιοσημείωτη ακοή.<P>Αν και έχει ανθρωπόμορφη εμφάνιση, αρκεί να δείτε μια Κοφτερή Γάτα να κυνηγά για να εκτιμήσετε από πού προέρχεται το αιλουροειδές μισό του ονόματός της.<E>"
   },
   "HT_Text_Museum_HD03_BigBull": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Big Bull<END FC> ]---<P>The hammer-wielding monstrosity is renowned for its bad temper.<P>Such is the size of its weapon, it acts as a shield without the need for a defensive pose.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Μεγάλος Ταύρος<END FC> ]---<P>Αυτό το τεράστιο πλάσμα που κραδαίνει σφυρί είναι φημισμένο για την κακή του διάθεση.<P>Τέτοιο είναι το μέγεθος του όπλου του, που λειτουργεί ως ασπίδα χωρίς να χρειάζεται αμυντική στάση.<E>"
   },
   "HT_Text_Museum_HD14_Crab": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Crabhands<END FC> ]---<P>A combination of humanoid and shellfish makes up this monster, found throughout the land.<P>The gold armor plating adorning Crabhands is permanently welded to its body and enchanted to allow for growth.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Καβουροχέρης<END FC> ]---<P>Είναι ένας συνδυασμός ανθρωποειδούς και οστρακόδερμου, που βρίσκεται σε όλη τη χώρα.<P>Η χρυσή θωράκιση που κοσμεί τον Καβουροχέρη είναι μόνιμα συγκολλημένη στο σώμα του και μαγεμένη ώστε να επιτρέπει την ανάπτυξη του σώματός του.<E>"
   },
   "HT_Text_Museum_HD17_Sharpbeak": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Sharpbeak<END FC> ]---<P>The Sharpbeak's slender form makes it a lithe warrior, and they are well trained in swordsmanship techniques.<P>Dark magic is rumored to be the cause of this unusual blend of lizard and bird.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Οξύραμφος<END FC> ]---<P>Η λεπτή μορφή του Οξύραμφου τον καθιστά έναν ευκίνητο πολεμιστή, και είναι καλά εκπαιδευμένοι στις τεχνικές της ξιφομαχίας.<P>Σκοτεινή μαγεία φημολογείται ότι είναι η αιτία αυτού του ασυνήθιστου μείγματος σαύρας και πουλιού.<E>"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Skull Worshipper<END FC> ]---<P>A powerful ally to the forces of evil - skillful and ruthless fighters.<P>The Skull Worshipper is precisely that - their dwellings are said to be adorned with skulls, by those who have lived to escape.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Προσκυνητής Κρανίου<END FC> ]---<P>Ένας ισχυρός σύμμαχος των δυνάμεων του κακού - επιδέξιοι και αδίστακτοι μαχητές.<P>Ο Προσκυνητής Κρανίου είναι ακριβώς αυτό - οι κατοικίες τους λέγεται ότι είναι διακοσμημένες με κρανία, σύμφωνα με όσους επιβίωσαν και ξέφυγαν.<E>"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Dark Worshipper<END FC> ]---<P>Adventurers should approach the shadows of any dungeon with caution, for a Dark Worshipper may be lurking in the darkness.<P>Said to be the tortured souls of former warriors, trapped between our world and the afterlife.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Σκοτεινός Προσκυνητής<END FC> ]---<P>Οι εξερευνητές θα πρέπει να πλησιάζουν τις σκιές κάθε μπουντρουμιού με προσοχή, καθώς ένας Σκοτεινός Προσκυνητής μπορεί να παραμονεύει στο σκοτάδι.<P>Λέγεται ότι είναι οι βασανισμένες ψυχές πρώην πολεμιστών, παγιδευμένες ανάμεσα στον κόσμο μας και τη μεταθανάτια ζωή.<E>"
   },
   "HT_Text_Museum_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Skull Swordsman<END FC> ]---<P>Highly trained in many swordsmanship techniques, and deadly opponents.<P>Similar to Skull Worshippers, they too can summon a ghostly skull, which drains the soul's essence on contact.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Ξιφομάχος Κρανίου<END FC> ]---<P>Εξαιρετικά εκπαιδευμένοι σε πολλές τεχνικές ξιφομαχίας και θανατηφόροι αντίπαλοι.<P>Παρόμοια με τους Προσκυνητές Κρανίου, μπορούν και αυτοί να καλέσουν ένα ιπτάμενο κράνιο, το οποίο ρουφά την ψυχή κατά την επαφή.<E>"
   },
   "HT_Text_Museum_IN01_Green_Giant_worm": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Green Giant Worm<END FC> ]---<P>The largest invertebrate creature known, it is also one of the few carnivorous worms in existence.<P>Green Giant Worms uniquely fortify the entrances to their subterranean tunnel networks, affording some forewarning as to their presence.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Γιγαντιαίο Πράσινο Σκουλήκι<END FC> ]---<P>Το μεγαλύτερο γνωστό ασπόνδυλο πλάσμα, είναι επίσης ένα από τα λίγα σαρκοφάγα σκουλήκια που υπάρχουν.<P>Τα Γιγαντιαία Πράσινα Σκουλήκια οχυρώνουν με μοναδικό τρόπο τις εισόδους προς το δίκτυο υπόγειων τούνελ τους, παρέχοντας κάποια προειδοποίηση για την παρουσία τους.<E>"
   },
   "HT_Text_Museum_IN07_Blade_Scorpion": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Blade Scorpion<END FC> ]---<P>This lobster-like arachnid has a very different jointed tail to the regular scorpion, with twice as much potential to harm.<P>As well as carrying a deadly sting at the tail's tip, the Blade Scorpion's tail itself is just that - a lethal, razor sharp blade capable of scything through armor.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Σκορπιός Λεπίδα<END FC> ]---<P>Αυτό το αραχνοειδές που μοιάζει με αστακό έχει μια πολύ διαφορετική αρθρωτή ουρά από τον κανονικό σκορπιό, με διπλάσια ικανότητα να προκαλέσει ζημιά.<P>Εκτός από το θανατηφόρο κεντρί στην άκρη της ουράς, η ίδια η ουρά του Σκορπιού Λεπίδα είναι ακριβώς αυτό - μια θανατηφόρα, κοφτερή λεπίδα ικανή να διαπερνά πανοπλίες.<E>"
   },
   "HT_Text_Museum_IN09_Sak_Spike_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Spike Spider<END FC> ]---<P>Perhaps the smallest member of the spider family, it is swifter than most thanks to its strong legs.<P>The Spike Spider is a pack hunter, and in groups they will surround their prey and attack from all directions simultaneously.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Αράχνη με Ακίδες<END FC> ]---<P>Ίσως το μικρότερο μέλος της οικογένειας των αραχνών, είναι ταχύτερη από τις περισσότερες χάρη στα δυνατά της πόδια.<P>Η Αράχνη με Ακίδες κυνηγά σε αγέλες και σε ομάδες περικυκλώνουν τη λεία τους και επιτίθενται από όλες τις κατευθύνσεις ταυτόχρονα.<E>"
   },
   "HT_Text_Museum_PI01_Piranha": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Piranha<END FC> ]---<P>A vicious fish native to a strange and far off land, those found on this continent have the voracious appetite of their overseas counterparts, but are also amphibious.<P>Similar to rats; in recent years the Piranha has become an increasing hazard in larger towns.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Πιράνχας<END FC> ]---<P>Ένα μοχθηρό ψάρι ιθαγενές μιας παράξενης και μακρινής χώρας. Εκείνα που βρίσκονται σε αυτή την ήπειρο έχουν την αχόρταγη όρεξη των ομολόγων τους, αλλά είναι επίσης αμφίβια.<P>Παρόμοια με τους αρουραίους, τα τελευταία χρόνια το Πιράνχα έχει γίνει σημαντικός κίνδυνος στις μεγαλύτερες πόλεις.<E>"
   },
   "HT_Text_Museum_PI01_Hard_Piranha": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Exo-Piranha<END FC> ]---<P>The Exo-Piranha's external skeleton makes them incredibly resilient.<P>Faster and more intelligent than other types of Piranha known, they are undeniably as ugly as the wounds they are known to inflict.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Eξο-Πιράνχας<END FC> ]---<P>Ο εξωτερικός σκελετός του Eξο-Πιράνχας το καθιστά απίστευτα ανθεκτικό.<P>Ταχύτερα και πιο έξυπνα από άλλους γνωστούς τύπους Πιράνχας, είναι αναμφισβήτητα τόσο άσχημα όσο και οι πληγές που είναι γνωστό ότι προκαλούν.<E>"
   },
   "HT_Text_Museum_PL02_Tree_Creature": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Tree Creature<END FC> ]---<P>The Tree Creature is one of the few plants known to have magical abilities from birth.<P>It distracts any potential threat with a mesmerizing glow of light which emanates over its head, while underground roots rapidly burst through the ground to attack.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Δεντρόπλασμα<END FC> ]---<P>Το Δεντρόπλασμα είναι ένα από τα λίγα φυτά που είναι γνωστό ότι έχουν μαγικές ικανότητες από τη γέννησή τους.<P>Αποσπά την προσοχή κάθε πιθανής απειλής με μια μαγευτική λάμψη φωτός που αναβλύζει πάνω από το κεφάλι του, ενώ υπόγειες ρίζες εμφανίζονται γρήγορα από το έδαφος για να επιτεθούν.<E>"
   },
   "HT_Text_Museum_PL04_Sunflower_With_Face": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Sunflower<END FC> ]---<P>This perennial plant has been known to live for many centuries.<P>Immobile for most of the time, it springs to life when threatened and fires off three spore attacks simultaneously, to virtually guarantee harm befalls any potential threat.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Ηλιοτρόπιο<END FC> ]---<P>Αυτό το αιωνόβιο φυτό είναι γνωστό ότι ζει για πολλούς αιώνες.<P>Ακίνητο τον περισσότερο χρόνο, ζωντανεύει όταν απειλείται και εκτοξεύει ταυτόχρονα τρεις επιθέσεις σπόρων, για να σιγουρευτεί ότι θα προκληθεί βλάβη σε κάθε πιθανή απειλή.<E>"
   },
   "HT_Text_Museum_QC01_Pokemon": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Shell Critter<END FC> ]---<P>A shy, herbivorous reptile renowned for spending most of its life retreated inside its shell.<P>Despite being fairly commonplace, excessive cruelty to Shell Critters has given them protected species status.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Οστρακόζωο<END FC> ]---<P>Ένα δειλό, φυτοφάγο ερπετό φημισμένο για το ότι περνά το μεγαλύτερο μέρος της ζωής του κρυμμένο μέσα στο καβούκι του.<P>Παρά το γεγονός ότι είναι αρκετά κοινό, η υπερβολική σκληρότητα προς τα Οστρακόζωα τα έχει καταστήσει προστατευόμενο είδος.<E>"
   },
   "HT_Text_Museum_QR04_Sak_Nose_Needler": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Nose Needler<END FC> ]---<P>The Nose Needler certainly does needle, provoking their prey until its judgment is clouded by anger.<P>Burrowing through soft soil at great speed, they emerge briefly and throw abrasive rocks at an enemy, before going underground once again and repeating the process.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Προβοκάτορας<END FC> ]---<P>Ο Προβοκάτορας πράγματι προκαλεί τη λεία του μέχρι η κρίση της να θολώσει από θυμό.<P>Σκάβοντας μέσα σε μαλακό έδαφος με μεγάλη ταχύτητα, αναδύεται για λίγο και πετάει τραχιές πέτρες σε έναν εχθρό, πριν μπει πάλι κάτω από το έδαφος και επαναλάβει τη διαδικασία.<E>"
   },
   "HT_Text_Museum_QU01_Skeletal_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Skeletal Spider<END FC> ]---<P>One of the most unique looking members of its species, the Skeletal Spider stands out with the unusual vertical growth of its spine.<P>Native to <FC 128,64,0>Uruk<END FC>, where their fleshless bodies are little affected by the scorching heat.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Σκελετική Αράχνη<END FC> ]---<P>Ένα από τα πιο μοναδικά στην εμφάνιση μέλη του είδους της, η Σκελετική Αράχνη ξεχωρίζει με την ασυνήθιστη κατακόρυφη ανάπτυξη της σπονδυλικής της στήλης.<P>Ιθαγενής της <FC 128,64,0>Ουρούκ<END FC>, όπου το άσαρκο σώμα της επηρεάζεται ελάχιστα από την καυτή ζέστη.<E>"
   },
   "HT_Text_Museum_QU02_Skeletal_Armadillo": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Armadillo<END FC> ]---<P>These peculiar, waddling quadrupeds normally walk along at a slow pace. Their hard shell doubles up as a weapon when spinning along the ground.<P>Certain popular children's tales claim their origins as the union of the hedgehog and tortoise.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Αρμαντίλλο<END FC> ]---<P>Αυτά τα περίεργα, δυσκίνητα τετράποδα συνήθως περπατούν με αργό ρυθμό. Το σκληρό τους κέλυφος λειτουργεί και ως όπλο όταν περιστρέφονται στο έδαφος.<P>Ορισμένα δημοφιλή παιδικά παραμύθια ισχυρίζονται ότι προέρχονται από την ένωση του σκαντζόχοιρου και της χελώνας.<E>"
   },
   "HT_Text_Museum_QU04_Mummy_Chihuahua": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Chihuahua<END FC> ]---<P>A Chihuahua is a smooth-coated dog of diminutive stature. The mummification process makes their undead counterpart very aggressive.<P>A popular pet of a former Pharaoh, they went to the tomb with their master.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Τσιουάουα Μούμια<END FC> ]---<P>Το Τσιουάουα είναι ένας σκύλος με λείο τρίχωμα και μικροσκοπικό ανάστημα. Η διαδικασία της μουμιοποίησης καθιστά τον απέθαντο ομόλογό του πολύ επιθετικό.<P>Ενώ ήταν δημοφιλές κατοικίδιο ενός πρώην Φαραώ οδηγήθηκαν στον τάφο μαζί με τον αφέντη τους.<E>"
   },
   "HT_Text_Museum_QU05_skeletal_waspspider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Wasp Spider<END FC> ]---<P>One of the slower members of the spider family, the tips of their claws hold a powerful sting.<P>The Wasp Spider prefers the cool breezes found in coastal regions.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Αράχνη Σφήκα<END FC> ]---<P>Ένα από τα πιο αργά μέλη της οικογένειας των αραχνών, οι άκρες των νυχιών τους φέρουν ένα ισχυρό κεντρί.<P>Η Αράχνη Σφήκα προτιμά το δροσερό αέρα που βρίσκεται σε παράκτιες περιοχές.<E>"
   },
   "HT_Text_Museum_QU06_Mummy_Worm": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Worm<END FC> ]---<P>An undead invertebrate which spits out harmful balls of fire.<P>Rooted to the spot and unable to burrow, they are sometimes kept as sentries to ward off unwanted visitors.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Σκουλήκι Μούμια<END FC> ]---<P>Ένα απέθαντο ασπόνδυλο που φτύνει βλαβερές σφαίρες φωτιάς.<P>Ριζωμένα στο ίδιο σημείο και ανίκανα να σκάψουν, μερικές φορές χρησιμοποιούνται ως φρουροί για να διώχνουν ανεπιθύμητους επισκέπτες.<E>"
   },
   "HT_Text_Museum_QU09_Rat": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Rat<END FC> ]---<P>A large rodent well known for its ability to spread diseases, often found in sewers and other poorly sanitized areas.<P>The name \"Rat\" is also used to signify a treacherous or untrustworthy person.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Αρουραίος<END FC> ]---<P>Ένα μεγάλο τρωκτικό γνωστό για την ικανότητά του να μεταδίδει ασθένειες, που συναντάται συχνά σε υπονόμους και άλλες περιοχές με κακή υγιεινή.<P>Το όνομα «Αρουραίος» χρησιμοποιείται επίσης για να υποδηλώσει έναν προδότη ή ένα ανάξιο εμπιστοσύνης άτομο.<E>"
   },
   "HT_Text_Museum_PI04_Spinefish": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Spinefish<END FC> ]---<P>The Spinefish's deceptively beautiful display fins hide deadly poisonous spines which it uses to fend off would-be aggressors.<P>The Spinefish is an extremely territorial animal and is commonly used by the upper classes in their defensive moats.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Αγκαθόψαρο<END FC> ]---<P>Τα απατηλά όμορφα πτερύγια του Αγκαθόψαρου κρύβουν θανάσιμα δηλητηριώδη αγκάθια που χρησιμοποιεί για να αποκρούει επίδοξους επιτιθέμενους.<P>Το Αγκαθόψαρο είναι ένα ζώο που υπερασπίζεται με ζήλο την περιοχή του και χρησιμοποιείται συνήθως από τις ανώτερες τάξεις στις αμυντικές τους τάφρους.<E>"
   },
   "HT_Text_Museum_PI02_Electric_Eel": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Electric Eel<END FC> ]---<P>The Electric Eel is quite a docile animal in its natural habitat.<P>However, due to the electric field it creates, any water in which it swims becomes electrified and very dangerous to unsuspecting animals.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Ηλεκτρικό Χέλι<END FC> ]---<P>Το Ηλεκτρικό Χέλι είναι ένα αρκετά πράο ζώο στο φυσικό του περιβάλλον.<P>Ωστόσο, λόγω του ηλεκτρικού πεδίου που δημιουργεί, κάθε νερό στο οποίο κολυμπά γίνεται ηλεκτρισμένο και πολύ επικίνδυνο για τα ανυποψίαστα ζώα.<E>"
   },
   "HT_Text_Museum_PI03_Manta_Ray": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Manta Ray<END FC> ]---<P>The Manta Ray's natural habitat is the open ocean.<P>They usually prefer to prey upon small schools of fish but have been known to attack larger animals if provoked.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Σαλάχι Μάντα<END FC> ]---<P>Το φυσικό περιβάλλον του Σαλαχιού Μάντα είναι ο ανοιχτός ωκεανός.<P>Συνήθως προτιμούν να τρέφονται με μικρά κοπάδια ψαριών, αλλά είναι γνωστό ότι επιτίθενται σε μεγαλύτερα ζώα αν αισθανθούν πρόκληση.<E>"
   },
   "HT_Text_Museum_FL05_Mummy_Eagle": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Mummy Eagle<END FC> ]---<P>The Mummy Eagle is one of the biggest birds known to exist. Its great size and strength mean that it can easily pick up people.<P>This ability has been known to have been exploited by the Ancients, who used an <FC 0,128,0>Eagle Stone<END FC> to summon the birds.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Αετός Μούμια<END FC> ]---<P>Ο Αετός Μούμια είναι ένα από τα μεγαλύτερα πουλιά που υπάρχουν. Το μεγάλο του μέγεθος και η δύναμή του σημαίνουν ότι μπορεί εύκολα να σηκώσει ανθρώπους.<P>Αυτή η ικανότητα είναι γνωστό ότι έχει αξιοποιηθεί από τους Αρχαίους, οι οποίοι χρησιμοποιούσαν μια <FC 0,128,0>Πέτρα Αετού<END FC> για να καλούν τα πουλιά.<E>"
   },
   "HT_Text_Museum_IN11_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Alert Spider<END FC> ]---<P>The Alert Spider spends its life above the ground climbing over walls or ceilings.<P>From this high vantage point, it is able to drop down onto unsuspecting prey without drawing attention to itself.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Αράχνη Φρουρός<END FC> ]---<P>Η Αράχνη Φρουρός περνά τη ζωή της πάνω από το έδαφος σκαρφαλώνοντας σε τοίχους ή οροφές.<P>Από αυτό το υψηλό σημείο, μπορεί να πέφτει πάνω σε ανυποψίαστη λεία χωρίς να τραβά την προσοχή πάνω της.<E>"
   },
   "HT_Text_Museum_QR01_Cobra": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Cobra<END FC> ]---<P>A hooded and highly poisonous snake.<P>The cobra commonly makes its home in dark and secluded areas, surprising many unsuspecting explorers.<E> "
+    "message": "<N><CNTR>---[ <FC 0,128,0>Κόμπρα<END FC> ]---<P>Ένα εξαιρετικά δηλητηριώδες φίδι.<P>Η κόμπρα κατοικέι σε σκοτεινές και απομονωμένες περιοχές, εκπλήσσοντας πολλούς ανυποψίαστους εξερευνητές.<E> "
   },
   "HT_Text_Museum_QR02_Spitting_Toad": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Spitting Toad<END FC> ]---<P>The so called \"Spitting Toad\" got its name from its tendency to swallow first, think later.<P>Anything that is not to the Toad's rather picky taste is spat out quite forcefully.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Βάτραχος-Εκτοξευτής<END FC> ]---<P>Ο λεγόμενος «Βάτραχος Εκτοξευτής» πήρε το όνομά του από την τάση του να καταπίνει πρώτα και να σκέφτεται μετά.<P>Οτιδήποτε δεν ταιριάζει στις μάλλον επιλεκτικές γεύσεις του Βατράχου εκτοξεύεται με μεγάλη δύναμη.<E>"
   },
   "HT_Text_Museum_QR03_Small_Frog": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Small Frog<END FC> ]---<P>The Small Frog originates from the toxic swamplands.<P>As a result, it is very resistant to toxic substances.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Μικρός Βάτραχος<END FC> ]---<P>Ο Μικρός Βάτραχος προέρχεται από τους τοξικούς βάλτους.<P>Ως αποτέλεσμα, είναι πολύ ανθεκτικός σε τοξικές ουσίες.<E>"
   },
   "HT_Text_Museum_QU08_Normal_Chihuahua": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Chihuahua<END FC> ]---<P>A favorite pet of the rich, Chihuahuas are very energetic.<P>While the dog-loving community adore Chihuahuas, most find their incessant yapping highly irritating.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Τσιουάουα<END FC> ]---<P>Το αγαπημένο κατοικίδιο των πλουσίων, τα Τσιουάουα έχουν πολλή ενέργεια.<P>Ενώ η κοινότητα των φιλόζωων λατρεύει τα Τσιουάουα, οι περισσότεροι βρίσκουν το ακατάπαυστο γάβγισμά τους εξαιρετικά εκνευριστικό.<E>"
   },
   "HT_Text_Museum_PI05_Aka_Turtle": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Sea Turtle<END FC> ]---<P>The Sea Turtle is a solitary creature fond of the open ocean. Its large size is a result of its immense lifespan.<P>The oldest Sea Turtle to have been found was aged in excess of three centuries.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Θαλάσσια Χελώνα<END FC> ]---<P>Η Θαλάσσια Χελώνα είναι ένα μοναχικό πλάσμα που αγαπά τον ανοιχτό ωκεανό. Το μεγάλο της μέγεθος είναι αποτέλεσμα της τεράστιας ζωής της.<P>Η γηραιότερη Θαλάσσια Χελώνα που έχει βρεθεί ήταν ηλικίας άνω των τριών αιώνων.<E>"
   },
   "HT_Text_Museum_BM07_Squirt": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Squirt<END FC> ]---<P>The Squirt is a shy, easily frightened creature. The high value of the Squirt comes as a result of being immune to <FC 0,128,0>Capture Beetles<END FC>.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>Νιάνιαρο<END FC> ]---<P>Το Νιάνιαρο είναι ένα δειλό, εύκολα φοβισμένο πλάσμα. Η υψηλή αξία του Νιάνιαρου οφείλεται στο ότι έχει ανοσία στα <FC 0,128,0>Σκαθάρια Αιχμαλώτισης<END FC>.<E>"
   },
   "HT_Text_Museum_Name_BM09_Smiling_burble": {
-    "message": "A Smiling Burble! Uses its horns in a haphazard manner."
+    "message": "Μια Χαμογελαστή Φουσκάλα! Χρησιμοποιεί τα κέρατά της με απρόβλεπτο τρόπο."
   },
   "HT_Text_Museum_Name_BM10_i_Cyclops": {
-    "message": "A Cyclops! Cute looking but very mischievous."
+    "message": "Ένας Κύκλωπας! Φαίνεται χαριτωμένος αλλά είναι πολύ σκανδαλιάρης."
   },
   "HT_Text_Museum_Name_BM12_slim_burble": {
-    "message": "A Slim Burble! A quick breeder, and explosive too!"
+    "message": "Μια Λεπτή Φουσκάλα! Γεννά γρήγορα, και είναι και εκρηκτική!"
   },
   "HT_Text_Museum_Name_BR04_Goofy_Lizard": {
-    "message": "A Goofy Lizard! It’s a daft but friendly animal."
+    "message": "Μια Χαζή Σαύρα! Είναι ένα ανόητο αλλά φιλικό ζώο."
   },
   "HT_Text_Museum_Name_BR06_Half_Brute": {
-    "message": "A Half Brute! A shockingly aggressive monster."
+    "message": "Ένα Μισό Κτήνος! Ένα σοκαριστικά επιθετικό τέρας."
   },
   "HT_Text_Museum_Name_BU02_Skeletal_Axeman": {
-    "message": "A Skeletal Axeman! Lethal foot soldier from the dark side."
+    "message": "Ένας Σκελετικός Πολεμιστής! Είναι θανατηφόρος στρατιώτης από τη σκοτεινή πλευρά."
   },
   "HT_Text_Museum_Name_BU05_almost_a_bull": {
-    "message": "Almost-A-Bull! Uses its horns to violent effect."
+    "message": "Σχεδόν Ταύρος! Χρησιμοποιεί τα κέρατά του με βίαια αποτελέσματα."
   },
   "HT_Text_Museum_Name_BU06_MBird": {
-    "message": "A Mummy Bird! Bandages cover most of its feathers."
+    "message": "Ένα Πουλί Μούμια! Επίδεσμοι καλύπτουν τα περισσότερα φτερά του."
   },
   "HT_Text_Museum_Name_FL02_Featherless_Turkey": {
-    "message": "A Featherless Turkey! A bald bird with a grumpy attitude."
+    "message": "Μια Μαδημένη Γαλοπούλα! Ένα φαλακρό πουλί με γκρινιάρικη διάθεση."
   },
   "HT_Text_Museum_Name_FL03_shuttlecock_bird": {
-    "message": "A Shuttlecock Bird! One-legged with aerodynamic plumage."
+    "message": "Το Πουλί-Φτερό! Μονοπόδαρο με αεροδυναμικό φτέρωμα."
   },
   "HT_Text_Museum_Name_HD02_Cat": {
-    "message": "A Knives Cat! Not the friendliest feline around."
+    "message": "Μια Κοφτερή Γάτα! Όχι και το πιο φιλικό αιλουροειδές."
   },
   "HT_Text_Museum_Name_HD03_BigBull": {
-    "message": "A Big Bull! Partial to swinging his hammer around."
+    "message": "Ένας Μεγάλος Ταύρος! Του αρέσει να κουνάει το σφυρί του δεξιά-αριστερά."
   },
   "HT_Text_Museum_Name_HD14_Crab": {
-    "message": "A Crabhands! A biped with a grumpy temperament."
+    "message": "Ένας Καβουροχέρης! Ένα δίποδο με γκρινιάρικη ιδιοσυγκρασία."
   },
   "HT_Text_Museum_Name_HD17_Sharpbeak": {
-    "message": "A Sharpbeak! A rare specimen of this battling creature."
+    "message": "Ένας Οξύραμφος! Ένα σπάνιο δείγμα αυτού του πολεμικού είδους."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper": {
-    "message": "A Skull Worshipper! A powerful ally to the forces of evil."
+    "message": "Ένας Προσκυνητής Κρανίου! Ένας ισχυρός σύμμαχος των δυνάμεων του κακού."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "A Dark Worshipper! Rarely seen outside the shadows."
+    "message": "Ένας Σκοτεινός Προσκυνητής! Σπάνια εμφανίζεται έξω από τις σκιές."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "A Skull Swordsman! Skillful warriors with ghostly attacks. "
+    "message": "Ένας Ξιφομάχος Κρανίου! Επιδέξιοι πολεμιστές με επιθέσεις-φαντάσματα. "
   },
   "HT_Text_Museum_Name_IN01_Green_Giant_worm": {
-    "message": "Green Giant Worm! A big worm with big teeth."
+    "message": "Γιγαντιαίο Πράσινο Σκουλήκι! Ένα μεγάλο σκουλήκι με μεγάλα δόντια."
   },
   "HT_Text_Museum_Name_IN07_Blade_Scorpion": {
-    "message": "A Blade Scorpion! Fast and deadly with a stinging tail."
+    "message": "Ένας Σκορπιός Λεπίδα! Γρήγορος και θανατηφόρος με κεντρί στην ουρά."
   },
   "HT_Text_Museum_Name_IN09_Sak_Spike_Spider": {
-    "message": "A Spike Spider! Well known for dropping on their prey."
+    "message": "Μια Αράχνη με Ακίδες! Πασίγνωστη για το ότι πέφτει πάνω στη λεία της."
   },
   "HT_Text_Museum_Name_PI01_Piranha": {
-    "message": "A Piranha! Fast-eating carnivorous fish."
+    "message": "Ένα Πιράνχας! Σαρκοφάγο ψάρι που τρώει γρήγορα."
   },
   "HT_Text_Museum_Name_PI01_Hard_Piranha": {
-    "message": "An Exo-Piranha! Quick and deadly little fish."
+    "message": "Ένα Εξο-Πιράνχα! Γρήγορο και θανατηφόρο μικρό ψάρι."
   },
   "HT_Text_Museum_Name_PL02_Tree_Creature": {
-    "message": "A Tree Creature! Don’t seek shade under this tree!"
+    "message": "Ένα Δεντρόπλασμα! Μην αναζητήσετε σκιά κάτω από αυτό το δέντρο!"
   },
   "HT_Text_Museum_Name_PL04_Sunflower_With_Face": {
-    "message": "A Sunflower! A dangerous spore-firing plant."
+    "message": "Ένα Ηλιοτρόπιο! Ένα επικίνδυνο φυτό που εκτοξεύει σπόρους."
   },
   "HT_Text_Museum_Name_QC01_Pokemon": {
-    "message": "A Shell Critter! A timid little shelled reptile."
+    "message": "Ένα Οστρακόζωο! Ένα δειλό μικρό ερπετό με καβούκι."
   },
   "HT_Text_Museum_Name_QR04_Sak_Nose_Needler": {
-    "message": "A Nose Needler! A feisty subterranean mammal."
+    "message": "Ένας Προβοκάτορας! Ένα ζωηρό θηλαστικό που ζει υπόγεια."
   },
   "HT_Text_Museum_Name_QU01_Skeletal_Spider": {
-    "message": "A Skeletal Spider! Head butts enemies into submission. "
+    "message": "Μια Σκελετική Αράχνη! Κουτουλά τους εχθρούς μέχρι να υποταχθούν. "
   },
   "HT_Text_Museum_Name_QU04_Mummy_Chihuahua": {
-    "message": "A Mummy Chihuahua! A pet that’s now undead."
+    "message": "Ένα Τσιουάουα Μούμια! Ένα κατοικίδιο που είναι πλέον απέθαντο."
   },
   "HT_Text_Museum_Name_QU04_Normal_Chihuahua": {
-    "message": "A Chihuahua! A popular pet amongst the rich."
+    "message": "Ένα Τσιουάουα! Ένα δημοφιλές κατοικίδιο των πλουσίων."
   },
   "HT_Text_Museum_Name_QU05_skeletal_waspspider": {
-    "message": "A Wasp Spider! Known for its nasty sting."
+    "message": "Μια Αράχνη Σφήκα! Γνωστή για το οδυνηρό κεντρί της."
   },
   "HT_Text_Museum_Name_QU06_Mummy_Worm": {
-    "message": "A Mummy Worm! Spits fireballs to ward off attackers."
+    "message": "Ένα Σκουλήκι Μούμια! Εκτοξεύει πύρινες σφαίρες για να διώξει τους επιτιθέμενους."
   },
   "HT_Text_Museum_Name_QU09_Rat": {
-    "message": "A Rat! A dirty creature that scuttles around."
+    "message": "Ένας Αρουραίος! Ένα βρώμικο πλάσμα που τρέχει εδώ κι εκεί."
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "An Electric Armadillo! The most shocking of its species."
+    "message": "Ένα Ηλεκτρικό Αρμαντίλλο! Το πιο «σοκαριστικό» του είδους του."
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Fire": {
-    "message": "A Fire Armadillo! Spins around with scorching results."
+    "message": "Ένα Αρμαντίλλο της Φωτιάς! Περιστρέφεται με καυτά αποτελέσματα."
   },
   "HT_Text_Museum_Name_QR01_Cobra": {
-    "message": "A Cobra! A hooded snake with a venomous bite."
+    "message": "Μια Κόμπρα! Ένα φίδι με δηλητηριώδες δάγκωμα."
   },
   "HT_Text_Museum_Name_QR03_Small_Frog": {
-    "message": "A Small Frog! It’s certainly small, but also toxic."
+    "message": "Ένας Μικρός Βάτραχος! Είναι σίγουρα μικρός, αλλά και τοξικός."
   },
   "HT_Text_Museum_Name_Jewel01": {
-    "message": "Jewel of Shu"
+    "message": "Κόσμημα του Σου"
   },
   "HT_Text_Museum_Name_Jewel02": {
-    "message": "Jewel of Memphis"
+    "message": "Κόσμημα της Μέμφιδος"
   },
   "HT_Text_Museum_Name_Jewel03": {
-    "message": "Jewel of Edfu"
+    "message": "Κόσμημα της Εντφού"
   },
   "HT_Text_Museum_Name_Jewel04": {
-    "message": "Jewel of Wedjat"
+    "message": "Κόσμημα του Ουτζάτ"
   },
   "HT_Text_Museum_Name_Jewel05": {
-    "message": "Jewel of Uraeus"
+    "message": "Κόσμημα του Ουραίου"
   },
   "HT_Text_Museum_Name_Jewel06": {
-    "message": "Jewel of Weni"
+    "message": "Κόσμημα του Ουένι"
   },
   "HT_Text_Gen_Help_GotAbyCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Abydos<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Ιερό Στέμμα της Αβύδου<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotSakCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Uruk<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Ιερό Στέμμα της Ουρούκ<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHelCrown": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Ιερό Στέμμα της Ηλιούπολης<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNoteFirst": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A new note has been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>To view the <FC 0,128,0>Book of Sphinx<END FC><N>press <SB HT_PadAction_BOS_Show><P><ES HT_Text_ES_S_HelpText><CNTR>The <FC 0,128,0>Notes<END FC> section contains<N>important information about your quest.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Μια νέα σημείωση προστέθηκε στο<N><FC 0,128,0>Βιβλίο του Σφιγξ<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Για να δεις το <FC 0,128,0>Βιβλίο του Σφιγξ<END FC><N>πάτησε <SB HT_PadAction_BOS_Show><P><ES HT_Text_ES_S_HelpText><CNTR>Η ενότητα <FC 0,128,0>Σημειώσεις<END FC> περιέχει<N>σημαντικές πληροφορίες για την αποστολή σου.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNote": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A new note has been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Μια νέα σημείωση προστέθηκε στο<N><FC 0,128,0>Βιβλίο του Σφιγξ<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NewNotes": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>New notes have been added to<N>the <FC 0,128,0>Book of Sphinx<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Νέες σημειώσεις προστέθηκαν στο<N><FC 0,128,0>Βιβλίο του Σφιγξ<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter2Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Atun Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the second <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τα αντικείμενα που συνέλεξε η Μούμια<N>στο <FC 128,64,0>Κάστρο της Ουρούκ<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Άγαλμα του Ατούμ<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Αυτό το χρυσό ομοίωμα λέγεται ότι έχει μαγικές δυνάμεις.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το δεύτερο <FC 0,128,0>Κλεμμένο Κόσμημα της Αβύδου<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Οι έφοροι του <FC 128,64,0>Μουσείου της Αβύδου<END FC><N>θα χαρούν πολύ να το δουν.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter3Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Medicine Bag<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This specially lined bag will preserve any<N>delicate medicinal ingredients placed inside.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the third <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τα αντικείμενα που συνέλεξε η Μούμια<N>στο <FC 128,64,0>Κάστρο της Ουρούκ<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Σάκο Φαρμάκων<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Αυτός ο ειδικά επενδυμένος σάκος θα διατηρήσει κάθε<N>ευαίσθητο φαρμακευτικό συστατικό που τοποθετείται μέσα.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το τρίτο <FC 0,128,0>Κλεμμένο Κόσμημα της Αβύδου<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Οι έφοροι του <FC 128,64,0>Μουσείου της Αβύδου<END FC><N>θα χαρούν πολύ να το δουν.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter4Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Hands of Amun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This artifact gives Sphinx the strength to<N>push and pull extremely heavy objects.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the fourth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τα αντικείμενα που συνέλεξε η Μούμια<N>στο <FC 128,64,0>Κάστρο της Ουρούκ<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τα <FC 0,128,0>Χέρια του Άμωνος<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτό το κειμήλιο δίνει στον Σφιγξ τη δύναμη να<N>σπρώχνει και να τραβάει εξαιρετικά βαριά αντικείμενα.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το τέταρτο <FC 0,128,0>Κλεμμένο Κόσμημα της Αβύδου<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Οι έφοροι του <FC 128,64,0>Μουσείου της Αβύδου<END FC><N>θα χαρούν πολύ να το δουν.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter5Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Royal Invitation<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This official document invites you to<N>meet with the Pharaoh of <FC 128,64,0>Heliopolis<END FC>.<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the fifth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τα αντικείμενα που συνέλεξε η Μούμια<N>στο <FC 128,64,0>Κάστρο της Ουρούκ<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τη <FC 0,128,0>Βασιλική Πρόσκληση<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτό το επίσημο έγγραφο σας καλεί να<N>συναντηθείτε με τον Φαραώ της <FC 128,64,0>Ηλιούπολης<END FC>.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το πέμπτο <FC 0,128,0>Κλεμμένο Κόσμημα της Αβύδου<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Οι έφοροι του <FC 128,64,0>Μουσείου της Αβύδου<END FC><N>θα χαρούν πολύ να το δουν.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotChapter6Items": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the items that the Mummy<N>collected in the <FC 128,64,0>Castle of Uruk<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Sacred Crown of Set<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>You got the sixth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The curators of <FC 128,64,0>Abydos Museum<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τα αντικείμενα που συνέλεξε η Μούμια<N>στο <FC 128,64,0>Κάστρο της Ουρούκ<END FC>...<P><ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Ιερό Στέμμα του Σετ<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Πήρες το έκτο <FC 0,128,0>Κλεμμένο Κόσμημα της Αβύδου<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Οι έφοροι του <FC 128,64,0>Μουσείου της Αβύδου<END FC><N>θα χαρούν πολύ να το δουν.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_AtunDisc": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This is an ancient <FC 0,128,0>Atun Disc<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It is a magical point which, when passed over, imbues a mysterious energy that enables you to run at very high speed.<P><ES HT_Text_ES_S_HelpText><CNTR>Unfortunately the effect is only temporary but they should prove invaluable for getting around <FC 128,64,0>Heliopolis<END FC> more efficiently.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Αυτός είναι ένας αρχαίος <FC 0,128,0>Δίσκος του Ατούμ<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Είναι ένα μαγικό σημείο το οποίο, όταν περνάς από πάνω του, σου προσφέρει μια μυστηριώδη ενέργεια που σου επιτρέπει να τρέχεις με πολύ μεγάλη ταχύτητα.<P><ES HT_Text_ES_S_HelpText><CNTR>Δυστυχώς η ικανότητα είναι προσωρινή, αλλά θα αποδειχθεί πολύτιμη για να μετακινείσαι στην <FC 128,64,0>Ηλιούπολη<END FC> πιο αποτελεσματικά.<E>"
   },
   "HT_Text_Gen_Help_GotAtunEye": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found an <FC 0,128,0>Atun Eye<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It looks like it would fit into the eye<N>socket of a statue of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες ένα <FC 0,128,0>Μάτι του Ατούμ<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Φαίνεται να ταιριάζει στην κόγχη κάποιου αγάλματος.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAtunEyes04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>4 Atun Eyes<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>They look like they would fit into the eye<N>sockets of a statue of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες <FC 0,128,0>4 Μάτια του Ατούμ<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Φαίνεται να ταιριάζουν στις κόγχες κάποιου αγάλματος.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotDoubleJump": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Wings of Ibis<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>With this magical artifact, Sphinx can<N>perform a second jump to reach greater<N>heights and longer distances!<P><CNTR><ES HT_Text_ES_S_HelpText>Press <SB HT_Action_Jump> to jump,<N>then press <SB HT_Action_Jump> again in mid air<N>to <FC 0,128,0>SOMERSAULT<END FC>.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τα <FC 0,128,0>Φτερά της Ίβιδος<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Με αυτό το μαγικό κειμήλιο, ο Σφιγξ μπορεί να<N>κάνει ένα δεύτερο άλμα για να φτάσει σε μεγαλύτερα<N>ύψη και μακρινότερες αποστάσεις!<P><CNTR><ES HT_Text_ES_S_HelpText>Πάτησε <SB HT_Action_Jump> για άλμα,<N>μετά πάτησε <SB HT_Action_Jump> ξανά στον αέρα<N>για να κάνεις <FC 0,128,0>ΤΟΥΜΠΑ<END FC>.<E>"
   },
   "HT_Text_Gen_Help_GotShieldOfOsiris": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Shield of Osiris<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This magical shield was used in battle<N>by the great god Osiris himself.<P><ES HT_Text_ES_S_HelpText><CNTR>You can use the shield to protect yourself from<N>many types of enemy attacks and other hazards.<P><ES HT_Text_ES_S_HelpText><CNTR>To equip the <FC 0,128,0>Shield of Osiris<END FC> use <N><SB HT_PadAction_HUD_ShowRotator> to select the item...<P><ES HT_Text_ES_S_HelpText><CNTR>...then press the button you<N>want to assign the item to.<P><CNTR><ES HT_Text_ES_S_HelpText>Once assigned press and hold the<N>appropriate button to defend yourself.<P><ES HT_Text_ES_S_HelpText><CNTR>While defending yourself, use<N><SB HT_PadAction_PLR_MovePlr> to aim the shield.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες την <FC 0,128,0>Ασπίδα του Οσίριδος<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτή η μαγική ασπίδα χρησιμοποιήθηκε στη μάχη<N>από τον ίδιο τον μέγα θεό Όσιρι.<P><ES HT_Text_ES_S_HelpText><CNTR>Μπορείς να χρησιμοποιήσεις την ασπίδα για να προστατευτείς από<N>πολλούς τύπους εχθρικών επιθέσεων και άλλους κινδύνους.<P><ES HT_Text_ES_S_HelpText><CNTR>Για να χρησιμοποιήσεις την <FC 0,128,0>Ασπίδα του Οσίριδος<END FC> χρησιμοποίησε το <N><SB HT_PadAction_HUD_ShowRotator> για να επιλέξεις το αντικείμενο...<P><ES HT_Text_ES_S_HelpText><CNTR>...μετά πάτησε το κουμπί που<N>θέλεις να αναθέσεις στο αντικείμενο.<P><CNTR><ES HT_Text_ES_S_HelpText>Μόλις το αναθέσεις, πάτησε παρατεταμένα το<N>κατάλληλο κουμπί για να αμυνθείς.<P><ES HT_Text_ES_S_HelpText><CNTR>Ενώ αμύνεσαι, χρησιμοποίησε το<N><SB HT_PadAction_PLR_MovePlr> για να κατευθύνεις την ασπίδα.<E>"
   },
   "HT_Text_Gen_Help_GotBlowpipe": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The magical darts fired from this powerful tool,<N>regenerate giving you an infinite supply.<P><ES HT_Text_ES_S_HelpText><CNTR>The darts can be used to hit remote targets but they<N>are only powerful enough to damage explosive monsters.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> to assign the <FC 0,128,0>Blowpipe<END FC> to a button.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the <FC 0,128,0>Blowpipe<END FC> is assigned, press<N>the button to enter first person mode.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_FireDart> to fire.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Cancel> to exit<N>from <FC 0,128,0>Blowpipe<END FC> mode.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Φυσοκάλαμο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα μαγικά βέλη που εκτοξεύονται από αυτό το ισχυρό εργαλείο,<N>αναγεννώνται δίνοντάς σας άπειρο απόθεμα.<P><ES HT_Text_ES_S_HelpText><CNTR>Τα βέλη μπορούν να χρησιμοποιηθούν για να πετύχετε απομακρυσμένους στόχους αλλά είναι<N>αρκετά ισχυρά για να βλάψουν μόνο εκρηκτικά τέρατα.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Χρησιμοποίησε το <SB HT_PadAction_HUD_ShowRotator> για να αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC> σε ένα κουμπί.<P><ES HT_Text_ES_S_HelpText><CNTR>Μόλις αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC>, πάτησε<N>το κουμπί για να μπείς σε λειτουργία πρώτου προσώπου.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_FireDart> για εκτόξευση.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_Cancel> για έξοδο<N>από τη λειτουργία του <FC 0,128,0>Φυσοκαλάμου<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Hands Of Amun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This artifact gives Sphinx the strength to<N>push and pull extremely heavy objects.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τα <FC 0,128,0>Χέρια του Άμωνος<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτό το κειμήλιο δίνει στον Σφιγξ τη δύναμη να<N>σπρώχνει και να τραβάει εξαιρετικά βαριά αντικείμενα.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotMummyCash": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0><SO HT_Objective_Mum_CashCollected> Onyx Scarabs<END FC> that<N>the Mummy collected in the <FC 128,64,0>Castle of Uruk<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τους <FC 0,128,0><SO HT_Objective_Mum_CashCollected> Σκαραβαίους Όνυχος<END FC> που<N>συνέλεξε η Μούμια στο <FC 128,64,0>Κάστρο της Ουρούκ<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetlePouch": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Beetle Pouch<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This pouch enables you to carry up to<N><FC 0,128,0>20 Capture Beetles<END FC>, which can be used<N>to capture many different kinds of monster.<P><ES HT_Text_ES_S_HelpText><CNTR>To capture a monster, you must first attack it until<N>it becomes vulnerable to capture. When this is the case,<N>it will flash yellow in color.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the monster is vulnerable, release a capture beetle. Guide the beetle into the monster using <SB HT_PadAction_PLR_MoveBeetle>.<P><ES HT_Text_ES_S_HelpText><CNTR>When the beetle collides with the monster it will be captured and added to your inventory!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Πουγκί Σκαθαριών<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτή το πουγκί σου επιτρέπει να κουβαλάς έως και<N><FC 0,128,0>20 Σκαθάρια Αιχμαλώτισης<END FC>, που μπορούν να χρησιμοποιηθούν<N>για την αιχμαλώτιση πολλών διαφορετικών ειδών τεράτων.<P><ES HT_Text_ES_S_HelpText><CNTR>Για να πιάσεις ένα τέρας, πρέπει πρώτα να του επιτεθείς μέχρι<N>να γίνει ευάλωτο στην αιχμαλώτιση. Σε αυτή την περίπτωση,<N>θα περιβάλλεται από κίτρινο χρώμα.<P><ES HT_Text_ES_S_HelpText><CNTR>Μόλις το τέρας γίνει ευάλωτο, απελευθέρωσε ένα σκαθάρι αιχμαλώτισης. Καθοδήγησε το σκαθάρι προς το τέρας χρησιμοποιώντας το <SB HT_PadAction_PLR_MoveBeetle>.<P><ES HT_Text_ES_S_HelpText><CNTR>Όταν το σκαθάρι αγγίξει το τέρας, αυτό θα αιχμαλωτιστεί και θα προστεθεί στο συλλογή σου!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotScarabPurseUpgrade01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Large Scarab Bag<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can now carry up to <FC 0,128,0>900 Scarabs<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τον <FC 0,128,0>Μεγάλο Σάκο Σκαραβαίων<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Μπορείς τώρα να κουβαλάς έως και <FC 0,128,0>900 Σκαραβαίους<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetleSatchel": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Beetle Satchel<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can now carry up to 50 Capture Beetles!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Σάκο Σκαθαριών<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Μπορείς τώρα να κουβαλάς έως και 50 Σκαθάρια Αιχμαλώτισης!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotDartBelt": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Dart Belt<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can now carry up to 50 darts of each type!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τη <FC 0,128,0>Ζώνη για Βέλη<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Μπορείς τώρα να κουβαλάς έως και 50 βέλη από κάθε τύπο!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAnkhPiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Collect four of these and a person with the right<N>skills will be able to increase your health capacity.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Κομμάτι Χρυσού Ανκχ<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Σύλλεξε τέσσερα από αυτά και κάποιος με τις κατάλληλες<N>ικανότητες θα μπορέσει να αυξήσει τη ζωή σου.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAnkhContainer": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Gold Ankh<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This magic artifact has increased your health capacity<N>by <FC 0,128,0>1 Ankh<END FC> and has fully replenished your health!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Χρυσό Ανκχ<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτό το μαγικό κειμήλιο αύξησε τη ζωή σου <N>κατά <FC 0,128,0>1 Ανκχ<END FC> και την γέμισε πλήρως!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_Got100Scarabs": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>100 Gold Scarabs<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Don't spend them all at once!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες <FC 0,128,0>100 Χρυσούς Σκαραβαίους<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Μην τους ξοδέψεις όλους με τη μία!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotIceDarts": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got some <FC 0,128,0>Ice Darts<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>These magical darts can be used<N>to freeze certain types of monster.<P><ES HT_Text_ES_S_HelpText><CNTR>Once a monster is frozen, you can push or pick up<N>the block of ice depending on its size.<P><ES HT_Text_ES_S_HelpText><CNTR>You can also stand on top of the block of ice<N>to reach an otherwise inaccessible area.<P><ES HT_Text_ES_S_HelpText><CNTR>Alternatively, you can shatter the block<N>by hitting it with your blade.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες μερικά <FC 0,128,0>Βέλη Πάγου<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτά τα μαγικά βέλη μπορούν να χρησιμοποιηθούν<N>για να παγώσουν ορισμένους τύπους τεράτων.<P><ES HT_Text_ES_S_HelpText><CNTR>Μόλις ένα τέρας παγώσει, μπορείς να σπρώξεις ή να σηκώσεις<N>το κομμάτι πάγου ανάλογα με το μέγεθός του.<P><ES HT_Text_ES_S_HelpText><CNTR>Μπορείς επίσης να σταθείς πάνω στο κομμάτι πάγου<N>για να φτάσεις σε μια κατά τα άλλα απρόσιτη περιοχή.<P><ES HT_Text_ES_S_HelpText><CNTR>Εναλλακτικά, μπορείς να θρυμματίσεις το κομμάτι<N>χτυπώντας το με το ξίφος σου.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAcidDarts": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got some <FC 0,128,0>Acid Darts<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>These magically corrosive darts can be used to dissolve certain metal chains!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες μερικά <FC 0,128,0>Βέλη Οξέος<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Αυτά τα μαγικά διαβρωτικά βέλη μπορούν να χρησιμοποιηθούν για να διαλύσουν ορισμένες μεταλλικές αλυσίδες!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHippyItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Parasol<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This looks perfect for providing shade<N>on hot sunny days.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Παρασόλ<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Φαίνεται τέλειο για να παρέχει σκιά<N>τις ζεστές ηλιόλουστες μέρες.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotBeetleBreederItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Beetle Breeding Jar<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>The Beetle Breeder in the <FC 128,64,0>Bedouin Outpost<END FC><N>will be very pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Βάζο Εκτροφής Σκαθαριών<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ο Εκτροφέας Σκαθαριών στον <FC 128,64,0>Καταυλισμό των Βεδουίνων<END FC><N>θα χαρεί πολύ να το δει.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotUnderwaterProjectile": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Underwater Projectiles<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>You can use these to hit targets and<N>certain monsters while swimming underwater!<P><ES HT_Text_ES_S_HelpText><CNTR>Simply press <SB HT_Action_UnderwaterAttack> while underwater<N>to fire a projectile in the direction you are facing.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τα <FC 0,128,0>Υποβρύχια Βέλη<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Μπορείς να τα χρησιμοποιήσεις για να πετύχεις στόχους και<N>ορισμένα τέρατα ενώ κολυμπάς κάτω από το νερό!<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε απλά<SB HT_Action_UnderwaterAttack> ενώ είσαι κάτω από το νερό<N>για να εκτοξεύσεις ένα βέλος προς την κατεύθυνση που κοιτάς.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotFastSwim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Crocodile Scales<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This ancient artifact allows you to<N>swim under water at great speed!<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_SwimFast> while under water<N>to swim with gusto!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τις <FC 0,128,0>Φολίδες Κροκοδείλου<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτό το αρχαίο κειμήλιο σου επιτρέπει να<N>κολυμπάς κάτω από το νερό με μεγάλη ταχύτητα!<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_SwimFast> ενώ είσαι κάτω από το νερό<N>για να κολυμπήσεις με ορμή!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundGoldKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Gold Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες ένα <FC 0,128,0>Χρυσό Κλειδί<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundGlyphKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Glyph Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες ένα <FC 0,128,0>Ανάγλυφο Κλειδί<END FC>!<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundCanopicVase": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Canopic Vase<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Part of the soul of Tutankhamen<N>is stored inside.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Κανωπικό Αγγείο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Μέρος της ψυχής του Τουταγχαμών<N>είναι αποθηκευμένο μέσα.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_FoundRosettaStonePiece": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Rosetta Stone Piece<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The Archeologist will be very interested in this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες ένα <FC 0,128,0>Κομμάτι της Στήλης της Ροζέτας<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ο Αρχαιολόγος θα δείξει ιδιαίτερο ενδιαφέρον.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>South Desert Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This opens a gate leading to<N>the <FC 128,64,0>South Desert of Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Κλειδί της Νότιας Ερήμου<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτό ανοίγει μια πύλη που οδηγεί<N>στη <FC 128,64,0>Νότια Έρημο της Ηλιούπολης<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Obelisk Gate Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This opens a gate leading to<N>the <FC 128,64,0>Great Obelisk of Heliopolis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Κλειδί του Οβελίσκου<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτό ανοίγει μια πύλη που οδηγεί<N>στον <FC 128,64,0>Μεγάλο Οβελίσκο της Ηλιούπολης<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHeliopolisGateKey03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Cave Door Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This opens a stone door in a cave between<N><FC 128,64,0>Heliopolis Point<END FC> and <FC 128,64,0>South Beach<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Κλειδί της Σπηλιάς<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτό ανοίγει μια πέτρινη πόρτα σε μια σπηλιά μεταξύ του<N><FC 128,64,0>Συνόρου της Ηλιούπολης<END FC> και της <FC 128,64,0>Νότιας Παραλίας<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPhysiciansNote": {
-    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Physician's Note<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>It is addressed to Kemmet the Inventor<N>who lives in <FC 128,64,0>Abydos Canal<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<EFF><EPO><ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Σημείωμα του Γιατρού<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Απευθύνεται στον Κεμμέτ τον Εφευρέτη<N>που ζει στο <FC 128,64,0>Κανάλι της Αβύδου<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHealingHerb": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Healing Herb<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>The Physician in <FC 128,64,0>Abydos Council Chambers<END FC><N>will be most pleased to see this.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Θεραπευτικό Βότανο<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Ο Γιατρός στην <FC 128,64,0>Αίθουσα του Συμβουλίου της Αβύδου<END FC><N>θα χαρεί πολύ να το δει.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotAtunStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Atun Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Άγαλμα του Ατούμ<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Αυτό το χρυσό ομοίωμα λέγεται ότι έχει μαγικές δυνάμεις.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHathorStatue": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Hathor Statue<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This golden effigy is said to have magical powers.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Άγαλμα της Άθωρ<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Αυτό το χρυσό ομοίωμα λέγεται ότι έχει μαγικές δυνάμεις.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotMedicineBag": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Medicine Bag<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>This specially lined bag will preserve any<N>delicate medicinal ingredients placed inside.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τον <FC 0,128,0>Σάκο Φαρμάκων<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Αυτός ο ειδικά επενδυμένος σάκος θα διατηρήσει κάθε<N>ευαίσθητο φαρμακευτικό συστατικό που τοποθετείται μέσα.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotEagleStone": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Eagle Stone<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>This charmed stone allows you to summon<N>a Great Eagle when stood on special points.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες την <FC 0,128,0>Πέτρα Αετού<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτή η μαγεμένη πέτρα σου επιτρέπει να καλείς<N>έναν Μεγάλο Αετό όταν στέκεσαι σε ειδικά σημεία.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotWallSection2Key": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Great Wall Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Κλειδί του Μεγάλου Τείχους<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotWallSection3Key": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Great Wall Key<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Κλειδί του Μεγάλου Τείχους<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NoBookOfDead": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Without the <FC 0,128,0>Book of the Dead<END FC> you are unable to summon Bas-Ket to transport the <FC 0,128,0>Canopic Vase<END FC> to the Mummy.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Χωρίς το <FC 0,128,0>Βιβλίο των Νεκρών<END FC> δεν μπορείς να καλέσεις τον Καλ-Άθι για να μεταφέρεις το <FC 0,128,0>Κανωπικό Αγγείο<END FC> στη Μούμια.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_NoHandsOfAmun": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>This object is much too heavy for you to move.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Αυτό το αντικείμενο είναι πολύ βαρύ για να το μετακινήσεις.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>There is a recess for an item of some kind.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Υπάρχει μια εσοχή για κάποιο αντικείμενο.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A <FC 0,128,0>key<END FC> is needed to activate this device.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Απαιτείται ένα <FC 0,128,0>κλειδί<END FC> για την ενεργοποίηση αυτής της συσκευής.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>An image of a large bird is painted on this structure.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Η εικόνα ενός μεγάλου πουλιού είναι ζωγραφισμένη σε αυτήν την κατασκευή.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem04": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The eye socket of this stone statue is empty.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Η κόγχη αυτού του πέτρινου αγάλματος είναι άδεια.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>That item cannot be used here.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Αυτό το αντικείμενο δεν μπορεί να χρησιμοποιηθεί εδώ.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>That key doesn't fit.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Αυτό το κλειδί δεν ταιριάζει.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_InvalidItem03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>That <FC 0,128,0>Curse Stone<END FC> is the wrong color.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Αυτή η <FC 0,128,0>Καταραμένη Πέτρα<END FC> έχει λάθος χρώμα.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>2 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες <FC 0,128,0>2 Καταραμένες Πέτρες<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Κάθε μαγική πέτρα έχει τη δύναμη να λύνει την κατάρα<N><CNTR>από έναν κάτοικο του <FC 128,64,0>Καταραμένου Παλατιού<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>2 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες <FC 0,128,0>2 Καταραμένες Πέτρες<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Κάθε μαγική πέτρα έχει τη δύναμη να λύνει την κατάρα<N><CNTR>από έναν κάτοικο του <FC 128,64,0>Καταραμένου Παλατιού<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotCurseStones03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got <FC 0,128,0>3 Curse Stones<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Each magic stone has the power to lift the curse<N><CNTR>from one inhabitant of the <FC 128,64,0>Cursed Palace<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες <FC 0,128,0>3 Καταραμένες Πέτρες<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Κάθε μαγική πέτρα έχει τη δύναμη να λύνει την κατάρα<N><CNTR>από έναν κάτοικο του <FC 128,64,0>Καταραμένου Παλατιού<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got a <FC 0,128,0>Mysterious Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The strange symbols on this ancient artifact<N>indicate transport to a mysterious location.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Μυστηριώδες Φυλαχτό<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα παράξενα σύμβολα σε αυτό το αρχαίο κειμήλιο<N>υποδεικνύουν μεταφορά σε μια μυστηριώδη τοποθεσία.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Abydos Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The oceanic symbols on this ancient<N>artifact indicate transport to Abydos.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Φυλαχτό της Αβύδου<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα θαλάσσια σύμβολα σε αυτό το αρχαίο<N>κειμήλιο υποδεικνύουν μεταφορά στην Άβυδο.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Heliopolis Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The sand etched symbols on this ancient <N>artifact indicate transport to Heliopolis.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Φυλαχτό της Ηλιούπολης<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα σύμβολα χαραγμένα στην άμμο σε αυτό το αρχαίο<N>κειμήλιο υποδεικνύουν μεταφορά στην Ηλιούπολη.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotPortalAmuletDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Anubis Amulet<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The symbols on this ancient artifact<N>indicate transport to Anubis Tower.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Φυλαχτό του Ανούβιδος<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα σύμβολα σε αυτό το αρχαίο κειμήλιο<N>υποδεικνύουν μεταφορά στον Πύργο του Ανούβιδος.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_Portal_HaveAmulet": {
-    "message": "Show me your <FC 0,128,0>Portal Amulet<END FC>, small one, and I shall open the gates to your destiny.<E>"
+    "message": "Δείξε μου το <FC 0,128,0>Φυλακτό Πύλης<END FC> σου, και θα ανοίξω τις πύλες για το πεπρωμένο σου.<E>"
   },
   "HT_Text_Gen_Help_Portal_NoAmulet": {
-    "message": "Why do you summon me, strange creature? Without a <FC 0,128,0>Portal Amulet<END FC> I cannot allow you to pass.<E>"
+    "message": "Γιατί με καλείς, παράξενο πλάσμα; Χωρίς ένα <FC 0,128,0>Φυλαχτό Πύλης<END FC> δεν μπορώ να σου επιτρέψω να περάσεις.<E>"
   },
   "HT_Text_Gen_Help_Portal_AlreadyHere": {
-    "message": "What foolishness do you request of me? You are already here.<E>"
+    "message": "Τι ανοησίες μου ζητάς; Είσαι ήδη εδώ.<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to a <FC 128,64,0>Mysterious Location<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ο Θεός της Πύλης δέχεται την προσφορά σου και<N>θα παράσχει μεταφορά σε μια <FC 128,64,0>Μυστηριώδη Τοποθεσία<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Abydos<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ο Θεός της Πύλης δέχεται την προσφορά σου και<N>θα παράσχει μεταφορά στην <FC 128,64,0>Άβυδο<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedAkaria01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Akaria<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ο Θεός της Πύλης δέχεται την προσφορά σου και<N>θα παράσχει μεταφορά στην <FC 128,64,0>Ακάρια<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Heliopolis<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ο Θεός της Πύλης δέχεται την προσφορά σου και<N>θα παράσχει μεταφορά στην <FC 128,64,0>Ηλιούπολη<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedSakkara01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to <FC 128,64,0>Sakkara<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ο Θεός της Πύλης δέχεται την προσφορά σου και θα παράσχει μεταφορά στη <FC 128,64,0>Σακκάρα<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedUruk01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to the <FC 128,64,0>Castle of Uruk<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ο Θεός της Πύλης δέχεται την προσφορά σου και θα παράσχει μεταφορά στο <FC 128,64,0>Κάστρο της Ουρούκ<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God acknowledges your offering and<N>will provide transport to <FC 128,64,0>Anubis Tower<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ο Θεός της Πύλης δέχεται την προσφορά σου και<N>θα παράσχει μεταφορά στον <FC 128,64,0>Πύργο του Ανούβιδος<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletAcceptedDarkArea03": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God acknowledges your offering and will provide transport to <FC 128,64,0>Uruk Valley<END FC>...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ο Θεός της Πύλης δέχεται την προσφορά σου και θα παράσχει μεταφορά στην <FC 128,64,0>Κοιλάδα της Ουρούκ<END FC>...<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedLuxor01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in a <FC 128,64,0>Mysterious Location<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ο Θεός της Πύλης διασκεδάζει με την ανοησία σου.<N>Βρίσκεσαι ήδη σε μια <FC 128,64,0>Μυστηριώδη Τοποθεσία<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedAbydos01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in <FC 128,64,0>Abydos<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ο Θεός της Πύλης διασκεδάζει με την ανοησία σου.<N>Βρίσκεσαι ήδη στην <FC 128,64,0>Άβυδο<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedHeliopolis01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in <FC 128,64,0>Heliopolis<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ο Θεός της Πύλης διασκεδάζει με την ανοησία σου.<N>Βρίσκεσαι ήδη στην <FC 128,64,0>Ηλιούπολη<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDeniedDarkArea01": {
-    "message": "<ES HT_Text_ES_S_HelpText><CNTR>The Portal God is amused at your foolishness.<N>You are already in <FC 128,64,0>Anubis Tower<END FC>!<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><CNTR>Ο Θεός της Πύλης διασκεδάζει με την ανοησία σου.<N>Βρίσκεσαι ήδη στον <FC 128,64,0>Πύργο του Ανούβιδος<END FC>!<E>"
   },
   "HT_Text_Gen_Help_Portal_AmuletDenied01": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>The Portal God will not allow you to pass at this time...<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ο Θεός της Πύλης δεν θα σου επιτρέψει να περάσεις αυτή τη στιγμή...<E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem05": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>A <FC 0,128,0>Key<END FC> is needed to open this door.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Απαιτείται ένα <FC 0,128,0>Κλειδί<END FC> για να ανοίξει αυτή η πόρτα.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Sewer_King_Challenge1": {
-    "message": "Light all of these torches around me and I will give you this ancient artifact. Be careful though; it's just as easy to extinguish them as it is to light them.<E>"
+    "message": "Άναψε όλες αυτές τις δάδες γύρω μου και θα σου δώσω αυτό το αρχαίο κειμήλιο. Πρόσεχε όμως. Είναι εξίσου εύκολο να τις σβήσεις όσο και να τις ανάψεις.<E>"
   },
   "HT_Text_Mum_Chapter1_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Wings of Ibis<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες τα <FC 0,128,0>Φτερά της Ίβιδος<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter2_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Atun Statue<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες το <FC 0,128,0>Άγαλμα του Ατούμ<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter3_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Medicine Bag<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες το <FC 0,128,0>Σάκο Φαρμάκων<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter4_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Hands of Amun<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες τα <FC 0,128,0>Χέρια του Άμωνος<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter5_FoundQuestItem": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the <FC 0,128,0>Royal Invitation<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες τη <FC 0,128,0>Βασιλική Πρόσκληση<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter1_FoundJewel1": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the first <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><W 90>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες το πρώτο <FC 0,128,0>Κλεμμένο Κόσμημα της Αβύδου<END FC>!<ES HT_Text_ES_E_HelpText><W 90>"
   },
   "HT_Text_Mum_Chapter2_FoundJewel2": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the second <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες το δεύτερο <FC 0,128,0>Κλεμμένο Κόσμημα της Αβύδου<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter3_FoundJewel3": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the third <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες το τρίτο <FC 0,128,0>Κλεμμένο Κόσμημα της Αβύδου<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter4_FoundJewel4": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the fourth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες το τέταρτο <FC 0,128,0>Κλεμμένο Κόσμημα της Αβύδου<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter5_FoundJewel5": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the fifth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες το πέμπτο <FC 0,128,0>Κλεμμένο Κόσμημα της Αβύδου<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Chapter6_FoundJewel6": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found the sixth <FC 0,128,0>Stolen Abydos Jewel<END FC>!<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες το έκτο <FC 0,128,0>Κλεμμένο Κόσμημα της Αβύδου<END FC>!<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Aby_Canal_GotStairsKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Stairs Key<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Use it to open the stairs to the well area balcony.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Κλειδί της Σκάλας<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Χρησιμοποίησε το για να ανοίξεις τις σκάλες στο προαύλιο με το πηγάδι.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotZipHandle": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Zip Line Handle<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>You can now use the zip lines in <FC 128,64,0>Abydos<END FC><N>to get around the city.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τη <FC 0,128,0>Λαβή Εναέριας Τροχαλίας<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Μπορείς τώρα να χρησιμοποιήσεις τις εναέριες τροχαλίες στην <FC 128,64,0>Άβυδο<END FC><N>για να μετακινείσαι στην πόλη.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotParasol": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Parasol<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>It's great for those hot sunny days.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Παρασόλ<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Είναι εξαιρετικό για εκείνες τις καυτές ηλιόλουστες μέρες.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Mum_Cast_Urukite1": {
-    "message": "Go away, evil creature!!! Set can kill me but he's not going to steal my soul! <E>"
+    "message": "Φύγε μακριά, απαίσιο πλάσμα!!! Ο Σετ μπορεί να με σκοτώσει, αλλά δε θα κλέψει την ψυχή μου! <E>"
   },
   "HT_Text_Mum_Cast_Urukite2": {
-    "message": "Why are you freeing me? Who are you? You don't want to kill me? <E>"
+    "message": "Γιατί με ελευθερώνεις; Ποιος είσαι; Δεν θέλεις να με σκοτώσεις; <E>"
   },
   "HT_Text_Mum_Cast_Urukite3": {
-    "message": "Hmm... you don't look so frightening outside of the cage... Why are you helping me? <E>"
+    "message": "Χμμμ... δεν φαίνεσαι τόσο τρομακτικός έξω από το κελί... Γιατί με βοηθάς; <E>"
   },
   "HT_Text_Mum_Cast_Urukite4": {
-    "message": "They say that I have stolen jewels from the castle, but I never did it!<P>My name is Khensu. I'm an Urukite. We were the habitants of this region before Set appeared. Our numbers are few, hidden in the castle trying to survive.<P>We've avoided Set until now because we know the region better, but that won't last long. In the end he will find us, if someone doesn't help. <E>"
+    "message": "Λένε ότι έκλεψα κοσμήματα από το κάστρο, αλλά δεν το έκανα!<P>Το όνομά μου είναι Χονσού. Είμαι Ουρουκίτης. Ήμασταν οι κάτοικοι αυτής της περιοχής πριν εμφανιστεί ο Σετ. Είμαστε λίγοι πλέον, κρυμμένοι στο κάστρο προσπαθώντας να επιβιώσουμε.<P>Αποφύγαμε τον Σετ μέχρι τώρα γιατί ξέρουμε την περιοχή καλύτερα, αλλά αυτό δεν θα κρατήσει για πολύ. Στο τέλος θα μας βρει, αν κάποιος δεν βοηθήσει. <E>"
   },
   "HT_Text_Mum_Cast_Urukite5": {
-    "message": "Anyway, we can't remain in this room for long. Set's guards could come at any moment. Follow me. I will help you escape from this cell. <E>"
+    "message": "Όπως και να 'χει, δεν μπορούμε να μείνουμε σε αυτό το δωμάτιο για πολύ. Οι φρουροί του Σετ μπορεί να έρθουν ανά πάσα στιγμή. Ακολούθησέ με. Θα σε βοηθήσω να αποδράσεις από αυτό το κελί. <E>"
   },
   "HT_Text_Mum_Cast_Urukite6": {
-    "message": "This secret door connects with other sections of the castle. We must separate now. It is too risky for us to stay together. Good luck. <E>"
+    "message": "Αυτή η μυστική πόρτα συνδέεται με άλλα τμήματα του κάστρου. Πρέπει να χωριστούμε τώρα. Είναι πολύ επικίνδυνο να μείνουμε μαζί. Καλή τύχη. <E>"
   },
   "HT_Text_Mum_Cast_CageLocked": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>This cage requires a <FC 0,128,0>Key<END FC> to open.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Αυτό το κελί χρειάζεται ένα <FC 0,128,0>Κλειδί<END FC> για να ανοίξει.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Cast_Help_FoundCageKey": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You found a <FC 0,128,0>Cage Key<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Βρήκες ένα <FC 0,128,0>Κλειδί Κελιού<END FC>!<ES HT_Text_ES_S_HelpText><E><W 30>"
   }
 }

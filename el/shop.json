@@ -117,10 +117,10 @@
     "message": "<END TT>Αγορά Κλειδιού Σπηλιάς για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους Όνυχος<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_AtunEyes04": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Μάτι του Ατούν x 4<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι Όνυχος<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_GolemsEye> Μάτι του Ατούμ x 4<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι Όνυχος<END FC><E>"
   },
   "HT_Text_Shop_BuyAtunEyes04": {
-    "message": "<END TT>Αγορά 4 Ματιών του Αυτούν για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους Όνυχος<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
+    "message": "<END TT>Αγορά 4 Ματιών του Ατούμ για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους Όνυχος<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_Burble": {
     "message": "<DHP><DP><END TT>Πτηνό Μούμια<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
