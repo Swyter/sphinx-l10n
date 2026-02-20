@@ -69,7 +69,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Θεραπευτικά Βότανα για τη θεραπεία του Δημάρχου.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_BookOfTheDead": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Αυτός ο τόμος περιέχει επικλήσεις για να στείλεις τον Καλ-Άθι στο Κάστρο της Ουρούκ με Κανοπικά Αγγεία για τη Μούμια.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Αυτός ο τόμος περιέχει επικλήσεις για να στείλεις το Καλ-Άθι στο Κάστρο της Ουρούκ με Κανωπικά Αγγεία για τη Μούμια.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CaptureBeetle": {
     "message": "<ES HT_Text_ES_S_BOSStd>Σκαθάρια που μπορούν να χρησιμοποιηθούν για την αιχμαλώτιση τεράτων.<ES HT_Text_ES_E_BOSStd>"
@@ -141,19 +141,19 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Οι Προσκυνητές Κρανίων χρησιμοποιούν τα φλεγόμενα ραβδιά τους και την ικανότητά τους να καλούν ιπτάμενα κρανία-φαντάσματα με θανάσιμα αποτελέσματα...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Αν συναντήσεις έναν από αυτούς, οι δυνάμεις του κακού είναι σίγουρα κοντά.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Shadow": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Είναι κανοί να περνούν μέσα από συμπαγείς κατασκευές και κινούνται με την ταχύτητα ενός χειμωνιάτικου συννέφου. Φαίνεται σαν να επιτίθενται από το πουθενά...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Κράτα τα όπλα που εκτοξεύουν βλήατα για άλλες μάχες καθώς θα διαπεράσουν τελείως τον Σκοτεινό Προσκυνητή.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Είναι ικανοί να περνούν μέσα από συμπαγείς κατασκευές και κινούνται με την ταχύτητα ενός χειμωνιάτικου σύννεφου. Φαίνεται σαν να επιτίθενται από το πουθενά...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Κράτα τα όπλα που εκτοξεύουν βλήματα για άλλες μάχες καθώς θα διαπεράσουν τελείως τον Σκοτεινό Προσκυνητή.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HD43_Skull_Aka_Worshipper_Sword": {
     "message": "<ES HT_Text_ES_S_BOSStd>Εκτός από την εξαιρετική ικανότητα τους στη χρήση ξίφους, είναι ικανοί να καλέσουν ένα σατανικό, κρανίο που καταδιώκει τον αντίπαλο...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Ένας καταιγισμός χτυπημάτων συχνά αποτυγχάνει να τους βλάψει. Τέτοια είναι η αμυντική τους ικανότητα.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN01_Green_Giant_worm": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Αναδύονται από τις τρύπες τους με τρομακτική ταχύτητα, χρησιμοποιώντας τη μεγάλη τους μάζα για συνθλίψουν οτιδήποτε βρίσκεται από κάτω τους...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Είναι γνωστό ότι δεν βλάπτονται από οτιδήποτε θα μπορούσε να αποχαυνώσει μικρότερα τέρατα.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Αναδύονται από τις τρύπες τους με τρομακτική ταχύτητα, χρησιμοποιώντας τη μεγάλη τους μάζα για να συνθλίψουν οτιδήποτε βρίσκεται από κάτω τους...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Είναι γνωστό ότι δεν βλάπτονται από οτιδήποτε θα μπορούσε να αποχαυνώσει μικρότερα τέρατα.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN07_Blade_Scorpion": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ο Σκορπιός Λεπίδα είναι γρήγορος στα τρέξιμο και γρηγορότερος στην επίθεση. Να είστε προσεκτικοί με την ουρά του και τις σκοτεινές κρυψώνες που προτιμά για ύπνο.<ES HT_Text_ES_S_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Ο Σκορπιός Λεπίδα είναι γρήγορος στο τρέξιμο και γρηγορότερος στην επίθεση. Να είστε προσεκτικοί με την ουρά του και τις σκοτεινές κρυψώνες που προτιμά για ύπνο.<ES HT_Text_ES_S_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN08_Tacked_Spider": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Στην Αράχνη Υφάντρα αρέσει να συχνάζει σε κάθε είδους μέρος...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Να έχεις το νου σας στις οροφές κάθε σπήλαιου σε περίπτωση που κάποια πέσει από πάνω.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Στην Αράχνη Υφάντρα αρέσει να συχνάζει σε κάθε είδους μέρος...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Να έχεις το νου σας στις οροφές κάθε σπηλαίου σε περίπτωση που κάποια πέσει από πάνω.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_IN09_Sak_Spike_Spider": {
     "message": "<ES HT_Text_ES_S_BOSStd>Πηδά και γαντζώνεται στη λεία της, δαγκώνοντας με εξαιρετική επιμονή μέχρι είτε να την τινάξουν από πάνω τους είτε να χορτάσει...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Αν συναντήσετε μία, σίγουρα θα υπάρχουν κι άλλες κοντά, καθώς κυνηγούν σε ομάδες.<ES HT_Text_ES_E_BOSStd>"
@@ -165,7 +165,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Ο τρόπος που περπατούν μπορεί να φαίνεται κωμικός, αλλά το δάγκωμά τους σίγουρα δεν είναι. Μοχθηρά στη στεριά και στο νερό...<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Ο μοναδικός μεταβολισμός τους τα καθιστά απρόσβλητα από συνθήκες ψύχους.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI01_Hard_Piranha": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Το Εξο-Πιράνχας είναι ένα νέο είδος που εξελίχθηκε από τα Πιράνχα. Ανακαλύφθηκε μόλις τα τελευταία χρόνια και είναι ταχύτερο και ισχυρότερο από άλλα του είδους του.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Το Εξο-Πιράνχας είναι ένα νέο είδος που εξελίχθηκε από τα Πιράνχας. Ανακαλύφθηκε μόλις τα τελευταία χρόνια και είναι ταχύτερο και ισχυρότερο από άλλα του είδους του.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PI02_Electric_Eel": {
     "message": "<ES HT_Text_ES_S_BOSStd>Ένα ψάρι που μοιάζει με φίδι, ικανό να εκπέμπει ηλεκτρικά φορτία.<ES HT_Text_ES_E_BOSStd><P><ES HT_Text_ES_S_BOSStd>Τα Ηλεκτρικά Χέλια είναι επιθετικά και υπερασπίζονται την περιοχή τους. Μεγάλοι πληθυσμοί είναι γνωστό ότι ηλεκτρίζουν τεράστιες εκτάσεις νερού.<ES HT_Text_ES_E_BOSStd>"
@@ -180,7 +180,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Το Δεντρόπλασμα μπορεί να διαθέτει μια όμορφη μαγική ικανότητα, αλλά αν αφήσετε τη φωσφορίζουσα λάμψη να σας μαγέψει, θα δεχτείτε μια δυσάρεστη έκπληξη από το έδαφος.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_PL04_Sunflower_With_Face": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Το Ηλιοτρόπιο δεν είναι τόσο ειρηνικό όσο ακούγεται. Αν σας χτυπήσει οποισδήποτε από τους σπόρους που εκτοξεύει, δεν θα κοιμηθείτε καλά εκείνο το βράδυ.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Το Ηλιοτρόπιο δεν είναι τόσο ειρηνικό όσο ακούγεται. Αν σας χτυπήσει οποιοσδήποτε από τους σπόρους που εκτοξεύει, δεν θα κοιμηθείτε καλά εκείνο το βράδυ.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_QC01_Pokemon": {
     "message": "<ES HT_Text_ES_S_BOSStd>Αργά, δειλά και ακίνδυνα, τα Οστρακόζωα είναι ελάχιστα χρήσιμα. Η αστική τάξη είναι γνωστό ότι χρησιμοποιεί τα καβούκια τους ως διακόσμηση.<ES HT_Text_ES_E_BOSStd>"
@@ -264,7 +264,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Το Σεληνιακό Κλειδί για το Πλανητάριο στην κεντρική αίθουσα.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Basket": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Ο Καλ-Άθι είναι ένα μαγικό αντικείμενο που μπορεί να μεταφέρει αντικείμενα μεταξύ του Σφιγξ και της Μούμιας μόλις αποκτήσετε το Βιβλίο των Νεκρών.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Το Καλ-Άθι είναι ένα μαγικό αντικείμενο που μπορεί να μεταφέρει αντικείμενα μεταξύ του Σφιγξ και της Μούμιας μόλις αποκτήσετε το Βιβλίο των Νεκρών.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_AbyPass": {
     "message": "<ES HT_Text_ES_S_BOSStd>Πάσο Ταυτοποίησης της Αβύδου.<ES HT_Text_ES_E_BOSStd>"
@@ -297,7 +297,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Ένα μεγάλο βάζο που χρησιμοποιείται για την εκτροφή σκαθαριών.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Hel_BeetleBreederLoyaltyCard": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Με την Κάρτα Μέλους μπορείς να αγοράσεις σκαραβαίους στη μισή τιμή από το κατάστημα του Φυλακίου των Βεδουίνων.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Με την Κάρτα Μέλους μπορείς να αγοράσεις σκαραβαίους στη μισή τιμή από το κατάστημα του Καταυλισμού των Βεδουίνων.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_CageKey": {
     "message": "<ES HT_Text_ES_S_BOSStd>Το κλειδί για το κλουβί του Ουρουκίτη.<ES HT_Text_ES_E_BOSStd>"
@@ -372,7 +372,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Το κρανίο ενός Σκελετικού Πολεμιστή.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone02": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Η λεκάνη ενός Σκελετικού Πολεμιστή.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Η πύελος ενός Σκελετικού Πολεμιστή.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_Item_Quest_Bone03": {
     "message": "<ES HT_Text_ES_S_BOSStd>Το χέρι ενός Σκελετικού Πολεμιστή.<ES HT_Text_ES_E_BOSStd>"
@@ -381,7 +381,7 @@
     "message": "<ES HT_Text_ES_S_BOSStd>Το πόδι ενός Σκελετικού Πολεμιστή.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_HippyItem": {
-    "message": "<ES HT_Text_ES_S_BOSStd>Αυτή το Παρασόλ είναι ιδανικό για να παρέχει σκιά από τον ήλιο.<ES HT_Text_ES_E_BOSStd>"
+    "message": "<ES HT_Text_ES_S_BOSStd>Αυτό το Παρασόλ είναι ιδανικό για να παρέχει σκιά από τον ήλιο.<ES HT_Text_ES_E_BOSStd>"
   },
   "HT_Text_Inv_Dsc_CreatureList01": {
     "message": "<ES HT_Text_ES_S_BOSStd>1. Αρμαντίλλο της Φωτιάς<PC 1>2. Σκουλήκι Μούμια<N>3. Σχεδόν Ταύρος<PC 1>4. Μισό Κτήνος<E><ES HT_Text_ES_E_BOSStd>"

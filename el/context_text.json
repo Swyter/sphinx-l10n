@@ -1,6 +1,6 @@
 {
   "HT_Text_Context_UseItem": {
-    "message": "ΧΡΗΣΗ ΑΝΤΙΚΕΙΜΕΝΟΥ"
+    "message": "ΧΡΗΣΗ"
   },
   "HT_Text_Context_Use": {
     "message": "ΧΡΗΣΗ"
@@ -18,7 +18,7 @@
     "message": "ΑΝΟΙΓΜΑ"
   },
   "HT_Text_Context_PickupObject": {
-    "message": "ΛΗΨΗ"
+    "message": "ΠΑΡΕ"
   },
   "HT_Text_Context_SavePoint": {
     "message": "ΑΠΟΘΗΚΕΥΣΗ"
@@ -36,7 +36,7 @@
     "message": "ΕΛΕΥΘΕΡΩΣΗ"
   },
   "HT_Text_Context_Release": {
-    "message": "ΕΛΕΥΘΕΡΩΣΗ"
+    "message": "ΑΣΕ"
   },
   "HT_Text_Context_Clone": {
     "message": "ΚΛΩΝΟΠΟΙΗΣΗ"
@@ -84,7 +84,7 @@
     "message": "ΡΙΨΗ"
   },
   "HT_Text_Context_Drop": {
-    "message": "ΑΠΟΡΡΙΨΗ"
+    "message": "ΑΣΕ"
   },
   "HT_Text_Context_FireDart": {
     "message": "ΒΟΛΗ"
@@ -144,7 +144,7 @@
     "message": "ΣΥΡΣΙΜΟ"
   },
   "HT_Text_Context_Take": {
-    "message": "ΛΗΨΗ"
+    "message": "ΠΑΡΕ"
   },
   "HT_Text_Context_DJump": {
     "message": "ΤΟΥΜΠΑ"
@@ -156,7 +156,7 @@
     "message": "ΧΤΥΠΗΜΑ"
   },
   "HT_Text_Context_Wear": {
-    "message": "ΕΦΑΡΜΟΓΗ"
+    "message": "ΦΟΡΑ"
   },
   "HT_Text_Context_UnHide": {
     "message": "ΕΜΦΑΝΙΣΗ"

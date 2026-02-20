@@ -3,7 +3,7 @@
     "message": "<END TT>Θα ήθελες να αγοράσεις κι άλλα;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_BuyFireDart": {
-    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Τα Βέλη Φωτιάς κοστίζουν <FC 0,128,0>10 Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Yes<N><B 2>No<E>"
+    "message": "<END TT><I HT_Texture_Icon_FireDart><N>Τα Βέλη Φωτιάς κοστίζουν <FC 0,128,0>10 Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_BuyIceDart": {
     "message": "<END TT><I HT_Texture_Icon_IceDart><N>Τα Βέλη Πάγου κοστίζουν <FC 0,128,0>12 Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
@@ -12,7 +12,7 @@
     "message": "<END TT><I HT_Texture_Icon_IceDart><N>Τα Βέλη Οξέος κοστίζουν <FC 0,128,0>12 Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_BuyRemoteControlBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_RemoteBeetle><N>Σκαθάρια αιχμαλώτισης: μπορεί να περιέχουν ίχνη φυστικιών. <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC> για 5 σκαθάρια. Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
+    "message": "<END TT><I HT_Texture_Icon_RemoteBeetle><N>Σκαθάρια αιχμαλώτισης: μπορεί να περιέχουν ίχνη φιστικιών. <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC> για 5 σκαθάρια. Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_BuyExplosiveBeetle": {
     "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Εκρηκτικά σκαθάρια: παράνομα σε πάνω από 20 χώρες. <FC 0,128,0>10 Σκαραβαίοι<END FC> για 5 σκαθάρια. Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
@@ -33,7 +33,7 @@
     "message": "<DHP><DP><END TT><I HT_Texture_Icon_DartBelt> Ζώνη για Βέλη - Χωράει το πολύ 50 βέλη από κάθε τύπο<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC><E>"
   },
   "HT_Text_Shop_BuyDartBelt": {
-    "message": "<END TT>Αγορά Ζώνης για Βέλη για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>?<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
+    "message": "<END TT>Αγορά Ζώνης για Βέλη για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
   },
   "HT_Text_Shop_Test": {
     "message": "<END TT>Παρακαλώ, ρίξε μια ματιά. Ίσως βρεις κάτι που να σου αρέσει.<E>"

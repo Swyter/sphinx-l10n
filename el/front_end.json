@@ -45,13 +45,13 @@
     "message": "ΥΠΟΤΙΤΛΟΙ"
   },
   "HT_Text_FE_Menu_InvertThirdPersonVert": {
-    "message": "ΑΝΤΙΣΤΡΟΦΗ ΚΑΤΑΚΟΡΥΦΩΝ ΧΕΙΡΙΣΜΩΝ 3ου ΠΡΟΣΩΠΟΥ"
+    "message": "ΑΝΤΙΣΤΡΟΦΗ ΚΑΤΑΚΟΡΥΦΩΝ ΧΕΙΡ. 3ου ΠΡΟΣΩΠΟΥ"
   },
   "HT_Text_FE_Menu_InvertThirdPersonHorz": {
-    "message": "ΑΝΤΙΣΤΡΟΦΗ ΟΡΙΖΟΝΤΙΩΝ ΧΕΙΡΙΣΜΩΝ 3ου ΠΡΟΣΩΠΟΥ"
+    "message": "ΑΝΤΙΣΤΡΟΦΗ ΟΡΙΖΟΝΤΙΩΝ ΧΕΙΡ. 3ου ΠΡΟΣΩΠΟΥ"
   },
   "HT_Text_FE_Menu_InvertFirstPersonVert": {
-    "message": "ΑΝΤΙΣΤΡΟΦΗ ΚΑΤΑΚΟΡΥΦΩΝ ΧΕΙΡΙΣΜΩΝ 1ου ΠΡΟΣΩΠΟΥ"
+    "message": "ΑΝΤΙΣΤΡΟΦΗ ΚΑΤΑΚΟΡΥΦΩΝ ΧΕΙΡ. 1ου ΠΡΟΣΩΠΟΥ"
   },
   "HT_Text_FE_Menu_OK": {
     "message": "ΟΚ"
@@ -99,10 +99,10 @@
     "message": "1ο ΠΡΟΣΩΠΟ:"
   },
   "HT_Text_FE_Menu_InvertHorz": {
-    "message": "ΑΝΤΙΣΤΡΟΦΗ ΟΡΙΖΟΝΤΙΩΝ ΧΕΙΡΙΣΜΩΝ"
+    "message": "ΑΝΤΙΣΤΡΟΦΗ ΟΡΙΖΟΝΤΙΩΝ ΧΕΙΡ."
   },
   "HT_Text_FE_Menu_InvertVert": {
-    "message": "ΑΝΤΙΣΤΡΟΦΗ ΚΑΤΑΚΟΡΥΦΩΝ ΧΕΙΡΙΣΜΩΝ"
+    "message": "ΑΝΤΙΣΤΡΟΦΗ ΚΑΤΑΚΟΡΥΦΩΝ ΧΕΙΡ."
   },
   "HT_Text_FE_MenuPause_Continue": {
     "message": "ΣΥΝΕΧΕΙΑ"
@@ -126,10 +126,10 @@
     "message": "Πάτησε οποιοδήποτε κουμπί για να συνεχίσεις"
   },
   "HT_Text_FE_Bonus1_Title": {
-    "message": "Το 'Making of' του Σιφγξ"
+    "message": "Το 'Making of' του Σφιγξ"
   },
   "HT_Text_FE_Bonus1_Description": {
-    "message": "Τα παρασκήνια της δημιουργίας του Σιφγξ και η Καταραμένη Μούμια"
+    "message": "Τα παρασκήνια της δημιουργίας του Σφιγξ και η Καταραμένη Μούμια"
   },
   "HT_Text_FE_Bonus2_Title": {
     "message": "Σφιγξ τρέιλερ"
@@ -204,7 +204,7 @@
     "message": "Παύση"
   },
   "HT_Text_Paused_XB": {
-    "message": "Πάτησε START για να συνεχίσεις"
+    "message": "Πάτησε START για να συνεχίσεις."
   },
   "HT_Text_Paused_GC": {
     "message": "Παύση"
@@ -282,7 +282,7 @@
     "message": "Δεν έχει συνδεθεί κάρτα μνήμης (8MB)(για PlayStation®2)\\n στη θύρα 1."
   },
   "HT_Text_Memcard_NoSpace_Boot": {
-    "message": "Ανεπαρκής χώρος στην κάρτα μνήμης (PS2). Εισήγαγε μία\\nκάρτα μνήμης με τουλάχιστον xKB ελεύθερου χώρου,\\nή ελευθέρωσε χώρο χρησιμοποιώντας τον εσωτερικό broswer την κονσόλας."
+    "message": "Ανεπαρκής χώρος στην κάρτα μνήμης (PS2). Εισήγαγε μία\\nκάρτα μνήμης με τουλάχιστον xKB ελεύθερου χώρου,\\nή ελευθέρωσε χώρο χρησιμοποιώντας τον εσωτερικό browser την κονσόλας."
   },
   "HT_Text_Memcard_NoSpace_Save": {
     "message": "Ανεπαρκής χώρος στην κάρτα μνήμης (PS2) στην MEMORY CARD\\n θύρα 1. Το Σφιγξ απαιτεί xKB ελεύθερου χώρου για αποθήκευση δεδομένων."
@@ -294,7 +294,7 @@
     "message": "Φορτώνει..."
   },
   "HT_Text_Memcard_Saving": {
-    "message": "Αποθηκεύονται δεδομένα. Μην αφαιρέσεις την κάρτα μνήμης (PS2) στη\\nMEMORY CARD θύρα 1, επανεκιννήσεις ή απενεργοποιήσεις την κονσόλα."
+    "message": "Αποθηκεύονται δεδομένα. Μην αφαιρέσεις την κάρτα μνήμης (PS2) στη\\nMEMORY CARD θύρα 1, επανεκκινήσεις ή απενεργοποιήσεις την κονσόλα."
   },
   "HT_Text_Memcard_Formatting": {
     "message": "Γίνεται διαμόρφωση...\\n\\nΓίνεται διαμόρφωση της κάρτας μνήμης (PS2) στη MEMORY CARD θύρα 1.\\nΜην αφαιρέσεις την κάρτα μνήμης (PS2),\\n επανεκκινήσεις, ή απενεργοποιήσεις την κονσόλα."
@@ -555,9 +555,9 @@
     "message": "ΠΑΡΑΘΥΡΟ"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": "μοίρες"
+    "message": " μοίρες"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Φυσοκάλαμο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα μαγικά βέλη που απελευθερώνονται από αυτό το ισχυρό εργαλείο,<N>αναπληρώνονται δίνοντας σου απεριόριστη ποσότητα από βελάκια.<P><ES HT_Text_ES_S_HelpText><CNTR>Τα βέλη μπορούν να χρησιμοποιηθούν για να χτυπήσουν απομακρυσμένους στόχους αλλά είναι<N>μόνο αρκετά ισχυρά ώστε να βλάψουν τέρατα που εκρύγνυνται.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Χρησιμοποίησε το <SB HT_PadAction_HUD_ShowRotator> για να αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC> σε ένα κουμπί.<P><ES HT_Text_ES_S_HelpText><CNTR>Όταν το <FC 0,128,0>Φυσοκάλαμο<END FC> ανατεθεί, πάτησε<N>το κουμπί για να μπεις σε λειτουργία πρώτου προσώπου.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_FireDart> για να ρίξεις.<P><ES HT_Text_ES_S_HelpText><CNTR>Κράτησε <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> ή <SB HT_PadAction_GYR_Right> πατημένα όσο κουνάς το αριστερό Joy-Con για να στοχεύσεις χρησιμοποιώντας τους γυρισκοπικούς χειρισμούς κίνησης.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_Cancel> για να βγεις<N>από τη λειτουργία <FC 0,128,0>Φυσοκάλαμου<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Φυσοκάλαμο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα μαγικά βέλη που απελευθερώνονται από αυτό το ισχυρό εργαλείο,<N>αναπληρώνονται δίνοντας σου απεριόριστη ποσότητα από βελάκια.<P><ES HT_Text_ES_S_HelpText><CNTR>Τα βέλη μπορούν να χρησιμοποιηθούν για να χτυπήσουν απομακρυσμένους στόχους αλλά είναι<N>μόνο αρκετά ισχυρά ώστε να βλάψουν τέρατα που εκρήγνυνται.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Χρησιμοποίησε το <SB HT_PadAction_HUD_ShowRotator> για να αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC> σε ένα κουμπί.<P><ES HT_Text_ES_S_HelpText><CNTR>Όταν το <FC 0,128,0>Φυσοκάλαμο<END FC> ανατεθεί, πάτησε<N>το κουμπί για να μπεις σε λειτουργία πρώτου προσώπου.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_FireDart> για να ρίξεις.<P><ES HT_Text_ES_S_HelpText><CNTR>Κράτησε <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> ή <SB HT_PadAction_GYR_Right> πατημένα όσο κουνάς το αριστερό Joy-Con για να στοχεύσεις χρησιμοποιώντας τους γυροσκοπικούς χειρισμούς κίνησης.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_Cancel> για να βγεις<N>από τη λειτουργία <FC 0,128,0>Φυσοκάλαμου<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   }
 }
