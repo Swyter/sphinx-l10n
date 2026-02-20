@@ -21,16 +21,16 @@
     "message": "<END TT><I HT_Texture_Icon_FireDart><N>Τα Βέλη Φωτιάς κοστίζουν <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_Flex_BuyIceDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Τα Βέλη Πάγου κοστίζουν <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Τα Βέλη Πάγου κοστίζουν <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>. Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_Flex_BuyAcidDart": {
-    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Τα Βέλη Οξέος κοστίζουν <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC> . Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
+    "message": "<END TT><I HT_Texture_Icon_IceDart><N>Τα Βέλη Οξέος κοστίζουν <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>. Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_Flex_BuyExplosiveBeetle": {
-    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Εκρηκτικά σκαθάρια: παράνομα σε πάνω από 20 χώρες. <FC 0,128,0><SO HT_Objective_Shop_Price>Σκαραβαίους<END FC> για 5 σκαθάρια. Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
+    "message": "<END TT><I HT_Texture_Icon_ExplosiveBeetle><N>Εκρηκτικά σκαθάρια: παράνομα σε πάνω από 20 χώρες. <FC 0,128,0><SO HT_Objective_Shop_Price>Σκαραβαίοι<END FC> για 5 σκαθάρια. Θα ήθελες να αγοράσεις;<N><B 1>Ναι<N><B 2>Όχι<E>"
   },
   "HT_Text_Shop_DartBelt": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_DartBelt> Ζώνη για Βέλη - Χωράει το πολύ 50 βέλη από κάθε τύπο<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC><E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_DartBelt> Ζώνη για Βέλη - Χωράει το πολύ 50 βέλη από κάθε τύπο<N><FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίοι<END FC><E>"
   },
   "HT_Text_Shop_BuyDartBelt": {
     "message": "<END TT>Αγορά Ζώνης για Βέλη για <FC 0,128,0><SO HT_Objective_Shop_Price> Σκαραβαίους<END FC>;<N>  <B 2> Όχι<N>  <B 1> Ναι<E>"
@@ -48,7 +48,7 @@
     "message": "<END TT>Λυπάμαι, αλλά μας τελείωσαν.<E>"
   },
   "HT_Text_Shop_IceDart": {
-    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Βέλη Πάγου<N>Ριξ'τα για να παγώσεις αντικείμενα.<E>"
+    "message": "<DHP><DP><END TT><I HT_Texture_Icon_IceDart> Βέλη Πάγου<N>Ριξ' τα για να παγώσεις αντικείμενα.<E>"
   },
   "HT_Text_Shop_FireDart": {
     "message": "<DHP><DP><END TT><I HT_Texture_Icon_FireDart> Βέλη Φωτιάς<N>Ας βάλουμε φωτιά!<E>"

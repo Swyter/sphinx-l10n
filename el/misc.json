@@ -384,7 +384,7 @@
     "message": "Ένα Πιράνχας! Σαρκοφάγο ψάρι που τρώει γρήγορα."
   },
   "HT_Text_Museum_Name_PI01_Hard_Piranha": {
-    "message": "Ένα Εξο-Πιράνχα! Γρήγορο και θανατηφόρο μικρό ψάρι."
+    "message": "Ένα Εξο-Πιράνχας! Γρήγορο και θανατηφόρο μικρό ψάρι."
   },
   "HT_Text_Museum_Name_PL02_Tree_Creature": {
     "message": "Ένα Δεντρόπλασμα! Μην αναζητήσετε σκιά κάτω από αυτό το δέντρο!"
@@ -495,7 +495,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες την <FC 0,128,0>Ασπίδα του Οσίριδος<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτή η μαγική ασπίδα χρησιμοποιήθηκε στη μάχη<N>από τον ίδιο τον μέγα θεό Όσιρι.<P><ES HT_Text_ES_S_HelpText><CNTR>Μπορείς να χρησιμοποιήσεις την ασπίδα για να προστατευτείς από<N>πολλούς τύπους εχθρικών επιθέσεων και άλλους κινδύνους.<P><ES HT_Text_ES_S_HelpText><CNTR>Για να χρησιμοποιήσεις την <FC 0,128,0>Ασπίδα του Οσίριδος<END FC> χρησιμοποίησε το <N><SB HT_PadAction_HUD_ShowRotator> για να επιλέξεις το αντικείμενο...<P><ES HT_Text_ES_S_HelpText><CNTR>...μετά πάτησε το κουμπί που<N>θέλεις να αναθέσεις στο αντικείμενο.<P><CNTR><ES HT_Text_ES_S_HelpText>Μόλις το αναθέσεις, πάτησε παρατεταμένα το<N>κατάλληλο κουμπί για να αμυνθείς.<P><ES HT_Text_ES_S_HelpText><CNTR>Ενώ αμύνεσαι, χρησιμοποίησε το<N><SB HT_PadAction_PLR_MovePlr> για να κατευθύνεις την ασπίδα.<E>"
   },
   "HT_Text_Gen_Help_GotBlowpipe": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Φυσοκάλαμο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα μαγικά βέλη που εκτοξεύονται από αυτό το ισχυρό εργαλείο,<N>αναγεννώνται δίνοντάς σας άπειρο απόθεμα.<P><ES HT_Text_ES_S_HelpText><CNTR>Τα βέλη μπορούν να χρησιμοποιηθούν για να πετύχετε απομακρυσμένους στόχους αλλά είναι<N>αρκετά ισχυρά για να βλάψουν μόνο εκρηκτικά τέρατα.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Χρησιμοποίησε το <SB HT_PadAction_HUD_ShowRotator> για να αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC> σε ένα κουμπί.<P><ES HT_Text_ES_S_HelpText><CNTR>Μόλις αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC>, πάτησε<N>το κουμπί για να μπείς σε λειτουργία πρώτου προσώπου.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_FireDart> για εκτόξευση.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_Cancel> για έξοδο<N>από τη λειτουργία του <FC 0,128,0>Φυσοκαλάμου<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Φυσοκάλαμο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα μαγικά βέλη που εκτοξεύονται από αυτό το ισχυρό εργαλείο,<N>αναγεννώνται δίνοντάς σας άπειρο απόθεμα.<P><ES HT_Text_ES_S_HelpText><CNTR>Τα βέλη μπορούν να χρησιμοποιηθούν για να πετύχετε απομακρυσμένους στόχους αλλά είναι<N>αρκετά ισχυρά για να βλάψουν μόνο εκρηκτικά τέρατα.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Χρησιμοποίησε το <SB HT_PadAction_HUD_ShowRotator> για να αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC> σε ένα κουμπί.<P><ES HT_Text_ES_S_HelpText><CNTR>Μόλις αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC>, πάτησε<N>το κουμπί για να μπεις σε λειτουργία πρώτου προσώπου.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_FireDart> για εκτόξευση.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_Cancel> για έξοδο<N>από τη λειτουργία του <FC 0,128,0>Φυσοκαλάμου<END FC>.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHandsOfAmun": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τα <FC 0,128,0>Χέρια του Άμωνος<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Αυτό το κειμήλιο δίνει στον Σφιγξ τη δύναμη να<N>σπρώχνει και να τραβάει εξαιρετικά βαριά αντικείμενα.<ES HT_Text_ES_E_HelpText><E>"
@@ -597,7 +597,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Υπάρχει μια εσοχή για κάποιο αντικείμενο.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem02": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Απαιτείται ένα <FC 0,128,0>κλειδί<END FC> για την ενεργοποίηση αυτής της συσκευής.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Χρειάζεται ένα <FC 0,128,0>κλειδί<END FC> για την ενεργοποίηση αυτής της συσκευής.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem03": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Η εικόνα ενός μεγάλου πουλιού είναι ζωγραφισμένη σε αυτήν την κατασκευή.<ES HT_Text_ES_E_HelpText><E>"
@@ -684,7 +684,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ο Θεός της Πύλης δεν θα σου επιτρέψει να περάσεις αυτή τη στιγμή...<E>"
   },
   "HT_Text_Gen_Help_UseItem_NoItem05": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Απαιτείται ένα <FC 0,128,0>Κλειδί<END FC> για να ανοίξει αυτή η πόρτα.<ES HT_Text_ES_S_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Χρειάζεται ένα <FC 0,128,0>Κλειδί<END FC> για να ανοίξει αυτή η πόρτα.<ES HT_Text_ES_S_HelpText><E>"
   },
   "HT_Text_Mum_Sewer_King_Challenge1": {
     "message": "Άναψε όλες αυτές τις δάδες γύρω μου και θα σου δώσω αυτό το αρχαίο κειμήλιο. Πρόσεχε όμως. Είναι εξίσου εύκολο να τις σβήσεις όσο και να τις ανάψεις.<E>"
@@ -726,7 +726,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Κλειδί της Σκάλας<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Χρησιμοποίησε το για να ανοίξεις τις σκάλες στο προαύλιο με το πηγάδι.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotZipHandle": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τη <FC 0,128,0>Λαβή Εναέριας Τροχαλίας<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Μπορείς τώρα να χρησιμοποιήσεις τις εναέριες τροχαλίες στην <FC 128,64,0>Άβυδο<END FC><N>για να μετακινείσαι στην πόλη.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες τη <FC 0,128,0>Λαβή Εναέριας Τροχαλίας<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Πλέον μπορείς να χρησιμοποιήσεις τις εναέριες τροχαλίες στην <FC 128,64,0>Άβυδο<END FC><N>για να μετακινείσαι στην πόλη.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotParasol": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Παρασόλ<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Είναι εξαιρετικό για εκείνες τις καυτές ηλιόλουστες μέρες.<ES HT_Text_ES_E_HelpText><E>"

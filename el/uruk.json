@@ -1,6 +1,6 @@
 {
   "HT_Text_Urk_3beams_Women_Freed1a": {
-    "message": "Ευχαριστώ κύριε, ευχαριστώ που με ελευθέρωσες. Είναι τόσο απαίσια εδώ μέσα!"
+    "message": "Ευχαριστώ κύριε, ευχαριστώ που με ελευθέρωσες. Είναι τόσο απαίσια εδώ μέσα!<E>"
   },
   "HT_Text_Urk_3beams_Women_Freed1b": {
     "message": "Πρέπει να επιστρέψω στο σύζυγο μου όσο πιο γρήγορα γίνεται. Πρέπει να έχει αρρωστήσει από την ανησυχία του!<E>"
@@ -165,7 +165,7 @@
     "message": "Σφιγξ, ελπίζω μόνο να σε οδηγήσει σε έναν ασφαλή προορισμό.<E>"
   },
   "HT_Text_Urk_Intro_Help_GotPortalAmulet": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Φυλαχτό Πύλης<END FC><P><ES HT_Text_ES_S_HelpText><N><CNTR>!Αυτό το χρυσό κειμήλιο φτιάχτηκε για να τιμήσει τον Θεό της Πύλης.<E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες ένα <FC 0,128,0>Φυλαχτό Πύλης<END FC>!<P><ES HT_Text_ES_S_HelpText><N><CNTR>Αυτό το χρυσό κειμήλιο φτιάχτηκε για να τιμήσει τον Θεό της Πύλης.<E>"
   },
   "HT_Text_Urk_Intro_Help_AmuletAccepted": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Ο Θεός της Πύλης δέχεται την προσφορά σου και θα σου παράσχει μεταφορά στο <FC 128,64,0>Λούξορ<END FC>...<E>"
