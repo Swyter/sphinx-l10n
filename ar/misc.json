@@ -204,7 +204,7 @@
     "message": "<N><CNTR>---[ <FC 0,128,0>مومياء مينوتور<END FC> ]---<P> تنحدر من سلالة ثور آدمي حرس متاهة في قديم الأزمان، و تحوم في أحلك معابد <FC 128,64,0>مصر القديمة<END FC>.<P> تكسوها ألسنة لهب، و كذلك تستطيع نفث اللهب من أفواهها. تم تكميم هذا الهجوم الناري حرصا على حماية رواد المتحف.<E>"
   },
   "HT_Text_Museum_BU02_Skeletal_Axeman": {
-    "message": "<N><CNTR>---[<FC 0,128,0>هيكل ذو فأس<END FC>]---<P>يشاع أنهم من محاربي فصيل ظلام من جيش فرعوني من الأزمنة العتيقة. ينتسبون إلى اللاأموات، و حقيقة أصلهم مجهولة.<P>في أيامنا هذه نادرا ما يرون في مجموعات تتجاوز الثلاثة من الأنفار، لكن في الماضي كانوا جحافل كتائب كاملة.<E>"
+    "message": "<N><CNTR>---[<FC 0,128,0>ذو الفأس الهيكلاني<END FC>]---<P>يشاع أنهم من محاربي فصيل ظلام من جيش فرعوني من الأزمنة العتيقة. ينتسبون إلى اللاأموات، و حقيقة أصلهم مجهولة.<P>في أيامنا هذه نادرا ما يرون في مجموعات تتجاوز الثلاثة من الأنفار، لكن في الماضي كانوا جحافل كتائب كاملة.<E>"
   },
   "HT_Text_Museum_BU03_zombie_man": {
     "message": "<N><CNTR>---[ <FC 0,128,0>زومبي<END FC> ]---<P>قبل أن ينضم هؤلاء لحشود اللاأموات كانوا عبيدا يكدحون ساعات طوالا مضنية في تشييد معابد ضخمة هائلة.<P>أما الآن، فمحكوم عليهم أن يهيموا بين رمال الصحاري بحثا عن معبر للحياة الأخرى سيظل إلى الأبد بعيدا عن منالهم...<E>"
@@ -246,7 +246,7 @@
     "message": "<N><CNTR>---[ <FC 0,128,0>دودة خضراء عملاقة<END FC> ]---<P>أضخم حيوان من اللافقريات عرف في الوجود، علاوة أنه من الديدان آكلة اللحوم القليلة.<P>تعزز هذه الديدان تحصينات مداخل شبكات أنفاقها المتشعبة تحت التراب، و في ذلك بعض التحذير عن وجودها.<E>"
   },
   "HT_Text_Museum_IN07_Blade_Scorpion": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Blade Scorpion<END FC> ]---<P>This lobster-like arachnid has a very different jointed tail to the regular scorpion, with twice as much potential to harm.<P>As well as carrying a deadly sting at the tail's tip, the Blade Scorpion's tail itself is just that - a lethal, razor sharp blade capable of scything through armor.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>عقرب الموسى]---<P> حيوان من العنكبيات يشبه السلطعون له ذيل ذو مفاصل يختلف عن العقارب الشائعة، وفيه شرور مضاعفة.<P> الإبرة السامة المميتة التي في طرف الذيل معروفة، وزيادة على ذلك فعقرب الموسى اسم على مسمى. وتلك الموسى هي ذيله على شكل سكين حاد ذباح يمزق الدروع كما يمزق المنجل الأعشاب.<E>"
   },
   "HT_Text_Museum_IN09_Sak_Spike_Spider": {
     "message": "<N><CNTR>---[ <FC 0,128,0>عنكبوت شوكية<END FC> ]---<P>قد يجوز القول أنها أصغر أعضاء أسرة العناكب، و أخفها رشاقة و حركة بفضل سيقانها القوية.<P>يصطاد فريسته في قطعان تحيط بها و تهاجمها على جميع الجبهات في نفس اللحظة.<E>"
@@ -267,13 +267,13 @@
     "message": "<N><CNTR>---[ <FC 0,128,0>زحاف صدفة<END FC> ]---<P>زاحف خجول آكل عشب معروف أنه يعتزل أغلب حياته داخل صدفته.<P>رغم أن هذه الحيوانات شائعة إلا أن العنف المفرط ضدها جعلها مصنفة من الفصائل المهددة المحمية.<E>"
   },
   "HT_Text_Museum_QR04_Sak_Nose_Needler": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Nose Needler<END FC> ]---<P>The Nose Needler certainly does needle, provoking their prey until its judgment is clouded by anger.<P>Burrowing through soft soil at great speed, they emerge briefly and throw abrasive rocks at an enemy, before going underground once again and repeating the process.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>خرطوم الإبرة<END FC> ]---<P>عنده إبرة وسيثبت ذلك بلا شك، وسيواصل استفزاز فريسته إلى أن يعميها الغضب.<P>سريع في الحفر داخل التربة الرخوة، وعند طلته الوجيزة خارجها سيلقي صخورا كاوية على عدوه، وسرعان ما لن تراه بعد ذلك، لأنه أعاد الحفر ليعيد الكرة.<E>"
   },
   "HT_Text_Museum_QU01_Skeletal_Spider": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>عنكبوت شوكية<END FC> ]---<P>أحد بنات جنسها الأكثر تفردا في شكلها، بسبب نمو غريب عمودي لعمودها الفقري.<P>تنتسب إلى <FC 128,64,0>الوركاء<END FC> ذات حرارة حارقة لا تؤثر في أجسادها الخالية من اللحم.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>عنكبوت هيكلانية ]---<P>أحد بنات جنسها الأكثر تفردا في شكلها، بسبب نمو غريب عمودي لعمودها الفقري.<P>تنتسب إلى <FC 128,64,0>الوركاء<END FC> ذات حرارة حارقة لا تؤثر في أجسادها الخالية من اللحم.<E>"
   },
   "HT_Text_Museum_QU02_Skeletal_Armadillo": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>درعية<END FC> ]---<P>كائنات غريبة تتختل في مشيتها على أربع، عادة تمشي بنسق أبطأ. لها صدفة صلبة، تصير سلاحا عندما تبدأ بالدوران مثل الخذروف فوق الأرض.<P>بعض الخرافات الشعبية التي تروى للصبيان تزعم أنها وليدة زيجة بين قنفذ و سلحفاة.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>درعائية<END FC> ]---<P>كائنات غريبة تتختل في مشيتها على أربع، عادة تمشي بنسق أبطأ. لها صدفة صلبة، تصير سلاحا عندما تبدأ بالدوران مثل الخذروف فوق الأرض.<P>بعض الخرافات الشعبية التي تروى للصبيان تزعم أنها وليدة زيجة بين قنفذ و سلحفاة.<E>"
   },
   "HT_Text_Museum_QU04_Mummy_Chihuahua": {
     "message": "<N><CNTR>---[ <FC 0,128,0>مومياء شيواوا<END FC> ]---<P>عادة الشيواوا كلب ناعم الفروة ممن قرب للأرض و لم يكثر شره. لكن عملية التحنيط تنتج منه نظيرا لاميتا أشد شراسة و عدوانية بكثير.<P>كان هذا الحيوان المفضل المحبوب لأحد الفراعنة الراحلين، و لذلك ألحقوه بسيده في القبر.<E>"
@@ -288,13 +288,13 @@
     "message": "<N><CNTR>---[<FC 0,128,0>جرذ<END FC>]---<P>من القوارض الضخمة، معروف بقدرته على نشر الأوبئة و الأمراض، يغلب وجوده في المجاري و غيرها من الأماكن التي تقل نظافتها.<P>تستعمل كناية الجرذ لوصف بعض الناس الغدارين أو اللذين لا يستحقون الثقة.<E>"
   },
   "HT_Text_Museum_PI04_Spinefish": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Spinefish<END FC> ]---<P>The Spinefish's deceptively beautiful display fins hide deadly poisonous spines which it uses to fend off would-be aggressors.<P>The Spinefish is an extremely territorial animal and is commonly used by the upper classes in their defensive moats.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>السمكشوك<END FC>]---<P>جمال مظهر السمكشوك خداع، إذ أن زعانفه البهية تخفي أشواكا مسمومة مميتة، وبها تدحر أي كائن قبل أن يفكر بالعدوان عليها.<P>السمكشوك حيوان يدافع بشدة عن منطقته، ويكثر أشراف القوم من وضعه في خنادقهم الدفاعية.<E>"
   },
   "HT_Text_Museum_PI02_Electric_Eel": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Electric Eel<END FC> ]---<P>The Electric Eel is quite a docile animal in its natural habitat.<P>However, due to the electric field it creates, any water in which it swims becomes electrified and very dangerous to unsuspecting animals.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>حنقليس كهربائي<END FC> ]---<P>الحنقليس الكهربائي حيوان جد وديع في بيئته الطبيعية.<P>لكن أي مياه يسبح فيها يكهربها فتصير خطيرة جدا على الحيوانات الغافلة التي تدخلها.<E>"
   },
   "HT_Text_Museum_PI03_Manta_Ray": {
-    "message": "<N><CNTR>---[ <FC 0,128,0>Manta Ray<END FC> ]---<P>The Manta Ray's natural habitat is the open ocean.<P>They usually prefer to prey upon small schools of fish but have been known to attack larger animals if provoked.<E>"
+    "message": "<N><CNTR>---[ <FC 0,128,0>بقرة البحر<END FC> ]---<P>الموطن الطبيعي لبقرة البحر هو البحر المحيط المنفتح.<P>تفضل بقرة البحر أن تفترس الأسراب الصغيرة من الأسماك، لكن يعرف عنها أنها لا تمانع في مهاجمة من يستفزها من الحيوانات الأكبر منها.<E>"
   },
   "HT_Text_Museum_FL05_Mummy_Eagle": {
     "message": "<N><CNTR>---[ <FC 0,128,0>مومياء نسر<END FC> ]---<P>من أحد أضخم الطيور المعروفة في الوجود. عندها قوة كبيرة و حجم أكبر يسهل عليها رفع البشر.<P>يعرف عن الأقدمين أنهم انتهزوا هذه القدرة كي يستعملوا <FC 0,128,0>حجر النسر<END FC> لإستحضار هذه الطيور.<E>"
@@ -336,7 +336,7 @@
     "message": "همجي نصفي وحش عنيف بشكل صادم."
   },
   "HT_Text_Museum_Name_BU02_Skeletal_Axeman": {
-    "message": "هيكل ذو فأس! جندي مشاة شديد الفتك، ينتسب للجانب المظلم."
+    "message": "ذو الفأس الهيكلاني! جندي مشاة شديد الفتك، ينتسب للجانب المظلم."
   },
   "HT_Text_Museum_Name_BU05_almost_a_bull": {
     "message": "شبه ثور! يستعمل قرونه و النتيجة عنف بالغ الوقع!"
@@ -375,7 +375,7 @@
     "message": "دودة خضراء عملاقة! دودة ضخمة، و أسنانها أيضا ضخمة."
   },
   "HT_Text_Museum_Name_IN07_Blade_Scorpion": {
-    "message": "عقرب الشفرات! سريع فتاك، بذيل لداغ."
+    "message": "عقرب الموسى! سريع فتاك، بذيل لداغ."
   },
   "HT_Text_Museum_Name_IN09_Sak_Spike_Spider": {
     "message": "عنكبوت شوكية! معروفة بالقفز على فرائسها."
@@ -396,10 +396,10 @@
     "message": "زحاف صدفة! من الزواحف الصغيرة الصدفية الخجولة."
   },
   "HT_Text_Museum_Name_QR04_Sak_Nose_Needler": {
-    "message": "A Nose Needler! A feisty subterranean mammal."
+    "message": "خرطوم الإبرة! واحد من ثدييات الأنفاق المشاكسة."
   },
   "HT_Text_Museum_Name_QU01_Skeletal_Spider": {
-    "message": "هيكل عنكبوت! تنطح أعدائها حتى يرضخوا لها و يستسلموا."
+    "message": "عنكبوت هيكلانية! تنطح أعدائها حتى يرضخوا لها و يستسلموا."
   },
   "HT_Text_Museum_Name_QU04_Mummy_Chihuahua": {
     "message": "مومياء الشيواوا! حيوان أليف صار من الأموات الأحياء."
@@ -417,10 +417,10 @@
     "message": "جرذ! كائن وسخ قذر يتسلل في كل مكان."
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Electricity": {
-    "message": "درعية كهربائية! خبر سلالتها نزل كالصاعقة على الكثيرين."
+    "message": "درعائية كهربائية! خبر سلالتها نزل كالصاعقة على الكثيرين."
   },
   "HT_Text_Museum_Name_QU02_Skeletal_Armadillo_Fire": {
-    "message": "درعية نارية! تدور و تلتهب، مفسدة كالنار في الهشيم."
+    "message": "درعائية نارية! تدور و تلتهب، مفسدة كالنار في الهشيم."
   },
   "HT_Text_Museum_Name_QR01_Cobra": {
     "message": "كوبرا! ثعبان بطوق رأس، له عضة سامة."
@@ -726,7 +726,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>مفتاح السلالم<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>تصلح لفتح السلالم التي تؤدي إلى الشرفة في منطقة البئر.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotZipHandle": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مقبض حبل التزحلق<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>يمكنك الآن إستعمال حبال التزحلق التي في <FC 128,64,0>أبيدوس<END FC><N>كي تتمكن من التجول بسرعة في أنحاء المدينة.<ES HT_Text_ES_E_HelpText><E> "
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>عثرت على <FC 0,128,0>مقبض حبل الانزلاق<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>يمكنك الآن إستعمال حبال الانزلاق التي في <FC 128,64,0>أبيدوس<END FC><N>كي تتمكن من التجول بسرعة في أنحاء المدينة.<ES HT_Text_ES_E_HelpText><E> "
   },
   "HT_Text_Gen_Help_GotParasol": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>حصلت على <FC 0,128,0>مظلة شمس<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>تناسب أيام الحرارة و قيظ الصيف المشمس.<ES HT_Text_ES_E_HelpText><E>"

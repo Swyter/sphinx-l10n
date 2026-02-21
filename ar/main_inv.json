@@ -252,7 +252,7 @@
     "message": "مومياء مينوتور"
   },
   "HT_Text_Inv_BU02_Skeletal_Axeman": {
-    "message": "هيكل ذو الفأس"
+    "message": "ذو الفأس الهيكلاني"
   },
   "HT_Text_Inv_BU03_zombie_man": {
     "message": "زومبي"
@@ -270,10 +270,10 @@
     "message": "طائر قمعي"
   },
   "HT_Text_Inv_FL04_Skeletal_Bat": {
-    "message": "خفاش متهيكل"
+    "message": "الخفاش الهيكلاني"
   },
   "HT_Text_Inv_FL04_Skeletal_Bat_Fire": {
-    "message": "خفاش متهيكل لهبي"
+    "message": "خفاش النار الهيكلاني"
   },
   "HT_Text_Inv_FL05_Mummy_Eagle": {
     "message": "مومياء نسر"
@@ -309,7 +309,7 @@
     "message": "دودة خضراء عملاقة"
   },
   "HT_Text_Inv_IN07_Blade_Scorpion": {
-    "message": "عقرب ذو سيوف"
+    "message": "عقرب الموسى"
   },
   "HT_Text_Inv_IN08_Tacked_Spider": {
     "message": "عنكبوت مدبس"
@@ -336,7 +336,7 @@
     "message": "بقرة البحر"
   },
   "HT_Text_Inv_PI04_Aka_Spinefish": {
-    "message": "سمكة الشوك"
+    "message": "السمكشوك"
   },
   "HT_Text_Inv_PI05_Aka_Turtle": {
     "message": "سلحفاة"
@@ -369,7 +369,7 @@
     "message": "خرطوم الإبرة"
   },
   "HT_Text_Inv_QU01_Skeletal_Spider": {
-    "message": "هيكل عنكبوت"
+    "message": "العنكبوت الهيكلانية"
   },
   "HT_Text_Inv_QU02_Skeletal_Armadillo": {
     "message": "درعائية"
@@ -396,7 +396,7 @@
     "message": "كلب شيواوا"
   },
   "HT_Text_Inv_HD03_BigBull": {
-    "message": "ثور هائل"
+    "message": "الثور الكبير"
   },
   "HT_Text_Inv_HD09_Horned_ReptileMan": {
     "message": "رجل زاحف"
@@ -630,16 +630,16 @@
     "message": "مفتاح باب المغارة"
   },
   "HT_Text_Inv_Item_Quest_Bone01": {
-    "message": "جمجمة عظمية"
+    "message": "الجمجمة الهيكلانية"
   },
   "HT_Text_Inv_Item_Quest_Bone02": {
-    "message": "حوض عظمي"
+    "message": "الحوض الهيكلاني"
   },
   "HT_Text_Inv_Item_Quest_Bone03": {
-    "message": "يد عظمية"
+    "message": "الذراع الهيكلانية"
   },
   "HT_Text_Inv_Item_Quest_Bone04": {
-    "message": "ساق عظمية"
+    "message": "الساق الهيكلانية"
   },
   "HT_Text_Inv_AcidVial": {
     "message": "قنينة من حمض جب"
@@ -669,7 +669,7 @@
     "message": "جوز الهند"
   },
   "HT_Text_Inv_ZipLineHook": {
-    "message": "مقبض حبل الإنزلاق"
+    "message": "مقبض حبل الانزلاق"
   },
   "HT_Text_Inv_MedicineRoot": {
     "message": "جذور الدواء"

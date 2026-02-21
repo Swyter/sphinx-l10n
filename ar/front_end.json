@@ -27,13 +27,13 @@
     "message": "مستوى الأصوات"
   },
   "HT_Text_FE_Menu_PadRumbleGC": {
-    "message": "الإرتجاج"
+    "message": "الارتجاج"
   },
   "HT_Text_FE_Menu_PadRumbleXB": {
-    "message": "الإرتجاج"
+    "message": "الارتجاج"
   },
   "HT_Text_FE_Menu_PadRumblePS2": {
-    "message": "الإرتجاج"
+    "message": "الارتجاج"
   },
   "HT_Text_FE_Menu_ScreenAdjust": {
     "message": "تعديل الشاشة"
@@ -234,16 +234,16 @@
     "message": "انتهت اللعبة"
   },
   "HT_Text_OptionsMenu_Reset": {
-    "message": "أعد للإختيارات الإفتراضية"
+    "message": "الإعداد الأصلي"
   },
   "HT_Text_ScreenAdjustText_PS2": {
     "message": "عدل مكان الشاشة بأزرار الاتجاهات."
   },
   "HT_Text_ScreenAdjustText_GC": {
-    "message": "عدل مكان الشاشة بأزرار الإتجاهات."
+    "message": "عدل مكان الشاشة بأزرار الاتجاهات."
   },
   "HT_Text_ScreenAdjustText_XB": {
-    "message": "عدل مكان الشاشة بأزرار الإتجاهات."
+    "message": "عدل مكان الشاشة بأزرار الاتجاهات."
   },
   "HT_Text_Memcard_SaveConfirm": {
     "message": "متأكد من التسجيل إلى هذه الخلية؟"
@@ -414,7 +414,7 @@
     "message": "أنهي=اللعب"
   },
   "HT_Text_Menu_Screen": {
-    "message": "شاشة=الإعدادت"
+    "message": "إعدادات=الشاشة"
   },
   "HT_Text_Menu_Pad": {
     "message": "إعدادات=وحدةالتحكم"
