@@ -27,6 +27,22 @@ lang = {
 ignored_section_markers = [ 'M_STATIC_TEXT' ]
 
 
+from _arabic_reshaper import *
+reshaper = ArabicReshaper(configuration={
+    'delete_harakat': False,
+    'support_ligatures': True,
+    'shift_harakat_position': False,
+    'delete_tatweel': False,
+})
+
+def reshape(cur_lang, text):
+    if cur_lang != 'MARKER_ARABIC':
+        return text
+
+    reshaped_text = reshaper.reshape(text)
+    return reshaped_text
+
+
 data_read = []
 
 # swy: parse the SphinxText.csv and load it as a row-major list
@@ -136,7 +152,7 @@ for cur in lang:
 
         if hashcode in tx_json:
             if tx_json[hashcode]["message"]:
-                data_read[i][CUR_LANG_COLUMN] = tx_json[hashcode]["message"]
+                data_read[i][CUR_LANG_COLUMN] = reshape(cur, tx_json[hashcode]["message"])
                 cur_glyphs.extend(list(tx_json[hashcode]["message"]))
                 
             else: # swy: empty/WIP/untranslated; use placeholder English text surrounded by asterisks for the time being. e.g: "**text*"
