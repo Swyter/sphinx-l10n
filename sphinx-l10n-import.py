@@ -35,12 +35,23 @@ reshaper = ArabicReshaper(configuration={
     'delete_tatweel': False,
 })
 
+from _bidi.algorithm import get_display
+
 def reshape(cur_lang, text):
+    # swy: this only applies to Arabic and other right-to-left languages, for now
     if cur_lang != 'MARKER_ARABIC':
         return text
 
+    # swy: change the glyphs into their connected/display versions, so that they look like they have been written as a single uninterrupted stroke
+    #      this detects the surrounding characters at either side and sets that on the spot.
+    #      https://github.com/mpcabd/python-arabic-reshaper#description
     reshaped_text = reshaper.reshape(text)
-    return reshaped_text
+
+    # swy: as the game currently only supports a standard left-to-right presentation we need to preprocess
+    #      and flip or reverse this so that the last character appears first
+    reversed_text = get_display(reshaped_text)
+
+    return reversed_text
 
 
 data_read = []
