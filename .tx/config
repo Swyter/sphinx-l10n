@@ -1,5 +1,5 @@
 [main]
-host     = https://www.transifex.com
+host     = https://app.transifex.com
 lang_map = pt_BR: pt-BR, en_US: en-US, en_GB: en-GB
 
 [o:swyter:p:sphinx-l10n:r:abydos]
