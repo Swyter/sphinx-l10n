@@ -510,43 +510,43 @@
     "message": "ZURÜCKSETZEN"
   },
   "HT_Text_FE_Menu_ToggleReverb": {
-    "message": "ECHO"
+    "message": "REVERB"
   },
   "HT_Text_FE_Menu_FieldOfView": {
-    "message": "SICHTFELD"
+    "message": "SICHTWEITE"
   },
   "HT_Text_FE_Menu_Resolution": {
-    "message": "BILDAUFLÖSUNG"
+    "message": "AUFLÖSUNG"
   },
   "HT_Text_FE_Menu_ChooseScreen": {
-    "message": "BILDSCHIRM WÄHLEN"
+    "message": "BILDSCHIRM AUSWÄHLEN"
   },
   "HT_Text_FE_Menu_ToggleParticles": {
-    "message": "TEILCHEN"
+    "message": "PARTIKEL"
   },
   "HT_Text_FE_Menu_ToggleParticles_Limited": {
-    "message": "BESCHRÄNKTEN"
+    "message": "BEGRENZT"
   },
   "HT_Text_FE_Menu_ToggleParticles_Soft": {
-    "message": "WEICHEN"
+    "message": "WEICH"
   },
   "HT_Text_FE_Menu_Anisotropy": {
-    "message": "ANISOTROPE FILTERUNG"
+    "message": "ANISOTROPISCHES FILTERN"
   },
   "HT_Text_FE_Menu_MultiSampling": {
     "message": "MULTISAMPLING"
   },
   "HT_Text_FE_Menu_Vsync": {
-    "message": "V-SYNC"
+    "message": "VERTICAL SYNC"
   },
   "HT_Text_FE_Menu_VsyncAdaptive": {
-    "message": "ADAPTATIVE"
+    "message": "ADAPTIV"
   },
   "HT_Text_FE_Menu_RestartGame": {
-    "message": "NEUSTARTEN"
+    "message": "SPIEL NEU STARTEN"
   },
   "HT_Text_FE_ResolutionRequiresRestart": {
-    "message": "Die Änderung der Auflösung erfordert einen Neustart des Spiels"
+    "message": "Nach Änderung der Auflösung muss das Spiel neu gestartet werden."
   },
   "HT_Text_FE_ResolutionBorderless": {
     "message": "RANDLOS"
@@ -555,9 +555,240 @@
     "message": "FENSTERMODUS"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": "Grad"
+    "message": " grad"
   },
-  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Du hast nun das <FC 0,128,0>Blasrohr<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Die magischen Pfeile, die du hiermit verschießt,<N>erneuern sich automatisch unbegrenzt.<P><ES HT_Text_ES_S_HelpText><CNTR>Mit den Pfeilen kann auf entfernte Ziele geschossen werden,<N>aber sie reichen nur, um explosive Monster zu verletzen.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Benutze <SB HT_PadAction_HUD_ShowRotator>, um das <FC 0,128,0>Blasrohr<END FC> einer Taste zuzuweisen.<P><ES HT_Text_ES_S_HelpText><CNTR>Sobald das <FC 0,128,0>Blasrohr<END FC> zugewiesen ist, musst du<N>die Taste drücken, um in den First-Person-Modus zu gelangen.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke zum Feuern <SB HT_Action_FireDart>.<ES HT_Text_ES_S_HelpText><P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke <SB HT_Action_Cancel>, um den<N><FC 0,128,0>Blasrohr-<END FC>Modus zu beenden.<ES HT_Text_ES_E_HelpText><E>"
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim_JoyCon": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Du hast nun das <FC 0,128,0>Blasrohr<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Die magischen Pfeile, die du hiermit verschießt,<N>erneuern sich automatisch unbegrenzt.<P><ES HT_Text_ES_S_HelpText><CNTR>Mit den Pfeilen kann auf entfernte Ziele geschossen werden,<N>aber sie reichen nur, um explosive Monster zu verletzen.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Benutze <SB HT_PadAction_HUD_ShowRotator>, um das <FC 0,128,0>Blasrohr<END FC> einer Taste zuzuweisen.<P><ES HT_Text_ES_S_HelpText><CNTR>Sobald das <FC 0,128,0>Blasrohr<END FC> zugewiesen ist, musst du<N>die Taste drücken, um in den First-Person-Modus zu gelangen.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke zum Feuern <SB HT_Action_FireDart>.<ES HT_Text_ES_S_HelpText><P><ES HT_Text_ES_S_HelpText><CNTR>Halte <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> oder <SB HT_PadAction_GYR_Right> gedrückt, während du mit der gyroskopischen Bewegungssteuerung des linken Joy-Con zielst.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke <SB HT_Action_Cancel>, um den<N><FC 0,128,0>Blasrohr-<END FC>Modus zu beenden.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim_Generic": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Du hast nun das <FC 0,128,0>Blasrohr<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Die magischen Pfeile, die du hiermit verschießt,<N>erneuern sich automatisch unbegrenzt.<P><ES HT_Text_ES_S_HelpText><CNTR>Mit den Pfeilen kann auf entfernte Ziele geschossen werden,<N>aber sie reichen nur, um explosive Monster zu verletzen.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Benutze <SB HT_PadAction_HUD_ShowRotator>, um das <FC 0,128,0>Blasrohr<END FC> einer Taste zuzuweisen.<P><ES HT_Text_ES_S_HelpText><CNTR>Sobald das <FC 0,128,0>Blasrohr<END FC> zugewiesen ist, musst du<N>die Taste drücken, um in den First-Person-Modus zu gelangen.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke zum Feuern <SB HT_Action_FireDart>.<P><ES HT_Text_ES_S_HelpText><CNTR>Halte <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> oder <SB HT_PadAction_GYR_Right> gedrückt, während du mit der gyroskopischen Bewegungssteuerung zielst.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke <SB HT_Action_Cancel>, um den<N><FC 0,128,0>Blasrohr-<END FC>Modus zu beenden.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_FE_Menu_Shadows": {
+    "message": "SCHATTEN"
+  },
+  "HT_Text_FE_Menu_LowQuality": {
+    "message": "NIEDRIGE QUALITÄT"
+  },
+  "HT_Text_FE_Menu_MediumQuality": {
+    "message": "MITTLERE QUALITÄT"
+  },
+  "HT_Text_FE_Menu_HighQuality": {
+    "message": "HOHE QUALITÄT"
+  },
+  "HT_Text_FE_Menu_CursedQuality": {
+    "message": "VERWÜNSCHTE QUALITÄT"
+  },
+  "HT_Text_FE_Menu_CharacterShading": {
+    "message": "CHARAKTERSCHATTIERUNG"
+  },
+  "HT_Text_FE_Menu_CharacterShading_NewSelfShadows": {
+    "message": "MODERN, EIGENE SCHATTEN"
+  },
+  "HT_Text_FE_Menu_CharacterShading_NewNoSelfShadows": {
+    "message": "MODERN, OHNE SCHATTEN"
+  },
+  "HT_Text_FE_Menu_CharacterShading_Flat": {
+    "message": "FLACH"
+  },
+  "HT_Text_FE_Menu_Keybindings": {
+    "message": "TASTEN BEARBEITEN"
+  },
+  "HT_Text_SwyInput_Mode_ThirdPerson": {
+    "message": "Third-Person-Gameplay"
+  },
+  "HT_Text_SIAM_Sect_Common": {
+    "message": "Gängige Aktionen"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovUp": {
+    "message": "Nach oben bewegen"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovDown": {
+    "message": "Nach unten bewegen"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovLeft": {
+    "message": "Nach links bewegen"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovRight": {
+    "message": "Nach rechts bewegen"
+  },
+  "HT_Text_SwyInput_Action_PlayerJump": {
+    "message": "Springen"
+  },
+  "HT_Text_SwyInput_Action_PlayerDoContext": {
+    "message": "Kontextabhängige Aktion"
+  },
+  "HT_Text_SwyInput_Action_PlayerPushThrow": {
+    "message": "Schieben/Werfen"
+  },
+  "HT_Text_SIAM_Sect_Sphinx": {
+    "message": "Sphinx-Aktionen"
+  },
+  "HT_Text_SwyInput_Action_HeroSwordAttack": {
+    "message": "Schwertangriff"
+  },
+  "HT_Text_SwyInput_Action_HeroShield": {
+    "message": "Schild"
+  },
+  "HT_Text_SwyInput_Action_HeroBlowpipe": {
+    "message": "Blasrohr"
+  },
+  "HT_Text_SwyInput_Action_HeroReleaseCaptureBeetle": {
+    "message": "Fangkäfer freilassen"
+  },
+  "HT_Text_SwyInput_Action_HeroSlimBurble": {
+    "message": "Dürren Fettsack freilassen"
+  },
+  "HT_Text_SwyInput_Action_HeroReleaseArmadillo": {
+    "message": "Gürteltier freilassen"
+  },
+  "HT_Text_SwyInput_Action_HeroSwimSlow": {
+    "message": "Langsam schwimmen"
+  },
+  "HT_Text_SwyInput_Action_HeroSwimFast": {
+    "message": "Schnell schwimmen"
+  },
+  "HT_Text_SwyInput_Action_HeroDive": {
+    "message": "Tauchen"
+  },
+  "HT_Text_SwyInput_Action_HeroDiveAttack": {
+    "message": "Unterwasserangriff"
+  },
+  "HT_Text_SIAM_Sect_Mummy": {
+    "message": "Mumien-Aktionen"
+  },
+  "HT_Text_SwyInput_Action_MummyCrawl": {
+    "message": "Kriechen"
+  },
+  "HT_Text_SwyInput_Action_MummyInvisibility": {
+    "message": "Unsichtbarkeit"
+  },
+  "HT_Text_SwyInput_Action_MummySwapTripleMummyPrev": {
+    "message": "Vorige Dreifach-Mumie"
+  },
+  "HT_Text_SwyInput_Action_MummySwapTripleMummyNext": {
+    "message": "Nächste Dreifach-Mumie"
+  },
+  "HT_Text_SIAM_Sect_ItemRotator": {
+    "message": "Bildschirm-Gegenstandsauswahl"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorUp": {
+    "message": "Gegenstandsrad auf"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorDown": {
+    "message": "Gegenstandsrad ab"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorSelect": {
+    "message": "Gegenstandsrad-Auswahl"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorBack": {
+    "message": "Gegenstandsrad zurück"
+  },
+  "HT_Text_SIAM_Sect_Misc": {
+    "message": "Sonstige Aktionen"
+  },
+  "HT_Text_SwyInput_Action_TogglePauseMenu": {
+    "message": "Pausenmenü ein/aus"
+  },
+  "HT_Text_SwyInput_Action_ToggleBookOfSphinx": {
+    "message": "Buch des Sphinx ein/aus"
+  },
+  "HT_Text_SwyInput_Action_SkipCutscene": {
+    "message": "Filmsequenz überspringen"
+  },
+  "HT_Text_SwyInput_Action_CameraRecenter": {
+    "message": "Kamera neu zentrieren"
+  },
+  "HT_Text_SwyInput_Action_CameraFocusOnBoss": {
+    "message": "Kamerafokus auf Bossgegner"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovUp": {
+    "message": "Dritte-Person-Kamera nach oben"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovDown": {
+    "message": "Dritte-Person-Kamera nach unten"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovLeft": {
+    "message": "Dritte-Person-Kamera nach links"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovRight": {
+    "message": "Dritte-Person-Kamera nach rechts"
+  },
+  "HT_Text_SwyInput_Mode_Blowpipe": {
+    "message": "Blasrohr-Aktionen"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovUp": {
+    "message": "Ego-Perspektive auf"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovDown": {
+    "message": "Ego-Perspektive ab"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovLeft": {
+    "message": "Ego-Perspektive links"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovRight": {
+    "message": "Ego-Perspektive rechts"
+  },
+  "HT_Text_SwyInput_Action_HeroShootDart": {
+    "message": "Pfeil verschießen"
+  },
+  "HT_Text_SwyInput_Action_HeroBlowpipeCancel": {
+    "message": "Abbrechen"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartStandard": {
+    "message": "Standardpfeil auswählen"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartAcid": {
+    "message": "Säurepfeil auswählen"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartIce": {
+    "message": "Eispfeil auswählen"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartBounce": {
+    "message": "Gummipfeil auswählen"
+  },
+  "HT_Text_SwyInput_Mode_Menu": {
+    "message": "Menü-Aktionen"
+  },
+  "HT_Text_SwyInput_Action_MenuUp": {
+    "message": "Nach oben"
+  },
+  "HT_Text_SwyInput_Action_MenuDown": {
+    "message": "Nach unten"
+  },
+  "HT_Text_SwyInput_Action_MenuLeft": {
+    "message": "Nach links"
+  },
+  "HT_Text_SwyInput_Action_MenuRight": {
+    "message": "Nach rechts"
+  },
+  "HT_Text_SwyInput_Action_MenuEnter": {
+    "message": "Eingabe"
+  },
+  "HT_Text_SwyInput_Action_MenuBack": {
+    "message": "Zurück"
+  },
+  "HT_Text_SwyInput_Action_MenuBookOfSphinxCycleLeft": {
+    "message": "Vorige Seite"
+  },
+  "HT_Text_SwyInput_Action_MenuBookOfSphinxCycleRight": {
+    "message": "Nächste Seite"
+  },
+  "HT_Text_FE_Menu_OptionsSubGameplay": {
+    "message": "GAMEPLAY=EINSTELLUNGEN"
+  },
+  "HT_Text_FE_Menu_EnemyDamageMult": {
+    "message": "GEGNERSCHWIERIGKEIT"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior": {
+    "message": "NACH SPIELENDE"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior_UnsavedCheckpoint": {
+    "message": "AB CHECKPOINT FORTFAHREN"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior_ReloadSlot": {
+    "message": "LETZTEN SPEICHERSTAND LADEN"
+  },
+  "HT_Text_FE_Menu_GameOverBehaviorExplanation": {
+    "message": "Nach einem Spielende kannst du entweder am letzten ungespeicherten Checkpoint weitermachen oder deinen letzten an einer heiligen Statue gesicherten Speicherstand neu laden. Letzterer löscht jeglichen kürzlich erzielten, ungespeicherten Fortschritt und erfordert regelmäßiges Speichern – eine zusätzliche Schwierigkeit, die manche Spielende bevorzugen."
   }
 }

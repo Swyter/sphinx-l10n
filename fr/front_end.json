@@ -3,7 +3,7 @@
     "message": "NOUVELLE PARTIE"
   },
   "HT_Text_FE_Menu_LoadGame": {
-    "message": "CHARGER"
+    "message": "CHARGER PARTIE"
   },
   "HT_Text_FE_Menu_BonusMaterial": {
     "message": "BONUS"
@@ -513,51 +513,282 @@
     "message": "REVERB"
   },
   "HT_Text_FE_Menu_FieldOfView": {
-    "message": "FIELD OF VIEW"
+    "message": "CHAMP DE VISION"
   },
   "HT_Text_FE_Menu_Resolution": {
-    "message": "RESOLUTION"
+    "message": "RÉSOLUTION"
   },
   "HT_Text_FE_Menu_ChooseScreen": {
-    "message": "CHOOSE SCREEN"
+    "message": "CHOISIR L'ÉCRAN"
   },
   "HT_Text_FE_Menu_ToggleParticles": {
-    "message": "PARTICLES"
+    "message": "PARTICULES"
   },
   "HT_Text_FE_Menu_ToggleParticles_Limited": {
-    "message": "LIMITED"
+    "message": "LIMITÉES"
   },
   "HT_Text_FE_Menu_ToggleParticles_Soft": {
-    "message": "SOFT"
+    "message": "DOUCES"
   },
   "HT_Text_FE_Menu_Anisotropy": {
-    "message": "ANISOTROPIC FILTERING"
+    "message": "FILTRAGE ANISOTROPE"
   },
   "HT_Text_FE_Menu_MultiSampling": {
-    "message": "MULTISAMPLING"
+    "message": "MULTI-ÉCHANTILLONAGE"
   },
   "HT_Text_FE_Menu_Vsync": {
-    "message": "VERTICAL SYNC"
+    "message": "SYNCHRONIS. VERTICALE"
   },
   "HT_Text_FE_Menu_VsyncAdaptive": {
-    "message": "ADAPTIVE"
+    "message": "ADAPTATIVE"
   },
   "HT_Text_FE_Menu_RestartGame": {
-    "message": "RESTART GAME"
+    "message": "RELANCER LE JEU"
   },
   "HT_Text_FE_ResolutionRequiresRestart": {
-    "message": "Changing the resolution requires restarting the game."
+    "message": "Modifier la résolution nécessite de relancer le jeu."
   },
   "HT_Text_FE_ResolutionBorderless": {
-    "message": "BORDERLESS"
+    "message": "SANS BORDURE"
   },
   "HT_Text_FE_ResolutionWindowed": {
-    "message": "WINDOWED"
+    "message": "FENÊTRÉ"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
     "message": " deg"
   },
-  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu as la <FC 0,128,0>Sarbacane<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ses flèches magiques<N>se régénèrent à l'infini.<P><ES HT_Text_ES_S_HelpText><CNTR>Si elles peuvent atteindre des cibles distantes, elles<N>n'endommagent que les monstres explosifs.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Utilise <SB HT_PadAction_HUD_ShowRotator> pour assigner la <FC 0,128,0>Sarbacane<END FC> à une touche.<P><ES HT_Text_ES_S_HelpText><CNTR>Une fois la <FC 0,128,0>Sarbacane<END FC> assignée, appuie<N>sur la touche pour passer en mode 1ère personne.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_FireDart> pour tirer.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_Cancel> pour sortir<N>du mode <FC 0,128,0>Sarbacane<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim_JoyCon": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu as la <FC 0,128,0>Sarbacane<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ses flèches magiques<N>se régénèrent à l'infini.<P><ES HT_Text_ES_S_HelpText><CNTR>Si elles peuvent atteindre des cibles distantes, elles<N>n'endommagent que les monstres explosifs.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Utilise <SB HT_PadAction_HUD_ShowRotator> pour assigner la <FC 0,128,0>Sarbacane<END FC> à une touche.<P><ES HT_Text_ES_S_HelpText><CNTR>Une fois la <FC 0,128,0>Sarbacane<END FC> assignée, appuie<N>sur la touche pour passer en mode 1ère personne.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_FireDart> pour tirer.<P><ES HT_Text_ES_S_HelpText><CNTR>Garde <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> ou <SB HT_PadAction_GYR_Right> enfoncé en bougeant le Joy-con de gauche pour viser grâce aux contrôles gyroscopiques.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_Cancel> pour sortir<N>du mode <FC 0,128,0>Sarbacane<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim_Generic": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu as la <FC 0,128,0>Sarbacane<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ses flèches magiques<N>se régénèrent à l'infini.<P><ES HT_Text_ES_S_HelpText><CNTR>Si elles peuvent atteindre des cibles distantes, elles<N>n'endommagent que les monstres explosifs.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Utilise <SB HT_PadAction_HUD_ShowRotator> pour assigner la <FC 0,128,0>Sarbacane<END FC> à une touche.<P><ES HT_Text_ES_S_HelpText><CNTR>Une fois la <FC 0,128,0>Sarbacane<END FC> assignée, appuie<N>sur la touche pour passer en mode 1ère personne.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_FireDart> pour tirer.<P><ES HT_Text_ES_S_HelpText><CNTR>Garde <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> ou <SB HT_PadAction_GYR_Right> enfoncé en te déplaçant pour viser grâce aux contrôles gyroscopiques.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_Cancel> pour sortir<N>du mode <FC 0,128,0>Sarbacane<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_FE_Menu_Shadows": {
+    "message": "OMBRES"
+  },
+  "HT_Text_FE_Menu_LowQuality": {
+    "message": "QUALITÉ FAIBLE"
+  },
+  "HT_Text_FE_Menu_MediumQuality": {
+    "message": "QUALITÉ MOYENNE"
+  },
+  "HT_Text_FE_Menu_HighQuality": {
+    "message": "QUALITÉ HAUTE"
+  },
+  "HT_Text_FE_Menu_CursedQuality": {
+    "message": "QUALITÉ MAUDITE"
+  },
+  "HT_Text_FE_Menu_CharacterShading": {
+    "message": "OMBRAGE DES PERSONNAGES"
+  },
+  "HT_Text_FE_Menu_CharacterShading_NewSelfShadows": {
+    "message": "MODERNE + OMBRES PROPRES"
+  },
+  "HT_Text_FE_Menu_CharacterShading_NewNoSelfShadows": {
+    "message": "MODERNE, PAS D'OMBRES PROPRES"
+  },
+  "HT_Text_FE_Menu_CharacterShading_Flat": {
+    "message": "AUCUN"
+  },
+  "HT_Text_FE_Menu_Keybindings": {
+    "message": "MODIFIER LES RACCOURCIS"
+  },
+  "HT_Text_SwyInput_Mode_ThirdPerson": {
+    "message": "Gameplay à la troisième personne"
+  },
+  "HT_Text_SIAM_Sect_Common": {
+    "message": "Actions communes"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovUp": {
+    "message": "Haut"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovDown": {
+    "message": "Bas"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovLeft": {
+    "message": "Gauche"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovRight": {
+    "message": "Droite"
+  },
+  "HT_Text_SwyInput_Action_PlayerJump": {
+    "message": "Sauter"
+  },
+  "HT_Text_SwyInput_Action_PlayerDoContext": {
+    "message": "Action contextuelle"
+  },
+  "HT_Text_SwyInput_Action_PlayerPushThrow": {
+    "message": "Pousser/Lancer "
+  },
+  "HT_Text_SIAM_Sect_Sphinx": {
+    "message": "Actions de Sphinx"
+  },
+  "HT_Text_SwyInput_Action_HeroSwordAttack": {
+    "message": "Attaque à l'épée"
+  },
+  "HT_Text_SwyInput_Action_HeroShield": {
+    "message": "Bouclier"
+  },
+  "HT_Text_SwyInput_Action_HeroBlowpipe": {
+    "message": "Sarbacane"
+  },
+  "HT_Text_SwyInput_Action_HeroReleaseCaptureBeetle": {
+    "message": "Relâcher un Insecte chasseur"
+  },
+  "HT_Text_SwyInput_Action_HeroSlimBurble": {
+    "message": "Relâcher une Filigrouille"
+  },
+  "HT_Text_SwyInput_Action_HeroReleaseArmadillo": {
+    "message": "Relâcher un Tatou"
+  },
+  "HT_Text_SwyInput_Action_HeroSwimSlow": {
+    "message": "Nager lentement"
+  },
+  "HT_Text_SwyInput_Action_HeroSwimFast": {
+    "message": "Nager rapidement"
+  },
+  "HT_Text_SwyInput_Action_HeroDive": {
+    "message": "Plonger"
+  },
+  "HT_Text_SwyInput_Action_HeroDiveAttack": {
+    "message": "Attaque sous-marine "
+  },
+  "HT_Text_SIAM_Sect_Mummy": {
+    "message": "Actions de Momie"
+  },
+  "HT_Text_SwyInput_Action_MummyCrawl": {
+    "message": "Ramper"
+  },
+  "HT_Text_SwyInput_Action_MummyInvisibility": {
+    "message": "Invisibilité"
+  },
+  "HT_Text_SwyInput_Action_MummySwapTripleMummyPrev": {
+    "message": "Triple Momie précédente"
+  },
+  "HT_Text_SwyInput_Action_MummySwapTripleMummyNext": {
+    "message": "Triple Momie suivante"
+  },
+  "HT_Text_SIAM_Sect_ItemRotator": {
+    "message": "Interface de sélection d'objets"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorUp": {
+    "message": "Objet précédent"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorDown": {
+    "message": "Objet suivant"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorSelect": {
+    "message": "Sélectionner l'objet"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorBack": {
+    "message": "Retour "
+  },
+  "HT_Text_SIAM_Sect_Misc": {
+    "message": "Actions diverses"
+  },
+  "HT_Text_SwyInput_Action_TogglePauseMenu": {
+    "message": "Afficher/masquer le menu de pause"
+  },
+  "HT_Text_SwyInput_Action_ToggleBookOfSphinx": {
+    "message": "Afficher/masquer le Livre de Sphinx"
+  },
+  "HT_Text_SwyInput_Action_SkipCutscene": {
+    "message": "Passer la cinématique"
+  },
+  "HT_Text_SwyInput_Action_CameraRecenter": {
+    "message": "Recentrer la caméra"
+  },
+  "HT_Text_SwyInput_Action_CameraFocusOnBoss": {
+    "message": "Centrer la caméra sur le boss"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovUp": {
+    "message": "Caméra vers le haut (3ème personne)"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovDown": {
+    "message": "Caméra vers le bas (3ème personne)"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovLeft": {
+    "message": "Caméra vers la gauche (3ème personne)"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovRight": {
+    "message": "Caméra vers la droite (3ème personne)"
+  },
+  "HT_Text_SwyInput_Mode_Blowpipe": {
+    "message": "Actions de Sarbacane"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovUp": {
+    "message": "Haut (1ère personne)"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovDown": {
+    "message": "Bas (1ère personne)"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovLeft": {
+    "message": "Gauche (1ère personne)"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovRight": {
+    "message": "Droite (1ère personne)"
+  },
+  "HT_Text_SwyInput_Action_HeroShootDart": {
+    "message": "Tirer une flèche"
+  },
+  "HT_Text_SwyInput_Action_HeroBlowpipeCancel": {
+    "message": "Annuler"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartStandard": {
+    "message": "Sélectionner les flèches standard"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartAcid": {
+    "message": "Sélectionner les flèches acides"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartIce": {
+    "message": "Sélectionner les flèches de glace"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartBounce": {
+    "message": "Sélectionner les flèches rebondissantes"
+  },
+  "HT_Text_SwyInput_Mode_Menu": {
+    "message": "Actions de menu"
+  },
+  "HT_Text_SwyInput_Action_MenuUp": {
+    "message": "Haut"
+  },
+  "HT_Text_SwyInput_Action_MenuDown": {
+    "message": "Bas"
+  },
+  "HT_Text_SwyInput_Action_MenuLeft": {
+    "message": "Gauche"
+  },
+  "HT_Text_SwyInput_Action_MenuRight": {
+    "message": "Droite"
+  },
+  "HT_Text_SwyInput_Action_MenuEnter": {
+    "message": "Confirmer"
+  },
+  "HT_Text_SwyInput_Action_MenuBack": {
+    "message": "Retour"
+  },
+  "HT_Text_SwyInput_Action_MenuBookOfSphinxCycleLeft": {
+    "message": "Page précédente"
+  },
+  "HT_Text_SwyInput_Action_MenuBookOfSphinxCycleRight": {
+    "message": "Page suivante"
+  },
+  "HT_Text_FE_Menu_OptionsSubGameplay": {
+    "message": "PARAMÈTRES JEU"
+  },
+  "HT_Text_FE_Menu_EnemyDamageMult": {
+    "message": "DIFFICULTÉ DES ENNEMIS"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior": {
+    "message": "APRÈS UN GAME OVER"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior_UnsavedCheckpoint": {
+    "message": "CONTINUER D'UN POINT DE CONTRÔLE"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior_ReloadSlot": {
+    "message": "CHARGER LA DERNIÈRE SAUVEGARDE"
+  },
+  "HT_Text_FE_Menu_GameOverBehaviorExplanation": {
+    "message": "Après un Game Over, tu peux choisir entre (1) continuer depuis le dernier point de contrôle ou (2) charger ta dernière sauvegarde de statue, comme dans le jeu d'origine. La seconde option nécessite des sauvegardes manuelles plus fréquentes, ce qui rajoute une couche de difficulté que certains joueurs préfèrent."
   }
 }

@@ -78,7 +78,7 @@
     "message": "<EFF><EPO>Hé Sphinx! Par ici. Vite!<P> Je vais avoir besoin de ton aide.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb02": {
-    "message": "<EFF><EPO>Saute contre le mur. Monte, descends, va à gauche/droite avec <SB HT_PadAction_PLR_MovePlr>.<P>Grimpe en appuyant doucement sur <SB HT_PadAction_PLR_MovePlr>.<E>"
+    "message": "<EFF><EPO>Saute contre le mur. Monte, descends, va à gauche/droite avec <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr>.<P>Grimpe en appuyant doucement sur <SB HT_PadAction_PLR_MovePlr>.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb03": {
     "message": "Méfie-toi de ces araignées, leur morsure est très douloureuse!<E>"
@@ -87,7 +87,7 @@
     "message": "Utilise la rampe pour franchir le vide.<E> "
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
-    "message": "<EFF><EPO>Saute, saisis la rampe et va à gauche/droite avec <SB HT_PadAction_PLR_MovePlr>.<P>Pour traverser lentement, orientez <SB HT_PadAction_PLR_MovePlr> legèrement.<E>"
+    "message": "<EFF><EPO>Saute, saisis la rampe et va à gauche/droite avec <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr>.<P>Pour traverser lentement, orientez <SB HT_PadAction_PLR_MovePlr> legèrement.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
     "message": "Une fois parvenu à destination, appuie sur <SB HT_Action_Drop> pour sauter de la rampe.<E>"

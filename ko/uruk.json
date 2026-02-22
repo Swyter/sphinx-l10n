@@ -78,7 +78,7 @@
     "message": "<EFF><EPO>이봐 스핑크스! 여기 위다! 어서어서, 서둘러!<P> 여기 위쪽에서 네 도움이 필요해.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb02": {
-    "message": "<EFF><EPO>벽을 향해 뛴 후 <SB HT_PadAction_PLR_MovePlr>를 사용해서 상하좌우로 기어와.<P>천천히 기어가려면 <SB HT_PadAction_PLR_MovePlr>를 가볍게 눌러.<E>"
+    "message": "<EFF><EPO>벽을 향해 뛴 후 <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr>를 사용해서 상하좌우로 기어와.<P>천천히 기어가려면 <SB HT_PadAction_PLR_MovePlr>를 가볍게 눌러.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb03": {
     "message": "하지만 그 거미들을 조심해. 심하게 물릴 수 있다!<E>"
@@ -87,7 +87,7 @@
     "message": "이쪽이다! 협곡을 건너오려면 난간을 이용해.<E> "
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
-    "message": "<EFF><EPO>뛰어서 난간을 잡아, 그리고 <SB HT_PadAction_PLR_MovePlr>을 이용해서 좌우로 움직여라.<P>천천히 움직이려면 <SB HT_PadAction_PLR_MovePlr>를 가볍게 눌러.<E>"
+    "message": "<EFF><EPO>뛰어서 난간을 잡아, 그리고 <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr>을 이용해서 좌우로 움직여라.<P>천천히 움직이려면 <SB HT_PadAction_PLR_MovePlr>를 가볍게 눌러.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
     "message": "난간에서 손을 놓으려면 <SB HT_Action_Drop>를 누르면 된다, 하지만 협곡을 안전하게 건넜다는 것을 먼저 확인하여라!<E>"

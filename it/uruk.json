@@ -78,7 +78,7 @@
     "message": "<EFF><EPO>Ehi Sphinx! Quassù! Forza, dobbiamo sbrigarci!<P> Ho bisogno del tuo aiuto quassù!<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb02": {
-    "message": "<EFF><EPO>Salta contro il muro e usa <SB HT_PadAction_PLR_MovePlr> per arrampicarti in ogni direzione.<P>Per arrampicarti lentamente, premi piano <SB HT_PadAction_PLR_MovePlr>.<E>"
+    "message": "<EFF><EPO>Salta contro il muro e usa <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr> per arrampicarti in ogni direzione.<P>Per arrampicarti lentamente, premi piano <SB HT_PadAction_PLR_MovePlr>.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb03": {
     "message": "Ma fai attenzione a quei ragni: essere morso da quei mostri non è una cosa piacevole!<E>"
@@ -87,7 +87,7 @@
     "message": "Di qui! Usa le ringhiere per superare il varco.<E> "
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
-    "message": "<EFF><EPO>Salta, afferra la ringhiera e usa <SB HT_PadAction_PLR_MovePlr> per spostarti di lato.<P>Per attraversare lentamente, muovi piano <SB HT_PadAction_PLR_MovePlr>.<E>"
+    "message": "<EFF><EPO>Salta, afferra la ringhiera e usa <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr> per spostarti di lato.<P>Per attraversare lentamente, muovi piano <SB HT_PadAction_PLR_MovePlr>.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
     "message": "Premi <SB HT_Action_Drop> per lasciare la presa ma verifica di essere sano e salvo dall'altra parte!<E>"

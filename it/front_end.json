@@ -557,7 +557,238 @@
   "HT_Text_FE_ResolutionFovDegrees": {
     "message": " grd"
   },
-  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim_JoyCon": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto la <FC 0,128,0>Cerbottana<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I dardi magici scagliati<N>si rigenerano all'infinito <P><ES HT_Text_ES_S_HelpText><CNTR>e possono essere utilizzati per colpire bersagli lontani, ma<N>sono in grado solo di danneggiare i mostri esplosivi.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Usa <SB HT_PadAction_HUD_ShowRotator> per assegnare la <FC 0,128,0>Cerbottana<END FC> a un tasto.<P><ES HT_Text_ES_S_HelpText><CNTR>Quindi,<FC 0,128,0><END FC> premi il tasto<N>per accedere alla modalità in prima persona.<P><ES HT_Text_ES_S_HelpText><CNTR>Premi <SB HT_Action_FireDart> per sparare.<P><ES HT_Text_ES_S_HelpText><CNTR>Tieni premuto <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> o <SB HT_PadAction_GYR_Right> mentre muovi il Joy-Con sinistro per mirare usando il sensori di movimento giroscopico.<P><ES HT_Text_ES_S_HelpText> <CNTR>Premi <SB HT_Action_Cancel> per uscire<N>dalla modalità <FC 0,128,0>Cerbottana<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim_Generic": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto la <FC 0,128,0>Cerbottana<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I dardi magici scagliati<N>si rigenerano all'infinito <P><ES HT_Text_ES_S_HelpText><CNTR>e possono essere utilizzati per colpire bersagli lontani, ma<N>sono in grado solo di danneggiare i mostri esplosivi.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Usa <SB HT_PadAction_HUD_ShowRotator> per assegnare la <FC 0,128,0>Cerbottana<END FC> a un tasto.<P><ES HT_Text_ES_S_HelpText><CNTR>Quindi,<FC 0,128,0><END FC> premi il tasto<N>per accedere alla modalità in prima persona.<P><ES HT_Text_ES_S_HelpText><CNTR>Premi <SB HT_Action_FireDart> per sparare.<P><ES HT_Text_ES_S_HelpText><CNTR>Tieni premuto <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> o <SB HT_PadAction_GYR_Right> mentre ti muovi per mirare con i comandi di movimento.<P><ES HT_Text_ES_S_HelpText><CNTR>Premi <SB HT_Action_Cancel> per uscire<N>dalla modalità <FC 0,128,0>Cerbottana<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_FE_Menu_Shadows": {
+    "message": "OMBRE"
+  },
+  "HT_Text_FE_Menu_LowQuality": {
+    "message": "QUALITÀ BASSA"
+  },
+  "HT_Text_FE_Menu_MediumQuality": {
+    "message": "QUALITÀ MEDIA"
+  },
+  "HT_Text_FE_Menu_HighQuality": {
+    "message": "QUALITÀ ALTA"
+  },
+  "HT_Text_FE_Menu_CursedQuality": {
+    "message": "QUALITÀ MALEDETTA"
+  },
+  "HT_Text_FE_Menu_CharacterShading": {
+    "message": "ASPETTO PERSONAGGI"
+  },
+  "HT_Text_FE_Menu_CharacterShading_NewSelfShadows": {
+    "message": "MODERNO + OMBRE PROPRIE"
+  },
+  "HT_Text_FE_Menu_CharacterShading_NewNoSelfShadows": {
+    "message": "MODERNO"
+  },
+  "HT_Text_FE_Menu_CharacterShading_Flat": {
+    "message": "PIATTO"
+  },
+  "HT_Text_FE_Menu_Keybindings": {
+    "message": "MODIFICA TASTI"
+  },
+  "HT_Text_SwyInput_Mode_ThirdPerson": {
+    "message": "Gioco in terza persona"
+  },
+  "HT_Text_SIAM_Sect_Common": {
+    "message": "Azioni comuni"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovUp": {
+    "message": "Muoviti in su"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovDown": {
+    "message": "Muoviti in giù"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovLeft": {
+    "message": "Muoviti a sinistra"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovRight": {
+    "message": "Muoviti a destra"
+  },
+  "HT_Text_SwyInput_Action_PlayerJump": {
+    "message": "Salta"
+  },
+  "HT_Text_SwyInput_Action_PlayerDoContext": {
+    "message": "Azione contestuale"
+  },
+  "HT_Text_SwyInput_Action_PlayerPushThrow": {
+    "message": "Spingi/Lancia "
+  },
+  "HT_Text_SIAM_Sect_Sphinx": {
+    "message": "Azioni di Sphinx"
+  },
+  "HT_Text_SwyInput_Action_HeroSwordAttack": {
+    "message": "Attacco con la spada"
+  },
+  "HT_Text_SwyInput_Action_HeroShield": {
+    "message": "Scudo"
+  },
+  "HT_Text_SwyInput_Action_HeroBlowpipe": {
+    "message": "Cerbottana"
+  },
+  "HT_Text_SwyInput_Action_HeroReleaseCaptureBeetle": {
+    "message": "Libera Coleottero da cattura"
+  },
+  "HT_Text_SwyInput_Action_HeroSlimBurble": {
+    "message": "Libera Blob esile"
+  },
+  "HT_Text_SwyInput_Action_HeroReleaseArmadillo": {
+    "message": "Libera Armadillo"
+  },
+  "HT_Text_SwyInput_Action_HeroSwimSlow": {
+    "message": "Nuota piano"
+  },
+  "HT_Text_SwyInput_Action_HeroSwimFast": {
+    "message": "Nuota veloce"
+  },
+  "HT_Text_SwyInput_Action_HeroDive": {
+    "message": "Immergiti"
+  },
+  "HT_Text_SwyInput_Action_HeroDiveAttack": {
+    "message": "Attacco sott'acqua "
+  },
+  "HT_Text_SIAM_Sect_Mummy": {
+    "message": "Azioni della Mummia"
+  },
+  "HT_Text_SwyInput_Action_MummyCrawl": {
+    "message": "Striscia"
+  },
+  "HT_Text_SwyInput_Action_MummyInvisibility": {
+    "message": "Invisibilità"
+  },
+  "HT_Text_SwyInput_Action_MummySwapTripleMummyPrev": {
+    "message": "Tripla Mummia precedente"
+  },
+  "HT_Text_SwyInput_Action_MummySwapTripleMummyNext": {
+    "message": "Tripla Mummia successiva"
+  },
+  "HT_Text_SIAM_Sect_ItemRotator": {
+    "message": "Selettore oggetti a schermo"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorUp": {
+    "message": "Carosello oggetti - Su"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorDown": {
+    "message": "Carosello oggetti - Giù"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorSelect": {
+    "message": "Carosello oggetti - Seleziona"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorBack": {
+    "message": "Carosello oggetti - Indietro "
+  },
+  "HT_Text_SIAM_Sect_Misc": {
+    "message": "Azioni varie"
+  },
+  "HT_Text_SwyInput_Action_TogglePauseMenu": {
+    "message": "Attiva/Disattiva menu di pausa"
+  },
+  "HT_Text_SwyInput_Action_ToggleBookOfSphinx": {
+    "message": "Attiva/Disattiva Libro di Sphinx"
+  },
+  "HT_Text_SwyInput_Action_SkipCutscene": {
+    "message": "Salta intermezzo"
+  },
+  "HT_Text_SwyInput_Action_CameraRecenter": {
+    "message": "Ricentra telecamera"
+  },
+  "HT_Text_SwyInput_Action_CameraFocusOnBoss": {
+    "message": "Inquadra boss"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovUp": {
+    "message": "Telecamera in terza persona - Su"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovDown": {
+    "message": "Telecamera in terza persona - Giù"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovLeft": {
+    "message": "Telecamera in terza persona - Sinistra"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovRight": {
+    "message": "Telecamera in terza persona - Destra"
+  },
+  "HT_Text_SwyInput_Mode_Blowpipe": {
+    "message": "Azioni Cerbottana"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovUp": {
+    "message": "Soggettiva - Su"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovDown": {
+    "message": "Soggettiva - Giù"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovLeft": {
+    "message": "Soggettiva - Sinistra"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovRight": {
+    "message": "Soggettiva - Destra"
+  },
+  "HT_Text_SwyInput_Action_HeroShootDart": {
+    "message": "Tira dardo"
+  },
+  "HT_Text_SwyInput_Action_HeroBlowpipeCancel": {
+    "message": "Annulla"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartStandard": {
+    "message": "Seleziona dardo standard"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartAcid": {
+    "message": "Seleziona dardo acido"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartIce": {
+    "message": "Seleziona dardo ghiaccio"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartBounce": {
+    "message": "Seleziona dardo rimbalzante"
+  },
+  "HT_Text_SwyInput_Mode_Menu": {
+    "message": "Azioni menu"
+  },
+  "HT_Text_SwyInput_Action_MenuUp": {
+    "message": "Su"
+  },
+  "HT_Text_SwyInput_Action_MenuDown": {
+    "message": "Giù"
+  },
+  "HT_Text_SwyInput_Action_MenuLeft": {
+    "message": "Sinistra"
+  },
+  "HT_Text_SwyInput_Action_MenuRight": {
+    "message": "Destra"
+  },
+  "HT_Text_SwyInput_Action_MenuEnter": {
+    "message": "Accedi"
+  },
+  "HT_Text_SwyInput_Action_MenuBack": {
+    "message": "Indietro"
+  },
+  "HT_Text_SwyInput_Action_MenuBookOfSphinxCycleLeft": {
+    "message": "Pagina precedente"
+  },
+  "HT_Text_SwyInput_Action_MenuBookOfSphinxCycleRight": {
+    "message": "Pagina successiva "
+  },
+  "HT_Text_FE_Menu_OptionsSubGameplay": {
+    "message": "IMPOSTA GIOCO"
+  },
+  "HT_Text_FE_Menu_EnemyDamageMult": {
+    "message": "DIFFICOLTÀ NEMICI"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior": {
+    "message": "DOPO UN GIOCO FINITO"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior_UnsavedCheckpoint": {
+    "message": "CONTINUA DAL CHECKPOINT"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior_ReloadSlot": {
+    "message": "RICARICA L'ULTIMO SALVATAGGIO"
+  },
+  "HT_Text_FE_Menu_GameOverBehaviorExplanation": {
+    "message": "Dopo un gioco finito, puoi scegliere se (1) continuare dal checkpoint non salvato più recente o se (2) ricaricare il tuo ultimo salvataggio effettuato presso la statua sacra, come avveniva nel gioco originale (tutti i progressi non salvati più recenti vengono persi; richiede di salvare manualmente, aggiungendo un elemento di sfida in più che potresti preferire)."
   }
 }

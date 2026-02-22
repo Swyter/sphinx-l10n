@@ -557,7 +557,238 @@
   "HT_Text_FE_ResolutionFovDegrees": {
     "message": " deg"
   },
-  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim_JoyCon": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The magical darts fired from this powerful tool,<N>regenerate giving you an infinite supply.<P><ES HT_Text_ES_S_HelpText><CNTR>The darts can be used to hit remote targets but they<N>are only powerful enough to damage explosive monsters.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> to assign the <FC 0,128,0>Blowpipe<END FC> to a button.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the <FC 0,128,0>Blowpipe<END FC> is assigned, press<N>the button to enter first person mode.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_FireDart> to fire.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Cancel> to exit<N>from <FC 0,128,0>Blowpipe<END FC> mode.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim_Generic": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The magical darts fired from this powerful tool,<N>regenerate giving you an infinite supply.<P><ES HT_Text_ES_S_HelpText><CNTR>The darts can be used to hit remote targets but they<N>are only powerful enough to damage explosive monsters.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> to assign the <FC 0,128,0>Blowpipe<END FC> to a button.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the <FC 0,128,0>Blowpipe<END FC> is assigned, press<N>the button to enter first person mode.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_FireDart> to fire.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Cancel> to exit<N>from <FC 0,128,0>Blowpipe<END FC> mode.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_FE_Menu_Shadows": {
+    "message": "SHADOWS"
+  },
+  "HT_Text_FE_Menu_LowQuality": {
+    "message": "LOW QUALITY"
+  },
+  "HT_Text_FE_Menu_MediumQuality": {
+    "message": "MEDIUM QUALITY"
+  },
+  "HT_Text_FE_Menu_HighQuality": {
+    "message": "HIGH QUALITY"
+  },
+  "HT_Text_FE_Menu_CursedQuality": {
+    "message": "CURSED QUALITY"
+  },
+  "HT_Text_FE_Menu_CharacterShading": {
+    "message": "CHARACTER SHADING"
+  },
+  "HT_Text_FE_Menu_CharacterShading_NewSelfShadows": {
+    "message": "MODERN + SELF-SHADOWS"
+  },
+  "HT_Text_FE_Menu_CharacterShading_NewNoSelfShadows": {
+    "message": "MODERN, NO SELF-SHADOWS"
+  },
+  "HT_Text_FE_Menu_CharacterShading_Flat": {
+    "message": "FLAT"
+  },
+  "HT_Text_FE_Menu_Keybindings": {
+    "message": "EDIT KEYS"
+  },
+  "HT_Text_SwyInput_Mode_ThirdPerson": {
+    "message": "Third-person Gameplay"
+  },
+  "HT_Text_SIAM_Sect_Common": {
+    "message": "Common Actions "
+  },
+  "HT_Text_SwyInput_Action_PlayerMovUp": {
+    "message": "Move Up "
+  },
+  "HT_Text_SwyInput_Action_PlayerMovDown": {
+    "message": "Move Down "
+  },
+  "HT_Text_SwyInput_Action_PlayerMovLeft": {
+    "message": "Move Left "
+  },
+  "HT_Text_SwyInput_Action_PlayerMovRight": {
+    "message": "Move Right "
+  },
+  "HT_Text_SwyInput_Action_PlayerJump": {
+    "message": "Jump "
+  },
+  "HT_Text_SwyInput_Action_PlayerDoContext": {
+    "message": "Contextual Action "
+  },
+  "HT_Text_SwyInput_Action_PlayerPushThrow": {
+    "message": "Push/Throw "
+  },
+  "HT_Text_SIAM_Sect_Sphinx": {
+    "message": "Sphinx Actions "
+  },
+  "HT_Text_SwyInput_Action_HeroSwordAttack": {
+    "message": "Sword Attack "
+  },
+  "HT_Text_SwyInput_Action_HeroShield": {
+    "message": "Shield "
+  },
+  "HT_Text_SwyInput_Action_HeroBlowpipe": {
+    "message": "Blowpipe "
+  },
+  "HT_Text_SwyInput_Action_HeroReleaseCaptureBeetle": {
+    "message": "Release Capture Beetle "
+  },
+  "HT_Text_SwyInput_Action_HeroSlimBurble": {
+    "message": "Release Slim Burble "
+  },
+  "HT_Text_SwyInput_Action_HeroReleaseArmadillo": {
+    "message": "Release Armadillo "
+  },
+  "HT_Text_SwyInput_Action_HeroSwimSlow": {
+    "message": "Swim Slow "
+  },
+  "HT_Text_SwyInput_Action_HeroSwimFast": {
+    "message": "Swim Fast "
+  },
+  "HT_Text_SwyInput_Action_HeroDive": {
+    "message": "Dive "
+  },
+  "HT_Text_SwyInput_Action_HeroDiveAttack": {
+    "message": "Underwater Attack "
+  },
+  "HT_Text_SIAM_Sect_Mummy": {
+    "message": "Mummy Actions "
+  },
+  "HT_Text_SwyInput_Action_MummyCrawl": {
+    "message": "Crawl "
+  },
+  "HT_Text_SwyInput_Action_MummyInvisibility": {
+    "message": "Invisibility "
+  },
+  "HT_Text_SwyInput_Action_MummySwapTripleMummyPrev": {
+    "message": "Previous Triple Mummy "
+  },
+  "HT_Text_SwyInput_Action_MummySwapTripleMummyNext": {
+    "message": "Next Triple Mummy "
+  },
+  "HT_Text_SIAM_Sect_ItemRotator": {
+    "message": "On-screen Item Selector "
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorUp": {
+    "message": "Item Rotator Up "
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorDown": {
+    "message": "Item Rotator Down "
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorSelect": {
+    "message": "Item Rotator Select "
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorBack": {
+    "message": "Item Rotator Back "
+  },
+  "HT_Text_SIAM_Sect_Misc": {
+    "message": "Misc Actions "
+  },
+  "HT_Text_SwyInput_Action_TogglePauseMenu": {
+    "message": "Toggle Pause Menu "
+  },
+  "HT_Text_SwyInput_Action_ToggleBookOfSphinx": {
+    "message": "Toggle Book of Sphinx "
+  },
+  "HT_Text_SwyInput_Action_SkipCutscene": {
+    "message": "Skip Cutscene "
+  },
+  "HT_Text_SwyInput_Action_CameraRecenter": {
+    "message": "Camera Recenter "
+  },
+  "HT_Text_SwyInput_Action_CameraFocusOnBoss": {
+    "message": "Camera Focus on Boss "
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovUp": {
+    "message": "Third-person Camera Up "
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovDown": {
+    "message": "Third-person Camera Down "
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovLeft": {
+    "message": "Third-person Camera Left "
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovRight": {
+    "message": "Third-person Camera Right "
+  },
+  "HT_Text_SwyInput_Mode_Blowpipe": {
+    "message": "Blowpipe Actions "
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovUp": {
+    "message": "First-person Up "
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovDown": {
+    "message": "First-person Down "
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovLeft": {
+    "message": "First-person Left "
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovRight": {
+    "message": "First-person Right "
+  },
+  "HT_Text_SwyInput_Action_HeroShootDart": {
+    "message": "Shoot Dart "
+  },
+  "HT_Text_SwyInput_Action_HeroBlowpipeCancel": {
+    "message": "Cancel "
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartStandard": {
+    "message": "Select Standard Dart "
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartAcid": {
+    "message": "Select Acid Dart "
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartIce": {
+    "message": "Select Ice Dart "
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartBounce": {
+    "message": "Select Bouncing Dart "
+  },
+  "HT_Text_SwyInput_Mode_Menu": {
+    "message": "Menu Actions "
+  },
+  "HT_Text_SwyInput_Action_MenuUp": {
+    "message": "Up "
+  },
+  "HT_Text_SwyInput_Action_MenuDown": {
+    "message": "Down "
+  },
+  "HT_Text_SwyInput_Action_MenuLeft": {
+    "message": "Left "
+  },
+  "HT_Text_SwyInput_Action_MenuRight": {
+    "message": "Right "
+  },
+  "HT_Text_SwyInput_Action_MenuEnter": {
+    "message": "Enter "
+  },
+  "HT_Text_SwyInput_Action_MenuBack": {
+    "message": "Back "
+  },
+  "HT_Text_SwyInput_Action_MenuBookOfSphinxCycleLeft": {
+    "message": "Previous Page "
+  },
+  "HT_Text_SwyInput_Action_MenuBookOfSphinxCycleRight": {
+    "message": "Next Page "
+  },
+  "HT_Text_FE_Menu_OptionsSubGameplay": {
+    "message": "GAMEPLAY=SETTINGS"
+  },
+  "HT_Text_FE_Menu_EnemyDamageMult": {
+    "message": "ENEMY DIFFICULTY"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior": {
+    "message": "AFTER A GAME OVER"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior_UnsavedCheckpoint": {
+    "message": "CONTINUE FROM CHECKPOINT"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior_ReloadSlot": {
+    "message": "RELOAD LAST SAVE"
+  },
+  "HT_Text_FE_Menu_GameOverBehaviorExplanation": {
+    "message": "After a game over, you can choose between (1) continuing from the most recent unsaved checkpoint or (2) reloading your last sacred statue save, as it happened in the original game. The latter wipes any recent, unsaved progress and requires better manual save discipline, adding another element of difficulty that some players may prefer."
   }
 }

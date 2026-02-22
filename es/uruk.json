@@ -78,7 +78,7 @@
     "message": "<EFF><EPO>¡Sphinx! ¡Aquí arriba! ¡Vamos, tenemos que apresurarnos!<P> Voy a necesitar tu ayuda.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb02": {
-    "message": "<EFF><EPO>Salta contra la pared y usa <SB HT_PadAction_PLR_MovePlr> para ir arriba, abajo, a izquierda y derecha.<P>Para trepar, pulsa con suavidad <SB HT_PadAction_PLR_MovePlr>.<E>"
+    "message": "<EFF><EPO>Salta contra la pared y usa <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr> para ir arriba, abajo, a izquierda y derecha.<P>Para trepar, pulsa con suavidad <SB HT_PadAction_PLR_MovePlr>.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb03": {
     "message": "¡Pero ten cuidado con las arañas! ¡Podrían darte un desagradable mordisco si no pones atención!<E>"
@@ -87,7 +87,7 @@
     "message": "¡Aquí! Usa la reja para cruzar.<E> "
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
-    "message": "<EFF><EPO>Salta y coge la reja y usa <SB HT_PadAction_PLR_MovePlr> para ir a derecha e izquierda.<P>Para cruzar, pulsa con suavidad <SB HT_PadAction_PLR_MovePlr>.<E>"
+    "message": "<EFF><EPO>Salta y coge la reja y usa <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr> para ir a derecha e izquierda.<P>Para cruzar, pulsa con suavidad <SB HT_PadAction_PLR_MovePlr>.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
     "message": "Pulsa <SB HT_Action_Drop> para dejarte caer, pero asegúrate primero de haber atravesado el abismo.<E>"

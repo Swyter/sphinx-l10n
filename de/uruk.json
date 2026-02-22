@@ -78,7 +78,7 @@
     "message": "<EFF><EPO>He, Sphinx! Hier oben! Komm, wir müssen uns beeilen!<P>Ich brauche hier oben deine Hilfe.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb02": {
-    "message": "<EFF><EPO>Springe an die Wand und benutze <SB HT_PadAction_PLR_MovePlr>, um nach oben, unten, links oder rechts zu klettern.<P>Um langsam zu klettern, musst du leicht <SB HT_PadAction_PLR_MovePlr> drücken.<E>"
+    "message": "<EFF><EPO>Springe an die Wand und benutze <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr>, um nach oben, unten, links oder rechts zu klettern.<P>Um langsam zu klettern, musst du leicht <SB HT_PadAction_PLR_MovePlr> drücken.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb03": {
     "message": "Pass aber auf die Spinnen auf. Die können fies beißen, wenn du nicht vorsichtig bist!<E>"
@@ -87,7 +87,7 @@
     "message": "Hierher! Benutze das Geländer, um die Spalte zu überqueren.<E> "
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
-    "message": "<EFF><EPO>Springe und greife nach dem Geländer. Benutze dann <SB HT_PadAction_PLR_MovePlr>, um dich nach links oder rechts zu bewegen.<P>Wenn du <SB HT_PadAction_PLR_MovePlr> nur leicht drückst, kannst du dich auch langsam bewegen.<E>"
+    "message": "<EFF><EPO>Springe und greife nach dem Geländer. Benutze dann <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr>, um dich nach links oder rechts zu bewegen.<P>Wenn du <SB HT_PadAction_PLR_MovePlr> nur leicht drückst, kannst du dich auch langsam bewegen.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
     "message": "Drücke <SB HT_Action_Drop>, um dich fallen zu lassen, aber erst, wenn du die Spalte ganz überquert hast!<E>"

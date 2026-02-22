@@ -369,7 +369,7 @@
     "message": "Ein dunkler Anbeter! Außerhalb der Schatten kaum anzutreffen."
   },
   "HT_Text_Museum_Name_HD43_Skull_Aka_Worshipper_Sword": {
-    "message": "Ein Skelettkämpfer! Geschickter Krieger mit Geisterangriff. "
+    "message": "Ein Skelettkämpfer! Geschickter Krieger mit Geisterangriff."
   },
   "HT_Text_Museum_Name_IN01_Green_Giant_worm": {
     "message": "Grüner Riesenwurm! Ein großer Wurm mit großen Zähnen."
@@ -495,7 +495,7 @@
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Du hast nun den <FC 0,128,0>Schild des Osiris<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Dieser magische Schild wurde in einer Schlacht<N>vom großen Gott Osiris benutzt.<P><ES HT_Text_ES_S_HelpText><CNTR>Du kannst ihn dazu einsetzen, um dich vor zahlreichen<N>Arten von Angriffen und anderen Gefahren zu schützen.<P><ES HT_Text_ES_S_HelpText><CNTR>Um den <FC 0,128,0>Schild des Osiris<END FC> auszuwählen und<N>anzulegen, musst du <SB HT_PadAction_HUD_ShowRotator> benutzen...<P><ES HT_Text_ES_S_HelpText><CNTR>... und dann die Taste drücken,<N>die du ihm zuweisen möchtest.<P><CNTR><ES HT_Text_ES_S_HelpText>Nach der Zuweisung musst du die<N>entsprechende Taste drücken und gedrückt halten, um dich zu verteidigen.<P><ES HT_Text_ES_S_HelpText><CNTR>Währenddessen kannst du <N><SB HT_PadAction_PLR_MovePlr> benutzen, um den Schild auszurichten.<E>"
   },
   "HT_Text_Gen_Help_GotBlowpipe": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Du hast nun das <FC 0,128,0>Blasrohr<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Die magischen Pfeile, die du hiermit verschießt,<N>erneuern sich automatisch unbegrenzt.<P><ES HT_Text_ES_S_HelpText><CNTR>Mit den Pfeilen kann auf entfernte Ziele geschossen werden,<N>aber sie reichen nur, um explosive Monster zu verletzen.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Benutze <SB HT_PadAction_HUD_ShowRotator>, um das <FC 0,128,0>Blasrohr<END FC> einer Taste zuzuweisen.<P><ES HT_Text_ES_S_HelpText><CNTR>Sobald das <FC 0,128,0>Blasrohr<END FC> zugewiesen ist, musst du<N>die Taste drücken, um in den First-Person-Modus zu gelangen.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke zum Feuern <SB HT_Action_FireDart>.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke <SB HT_Action_Cancel>, um den<N><FC 0,128,0>Blasrohr-<END FC>Modus zu beenden.<ES HT_Text_ES_E_HelpText><E>"
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Du hast nun das <FC 0,128,0>Blasrohr<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Die magischen Pfeile, die du hiermit verschießt,<N>erneuern sich automatisch unbegrenzt.<P><ES HT_Text_ES_S_HelpText><CNTR>Mit den Pfeilen kann auf entfernte Ziele geschossen werden,<N>aber sie reichen nur, um explosive Monster zu verletzen.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Benutze <SB HT_PadAction_HUD_ShowRotator>, um das <FC 0,128,0>Blasrohr<END FC> einer Taste zuzuweisen.<P><ES HT_Text_ES_S_HelpText><CNTR>Sobald das <FC 0,128,0>Blasrohr<END FC> zugewiesen ist, musst du<N>die Taste drücken, um in den First-Person-Modus zu gelangen.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke <SB HT_Action_Cancel>, um den<N><FC 0,128,0>Blasrohr-<END FC>Modus zu beenden.<ES HT_Text_ES_E_HelpText><E>"
   },
   "HT_Text_Gen_Help_GotHandsOfAmun": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Du hast nun die <FC 0,128,0>Hände von Amun<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Dieses Artefakt gibt Sphinx die Kraft,<N>besonders schwere Objekte zu schieben und zu ziehen.<ES HT_Text_ES_E_HelpText><E>"
