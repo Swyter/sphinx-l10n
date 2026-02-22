@@ -555,7 +555,7 @@
     "message": "WINDOWED"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": " deg"
+    "message": "(SWYFOV) deg"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim_JoyCon": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>You got the <FC 0,128,0>Blowpipe<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>The magical darts fired from this powerful tool,<N>regenerate giving you an infinite supply.<P><ES HT_Text_ES_S_HelpText><CNTR>The darts can be used to hit remote targets but they<N>are only powerful enough to damage explosive monsters.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Use <SB HT_PadAction_HUD_ShowRotator> to assign the <FC 0,128,0>Blowpipe<END FC> to a button.<P><ES HT_Text_ES_S_HelpText><CNTR>Once the <FC 0,128,0>Blowpipe<END FC> is assigned, press<N>the button to enter first person mode.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_FireDart> to fire.<P><ES HT_Text_ES_S_HelpText><CNTR>Keep <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> or <SB HT_PadAction_GYR_Right> pressed while moving the left Joy-Con to aim using the gyroscopic motion controls.<P><ES HT_Text_ES_S_HelpText><CNTR>Press <SB HT_Action_Cancel> to exit<N>from <FC 0,128,0>Blowpipe<END FC> mode.<ES HT_Text_ES_E_HelpText><E>"

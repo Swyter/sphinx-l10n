@@ -555,7 +555,7 @@
     "message": "창 모드"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": " deg"
+    "message": "(SWYFOV) deg"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim_JoyCon": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR><FC 0,128,0>취관<END FC>을 구했다!<P><ES HT_Text_ES_S_HelpText><CNTR>이 강력한 도구에서 발사되는 마법의 다트는<N>재생성 되어 무한으로 공급된다.<P><ES HT_Text_ES_S_HelpText><CNTR>다트는 원거리의 목표를 맞추기 위해 사용될 수 있지만<N>폭발하는 괴물들은 상처 입힐 정도만의 위력을 가지고 있다.<P><ES HT_Text_ES_S_HelpText><N><CNTR><SB HT_PadAction_HUD_ShowRotator>를 이용하여 <FC 0,128,0>취관<END FC>을 버튼에 배당한다.<P><ES HT_Text_ES_S_HelpText><CNTR><FC 0,128,0>취관<END FC>의 배당이 끝나면<N>그 버튼을 눌러 일인칭 모드로 변환한다.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_FireDart>를 눌러서 발사한다.<P><ES HT_Text_ES_S_HelpText><CNTR>왼쪽 Joy-Con을 이동하는 동안 <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> 또는 <SB HT_PadAction_GYR_Right>를 길게 누르면 자이로스코프 모션 컨트롤을 사용해 조준한다.<P><ES HT_Text_ES_S_HelpText><CNTR><SB HT_Action_Cancel>를 눌러서 <N><FC 0,128,0>취관<END FC> 모드에서 나간다.<ES HT_Text_ES_E_HelpText><E>"

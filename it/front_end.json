@@ -555,7 +555,7 @@
     "message": "FINESTRA"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": " grd"
+    "message": "(SWYFOV) grd"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim_JoyCon": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Hai ottenuto la <FC 0,128,0>Cerbottana<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>I dardi magici scagliati<N>si rigenerano all'infinito <P><ES HT_Text_ES_S_HelpText><CNTR>e possono essere utilizzati per colpire bersagli lontani, ma<N>sono in grado solo di danneggiare i mostri esplosivi.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Usa <SB HT_PadAction_HUD_ShowRotator> per assegnare la <FC 0,128,0>Cerbottana<END FC> a un tasto.<P><ES HT_Text_ES_S_HelpText><CNTR>Quindi,<FC 0,128,0><END FC> premi il tasto<N>per accedere alla modalità in prima persona.<P><ES HT_Text_ES_S_HelpText><CNTR>Premi <SB HT_Action_FireDart> per sparare.<P><ES HT_Text_ES_S_HelpText><CNTR>Tieni premuto <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> o <SB HT_PadAction_GYR_Right> mentre muovi il Joy-Con sinistro per mirare usando il sensori di movimento giroscopico.<P><ES HT_Text_ES_S_HelpText> <CNTR>Premi <SB HT_Action_Cancel> per uscire<N>dalla modalità <FC 0,128,0>Cerbottana<END FC>.<ES HT_Text_ES_E_HelpText><E>"

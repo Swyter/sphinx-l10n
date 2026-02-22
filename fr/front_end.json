@@ -555,7 +555,7 @@
     "message": "FENÊTRÉ"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": " deg"
+    "message": "(SWYFOV) deg"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim_JoyCon": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Tu as la <FC 0,128,0>Sarbacane<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Ses flèches magiques<N>se régénèrent à l'infini.<P><ES HT_Text_ES_S_HelpText><CNTR>Si elles peuvent atteindre des cibles distantes, elles<N>n'endommagent que les monstres explosifs.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Utilise <SB HT_PadAction_HUD_ShowRotator> pour assigner la <FC 0,128,0>Sarbacane<END FC> à une touche.<P><ES HT_Text_ES_S_HelpText><CNTR>Une fois la <FC 0,128,0>Sarbacane<END FC> assignée, appuie<N>sur la touche pour passer en mode 1ère personne.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_FireDart> pour tirer.<P><ES HT_Text_ES_S_HelpText><CNTR>Garde <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> ou <SB HT_PadAction_GYR_Right> enfoncé en bougeant le Joy-con de gauche pour viser grâce aux contrôles gyroscopiques.<P><ES HT_Text_ES_S_HelpText><CNTR>Appuie sur <SB HT_Action_Cancel> pour sortir<N>du mode <FC 0,128,0>Sarbacane<END FC>.<ES HT_Text_ES_E_HelpText><E>"

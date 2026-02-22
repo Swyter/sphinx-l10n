@@ -147,13 +147,13 @@
     "message": "SPHINX C"
   },
   "HT_Text_FE_Menu_SaveSlotA_XB": {
-    "message": "SPHINX A"
+    "message": "Sphinx A"
   },
   "HT_Text_FE_Menu_SaveSlotB_XB": {
-    "message": "SPHINX B"
+    "message": "Sphinx B"
   },
   "HT_Text_FE_Menu_SaveSlotC_XB": {
-    "message": "SPHINX C"
+    "message": "Sphinx C"
   },
   "HT_Text_FE_Menu_SaveSlotNone": {
     "message": "Ohne speichern fortfahren"
@@ -555,7 +555,7 @@
     "message": "FENSTERMODUS"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": " grad"
+    "message": "(SWYFOV) grad"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim_JoyCon": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Du hast nun das <FC 0,128,0>Blasrohr<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Die magischen Pfeile, die du hiermit verschießt,<N>erneuern sich automatisch unbegrenzt.<P><ES HT_Text_ES_S_HelpText><CNTR>Mit den Pfeilen kann auf entfernte Ziele geschossen werden,<N>aber sie reichen nur, um explosive Monster zu verletzen.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Benutze <SB HT_PadAction_HUD_ShowRotator>, um das <FC 0,128,0>Blasrohr<END FC> einer Taste zuzuweisen.<P><ES HT_Text_ES_S_HelpText><CNTR>Sobald das <FC 0,128,0>Blasrohr<END FC> zugewiesen ist, musst du<N>die Taste drücken, um in den First-Person-Modus zu gelangen.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke zum Feuern <SB HT_Action_FireDart>.<ES HT_Text_ES_S_HelpText><P><ES HT_Text_ES_S_HelpText><CNTR>Halte <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> oder <SB HT_PadAction_GYR_Right> gedrückt, während du mit der gyroskopischen Bewegungssteuerung des linken Joy-Con zielst.<P><ES HT_Text_ES_S_HelpText><CNTR>Drücke <SB HT_Action_Cancel>, um den<N><FC 0,128,0>Blasrohr-<END FC>Modus zu beenden.<ES HT_Text_ES_E_HelpText><E>"

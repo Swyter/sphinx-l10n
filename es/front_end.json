@@ -555,7 +555,7 @@
     "message": "VENTANA"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": " grad"
+    "message": "(SWYFOV) grad"
   },
   "HT_Text_Gen_Help_GotBlowpipe_GyroAim_JoyCon": {
     "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>¡Tienes la <FC 0,128,0>Cerbatana<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Los dardos mágicos que lanza este poderoso instrumento<N>se regeneran, por lo que son infinitos.<P><ES HT_Text_ES_S_HelpText><CNTR>Puedes usarlos para llegar a blancos lejanos, pero sólo<N>tienen potencia para hacer daño a monstruos explosivos.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Usa <SB HT_PadAction_HUD_ShowRotator> para asignar un botón para la <FC 0,128,0>Cerbatana<END FC>.<P><ES HT_Text_ES_S_HelpText><CNTR>Una vez asignada la <FC 0,128,0>Cerbatana<END FC>, pulsa<N>ese botón para activar el modo en primera persona.<P><ES HT_Text_ES_S_HelpText><CNTR>Pulsa <SB HT_Action_FireDart> para disparar.<P><ES HT_Text_ES_S_HelpText><CNTR>Mantén pulsado <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> o <SB HT_PadAction_GYR_Right> mientras mueves el Joy-Con izquierdo para apuntar con los controles de movimiento giroscópicos.<P><ES HT_Text_ES_S_HelpText><CNTR>Pulsa <SB HT_Action_Cancel> para salir<N>del modo <FC 0,128,0>Cerbatana<END FC>.<ES HT_Text_ES_E_HelpText><E>"
