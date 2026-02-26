@@ -555,9 +555,240 @@
     "message": "В ОКНЕ"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": " град."
+    "message": "(SWYFOV) град."
   },
-  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>духовую трубку<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Магические дротики в этом мощном оружии восстанавливаются сами собой, обеспечивая бесконечный запас.<P><ES HT_Text_ES_S_HelpText><CNTR>Дротики поражают удалённые цели, но их силы достаточно лишь для того, чтобы нанести урон взрывающимся монстрам.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Используйте <SB HT_PadAction_HUD_ShowRotator>, чтобы назначить <FC 0,128,0>духовую трубку<END FC> на кнопку.<P><ES HT_Text_ES_S_HelpText><CNTR>После этого нажмите кнопку, чтобы войти в режим от первого лица.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_FireDart> для выстрела.<P><ES HT_Text_ES_S_HelpText><CNTR>Удерживайте <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> или <SB HT_PadAction_GYR_Right> и перемещайте левый стик, чтобы целиться гироскопом.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_Cancel>, чтобы убрать <FC 0,128,0>духовую трубку<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim_JoyCon": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>духовую трубку<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Магические дротики этого мощного оружия<N>восстанавливаются сами собой, обеспечивая бесконечный запас.<P><ES HT_Text_ES_S_HelpText><CNTR>Дротики можно использовать для поражения дальних целей, но их силы<N>хватит лишь на то, чтобы нанести урон взрывающимся монстрам.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Используйте <SB HT_PadAction_HUD_ShowRotator>, чтобы назначить <FC 0,128,0>духовую трубку<END FC> на кнопку.<P><ES HT_Text_ES_S_HelpText><CNTR>Как только <FC 0,128,0>духовая трубка<END FC> будет назначена, нажмите<N>эту кнопку, чтобы перейти в режим от первого лица.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_FireDart>, чтобы выстрелить.<P><ES HT_Text_ES_S_HelpText><CNTR>Удерживайте <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> или <SB HT_PadAction_GYR_Right>, перемещая левый Joy-Con, чтобы целиться с помощью гироскопа.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_Cancel>, чтобы выйти<N>из режима <FC 0,128,0>духовой трубки<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim_Generic": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Вы получили <FC 0,128,0>духовую трубку<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Магические дротики этого мощного оружия<N>восстанавливаются сами собой, обеспечивая бесконечный запас.<P><ES HT_Text_ES_S_HelpText><CNTR>Дротики можно использовать для поражения дальних целей, но их силы<N>хватит лишь на то, чтобы нанести урон взрывающимся монстрам.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Используйте <SB HT_PadAction_HUD_ShowRotator>, чтобы назначить <FC 0,128,0>духовую трубку<END FC> на кнопку.<P><ES HT_Text_ES_S_HelpText><CNTR>Как только <FC 0,128,0>духовая трубка<END FC> будет назначена, нажмите<N>эту кнопку, чтобы перейти в режим от первого лица.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_FireDart>, чтобы выстрелить.<P><ES HT_Text_ES_S_HelpText><CNTR>Удерживайте <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> или <SB HT_PadAction_GYR_Right>, перемещая контроллер, чтобы целиться с помощью гироскопа.<P><ES HT_Text_ES_S_HelpText><CNTR>Нажмите <SB HT_Action_Cancel>, чтобы выйти<N>из режима <FC 0,128,0>духовой трубки<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_FE_Menu_Shadows": {
+    "message": "ТЕНИ"
+  },
+  "HT_Text_FE_Menu_LowQuality": {
+    "message": "НИЗКОЕ КАЧЕСТВО"
+  },
+  "HT_Text_FE_Menu_MediumQuality": {
+    "message": "СРЕДНЕЕ КАЧЕСТВО"
+  },
+  "HT_Text_FE_Menu_HighQuality": {
+    "message": "ВЫСОКОЕ КАЧЕСТВО"
+  },
+  "HT_Text_FE_Menu_CursedQuality": {
+    "message": "ПРОКЛЯТОЕ КАЧЕСТВО"
+  },
+  "HT_Text_FE_Menu_CharacterShading": {
+    "message": "ЗАТЕНЕНИЕ ПЕРСОНАЖЕЙ"
+  },
+  "HT_Text_FE_Menu_CharacterShading_NewSelfShadows": {
+    "message": "СОВРЕМЕННОЕ + СОБСТВ. ТЕНИ"
+  },
+  "HT_Text_FE_Menu_CharacterShading_NewNoSelfShadows": {
+    "message": "СОВРЕМЕННОЕ, БЕЗ СОБСТВ. ТЕНЕЙ"
+  },
+  "HT_Text_FE_Menu_CharacterShading_Flat": {
+    "message": "ПЛОСКОЕ"
+  },
+  "HT_Text_FE_Menu_Keybindings": {
+    "message": "ИЗМЕНИТЬ КЛАВИШИ"
+  },
+  "HT_Text_SwyInput_Mode_ThirdPerson": {
+    "message": "Игра от третьего лица"
+  },
+  "HT_Text_SIAM_Sect_Common": {
+    "message": "Общие действия"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovUp": {
+    "message": "Движение вверх"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovDown": {
+    "message": "Движение вниз"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovLeft": {
+    "message": "Движение влево"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovRight": {
+    "message": "Движение вправо"
+  },
+  "HT_Text_SwyInput_Action_PlayerJump": {
+    "message": "Прыжок"
+  },
+  "HT_Text_SwyInput_Action_PlayerDoContext": {
+    "message": "Контекстное действие"
+  },
+  "HT_Text_SwyInput_Action_PlayerPushThrow": {
+    "message": "Толкнуть/Бросить"
+  },
+  "HT_Text_SIAM_Sect_Sphinx": {
+    "message": "Действия Сфинкса"
+  },
+  "HT_Text_SwyInput_Action_HeroSwordAttack": {
+    "message": "Атака мечом"
+  },
+  "HT_Text_SwyInput_Action_HeroShield": {
+    "message": "Щит"
+  },
+  "HT_Text_SwyInput_Action_HeroBlowpipe": {
+    "message": "Духовая трубка"
+  },
+  "HT_Text_SwyInput_Action_HeroReleaseCaptureBeetle": {
+    "message": "Выпустить ловчего жука"
+  },
+  "HT_Text_SwyInput_Action_HeroSlimBurble": {
+    "message": "Выпустить слизкого бульку"
+  },
+  "HT_Text_SwyInput_Action_HeroReleaseArmadillo": {
+    "message": "Выпустить броненосца"
+  },
+  "HT_Text_SwyInput_Action_HeroSwimSlow": {
+    "message": "Медленное плавание"
+  },
+  "HT_Text_SwyInput_Action_HeroSwimFast": {
+    "message": "Быстрое плавание"
+  },
+  "HT_Text_SwyInput_Action_HeroDive": {
+    "message": "Нырок"
+  },
+  "HT_Text_SwyInput_Action_HeroDiveAttack": {
+    "message": "Подводная атака"
+  },
+  "HT_Text_SIAM_Sect_Mummy": {
+    "message": "Действия Мумии"
+  },
+  "HT_Text_SwyInput_Action_MummyCrawl": {
+    "message": "Ползти"
+  },
+  "HT_Text_SwyInput_Action_MummyInvisibility": {
+    "message": "Невидимость"
+  },
+  "HT_Text_SwyInput_Action_MummySwapTripleMummyPrev": {
+    "message": "Пред. Мумия из тройки"
+  },
+  "HT_Text_SwyInput_Action_MummySwapTripleMummyNext": {
+    "message": "След. Мумия из тройки"
+  },
+  "HT_Text_SIAM_Sect_ItemRotator": {
+    "message": "Экранный селектор предметов"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorUp": {
+    "message": "Селектор: вверх"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorDown": {
+    "message": "Селектор: вниз"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorSelect": {
+    "message": "Селектор: выбрать"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorBack": {
+    "message": "Селектор: назад"
+  },
+  "HT_Text_SIAM_Sect_Misc": {
+    "message": "Пропущенные действия"
+  },
+  "HT_Text_SwyInput_Action_TogglePauseMenu": {
+    "message": "Переключитсяь на меню паузы"
+  },
+  "HT_Text_SwyInput_Action_ToggleBookOfSphinx": {
+    "message": "Переключиться на нигу Сфинкса"
+  },
+  "HT_Text_SwyInput_Action_SkipCutscene": {
+    "message": "Пропустить кат-сцену"
+  },
+  "HT_Text_SwyInput_Action_CameraRecenter": {
+    "message": "Центрировать камеру"
+  },
+  "HT_Text_SwyInput_Action_CameraFocusOnBoss": {
+    "message": "Фокус на боссе"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovUp": {
+    "message": "Камера (3-е лицо): вверх"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovDown": {
+    "message": "Камера (3-е лицо): вниз"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovLeft": {
+    "message": "Камера (3-е лицо): влево"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovRight": {
+    "message": "Камера (3-е лицо): вправо"
+  },
+  "HT_Text_SwyInput_Mode_Blowpipe": {
+    "message": "Действия с трубкой"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovUp": {
+    "message": "От первого лица: вверх"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovDown": {
+    "message": "От первого лица: вниз"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovLeft": {
+    "message": "От первого лица: влево"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovRight": {
+    "message": "От первого лица: вправо"
+  },
+  "HT_Text_SwyInput_Action_HeroShootDart": {
+    "message": "Выстрелить дротиком"
+  },
+  "HT_Text_SwyInput_Action_HeroBlowpipeCancel": {
+    "message": "Отмена"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartStandard": {
+    "message": "Выбрать станд. дротик"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartAcid": {
+    "message": "Выбрать кисл. дротик"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartIce": {
+    "message": "Выбрать ледяной дротик"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartBounce": {
+    "message": "Выбрать рикошет. дротик"
+  },
+  "HT_Text_SwyInput_Mode_Menu": {
+    "message": "Действия в меню"
+  },
+  "HT_Text_SwyInput_Action_MenuUp": {
+    "message": "Вверх"
+  },
+  "HT_Text_SwyInput_Action_MenuDown": {
+    "message": "Вниз"
+  },
+  "HT_Text_SwyInput_Action_MenuLeft": {
+    "message": "Влево"
+  },
+  "HT_Text_SwyInput_Action_MenuRight": {
+    "message": "Вправо"
+  },
+  "HT_Text_SwyInput_Action_MenuEnter": {
+    "message": "Ввод"
+  },
+  "HT_Text_SwyInput_Action_MenuBack": {
+    "message": "Назад"
+  },
+  "HT_Text_SwyInput_Action_MenuBookOfSphinxCycleLeft": {
+    "message": "Предыдущая страница"
+  },
+  "HT_Text_SwyInput_Action_MenuBookOfSphinxCycleRight": {
+    "message": "Следующая страница"
+  },
+  "HT_Text_FE_Menu_OptionsSubGameplay": {
+    "message": "НАСТРОЙКИ ИГРЫ"
+  },
+  "HT_Text_FE_Menu_EnemyDamageMult": {
+    "message": "СЛОЖНОСТЬ ВРАГОВ"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior": {
+    "message": "ПОСЛЕ ГИБЕЛИ"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior_UnsavedCheckpoint": {
+    "message": "ПРОДОЛЖИТЬ С КОНТРОЛЬНОЙ ТОЧКИ"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior_ReloadSlot": {
+    "message": "ЗАГРУЗИТЬ СОХРАНЕНИЕ"
+  },
+  "HT_Text_FE_Menu_GameOverBehaviorExplanation": {
+    "message": "После гибели вы можете выбрать: (1) продолжить с последней временной контрольной точки или (2) загрузиться у священной статуи, как в оригинальной игре. Второй вариант аннулирует весь недавний несохранённый прогресс и требует дисциплины ручных сохранений, добавляя элемент сложности, который может понравиться опытным игрокам."
   }
 }

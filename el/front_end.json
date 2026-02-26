@@ -555,9 +555,240 @@
     "message": "ΠΑΡΑΘΥΡΟ"
   },
   "HT_Text_FE_ResolutionFovDegrees": {
-    "message": " μοίρες"
+    "message": "(SWYFOV) μοίρες"
   },
-  "HT_Text_Gen_Help_GotBlowpipe_GyroAim": {
-    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Φυσοκάλαμο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα μαγικά βέλη που απελευθερώνονται από αυτό το ισχυρό εργαλείο,<N>αναπληρώνονται δίνοντας σου απεριόριστη ποσότητα από βελάκια.<P><ES HT_Text_ES_S_HelpText><CNTR>Τα βέλη μπορούν να χρησιμοποιηθούν για να χτυπήσουν απομακρυσμένους στόχους αλλά είναι<N>μόνο αρκετά ισχυρά ώστε να βλάψουν τέρατα που εκρήγνυνται.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Χρησιμοποίησε το <SB HT_PadAction_HUD_ShowRotator> για να αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC> σε ένα κουμπί.<P><ES HT_Text_ES_S_HelpText><CNTR>Όταν το <FC 0,128,0>Φυσοκάλαμο<END FC> ανατεθεί, πάτησε<N>το κουμπί για να μπεις σε λειτουργία πρώτου προσώπου.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_FireDart> για να ρίξεις.<P><ES HT_Text_ES_S_HelpText><CNTR>Κράτησε <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> ή <SB HT_PadAction_GYR_Right> πατημένα όσο κουνάς το αριστερό Joy-Con για να στοχεύσεις χρησιμοποιώντας τους γυροσκοπικούς χειρισμούς κίνησης.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_Cancel> για να βγεις<N>από τη λειτουργία <FC 0,128,0>Φυσοκάλαμου<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim_JoyCon": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Φυσοκάλαμο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα μαγικά βέλη που εκτοξεύονται από αυτό το ισχυρό εργαλείο,<N>αναγεννώνται δίνοντάς σου άπειρο απόθεμα.<P><ES HT_Text_ES_S_HelpText><CNTR>Τα βέλη μπορούν να χρησιμοποιηθούν για να πετύχεις απομακρυσμένους στόχους αλλά είναι<N>αρκετά ισχυρά για να βλάψουν μόνο εκρηκτικά τέρατα.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Χρησιμοποίησε το <SB HT_PadAction_HUD_ShowRotator> για να αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC> σε ένα κουμπί.<P><ES HT_Text_ES_S_HelpText><CNTR>Μόλις αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC>, πάτησε<N>το κουμπί για να μπεις σε λειτουργία πρώτου προσώπου.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_FireDart> για εκτόξευση.<P><ES HT_Text_ES_S_HelpText><CNTR>. Κράτησε το <SB HT_PadAction_BOS_TABCycleLeft>,<SB HT_PadAction_BOS_TABCycleRight>,<SB HT_PadAction_GYR_Left> ή <SB HT_PadAction_GYR_Right> πατημένο όσο κινείς το αριστερό Joy-Con για να σκοπεύσεις με τους γυροσκοπικούς χειρισμούς κίνησης.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_Cancel> για έξοδο<N>από τη λειτουργία του <FC 0,128,0>Φυσοκαλάμου<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_Gen_Help_GotBlowpipe_GyroAim_Generic": {
+    "message": "<ES HT_Text_ES_S_HelpText><N><CNTR>Πήρες το <FC 0,128,0>Φυσοκάλαμο<END FC>!<P><ES HT_Text_ES_S_HelpText><CNTR>Τα μαγικά βέλη που εκτοξεύονται από αυτό το ισχυρό εργαλείο,<N>αναγεννώνται δίνοντάς σου άπειρο απόθεμα.<P><ES HT_Text_ES_S_HelpText><CNTR>Τα βέλη μπορούν να χρησιμοποιηθούν για να πετύχεις απομακρυσμένους στόχους αλλά είναι<N>αρκετά ισχυρά για να βλάψουν μόνο εκρηκτικά τέρατα.<P><ES HT_Text_ES_S_HelpText><N><CNTR>Χρησιμοποίησε το <SB HT_PadAction_HUD_ShowRotator> για να αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC> σε ένα κουμπί.<P><ES HT_Text_ES_S_HelpText><CNTR>Μόλις αναθέσεις το <FC 0,128,0>Φυσοκάλαμο<END FC>, πάτησε<N>το κουμπί για να μπεις σε λειτουργία πρώτου προσώπου.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_FireDart> για εκτόξευση.<P><ES HT_Text_ES_S_HelpText><CNTR>Κράτησε το <SB HT_PadAction_BOS_TABCycleLeft>, <SB HT_PadAction_BOS_TABCycleRight>, <SB HT_PadAction_GYR_Left> ή <SB HT_PadAction_GYR_Right> πατημένο όσο κινείσαι για να σκοπεύσεις με τους γυροσκοπικούς χειρισμούς κίνησης.<P><ES HT_Text_ES_S_HelpText><CNTR>Πάτησε <SB HT_Action_Cancel> για έξοδο<N>από τη λειτουργία του <FC 0,128,0>Φυσοκαλάμου<END FC>.<ES HT_Text_ES_E_HelpText><E>"
+  },
+  "HT_Text_FE_Menu_Shadows": {
+    "message": "ΣΚΙΕΣ"
+  },
+  "HT_Text_FE_Menu_LowQuality": {
+    "message": "ΧΑΜΗΛΗ ΠΟΙΟΤΗΤΑ"
+  },
+  "HT_Text_FE_Menu_MediumQuality": {
+    "message": "ΜΕΣΑΙΑ ΠΟΙΟΤΗΤΑ"
+  },
+  "HT_Text_FE_Menu_HighQuality": {
+    "message": "ΥΨΗΛΗ ΠΟΙΟΤΗΤΑ"
+  },
+  "HT_Text_FE_Menu_CursedQuality": {
+    "message": "ΚΑΤΑΡΑΜΕΝΗ ΠΟΙΟΤΗΤΑ"
+  },
+  "HT_Text_FE_Menu_CharacterShading": {
+    "message": "ΣΚΙΑΣΗ ΧΑΡΑΚΤΗΡΩΝ"
+  },
+  "HT_Text_FE_Menu_CharacterShading_NewSelfShadows": {
+    "message": "ΜΟΝΤΕΡΝΑ, ΜΕ ΣΚΙΕΣ"
+  },
+  "HT_Text_FE_Menu_CharacterShading_NewNoSelfShadows": {
+    "message": "ΜΟΝΤΕΡΝΑ, ΧΩΡΙΣ ΣΚΙΕΣ"
+  },
+  "HT_Text_FE_Menu_CharacterShading_Flat": {
+    "message": "ΕΠΙΠΕΔΗ"
+  },
+  "HT_Text_FE_Menu_Keybindings": {
+    "message": "ΑΝΑΘΕΣΗ ΚΟΥΜΠΙΩΝ"
+  },
+  "HT_Text_SwyInput_Mode_ThirdPerson": {
+    "message": "Παιχνίδι σε Τρίτο Πρόσωπο"
+  },
+  "HT_Text_SIAM_Sect_Common": {
+    "message": "Κοινές Ενέργειες"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovUp": {
+    "message": "Κίνηση (πάνω)"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovDown": {
+    "message": "Κίνηση (κάτω)"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovLeft": {
+    "message": "Κίνηση (αριστερά)"
+  },
+  "HT_Text_SwyInput_Action_PlayerMovRight": {
+    "message": "Κίνηση (δεξιά)"
+  },
+  "HT_Text_SwyInput_Action_PlayerJump": {
+    "message": "Άλμα"
+  },
+  "HT_Text_SwyInput_Action_PlayerDoContext": {
+    "message": "Ενέργεια Αλληλεπίδρασης"
+  },
+  "HT_Text_SwyInput_Action_PlayerPushThrow": {
+    "message": "Ώθηση/Ρίψη"
+  },
+  "HT_Text_SIAM_Sect_Sphinx": {
+    "message": "Κινήσεις του Σφιγξ"
+  },
+  "HT_Text_SwyInput_Action_HeroSwordAttack": {
+    "message": "Επίθεση με Ξίφος"
+  },
+  "HT_Text_SwyInput_Action_HeroShield": {
+    "message": "Ασπίδα"
+  },
+  "HT_Text_SwyInput_Action_HeroBlowpipe": {
+    "message": "Φυσοκάλαμο"
+  },
+  "HT_Text_SwyInput_Action_HeroReleaseCaptureBeetle": {
+    "message": "Απελευθέρωση Σκαθαριού Αιχμαλώτισης"
+  },
+  "HT_Text_SwyInput_Action_HeroSlimBurble": {
+    "message": "Απελευθέρωση Λεπτής Φουσκάλας"
+  },
+  "HT_Text_SwyInput_Action_HeroReleaseArmadillo": {
+    "message": "Απελευθέρωση Αρμαντίλλο"
+  },
+  "HT_Text_SwyInput_Action_HeroSwimSlow": {
+    "message": "Αργή Kολύμβηση"
+  },
+  "HT_Text_SwyInput_Action_HeroSwimFast": {
+    "message": "Γρήγορη Kολύμβηση"
+  },
+  "HT_Text_SwyInput_Action_HeroDive": {
+    "message": "Κατάδυση"
+  },
+  "HT_Text_SwyInput_Action_HeroDiveAttack": {
+    "message": "Υποθαλάσσια Επίθεση"
+  },
+  "HT_Text_SIAM_Sect_Mummy": {
+    "message": "Κινήσεις της Μούμιας"
+  },
+  "HT_Text_SwyInput_Action_MummyCrawl": {
+    "message": "Μπουσούλημα"
+  },
+  "HT_Text_SwyInput_Action_MummyInvisibility": {
+    "message": "Απόκρυψη"
+  },
+  "HT_Text_SwyInput_Action_MummySwapTripleMummyPrev": {
+    "message": "Προηγούμενη Τριπλή Μούμια"
+  },
+  "HT_Text_SwyInput_Action_MummySwapTripleMummyNext": {
+    "message": "Επόμενη Τριπλή Μούμια"
+  },
+  "HT_Text_SIAM_Sect_ItemRotator": {
+    "message": "Επιλογές Αντικειμένου στην Οθόνη"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorUp": {
+    "message": "Εναλλαγή Αντικειμένων (πάνω)"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorDown": {
+    "message": "Εναλλαγή Αντικειμένων (κάτω)"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorSelect": {
+    "message": "Εναλλαγή Αντικειμένων (επιλογή)"
+  },
+  "HT_Text_SwyInput_Action_ItemRotatorBack": {
+    "message": "Εναλλαγή Αντικειμένων (πίσω)"
+  },
+  "HT_Text_SIAM_Sect_Misc": {
+    "message": "Διάφορες Ενέργειες"
+  },
+  "HT_Text_SwyInput_Action_TogglePauseMenu": {
+    "message": "Άνοιγμα/Κλείσιμο Μενού Παύσης"
+  },
+  "HT_Text_SwyInput_Action_ToggleBookOfSphinx": {
+    "message": "Άνοιγμα/Κλείσιμο του Βιβλίου του Σφιγξ"
+  },
+  "HT_Text_SwyInput_Action_SkipCutscene": {
+    "message": "Παράλειψη Σκηνής"
+  },
+  "HT_Text_SwyInput_Action_CameraRecenter": {
+    "message": "Κεντράρισμα Κάμερας"
+  },
+  "HT_Text_SwyInput_Action_CameraFocusOnBoss": {
+    "message": "Εστίαση Κάμερας στον Αρχηγό"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovUp": {
+    "message": "Κάμερα Τρίτου Προσώπου (πάνω)"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovDown": {
+    "message": "Κάμερα Τρίτου Προσώπου (κάτω)"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovLeft": {
+    "message": "Κάμερα Τρίτου Προσώπου (αριστερά)"
+  },
+  "HT_Text_SwyInput_Action_ThirdPersonCameraMovRight": {
+    "message": "Κάμερα Τρίτου Προσώπου (δεξιά)"
+  },
+  "HT_Text_SwyInput_Mode_Blowpipe": {
+    "message": "Ενέργειες Φυσοκαλάμου"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovUp": {
+    "message": "Πρώτο Πρόσωπο (πάνω)"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovDown": {
+    "message": "Πρώτο Πρόσωπο (κάτω)"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovLeft": {
+    "message": "Πρώτο Πρόσωπο (αριστερά)"
+  },
+  "HT_Text_SwyInput_Action_FirstPersonBlowpipeMovRight": {
+    "message": "Πρώτο Πρόσωπο (δεξιά)"
+  },
+  "HT_Text_SwyInput_Action_HeroShootDart": {
+    "message": "Ρίψη Βέλους"
+  },
+  "HT_Text_SwyInput_Action_HeroBlowpipeCancel": {
+    "message": "Ακύρωση"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartStandard": {
+    "message": "Επιλογή Κανονικού Βέλους"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartAcid": {
+    "message": "Επιλογής Βέλους Οξέος"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartIce": {
+    "message": "Επιλογή Βέλους Πάγου"
+  },
+  "HT_Text_SwyInput_Action_HeroSelectDartBounce": {
+    "message": "Επιλογή Βέλους Αναπήδησης"
+  },
+  "HT_Text_SwyInput_Mode_Menu": {
+    "message": "Ενέργειες του Μενού"
+  },
+  "HT_Text_SwyInput_Action_MenuUp": {
+    "message": "Πάνω"
+  },
+  "HT_Text_SwyInput_Action_MenuDown": {
+    "message": "Κάτω"
+  },
+  "HT_Text_SwyInput_Action_MenuLeft": {
+    "message": "Αριστερά"
+  },
+  "HT_Text_SwyInput_Action_MenuRight": {
+    "message": "Δεξιά"
+  },
+  "HT_Text_SwyInput_Action_MenuEnter": {
+    "message": "Αποδοχή"
+  },
+  "HT_Text_SwyInput_Action_MenuBack": {
+    "message": "Πίσω"
+  },
+  "HT_Text_SwyInput_Action_MenuBookOfSphinxCycleLeft": {
+    "message": "Προηγούμενη Σελίδα"
+  },
+  "HT_Text_SwyInput_Action_MenuBookOfSphinxCycleRight": {
+    "message": "Επόμενη Σελίδα"
+  },
+  "HT_Text_FE_Menu_OptionsSubGameplay": {
+    "message": "ΕΠΙΛΟΓΕΣ=ΠΑΙΧΝΙΔΙΟΥ"
+  },
+  "HT_Text_FE_Menu_EnemyDamageMult": {
+    "message": "ΔΥΣΚΟΛΙΑ ΕΧΘΡΩΝ"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior": {
+    "message": "ΜΕΤΑ ΑΠΟ ΤΕΛΟΣ ΠΑΙΧΝΙΔΙΟΥ"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior_UnsavedCheckpoint": {
+    "message": "ΣΥΝΕΧΕΙΑ ΑΠΟ ΑΠΟΘΗΚΕΥΜΕΝΟ ΣΗΜΕΙΟ"
+  },
+  "HT_Text_FE_Menu_GameOverBehavior_ReloadSlot": {
+    "message": "ΕΠΑΝΑΦΟΡΤΩΣΗ ΑΠΟΘΗΚΕΥΜΕΝΟΥ ΠΑΙΧΝΙΔΙΟΥ"
+  },
+  "HT_Text_FE_Menu_GameOverBehaviorExplanation": {
+    "message": "Μετά το τέλος παιχνιδιού, μπορείς να επιλέξεις ανάμεσα στο (1) να συνεχίσεις από το πιο πρόσφατο αυτόματα αποθηκευμένο σημείο ή (2) να φορτώσεις το τελευταίο αποθηκευμένο παιχνίδι σε άγαλμα, όπως γινόταν στο αρχικό παιχνίδι. Η δεύτερη επιλογή διαγράφει οποιαδήποτε πρόσφατη και μη αποθηκευμένη πρόοδο και χρειάζεται καλύτερη στρατηγική χειροκίνητης αποθήκευσης, προσθέτοντας ένα επιπλέον στοιχείο δυσκολίας που κάποιοι παίκτες προτιμούν"
   }
 }

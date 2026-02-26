@@ -78,7 +78,7 @@
     "message": "<EFF><EPO>Ei Sphinx! Aqui em cima! Vem logo, precisamos correr!<P> Vou precisar da sua ajuda aqui em cima<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb02": {
-    "message": "<EFF><EPO>Pule contra a parede e use <SB HT_PadAction_PLR_MovePlr> para escalar para cima, baixo, esquerda e direita.<P>Para escalar devagar, mova <SB HT_PadAction_PLR_MovePlr> levemente.<E>"
+    "message": "<EFF><EPO>Just jump against the wall and use <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr> to climb up, down, left and right.<P>To climb slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb03": {
     "message": "É bom que fique de olho nas aranhas; elas podem te dar uma picada desagradável se não tomar cuidado!<E>"
@@ -87,7 +87,7 @@
     "message": "Por aqui! Use as grades para atravessar a fenda.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
-    "message": "<EFF><EPO>Pule e segure nas grades, então use <SB HT_PadAction_PLR_MovePlr> para mover para a esquerda e direita.<P>Para atravessar devagar, mova <SB HT_PadAction_PLR_MovePlr> levemente.<E>"
+    "message": "<EFF><EPO>Jump and grab the railing, then use <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr> to move left and right.<P>To cross slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
     "message": "Aperte <SB HT_Action_Drop> para soltar a grade, mas tenha certeza que atravessou a fenda com segurança antes!<E>"

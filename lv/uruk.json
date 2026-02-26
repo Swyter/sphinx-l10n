@@ -78,7 +78,7 @@
     "message": "<EFF><EPO>Hei Sfinks! Šeit augšā! Nu taču, mums ir jāsteidzas!<P> Man te vajadzēs tavu palīdzību<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb02": {
-    "message": "<EFF><EPO>Vienkārši lec pret sienu un izmanto <SB HT_PadAction_PLR_MovePlr> lai rāptos augšā, lejā, pa kreisi un pa labi.<P>Lai rāptos lēnām, viegli pakustini <SB HT_PadAction_PLR_MovePlr>.<E>"
+    "message": "<EFF><EPO>Just jump against the wall and use <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr> to climb up, down, left and right.<P>To climb slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb03": {
     "message": "Pievērs uzmanību zirnekļiem; tie spētu iedot riebīgu kodienu ja tu neesi uzmanīgs!<E>"
@@ -87,7 +87,7 @@
     "message": "Skaties šeit! Izmanto margas lai tiktu pāri spraugai.<E> "
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
-    "message": "<EFF><EPO>Lec un paķer margas, tad izmanto <SB HT_PadAction_PLR_MovePlr> lai kustēties pa kreisi un pa labi.<P>Lai šķērsotu lēnām, viegli pakustini <SB HT_PadAction_PLR_MovePlr>.<E>"
+    "message": "<EFF><EPO>Jump and grab the railing, then use <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr> to move left and right.<P>To cross slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
     "message": "Uzspied <SB HT_Action_Drop> lai atlaistu margas, bet pārliecinies, ka esi droši šķērsojis spraugu!<E>"

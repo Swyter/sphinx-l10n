@@ -78,7 +78,7 @@
     "message": "<EFF><EPO>Эй, Сфинкс! Наверх! Живее, нам нужно торопиться!<P> Мне пригодится твоя помощь здесь, наверху.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb02": {
-    "message": "<EFF><EPO>Просто прыгни на стену и используй <SB HT_PadAction_PLR_MovePlr>, чтобы лезть вверх, вниз, влево или вправо.<P>Чтобы лезть медленно, слегка отклоняй <SB HT_PadAction_PLR_MovePlr>.<E>"
+    "message": "<EFF><EPO>Просто прыгни на стену и используй <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr>, чтобы карабкаться вверх, вниз, влево и вправо.<P>Чтобы карабкаться медленно, лишь слегка отклоняй <SB HT_PadAction_PLR_MovePlr>.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb03": {
     "message": "Только берегись тех пауков; они могут больно укусить, если будешь неосторожен!<E>"
@@ -87,7 +87,7 @@
     "message": "Сюда! Используй перила, чтобы перебраться через расщелину.<E> "
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
-    "message": "<EFF><EPO>Прыгни и ухватись за перила, затем используй <SB HT_PadAction_PLR_MovePlr>, чтобы двигаться влево или вправо.<P>Чтобы двигаться медленно, слегка отклоняй <SB HT_PadAction_PLR_MovePlr>.<E>"
+    "message": "<EFF><EPO>Прыгни и ухватись за перила, затем используй <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr>, чтобы перемещаться влево и вправо.<P>Чтобы двигаться медленно, лишь слегка отклоняй <SB HT_PadAction_PLR_MovePlr>.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
     "message": "Нажми <SB HT_Action_Drop>, чтобы отпустить перила, но сперва убедись, что ты благополучно перебрался!<E>"

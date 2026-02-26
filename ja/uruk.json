@@ -78,7 +78,7 @@
     "message": "<EFF><EPO>Hey Sphinx! Up here! Come on, we must hurry!<P> I'm going to need your help up here<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb02": {
-    "message": "<EFF><EPO>Just jump against the wall and use <SB HT_PadAction_PLR_MovePlr> to climb up, down, left and right.<P>To climb slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<E>"
+    "message": "<EFF><EPO>Just jump against the wall and use <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr> to climb up, down, left and right.<P>To climb slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb03": {
     "message": "Watch out for those spiders though; they could give you a nasty bite if you're not careful!<E>"
@@ -87,7 +87,7 @@
     "message": "Over here! Use the railing to cross the gap.<E> "
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
-    "message": "<EFF><EPO>Jump and grab the railing, then use <SB HT_PadAction_PLR_MovePlr> to move left and right.<P>To cross slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<E>"
+    "message": "<EFF><EPO>Jump and grab the railing, then use <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr> to move left and right.<P>To cross slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
     "message": "Press <SB HT_Action_Drop> to let go of the rail, but make sure you are safely across the gap first!<E>"

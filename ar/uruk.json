@@ -78,7 +78,7 @@
     "message": "<EFF><EPO>يا سفينكس! هنا في الأعلى! تعال، علينا أن نسرع!<P> سأحتاج مساعدتك هنا<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb02": {
-    "message": "<EFF><EPO>اقفز على الحائط واستخدم <SB HT_PadAction_PLR_MovePlr> للصعود لأعلى وللنزول والتحرك يمينًا وشمالًا.<P> وللصعود على مهل، حرّك <SB HT_PadAction_PLR_MovePlr> وريدًا رويدًا.<E>"
+    "message": "<EFF><EPO>Just jump against the wall and use <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr> to climb up, down, left and right.<P>To climb slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_Climb03": {
     "message": "وحذاري من تلك العناكب؛ فلدغتها قد تكون مميتة فاحترس منها!<E>"
@@ -87,7 +87,7 @@
     "message": "هنا! استعمل السكة لعبور الفجوة.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang01a": {
-    "message": "اقفز وامسك السكة، ثم استعمل <SB HT_PadAction_PLR_MovePlr> للتحرك يمينا ويسارًا.<P> وحرّك <SB HT_PadAction_PLR_MovePlr> رويدًا رويدًا، لتعبر على مهل.<E>"
+    "message": "<EFF><EPO>Jump and grab the railing, then use <ES HT_Text_ES_S_HelpText><ES HT_Text_ES_E_HelpText><SB HT_PadAction_PLR_MovePlr> to move left and right.<P>To cross slowly, move <SB HT_PadAction_PLR_MovePlr> lightly.<E>"
   },
   "HT_Text_Urk_Intro_HorusHD54_LedgeHang02": {
     "message": "اضغط <SB HT_Action_Drop> لترك السكة، ولكن تأكد من عبورك الفجوة بأمان قبل تركها!<E>"
