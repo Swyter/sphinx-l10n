@@ -13,10 +13,8 @@ _fold_final_
 
 
 _fold_start_ '[Deploying Steam Workshop build]'
-
-    CONT_FLDR='Sphinx with extra languages'
-
-    mkdir -p _tmp && cd _tmp && cp -r ../_mod/Sphinx/Binary/_bin_PC "$CONT_FLDR"
+    mkdir -p _steamcmd && cd _steamcmd
+    CONT_FLDR='../_mod/Sphinx/Binary/_bin_PC'
 
     echo '"workshopitem"                           '   > workshop_entry.vdf
     echo '{                                        '  >> workshop_entry.vdf
@@ -28,14 +26,14 @@ _fold_start_ '[Deploying Steam Workshop build]'
     echo '}                                        '  >> workshop_entry.vdf
     echo "[i] downloading and launching the Steam client..."
 
-    curl --fail -LOJs 'https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz' && tar xvf steamcmd_linux.tar.gz
+    curl --fail -LOJs 'https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip' && unzip steamcmd.zip
 
     if [ -z $steam_ac ]; then read -p "Enter your Steam account name: " steam_ac; clear; fi
     if [ -z $steam_tk ]; then read -p "Enter your Steam password: "     steam_tk; clear; fi
 
 
     # do the actual submission using this (totally stable) work of art
-    ./steamcmd.sh +login "$steam_ac" "$steam_tk" +workshop_build_item workshop_entry.vdf +quit | tee workshop.log
+    ./steamcmd.exe +login "$steam_ac" "$steam_tk" +workshop_build_item workshop_entry.vdf +quit | tee workshop.log
 
     # fail the build if things didn't go as expected
     grep --no-messages 'Success.' workshop.log || exit 1;
